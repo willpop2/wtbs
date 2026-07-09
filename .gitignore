@@ -8,6 +8,7 @@ __pycache__/
 
 # Editor / local tooling
 .claude/
+worker/.wrangler/
 
 # Audio (huge, hosted on the podcast CDN — not needed in the repo)
 audio/
