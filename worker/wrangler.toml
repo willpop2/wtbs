@@ -2,11 +2,11 @@ name = "wtbs-suggest"
 main = "suggest-worker.js"
 compatibility_date = "2024-11-01"
 
-# Public (non-secret) config — edit these to your values.
+# Public (non-secret) config.
 [vars]
-MAIL_TO = "you@example.com"                 # where the daily digest is sent
-MAIL_FROM = "wtbs@your-verified-domain.com" # a Resend-verified sender address
-ALLOW_ORIGIN = "https://YOUR-SITE.pages.dev"
+MAIL_TO = "wilson.price@gmail.com"          # where the daily digest is sent
+MAIL_FROM = "onboarding@resend.dev"         # Resend test sender (to your own inbox)
+ALLOW_ORIGIN = "https://willpop2.github.io" # GitHub Pages origin (scheme+host only)
 
 # Daily digest time — cron is in UTC. "0 14 * * *" = 14:00 UTC (~9am ET / 6am PT).
 [triggers]
@@ -17,6 +17,6 @@ crons = ["0 14 * * *"]
 # then paste the printed id below.
 [[kv_namespaces]]
 binding = "SUGGESTIONS"
-id = "PASTE_KV_NAMESPACE_ID_HERE"
+id = "0dea830aaffa4483ba59bf66a23db2ed"
 
 # RESEND_API_KEY is a SECRET — set it with:  wrangler secret put RESEND_API_KEY

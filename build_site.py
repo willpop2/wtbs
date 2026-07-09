@@ -27,7 +27,9 @@ FINAL = ROOT / "transcripts" / "final"
 RAW_ASR = ROOT / "transcripts" / "raw"
 IMAGES = ROOT / "images"
 FEED = ROOT / "scratch_feed.xml"
-SUGGEST_ENDPOINT = os.environ.get("WTBS_SUGGEST_ENDPOINT", "")
+# Deployed suggestion Worker (public URL, not a secret). Override with the env var.
+SUGGEST_ENDPOINT = os.environ.get(
+    "WTBS_SUGGEST_ENDPOINT", "https://wtbs-suggest.willpop2.workers.dev")
 
 # Show-wide handles (real, from the brief).
 SHOW = {
