@@ -1,0 +1,457 @@
+Will: Hello and welcome, everyone, to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Melissa Wiederrecht, a generative artist you've probably come to know over the last year -- 2022 was a very big year for Melissa. We're super excited to have her on the podcast today. Trinity is here too, of course. How's it going, everybody?
+
+Trinity: I'll throw that over to you, Melissa, first. Everybody knows I'm doing great.
+
+Melissa Wiederrecht: As always.
+
+Will: Melissa, it's so awesome to have you on the show today. Your name comes up a lot on our program and on other podcasts that cover generative art on Tezos and Ethereum. We feel like we know you through your art, but not so much through your voice. So why don't you start with an introduction -- your history in art, coding, crypto, how you came to fx(hash), your general background.
+
+Trinity: Have you ever played Magic: The Gathering?
+
+Will: Oh yeah.
+
+Trinity: I think that's become our new icebreaker.
+
+Melissa Wiederrecht: No, I haven't. Every time you guys start talking about it, I'm like, what the heck are they talking about? I've concluded it's a card game. That's all I've got.
+
+Trinity: You got it in one. We've just been noticing a correlation between people in this community and people who played Magic at some point in their lives. If you're not in that Venn diagram, that's okay -- there are more Venn diagrams out there. What was your question, Will?
+
+Will: The introduction, before you sidetracked it. What is your Venn diagram, Melissa? Can you tell us about yourself and your history?
+
+Melissa Wiederrecht: My Venn diagram is completely art and coding, and where they come together. I taught myself coding when I was about 12. My parents got our first computer at home when I was 10, and I became really fascinated -- I don't even know how it got in my head, but I decided I really wanted to learn how to code. So I went to the local library, got a book on HTML, went all the way through it, and started coding little websites. Then I decided I needed to learn JavaScript, but I didn't have any books on that and we didn't have internet yet, so I got a book on Visual Basic instead and went through that. Then I realized you could somehow use Visual Basic with HTML on a website -- so here's little 12-year-old me in a small town in Wyoming trying to figure this out. I went up to a church elder one day because apparently he had experience with computers, and asked him how you use that kind of coding with HTML. He just looked at me like, what is this weird little girl asking me about?
+
+Trinity: What is Visual Basic?
+
+Melissa Wiederrecht: Exactly -- why is she asking me about coding, she's so weird. I've always been kind of obsessed with coding. And I always loved art too -- I took all the art classes, painting and drawing, and at home I played with Photoshop all day. At 14 I got a job as a web designer and kept it all the way through high school. There I learned a bit of Flash. My boss was super cool -- her mindset was that if I didn't have something important going on, I should sit and learn. So I picked up books, and at one point I came across a book called *Flash Math Creativity*. Do you know that feeling when you discover something and think, this is perfectly it, this is what I want to do, I'm on fire and the world better watch out? That was me.
+
+Trinity: So what is *Flash Math Creativity*, for us losers who spent our teenage years playing Magic: The Gathering?
+
+Melissa Wiederrecht: It's basically an old version of generative art -- teaching you how to make things move on sine waves, different ways to code things that look cool in Flash. Generative art back in the day. I didn't understand much of it then -- I hadn't even had trig yet in high school -- so I found it exciting but confusing. I played with it for a while, but then I went off to university and studied computer science and math, and actually left art behind entirely for a while. No good reason, no logic behind it, and I kind of regret it -- I should have taken art classes in college, but I didn't. I got a bachelor's in computer science and math, then jumped straight into a PhD in computer science with an NSF graduate research fellowship. I was doing cool research.
+
+Trinity: What were you researching?
+
+Melissa Wiederrecht: Let me see if I can even remember how to explain it -- spoiler alert, I never finished.
+
+Trinity: Yet.
+
+Melissa Wiederrecht: Yeah, yet, maybe. I wanted to make educational apps to teach kids using artificial intelligence -- they called it intelligent tutoring systems. The system would follow along with what you're doing, understand what you know, and give you tasks pitched exactly at your level.
+
+Trinity: Basically keeping you in that flow state -- not too hard, not too easy.
+
+Melissa Wiederrecht: I got really into the idea, but when it came down to actually sitting and doing the research, I was like, meh. They also wanted me to go talk to people -- take a bunch of iPads and run studies with actual kids in actual schools -- and I thought, oh dear, wait a minute. What I did get really into was the part where I was making a puzzle game as my research vehicle: chopping up images in a generative fashion to make a puzzle that was different every time. A generative puzzle. I got so excited about that part, but frustrated because they wanted me to do the actual research and I just wanted to make a pretty puzzle. I thought, I don't know if this is for me. Around then my family and I decided to move to Saudi Arabia, and that settled it -- I didn't want to become a professor or keep doing research, I just wanted to make things I wanted to make. So I took a master's degree, presented what I'd done so far, and that was that.
+
+We moved to Saudi Arabia, and as soon as I was out of college I started working on generative art again. My first stuff is on an Instagram account called Ninja Code Artist -- a different account from my current one, full of animations and things.
+
+Trinity: Frantically searching on Instagram.
+
+Will: What year would you say this was?
+
+Melissa Wiederrecht: We moved in 2015, but I didn't have a good computer or internet for about a year, and I was just learning how to live in a foreign country -- tough year, so I didn't make much. It must have been 2016, because 2017 is when I started making Skillshare classes. I figured there had to be some way to make money with generative art, and I was going to figure out what it was. I hope nobody ever goes to look at those classes -- I'm really embarrassed. My art wasn't very good back then.
+
+Will: Were you at least successful in making money? It seems like it was very difficult to make a career of generative art before NFTs and crypto.
+
+Melissa Wiederrecht: I made a bit -- never a lot from the classes. If I'd stuck with it harder I'm sure I could have done better, but making videos was really hard for me. I was so perfectionistic about it, so stressful, it would take me months just to get myself to make one. Not a good fit for me, but I made a bit.
+
+Trinity: Thank goodness for NFTs, is what I'm hearing.
+
+Melissa Wiederrecht: We're not even there yet -- there's another long stint before that. During my Skillshare years I discovered surface pattern design, which turned out to be a really interesting fit for generative art, though I didn't know it at first. A surface pattern is normally a square image that tiles seamlessly next to itself, so you can cover a whole surface with it.
+
+Trinity: Wallpaper, for example.
+
+Melissa Wiederrecht: Wallpaper, sheets, clothing.
+
+Trinity: Print design.
+
+Melissa Wiederrecht: Exactly. I made a bunch by hand-drawing, then quickly started figuring out how to code it. I learned you could sell these on microstock sites -- Shutterstock, Adobe Stock, all of them, I'm on about ten. The funny thing is you have to make a huge volume of work to do well, so I thought, I must automate this. That's when I started using generative art to automate it.
+
+Trinity: My wife works in fashion, and when we talk about machine learning and AI -- not just generative art -- it's the same idea: being able to create a huge volume of things very quickly, which puts traditional print designers out of business because you can iterate so much more efficiently.
+
+Melissa Wiederrecht: AI would put surface pattern designers -- including generative ones -- right off the map, I'm sure. It still takes time to put together generative surface patterns, but the AI is probably very well trained on my work by now. I have 33,000 patterns out there on Shutterstock. They're definitely training their models on that.
+
+Trinity: So 33,000 created over the course of how long?
+
+Melissa Wiederrecht: I started February 2019 and quit around February 2022 -- about three years.
+
+Trinity: So roughly 11,000 a year?
+
+Melissa Wiederrecht: Most of it came at the end, since I got faster and faster. The first year I think I made around $3,000, but then I got my system really, really good -- basically making long-form collections of generative surface patterns. I made enough to pay for my online subscriptions and get myself a nice computer. Nice, but I wouldn't have lived off it. Looking back, that period of making all that work was really important in my development, both as a generative artist and in developing my taste as an artist.
+
+Trinity: How so? I guess that was technically your first foray back into art since high school.
+
+Melissa Wiederrecht: Right. As I said, during my Skillshare years my art wasn't very good. It just takes time to develop taste -- you have to make a lot of things, I think, before taste comes automatically. People who come into generative art with an art or graphic design background have a huge leg up on everyone else. Someone like Studio Yorktown, for example, has serious experience on the art side and just has to learn to code and hack it together -- they're going to do really well. But if you come at it from a computer science background, it's a lot harder; you really need to study art and make a lot of stuff.
+
+Trinity: So the idea is to have a bit of both, and you get the best of both worlds.
+
+Melissa Wiederrecht: Yeah, of course.
+
+Will: After working with the patterns for so long, what pushed you into NFTs? We saw you release quite a few projects close together on fx(hash) before your Art Blocks release, and we assumed those must have been things you'd been working on for a while already. So what pushed you into NFTs, and how did you come to Tezos?
+
+Melissa Wiederrecht: The beginning of that story, we actually need to back up to 2019, because Snowfro — who introduced himself as Erik Calderon — emailed me after seeing some of my generative patterns on Reddit. They were terrazzo patterns, and since he has a tile business, he was thinking these crazy ideas about terrazzo patterns and tiles. He reached out and said, "This is so cool, I love your art." In that email conversation, he mentioned he was trying to put together this thing called Art Blocks — it was going to be on the blockchain, use hashes to uniquely identify a piece, and so on. I was like, "That's really cool." He said, "Do you want to know more?" I said sure. Step one: install MetaMask. And I thought, "No, I don't think I'm ready for that." I didn't know what that was, it sounded scary, and I didn't know him. So I said no, I'm not ready for that right now. That was it — I didn't hear from him again.
+
+Trinity: Stranger danger. Congratulations for not getting scammed.
+
+Will: Was your fear that it was a scam, or that you'd get hacked somehow?
+
+Melissa Wiederrecht: I just didn't know. How would I know he wasn't a scam?
+
+Trinity: To be fair, it took Will about a year to convince me to get a crypto wallet, and I know him.
+
+Melissa Wiederrecht: So I understand completely.
+
+When I got into surface pattern design, I stopped posting on social media — it totally doesn't help with microstock to have a social presence, so what was the point? I disconnected from the generative art community entirely and had no idea what was going on until November 2021. You know how you scroll through Google and it gives you article recommendations? I was scrolling one night and this article came up along the lines of "generative artists are making millions on Art Blocks." This was one of those hello-world, wait-for-me moments in my life — same as when I first found the FlashMath Creativity book. I got really excited, though I didn't realize yet it was the same thing Erik had reached out to me about years earlier. I started thinking of projects and posting stuff in the Art Blocks Discord — they have a channel, AV-only project share, where you throw in whatever you're working on that you might want to put on Art Blocks. I did that for a couple months while also learning shaders and JavaScript. I'd used JavaScript a little before, but never for creative coding.
+
+Trinity: So you were basically learning p5, I guess?
+
+Melissa Wiederrecht: I was learning p5 and shaders from scratch. Then in February, I spent a couple weeks back in America with my mom, without my kids, so I had some extra time — it was because my dad was dying, actually because he died from cancer. But while I was there I had that extra time since my kids weren't with me, and that's when I learned shaders. It became the thing that distracted me from what was going on, and I got really into it. As soon as I came back, badly jet-lagged, I woke up one night at 2 a.m. with this picture in my mind of a calligraphy line going from top to bottom on a canvas that had water spilled on it. I got up and coded the first version in about two hours. That was the first version of *Sudfa*.
+
+I forgot to mention — while I was in America those couple weeks, I realized Art Blocks was Erik Calderon, the same person who'd reached out to me years before. As soon as I got back, I messaged him, and he loved my work and remembered me. That was the start of it. I got into the application system, got approved, and spent months trying to get the project out and perfected. It was so hard. By May I was so frustrated and tired — I think I was waiting on the curation board — that I just wanted to release something. I don't remember how I discovered fx(hash), but that's when I decided to just do that instead. I pulled up the template, figured out how to do similar stuff there, and coded up *Untitled* in a couple hours and put it up.
+
+Trinity: I think you were competing with the likes of Punevyr and *Punevyr's Face*, which he also did really quickly and put up. But on artistic merit, for a rapidly done first project, I think you might win — no offense to Punevyr.
+
+Melissa Wiederrecht: Like you guys said, you thought I might've had a bunch of projects sitting in reserve. I didn't. Everything I've made, I've made brand new, except *Orbs* — I had a previous version, but I remade it completely from scratch.
+
+Trinity: That was the question, because when you first released *Untitled*, and maybe around the time of *Marble Opulence*, I visited your website and saw *Orbs* already there. If you'd redone it, that makes sense.
+
+Melissa Wiederrecht: For my first version, I put up some of my old surface pattern stuff because I just needed more content there. I have a lot of stuff that's not on my website — I took some of it down recently.
+
+Will: Can I ask about *Untitled*? That was your first piece that we all became aware of — I think we covered it a little on the show, actually.
+
+Trinity: Yeah, we definitely did.
+
+Melissa Wiederrecht: Did we? I never heard that.
+
+Will: It might've been before we were tagging artists on Twitter every time we mentioned them. But in my memory, Artnome and TheFunnyGuys and a couple other major collectors gravitated toward it immediately and started talking about it on social media. What was your expectation when you put it up, and were you surprised that such major influencers came to it so quickly?
+
+Melissa Wiederrecht: I was completely shocked, had no idea that was going to happen. It was super weird, but I have a suspicion — Artnome was on the curation board at Art Blocks, so maybe he saw my name and recognized it. He went in right away and bought three mints, and about two minutes after it opened he was already tweeting, "I don't know why people aren't buying more of this." And of course, because he said so, they did. I got super lucky — thank you, Artnome. Whoever else came in probably heard about it from him too.
+
+Trinity: This was the first NFT you ever released?
+
+Melissa Wiederrecht: Yeah.
+
+Trinity: Selling out at 200 editions, 10 tez — more profitable than surface pattern design?
+
+Melissa Wiederrecht: That was gutsy, I didn't even realize it at the time. I'm happy, grateful.
+
+Trinity: Awesome and well deserved — probably a great first taste of what selling out a project can do.
+
+Melissa Wiederrecht: Totally. I made about twice the money from that one day than I'd made in two months doing surface pattern design.
+
+Trinity: So when *Marble Opulence* came out six days later, you figured the system out?
+
+Melissa Wiederrecht: I wouldn't say I figured it out — I tried to do 512 editions that time, and obviously I didn't know what I was doing. I remember, Will, you texted me on Twitter after I burned it, asking if that was intentional, as if I had some brilliant plan. No — I was just filling things out, looking around at other projects, noticing that was probably too big to work, and burned it.
+
+Will: It came as a surprise — you never know what the artist's intention was when something like that gets burned. Was that project made basically in the week between releases?
+
+Melissa Wiederrecht: Oh yeah, I just took the *Untitled* code, switched it around, added lines behind it, sorted it, and when I liked it, I was done. I stuck it up.
+
+Will: Clearly your process has changed — you're not releasing things in a week anymore. At what point did you slow down and start dialing in your projects, figuring out what it takes to do a 512-edition project? What was that transition?
+
+Trinity: Which, to be fair, you still haven't done since.
+
+Melissa Wiederrecht: Yeah, I've never done anything bigger than 400. I don't think there was one specific transition point — I'm constantly watching, learning, and listening to you guys, seeing what happens. After *Sudfa*, and then *Solitude* and *Spaghetti*, I started getting more requests from a lot of different people for different things, and I realized I needed to slow down, plan ahead, and be more conscious of what I was doing.
+
+Trinity: Maybe that's a good time to go back to the release of *Sudfa*, since you'd been working on it for so long, banging your head against the wall trying to get it right. I don't know much about Art Blocks's process — whether it's the curation board's expectations or the requirements for storing everything on-chain — but eventually you got there.
+
+Melissa Wiederrecht: The hardest thing for me was cross-browser compatibility — I spent months getting that right. That, and it was coming in pixelated on Retina displays. So many little things like that. The Art Blocks crew is really good, though — they're on top of it with you, helping you dot every i and cross every t to make sure everything's perfect. I'd go in front of the curation board, get feedback, go edit everything again, go back to the curation board again — waiting and waiting. But they're great. It's really valuable for them to handhold you through it like that. Once your project has everything it needs to be compatible on all browsers and devices, it's so much easier.
+
+Will: Start to finish, how long was that project — six months, longer?
+
+Melissa Wiederrecht: I started in February and released at the end of June. It felt long. Horribly long.
+
+Will: Hurry up and wait — submit something, wait for feedback, make a change, resubmit, wait again. I can see how that'd be frustrating, but it didn't stop you from doing more with Art Blocks — you released another project as an Art Blocks Presents, non-curated: *Sandalia*.
+
+Melissa Wiederrecht: Yeah, it was actually a playground project at the time. After *Sudfa*, my family and I went to Sudan, and I was sitting there with nothing to do but my laptop. The first thing I did was think: I have this following on fx(hash), and I feel bad because most of those people can't afford to come to Art Blocks. So — fx(hash) people, I haven't forgotten you. That's when I sat down and made *Solitude* and released it, about two weeks after *Sudfa*. Around the same time, I started making *Sandalia*, just from an idea: I wanted to try making a directional blur that goes in a different direction for every pixel.
+
+Trinity: You're getting blank stares. Listeners can't see them, but yes.
+
+Melissa Wiederrecht: That was quite the look. If you've played in Photoshop with a directional blur — it looks like it's blurring in one direction, like a motion blur. If you blur in a single direction, as if you moved the camera while taking a picture, everything gets smudged in a straight line.
+
+Will: So everything's smudged to the left to create the impression of movement, or the opposite. Okay.
+
+Melissa Wiederrecht: So then I figured if every pixel could have a different direction based on Perlin noise, I just tried it and thought, "Woo, that's nice." I started posting it on Twitter and people were like, "Wow, that's amazing." I thought it was pretty cool too, so I presented it to Art Blocks and they said yes, they loved it. So that got into the system. But things take a while. So one day I was sitting there super bored with my laptop in Sudan, and I thought, I'm going to do a 12-hour speedrun. I've got nothing else to do, let's just do this. That's when I made *Spaghetti*.
+
+Will: That was a huge breakthrough piece on fx(hash), I feel like. That was the first time you introduced the brushstroke, painterly feel, and it hit right at the right time too — that's around when other artists were starting to experiment with color blending and creating that more painterly look. Where'd that idea come from, and where'd the name come from?
+
+Melissa Wiederrecht: I wasn't very intentional about it. I didn't even know other people were trying to do that. I was just playing around — I had my prompt with the diagonal line and the floral things. The diagonal line I thought was really easy. Then I was throwing texture on, the same texture I'd used on *Sandalia*, so I just copied it over. I was trying to make these drippy things and they looked horrible. Deleted those, and made these swirly things that started going out from the line, and I thought, "Oh, that's cool." Then I took the same blur I'd used on top of *Centellia* and stuck it on top of this project, just a little bit and in a few places, and it just looked really cool.
+
+As for the name — gosh, names are the worst thing ever. I was sitting there thinking and thinking, and it just came to me: it looks a little bit like spaghetti. But "spaghetti" by itself is boring, so I thought of bad pronunciations.
+
+Trinity: Spaghetti.
+
+Melissa Wiederrecht: Spaghetti.
+
+Trinity: There we go. I don't know if it's bad — it's fun.
+
+Melissa Wiederrecht: Cute.
+
+Trinity: And I'd say it's an improvement — not that there's anything wrong with a project being called *Untitled* or *Orbs*, but this hits a little differently. So what we're hearing is you should go to Sudan more often.
+
+Melissa Wiederrecht: Get really bored more often? Probably, yeah.
+
+Trinity: How was it releasing on fx(hash) after your Art Blocks piece? Beforehand there's the catharsis of releasing something, but Art Blocks Curated is the biggest deal of the biggest deals, at least in the generative art world. What was it like releasing on fx(hash) after that?
+
+Melissa Wiederrecht: It didn't feel really different. I just wasn't sure how it was going to go over.
+
+Will: As long as you're still enjoying it, we're happy for you to keep dropping work here.
+
+Trinity: We're much cooler.
+
+Melissa Wiederrecht: Something fx(hash) has that Art Blocks will never have, as far as I know, is the ability to just release stuff. That's important.
+
+Will: Is that what happened with *Take Wing*? You developed this new look with *Spaghetti* and wanted to further develop it, but didn't want to take the multiple months to go through the Art Blocks process, so you just put it out on fx(hash) again?
+
+Melissa Wiederrecht: No. What happened there is Vertical Crypto reached out to me to do an exhibition in Berlin. My mind is always working on some idea I want to make, and at that point I had the idea of going back and doing brushstrokes. I'd done brushstrokes before in surface pattern design — I have designs that are brushstrokes on a flow field, and some where I took photographs of flowers, threw them around, and used generative brushstrokes on them. So I already had that idea, wanting to play with brushstrokes again. When Vertical Crypto reached out, I just started playing with brushstrokes. I wasn't trying to build on *Spaghetti*. I feel like you guys think they're related — they're not really. They don't have hardly anything in common.
+
+Will: I think we just assumed because the two projects were about six or seven weeks apart. From our perspective, not knowing everything going on in the background, we saw one piece doing more of a digital paint thing and then another similar one. So that was just an assumption.
+
+Trinity: I think maybe it's also that, especially with *Take Wing*, *Spaghetti*, and to an extent *Orbs*, there's this richness in the colors you use that feels like it's growing upon itself, if that makes sense. There's a connection through the quality of color. I don't know if that's just the shaders talking.
+
+Melissa Wiederrecht: No, I think that's just because every time I'm working on a project, I take the old project, delete a bunch of stuff, and add a bunch of stuff. Same with colors — for all I know, I haven't even checked, but there are probably some colors in there from *Untitled*, and a lot that aren't. I'm constantly changing my palettes between projects. For example, there's a green in *Take Wing* that shouldn't have been there, so I took it out. It's no longer there, and you shall never see it again.
+
+Trinity: Duly noted.
+
+Will: Maybe that speaks to your personal tastes and influences. You mentioned having both a coding background and an art background — how do you think about your taste, the direction of your work, and things like color?
+
+Melissa Wiederrecht: That's a really hard question. I know my inspirations. I'm really inspired by abstract art. There's this painting on my wall that I absolutely love — I bought it at a local furniture store for like $60, by Scott Naismith. I don't even know the name of it. It's so colorful and abstract, and blurred around the edges. I'm super inspired by this painting. I totally aspire to make something this beautiful one day.
+
+Trinity: You're definitely going in the right direction in terms of pulling in many colors. I can only see what's loading through Google Images right now, and vibrancy is the name of the game.
+
+Melissa Wiederrecht: Color is the most important thing to me. Color and texture. Any art has to have beautiful colors and probably beautiful textures for me to love it.
+
+Will: I've seen a print of his that actually reminds me a lot of *Take Wing*, just in terms of the brushstroke. I can definitely see the influence.
+
+Trinity: It also has a cosmic rays vibe.
+
+Melissa Wiederrecht: It's called *Warmth Emanates*. That's the one.
+
+Will: It really has some thick acrylic application on it too. Lots of texture.
+
+Melissa Wiederrecht: The blur around the edges plus the texture — it's not just a blur, it's super textured. I just love that. As far as generative artists, I was super inspired by Tyler Hobbs, because back when I was starting to learn creative coding, all I knew is you could draw a line. But Tyler was making brushstrokes that looked like calligraphy and all sorts of amazing things. And he had great color taste. I thought, wow, this is really good.
+
+Trinity: Do you have any favorite Tyler Hobbs pieces?
+
+Melissa Wiederrecht: I don't even know the names of them, but mostly his older stuff. His NFT work is really good, but I'm really inspired by the older pieces. There's one that looks very much like abstract expressionist lines thrown everywhere — I can't remember the name. But his stuff is just so good, fresh strokes and color, super inspiring. Another major influence is Jared Tarbell.
+
+Trinity: You mentioned him in your Art Blocks Curated interview.
+
+Melissa Wiederrecht: Even back in high school, when I was playing with generative art, I found his stuff and was so impressed. My favorite is called *Sand Stroke*, and there's another one, *Intersection Aggregate*. On *Sand Stroke*, I just love the blurriness.
+
+Will: It looks generative. I don't know if it is, but it looks like—
+
+Melissa Wiederrecht: It is generative.
+
+Will: Okay, amazing.
+
+Melissa Wiederrecht: I think it looks not generative.
+
+Trinity: It's hard to tell. I thought this was not generative, but it looks like it could have been — if you know what I mean, not the other way around.
+
+Will: Anything I see that's a lot of repeated boxes like this, I assume generative, but I wasn't sure if this was someone who'd come up with that style before it became common.
+
+Melissa Wiederrecht: These days, y'all have seen really good generative art.
+
+Trinity: We're spoiled.
+
+Melissa Wiederrecht: When I first saw this, it was mind-blowing.
+
+Will: Those are some good names for us to research further. Looking at Jared Tarbell here, I'm seeing a lot of cross-references with Artnome, so I assume he's written about this artist in the past.
+
+Melissa Wiederrecht: Probably.
+
+Trinity: There's one more project I'd like to discuss — I believe your first and only one-of-one to date, on SuperRare, *Both Be Both*. It's super different from everything else you've released on other platforms. And I'm getting a 404 when I click the link right now.
+
+Will: Yeah, same.
+
+Trinity: Let's talk about *Both Be Both*, that return to animated work, very different from everything else you've put out elsewhere. It was a huge auction.
+
+Melissa Wiederrecht: First of all, I have done one-of-ones before — I throw up stuff randomly on OBJKT without announcement. Not too often, not too rarely, but I don't like to announce it. I hate to be like, "Oh, look everybody, come buy this one-of-one." So I just don't announce it.
+
+Trinity: What made you go back to animated work, which I guess you hadn't done since your youth?
+
+Melissa Wiederrecht: I made a lot of it back around 2017 on that Ninja Code Artist account — a lot of animations. But yeah, *Both Be Both* was my first animated NFT. I think it was the January prompt, an infinite loop, that made me do it again. I also figured releasing an animated piece is super rare for me, so I thought it would be special to put it on SuperRare. That's probably what I'll do for a lot of one-of-ones and special single pieces going forward.
+
+Trinity: That was also an auctioned piece. Auctions always feel a little risky because literally anything could happen. How did it feel watching that auction go and eventually end?
+
+Melissa Wiederrecht: It was shockingly amazing. I really don't know what else to say.
+
+Will: "Shockingly amazing" might just be the theme of 2022 for you.
+
+Trinity: That's true.
+
+Will: Between two Art Blocks releases, a bunch of successful fx(hash) releases, that SuperRare auction, and being asked to do all these different events — what was 2022 like for you? And how has that shaped how you're thinking about 2023? You've already said you've been asked to do so much. I can only imagine every major art fair with NFTs is reaching out. Can you encapsulate 2022 for us, and how you're approaching 2023?
+
+Melissa Wiederrecht: I'd say 2022 was completely winging it — super exciting and life-changing. 2023, I don't even know. I can't imagine where it's going, even though I'm literally scheduled out through July. It's crazy, because I'm a person who lives day by day, moment by moment, usually completely present right here in this moment. It's so weird to me that I even have a calendar, let alone one scheduled out through July.
+
+Trinity: And surface pattern design isn't on any single day in that calendar?
+
+Melissa Wiederrecht: I'd totally go back and do surface pattern design, but not for something like Shutterstock — if a company wants generative surface pattern designs and will respect that it's generative, I'm in.
+
+Trinity: I think it's also worth noting that in 2022, obviously you were working on projects before, but when it came to releasing, it started in May — halfway through the year. So it's like a short 2022 for you.
+
+Melissa Wiederrecht: Yeah, it's insanely fast. I don't even know — it's crazy. I'm still totally winging it. I don't know what I'm doing.
+
+Trinity: We live week by week and episode by episode, so we can relate. Speaking of your 2023 calendar, I think you have one of your first big events coming up shortly — slash now, slash as this interview is being released — and that's the Odyssey exhibition you're working on with Verse. In our own live timeline, your project just went up for exploration yesterday, and we've all been rapidly devouring *Cosmic Rays* and flipping through iterations.
+
+Will: People are saving seeds and getting ready to mint.
+
+Trinity: We'd love to hear more about the process behind this piece, since it's so topical right now.
+
+Melissa Wiederrecht: I've been grinning ever since the moment Jamie from Verse posted the video on Twitter of this print that's taller than the guy standing next to it. I can't stop grinning — it's so crazy. It looks like it's glowing. And once they posted the algorithm and everybody started playing with it, it got even more insane.
+
+Trinity: You've been making it for a long time. We're experiencing it for the first time, and we think it's insane.
+
+Will: What's the story behind this piece? What can you share with us about it?
+
+Melissa Wiederrecht: I got this idea to take the concept of *Take Wing* but make the brushstrokes smudge whatever was underneath them. I worked out the code for that and made thousands of variations — once you write the code, you can do it a thousand times. I don't come into my art with much intention, honestly.
+
+Trinity: It's emergent, perhaps.
+
+Melissa Wiederrecht: Yeah, I just play with stuff until I like it. The first versions looked way different — I had transparent rectangles thrown in, weird spaghetti-ish lines in blobby shapes. Super weird. I did like those early versions, but they looked nothing like this. Then one day, while working on it, I pulled over the same texture I'd used on *Sandalia*, *Spaghetti*, and *Take Wing*, and stuck it on top — but I accidentally copied the same canvas onto itself and overlaid it without realizing it. The effect was this huge jump in contrast. I thought the texture had done it. I was like, whoa, what is this? But instantly the image was way more powerful, and that's when the piece really started coming together.
+
+At some point I pulled in the lines — made them whitish on one side with a gradient, darkish on the other, so right in the middle, where the focal point is, you can barely see them at all. Sometimes they run left to right, sometimes top to bottom, and the white side switches accordingly. Then there are all these different types of lines meant to add depth and interest and lead the eye around the canvas.
+
+Trinity: There's something happening with this piece that, compared to your other work, almost makes it glow. I'm looking at it on my laptop right now, so everything glows anyway, but the brightness pops differently here.
+
+Melissa Wiederrecht: I'm kind of shocked by it myself. I didn't intend it, and I don't know exactly where it came from. I keep hitting that generate button going, whoa, that's cool. I'm in love with it.
+
+Trinity: I don't know if you're allowed to share this yet, but I personally have my fingers crossed for an open edition so I don't have to compete with everybody else for mints — it'll be my third-ever purchase on Ethereum. Anything you can tell us about the release?
+
+Melissa Wiederrecht: I can't say exactly, partly because we're still working it out, partly because we're feeling it out — seeing how everybody reacts and what they say.
+
+Will: Is an open edition even in the conversation? Since you're letting people save seeds, it's not a truly random outcome in the usual sense.
+
+Melissa Wiederrecht: I refuse to answer that question.
+
+Trinity: Okay. Gotcha. So it's not *not* on the table.
+
+Melissa Wiederrecht: I am not going to answer the question.
+
+Will: We've seen open editions before, and the big risk is when they're fully uncontrolled. But letting people pick and choose their outputs makes it a bit more like what Tyler Hobbs did with *QQL* — though that wasn't an open edition, it was $999 — or like what fx(hash) is going to allow once *fx(params)* launches in a couple weeks. Not that it's going to happen, obviously, but the context changes a lot when there's an ability to curate your output versus getting something truly random.
+
+Trinity: What's it like working with Jamie and everybody at Verse? Is it kind of a middle ground between Art Blocks and fx(hash)? They've done so many great exhibitions in just the last few weeks.
+
+Melissa Wiederrecht: It's completely different from any other place — super crazy cool, honestly. They're building and changing and making new stuff every single day. I'll say, "Hey, can we do this?" and they'll say, "Sure." Or, "Cool idea, let's do that" — and the next day it's ready on the website. Jamie will say, "What about this idea — how about we let people choose their seeds?" And I'll say yeah, and a couple weeks later it's ready. They're just getting started. It's going to go insane.
+
+Trinity: It's such a weird meld between the crypto world and the traditional art world — they're positioned as both, way more so than Art Blocks, I'd say.
+
+Melissa Wiederrecht: Yeah. They've got this amazing curator who worked at the Tate, among other things. And Jamie's just such an innovator — constantly thinking about interesting drop mechanics and new ways of doing things.
+
+Will: Super excited for that one. Whatever you end up deciding on price and edition size, we're all out here saving seeds hoping to get our hands on at least one. What else is coming up this year? You said you're booked out through July — that's half the year. Anything else you can talk about? More fx(hash) releases, or is it mostly going to be events, events, events?
+
+Melissa Wiederrecht: I really want to release something on fx(hash), but I don't know when I'll be able to yet.
+
+Trinity: Another speedrun?
+
+Melissa Wiederrecht: I've thought about it, but I feel like it'd be disrespectful to the important people I'm working with right now if I just did a speedrun. So I'm trying to be considerate. I've got a cool exhibition coming — you'll probably hear about it soon, can't say what it is yet — at the end of February and into March. Then I have Bright Moments in Tokyo in May. I've got some really cool ideas for that, haven't built it yet. There's also something in April I can't talk about yet.
+
+But I can tell you about July: the Generative Art Club. We all voted on exhibition ideas, then voted on who'd be included, then submitted those to Feral File — and one of them got accepted, which I'm part of. It's twelve artists you've probably all heard of, working together on a collaboration theme. Really fun. I've got a crazy idea for that too, haven't started building it, but I'm excited.
+
+Trinity: So twelve artists working on one piece, or twelve artists working on an exhibition?
+
+Melissa Wiederrecht: An exhibition — twelve pieces.
+
+Trinity: Okay, good, because twelve artists on one piece sounded chaotic. So you've got a whole bunch of things in the works that you can't talk to us about yet.
+
+Melissa Wiederrecht: Yeah, basically.
+
+Trinity: Can't wait to see them regardless. I think that covers your history in art and computer science, plus 2023. There's just one more question I wanted to ask. I'm not a big Twitter Spaces person — the one Space I listened to all of last year was about women in crypto art, not generative art specifically, but the broader crypto art community. It was a big panel, ten or fifteen people talking about their experiences, and I thought yours was the most interesting — even though you only spoke for about two minutes. The first thing you said was that you hear everyone else's experiences but don't necessarily relate to them. I think I also don't relate to a lot of other people's experiences, but maybe in different ways. Could you talk about that — how you've experienced being a woman, whether in computer science or art or otherwise? You were fourteen years old working as a web designer.
+
+Melissa Wiederrecht: I think I'm just kind of weird — pretty oblivious to most people and what they're doing. I've never been especially social; I'm quite an introvert, so I stick to myself and to what I'm working on. I've always loved computer science and art, and I just do what I want to do. That's applied all the way till now. I'm working on my art, and I honestly don't know what other people are going through as a woman. I haven't felt any bias. I haven't felt any weirdness about being a woman at all.
+
+At one point I did wish I'd come in anonymously — I wondered if that might have changed how my sales went, or how my work was valued. But I don't feel that way anymore, especially since my projects have really taken off recently.
+
+Trinity: You've kind of proven yourself at this point.
+
+Melissa Wiederrecht: I don't feel anything weird about being a woman. If anything, I feel like there are so few of us that whenever people are looking for a woman to include, they don't have many options. Everyone's trying to bring in more women, so we get chosen more often, for whatever that's worth.
+
+Trinity: That's something we talk about in the community — when people want to highlight women, they end up seeing a lot of the same faces, because there are so few of us. You might see someone new occasionally, but mostly it's like, "Oh, it's you again — hello, we've done this before." I guess part of it is also that it's such a deeply solo, online activity. You're just doing the work — it's a very digital-first experience.
+
+Melissa Wiederrecht: Which is perfect for me. I'm the type of person who likes being behind my computer screen — not very social, not trying to hang out with all the girls. Works out well for me.
+
+Trinity: So I take it you're not going to Bright Moments Tokyo in person?
+
+Melissa Wiederrecht: I don't know. I want to go, but I don't want to go. I want to go, but I don't know if I can make it work. I just don't know.
+
+Trinity: You should always say yes to things as a general rule, but you've got time to decide.
+
+Melissa Wiederrecht: Showing up in person is honestly going to be hard for me, but we'll see. I really wish I was in London right now, not going to lie — I want to see that print on the wall.
+
+Trinity: Jamie could just send it to you, then you can hang it on your own wall.
+
+Melissa Wiederrecht: I don't have any wall space big enough.
+
+Trinity: As we wrap up — we took a look through your collection, and it's very diverse. Is there anything in particular you like to collect, or artists you gravitate toward? I couldn't really define a pattern.
+
+Melissa Wiederrecht: It's mostly just, "ooh, I like these colors, must collect." I got really excited recently about a piece by the Gray Team.
+
+Trinity: Oh, *Moon, Sun, Ocean*.
+
+Melissa Wiederrecht: *Moon*, *Sun*, *Ocean* — I got so excited about those. The color just hit me so hard I couldn't let them stay; I grabbed a ton of them. Same thing happened with *How Bad* by Zulfagari. Just fell in love with the colors. There's no rhyme or reason here, obviously. I just grab what I like and whatever colors hit me.
+
+Trinity: So you're doing it as Artnome says — just collect the art you like?
+
+Melissa Wiederrecht: Sometimes I grab something because I see an artist struggling and I like what they're trying to do, so I want to support them. But usually it's just something that hits me, which is usually color.
+
+Trinity: I saw you have a handful of the latest Jeres piece, *Losa Lalia*, which is nothing but color. I think it's the most vibrant and exciting piece we've seen, at least on that metric, possibly ever on fx(hash).
+
+Will: At least since *Takeaway*.
+
+Melissa Wiederrecht: It's gorgeous. The colors — I can't even pick out what it is. It's not brushstrokes, but whatever it is, it's super good. I love it.
+
+Trinity: It's just an explosion.
+
+Melissa Wiederrecht: It's digital and organic at the same time, with these little rectangles.
+
+Will: I thought it was a really interesting choice by Jeres, because it feels so blended in the background, and so digital and raw in the foreground with the splatters. It creates this interesting dissonance between the two styles.
+
+Trinity: That's actually a technique you've used too, Melissa — a specific background pattern or texture as just one layer of the canvas.
+
+Melissa Wiederrecht: I layer things on top of each other all the time — that's most of what I do, really. I'll throw some color around, blur it, throw some more color around, maybe blur it a different way. I love anything that combines the idea of looking analog with completely not looking analog, because it annoys me when people say generative art shouldn't look analog, or that it should be 100% analog. I don't know why we need these categories at all. Let's just make stuff pretty. I don't care if it looks analog or not, including in my own work. I'm not trying to make the perfect realistic painting — I just want it to look pretty, with pretty colors and textures. It could be a gorgeous smooth painting with a digital rectangle in the middle of it. I don't care, as long as it hits me with colors and textures.
+
+Will: Here's a connected rapid-fire follow-up — this is one Trinity usually asks, but who do you think we should interview next? Anyone on your wish list, maybe based on people you've talked to or artists you've collected?
+
+Melissa Wiederrecht: Not based on talking to or collecting, but I'd really like to hear from Studio Yorktown, Sarah Ridgely, Jeres, YYYSEED, and Ryan Bell.
+
+Will: A couple of those are already on our list — you'll hear Jeres soon, I think. We have to figure that out.
+
+Trinity: And if you need some Bruce in your life, KenConsumer interviewed him on his podcast *Arbitrarily Deterministic* — really great interview, from the middle of last year, so he's released a ton of work since then. It was more after Sabler came out, but definitely an interesting background, and it's crazy to see what's happened even just since then.
+
+Melissa Wiederrecht: I'll have to go listen.
+
+Will: A lot of people on that list are already targets for us this year too, so those are all good answers. Trinity, any other rapid fires? Should we ask for a parenting tip, since we're both on kid one but Melissa's on kid five?
+
+Trinity: Any tips?
+
+Melissa Wiederrecht: Oh gosh — just keep going.
+
+Will: That's what it feels like.
+
+Melissa Wiederrecht: It'll get better, it'll get easier — just persist. I remember when I had one kid, I was just sitting there holding her, so confused, like, what am I doing, I have no idea what to do. But now it's normal. Honestly, it feels easier now than when I had one little baby.
+
+Trinity: Interesting.
+
+Melissa Wiederrecht: I thought it was supposed to get more hectic — and it is way more hectic — but at least it feels normal now. I was so lost when I was just holding one baby, like I didn't even know what to do with this person.
+
+Trinity: Good to know.
+
+Will: Persistence, then. That lines up with my current experience, which is just one day at a time — keep getting through it and try to enjoy the moments you can enjoy.
+
+Melissa Wiederrecht: Take tons of pictures, because they grow up so fast.
+
+Will: We're about to get our first tooth, I think, in the next couple of days — it's starting to come through finally.
+
+Melissa Wiederrecht: That's exciting.
+
+Will: Anything else? I think we've covered everything. Melissa, anything you want to throw out before we wrap the interview? Or any questions for us?
+
+Melissa Wiederrecht: I don't know — I would've thought of questions if I'd known I was supposed to ask some.
+
+Will: Sometimes it's spontaneous. Not required. I guess if we're all done, we can wrap it up. Thank you so much, Melissa, for taking the time to come on — I know it's late for you, so thanks for sacrificing some valuable sleep or coding time to chat with us. This was really a fun conversation, learning more about you. Hope everyone listening enjoyed it too.
+
+Melissa Wiederrecht: This was fun. Thanks for having me.
+
+Will: That was Melissa Wiederrecht. Thank you everyone for listening, thank you Melissa for joining, and thank you Trinity for recording as always. Hope you had fun, Trinity.
+
+Trinity: Every day I record with you is the best day of my life.
+
+Will: Perfect. That's it for this one — we'll be back again soon with another interview. Bye bye.

@@ -1,0 +1,221 @@
+Marcel Schwittlick: All right.
+
+Will: Hello and welcome, everyone, to another episode of Waiting to Be Signed — a very special interview episode. We're joined today by Marcel Schwittlick, dialing in all the way from Germany. If you've been listening to the show for a while, you've heard his name a lot. If you've been listening to Ken's show, you've heard his name a lot. We love him for everything he's doing with plotters and all this cool stuff. Marcel, how's it going? Welcome to the show.
+
+Marcel Schwittlick: Thanks for having me. I'm fine, how are you?
+
+Will: Doing well. Unfortunately, Trinity couldn't make it — something came up last minute — so it's just going to be the two of us today. You, the guest, will do 90% of the talking, so really it's on you. Less pressure on our side.
+
+I think the best place to start, as always, is for you to introduce yourself to everyone listening, in case they don't know who you are, and give us a little bit about your background in art and coding. How did you discover the blockchain, NFTs, and all that good stuff?
+
+Marcel Schwittlick: Not really sure where to start. Within our world, I'm kind of known for plotter-based generative work — that's what I've been focusing on for the last couple of years, and it's been a great time. I've managed to touch on a lot of things that were on my mind for a long time, and it's been great to have an audience around, which was very different from the years before NFTs became a thing. It was a great experience to share the work in real time. I'm a big fan of freestyle — I don't want to over-design or over-engineer things, I just want to move fast — and that was an interesting experience.
+
+Will: Would you consider yourself a coder first or an artist first? How do those two things intersect to bring you to where you are now?
+
+Marcel Schwittlick: That's a good question, because it's not easy to answer — I'm kind of in the middle realm. When I was a late teenager, I came across the work of Manfred Mohr and Frieder Nake, and it was fascinating. I'd always had an affinity for computers — I spent my early teenage years on the internet, on modems, on IRC — and when I came across this work, I thought, that really hits the spot. It really spoke to me.
+
+I remember being torn between studying art or studying computers. I wasn't confident, still am not, really, and studying art wasn't really an option coming from my background — it was more like, "cool, you want to be unemployed?" But I had a hunch about what I wanted to do, even though I had no idea I'd end up doing what I do now. Early on, working in Processing, I had no idea how to actually do the things I wanted to do — I didn't understand how graphics pipelines worked, or any of that. So I studied computer science with a media focus, learned how OpenGL works, compression, real-time multithreading, all of that. It was fantastic — I think it was the right decision.
+
+Later, I studied art. There's a class called Generative Art in Berlin that's existed for about ten years, part of the University of the Arts. I joined that class, and it was a great experience, even though I'm not sure I loved it. I ended up doing the complete opposite of what I'd been doing — I'd been making straight digital generative art since I was a teenager, and once I joined the generative art program, I started making sculptures, working with steel. I think it was a kind of resistance to what I was "supposed" to be doing.
+
+Will: I noticed on your website — and maybe on Twitter recently too — you shared pictures of generative, algorithmically designed paintings that looked like they were done by hand, but not with a robot or any drawing device. Even before you got into plotters, you were finding interesting ways to bring generative techniques into art.
+
+Marcel Schwittlick: It's funny — I came across those again recently while searching for something else in my files. Throughout the time I was doing generative art, my personal work — what I did for myself, to explore — was always graphically reduced, simple. The idea was that the data is the aesthetic part, and the rendering should be as simple as possible. In freelance work, aesthetics mattered more, but on the art side, I was interested in the underlying system, and the graphical representation had to be as minimal as possible — people start with lines, after all.
+
+As I got deeper into how computer art works, at some point I wanted to develop further the work that had influenced me so much — to continue where those artists left off, or where they were still working. But I started feeling bored with my own work, with all these mathematical functions representing the graphics. Maybe it was a lack of inspiration, but I wanted something that would surprise me in the process. I think that's a theme a lot of artists in this space run into — you're both the creator and, in a sense, the first audience for your own system, so it becomes a bit of a meta-creation. There were moments of surprise, but eventually I wanted to bring the body into it — something truly unpredictable.
+
+Those paintings you mentioned relate to a theme I've been following for a while: working with cursor lines — the movements you make on your screen while browsing Twitter or whatever — and the entropy you bring into the computer just through that movement. It was surprising, because I wasn't able to generate that kind of data from nothing else.
+
+Those paintings are algorithmically augmented — they're laid flat on the ground, and I use a projector to map the lines I want to draw onto the board. I try to stay as close as possible to what the algorithm specifies, even though I'm not physically capable of executing it with that precision automatically. But I don't think the point is for it to be completely clinical and untouched by intervention. I made quite a few of these — it's messy work, heavy too. Acrylic paint isn't as expensive as oil, but when you're using fifty liters on a single piece, it adds up.
+
+Through that process I gained a real appreciation for stepping away from the purely virtual. Don't get me wrong — I love the computer, it's the most fantastic tool you can have, especially for writing software. It's so powerful, your only real limitation is time. But I always wanted to bring something out of it, add other conceptual layers, while keeping the algorithmic foundation crisp. There are a lot of examples of me trying this.
+
+Today, when I do a series under a certain idea, I call them *Composition* number whatever — all based on cursor lines. I've been exploring this for a long time, looking at the geometry and concept of these lines from different angles. There's so much to explore. My framework for analyzing these lines has gone through three different languages over the years, as I kept rewriting and refining it — you could call the results data visualizations, if you want to be technical.
+
+But something I learned early, during an internship at Onformative, a generative design studio in Berlin — one of the few that existed in the world at that time — is that once you have data, it doesn't really matter what it "is." You can turn data into anything. You can try to represent something specific, or you can be completely free with it. So I don't really think of my work as data visualization — I see it more as an exploration of the data itself, and of its unpredictability.
+
+Will: This came up in the interview you did with Ken — one of the very earliest things that stuck with us. You have a script that analyzes your mouse movements, capturing every little line, arc, and scribble that occurs through your day-to-day computer use. Where did that idea come from? A lot of generative artists we've talked to, working in JavaScript or Processing, rely on noise functions native to those languages to create what we perceive as randomness in their outputs. But you're drawing from this library you've built up, over what I imagine is many years, of your own mouse movements — that's your noise function. Am I understanding that right?
+
+Marcel Schwittlick: Yeah, 100%. I see it as meta-random. In the end, my workflow is similar to using a random or noise function — I'm just pulling from my collection of lines instead. It's a source of entropy, after all. When you use random or noise in code, the entropy comes from somewhere — often just from when your computer started up, a kind of pseudo-randomness governed by the law of large numbers: if you have enough data and sample randomly within it, it behaves as pseudo-random, but the distribution is very different, with much harder contrasts.
+
+If I tried to approximate this kind of data — say, sat down to build an on-chain project simulating mouse lines instead of using real recorded data — that would just be imitation, and I don't see the point. If the raw material is already there, and it's interesting, the point is to explore the qualities of that material. It's still surprising me. I guess at some point I'll stop exploring it, but so far, it hasn't run out.
+
+Will: You've got over 80 compositions, right? I don't know if you started the numbering from 01, but I imagine you've been working with this for quite a while, and you still seem to be able to plumb new ideas out of each iteration of the series. Related to that, I wanted to ask: where do you find the "generative-ness" in your work? A lot of the artists we bring on the show release art on places like fx(hash), doing long-form releases where the code has randomness built in and the outputs exist in the space the algorithm can provide. In your interview with Ken, you mentioned that you don't really use randomness or noise -- you were talking about the *Upward Spiral* series, where each piece was structurally identical and only the color of the pen differed. So since you don't really release long-form projects, at least that I'm aware of, but you have this huge fan base and collector base among people who enjoy generative work -- where do you feel your work sits in this web3 NFT world of what we call generative art? How do you define "generative-ness" as it applies to your work?
+
+Marcel Schwittlick: Quite a bit before the NFT thing for generative art took off, I'd already said goodbye to generative art in that classical sense, because I was interested in many other approaches -- I felt like it was kind of exhausted. But my spirit as an artist is always trying to find out what's really interesting to me, and I zoomed out a level, which is why I started labeling my art "electronic art" instead. It's difficult to say, because that's the lowest common denominator -- there's always electricity involved. But it doesn't really matter.
+
+For me, generative art has something to do with not having control over the system you're creating. There's a system that's somewhat defined, like an algorithm -- and an algorithm is also like a cooking recipe. Looked at that way, there's still generativeness worth being interested in. The *Upward Spiral* work isn't classically generative -- in fact, it's about as un-generative as it gets, because it's literally sine and cosine to make a spiral. All 144 pieces are structurally identical. I've never done anything like that before: I'm literally playing back the same record 144 times, the same file, the same algorithm. What's out of my control is that every one of them is still different and unique.
+
+The variation happens on a microscopic level. The textures on these works are like a zoomed-in portrayal of the surface of the paper -- a system out of my control, full of irregularities. Whenever there's dust, or a piece of sand, or a hair under the paper, it gets magnified to a degree I wasn't expecting. It was kind of crazy. That was a strong point for me personally: even doing the exact same thing, there's a random function that happens whenever you bring it into the real world, because there's always variation and noise happening naturally. I'm not sure if that's something viewers are struck by too, but I don't really know what I'm doing most of the time -- I'm literally trying things out and learning as much as I can.
+
+This series in particular was a real risk. It took two years, working on it daily, and I'd never done a project of that scale before. You go through waves -- there were many times I thought, "What the fuck are you doing, Marcel? You're wasting your time on this, it's completely pointless. Why don't you go a bit crazy and do something else?" In retrospect, the strength of the series was in limiting myself -- not making each piece a unique work with its own little concept, but holding tight, trusting the process and the original idea.
+
+Usually iteration doesn't take two years. Usually, with classical software, you click a button, get 144 black outputs, and think, "let's change something here," and do it again. Here the iteration was very slow. It was a huge gamble whether I'd be happy with it, because there was no turning back after a certain point -- my goal was to pull it through. I learned a lot from that, not really about software, but on a higher level, about what it means to create and to give real space to reflect and think.
+
+That's what I like about anything that ends up on a plotter -- the rendering process takes time. I love that even about rendering JPEGs: the computer is busy, maxed out at 100%, and you're like, okay, now I have time to think. In other situations you're drawn toward acting, creating, adding something. But here you're done, and the work keeps happening internally. I've come to really appreciate those spaces where you can't be active and just have to think -- they show up differently in every project. Lately, spending a lot of time in the darkroom, there's another level of that, because you have to be around the process and can't do anything else. It's crazy. I'm not sure if I intentionally seek it out, but it definitely enriches the project when it takes time.
+
+Will: There's something monastic about it. You mentioned it takes twelve to fourteen hours to make one of the *Upward Spiral* pieces. I'm not sure how long the *Luminograms* take, but with generative art and long-form work, we're primarily dealing with tokenized pieces that aren't necessarily produced physically -- or if they are, they're printed through a high-end inkjet printer, or maybe in some cases plotted.
+
+Marcel Schwittlick: Mm-hmm.
+
+Will: But you have to sit and spend an entire day in the studio, swap the pens, babysit the machine, fix the motor if it starts to fatigue -- I know a lot of those parts wear out and have to be replaced. There's a fascinating amount of patience and dedication behind that. I was planning to ask this later, but it's a question we ask a lot of guests: what do you listen to while you work? Does the music influence how the machine works or the outputs? Are you in headphones, or in quiet reverence of the machines as they work, focused on making sure everything's running? What's the vibe like as you're going through these processes?
+
+Marcel Schwittlick: I don't think there's a consistent thread. Today I was listening to Linkin Park, which I haven't done in a while -- that was fantastic. Oftentimes I'm just listening to the sounds of the machines -- for the *Upward Spiral* pieces, they were really happening right next to me, and it was its own sound, melodic and rhythmic, pleasant to live by. I listen through speakers, not headphones -- loud, a lot of UK electronica, '90s Reflex Records, Warp, a lot of electronic music, rap, reggae. It depends on the day. But often, honestly, I don't listen to music at all.
+
+Will: Just the sounds of the machine.
+
+Marcel Schwittlick: Or literally nothing. Even hearing nothing at all -- that's been the norm lately. Silence.
+
+Will: A big part of your work these days, and what we know you for, are the plotting machines, the drawing machines you use. What's the story of how you started collecting them? There are plenty of modern machines available at a hobbyist scale, but I know you've gone beyond that -- you've built your own machines, and you collect vintage machines, even machines that weren't originally meant to be plotters, which you then modify. What's behind that borderline obsession? Can you walk us through your collection -- what do you have going on in your studio right now?
+
+Marcel Schwittlick: It started with the paintings we talked about. Before I was working with plotters, the works were already meant to be plotted. I've sometimes categorized it simply as: either you're working with pixels or you're working with vectors. I was always working with vectors, feeling like you can hold onto the structure of the work more. Once you render, you get pixels, and that's kind of a one-way compression -- you can't go back and keep working on it.
+
+In retrospect, it's pretty natural -- everything that was staying in the digital realm was screaming to be plotted. That definitely comes from my inspiration by the early computer artists who were forced to use plotters whenever they wanted to visualize their work. It's an interesting generational step. It happened gradually -- it took time to build up the space, physically and mentally, to work that way, because it takes real dedication, and a lot of it stays behind the scenes. It's a bit like an iceberg -- most of the work isn't visible. But that's cool, actually.
+
+I got all kinds of little kits. In the beginning it was absolutely horrible, but I still managed to make a couple of series, fairly long ones, and sent them around the world to friends -- this was before NFTs, interestingly. Like with anything, you go deeper into the material you're working with. I was always looking for a way to bring digital works into the world in the most native way possible -- so, printing.
+
+Will: Right.
+
+Marcel Schwittlick: That works fantastic for pixels. But when the structure -- the data -- is really the work, drawing machines are, coincidentally, what works. Right now I don't even know exactly how many, but there are forty or fifty drawing machines in my studio that I've collected. And before I started collecting, I built a big drawing machine myself that I used for the *Upward Spiral* pieces -- that was also a really long process. Cried a lot. I made big breaks -- throwing all of that stuff in the corner and not touching it for a year, because it didn't work like a tool. You always had to twist something, and it's falling apart, it's drifting, it's missing steps, something's fucked. I kept thinking, God, I wish software didn't act up like that. But if you can bring these kinds of machines to a level where they actually work like a tool, you're working with them on another level, beyond just fiddling with them.
+
+In the end, I managed it. This machine still works -- I used it for the most recent *Luminogram* series and for the *Upward Spiral* series. It's fantastic, but very slow. I found these plotters on eBay, '80s machines, and learned that some really capable engineers spent many, many years developing them. It's basically impossible for me to build such a machine myself -- there's so much functionality that it would take years and a lot of money to develop. Each of these different models has something special about it, which I only discovered during the process. That was fascinating, because it became part of the work itself -- figuring out how to make a composition work on one certain machine became part of the piece, and learning what was unique about that machine became part of it too.
+
+That makes it very special for me, because many of these works aren't really reproducible any other way. I like that it's recycled -- it makes it crisp, singular, the only way to do it. I don't know if that makes sense, but yeah.
+
+Will: I noticed with the *Octet* series -- you posted videos of the performance -- that the machines you used there, rather than having an arm that goes around and plots like a lot of the more modern plotters, only move the pen on one axis and use wheels to move the paper back and forth. So you get your two axes of movement by moving the paper in conjunction with the pen. That's probably great for adding speed in certain directions, but maybe less suited to certain arcs or other shapes.
+
+Before we get to *Octet*, I wanted to ask about *The Long Run*, a shorter series -- five or six pieces exploring antique pens that might be 40 years old, depending on where they were sourced.
+
+Marcel Schwittlick: Yep.
+
+Will: And the ink degrades differently between them. How did you go about finding those pens, and where did the inspiration for that project come from? They're really cool pieces, and I think a lot of people aren't even aware of them -- they're kind of hidden away on Foundation somewhere.
+
+Marcel Schwittlick: Hidden somewhere on Super Rare, actually. I don't really know where the motivation came from -- maybe it was the idea of making a series that's short by necessity rather than by choice, but still concise, maxed out in its variations. I just remember that these old pens are special plotter pens from the '80s, and there's a huge arsenal of different types -- it's crazy how much detail went into these ways of putting color on paper. I have magazines about it; I'll show you sometime.
+
+Why did I use them? Because it made the process feel out of my control. I couldn't just go and buy more -- it became about recycling and finding instead of creating, a bottom-up approach instead of top-down. I had three pens with one machine, plus a few more lying around, all completely dried out from not being touched for 40 years. I'd been collecting them and using them here and there in a freestyle way to try them out, but they weren't reliable, because what was inside them determined the result -- like these cursor lines, you're still surprised, because you don't have control over saying "I want this exact RGB value." You just work with what you've got.
+
+I'd collected quite a few, and then I realized the machines I use have a pen revolver that holds up to eight pens, switchable automatically via code. I counted and found I had eight yellow pens -- that fits. I love finding those little coincidences. Turned out I had exactly that many of a few colors, and no more existed.
+
+Will: Yeah.
+
+Marcel Schwittlick: Eight reds, eight blues, eight blacks, eight yellows. I tried them out, and they were still quite varied, not at all the same. So the piece became about portraying that variation. This is where the generative aspect comes in again -- it's a system out of my control, but a small one: I had this limited set of possibilities, but there's still an umbrella bringing it together, making it concise. And displaying that variation felt beautiful to me -- color degradation like that just doesn't happen digitally, so it's something unique to this physical world of pigments.
+
+For me it was a way to round up and finish these pens -- I wanted to find a way to empty all these old pens and let go of them, let the past be the past. It came together nicely; I found a way to empty them all and it just fell into place. When you draw lines with a pen, these works are actually made of dots -- really, really small ones. If you want to truly empty a pen, you can't just move it across the paper -- you have to dot, dot, dot, dot it out. So that's what I did: I don't know how many million dots per piece, but a lot. It took sixteen, eighteen hours for one piece or so, even doing about thirty dots a second -- really fast. For me it was a poetic, monumental way to finish something, without forcing a design-y approach onto it. I just wanted to let them speak for themselves and get the dots out there.
+
+Will: I think they're phenomenal. I aspire to own one one day.
+
+Marcel Schwittlick: Hey, thank you.
+
+Will: I encourage everyone to go check those out on Super Rare -- they can find them through your website. Let's jump back to *Octet*. This was the first piece of yours that I collected -- you were kind enough to let some of the folks in TENDER onto the reserve list.
+
+Marcel Schwittlick: Right.
+
+Will: Two questions. First, which of the different performances -- you broke it up across a few days -- was your personal favorite? Second, you mentioned in the writing on the piece that you used A.I. in the process of coding it. Was that a one-time thing, or do you have an ongoing practice with A.I.? What inspired you to incorporate it into this project, and what's your general view on using it?
+
+Marcel Schwittlick: Happy to tell that story. I'd been talking about this project for a year or so before it actually happened, and it was hard to communicate what I was planning to do. Luckily Petra, from the former TZ Connect dSPACE -- the Tezos space in Berlin -- said, "Marcel, we're closing down, go for it," and I got a little funding, which otherwise wouldn't have been possible. It still wasn't a net-positive project in the end, but I thought, okay, go for it, Marcel -- one month, let's go. Then I realized: shit, I need half a year to execute this, because it takes a lot of software development to make it real-time.
+
+I didn't want to make a performance where you might as well just press a button and let the thing run autonomously for an hour without needing to be there. I wanted to create something like an instrument -- where you have some control over what's happening, but it's complex enough that you don't fully know what's going on all the time. That worked well: I genuinely had no clue what the hell was going on in the middle of the performances, but I still had a way of gauging it.
+
+As for A.I. -- I'm not actually a huge fan of the whole A.I. thing. For me it's machine learning, and ChatGPT had come out a little before this. It was interesting for generating boilerplate -- within the project there was a lot of code to write for communication protocols. With graphics, it's fine if something's a little off, but with that architecture code, you don't want anything to go wrong. It's time-intensive, engineering-mindset work. ChatGPT was great for generating bare-bones stuff, like TCP connection handling, where there's no point reinventing the wheel. That worked perfectly for a few things. But very quickly you realize, as the creator, you can't rely on ChatGPT to continuously develop your big project -- in the end, you go back to doing it manually. Programming as usual. Within the work, the idea came from using cursor lines as a data input. I had eight different algorithms prepared that I could trigger by button press, each using different parameters — lengths, sizes, and so on. I wanted to put something in contrast to that, so alongside these human lines, I asked ChatGPT to generate code simulating cursor lines — human mouse movements. It did exactly what I expected: a concatenation of sine, cosine, noise, and so on. Really simple, and I used it just like that.
+
+So within the pieces, you can see some lines that make you go "what the hell is this?" and others that are easy to understand, a little more normal. I wanted to put that kind of data in contrast. It's a very rudimentary AI inclusion, not really worth mentioning on its own, but the idea was to set real recorded data against synthesized data and see how they play together.
+
+Will: You can check out videos of those performances on your website — it's really cool to see you setting everything up and then letting the machines go. It creates quite a... I don't know if symphony is the right word, maybe more of a cacophony, with all of them running in parallel doing their own thing. Being able to see it on video is a great part of the project.
+
+Let's talk about your most recent work. You have an exhibition coming up at Paris Photo, and I believe the work will be exhibited on Verse — is that right?
+
+Marcel Schwittlick: Yep.
+
+Will: This is a continuation of the *luminograms* series you've been working on, which I think started with *It Is What It Is*. In one sense you're still working with a plotter, but with a different medium — light instead of ink, in a darkroom, on photography paper. I know from the descriptions that this piece is influenced by concrete art and concrete photography. That word "concrete" — to collectors like us without a deep art background — we've seen it come up before in generative art, typically around typography, but here you're working through photography and light. Can you talk about the concrete art movement and its influence on you, and what you're going for with these *luminograms*?
+
+Marcel Schwittlick: It's a big topic that found its way into all kinds of different media and art forms — concrete poetry, concrete photography, concrete art in general. It has one really strong aspect: freedom, independence from abstraction or figuration. There's no point of reference — the medium itself stands for itself. It's fascinating, and there's a lot out there for people interested in generative art specifically — there's a fantastic encyclopedia called *Against Abstraction*, for example, or Oulipo. A lot of this happened well before computers were practically accessible, which is funny, since it's an idea artists have been drawn to for a long time. It's absolute freedom in itself, and very concrete. I'm drawn to it a lot.
+
+In photography specifically, there have been fantastic artists — in the '60s and '70s, and later too — who created work that, honestly, has a lot in common with generative or algorithmic art. I think maybe generative art is actually a subset of concrete art. You can't box any of this in completely, but I think there are huge similarities.
+
+The idea is to explore the medium itself. Using machines to execute the work is almost a necessity, because otherwise you bring subconscious movements into it that you can't help. It's a means of removing your subjectivity as an artist from the work, so the idea can be portrayed as neutral and clean as possible — light and photographic paper, another little system I'm exploring as an engineer, a scientist, and an artist at once. All of these works pass through all of those lenses, which is why the execution is a real scientific approach. It's not "today I feel joyful and energetic, so I'm going to go wild" — it's something that happens very much in the mind. You can only explore the medium in real detail if you can repeat things precisely enough to actually study the materiality.
+
+This has been really rewarding, and honestly the latest series has been really tough, because I learned how much photography is *not* just printing something out. It's a completely different world — different mindset, different workflow, different conceptual and mental processes, which I'm new to and happy to explore. I'm trying to bring it together with an algorithmic approach and see what works in the digital and what doesn't work in the physical. There are more problems and issues than you can imagine when you're doing something like this — which makes it a great playing field if you like solving problems and figuring things out.
+
+In this series, I also split things — which I hadn't really done before, since I haven't made many digital-only works in the last couple of years. I got back into it here, partly to put them in contrast: a series of *luminograms* and a series of straight digital outputs, both from the same algorithm. I'm trying to see the strengths of each side. The digital ones have color and much more detail you can work with. The *luminograms* have a certain quality you can only see up close, in the light reflections — that's something that really drew me to the medium.
+
+I also scaled these up — the previous *luminograms* were fairly small compared to the recent works. That meant dozens of liters of chemicals, huge trays — it doesn't scale easily, and it was a genuinely tough process. Not that I cried a lot, but it was difficult to tame the idea.
+
+Will: Does this series have a title?
+
+Marcel Schwittlick: *Composition No. 92*.
+
+Will: That's it? No subtitle?
+
+Marcel Schwittlick: I don't think so. Sometimes the title just comes to itself, and I like it exactly like that.
+
+Will: When I first saw the digital versions being shared, I assumed they were a blueprint for the physical pieces. Will these be sold in pairs — if you buy the physical, do you get the digital twin as the NFT? Traditionally — well, not traditionally, but a lot of the NFT work you've done has been a picture of the physical piece tokenized, functioning as proof of ownership, like a receipt. Are these separate, or tied together in some way?
+
+Marcel Schwittlick: Completely separate — two series, one digital, one *luminograms*. I was honestly playing with the idea, but there are straight organizational issues. The worst position to be in as an artist is turning yourself into a print service. Imagine collecting digital pieces and people saying, "this one, please." I want to decide which works go which way, and go with the flow a little, rather than being forced to imitate a digital piece physically. I don't want to print something out just because it exists digitally — they have a connection through the fundamental algorithmic approach to how they're created, and that's it.
+
+Will: Got it. So we can look forward to both the physicals and the digital pieces being sold on Verse around the time of Paris Photo — which, we're recording this mid-October, is mid-November, right?
+
+Marcel Schwittlick: I don't know, the 8th or 10th, something like that, of November.
+
+Will: Here's kind of a weird question I've been thinking about a lot, and I hope it resonates with you, since so much of what you do starts physical but derives from code. I've seen a lot of conversation lately about NFTs and preservation and longevity — the virtues of being on-chain versus using IPFS, the stability of Tezos versus the longevity of Ethereum. As people get more invested in NFTs, they're starting to think: will these things be around in fifty years?
+
+With your work, there's a physical component. With my *Octets*, for example, if I lost the wallet holding the NFT, that would be a shame, but I'd still have the piece — there's video of the performance on your website, there's provenance. It wouldn't be the end of the world. Longtime listeners might remember I once told a story about thinking I'd accidentally destroyed one of my *Octets* — I won't retell it here, but you can go back to that episode.
+
+What's your policy, as an artist who has the ability to reproduce something like *Upward Spiral* — you have the code, even if you don't have the exact pen anymore. If I held the NFT and something happened to the physical piece, how do you think about that? Is it "that performance is over, I'm not going to reproduce it," or something else? Since you work in this mixed digital-physical way, how do you think about preservation and longevity?
+
+Marcel Schwittlick: If you accidentally tear apart your Octet piece, it's over. The piece is gone. I don't do things twice — I think it's boring. I don't want to repeat, I don't want to copy, I'm not remaking anything. It's kind of the nature of the pieces, too, especially with the *Octet*, where everything happened live, so I wouldn't even have the data to do it again.
+
+I grew up on the internet, so I have a technical inclination in my life, and I use blockchains because, fundamentally — I trust it, you know. It's something I'm more likely to trust than other systems. For me it's one of the only ways I could think of to digitally catalog works — not archive, catalog — because I don't have to take care of it myself. Whereas my website, I could just stop maintaining at some point. If there are other websites like Artsy, in a couple of years they might decide it's not lucrative anymore and shut it down, and that whole overview is gone.
+
+That's the whole idea of decentralization, and I'm a huge fan of it — I think everybody working with software in art has an inclination toward that. At the same time, it's completely out of my control what happens if things go south. I could host a Tezos node to make sure it stays up, but then that's kind of pointless, because then I'm the only point of failure — which is contrary to the whole idea of decentralization. In the end it's like two rails: whichever fails first, the other one is there to verify it.
+
+But for me, when it comes to works whose provenance is handled via tokens, the work is the work. I see NFTs very technically, as a tool — the same way I see machine learning. I don't know if that answers your question, but in the end, if blockchain goes off, I think we're going to have much bigger issues on our hands — like not having electricity, or more wars. You know what I mean?
+
+Will: I figured that with *Octet* being performance-based, restoration wouldn't be on the table. But I was more curious about some of your other works, like *Upward Spiral*. And when we're done with the episode, I'll give you visual confirmation that the Octets are safe and intact — none of mine were destroyed. This wasn't a roundabout way of trying to get you to make me a new one.
+
+I think with the bear market, people are starting to look at the prices of things like Tezos and think more critically about the longevity and security of these chains, even if there's another bull market coming. I've seen some concern bubbling up about Tezos versus Ethereum, and it seemed like a parallel to physical artists who have the ability to restore damaged work. But I think it's a fair policy to say, "No, that's it."
+
+I was going to ask you more directly about Tezos versus Ethereum, but it sounds like you're pretty chain-agnostic. You have a decent amount of work on both, though more recently you've skewed toward ETH. Is that a price point thing, or more of an experiment to see what it's like to put work on ETH?
+
+Marcel Schwittlick: It kind of just happened — after ETH went proof of stake, I was fine using it. In the end, ETH is technically much more mature, and there are real advantages. With smart contracts, you can literally copy the code, modify it, deploy, and you're ready to go. Whereas on Tezos, everything is in Michelson, low-level — you can't just learn by example. It's an absolute disaster for people like us who just want to learn. It's probably good for businesses, because nobody can copy your IP, your contract architecture, whatever service you're offering — nobody can reverse-engineer and redeploy your thing.
+
+So I like both. I've had really good experiences with each, and I don't think most collectors see much difference. Investment-wise, I understand ETH has an extra leg to stand on. But I'd be happy for Tezos to stay up — there are fantastic things built on it.
+
+Will: It's the art blockchain first and foremost. No one wants to see its demise, or think about what would happen to all the amazing work that's been put there — a lot of yours included.
+
+Marcel Schwittlick: The work still exists, though, even for the straight digital stuff — that shouldn't be forgotten. Even with a million fx(hash) projects, the work is still there even if the chains stop working. For me, tokens are a fantastic means of making this ecosystem economically viable. That's really important for a movement, for a scene. I'm thankful for that. Things were pretty stale before, and all of a sudden everybody came together again — that was fantastic. I think it helps the whole scene mature, get more voices at the table. I'm really interested to see where things go.
+
+Will: Marcel, let's move toward wrapping up with a few rapid-fire questions. Based on a recent tweet, you're playing *Diablo 4* — I imagine you're a gamer outside of this. What class are you playing right now? And have you ever played Magic: The Gathering, or anything like it?
+
+Marcel Schwittlick: I'm actually not a gamer. The games I've played in my life, I can count on one hand — Counter-Strike 1.5, 1.6, Warcraft 3, Diablo 2, and Diablo 4. Right now I'm playing the one with the extra skeletons.
+
+Will: Necromancer.
+
+Marcel Schwittlick: Necromancer.
+
+Will: Are you worried at all about what this gaming is going to do to your library of mouse movements? Is it adding wild new gestures you didn't have before?
+
+Marcel Schwittlick: That's interesting, actually. I play on PlayStation, but back when I played Warcraft, I did record my movements during that time, and it was different stuff. There's so much to explore there, being more contextual about what you're moving. But Diablo is pure enjoyment, leisure.
+
+Will: Both Trinity and I are huge Magic: The Gathering players. We're always fishing to see who's out here playing Magic, but it's surprisingly few people, considering how nerdy this world is. You'd assume a lot more crossover, but another miss.
+
+Marcel Schwittlick: I think I touched it ages ago, but it didn't stick.
+
+Will: All good. Another question we like to ask: who would you like to hear us interview on the show?
+
+Marcel Schwittlick: Oh my god, that's difficult. I'd lean toward people who have nothing to do with NFTs, honestly — what I like about these conversations is that I draw a lot from them. I'm really interested in the people behind the work I like; it makes it personal. So, an artist not really working with NFTs — Karoline Kriczeki, for example. She's doing fantastic work, and I'd love to hear her speak about it. I'm not sure she's ever done anything like this before.
+
+Will: Cool. To formally wrap it up — what's going on with Marcel in the future? What can we expect from you? Anything you want to plug? What's coming up after Paris Photo? More *Luminograms*? Where do you imagine the next few years going?
+
+Marcel Schwittlick: No clue. I'm working on a couple of things, but I have no idea. Sometimes I think about stopping — no, I'm kidding, I've already tried too many times to stop. I have no idea what's coming, but I'm excited too. Let's speak again about that.
+
+Will: All right, well — keep your eyes open for Marcel's work. Check out his website; it's full of amazing documentation, a lot of it accompanied by video. It's really cool seeing the lasers moving in the photo lab. Tons of amazing stuff to find there — we'll include links below, and in the notes if you're listening on a podcast app or Spotify. I think that's it. I think we did it, Marcel. Hope you had fun. That's the episode.
+
+Marcel Schwittlick: Thank you, Will. It was fantastic. Thanks a lot, appreciate it.
+
+Will: That was Marcel Schwittlick. Look out for the upcoming release on Verse — it'll be exhibited at Paris Photo. Thanks to Marcel, I hope you all enjoyed it. We'll be back soon with another episode. Until then, bye everyone.
+
+Marcel Schwittlick: Thank you. Bye-bye. Waiting to be signed.
+
+Will: We're waiting.
+
+Marcel Schwittlick: Always.

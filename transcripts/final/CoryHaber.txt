@@ -1,0 +1,359 @@
+Will: Hi everyone, a quick note before we start the episode. We are extremely fortunate to have Cory on to talk about *Atmospheres* right as the project releases on Verse. We are posting this episode on May 9th so it can go live to all of you on the 10th, one day before the auction starts. As of today, the details of *Atmospheres* have not been locked in, and as you might be able to sense from the episode, the choices around quantity and curation are extremely challenging for an artist to weigh. We agreed it would be best to preserve the original interview and give everyone a chance to hear Cory's thoughts in the moment, and give all of you the most candid look at the process of releasing a project from the artist's perspective. We hope you enjoy.
+
+Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're here with artist Cory Haber today with another fortunately timed interview. Cory's joining us just as a project of his drops on Verse this week. Super exciting to see that, and great to talk to Cory and hopefully dig into that project a bit. Trinity's here as well, of course, on a brief break from baby duty. How's it going, everyone?
+
+Trinity: It's going great. Glad to have you, Cory. This is very fortuitous timing. I love it when people fall into our proverbial laps.
+
+Cory Haber: Beautiful. I'm super excited to be here.
+
+Will: We also just met not too long ago at NFT NYC. I'm not sure how you got wrangled into that group of 18 or so that we ended up taking to the pizza place in Red Hook, but the burning question at the top of my mind was, as a New Yorker, how did the pizza rate?
+
+Cory Haber: I think the pizza was good. It was more about the conversation — I don't really remember the pizza. As a New Yorker, there's so much pizza to go around.
+
+Trinity: It wasn't a bad pizza, right?
+
+Cory Haber: It wasn't a bad pizza. Hard to find bad pizza.
+
+Trinity: Oh, you'd be surprised.
+
+Will: Baby Luke's, which is the offshoot from L&B, the famous pizza place — I went there for the first time a few weeks ago.
+
+Trinity: And it was bad?
+
+Will: Yeah, it was like a $6 square slice that felt stale. We went right when it opened, and I thought, how could this be the business? All right, Cory, thank you again for joining us. Before we jump into your projects and learn more about this first drop, for anyone who doesn't know you, let's get your background. What is your history in art and coding? How did you first discover blockchain and NFTs — and not fx(hash), since you haven't dropped there yet?
+
+Cory Haber: My background really goes back to my childhood. I always loved art and making art. My grandfather was an art collector, so I grew up surrounded by these incredible, beautiful impressionistic and post-impressionistic paintings he'd collected, and I fell in love with that style. I always had this desire to make art — I was mostly an oil painter growing up, through high school and college.
+
+In college I was actually an art major for one semester before dropping it. I figured I was never going to have a career in art — what a silly thing to think I could do. Really unfortunate that people have to make those decisions, but I went down a more practical route while continuing to make art in my spare time.
+
+Years after college, I was working in technology but wasn't a software developer — mostly self-taught up to a point. I had all these ideas in my head and kept hiring developers to build them, and eventually I wanted to build those things myself. I'm always making and creating: I taught myself electronics, taught myself how to solder, built my own 3D printer back in 2010, 2011. When I was about 33, I had the opportunity to go back to school for a software development boot camp in New York City. I was the oldest person in the class, which was really fun, and I came out the other end as an entry-level software developer.
+
+The day I graduated, I somehow found Processing, then found Dan Shiffman and the Coding Train on YouTube, and it rocked my world. I had no idea you could use code to make art. I had this art background, this creative background, and had just become a "software developer," and I realized I could merge the two. That was around 2013, early 2014, and I started working in Processing, creating sketches. I didn't share much online — I had Twitter for a long time but rarely posted. Social media was never my thing; I'm much more of an in-person personality.
+
+Maybe a year or two later, I found Evil Mad Scientist and the AxiDraw, and that changed things for me. Since I'd grown up painting and making physical art, the idea that I could write code, create art, and then turn it back into something physical — that was the path I knew I wanted to follow. That was around 2016, experimenting with plotters. I had this burning desire to use a plotter to make a painting, not just with pens but with new materials. I finally made my first painting by 3D printing a rudimentary tube that dripped paint — a first, crude version — and it worked. I just kept going bigger.
+
+Then I realized I needed to build my own plotters, because the AxiDraw topped out around 11 by 14 inches for a traditional canvas, and I wanted to go bigger. Again, not being afraid of soldering and electronics, I built V1 of a custom plotter that was a complete failure — extremely unstable. So I retooled, and during COVID I built my first plotter that could handle 30 by 30 inches, raised on 3D-printed legs with a canvas sliding underneath. It worked.
+
+Around that time I also developed my own paintbrush — better than just dripping paint. I could 3D print the brush and fit a nib inside it, like you'd find in a pump marker. Very rudimentary, but I hadn't seen it done before. I controlled the paint flow by thinning it to the right consistency, so instead of just dripping and pouring, I could make actual strokes. It evolved from there.
+
+All of this was before I'd even heard of NFTs. I had to Google what NFT stood for and still couldn't find a clear answer. I was reading Artnome a lot at the time, and even then I didn't really understand what was going on. That's my journey from childhood to 2019.
+
+Trinity: Wow, that is impressive — and I'm coming into this without having known any of it. It sounds insane. You must have had so much fun discovering Artmatr, looking at the work they're doing. Hopefully there's not too much overlap, and you still get to feel like, "I did this first."
+
+Cory Haber: It's interesting — I think they've been around for longer than people realize, and now they're focusing more on generative art and NFTs. It's cool to connect with people who have a deep history with plotters and with using digital code to make physical one-of-one objects — there aren't very many of those people around. Being in New York gives me access to a lot of them, and I love engaging with people who think about things the same way.
+
+Trinity: It must be incredibly rewarding. I've heard other plotter artists talk about the idea of creating art while you sleep — that's the classic thing. With these painter-plotters, is the process fully generative, where you can run it ten times and get ten different outputs? Or are you tightly controlling the parameters?
+
+Cory Haber: When I started with generative art, I was doing a lot of photography — always loved it, another artistic medium I engaged in, including astrophotography. I studied a bit of cosmology in college, the study of the universe, and nature and the universe are an overriding theme in my work.
+
+To answer your question: I started by taking my own photography and using it in code to create painterly versions of the photograph. Every time you ran the program you'd get different color combinations and contrast levels, and I'd select an output, break it down into maybe 10 to 15 colors, export a file one color at a time for those strokes, preprocess them, and send it to the plotter one color at a time — building up the painting that way over a week or two.
+
+Will: Cory, how do you think about the relationship between digital and physical? For a lot of digital artists, it maybe never occurred to them, or they just didn't have the ability to build their own custom painting plotter to output their work. You're so used to seeing it on screens, with all the challenges of displaying it. Do you think that if NFTs had existed as a technology in the early 2010s, when you started this art practice, that would have been a substitute for you? Only now, almost two years into this generative art NFT journey, are we starting to see a trend back toward physicals. So what pushed you initially to make this a physical thing — to build the machine instead of just living on your computer? And how do you think about NFTs now?
+
+Cory Haber: It's kind of a mind-boggling question, I don't know if I have a great answer. The desire to create physicals just stems from my pre-NFT history of painting on canvas — that desire was already there. Then NFTs and digital art came along, and in the earlier days people didn't necessarily want physicals. People would buy a one-of-one of mine on Foundation that came with a physical I'd ship to them, and some collectors rejected the physical — they didn't want it. Really interesting.
+
+Now, as you said, it's swung the other way — so much digital art is being printed, with real attention to print size and resolution and how a piece will look blown up. You see Artmatr and big-name artists working with them to create physical one-of-ones. It's fascinating how quickly this question — what do you do with an NFT? — has evolved. I hear it from friends and family outside the space: "What am I supposed to do with this digital art on my phone?" We know it's more than that, but people do want to live with art — maybe on a screen, maybe as a print, maybe as a painting on canvas. I think they can all exist at once. That's what's beautiful about this: something new, something we haven't fully defined and maybe never will, but we're all working toward more art in our lives globally. I think that's a great thing.
+
+Trinity: When you're collecting as much as so many of us do, especially on the Tezos side, we're all a bit of digital hoarders, but being able to display the things that matter most to us — I think people are realizing more and more how huge that push to the digital side has been. Will, you've been collecting a ton of different plotter pieces — maybe you'll have to go see what Cory has on offer.
+
+Will: I bet a lot of the one-of-ones are way outside of my price range at this point.
+
+Trinity: Just stick with your computer — don't get a new one, get one next year.
+
+Will: That's one of the great things about Tezos: you can get something for $120, shipped from Europe, a really cool plotter piece from someone probably working on an AxiDraw or something similar. It's amazing what people accomplish with a traditional pen plotter.
+
+Trinity: Shifting gears a little, so much of your early plotter work was about creating a style familiar to you from your painting background, and generating that effect physically but through code. We see that come through in your non-plotter work too — it falls within this "painterly" style people have been clamoring for, especially over the last year. Was that a purposeful interpretation of your artistic style into the digital space?
+
+Cory Haber: Purposeful in a sense. Early on I was trying to figure out my style, and it's easy to look around and see what others are doing and where they're finding success. But for me, it ends up being about what art I'd be happy collecting myself. You have to be true to yourself as an artist and not chase trends or watch how other people's work is selling. I'm just going to create what I like — if people want to buy it, that's incredible, and if they don't, that's okay too. I have to do what feels right, and what feels right is this painterly style. So intentional, yes, but also I feel like it's part of a journey from childhood to today — impressionism, pointillism, representing nature through code is my path, and that's what I'll continue to follow.
+
+Will: That's a great transition into the piece a lot of people know you for. I don't know if it was technically your first long-form generative piece, but it's definitely the one that put you on our radar as members of TENDER — *SOL*, which came out toward the end of last year on Foundation.
+
+Trinity: Yeah.
+
+Will: 365 amazing pieces themed around different locations and times of day across the world. What was the inspiration for that piece? And one of the most interesting things about it is the incorporation of real-world data — where in the process did you decide to include that, and what was it like bringing that into the on-chain aspect? It's rare to see someone working with data like that, so I'd love to hear the story.
+
+Cory Haber: Around June or July of last year, I'd put four digital works up on Foundation, and all four sold within 24 hours. It was wild — I'd spent a lot of time on them but hadn't yet made the physical paintings, so now I had to make these physicals. I was planning to take a break from creating new work and just focus on the paintings — each one taking up to two weeks, hand-mixing every color, 3D printing all the paintbrushes, buying all the supplies. Huge amount of work, which I love.
+
+While I was creating these paintings, Foundation reached out. I think they'd seen the sales, and they said, "We're working on a new feature called Drops. You're a generative artist on Foundation, and it's really unique — are you interested in helping us launch this feature? Do you have anything nearly ready to go?" The answer was yes, I'd love to, and no, I have absolutely nothing. I had about three months, maybe a little less, to work on it.
+
+I've told this story before: I came across Andy Warhol's sunset photograph that he silkscreened 632 times, each one a different color combination — 632 one-of-ones from a single photograph. I thought, that's something a generative artist would do. I'd worked with photography — landscapes, a lot of flowers — and felt a kinship there, but wanted to do something different. So I thought: a study of the sun, its relationship to the horizon, a sunrise series.
+
+It started out very crude and evolved from there. About a month and a half in, nearly done, it just felt hollow — it wasn't even 365 pieces yet, maybe 400 or 200, whatever I felt it could produce. It needed to represent something more than a pretty picture. I honestly don't know exactly how the idea came to me, but I remember messaging my brother, who I rely on heavily for critical feedback, and asking: what if these were real sunrises? What if I could find an API that tells me where the sun would be in New York tomorrow at 7:06 a.m., or what time it rises, or what angle it's at two minutes later? Could I pull that data into the code and have it actually influence the piece?
+
+Turns out, yes — though I had to use three different APIs, plus a separate one to calculate daylight saving time, since every country either observes it or doesn't. I built a list of cities, got their latitudes and longitudes, and it felt natural to make it 365 pieces, one for every day of the year — 2023, since it wasn't yet 2023. Every sunrise would be a future moment in time that someone could collect and reference later. Maybe someone would mint the city they were born in, or a date meaningful to them in some way. That was my hope, though I didn't know if others would connect with it — I don't think I ever stated that intent publicly. I'm bad at promotion; I only started promoting it two or three days before release. It just took on a life of its own, and it was an incredible experience.
+
+Trinity: And one that people really resonated with. You didn't talk about that aspect in your promotion, but the personalization — found or intentional — across time and space seems to be one of the biggest things people latched onto.
+
+Cory Haber: I have several DMs from people who were quite emotional about it. Someone minted a date that was very special to them. Lots of people trading for a location and date that meant something — "I haven't been to see my family in this city in 20 years," or "this is the day someone close to me passed away." To me, that's the point of art: to evoke some kind of emotional response, positive or negative. That's what it's all about, or a large part of it.
+
+Trinity: Was there a reason you went with sunrise instead of sunset? Sunrise is obviously hugely impactful, but I wondered if there was something specific behind it.
+
+Cory Haber: There wasn't a real debate I had with myself over sunrise versus sunset. Sunrise felt more akin to rebirth and something new, versus the more obvious duality of a sunset — something ending. Maybe that played into it, but I'm not entirely sure.
+
+Trinity: Sounds like you have a sequel — moonrise next. Keep the party train going.
+
+Cory Haber: These ideas are free.
+
+Will: How exactly is the data influencing the piece? I see so much diversity — the shape and size of the sun as it appears, the palettes, little bits of distortion. Obviously location, date, and time are traits, but also angle and things like that. Where does the data actually manifest in the work?
+
+Cory Haber: It starts with the city being selected, then calculating the sunrise for that city and randomly picking an angle for the sun — where it sits above the horizon, and at what time. Calculating the exact time it would be at that angle, and replicating that visually, was hard, and that determines where everything gets drawn. I didn't connect palettes to time of day — didn't have enough time to build that in, though it would make sense.
+
+As for the size of the sun — it's actually the same size in the code; it never changes. What changes is more like a zoom or scale. I approached it like a photographer would: in photos of sunrises, you often see a big horizon and a small, distant sun, but if you zoomed in with a camera lens, the sun itself wouldn't change size. Originally I had this orb changing size in the code, and it felt unnatural. So I kept the size constant and scaled the zoom level instead, as if you were viewing it through a lens. That's what influenced a lot of the variation.
+
+Will: Looking through the pieces, the palettes are amazing — maybe that's something you didn't want the data to influence, so those choices could shine through. Up close, the brushstrokes are quite fine, almost like they could be done on a pen plotter with a lot of work, and there's a lot of blending too. Is that why you went the printer route with TENDER's print service?
+
+Cory Haber: Great question. My original intention for *SOL* was for each piece to be plottable, turned into physical one-of-one large plotter paintings. That didn't end up happening — I hadn't yet figured out how to make paint strokes that small, and whenever I matched the strokes to my capability at the time, it lost a lot of emotion and feeling. So I went finer and finer. Technically, every single *SOL* piece is still plottable — that's how I approach all my work. Whether it's practical is a different story, but it's all plottable.
+
+A TENDER member who's been very kind to me, and who I've become friendly with, introduced me to Adam at TENDER. I'd decided to go the print route but didn't know how to fulfill orders, so Adam set up a TENDER print shop for me through his printing service, and that's how it started.
+
+Will: I have a good guess as to who that patron is.
+
+Trinity: Any consideration of commissioned works in the future — for people getting married on a specific date, or celebrating a birth?
+
+Cory Haber: I actually have two already — people who've collected and have a new meaningful date coming up, asking if there's a generator hosted somewhere where they could produce a *SOL* for their own location and date. I don't have that, but I offered to take care of it for these two individuals personally. It won't be minted, and I don't think it needs to be — it's just something they want to hang privately, something with meaning to them. So I'm happy to do it.
+
+But the thought has crossed my mind: what if people could generate their own *SOL*s? What would that look like, and would people find it interesting, or would it take away the mystery? Open questions at the moment.
+
+Will: Special request only kind of thing. Gotcha. That's a pretty good end cap for *SOL*. Let's talk about *Atmospheres* with Verse, which, from the small preview we've seen, definitely feels connected to *SOL* — maybe the other side of the coin. Can you introduce the project before we jump into our questions?
+
+Cory Haber: *Atmospheres* is an evolution of some of the concepts in *SOL*. *SOL* is exclusively a sunrise series — there's a horizon, reflections, all kinds of things — but I wanted to go a bit deeper and maybe a little more abstract. *Atmospheres* is more about skyscapes, with more emotional color palettes and a stronger sense of time of day. There's a lot of familiarity to *SOL*, but it's more painterly, with a slightly different emotional register.
+
+Will: I'm seeing some slightly darker vibes, though not all of them — but you could say the same about *SOL*, honestly. Not all of those feel like sunrise either; some sit on very dark backgrounds, and the sun isn't necessarily yellow. What's the origin story of the collaboration with Verse? How did this project end up on the platform, and what was it like working with the team?
+
+Cory Haber: Jamie reached out to me last year, after *SOL*. A few people started reaching out with ideas, but what was interesting about Jamie was his interest in doing a physical gallery show — plotter paintings alongside digital-only work. For me, that's the ultimate: to do both in a single show. As I mentioned with *SOL*, the technical details of how to pull that off weren't quite there yet. Over December, I built this quite enormous plotter behind me — ridiculous and seemingly impractical, but also not. It can do paintings 50 by 50 inches, and anything in between. So the goal was to use this plotter for both the paintings and the digital work. The paintings are still a work in progress, unfortunately — hopefully there'll be a part two to the show, still to be determined. But that's how it all came about.
+
+Trinity: Is there anything else we should know about this piece? *SOL* has that strong connection to time of day, the date—
+
+Will: Data.
+
+Trinity: Data. Any Easter eggs collectors should be aware of going into this piece, or anything you can talk about?
+
+Cory Haber: That's still a work in progress. Coming down to the wire, working on a few things — we'll see.
+
+Will: Since this will be edited, feel free to hazard a guess — we can always cut it later.
+
+Cory Haber: It's been a struggle not to just do the same thing again, obviously with a similar sun. I'm still trying to figure it out. I'm not sure if it'll have any connection to time or location, or other data — I don't know. It's going to be down to the wire. It feels important to do, but it's been a bit of a struggle not to repeat myself. Part of me just wants to do nothing extra, but I don't know if that'll be a disappointment.
+
+Will: It's about expectation, right? Since the piece feels so connected to *SOL*, do you think collectors will expect "that something"?
+
+Cory Haber: There are different ideas I'm playing with — could the collector add something, almost along the lines of fx(params) and Collector Curated, where the collector plays a role? Is there a simplified way for the collector to influence something before minting that isn't too onerous?
+
+Trinity: And something that could be implemented on Verse relatively quickly.
+
+Will: Yeah, they're good at that.
+
+Trinity: Along those lines — will this be fully long-form generative, or an artist-curated set of outputs, like we've often seen from Verse?
+
+Cory Haber: This is long-form, not collector-curated. I'm almost afraid to say this out loud, but this will actually be my first long-form project where no one knows the outputs ahead of time. Everything I've done so far has been curated, which I love doing. This is a little terrifying, honestly.
+
+Trinity: Let's talk about that, because it's something a lot of artists have discussed — the rise of long-form generative art as the pinnacle of generative art over the last couple of years. Talking to artists who've been doing this as long as you have, there wasn't really an opportunity for that kind of long-form creativity until the blockchain came along — it was such a natural fit. Things could be long-form before, sure, but always with an angle toward curation. How has the transition been, other than terrifying?
+
+Cory Haber: It's not so much hard to transition into — it's that the way I work involves so much more randomness, I feel. And I don't just mean noise functions. I find it comforting to let things run wild — that's where you find the outliers that would never happen if you had to narrow your parameter space to make everything look good in a certain way. The challenge has been: how do I achieve that same level of wildness while still keeping things controlled?
+
+Trinity: And that takes away a little of the beauty of that algorithmic space — the happenstance, being surprised. If you're getting surprised at mint time on a long-form project, that can be a bit of an "oops," right?
+
+Cory Haber: With *SOL*, I didn't even have a defined palette. I wanted to see how colors would mix on their own — I had a single palette of maybe less than 100 colors, and I'd randomly assign some number of those to form a working palette, then use those colors in a certain order for each stroke, just to see what would happen. That's what was cool about *SOL*. With *Atmospheres*, I can't be quite that wild with color — it's more controlled, but still not fully known, even to me. When you pick the same palette 100 times, the relative importance of each color isn't the same each time, so it leads to extremely different outputs. You could look at two outputs and swear they didn't come from the same palette — but they did. Hopefully that works out.
+
+Trinity: We've seen that approach from some of our favorite artists too — Anna Lucia does this with her color palettes, as does Melissa Wiederrecht. Sometimes that's how you grow a palette over time: you take away from it, add to it. It opens up a lot more flexibility in the space of outputs without being too rigidly defined — a nice middle ground.
+
+Will: Hearing you describe your fears and challenges with the process, it actually sounds like a collector-curated approach could solve some of that — not to influence your decision at this point. Especially since this is another first for Verse: the multi-day auction, top-X-highest-bidders format they typically use, but with a new distribution method that lets people spend the multi-day window scrolling through and collecting seeds they like before minting. That could actually synergize well — if you stumble onto a seed you love, you might raise your bid to make sure you get it. What was the process like arriving at that distribution mechanism? Did you bring that to the table, or was it a Verse suggestion?
+
+Cory Haber: That was a Verse suggestion — I've been so focused on code, getting everything as buttoned up as possible. But what's really cool about Verse is that they keep pushing the envelope instead of doing the same thing over and over. I think that adds to the collector experience — different ways of minting, the way an IRL minting event creates such a powerful connection between people and the art they're collecting. Anything that makes it more of an experience rather than just another online transaction — I'm down for that.
+
+Will: I'm really excited to see how this plays out. We had something similar recently with *Octet*, a plotted piece by Marcel Schwittlick — he took pieces from that performance and put up a token on OBJKT redeemable for a random one, top 60 bidders over 24 hours. That last hour was stressful.
+
+Cory Haber: I was one of the top 60.
+
+Will: Same! It really seems to work well in the current market — especially for a piece like that. Getting a one-of-one from Marcel was still an incredible deal.
+
+Cory Haber: I saw that and jumped on it immediately — that's now my third physical piece from Marcel. I think a mechanism like this makes sense timing-wise right now. I'm giving up some control over price — others have to meet it, or have their own expectations about whether it should be higher or lower. Am I overpaying? Will I be able to resell? Versus someone who just says, "I love the artist, I'd pay that price regardless." All those questions get handed over to others to answer. It could be fun, it could be interesting, and I think it'll work.
+
+Trinity: Was there any consideration of that release mechanic as a response to the current market specifically — letting the collector base set the price to be more conducive to collecting right now — or was it purely experimentation?
+
+Cory Haber: I think it's both. It's an idea that could work in any market, but it also takes current conditions into consideration. A combination of both.
+
+Will: Great segue into talking about your sense of the market right now as an artist. We've noticed not just a slowdown among artists, but a slowdown in projects that might otherwise have minted out — floors dropping, surprising offers, especially on fx(hash). At the same time, there's this mass proliferation of platforms and groups, and demand for bigger artists — which I'd put you in — to drop work with them. I know you released something with Proof recently, and this Verse project was in talks for a long time. I imagine you get a lot of inbound interest — "can you do a drop here," "I have this new platform," "I have this new thing." What does that feel like from the artist's side? What are your hesitations, and what makes you want to say yes to a group like Proof, or a new platform that might emerge in six months looking for a great Genesis artist?
+
+Cory Haber: For me it comes down to: why would it be good for us to work together? It should be mutually beneficial. Verse, with the physical paintings in a gallery, was a very attractive idea for someone like me who makes physical one-of-ones. Proof was similar — there was a physical gallery component in New York City, the first time I'd ever hung art in a gallery anywhere in the world. Things like that interest me when someone approaches me. But there's also so much demand from platforms now that you start to realize you can operate on your own as an artist — I can release my work on my own contract, use Foundation, whatever I choose. I haven't done much plotting lately because I've been focused on longer-form, curated projects, so I want to get back to plotting at some point this year and make that my focus again.
+
+Will: Plus you have a day job, so you can let the plotter run while you work, right?
+
+Cory Haber: It's a little loud, if you've heard it—
+
+Will: Zoom calls. Has that come into consideration at all, with the success of *SOL* and other projects you might have on the horizon? Is there potential for this to become full-time for you?
+
+Cory Haber: It's not even a question—if I could, I would. I feel like I'm living someone else's life right now. My whole life I wanted to do these things, but I never found the right community. I made paintings, sort of a thing I'd go in and out of over time. I didn't have a consistent art practice. It wasn't until I learned to code and learned about Processing that it became an everyday obsession. It just took a lot of time for me to get into this space and believe I could ever make it full-time. But yeah, if I could, I would.
+
+Trinity: I think that's one of the downsides of being in the greater New York City area—everything is just a little bit harder.
+
+Cory Haber: That is true. But it's the struggle that defines us. I don't see them as roadblocks, just challenges you have to overcome if you want that thing. Just keep going.
+
+Trinity: So how much of your spare time do you spend on this? It's a very time-consuming hobby, I assume.
+
+Cory Haber: I feel like I've moved past hobby. I'll wake up most days at 5:30 AM and write code until the kids wake up, which unfortunately is around 6:30, sometimes earlier. Then I'll work my day job, and start up again from 8 PM to around 11 PM. That's most days.
+
+Will: So you're opting into the sleep schedule of someone who has a newborn, essentially.
+
+Cory Haber: Hey, I've been there a few times now. Very normal for me.
+
+Will: I feel like we've got a good sense of you and a lot of your projects. Let's do some rapid fire, less specific questions. One we love to ask artists: what do you like to collect? Do you collect on fx(hash)? Do you do any Tezos stuff?
+
+Cory Haber: I'm surprised you didn't look me up.
+
+Will: I looked up your ETH collections. I know you haven't released on fx(hash)—that's another question we have, whether that's a consideration for the future. Maybe we can get to that.
+
+Cory Haber: I have collected on fx(hash) and Tezos in general. In fact, the very first place I collected and minted was Hic Et Nunc. That's where I started. It wasn't until someone gave me a Foundation invite that I moved over to ETH—well, I did do one thing directly on OpenSea, but I was mostly on Hic Et Nunc and OBJKT.
+
+I don't collect frequently, and not for any specific reason—we all have financial constraints and have to take it easy sometimes. But when I see something above and beyond, I try to jump in on primary. That happened recently with a piece I found so beautiful—the composition was a simulation of charcoal on paper, of flowers. I reached out to the artist, someone I'd never spoken to before, and offered to plot it for him: send me your file, I'll plot it and ship it back to you, I think it was to South America. That's how I like to stay involved as an artist—finding other artists I like, collecting their work, and reaching out.
+
+Trinity: Looking through your collection right now—and I have to say, given that it's a little past lunchtime, your two pieces from *Marinara Moments* are looking exceedingly delicious, and they seem to be the only non-generative work here. We don't need to go into detail, I just wanted to call that out and see if there was a brief story.
+
+Cory Haber: No real story. We connected a little over Italy and food, and I've had the pleasure of meeting him a few times in person.
+
+Trinity: Sidebar—it's clearly the most delicious piece in your collection.
+
+Will: We know you've collected some Schwittlick pieces and gotten some physicals. Any other artists you want to shout out?
+
+Cory Haber: I'm trying to collect more plotter work for sure—Andrew Strauss, I'm a huge fan, he's constantly pushing what plotters can do. There are so many, I'd hate to single any one out, but I'm really interested in spending more time finding physical one-of-ones to collect.
+
+Will: What about fx(hash)? Is that on your radar at all?
+
+Cory Haber: Not only was it on my radar, I was building a project for fx(hash) last year, right before Foundation. I had no connection to any platform at that time—I'd only basically released my work on Foundation, and I was working on an fx(hash) project when Foundation reached out to me. Then *SOL* happened, Proof happened, Verse happened. So it's absolutely something I'm going to do, just finding the time.
+
+Will: Should we do some rapid fire, Trinity? Want to throw one out?
+
+Trinity: I'll steal Will's for the moment. Imagine it's 5:30 in the morning, the kids are asleep, you're hard at work coding your heart out—what are you listening to?
+
+Cory Haber: It ranges between Rage Against the Machine, Grateful Dead, and classical music.
+
+Trinity: Those are all classical music to me.
+
+Cory Haber: Hell yeah. Throw some Chili Peppers in there too.
+
+Will: Where do you stop in the Rage Against the Machine catalog? First album only, or all the way through?
+
+Cory Haber: I let Apple Music decide—I just say "put this on" and that's it.
+
+Will: Like a station seeded off Rage Against the Machine, not exclusive to it.
+
+Cory Haber: Exactly. Same with the Chili Peppers—too much to go through, so I just say put anything on from any album, and that works for me.
+
+Trinity: If you ever want an IRL radio station recommendation, I have to plug Alt 92.3 here in New York—just yesterday I was in the car and "Californication" came on and I was like, yes. Sorry, baby, we're listening to this real loud right now.
+
+Will: Babies can be very sensitive.
+
+Trinity: She didn't seem to hate it. She just hates Janet Jackson—that's the one thing I've discovered.
+
+Cory Haber: That's too bad. But if it's 5:30 in the morning, I'm more Grateful Dead and classical. Later on, post-work, it's Chili Peppers and Rage.
+
+Will: Here's one Trinity usually asks, but I'll ask it this time: who would you like to hear us interview next? Can be artists, collectors, platform owners, anyone in the ecosystem or even outside it.
+
+Cory Haber: Recently, during NFT NYC, I was at Artmatr—obviously you were there too—and one of the most interesting panelists I saw was someone from the traditional art world. I think we need more critique and criticism from other voices. It would be really interesting to hear from people who've been in the traditional art world for a long time, and what their views are, positive or negative, about what's going on here. A lot of people were fascinated by what this individual had to say, which was not all positive—I saw a lot of people nodding along.
+
+Will: That's definitely on our radar—getting traditional art people on the show. We just have so little exposure to them, we don't even know who to reach out to. But since that person was on that panel, maybe that's a great place to start.
+
+Cory Haber: I think there were two people. I didn't know their backgrounds—one was on a screen, told a great story, maybe he was traditional art world. But there was a woman on the panel who was definitely from the traditional art world, and she gave a lot of pointed comments, both positive and negative.
+
+Trinity: In that sense, do you have any critiques of the NFT art space?
+
+Cory Haber: Someone recently said to me there's a lot of toxic positivity, and I agreed. It's an incredible, welcoming community, but it's okay if someone says, "I don't like your art." I almost want someone to say it.
+
+Trinity: There's no room for improvement, no critique. It's all love and light, which is great, but—I don't know what the best word is.
+
+Will: Disingenuous?
+
+Trinity: Yes, it can be disingenuous—not working toward improvement. Where is the theory? Honestly, we hear most of that critique from people who've been in the space 20 or 30 years, who've seen it all. Listening to KenConsumer and Marius Watz talk about their experience in the art world, and how people are reinventing things without knowing they're reinventing them—there's a real lack of context.
+
+Cory Haber: It's funny you say that. I tweeted about an encounter with my accountant, who, the first time I met him in person, pulled out a stack of punch cards and then a folder of his plotter art from 1972. He said, "Oh, these are very simple, they're collapsing polynomials." I took a picture, posted it, and Joshua Davis started writing to me publicly, posting some of his own work, saying, "this is a collapsing polynomial." This is why I never say I'm the first to do something. We're talking about someone doing this in 1992, and here's someone from 1972. Sometimes we all think we're the first, and we're definitely not.
+
+Will: Critique is something we struggle with on the show, especially covering fx(hash), where there's no barrier to entry. For a lot of people, one or two projects taking off is the dream they've been chasing for who knows how many years—"I finally found an audience for my work." Even if it's not something you care for, or you think it's a flash in the pan, it feels almost too hurtful to ask: are these going to stand the test of time? There's so much kindness in the community that it's difficult to make those critiques.
+
+Cory Haber: I look back at some of my work and cringe a little—that's what it's about, a continuous process of improvement. If you aren't cringing at work you made a year or two ago, maybe you're not trying hard enough. That's one way I self-critique. I want to constantly be improving, and I can't do that if everyone's just always happy.
+
+Trinity: Your own happiness with your work is the other thing—we're always our own worst critics, or our best critics, depending.
+
+Cory Haber: To go back to an earlier question—why work with one platform or another? I think the amazing thing about Verse is the incredible talent on that team. They've given me feedback no one else has given me—real feedback, like "that's not good." And I'll think, am I looking at the same image? I'm surprised at first, but I let a few days go by and realize, yeah, I should switch gears a little. What they do is incredibly valuable for artists, in a way I haven't experienced as much elsewhere. I welcome the criticism and feedback.
+
+Will: All right, get in the DMs everyone if you don't like something Cory's made—he's literally begging for it.
+
+Trinity: I just hear "we need to be meaner."
+
+Cory Haber: No, no, not meaner.
+
+Trinity: Not meaner—how about as honest as possible?
+
+Cory Haber: Right, but it doesn't have to be public. It's a fine line to message someone you don't know and say, "I don't like your work, but here's why." Maybe some people would appreciate that, maybe some would be horribly offended, and you don't know. We're all operating in this online universe where most of us have never met, don't know each other so well. It's not easy.
+
+Trinity: That's also part of that cyclical self-improvement cycle. Especially within the NFT space—which moves a million miles a minute, though maybe less so right now, we're slowing down, folks—I think there's often this sense, and I'm putting a blanket statement out there that doesn't need to be true for all artists, that the market determines the quality of the work. If something doesn't sell out, that's the sign you need to improve. But if it gets flipped ten ways till Sunday and does a 10x, then you're just great, nothing needs to change. That isn't necessarily true. There's always the opportunity to reach out and ask people for critique, before or after you release.
+
+Cory Haber: Great point. Artists should also be the ones reaching out to ask for that feedback. Though—what an honor it would be to have no pieces from a collection on the secondary market. Doesn't that mean people value what they purchased, are holding it, and aren't interested in selling?
+
+Will: *SOL* is very close to that right now. I think there were only five listed when I checked on Foundation.
+
+Cory Haber: I don't know if that's indexed correctly—maybe 5%.
+
+Will: That's just on Foundation, so it's probably missing other sales channels.
+
+Cory Haber: There's such a diverse range of collectors and motivations, and it's all okay—we all do things for different reasons, and this technology has opened up so many avenues for so many different people. You can't really criticize people's motivations too much. Once you put it out there, it's out there, and people will decide what to do with it.
+
+Will: Cory, as we wrap up, do you want to turn the tables? Any question you want to ask us?
+
+Cory Haber: I'm honestly not that knowledgeable about this space. I'm curious about your take on the market—what you foresee happening in the next six months to five years.
+
+Trinity: That's a really long timeframe.
+
+Cory Haber: Okay, maybe not five years.
+
+Trinity: Even six months from now is hard enough—let alone ten years, or a hundred years from now.
+
+Cory Haber: Fair, let me rephrase. No one can predict the future, and anyone who claims to know exactly what's going to happen—you should throw that advice away. But what's your confidence that in six months to two years, we'll all still be here?
+
+Will: Six months, high confidence—at least for the show, and for a lot of artists. What about you, Trinity?
+
+Trinity: I'd lean a little more bearish, at least until recently. We interviewed Seth from Bright Moments a week ago, and something he said really resonated with me: if something has happened once, died down, and then happened again, there's a good chance lightning will hit that tree a few more times. Within the NFT space, it wasn't one and done—it was one, kind of done, and then back for more. I think blockchain is only in the initial stages of adoption, and as its use becomes more normalized—whether through native cryptocurrencies or people just paying in USD that gets routed to a crypto wallet—we'll see whole new patterns of behavior emerge. I think we'll have way more people in this space in two years. Will it be as pump-and-dump and hyped as it is now? I don't know. But it's a new paradigm—that much I do know.
+
+Will: I'm hopeful the pump-and-dump, scammy stuff dies off. A lot of what's happening, particularly on the Ethereum side—royalty evasion, the race to the bottom among platforms, token-farming incentives with Blur—is quite possibly killing that entire genre of project, or at least making it so only the real projects persist. Which is good. That stuff is toxic, and it contributes to the challenge of legitimizing this technology as a way to convey, own, and experience art. So I'm all for it dying, even if our bags take a hit as a secondary effect in the short term.
+
+I think we'll see a lot of artists leave the space—people who went full-time and now can't sell the way they did in 2022—though maybe they'll be back when things improve. Same with platforms. I'm concerned about where all these platforms are going to get the fees they need to sustain investment and interest during this down period, to keep their runway going. Every time I see a new one pop up and five fx(hash) artists jump over there, I think: fx(hash) is big and established, they need your fees. I feel like we should be rallying around the few platforms we really like instead of scattering in every direction. But I can't fault artists for making choices that make financial sense for their own careers—it's a real tension. I hope that with the next upswing, things will be more art-focused, and we'll all be really happy to have stuck it out through this entire trough.
+
+Cory Haber: I agree with all of that. It almost feels obvious—like the tulip bubble of 1637, or whenever it was: all this excitement, all these new people, all this money coming in, then the reality that there has to be a correction, followed by a long road to some form of normality. Maybe it's not Ethereum, maybe it's not Tezos, maybe it's fiat currency—no one knows. But are people going to stop making art? No. Is the global human desire to live with art going to end? No. This has unlocked a Pandora's box of creativity around the world that had no outlet before. We saw an explosion of new work, and now there's going to be a leveling off, but I don't think it ever ends.
+
+Trinity: That segues into a rapid-fire question that's top of mind for a lot of people these days: the proliferation and improvement of A.I. art. As someone with a lifelong interest and practice in art, what do you think of that medium?
+
+Cory Haber: I approach it the way I approach code or plotters—it's a tool to express human creativity. We're in an age where we're finally using advanced technology to create art, and there's a market for it. There are artists creating and training their own models with their own datasets, pushing the bounds of what we call art and creativity. It seems so obvious in hindsight: street art wasn't art, graffiti wasn't art, Impressionism wasn't art. To say A.I. isn't art, or to heap so much negativity on A.I. artists, is unfair. It's a tool, like a paintbrush, to express human creativity. I find it fascinating to be living through this—I feel like I'd only ever read about these shifts before, and now I'm living it. We're all living it. It's really interesting.
+
+Trinity: As art proliferates and more people enter the space—generative, A.I., any type of art—what makes art good? That ties back to our question about critique.
+
+Will: Simple rapid-fire question there.
+
+Trinity: Simple. Rapid-fire.
+
+Cory Haber: What makes art good? Emotional connection.
+
+Will: Succinct, I like it. Same answer Lonliboy gave in our interview with him, more or less—common theme.
+
+Cory Haber: Positive or negative. Does it make you angry? Then maybe that's good art too.
+
+Trinity: What if it makes you bored?
+
+Cory Haber: Well, that's probably not good.
+
+Will: That's the exception.
+
+Cory Haber: A strong positive or negative emotion is better than "I'm bored."
+
+Trinity: So indifference is to be avoided.
+
+Will: Cory, as we wrap the episode—other than TENDER, other than Verse, other than a potential fx(hash) drop TBD—anything else you want to preview? Anything you're excited about? Art Blocks, other platforms you might release on this year or next?
+
+Cory Haber: Well, I mentioned Adam from TENDER earlier—that's all I'll say about that. I really want to spend time plotting, thinking of new ideas, new materials, maybe not just paint. What I love is building this big plotter, working at scale, and seeing what I can do with it—that's something I'm longing for now. I started out doing plotter work, met people who asked, "Plotters? Where's your long-form generative work?" So I moved toward long-form generative, and now people ask, "Are you still doing plotter work?" I feel like I'm either ahead of some curve or behind it, never quite on it. But that's okay.
+
+Will: We're always looking for an artist to collaborate on a Waiting to Be Signed token, so that option's available to you too.
+
+Cory Haber: Nice.
+
+Will: Once you're done with Adam, maybe. Thank you so much for jumping on and doing an episode with us—it was really cool to talk about this project. I hope everyone heads over to Verse and checks it out. You'll have several days to bid, rebid, and get nervous about where your bid sits amongst the cutoff—it's going to be really cool to watch. Hope you had fun on the episode. Great to have you.
+
+Cory Haber: Thank you both so much. Really awesome talking with you.
+
+Will: All right, that was Cory. Thanks again—we hope you all enjoyed that interview. We'll be back soon with another episode. As always, thank you, Trinity. That's it for this one. See y'all soon. Bye.

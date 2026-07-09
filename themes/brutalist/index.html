@@ -1,0 +1,126 @@
+{% extends "base.html" %}
+{% block content %}
+
+<header class="hero">
+  <div class="top">
+    <span>A podcast // generative art on the blockchain</span>
+    <span>Est. 2022 // <a href="{{ show.twitter }}" target="_blank" rel="noopener">@waitingtosign</a></span>
+  </div>
+  <h1><span>Waiting</span><span class="out">To Be</span><span>Signed</span></h1>
+  <div class="bottom">
+    <div class="lede">{{ stats.episodes }} episodes. {{ stats.interviews }} interviews. Two hosts — Will &amp; Trinity — and everyone worth talking to on fx(hash), Art Blocks &amp; Verse.</div>
+    <div class="mono">Every interview — transcribed, set to read, and linked to where you listen.<br><br>{{ stats.episodes }} episodes deep // and we're not done yet.</div>
+    <div class="act">
+      <a id="hero-surprise">Read a random one <span>→</span></a>
+      <a href="#arch">Open the index <span>→</span></a>
+      <a href="{{ show.spotify }}" target="_blank" rel="noopener">The weekly show <span>↗</span></a>
+    </div>
+  </div>
+</header>
+
+<div class="stats">
+  <div><div class="n">{{ stats.episodes }}</div><div class="l">Episodes</div></div>
+  <div class="hl"><div class="n">{{ stats.interviews }}</div><div class="l">Interviews</div></div>
+  <div><div class="n">{{ stats.platform_founders }}</div><div class="l">Platform founders</div></div>
+  <div><div class="n">{{ stats.seasons }}</div><div class="l">Seasons · since 2022</div></div>
+</div>
+
+{% if quotes %}
+<section class="quote">
+  <div class="tag">Fig. 01<br>From the archive<br>cycling</div>
+  <div class="q">
+    <blockquote id="q">{{ quotes[0].text }}</blockquote>
+    <div class="attr" id="qa">— {{ quotes[0].name }} / {{ quotes[0].title }}{% if quotes[0].platform %} / {{ quotes[0].platform }}{% endif %}</div>
+  </div>
+</section>
+{% endif %}
+
+<section class="arch" id="arch">
+  <div class="head">
+    <h2>Index of interviews</h2>
+    <input id="search" placeholder="SEARCH…" autocomplete="off">
+    <span class="c" id="count">{{ episodes|length }} entries // newest first</span>
+  </div>
+  <div class="filters" id="filters">
+    <span class="chip on" data-facet="all">All</span>
+    <span class="chip" data-facet="type" data-val="artist">Artists</span>
+    <span class="chip" data-facet="type" data-val="collector">Collectors</span>
+    <span class="chip" data-facet="type" data-val="builder">Builders</span>
+    <span class="chip" data-facet="plat" data-val="fxhash">fx(hash)</span>
+    <span class="chip" data-facet="plat" data-val="art-blocks">Art Blocks</span>
+    <span class="chip" data-facet="plat" data-val="verse">Verse</span>
+  </div>
+  <div class="rows" id="rows">
+    {% for ep in episodes %}
+    <a class="r{% if ep.is_founder %} f{% endif %}" href="{{ ep.slug }}.html"
+       data-type="{{ ep.guest_type }}" data-plat="{{ ep.platform_key }}" data-search="{{ ep.search|e }}">
+      <div class="i">{{ ep.num }}</div>
+      <div class="nm">{{ ep.guest }}</div>
+      <div class="rl">{{ ep.role }}</div>
+      <div class="pl">{{ ep.platform }}</div>
+      <div class="du">{{ ep.duration }}</div>
+      <div class="go">→</div>
+    </a>
+    {% endfor %}
+  </div>
+  <div class="empty" id="empty" hidden>No entries match.</div>
+</section>
+
+<section class="about" id="about">
+  <h2>About the show</h2>
+  <p><em>Waiting To Be Signed</em> is a podcast hosted by Will and Trinity about generative and
+     on-chain art. Alongside the weekly news show, they sit down with the artists, collectors,
+     and platform builders behind fx(hash), Art Blocks, and Verse. This archive collects the
+     interviews with full, readable transcripts — {{ stats.episodes }} episodes deep, and we're
+     not done yet. Spot an error on any transcript and you can suggest a fix.</p>
+</section>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // hero "read a random one" reuses the header shuffle
+  document.getElementById('hero-surprise').addEventListener('click', function () {
+    document.getElementById('surprise').click();
+  });
+
+  // filters (single active facet) + search
+  var rows = Array.from(document.querySelectorAll('#rows .r'));
+  var chips = Array.from(document.querySelectorAll('.chip'));
+  var search = document.getElementById('search'), count = document.getElementById('count'), empty = document.getElementById('empty');
+  var facet = { kind: 'all' };
+  function apply() {
+    var q = search.value.trim().toLowerCase(), n = 0;
+    rows.forEach(function (r) {
+      var okF = facet.kind === 'all'
+        || (facet.kind === 'type' && r.dataset.type === facet.val)
+        || (facet.kind === 'plat' && r.dataset.plat === facet.val);
+      var okQ = !q || r.dataset.search.indexOf(q) > -1;
+      var show = okF && okQ; r.style.display = show ? '' : 'none'; if (show) n++;
+    });
+    count.textContent = n + (n === 1 ? ' entry' : ' entries') + ' // newest first';
+    empty.hidden = n > 0;
+  }
+  chips.forEach(function (c) { c.addEventListener('click', function () {
+    chips.forEach(function (x) { x.classList.remove('on'); }); c.classList.add('on');
+    facet = c.dataset.facet === 'all' ? { kind: 'all' } : { kind: c.dataset.facet === 'type' ? 'type' : 'plat', val: c.dataset.val };
+    apply();
+  });});
+  search.addEventListener('input', apply);
+
+  // cycle the archive quote
+  var quotes = {{ quotes|tojson }};
+  if (quotes.length > 1) {
+    var qi = 0, qt = document.getElementById('q'), qa = document.getElementById('qa');
+    setInterval(function () {
+      qi = (qi + 1) % quotes.length; var qq = quotes[qi];
+      qt.style.opacity = 0;
+      setTimeout(function () {
+        qt.textContent = qq.text;
+        qa.textContent = '— ' + qq.name + ' / ' + qq.title + (qq.platform ? ' / ' + qq.platform : '');
+        qt.style.opacity = 1;
+      }, 220);
+    }, 6500);
+  }
+</script>
+{% endblock %}

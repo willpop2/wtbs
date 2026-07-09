@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Waiting To Be Signed{% endblock %}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ root }}style.css">
+</head>
+<body>
+<div class="note">Waiting To Be Signed · interviews on generative art, on-chain · since 2022</div>
+<div class="wrap">
+  <nav class="nav"><div class="in">
+    <div class="b">Waiting To Be Signed</div>
+    <div class="links">
+      <a href="{{ root }}index.html#arch">Index</a>
+      <a href="{{ show.spotify }}" target="_blank" rel="noopener">Weekly ↗</a>
+      <a href="{{ root }}index.html#about">About</a>
+      <a href="{{ show.twitter }}" target="_blank" rel="noopener">X ↗</a>
+      <button class="sh" id="surprise">⚄ Surprise</button>
+    </div>
+  </div></nav>
+{% block content %}{% endblock %}
+</div>
+<footer>
+  <span>Waiting To Be Signed · since 2022</span>
+  <span><a href="{{ show.twitter }}" target="_blank" rel="noopener">X ↗</a> / FARCASTER @WTBS / WTBS.TEZ / WTBS.ETH</span>
+</footer>
+<script>
+  document.getElementById('surprise').addEventListener('click', async function () {
+    try {
+      var list = await (await fetch('{{ root }}episodes.json')).json();
+      location.href = '{{ root }}' + list[Math.floor(Math.random() * list.length)] + '.html';
+    } catch (e) { location.href = '{{ root }}index.html'; }
+  });
+</script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

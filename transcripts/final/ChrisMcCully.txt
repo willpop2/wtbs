@@ -1,0 +1,495 @@
+Will: Hello and welcome, everyone, to another episode of Waiting to Be Signed, another special interview episode. We're here with Chris McCully, fx(hash) legend, prolific generative artist and coder. And of course, Trinity is here too, as always. What's going on, everyone?
+
+Chris McCully: Hello. Good morning or afternoon.
+
+Trinity: It's good morning somewhere.
+
+Will: Chris, did you get some bouldering in this morning before the recording?
+
+Chris McCully: No, not yet. I think today or tomorrow might be the first day I go back in a good while.
+
+Will: Well, we'll get to that later in the episode. Obviously we've done our research on Chris — we know what his hobbies are — but we're here to talk about the art and get his story. So Chris, why don't you introduce yourself to everyone here? Let us know a bit more about you — how you became an artist, your path to creative coding, Tezos, crypto, fx(hash), all of that.
+
+Chris McCully: I'm Chris. I'm a generative artist. I release primarily on fx(hash) and really love the community there. I've been in a lot of industries. Starting out of high school, I went into the film industry, where I did grip work and was a second AC for a while. I was an editor for a while, and for a very short period I was a director of photography on some small projects. Then I switched to photography and worked in fashion — fashion marketing and editorial. I recently, a few months ago, left that industry and am doing generative art full-time. That's the speed round — that's where I am now.
+
+Will: Okay, crypto, Tezos, all that stuff — have you always been a crypto guy, or how'd you get here?
+
+Chris McCully: No. I think it was 2020, the first time I actually had money to invest — I was finally making enough to not live paycheck to paycheck. I dipped my toe into crypto and then went full force, actually day trading for a while, which I was not incredible at. I was okay enough to be profitable for a good while, but I wasn't rich. I joined a few groups of traders, and we'd send each other analysis and trading calls. In one of those groups we had a channel for random hobby stuff, and someone posted about messing around with — I don't remember exactly what it was, some AI text prompt thing — and that was the first thing that made me think, let me play around with AI. I'd never seen anything like it at that point. That was my introduction to something that's blowing up right now but was barely known at the time — not really in the public eye yet.
+
+Then he showed me Hic Et Nunc, and showed me the NFT minting and sales feed. Coming from a trading group, I started buying and reselling art. All I was really doing was buying art I liked, and I had an okay strategy because I felt I had a decent eye — if I bought something I liked, it would probably resell later for at least a few tez more.
+
+Then I messed around with AI for a long while. I had an iPad and did digital paintings in Procreate, modifying things — I went down so many different roads. AI is so much better now than it used to be; when I started, it took a lot of computing power to do not very much. I used to do mixed AI processing, anywhere from 5 or 10 steps up through 1,000 steps of GAN processing on digital paintings, which was really fun. I'd never messed with painting as much as I did in that six-month stint, around August of 2020 or 2021.
+
+Trinity: '21, the same year as fx(hash).
+
+Chris McCully: Yeah, this was a few months before I got into generative art. I think the first person I found was Generate Coal.
+
+Will: *Celestial Collisions*. They haven't dropped in a long time.
+
+Chris McCully: It's been a minute. I saw a lot of what they were doing on Hic Et Nunc, which was really cool to me — nothing I'd seen before. I started hearing a lot more about generative art in Twitter Spaces, people talking about the industry, collectors talking about what they were interested in. I dipped my toe in with a Domestika course on creative coding where you just follow along. Before that, I hadn't done anything with code except Frankensteining notebooks together with different GAN models to try to make them work in Python. Python's pretty easy to understand — about as close to English as you can get, maybe aside from some of the very starter languages. Moving to JavaScript, I just followed along and learned from context clues, I guess. I'd code at the same time the instructor coded — pause, type the same line he typed, and if it messed up, I'd see why. And then Coding Train, obviously.
+
+I got very interested in what could be done. I saw a lot of what was coming out of Art Blocks at the time — there's one particular piece, an isometric grid, that I thought was gorgeous.
+
+Will: *Archetype* is what it's called.
+
+Chris McCully: *Archetype*? I think it was this one, yeah.
+
+Will: This is one of the top five Art Blocks grails, so it's gotta be this.
+
+Chris McCully: Seeing all the different possibilities — oh wow, they wrote this and it consistently puts out this — I kind of had some quote-unquote generative experience with AI already, in that I could give prompts, which were sort of like defining rules. In the middle of all that, I did *Generations*, an AI generative hand-drawn mixture. I had PNG layers I'd drawn — just different scribbles and pieces of composition — and I'd stack those layers generatively using somebody else's model, since I still didn't know JavaScript at the time. It would output unique compositions, and then I'd run that composition through a GAN notebook with a simple prompt like "painting" to give it texture. The color and composition would stay intact, but it would blend and add texture. I'd release those in groups of 10 or 25, which was tedious minting one at a time on Hic Et Nunc — I don't think there was a batch minter yet — but I really enjoyed that process.
+
+Trinity: That was kind of your first step into actually releasing your own work. Were you more profitable than day trading?
+
+Chris McCully: I'm pretty sure all of *Generations* is sold out — I think I did 100 or 200 in total.
+
+Trinity: If it's not sold out, it will shortly be after we mention it.
+
+Chris McCully: Oh yeah, there are still a few hanging around. All of the original phases pretty much sold; the later ones are where it started to struggle, because I think I was reaching the limits of the system — maybe it started repeating similar compositions that weren't as interesting. That's how I learned about the limits of generative art, that you can really hit a wall with an algorithm where it's just... this is what it's capable of, and that's fine, that's the amount of variation you get from it. Everything from then on is pretty much public history — most of the projects I've worked on are on fx(hash). My very first generative work, *Bézier's Four Ways*, was my first ever piece in p5 — that was just playing around, and I decided to implement it to see what happened.
+
+Will: When you first started working in p5 and thinking about putting work on fx(hash), versus the HEN derivatives that were around at the time — HEN 2000, Teia, and so on after HEN went down — were you just making stuff as an exercise? Like, you'd watch a Coding Train video, learn something new, and whatever sketch came out of that is what got put up on fx(hash)? Or was it the opposite — you had an idea, and then went and found what you needed to learn to execute it?
+
+Chris McCully: A bit of both, mostly the former in the beginning. I'd have a question about how some generative system works, go look into it, and find the best method through Coding Train videos or other coding channels that work in p5 or Processing.
+
+Trinity: Is that how your first project came about?
+
+Chris McCully: With *Bézier's Four Ways*, I wanted to find something that isn't just putting boxes of different colors on screen — something that makes curves that look like potential shapes or brushstrokes. I was just looking at the documentation for p5, probably looking at other people's sketches to make sure I was structuring everything correctly, but I didn't find Coding Train until a few projects in. I think it was probably *Tree Rings*, where I found his polar noise loop video — a hugely helpful thing if you're a generative artist and want to learn how to make very organic shapes. Learning polar noise loops is also really helpful for making animations that loop. It's really cool.
+
+Trinity: It's insane that you were basically just dabbling here and there. We were Coding Train enthusiasts pretty much from day one trying to learn, and the fact that you successfully minted out four projects before you even found it is impressive.
+
+Chris McCully: I was very happy about it. I don't think you need to do anything terribly complex to make a good piece of generative art. Going in with some level of design knowledge is what maybe helped me in the beginning, along with being extremely lucky — I had good friends in the space with followings who shared my work at the time, and it happened to get the visibility it got. And fx(hash) was still really young then, so the bar for quality wasn't as high, especially when things were selling for 10 cents.
+
+Will: You weren't selling for 10 cents, were you? Were you really selling for like 0.1 tez? At that time that would've been even less than 0.1 in dollar terms.
+
+Trinity: It was 0.1.
+
+Chris McCully: Oh yeah, yeah, yeah.
+
+Will: That would've been like 50 cents back when tez was $5.
+
+Trinity: That's pretty much true, yeah — it was like $200 or so for your first project. Not bad.
+
+Chris McCully: Yeah, absolutely not bad.
+
+Will: Looking at your early work, you have *Bézier's Four Ways*, *What Does It Take to Be Successful*, *Jellybean Singularity*, *Floating Bookshelves*, *Tree Rings*, *Coastal Waves*, *Multibiome*, and *Creta Circulum*, released the same day as *Multibiome*. That's a two-and-a-half-week stretch. And you had a job while you were doing this?
+
+Trinity: Is this like—
+
+Chris McCully: I was day trading full-time at that point.
+
+Will: So you weren't doing any of your film stuff. The reason I'm asking is — you're learning to code, but also finding success, and I don't think anyone collecting your work at the time thought, "oh, Chris is just some guy learning to code in real time." I wonder if part of that is your skillset in design and the arts carrying over from film, because even in your earliest projects you do a really good job of making sure things are cohesive, coming up with color schemes that work. So — is there any part of your previous career that you feel really helped you make this transition? Basically, someone with no coding experience — what do you think is the link that helped you find that early success?
+
+Chris McCully: Design knowledge is such a big deal to me, and that's what I'd attribute my success to. A lot of the early work on the platform came from extremely talented coders, people knowledgeable in complex math and functions, but their color schemes would just be RGB, or some crazy bright neon that's a bit of an eyesore. The only thing that made a difference for me was that I wasn't seeing much of a tasteful palette out there. That tastefulness is obviously just my own taste, but it wasn't something people were leaning into. You look at Archetype, though, and it's very nice, soft, dull palettes with little pops of color here and there. That's really it.
+
+When I started working in 3D, which I haven't stuck with for many projects, I felt the fact that I worked as a grip for so long — that's the lighting department on film sets — was extremely important. Learning light is a huge thing if you want to work in 3D, whether that's on a film set or building things in Blender. Light, color, and composition are all things worth studying — I don't want to call them rules, since there aren't any, but tips and suggestions that help make your art more pleasing. In the end, it doesn't matter how complicated the algorithm is. As long as it looks good, looks interesting, and conveys the feeling you want someone to have when they see the piece, that's what catches people's eye.
+
+Trinity: We've seen that a lot in the growth of artists on this platform. There are people who are design-first and learn to convey their aesthetic through code — and we've seen that group, yourself included, get so much more proficient over time. It must be satisfying to see your visions actually come through in all these different outputs. Then there are the coders learning to bring more aesthetic sensibility into their work. Either way, the caliber has grown significantly over time. What were some of the turning points where you thought, "aha, now I'm able to do this thing I couldn't before"? You've already mentioned *Tree Rings* and the loop pieces — what else?
+
+Chris McCully: Everything I've done taught me something — that's how it went for a long time. Every project was me experimenting or trying to learn something new, and I'd eventually find a path in the learning process where I could fork off and make something that was actually intelligible art, an algorithm that worked. *Floating Bookshelves* was me attempting to learn nested loops. *Tree Rings*, *Polar Noise*, *Coastal Waves* — that was figuring out an effect with noise to create overlapping lines and try to make some sort of wave effect. *Multi-Biome* was learning 3D.
+
+A major turning point was probably *Fleur de Sinus*, where I was really focusing on composition — breaking the frame, building the idea that there's a world outside of it — and also really focusing on color. A lot of my color palettes from that era came out of *Fleur de Sinus*.
+
+Will: I thought that one was going to break through. I was minting it heavily — I was like, this is going to be Chris's big breakthrough.
+
+Chris McCully: In a lot of ways, I think it was. At the time, that was probably the most respected and talked-about work of mine, aside from *Protein Pelt*, which had this weird second life. It was popular, then forgotten about, and then it suddenly popped up on Tender's icons tab. I was like, what? Why am I on here? Nobody was talking about this. The project happened, was forgotten a couple days later, and then suddenly there it was. I can probably attribute a lot of that to Flood, one of the original community members on Tender. He was very into *Protein Pelt* — I think he owns something like 50 editions.
+
+Will: *Protein Pelt* was such a price-discussion favorite, from the moment it was minted through weeks and months after. People talked about that project a lot. I don't know if you have the same memories, Trinity, but I feel like it perennially came up as an undervalued gem — "go get this piece, it's going to be a grail someday." It got talked about frequently by a lot of the original price-discussion crowd.
+
+Trinity: My recollection is kind of the intersection of two things: it was on Tender's initial icons list, early days, and when people were looking for what to buy with limited Tez, that list would be sorted from lowest floor to highest. *Protein Pelt* was one of those potential-grail projects people really believed in, so it was one of the first things people saw when they sorted that way. A lot of projects at that point saw real movement until they were no longer the lowest floor, because the floor had been bought up. Pretty cool.
+
+Will: What's the story behind that piece? I think it's an important one in your body of work. What were you learning, what was the idea behind it, and how do you feel about it now?
+
+Chris McCully: This is a testament to two things. One: if you keep throwing stuff at a wall, eventually something sticks. This was toward the end of a big sprint of learning generative art — I kept releasing projects, not with the intention of always selling out or making money, just still learning how to do this. And the result was a far cry from what I'd set out to make. Which is the second testament: happy accidents are such a big part of the generative art process, and that's part of why I love it. If I were painting and made a mistake, sometimes that creates something interesting, but I wouldn't accidentally repeat that mistake across the entire canvas and create a whole new piece of art. With code, a small change in the rules can affect the final output in a major way. Little bugs and glitches often look incredible, and you never intended them — you just stumble upon them.
+
+Have you seen truchet tiles?
+
+Trinity: A classic.
+
+Chris McCully: It was supposed to be something reminiscent of that — a "rake" moving vertically or horizontally that hits a point and changes direction in 90-degree intervals. Send a few of those out at once and they'd draw over each other and interlace. I'd seen similar things done, but always in that tile formation, and I wanted it to feel more irregular. I literally made a decimal error in how often the turning would happen — I was one zero short on the noise scale that told it when to turn. So it just kept constantly turning, spinning, wandering, pointing whichever direction it wanted, wandering out from a central point.
+
+As I always do — which is how I've broken everybody's computer, especially early through the middle of my catalog — I put that effect in a nested loop and told it to run 100 times, to see what happens when you layer a bunch of them and let that complexity meld into one central mass. That's essentially the story. I tried a bunch of different compositions, and what stood out most was leaving it as a central mass spreading in this lifelike, amoeba-ish shape. I let the palette picker pull from every palette, so it felt natural and lifelike.
+
+I have a friend, Santiago — a lot of people probably know him — who, if I recall from our conversations, studied biology at one point, dairy biology specifically, though I don't think it became his career. He sent me pictures of proteins that looked really similar to the outputs I was sharing on Twitter at the time — these little tiger stripes or leopard print, all these nooks and crannies of lights and darks. They felt really natural. So the name was fitting from there.
+
+That piece was maybe 12 to 15 hours of work, which is where I really feel like you don't need some crazy complex algorithm to make good art that people like. You just keep throwing things at the wall. It's like artists who record 500 songs and only 10 end up on the album — keep making things that interest you, and if you're not interested anymore, you can revisit it later.
+
+Trinity: You are really right, though — it's the palettes and color combinations. Even if it's random, they all work together so well in these delightful, organic ways. I don't see it as just random application; it looks so good, like there's a lot of intention there even if there isn't. You hid that very well.
+
+Chris McCully: I really appreciate that.
+
+Trinity: If this were contrasting, conflicting neons of various shades, it would probably be less impactful. I think that's where the design taste really comes through.
+
+Chris McCully: I'm really glad it hits like that.
+
+Will: I want to ask you something before we get to specific releases. Hearing your story — day trading crypto, then day trading on HEN, getting into art through a trader's mentality — how do you think about the market now as an artist releasing work? How conscious are you of that? Maybe not so much in the early days, when you were just releasing sketches to learn, but more so now. You've had two phases, right — this really hard run from November through February or so, then some time off, and now you're releasing again. So, two questions I guess: do you think of those as two distinct eras of your career as an artist? And how does that day-trading mindset you developed play into how you design and think about your releases now?
+
+Chris McCully: As far as the eras go, which is a simpler question to answer, I definitely feel like there were at least two. I left for a while — I had a lot of personal stuff come up and took some time off to work on myself. I slowly got back into it, partly because I'd been burning out working at that pace without filling my head with life experiences to pull inspiration from. I was just sitting at home, making code, watching Netflix, going to sleep, waking up, making code.
+
+Then there's a second era, starting with *Resicolor*, which was my first "okay, I'm really warming up again" piece — I hadn't touched code in three or four months. And I think there's a third era too, though I don't know how to self-define these things, where I really switched up my workflow and how I build things. That starts with *Kinjo* and *Immuur*, where I sat down and decided: if I'm making something, I want it to look good on my wall. I want to be confident I'd want this in my space as a piece of art — not just "oh, that's cool that he did it with code," but "this is actually really pretty, this actually moves me."
+
+On the market question — I try not to think about it much. I'll sometimes buy a project early with maybe the hope of reselling later, but I always end up loving the piece too much to let go. I bought a *September* on secondary about ten minutes after it dropped, for maybe 60 tez, and I remember thinking, I really like this, but I was slightly tez-poor at the time and wondering if I should be spending the money — maybe I'll resell it down the line. Then *September* climbed to 700, 800 tez at its peak, and I thought, cool, I could really resell this. But I don't think about it that way anymore. I think about supporting the artists and the collectors, and I'm happy there's a secondary market
+
+and a secondary life for these works, partly because royalty payments are cool — I think that's a wonderful part of blockchain-based art. I love that people own a piece, experience it, love it for a while, and then pass it on to somebody who'll love it more in that time, and the cycle continues. But I don't think art is always an investment. You buy it and spend the money to own it and experience it, for all sorts of reasons. I don't personally invest in art anymore, but I see the appeal for a lot of people, and the market still clearly demands it. That's just my own personal take.
+
+Trinity: By "invest," are you talking more about the speculation side of things? I know you're still collecting — what's your philosophy on that?
+
+Chris McCully: I still collect because there's still a lot of amazing art out there. In the last few months I've started printing a lot of what I've collected, and it's in my space around me as I create and live, which I really enjoy. The first piece I printed, of my own work, was wild — as a sidebar, you have this world that only exists in my computer, all these people in my computer, money I've made in my computer. Then there's this surreal moment the first time I sold tez and transferred it to my bank account — like, whoa, this isn't just a game or a hobby, it affects my real life. And then I have prints hanging up, and it's like, whoa, this art that was a little box on my screen is now in my space. It's above my TV when I'm watching a movie, it's on the wall in the kitchen. That pushed me to think harder about the actual art quality of my own work and how I feel looking at it, because it's in my space now.
+
+That's one of the main reasons I still collect — I want art around me. I love seeing people express themselves, seeing new takes on how people communicate feelings through color and composition. I've always been that way — when I was more into photography, I had lots of prints in my apartment, because I wanted to feel the way those made me feel. Secondly, I want to support artists, because I feel incredibly supported by anybody who's ever collected anything from me, whether out of appreciation for the art or speculation or anything else. If they've seen something in me worth supporting — so I can pay my rent, afford internet to access the blockchain — I really appreciate it, and I feel it's a duty to give back to those who make me feel that way. They're valuable not just as artists but in my life; the fact that they exist is valuable to me. I want to see art succeed and see people make new things that make me feel new things in new ways. So really it's investing in the continuation of this industry — not from an economic standpoint, but from the standpoint of new art.
+
+Will: Any artists you want to call out or praise — ones you like to collect, or who you're always excited to see releasing?
+
+Chris McCully: Oh my God, that's tough. One of the major ones — I love seeing work from Wouter Misler, Wootskoot. I talk with him a lot; he's a very impressive generative artist, always surprising me. *Landlines* is wonderful. I've been seeing a lot of really cool work from Exalted recently, especially the works in progress I see on Twitter. Sarah Ridgely's been doing great stuff. Tyler Boswell, obviously. Jeres — or is it Heres?
+
+Will: Jeres.
+
+Chris McCully: Jeres.
+
+Trinity: There we go.
+
+Will: We know them well.
+
+Chris McCully: Wonderful work. Something about their eye for color has always blown me away, especially with *Verse* and *Hereafter*. Those palettes feel so otherworldly to me — not moody and dark, not bright and colorful, but like there's a completely other world I'm looking into. I don't know how to explain it, but it makes me feel incredible.
+
+Will: I know exactly what you mean. There's something about Jeres's colors — no one else hits it the way they do. It's indescribable, this unsettling but also optimistic quality. We'll have them on probably in the first quarter of 2023 — that's definitely something we're going to get to the bottom of.
+
+Chris McCully: One thing I appreciate about the color from a technical standpoint — if you took those hues and put them on a big square with no detail or texture, just on a wall, it would look like fine art. All the colors are so wonderfully selected. I think that's one of their major strengths — using those colors, even by themselves, to make me feel like I'm in some crazy industrial world.
+
+Trinity: It's still bright and cheery, though.
+
+Chris McCully: Absolutely.
+
+Trinity: Exactly.
+
+Chris McCully: I'm sure there are a thousand other artists I'm forgetting right now. But if I've ever collected anything from you, I hope you keep creating art. And if I haven't, I hope you keep creating art too, if it makes you feel good.
+
+Will: No offense if Chris hasn't collected your work — it's not a judgment. We've actually touched on a few pieces we wanted to talk about already, and you've been active on the platform basically since it began. One early piece that stands out — you got behind it and advocated for it hard — was *Bedlam*. If I remember right, you tweeted or talked in Discord about how you thought it was your best work to date, your most important project. I don't think it even minted out immediately — it took some time, and people maybe weren't as warm to it as you'd hoped. What was it about that project that you loved so much at the time? This was also the last project before you took a break — were you disenchanted after it didn't land the way you expected, or did it land exactly as expected? My memory isn't perfect, but it seemed like a really big, important project for you in the moment.
+
+Chris McCully: I appreciate that. Without getting too deep into my life around that time — I was going through a lot of big changes and emotional turmoil, and part of it was learning to balance life with my hobbies and my work. It's not healthy for me to just sit and work continuously without going out and engaging with life and other people. So, in a very ironic twist on dealing with my emotions at the time, I just dove into work. I spent probably 60 to 80 hours on that algorithm, which was a lot for me — a lot of learning, a lot of tweaking, a lot of just throwing myself into figuring out how to make it better.
+
+At the time it released, I really did feel it was as close as I could get to a magnum opus. From the beginning, the most interesting thing to me was creating generative work that feels like traditional art — not that it has to resemble something made before, but that it feels organic, like a human was really involved, using code as a tool and not a crutch to spit out some simple instructed design. A self-painting painting was a big idea to me, because I'd never really seen it done well in the generative space. That was the first big step — or many big steps — toward what I wanted from my own art. It was the first time I made something where I thought, I would print this and put it on my wall. I want to look at this every day.
+
+Will: Have you printed it?
+
+Chris McCully: I haven't printed *Bedlam*, surprisingly. Part of why I took such a long break afterward was that I put so much into it and burned myself out. I wanted to take time away because I knew it was missing something. I absolutely love it, I'm proud of the work, I think it's a great piece of art — but it didn't do for me what I wanted it to do. I wanted to take time away and work on the things I felt were missing, which I feel closer to these days.
+
+There are outputs of it I've wanted to print, I just haven't gotten around to it — I always get excited to print other people's work instead, or newer things of my own that feel more in line with how I've been feeling lately. *Bedlam* wasn't meant to feel bright — a few outputs are playful, but mostly I wanted it to feel like art you'd hang on your wall if you lived in a cave. Very moody, elemental, textural. And in my personal living space, that's not really the art I want to surround myself with.
+
+Trinity: It sounds like it was reflective of your emotional state at the time, if I'm reading between the lines correctly.
+
+Chris McCully: Oh yeah, absolutely. It was something where I felt like it did express how I was feeling, even as somebody who couldn't tell how I was feeling at the time. It felt pretty bare, that time in life. I was overwhelmed. If you've gone through big changes in your life and lots of turmoil, it's very easy to go numb, and I think that's where I was at that point. I wasn't dealing with it head-on — I was dealing with it through art, trying to figure out how I felt by tuning and tweaking images until they looked like what I felt like. Until I hit that thing — resonant frequencies, where you can hit the perfect frequency for some material and it cracks?
+
+Trinity: Well, it hums back at you. That's what I think the resonant frequency is.
+
+Chris McCully: Yeah, exactly. I wanted to tune that frequency of what I was looking at until it interacted with what I was feeling, and really helped me look into myself.
+
+Trinity: It sounds like it was a really good tool for the time. And I understand why you might not actually want that printed and resonating back at you now, when it seems like you're in a pretty good state.
+
+Chris McCully: Yeah, my life right now is good. It's life, and it will always be complicated and topsy-turvy — that's fine, that's perfect by me.
+
+Trinity: Fast forwarding — you took a couple of months off, and your pace at the start of fx(hash), as Will said, was tremendously fast. It's still really quick — looking at what you've been doing since May, my back-of-the-napkin math says you've been putting out almost three projects a month, averaged out. How has the process of being that prolific in this amount of time been for you?
+
+Chris McCully: I don't know if "prolific" is the word. I've been busy, absolutely. I think I'm just stuck in this place where I have so much going through my head right now, and I want to grab on and ride the wave as much as I can. I've felt that way in almost any creative endeavor I've been in most of my life — I'm always in that mode, except for maybe one or two months a year where I really hit a writer's block.
+
+Will: Yeah.
+
+Chris McCully: Those slow stretches make me realize that when I do have it, I need to embrace it and not take it for granted — that I'm feeling creative, that I have clarity on what I want to make and express. Other than that, I'm just making work, partly because I've set myself to a standard — I have a schedule now, I work on art. Thankfully, I'm in a situation where if I'm not feeling like making art that day, I can do something else productive that I do feel like doing. I'm really lucky to be in this position and not completely obligated to work for somebody other than myself.
+
+And I know the best way I can work for collectors and the people who appreciate me is to do whatever feels right for myself in the moment — not stress myself out, not worry about what they think, not worry about the money I'm going to make from this or that. I set a plan and don't think about it, I just work according to my plan. At this point, I enjoy being able to make something most days. If I'm not coding something, I've got my notebook in my bag wherever I go. My phone is filled with pictures — here's a marble wall, I went to this diner and the table has these little boomerang things all over it, I wonder if I could make that in p5. It's always going in the back of my mind. So working feels fulfilling — getting it out of my head and getting it somewhere I can share it with other people.
+
+Will: You're the master of your own practice now. You're a full-time artist — that's kind of what you told us before we got on the interview, right? So being a full-time artist now, especially in this bear market, what does that entail? Balancing the Tezos that comes in, timing when you're going to cash out, thinking about taxes — this is kind of a boring question, but also an interesting one, especially living in the United States, where you live — we don't need to get more specific than that. What does it mean to live day to day as a full-time artist functioning primarily on fx(hash) in this market? How has it changed in the last few months, or has it changed at all? Have you adapted?
+
+Chris McCully: Money in this industry is so hard to think about. I think it was Landlines who said something like: people aren't meant to make this much money at one time, and it messes with your brain — especially after working paycheck to paycheck most of my life. How do I handle this? How do I spread this out? How do I actually gauge how much money I'm making yearly based on whatever pace I'm working? It's so hard to figure that out.
+
+At this point, I pull out whatever I make in primary sales, and every week or two I'll pull out any royalty payments sitting there — or, most of the time, I'll use royalty payments to buy art. Royalties usually end up being about 25% of what a project makes overall, coming back to me over the next month or two, which is never something I can actually predict, because I never know how much interest the public will have in a project a week or two after it releases.
+
+But at this point, I just pull it out as soon as I can while we're in a bear market, because I don't know when it's going down. When I had that first sprint, I hadn't pulled out any Tezos — it just sat in my wallet, and I'd reinvest in art, buying a lot of art on fx(hash) at the time, not really thinking about speculative prices or anything. I bought it because the Tezos was sitting there, and I was still making money from other sources back then, from a day job, so it wasn't a big problem. Then I kept it in there, and then Tezos plummeted, and taxes in the US are way more difficult than they should be.
+
+So now, as a safe practice — and I think if you're an artist on this platform suddenly making a lump sum from a project, my best advice would be to take out at least 25% of what you made, or whatever your tax rate's going to be, and put it away so you can pay your taxes. Let the rest sit in Tezos and either gain or lose value, but watch out for yourself. It's very easy to lose track, and accounting is hard — that's the big thing. Doing this makes everything much easier on you.
+
+Trinity: I guess, unless you're in France.
+
+Chris McCully: Oh yeah.
+
+Trinity: With different crypto laws.
+
+Chris McCully: Portugal, I think, is doing—
+
+Will: Yeah, there are a couple places that don't have crypto taxes yet.
+
+Chris McCully: I know there are also people who don't claim their wallet as their own at all. I don't think that's safe to do, because I think one day it's going to catch up to you.
+
+Will: And this is not tax advice, not financial advice of any kind — but I brought on an accountant last year, and their advice to me was: do your best, and just establish a track record of trying to be as honest and above board as possible. It's so difficult with NFTs especially, because when you start using some of the tracking software, it's not necessarily good at capturing the buy price. Again, severely not tax advice, but what I was told was that the idea is to establish a record of attempting to comply as best you can.
+
+Chris McCully: Yeah, absolutely.
+
+Will: You want that record for if and when you ever hit that "my RGB just went to a million, I'm cashing out" moment. You don't want that to be the point where you start honestly accounting for your taxes — you want a record already in the system.
+
+Trinity: At that point, I would not want to start being honest then.
+
+Will: Right — that's when you move to Portugal, maybe. But for you, Chris, someone who's maybe paying their rent every month off of Tezos withdrawals, it's very important to have a system in place that's consistent and backed up with receipts.
+
+Chris McCully: Yeah, absolutely. Early on I tried to look into setting up a payroll for myself — do I build an LLC? Does the LLC own my Tezos wallet? Are the gains or losses taxed whenever I'm paid, and then I'm double taxed? It's such a complicated situation. Really, I think just finding an accountant is the best case if you live in the US. In other countries taxes are a bit easier — we're not going to have the conversation about lobbying right now — but just be above board, track everything you can, and do your best. And if it really comes down to it, the IRS knows how much you owe them, so just ask them.
+
+Trinity: Cool.
+
+Chris McCully: All right.
+
+Will: Again, not tax advice. Trinity, do you feel like we should move on to rapid fire? Is there anything else you want to cover before we jump over?
+
+Trinity: I think your last four projects — *60lb*, I don't know how you'd say the name of that project—
+
+Chris McCully: *60lb*, for the type of paper used in comics or graphic novels. Yeah.
+
+Trinity: I'd say your work since then — I'm going to specifically call out *Crash Euphoria*. In my somewhat trained and diligent eye, after a year of doing nothing but look at generative art, it really represents a step forward. Will made the point earlier that this may have been when you started leveraging shaders and integrating them into your work. I'd love a rapid-fire answer on what these projects mean to you, and how you feel about them in the context of your work up until that date. *Crash Euphoria* is sick, by the way.
+
+Chris McCully: Thank you very much. I feel like *Crash Euphoria* was a big jump aesthetically. I never want to have a particular style, but it made me feel like I could, if I wanted to, find one. Shaders are incredibly helpful for finding texture and unlocking extra capability, because one of the things about gen art is you're always limited by compute — how much power a system has. Shaders unlock a new level of complexity you can add.
+
+It's difficult to explain fully, but instead of using your CPU, which is slow and very accurate, you're using your GPU to process every pixel all at once in parallel. So it's taking the image you generated in p5 and putting it through a list of rules, pixel by pixel, really fast and efficiently. In recent work, I'm having a lot of fun exploring what I can make, doing aesthetic studies and pushing the limits technically. I'm really starting to dig in and look inward, finding concepts and intention in the work I want to pursue — what I'm experiencing that I want to share through art.
+
+Will: It sounds like we're going to see the first bouldering-related fx(hash) project from you in the next few months, once you pick it back up.
+
+Chris McCully: Oh man.
+
+Will: That could be a good transition into rapid fire. For Trinity and me both, the obvious first question is: what kind of climber are you? Are you a crimpy, static climber, or a dynamic one, jumping around and throwing yourself at the wall? A slab guy? And no one can fact-check you, so generously — what do you climb? Are you a V5, V6+ person, or are you in that V2, V3 plateau like so many of us hobbyists?
+
+Chris McCully: I have friends who are very talented climbers. They'll be climbing V7 through V8 at my gym—the whites and pinks, which are very, very difficult, with tiny little crimps positioned way too far apart for me to handle. Since I'm tall and lanky, my beta is usually to skip over things other people struggle with. That's actually what hurt me originally—I got injured trying to go too far. But I really enjoy trying to maintain my balance, because I have a very high center of gravity that makes a lot of these courses difficult. My height and limb length let me bypass a lot of things, except for controlling my weight. So that's a big focus for me right now: the climbs where you're just on your feet, not much to hold you against the wall. Is that slab?
+
+Trinity: Yeah, that's slab. You're slightly leaning forward, and it's all about that intricate shift of weight between your feet.
+
+Chris McCully: Right, those little pistol squats you have to do, where you're holding your chest against the wall with just your fingertips on bare wall—no holds.
+
+Trinity: And then you slip off and lose all the skin on your knees and elbows.
+
+Chris McCully: Absolutely. Another thing that's always interested me is swinging like a monkey—big, wide endurance runs where you're moving up, then horizontally, then vertical again.
+
+Will: Traversals.
+
+Chris McCully: There we go, thank you—my terminology is completely lost after all this time. Those are extremely fun. To answer your earlier question: I tend to climb V5s at my local gym. Those are challenging enough for me, and I think I need a lot more strength training to move further, because that's where you really hit the limits of your body—especially when you're already exhausted from problems one, two, and three in a session. Endurance is something I really want to build, so I force myself into traversals and managing my body weight on slab.
+
+Trinity: For endurance—and we can stop the climbing part of the show soon, I know it's fascinating to everybody—but honestly, anyone who hasn't tried climbing should, especially if you're into technology.
+
+Will: Especially if you're under 30.
+
+Chris McCully: And if you're over 30, still get into it. What do you two typically climb on?
+
+Trinity: I'm a boulderer. I'll climb anything new and fresh before it gets too gross and sticky from sweat, chalk, and rubber. For endurance, when I'm in a more motivated zone, I'll get my harness, go to the auto belay, and climb up and down for 10 minutes, take 10 off, then do it again. By the end of that first set, the pain is real, the pump is real—even on something as easy as a V0. There's probably a technical, sciencey term for it. It sucks, but it's awesome.
+
+Will: I haven't climbed much in the last year—just been sedentary and gained a bunch of weight. But even in my mid-30s when I was climbing a good deal, I kind of prided myself on being the fattest guy at the gym crushing V3s and V4s. I'm probably closer to your build—not your weight, but 6'1", 6'2", good reach—so I could sometimes get through difficult sections because of my height. But there are some problems I just can't start, because I'm so heavy I can't get myself up off the starting holds. Any problems set by people in my height range, I could usually do. The only V5s I've ever done were slab-style, where the height advantage helped. I think I'm usually pretty good at figuring out beta, but the execution's not always there. Being older, the conditioning is harder.
+
+Trinity: That's a state of mind. You just gotta—
+
+Will: It's a state of mind and a state of time. Both.
+
+Trinity: I think slab is fun because it's not super sapping—it's more about the mental game, the problem solving. You can throw yourself at it again and again, as long as the skin on your elbows remains intact. I've left quite a bit of blood on the wall at my new gym, which is very scratchy. At one point I was bleeding from my forehead all the way down—I thought I'd scar forever, but thankfully it healed.
+
+Chris McCully: At my gym the wall is fairly smooth, but the volumes are straight grip tape. It's such a pain to even graze your knee on one going down.
+
+Will: And those scrapes last, because the walls are so dirty. Some of mine took a month to heal because your body's fighting all the bacteria on those walls. Hazardous. All right, enough climbing—that was the climbing corner. Back to art, rapid fire. Of all your projects, do you have a concrete favorite and least favorite? You've got a year of stuff on fx(hash)—looking back, is there anything you're maybe not so proud of, and anything you're especially proud of?
+
+Chris McCully: The least favorite is easy: *ResoColor*, the first project after such a long break. I was struggling to get back the muscle memory that had felt so natural during my first sprint—like, how do I even make a for loop again? I was stuttering my whole way through it. Looking back, I'm proud that I pushed through and shook off the rust, but it's nothing I'm aesthetically proud of. It was a step backwards for me at the time.
+
+For best project, I'm stuck between *Immuur* and *Crash Euphoria*—those feel the most complete to me. An extra shout-out to something nobody else might care about: *Distant Skies* was a big deal for me. It was the first time I had a concrete image in mind from the start—I knew what I wanted to make, planned it out, and worked on each system deliberately. Back when I was doing photography I was also a producer, essentially project managing, so I ran a ClickUp workflow. It felt great knowing I had the skills to get through each step without having to figure it out as I went. I wanted to make a landscape, because everyone's made a landscape and I never had—I'd made ocean and sun, but never mountains and terrain. Technically, as a coder, I feel very proud of it.
+
+Will: It's still available to mint.
+
+Chris McCully: Oh, really? I guess there are still some—I forget which projects aren't sold out. Well, if you want a *Distant Skies*, there you go.
+
+Trinity: We'll get this minted out for you, stat—not a guarantee. How about this instead: what are you working on?
+
+Chris McCully: I've shared a lot on Twitter recently. I have a huge mood board right now—photos from my phone, Pinterest, art I've seen at museums, techniques I want to try, ideas to explore. Like we talked about, writing 500 songs and only 10 end up on the album—I've been trying to tackle at least one new project every week. I don't have to finish it, I just want to play with it and see if it goes somewhere I like.
+
+Right now I'm really enjoying an algorithm I'm making. Just before bed the other night I had an epiphany and wrote it down in my notebook. I've always wanted to make the same self-painting painting—something that feels organic, really conveys emotion, doesn't feel digital or computer-generated. I finally found that approach. I built an engine, and now I have to figure out what I want to do with it artistically, but I'm really happy with it. There are also a lot of other things behind the scenes I don't feel comfortable mentioning until I know I'll actually finish and release them. So maybe you'll just see.
+
+Will: So *Bedlam 2* confirmed. That's some alpha for the podcast.
+
+Chris McCully: It's perfect.
+
+Will: Here's another one, following up on something you said earlier: you got into crypto art through day trading. What was day trading on HEN like? I got into Tezos through HEN, but I never once sold a project—the stuff I was collecting was so random that even the idea of listing it and someone finding it felt beyond me. I don't think I had an exit strategy for most of what I collected early on. So who were you collecting, how were you flipping it—what was it like being a flipper in the HEN days? I have no idea what this was like, so I need to hear it.
+
+Chris McCully: My biggest tool was sometimes Twitter, but the real game-changer was NFT Biker's tool, because you had a live feed of everything that was minted, listed, and sold — just a few seconds delayed from the actual blockchain. I'd see an artist drop something and the sales feed would fill up with that one piece — they'd release 50 editions and suddenly the whole feed is the same thumbnail over and over. That's how I'd flag an artist: write them down, follow them on OBJKT or Twitter. Now I know that if they drop something, I can expect a certain kind of return.
+
+Looking back, I realize how broken that logic was. I was never exactly right — it's always speculative, just assuming people will like new art as much as the old art because the old art was valuable. Which can be true sometimes, but still.
+
+One of my favorite pickups was Esoteros, who did these animations that looked like chaotic little sketchbook doodles — monsters with gnashing teeth, but playful. Did you ever play *SSX Untold* on PS2? Their animations reminded me of paper cutouts of notebook paper, like something you'd doodle in class, except way higher quality. Then there was The Myth, who did the banana-head things — does that ring a bell? I think their name is Daniel.
+
+Trinity: Haven't heard that name before.
+
+Chris McCully: Interesting.
+
+Trinity: Which Daniel?
+
+Chris McCully: Let's see, it's @clockedhd on Twitter. They make crazy, over-the-top, sometimes jarring art. I was really into art that would catch your attention on those sales feeds — whatever was most extreme. Esoteros's GIFs were bright, colorful, and unconventional. The Myth's stuff was raw — these wild scenes with characters whose heads were literally just weird bananas.
+
+ItsGloomTube was another big one for me — a creator I was really into for a long time. They drew these scenes with a subtle humor running through them, always with big emoji smiley-face characters, but they were an incredibly talented digital artist. The textures and shading felt really nice — some of their pieces from that era reminded me of the show *Chowder*, how it shaded different materials with colors mapped over textures. I was collecting and reselling a lot of this stuff at the time, though I still have plenty I either couldn't sell or chose to keep because I love it.
+
+Trinity: Now I have a couple new artists to watch. The GloomTube stuff is wacky.
+
+Will: You weren't flipping John Windows or anything like that back in the day?
+
+Chris McCully: If somebody was already well established, I didn't want to jump in too heavily — I didn't want to buy at the top of someone's value. I'd rather find inexpensive artists just starting out that I liked. I saw art I liked, wanted to support the artist, wanted to see more from them and see them succeed. John's going to make it whether I buy his art or not — his style is locked in and he's got a solid base of people who appreciate his work.
+
+Actually, speaking of a name I recognize — an artist I forgot to mention was Volatile Moods. Oh my God.
+
+Will: From back in the HEN days?
+
+Chris McCully: No, no — from fx(hash).
+
+Will: You guys were both active around the same time — Volatile Moods was putting out some of their earliest work back in November, December of last year too.
+
+Chris McCully: Yeah, they had — not *Rough Cuts*. Let's see, what was it?
+
+Will: *Patches*.
+
+Chris McCully: *Patches*.
+
+Will: *Patches* and *Protein Pelt* were two of the #price-discussion darlings.
+
+Chris McCully: And *Xburls* too was huge for me, because I still had this idea that I wanted to make a painting — but how? I could never get the texture right. Then I'd see *Vault of Lutes* and think, here's a painting, just thrown together, and here's another one.
+
+Trinity: You were definitely ahead of your time — the whole painting thing is what everybody's doing right now, it feels like.
+
+Will: dmarchi is also one of the people who really broke through and executed it in a way that works.
+
+Trinity: Oh, *Aspergo*?
+
+Will: *Aspergo* and *Bravura* — both like digital paintings. Those were systems that painted.
+
+Trinity: Yeah, and also *Pittore*. All three of those really built on each other.
+
+Chris McCully: Another big trend I've noticed recently, aside from painting — sorry to divert — over the last couple of months, and *Crash Euphoria* actually falls into this category, which I think is part of why it worked so well: you can set up shaders with black-and-white value maps that define zones. This pixel turns this color, or this pattern. You draw a pattern in black and white, draw a bunch of other patterns, then tell an area to become this pattern or that one. *Crash Euphoria* uses something like that. There's also work I've seen from Melissa — I'm blanking on her last name.
+
+Trinity: Wiederrecht.
+
+Chris McCully: Yes, thank you — I was struggling to pronounce it. Her work is fantastic, and she has a wonderful application of that technique. *Landlines*, the whole iteration project, looked like it might have used something similar too. It's cool seeing people discover these little approaches and make them their own.
+
+Will: Is this similar to what Mapan did with *Anticyclone* and some of those pieces, where the image is divided into chunks and each tiny chunk has its own thing going on?
+
+Chris McCully: I actually don't know if *Anticyclone* uses shaders to change the colors that way. I'd guess it uses shaders, but I'm not sure for that purpose.
+
+Will: I feel like we've seen it a lot in projects since *Anticyclone* — images sliced up, rotated, moved around, and each carved-up piece gets its own sub-effect, a pattern or gradient or color shift. Tyler Boswell does it a lot too, with *September* and the most recent one, *Stepping Stones*.
+
+Chris McCully: Absolutely — it's such a dynamic effect, and you can do so much with it. You can apply different patterns, or draw from a marbled texture instead of a flat color, and it adds something dynamic to everything. I do think *Anticyclone* may be doing that, but I'm not entirely sure.
+
+Will: We won't hold you to it.
+
+Chris McCully: I can't claim to break down his genius. His pieces are wonderful, especially the most recent paintings he's done.
+
+Will: I think we have one more extreme softball rapid-fire for you, Chris. Trinity, want to let it rip so we can wrap the episode?
+
+Trinity: I think we asked this off-air with Landlines, which really took the heat off, but we'll give it to you full blast.
+
+Will: Oh no, it made the cut.
+
+Trinity: Made the cut? Okay. Do you have any music recommendations, anything you like to listen to while you're hard at work?
+
+Chris McCully: Oh my God. Music-wise, I'm all over the place. I have a strong sense of identity in what I listen to, though it's never genre-specific. When I'm working — really buckling down — I listen to a lot of hardcore and punk.
+
+Trinity: Name names.
+
+Chris McCully: Turnstile is a big one. Angel Dust is fun. Suburban Scum is a fun one. And Anxious — they're a pop-punk band, but some of their songs bleed into hardcore. I listen to a lot of pop punk generally, but that's not usually as driving. Oso Oso is a really big band for me — fun, catchy, relatable music, really good lyricism, really fun guitar work. And Pinegrove — it's getting colder out if you're in the northern hemisphere, and if you want good fall music, indie with a bit of Americana, it's really nice. Better than you'd think if that's not usually your style.
+
+Will: Two follow-ups. First, on the hardcore side — have you ever listened to Carnist?
+
+Chris McCully: No.
+
+Will: C-A-R-N-I-S-T, like someone who eats meat. They're a vegan hardcore punk band — found them on YouTube, phenomenal. Check out Carnist. And have you heard of the pop-punk band Chumped?
+
+Chris McCully: No.
+
+Will: One of my good friends was the bassist in that band. They got reviewed on Pitchfork and everything, so I'll give you Chumped too if you're a pop-punk person.
+
+Chris McCully: Hell yeah. The ones from Brooklyn?
+
+Will: I assume so.
+
+Chris McCully: Just making sure — sometimes there are ten bands with the same name.
+
+Will: Throw those on the list. Anything else? Any Netflix recommendations, or should we wrap it up?
+
+Chris McCully: What have I watched recently... I've been watching the first season of *Yellowjackets*, and I think it's a fantastic show.
+
+Trinity: Not Netflix, but yes.
+
+Will: What is *Yellowjackets*? Wait, you haven't watched it?
+
+Trinity: You haven't watched it?
+
+Will: No — is it HBO? I should watch it if it's on HBO.
+
+Trinity: It's on Showtime.
+
+Chris McCully: It was on HBO for about two weeks — I watched all but the last episode of season one there, and then it mysteriously disappeared and now it's only on Showtime again.
+
+Trinity: Recap for you, Will: it takes place in the present day and also in the early-to-mid '90s. A championship high school girls' soccer team is flying to a tournament when their plane crashes in the Ontario wilderness. They survive the winter, and it involves ritual sacrifice, cannibalism, a lot of really weird, messed-up stuff, and a ton of trauma for the survivors.
+
+Will: Sounds like it has shades of *Battle Royale*.
+
+Trinity: Probably slightly creepier, and it's not framed as dystopian the way that is.
+
+Chris McCully: I feel like I need to go back and watch *Battle Royale* — I saw it a few years ago. The Japanese movie, right?
+
+Trinity: Mm-hmm.
+
+Will: Such a classic. We're one episode behind, but we're finally catching up on the new season of *White Lotus*, which is so different from — and honestly better than — the first one, in my opinion. I loved the first season, but the new one opens into mystery territory in a way that really works. It's good.
+
+Chris McCully: I just watched the second episode of season one last night, so I'm just getting on the *White Lotus* train.
+
+Trinity: The theme song alone kicks.
+
+Will: Are you caught up on *White Lotus*, Trinity?
+
+Trinity: No, I've been watching Claire watch it — haven't really been paying attention. I need to catch up.
+
+Will: I'm a big Aubrey Plaza fan for a lot of reasons, so I'm loving it. I like this new rapid-fire ending to the interviews — it feels more personable, a little looser, shows more character. Chris, do you feel good wrapping it here? Did we get everything we needed?
+
+Chris McCully: I feel good. Despite the rambling, at least I got to answer every question with a lot of words, so I said all I needed to say.
+
+Will: Perfect. Trinity, anything else from you? Any parting comments? *Yellowjackets*, big recommend?
+
+Trinity: *Warrior Nun*. Watch it.
+
+Chris McCully: I heard something about that recently.
+
+Will: That was really good.
+
+Trinity: It's a new *Buffy*, but with tactical combat nuns.
+
+Will: All right, this is way off the rails. That was Chris McCully, the definitive Waiting to Be Signed interview. Thank you, Chris, for joining us and taking time out of your day. I hope you had fun, man.
+
+Chris McCully: Absolutely, thank you for having me. It's always great to talk about yourself and get to know you too.
+
+Will: Hell yeah, that's why we do the show.
+
+Chris McCully: We love it.
+
+Will: Thank you, Trinity, as always. Thank you everyone for listening. That's it for this one. We hope you all enjoyed it. We'll be back again soon. Until then, later.
+
+Trinity: Later.
+
+Will: Let me pitch you a show: it's *Buffy* meets *Alias*, with what's-her-name from *Alias*. What level of interested are you on that?
+
+Trinity: Is it *Alias*?
+
+Will: Yes, it's *Alias*. Trinity's favorite show — I think one summer we binge-watched five or six seasons of it.
+
+Chris McCully: Oh my god, I don't think I've ever watched *Alias*. I'm looking it up right now.
+
+Will: It's the J.J. Abrams show from before *Lost*. It's got—
+
+Trinity: Jennifer Garner in her first big role ever, and that guy—
+
+Chris McCully: Bradley Cooper?
+
+Trinity: Bradley Cooper, in his first big role ever.
+
+Chris McCully: Interesting, I'll definitely have to check this out.
+
+Will: If you like double agents, triple agents, and quadruple agents, then *Alias* is the show for you.
+
+Trinity: Perfect. OK, but what's the show?
+
+Chris McCully: That's it.
+
+Will: That's the show — let's just do another season of *Alias*.
+
+Trinity: OK.

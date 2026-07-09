@@ -1,0 +1,323 @@
+Will: Hello and welcome, everyone, to another episode of Waiting to Be Signed, a special bonus interview with Amy Goodchild. Quick disclaimer: since we'll be talking about NFTs, none of this is financial advice. We're here to talk about art, fx(hash), generative art — we might touch on markets and prices, but please don't act on any of that. This is just for fun and information. So, disclaimer out of the way, we're really excited to have Amy on. We'll talk about her background first, then get into a special topic — something we haven't really done before, having an actual agenda for an interview.
+
+Trinity: Yeah.
+
+Will: We'll see how that goes. Amy, why don't you introduce yourself to everyone who may know your art from fx(hash) but might not know your background in art and coding more broadly?
+
+Amy Goodchild: Hi, thanks for having me on. I've got a pretty varied background as an artist. I actually studied photography at university — that's my undergraduate degree. From there I got into interactive art, largely through going to burns in the UK and Europe — I haven't made it to the actual Burning Man, but those events are full of interactive art, and I got really into that. I already had some coding background from web design, so the idea of using code to make art came naturally, and I moved into interactive installation art.
+
+Then, two years ago, the pandemic happened, and there wasn't much point making interactive installations anymore. So I shifted to screen-based digital art and made a few web-based projects. From there I got into generative art — I remember thinking, "I bet I could use randomness to create art and see what happens." Once I started, I realized it was a whole existing world; people have been doing this since the '60s. Plugging into that community was great. And then, serendipitously, NFTs exploded around the same time, and generative art and NFTs took off together, which has been wonderful.
+
+Trinity: This serendipitous world of things coming together — who knew? Going into this post- or mid-pandemic NFT space, where everyone suddenly had time to sit and create, it's been astonishing to see the amazing work that's come out of it.
+
+Will: I don't think we'd have started the show if it weren't for the pandemic. We'd never have gotten into crypto in the first place — we'd have been too busy off our computers doing real-life stuff.
+
+Trinity: Shame, really.
+
+Will: Amy, was your coding background already there before COVID, or did you pick up Processing or p5 during that time? Did you have a lot of JavaScript experience coming in?
+
+Amy Goodchild: I'd mostly used Processing before, for my installation work — I used these little chips called Fade Candies to drive LEDs. I use a lot of LEDs in my work; I'm really into light in general, probably connected to my photography background. So I was using Processing and Fade Candy to drive my installations. I'd need to go back and look at that old code now, though, because it was total spaghetti code — just getting things to work without really understanding a lot of what I was doing. Probably still true now, honestly. But I've had a lot more time to focus on coding since the pandemic, and I moved into p5.js, which is JavaScript-based.
+
+Trinity: I always find early years fascinating — what people were like before they became adults, what drew them in. Some people got into code making GeoCities websites in the '90s. How did you first get drawn to photography?
+
+Amy Goodchild: I wasn't really into art in high school — I didn't even take art GCSE, so I didn't do art past age 14 or 15. I think that says more about our education system than about me; it's not really taught in a way that gives people room to experiment. So it didn't click for me in high school. Instead, I started using Photoshop to make memes before "meme" was even a word — just jokey stuff.
+
+There was a website called Worth1000, kind of a mid-2000s thing, where people used Photoshop to create these elaborate imagined scenes. There were competitions with themes — like "make food that looks like it's going to eat you instead of you eating it," so you'd Photoshop a stack of pancakes with a mouth coming out of it. I was doing that kind of funny, weird Photoshop stuff. Then Worth1000 opened up a photography section, and that's when I bought my first camera and got into photography. I was actually at university at the time studying computer science — a year later I quit that degree and went to study photography instead.
+
+Trinity: The internet — who knew? So powerful, changing minds everywhere. I love it.
+
+Amy Goodchild: It was such a community-based thing too. Worth1000 had a great community — we did meetups, I went to the States to meet people. It was a strong community, and I think that's similar to what's happening now with generative art. A huge part of it for me is the community and the other artists, supporting each other.
+
+Trinity: That's really struck us too. If it hadn't been for the pandemic, would we be here? If the community hadn't been here, and we hadn't gotten to know people by their screen aliases, talking all day on Discord — would we be here? Maybe, maybe not. It's wild.
+
+Amy Goodchild: The support from the community operates on two levels. We have a generative artist Slack, and there's technical support — if I'm struggling with something in code, someone's always willing to take a look and help. But there's also emotional support: we literally have a mental-health channel where people post about what they're struggling with, and celebrate wins too. It would definitely be a very different experience without that.
+
+Trinity: It's all the little things that add up.
+
+Will: At this point, are you doing art and NFTs more or less full-time, between fx(hash), HEN, and other platforms? Has that been your last two years?
+
+Amy Goodchild: My last year, yeah. I've done a bit of teaching in that time, but otherwise I've left my old day job, which was UX design.
+
+Will: There's some overlap there. Maybe we should turn this into a UX design podcast, Trinity.
+
+Amy Goodchild: Is that what you do too, Trinity?
+
+Trinity: Adjacent — very adjacent to all of that.
+
+Amy Goodchild: Okay.
+
+Trinity: It's a happy place. I enjoyed it too — that itch of problem-solving. You get that with code as well. You've been quoted talking about your UX design work and the desire to create work that's interactive and engaging, and your installation work is a great example of that. What are some of your favorite installations you've made?
+
+Amy Goodchild: Definitely the *Space Tunnel* — my favorite installation I ever made. It was a tunnel you could walk inside, three meters wide, 7.5 meters long, tall enough to stand in, filled with archways of LEDs. There was plenty of space to lie down or sit and watch them. At one end there was a unit — I converted an old desk — with a touchscreen mounted at an angle. Anyone could walk up and draw on the touchscreen, and it would draw on the lights in real time, so it felt like you were drawing directly on the lights. There was also a "space mode" where it looked like stars were flying past, and you could control the speed, direction, and color.
+
+That was the first big installation I ever made, and it's hard to imagine loving anything as much — I had no idea what I was doing, and the fact that I pulled off something that huge, in a desert, at a festival in Spain, still makes me proud. People really loved it. Sitting inside the tunnel, among people enjoying it, soaking up that atmosphere of "I made a thing and other people are having a nice time enjoying it" — that's my favorite thing in the world.
+
+Will: There are some great pictures of that on your website.
+
+Amy Goodchild: Yeah.
+
+Will: Now that you've transitioned into digital art and NFTs, do you feel like you struggle to bring that interactive, immersive quality into the new work? So much of how people encounter these pieces now is as thumbnails — small versions of what they're meant to be, whether on a marketplace or just because people don't have devices that display them properly. Is that something you've been contemplating — how to bring more interactivity and grandness into the space — or is it something you've just had to accept and adjust how you create around?
+
+Amy Goodchild: It's definitely something I miss from making installation art—actually being able to be with people as they're experiencing the work. That doesn't really happen anymore, though I did make a couple of multi-user browser-based projects, kind of aesthetic toys where you could move your mouse around and it would shoot little bubbly circles out. You'd get randomly paired with another person visiting the site, so as you're chucking out these bubbles, someone else is too, and your bubbles interact with each other.
+
+I posted that to Reddit in the summer of 2020, and it got something like 80,000 visits across three days, which I was happy with. But the comments in the thread gave me that same feeling of being with people. It was early pandemic time—everyone was still in shock from being cut off socially—and I think being paired up with somebody randomly gave people a real sense of connection. Someone posted that they and their partner had spent ages refreshing the page to get paired up with each other, and then had this moment of interacting with the bubbles together. Hearing that feedback about what the thing I'd made meant to them was really meaningful to me.
+
+So that does still happen a bit with digital art. But I do miss it with generative art—you get feedback and comments on social media, but people don't engage with the work as deeply as they do with something interactive. That's definitely something I'd like to bring into the work more.
+
+Trinity: It's so interesting—once something becomes financialized, it suddenly becomes less of a source of joy or play. It would be really fun to find a world where it's both. I was going to ask whether non-NFT digital art is dead, but within the confines of what art can possibly be, it's obviously not. And that kind of interactivity isn't going to be possible within this space right now, as far as I can tell. NFTs can be part of something fun and interactive, but I don't think we're there yet.
+
+Amy Goodchild: I have made some NFTs that are interactive—some of my stuff on HEN is interactive, little browser toys.
+
+Trinity: But not multiplayer in that sense.
+
+Amy Goodchild: No, exactly—the multi-user interaction. I'm not sure that's currently possible within NFT art. I think it could be, but on fx(hash) it's not, because of the requirements around making calls to a remote server, which is locked down. I'm not sure if that's an actual technical limitation or a decision that's been made, but it has the potential to happen in the future.
+
+Will: Have you seen the thing called *Passage*, or maybe it's *Journey*? It's a Tezos project where you have to go through a 3D space before you can claim and mint your token at the end. A couple of fx(hash) artists were on it. Every time a new one comes up, it's like 15 tez—first you get an NFT that's like your ticket, then you go in and have to go through this installation before you can mint your takeaway piece. People seem to really like it. I'll dig up the link and put it in Discord later.
+
+Amy Goodchild: So it's a requirement that you engage with it a bit more.
+
+Will: I hate to use that term, but yes—forcing you to go through the experience so you can get the prize at the end, which is the thing you can sell. But it does create a sense that people actually did the experience, and they come into our Discord saying that was really cool, actually the coolest minting experience they've ever had. Even though that part isn't something you take with you—it's not the token, it was the experience that brought you to the takeaway piece.
+
+People are trying, I guess. They're doing weird stuff.
+
+Amy Goodchild: There's so much experimentation going on, and I think more of this is going to come up. That kind of experience-before-the-reward idea is really interesting to me because I did a master's in design for performance and interaction—installation art and interactive art, basically. Something we talked about a lot there is that you come up with an idea for an installation, and there's some key interaction at its center, but outside of that, you have to think about how people feel as they approach it. How does it look from the outside? Where is it placed? What's the context? How do they feel when they leave?
+
+It's about thinking through all the context that sits around the actual artwork, the thing you intended to be the artwork. It sounds like that same kind of thinking is going on with setting up something in advance of the actual artwork.
+
+Will: Like a ritual that really adds to the experience. I'm curious—I think this is actually a great way to segue into the topic of code and art and how these things intertwine, especially given your background creating physical art installations and now generative, code-based art.
+
+There's been a lot of discussion in the fx(hash) community over the past couple of months as collectors have become more educated. It's easier to become educated about art in general—you can develop your own taste, decide what you like, learn about an artist's history and pedigree and influences, and get a holistic context for the final aesthetic output and whether you think it's good. But evaluating the code itself—is it original, is it novel, is it entirely code-based or partially code-based with layered PNGs going in—that's different. Where do these two things intersect? How much weight should a collector give to the code versus the final output? Does it really matter, or are we overthinking it? Now that you've moved into making code-based art, how do you regard your own code versus the final outputs?
+
+Amy Goodchild: I think it definitely matters to think about that relationship between the code and the output. For me it's a very process-led thing—making the artwork isn't a one-step process where I have an idea and then produce exactly that idea. I start with something very small or minimal, create that thing, and it often turns out different from how I thought it would. Seeing that output gives me another idea, and then I create that. It's a very iterative process, and coding lends itself to that really well. You can't iterate a painting in the same way—you're painting over what you've done, or starting new ones; it's a very different thing. In a digital space you can iterate without cost, without wastage from starting again or trying something new.
+
+As for the audience—the collectors and viewers—I'd love there to be more understanding of what kind of code produces a certain result. There's a tension there, because you can't expect everyone to learn to code just to look at the artwork. That's unreasonable. But it's something I try to do: educate the audience about what I'm doing. I often write a blog post about a major project, walking through the different layers in the code and the techniques I've used, and I try to do that in a way that someone with absolutely no coding background could still get something out of it and follow along.
+
+I didn't come from a technical background myself—I quit my computer science degree because I didn't like it—so I remember what it's like to not understand code. That helps me talk about things in a way non-coders will understand, and I think it's genuinely valuable. It helps people appreciate the work on a different level, the same way someone who understands more about painting technique appreciates a painting differently than someone who doesn't. I think that applies to code as well.
+
+Trinity: On your works in progress on Instagram and Twitter—a lot of artists just show "this is the whole thing, this is what I'm working on." I really appreciate that you show individual parts of it: this is the background I've been working on for something that may come out sooner or later, this is how I've been approaching this one component. That feels incredibly approachable, and very different from what I've seen other people do in this space.
+
+Amy Goodchild: I really enjoy sharing works in progress. I get excited about the things I'm making, so halfway through the day, when a cool output comes out—even though it's just a work in progress—I want to share it: look where I'm at, look what's going on today. I do worry about it sometimes, because letting people peek behind the curtain might take some of the shine off the overall impression of the work. But I've come to the conclusion that it's worth it—partly because I enjoy it, and partly because I think the education matters. And people do tell me they enjoy seeing those things, so I think it's worthwhile.
+
+Will: The education is so important. Generative art's been around for longer than fx(hash) or NFTs, but for many of us it feels really new. I've been reading a book of essays on digital art that covers generative art, and one essay makes the point that painting or sculpting, as tactile practices, have been around for so many thousands of years that culturally, even if you're not a fine oil painter yourself, you understand how much skill is involved. We've all held a paintbrush and done some watercolor as a kid, so we know intellectually what we're capable of versus what a painter achieves in a museum piece, and how difficult it would be for us to do that.
+
+But with code as a medium, so few people ever get to the point of writing a simple if statement that it's hard to calibrate how much of the result is the machine versus the person. That gets further obscured in generative art, where you're deliberately introducing randomness — there's a perception that you're handing over autonomy to the code, when really the artist is making that choice. When we interviewed Ciphrd, he was adamant that he regards the code as equal to, or even higher in artistic meaning than, the visual output. Whereas plenty of people in Discord, and even some of the artists we've talked to, feel like what really matters is whether it looks good at the end of the day. It's such a dichotomy in how people approach it.
+
+Amy Goodchild: That understanding people have of what it takes to paint something — pretty much everyone has tried painting at some point, so we have a sense of how difficult it is. People don't have that same relationship with code, and I think that leads to two almost opposite reactions. Sometimes I'm explaining something I've made in a way I think anyone could understand, and I get that feedback a lot — but some people just immediately shut down: "I don't understand maths, I don't understand computers, don't talk to me about that." They're afraid to even try because they've already decided it's not something they get. Then on the other end, you get people who think, "Well, the computer made it, you just click a button," so it's not difficult or worthwhile. Both perceptions are frustrating, because the work is genuinely difficult. But I do think people can understand it if they try — or at least understand it enough that we can have an interesting conversation about it.
+
+So, sorry, you were saying some other things too — I can't remember what I was going to add.
+
+Will: It's okay. You wrote a really great blog post about *Maplands* that came out in early January, is that right?
+
+Amy Goodchild: Yeah, January, I think.
+
+Will: That was right when both of us were starting to learn a bit of JavaScript to make tokens to support the podcast. I'll fully own that when I first saw *Maplands*, I didn't have enough understanding of code to differentiate it from a simple circle-packing algorithm, where all you're doing is checking whether the sum of the radii is less than the distance between center points. It wasn't until I started playing with p5 and tried to do anything with a triangle that I understood the jump in difficulty — going from a circle to a triangle in code, having to account for corners, and suddenly nothing is equidistant from a center point anymore. Learning that, combined with reading your post — which details all the ways you account for the dependencies between these different shapes so they interact and overlap correctly and stay spaced — plus the aesthetic considerations on top of that: is it coloring by shape, by region, accounting for size? It was really informative for me as someone who was learning. I'll give you a lot of credit — it was a really well-made post. We'll link to it in the show notes.
+
+Amy Goodchild: Thanks. I think it's true of so many things — you can look at something someone's made and think, "Oh yeah, I can see the sculptor's cut here and here." But as soon as you actually try to do it yourself, you realize you have to decide what kind of knife to use, how to hold it — all these things that just don't occur to you until you actually spend time with it. Creating those blog posts is a big part of what I want to do as an artist — building more connection with the audience, as well as that education.
+
+Trinity: The next interactive NFT will be teaching people how to make NFTs.
+
+Amy Goodchild: Meta.
+
+Trinity: That one's free. But I think it's interesting — there's that classic learning curve where you start with high confidence when you know nothing, and then you hit the lowest-confidence point once you know enough to realize you know nothing, before it climbs back up into a higher-confidence area.
+
+Amy Goodchild: I think that stage — where you've just learned enough to know you know nothing — is actually the majority of the time. As soon as you understand a little bit, you're like, "Oh God, there's so much more, I'm never going to get all this." So you're constantly learning.
+
+Trinity: When you're looking at other people's work — since you have this background where you know a lot, but there are also things you haven't fully explored — how do you evaluate it? Do you think about the art, the code, or the intersection of the two?
+
+Amy Goodchild: I definitely find myself thinking about how things were made. Part of that is purely appreciating the artwork — what kind of work did they put into this, where does this piece come from, how did they develop it, what did it mean to them. And part of it is looking at other artwork and thinking, is there something inspiring here, does it make me think of something I could create? Then I start wondering how they made it. Sometimes it's very clear — there are techniques a lot of artists use, like flow fields and packing algorithms, that come up time and time again, and you can look at a work and think, okay, they've done this and this and this. And then sometimes I see a work and think, okay, I just have no idea.
+
+Trinity: Any examples of that?
+
+Amy Goodchild: Anything with shaders — Will Staal's work specifically comes to mind, and Piter Pasma. I've dipped my toe into shaders a little and really want to get into it more, but it blows my mind looking at what they create and trying to think about how you get from an idea to an output that way, because it's a completely different way of coding.
+
+Trinity: That's where we don't know enough to know how complicated that is.
+
+Amy Goodchild: Super complicated — dark magic, just take my word for it.
+
+Trinity: I think I saw someone mention a blog post about live-streaming on Twitch for 36 hours —
+
+Amy Goodchild: Oh my God.
+
+Trinity: — working on something they made with shaders. But that's about the extent of my knowledge, which isn't really knowledge, it's thirdhand.
+
+Will: I want to read a quote we pulled from one of your blog posts, Amy, because I think it plays into this conversation: "The biggest challenge currently is responding to the changeability in the market and social media. It can be hard to take the ebb and flow personally, and that has an effect on my mental health and motivation." That speaks to the artist Slack conversations you've mentioned — it's hard enough to create great art and come up with something novel that you're happy with, and then you have to cope with a market side that probably wasn't such a constant presence for a lot of artists until they jumped into the NFT space. What's that been like for you, given how many factors go into whether a work is seen as successful — and I mean purely financial and critical reception, since that's how so many collectors define success: did it mint, did the price go up, or did I buy it and is the price still climbing? I imagine it's very different from your work in art prior to NFTs.
+
+Amy Goodchild: It's interesting, because I don't think it's that different from before. Those thoughts have always been there. It feels very similar to posting anything on social media and counting the likes, thinking about how many people have commented, whether those comments feel genuine, how excited people seem about it. In person, too, you're trying to read people's reactions to the work. When it comes to the monetary side of NFTs, it feels similar to me. Obviously there's a different aspect, because this is what I do full-time now, so that adds another layer. But in terms of the existential questions -- am I good enough, why am I doing this, should I quit, is this thing garbage or is it the best thing in the world -- all of that applies whether or not money is involved. It's always applied, from the first time you drew a picture in school and someone said they liked it or they didn't.
+
+So much of making art is about that connection with the audience, about making things for other people. Maybe that's not healthy, I don't know, but people's reactions really do matter to me. Social media already leveled that up a thousand percent -- it creates these literal metrics, graphs comparing this post to that post. But you have to step back and remember that doesn't mean one artwork is actually better than another. It just means you posted at 2 a.m. instead of 4 p.m., or the first ten people who saw it didn't like it, so Instagram decided not to show it to anyone else. There are so many variables at play.
+
+There's also an ebb and flow -- like I mentioned in that quote, the algorithm pushes you for a while and then it holds off. It's very difficult not to think "my art sucks this week" or "my art's great this week." I try to separate that from my own judgment -- to look at the work myself and decide which piece I like better, which is more worthwhile, which I should develop further. I take the feedback from social media and the NFT market on board, absolutely, but I try not to treat it as gospel, as the be-all and end-all of what I should be doing as an artist. It's difficult.
+
+Trinity: We've talked about this a couple of times on the podcast -- we don't envy artists at all, because—
+
+Amy Goodchild: Me neither.
+
+Trinity: —there's so much variability in this space, and so much is changing. The rules are always shifting: up market, down market, the price of Tezos high or low, whether flippers are out this week or not. There are so many things that impact the "performance," quote unquote, of a piece, and it's impossible to keep up because it's all shifting day by day, week by week. Does that impact the way you think about releasing work?
+
+Amy Goodchild: It definitely does. It's on my mind. I'm fairly engaged with the NFT market -- there's a gradient of how much artists tend to engage with that side of things, and I'm often in the fx(hash) Discord, keeping my finger on the pulse. So it affects my thinking, but I try to take it as just one piece of information among many, and make my decisions based on all of it rather than being led purely by market thinking.
+
+Trinity: How does it feel when you actually let something go -- pressing that mint button and putting it out there, whether on fx(hash) or elsewhere?
+
+Amy Goodchild: Incredibly nerve-wracking, for one, especially with how fx(hash) works with long-form generative art -- you don't know exactly what the pieces will look like. You wonder if it'll produce outputs you didn't expect, whether you did enough testing, all of that. So it's nerve-wracking from that perspective, but incredibly exciting too. I want to see the pieces that get produced just as much as anyone else does, and I really want to see how it's going to go -- are people going to like them, are they going to jump on it?
+
+When I released *Maplands*, it sold out in exactly 2 minutes -- I went and looked at the transaction history afterward. Two hundred fifty-six pieces. I was hopeful it would sell out; my previous piece had sold out in a few hours, so I was hoping for something similar. When it sold out in 2 minutes flat, I'd put that moment right up there with being in the space tunnel, surrounded by people enjoying the work -- it hit that same level of excitement.
+
+I was in the fx(hash) Discord at the time too, and I was maybe five or ten minutes late posting it -- something was uploading slowly -- so I'd been posting updates in the Discord, letting people know, and people were replying. There was this feeling of community and connection with the audience. Then when it sold out immediately, it was a huge rush to think that people liked what I'd made. That's all I want.
+
+Trinity: It's truly, truly awesome. I know Will has picked up more than a few on the secondary in just the last few weeks -- not out of excitement for the interview, but because looking at it, you were really amazed, right?
+
+Will: Yeah. Revisiting the piece was actually part of my preparation for the interview -- I reread the *Maplands* blog post, and I've had these extra few months studying p5, by which I mean learning from YouTube.
+
+Amy Goodchild: That's the only way, as far as I'm aware.
+
+Will: There is a book -- the Dan Shiffman one. It's a little out of date, it still recommends using `var` instead of `let` and stuff like that, but it's written by Casey Reas and someone else, so it's a few years old.
+
+Amy Goodchild: Oh, okay, that one. Yeah.
+
+Will: I was looking at *Maplands* and thinking, okay, I really understand the complexity of this now -- I'd always loved the colors. So I went into the secondary market -- the trend the last month or so has been that we've seen a lot of great work at a pretty solid discount, this months-long accumulation phase on fx(hash). I found two really good pieces skewed toward a particular size that I loved -- different palettes, different densities. And there's one more I'm looking at, so I'd have three, because I'm really into building galleries right now.
+
+Amy Goodchild: Mm-hmm.
+
+Will: I don't know if you're familiar with that platform, DECA.
+
+Amy Goodchild: I think I've seen links to galleries people have posted with it.
+
+Will: It really makes you want to own multiples of something so you can show off the variety within a particular algorithm. Not financial advice, but there are still a lot of great pieces out there, very high rarity, that can be had.
+
+Amy Goodchild: That feature -- the skew from one size to the other -- was one of my favorite parts of the project. I think that's actually what caused the delay, because I started coding that about four hours before I was due to release it. It was an idea I'd had in the back of my mind, so I duplicated all the code -- kept a safe version -- and thought, I'm going to go for it and try to make that idea real. As soon as I saw it working, I knew I had to include it. If it wasn't ready in time, I was going to delay the whole release.
+
+Luckily, I managed to figure it out.
+
+Trinity: Last-minute additions -- I love that. What prompted it? You just thought of it and knew it was going to be amazing?
+
+Amy Goodchild: The idea had actually come to me earlier. I have a bunch of Post-it notes on the wall here -- I'm very much a Post-it note person, always got ideas written down. This one had been hanging around for a while, and I kept going back and forth on whether to do it. Then, last minute, I thought, let's just try it and see how it looks. As soon as I saw it, I knew it was going in for sure.
+
+Will: Speaking of the Post-it notes -- is there anything you want to preview? Ideas percolating that we might see in the coming weeks or months as the new platform releases? Any work in progress out there we're not aware of?
+
+Amy Goodchild: There's loads of work in progress. There was something I was hoping to have ready for the launch of the new version of fx(hash) -- definitely not ready by this weekend, but hopefully in the next week or so. Maybe. It's hard for me to predict, because sometimes things go off in one direction and I realize there's a bunch more to explore, and I need more time to do the idea justice. I don't want to just put work out there for the sake of it -- I want each piece to be the best it can be. Or I'll realize there isn't enough variety in what I'm doing, or it's not quite right. So there are a lot of unknowns in my process.
+
+But yeah, I've been posting some of it on social media. There's one piece that's animated -- it starts with irregular polygons, and the idea is a line slices through a polygon and moves half of it over, then another line comes through and slices it again. It's all on my Twitter and Instagram. I'm trying to find ways to create the variety I'd like to see across a full collection without generating outputs that don't work -- there's so much happening in that process that sometimes it creates shapes I'm not happy with. So I'm still working on developing the algorithm to make sure it does what I want it to do.
+
+Will: As an amateur coder, I get those little moments of inspiration where I think, oh, I could try doing this, I think I know how to do it. But sometimes the thing that gets me is the grunt work of actually implementing it. Now I have to go back and refactor everything, change the way I'm populating my array, change my class or add another element to it. Sometimes I'll have an idea and just think, I don't want to do that, it's going to take hours.
+
+Trinity: Post-it note. Write it down for later.
+
+Amy Goodchild: Future problem.
+
+Will: It's kind of like if you were a painter and had a great idea for a color, but it would take you a long time to mix it, so it's not instantly available to you. There's that element of it being work. You actually have to sit down and do it. It's not enough to have the idea, you have to execute it and make sure it works the way you thought it would.
+
+Amy Goodchild: Definitely, it's a lot of work. I think as well, there are certain things I use over and over again. The more projects I do, the more I'm able to reuse code. I have a collection of geometry functions that I just reuse now. It's nice to be able to do that.
+
+Trinity: That was really interesting to see with *Maplands* specifically. I think it was January 2021 when you learned how to do the triangle packing, and then to see you use that a year later, with obviously a ton of other work built on top of it, it really felt like it was coming full circle. Pun not intended.
+
+Amy Goodchild: Full triangle.
+
+Trinity: Exactly.
+
+Amy Goodchild: That happens a lot, actually. The thing I was just talking about with the lines slicing through the shapes came up when I was working on an Art Blocks project I've been on for months and months now — it's been a journey. That idea of slicing through shapes came from that project, though I don't think it'll actually fit into it. As soon as I did it, I realized it might not fit there, but it could be a whole project of its own. So there's this branching, ideas arching over from something I did a year ago and resurfacing, different ideas from different projects getting reused. It happens all the time.
+
+Trinity: I was listening to KenConsumer's podcast this week — he interviewed Punevyr, another fx(hash) favorite — and Punevyr talked about having loads of folders on his computer of half-finished work. He'll get to a certain point in a project, have an aha moment, and sprint off in another direction. Over time that adds up to hundreds of things he could pick up and work on, but he wants to work on what's exciting to him now. So there's this ability to go back and re-explore and reinvigorate older ideas — which isn't really possible in traditional art, where you'd have to literally paint over your painting.
+
+Amy Goodchild: That's definitely something I relate to. I have folders and folders of half-finished things — demos, things that didn't do what I expected, or things I got halfway through that gave me a different idea, so I went and did that instead. Very relatable.
+
+Will: Random question — I was looking through your Twitter and saw a work in progress, and I haven't been able to talk to anyone about this yet, so I'm curious. You're into the AI thing.
+
+Amy Goodchild: Oh yeah, Midjourney.
+
+Will: How afraid of Midjourney should we all be? This stuff looks so crazy — a bunch of artists from fx(hash) are posting a phenomenal number of images, caveating it by saying it's really curated and you have to work with it. But how crazy is that thing?
+
+Amy Goodchild: It's really cool. My initial reaction was, oh no, there's no point in making art anymore, the computers are on it — you do have that thought, that fear. But I don't think it's really a thing, certainly not yet. What I'm finding Midjourney really good for is as an inspiration machine, and a few other artists have mentioned the same. Dan Catt is going to do a video about using it that way, he said. I've been typing in things like "geometric glowing circles in the style of Hilma af Klint," collecting all those images into a Figma board I can look at — it's really inspirational.
+
+That said, I do think the work is very recognizable as Midjourney. I've seen people posting it on Twitter, and as soon as an image comes up that's from Midjourney, my brain goes, oh, Midjourney. I don't mean that to dismiss it, I just think it's recognizable.
+
+Trinity: It just means that Midjourney as an artist has a style.
+
+Amy Goodchild: Exactly, it's a style — something we can all recognize and appreciate. It reminds me of that same DeepDream thing, where the edges are kind of curvy, there's a waviness to it. And then there's the thing we were talking about before, about how important the code is and how it relates to the output. For me it's all about the process — the process an artist goes through to make a piece is incredibly important to the output. So as soon as you know a piece was created by Midjourney, it creates a completely different context. I'm not saying that's worse or better, it's just a different thing. There's still a place for human-created art, certainly.
+
+Will: If you have a moment, you should make a Waiting to Be Signed logo in the style of something through Midjourney for us.
+
+Amy Goodchild: I'll do it. I don't know what it'll come up with, but that's the beauty of it.
+
+Will: They probably don't have a lot to scrape for that.
+
+Amy Goodchild: You can use images as an input, though — I could feed it our logo and tell it to do something in a different style. I'll try it.
+
+Will: The first NFT project we did is just a very basic, cheesy take on the logo, so that could be a starting point. I bring this up because we were talking about code and how, even now, it's difficult to fully credit. At least with gen art, intellectually I know someone sat down and coded it — presumably, unless they copy-minted it, which is a whole other issue. Someone sat down intentionally and wrote loops, and even if you argue it's the code generating the art and that's a different skill, there are lines the computer can make so easily that are impossible with paint or drawing. You might use that to argue the output means less.
+
+But with something like Midjourney, the artist just says, "I typed in this string of words and it gave me this output," which further divorces the amount of work from the output. I worry that becomes ammunition for detractors of digital art in general to say, look how trivialized it is to make something beautiful — all you have to do is give it instructions. Then I think of Sol LeWitt, and the idea of the instruction itself being the art, like his murals where he wrote the instructions and a draftsman executed them. So there's history there. But everyone has their own level of knowledge and their own opinions, right or wrong, and I get overly concerned about how confused people are going to get.
+
+Amy Goodchild: I could see that being a concern — people mixing up generative art and things like Midjourney, if they haven't been educated about the difference. But does it matter if some people don't know what they're talking about? That's an education thing — someone would only make that mistake if they aren't educated. It's like people walking into art galleries and saying, "my five-year-old could have done this." There are always going to be people who aren't interested in art and aren't educated about it who will dismiss things. That's a shame, but maybe it's not a problem you can fix.
+
+Will: It certainly hasn't stopped us from having this podcast, I'll tell you that.
+
+Trinity: It's that education piece we've talked about before. People can look at a great work of literature and recognize it as fine, whether or not they like it, because everyone's taken English courses for the first eighteen years of their life. But I know very few people who've studied computer science or coding as part of a broad-based education. It's not something you get access to in elementary, middle, or high school — it's something you have to opt into, something you need a driven interest in. Until that lack of exposure changes and we become more fluent in it as a culture, people aren't going to have that level of appreciation.
+
+Amy Goodchild: I think that's true. When I say flippantly that there are always going to be people who dismiss things, I wish that wasn't the case — bringing people into understanding, speaking to people on an accessible level, is something I'm actively trying to do. I've always felt that way about more traditional art too. I want art to be accessible, not snobby, not like you're unwelcome to it. That was always important to me with the installations — that they not feel highbrow. I want them to feel like they're for anybody, that you can come in and enjoy it, not dissect it. It's a very human thing to try to give people something to enjoy. I feel the same way about education — I want to educate people because I think it's really interesting, and the more people who can learn about it and find it interesting too, the better.
+
+Trinity: I think it's also about being empowered to actually try it. That might be something missing across all the art spaces in general — people don't sit down and write a short story for fun, and honestly that's a shame. Maybe the world would be a better place — broad conjecture here — if people took more time out of their day to create rather than consume. Consumption is obviously an important part of culture; that's how we share things and have shared experiences. But taking time to actually invent things for yourself, to play, to come up with fun interactive or non-interactive works — I think we could all stand to do more of that, and let little pieces of ourselves out there for others to enjoy.
+
+Amy Goodchild: It's interesting you end on putting ourselves out there for others to enjoy, because there's a real balance between multiple reasons to create things. There's creating something because the process itself is enjoyable — you want to spend an afternoon making something, and that's nice. I paint sometimes with watercolors, I have coloring books and things like that, and that kind of creating is just for me — I'm having a nice time, listening to music, not sharing it with anyone. Then there's the art I usually make, which is so much about the audience. It's interesting to think about the different reasons to create — is it so you can have a nice time with yourself, express yourself, enjoy the process? Or is it also about sharing it with somebody else, putting more creativity out into the world? It operates on a lot of levels.
+
+Trinity: When I think about sitting down to write a short story, I do not get warm fuzzy feelings — I think it would be a lot of unfun work. But I still appreciate the exercise of doing something that feels uncomfortable or unnatural, just to explore parts of ourselves and see what's actually in there.
+
+Amy Goodchild: There's a lot of worthwhile things in challenging yourself. Take the blog posts — I enjoy parts of it, but it's way more of a slog than writing the code. I love when I'm done with them, I love that they exist, but I don't love the process the same way I love actually making the art, because I don't have that same relationship with writing that I do with making visual things. At the same time, I get so much out of making them — not just from putting them out there, but for my own understanding of what I'm doing. The most recent article I wrote, "What Is Generative Art?" — I didn't know all the things I was going to say when I started it. The process of writing it, doing the research, figuring out what I wanted to talk about, definitely deepened my own understanding of what generative art is.
+
+I'm pretty new to this myself — it's only really been since 2020 that I've engaged with generative art specifically. Some of what I made before that could probably be called generative art, but it wasn't conscious until about two years ago. In that time I've spent a lot of time thinking about it, and writing those articles has been part of that — the process of writing them has deepened my appreciation for it.
+
+Will: That blog post is honestly what inspired us to have you on in the first place.
+
+Trinity: We wanted to have Amy on because she's great.
+
+Will: Don't twist my words.
+
+Amy Goodchild: There can be more than one reason why I should be here.
+
+Will: We've had other artists on where we talk more holistically about their art and background. This is the first time we've had someone on to talk specifically about a topic — code, art, the education gap — something we've talked about a lot privately on Discord. Seeing that blog post is what made us think of you as a great candidate for that discussion. That work is so invaluable. So even though you don't like doing it — tough, you gotta keep doing it.
+
+Amy Goodchild: It's not that I don't like it, it's just so much harder — hard in a different way. But I'll definitely keep doing it. I like that they exist more than I hate making them.
+
+Trinity: It's like running a marathon. Nobody actually enjoys the process, but you get a sense of accomplishment.
+
+Amy Goodchild: I want to have run a marathon.
+
+Trinity: Exactly.
+
+Will: This has been really great. I know it's early, and the workday's about to start soon — for Trinity, at least.
+
+Trinity: It's already started. Sorry, people, I'm late for my call. Worth it.
+
+Will: Amy, thank you so much. Is there anything else you want to get out before we wrap? Anything we missed — any fortune-cookie bits of knowledge to drop on us for a profound ending?
+
+Amy Goodchild: Let me check my Post-it notes — I have quotes from other people up here. Here's one: "The brain is no place for serious thinking. If you're thinking about something important and complicated, write it down." It's unrelated to everything we've been talking about, but I think it's really important — I can't think in my head, everything gets written down.
+
+Trinity: Ironically, written down on a Post-it note.
+
+Amy Goodchild: Fittingly written down. Oh, and this one's from Tyler Hobbs: "Programs don't have to be complex to be beautiful." That helps me a lot, because my background isn't very technical, and I worry sometimes that I'm not writing the most technical code. I'm developing on that, but you really can make something incredibly beautiful with very simple code. I'd encourage people to give it a try — check out Coding Train on YouTube, you can pick up p5.js really quickly and start making stuff. Just give it a try.
+
+Will: Shiffman is the most charming educator I've ever seen — total "favorite teacher in high school" vibes. Amazingly entertaining videos that actually teach you how to code. It's insane.
+
+Amy Goodchild: He's amazing.
+
+Will: We'll link to all that in the show notes.
+
+Trinity: Future best friend, right?
+
+Amy Goodchild: I'm trying.
+
+Will: I actually know some people at NYU — I need to hit them up and see if I can get introduced, because I'd love to have him on the show. I don't actually know if he makes anything privately, though. I know he spends all his time teaching p5 and enabling people to do this, but I'm not familiar with him as an artist, I guess I should say.
+
+Amy Goodchild: Yeah, I don't know that he releases work in that way.
+
+Will: Maybe that should be a goal for 2022 — get Dan on the show. That would be amazing. Amy, thank you so much, it's really been a pleasure having you on. Trinity, I know you have to go to work, I'm sorry.
+
+Trinity: It's okay. This was so much better.
+
+Will: I'm gonna go take care of my baby.
+
+Amy Goodchild: I'm gonna go enjoy the sun — it's sunny in London for once.
+
+Trinity: Take advantage of that.
+
+Amy Goodchild: Thank you so much for having me on. This has been great.
+
+Will: Thank you. And thanks again everyone for listening — we'll be back soon with another episode. Later, everyone.

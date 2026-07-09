@@ -1,0 +1,285 @@
+Trinity: Hello and good morning, everybody, or good afternoon or good evening. Welcome to a special edition episode of Waiting to Be Signed. I'm Trinity, joined by WillPOP and our extremely special guest, abstractment — or as I like to call him, Abstraction. Hello, and welcome. How are you all today?
+
+Will: Doing well.
+
+abstractment: Excellent, thank you.
+
+Will: For the purpose of this episode, we're going to call you Preston. That's good, right?
+
+abstractment: Yes, you can call me Preston. It might be a little tricky for Trinity — abstraction versus abstractment — so I'm happy to go by Preston.
+
+Will: Abstraction sounds like a really cool '90s hip-hop artist to me — like a guy who got a couple beats from Kanye, had a hit, and then—
+
+Trinity: Moved over to the art world.
+
+Will: Right, moved over to the art world. But that's obviously not the case here. Why don't you introduce yourself? I'd bet a lot of people know who you are, but maybe not your full background.
+
+Trinity: Your full story.
+
+Will: What brought you to generative art and NFTs?
+
+abstractment: My name is Preston. I grew up in the States and have spent the last 20 years traveling the world and living in various countries. Maybe I'll give some context as a collector first, since a lot of that came out of those travels.
+
+My professional career started in Samoa, as a Peace Corps volunteer. For anyone unfamiliar, Peace Corps is a US government program where citizens go abroad and serve a two-year stint — the idea being to bring American culture to other countries, and then bring an understanding of those cultures back home to share with family and friends. That's where my international travels began, but it's also where a lot of my physical art collecting began.
+
+I was living in a pretty remote village, spending most of my days helping the community with various projects — a really enjoyable but tough experience. Lots of writing, drawing, and surfing; I was fifty meters from the beach, which was amazing. But in the isolation, I'd go into the city and just walk around the market for hours.
+
+Let me back up and explain one piece of Samoan culture: kava — they call it ava in Samoa. It's a plant they grind into a fine powder, steep in water, and drink communally. Picture yourself sitting on a concrete slab by the beach, thatched roof overhead, no walls, surrounded by older men wearing skirts — the local dress attire — drinking ava from a coconut cup. It numbs your tongue and mouth and puts you in a relaxed state, a little bit of a buzz.
+
+But the bowls they serve it from are beautiful pieces of artwork. So when I'd go into the city, I'd explore the markets, look at the artisanal crafts, and spend most of my time trying to find the best ava-bowl artist I could. It took time, but I eventually found one doing amazing woodwork. I bought one, then bought several more, and gave them out as gifts. They're a difficult gift to bring home as a Peace Corps volunteer — you only get a couple of bags, and these are heavy — but they make for incredible gifts. That's where my collecting began, in a non-traditional sense: beautifully carved wooden bowls.
+
+Will: So in terms of education and background, you didn't have a formal arts education — it was more that you broke through into an appreciation of art through this cultural experience of traveling, which then led you toward collecting and eventually being an artist yourself. Is that the trajectory?
+
+abstractment: Stepping back further — my dad was an art teacher, and I think he instilled a love of art in me growing up. He eventually switched careers to support the family, but art stayed his passion, and I loved art class too. I competed in several competitions and did well — I was very much into art as a kid.
+
+As I've traveled over the last 20 years, art has remained a space where I find relaxation and enjoyment. I've created art on occasion — for special occasions, like the births of my daughters, I painted a piece for each of them. Traveling in Afghanistan, I took photos of local businessmen and framed them together in a window frame — it looks really nice. It's always been a constant thread, but never the clear focal point of "this is what I'm doing."
+
+Trinity: I love that — and it's cross-medium too. It's not one particular thing; it's that thread running through everywhere you go. Even when it's not the focus, you're still engaging with it, which is amazing.
+
+abstractment: Yeah, absolutely.
+
+Will: What brought you into creative coding, generative art, and the NFT world? I imagine it's a similar story to a lot of people who encountered this over the past year or two — or maybe you were already a fan of pre-computer generative artists and NFTs reignited that interest.
+
+abstractment: My first introduction to crypto was back in 2013. I was sitting in a Pakistani coffee shop, checking the news, and saw something about Bitcoin's price skyrocketing and crashing back down — I think it was around $200 to $400 at the time. I remember thinking, this is something I want to participate in. I tried, couldn't figure out how, and that was it for a while. I went back to looking for physical art instead, and found a very old Punjabi door that we turned into a dining room table.
+
+I tracked Bitcoin prices for years but didn't really participate until around 2020, when I started buying crypto in a very small way, just trying to get a feel for the market — I've never had a big wallet. I did a bit more in early 2021, and then in June 2021 I started diving into NFTs — perfect timing to get really excited and then watch the market crash. A bit of a rough introduction, though many of us have gone through that, and we'll go through it again as the cycles keep swinging, often rapidly.
+
+By September I was aware of Art Blocks and tracking it, but never buying. Then I found gen.art on Ethereum — a membership model where you pay for a plan and get guaranteed mints from artists when they drop, at prices much more reasonable than Art Blocks. As I watched and joined that community, I got really excited, immersed myself in it, and explored other generative art groups, but gen.art became my home. It's through that community that I really found a passion for generative art — within a few weeks I already wanted to figure out how to create it myself.
+
+By early October I started diving in. I had a little coding background — self-taught, side projects for work, nothing close to my actual background — but just enough understanding to think I could create something cool. I completely miscalculated how difficult it would actually be.
+
+Trinity: From a process perspective, given your artistic background, did you have an idea of the types of things you wanted to make? Were you working on other projects before *Clew*?
+
+abstractment: Yes — I made several things on my own that, looking back, I find pretty appalling and embarrassing. The goal was just to learn how it all worked. Then, maybe three or four weeks in, I landed on a vision for what became *Clew* and figured out how to build it. I think *Clew* is beautiful — I love it — but it's not the most innovative coding behind it. It's a well-orchestrated set of elements that come together into what I think is a really nice collection. I'm never going to be the one changing the generative art space with innovative code. I'm just trying to create great final outputs and a large, diverse collection.
+
+Trinity: That's something we were just chatting about before we started recording — that it's not really about complexity in the algorithm. I haven't looked at the *Clew* code to understand all the work behind it, but no matter how complex or simple something is — we've talked about this on our weekly podcast too — sometimes it's about the refinement: picking the right color palettes, understanding how elements work together. It doesn't matter how the vision is executed; when you hit print, it just comes out looking wonderful. What was the artistic process behind generating those outputs?
+
+abstractment: As I think is pretty evident from the write-up or the description of *Clew*, one of my big priorities was creating art that people would want to put on their walls. I think that comes from my appreciation for all the art we've collected in the various countries where we've lived — we've got work from Rwanda, Colombia, Florida, Pakistan, Afghanistan, Samoa, and a few other countries. I love being able to have that on the wall and enjoy it daily. So going into *Clew*, it was all about increasing the likelihood that this would end up on walls, and I knew the details were going to matter for that.
+
+A lot of what I did was create those really high-quality outputs you can get from *Clew*, then zoom in and look around at what everything looks like up close. When I saw something I didn't like, I'd dive back into the code and tweak it. It was a lot of back and forth between the outputs and the code. I think every generative artist goes through this — it's an important step in understanding what your code is going to produce and whether it meets the standards you have for the work. I have really high standards for myself, and I know what I like and what I don't. On *Clew*, for me, it was a lot about depth — how do I create depth with this very 2D piece? I tried to do that through the backgrounds and through the way the clews, if you will, kind of construct themselves. So a lot of the tweaking was about making sure I was getting the right depth I was looking for.
+
+Will: That's really cool. As someone newer to coding than you, working on another project, hearing that inspires me to really dig in and refine the things I have more direct control over — color, alignment, little tiny adjustments that might make it just that much better but are within my capabilities. That's a great takeaway.
+
+I'm curious — with *Clew*, we see so many new artists come to the platform, and some of them struggle for a long time before they really blow up. They have small Twitter followings, they're in the Discord not even shilling their work, just trying to share it and let people know it's coming. Despite you having a pretty small Twitter following, I wasn't aware of you until the day it came out, or right around when people started talking about it. You somehow hit critical mass with the hype before it even released, despite being new. So aside from the quality of the work — and maybe that's just the whole answer — what do you think you did to really maximize your chance of breaking through?
+
+abstractment: That's a great question, and I'd like to think part of it is the quality of the work, after putting so many hours into refining the traits and finding the outputs I was really trying to achieve. I'll also note I had 18 different traits in *Clew*, and looking back, that might have been a bit of a mistake — when you're trying to get the right effect for one trait, you then have to test it against all the others and make sure the whole thing isn't losing the exact effect you're going for.
+
+Beyond quality, I was sharing tweets ahead of time to try to get additional coverage and interest. One thing I think was really valuable: I'd seen a lot of artists write detailed descriptions of their generative art, but always after their projects had already succeeded. I wondered if that could actually help drive the success of a project instead of just following it. So I put a lot of time into my website, adding pages that outlined all the different traits and how I came to choose them, and what I was trying to achieve. I got a lot of positive feedback on that.
+
+And then, probably more obviously, there's the model I set up — if you own five *Clews*, you're a member of the Clew Crew. There's a lot to that, but I'm sure it also helped spark interest. Trinity, I think you noted this on one of the early podcasts, right after *Clew* was released — that the mint price was very affordable and accessible.
+
+Trinity: How did you come up with that? It seems so stupidly cheap, especially in retrospect.
+
+abstractment: That gets into a lot of the dynamics I was trying to manage with *Clew*. When I was thinking about mint price and collection size together, I figured: if you need five to have this lifetime membership, if you will, to the Clew Crew, that's going to result in roughly 1,500... 1,513 or something, potential Clew Crew members. That's manageable for me long-term in terms of output, so that set the drop size.
+
+Then, for the mint price — I really wanted a diverse group of collectors, and I know very well what it's like to have a small wallet. So when I landed on 0.89 tez, it was about making this accessible — not just a piece of *Clew*, but full Clew Crew membership, at an affordable price. My hope was that a lot of those early minters, even within a few days before the price took off too much, could still get in if they wanted. I was really focused on making this accessible to everyone, because I wanted it to be inclusive from the beginning and bring in a diverse group of collectors. I also worry it's become somewhat exclusive from here on out, and it'll be harder for smaller wallets to participate if they weren't already in the Clew Crew.
+
+Trinity: I think we've seen that meteoric rise. Those first few days were relatively slow on secondary — well, "slow" isn't really fair or accurate. But after that, things really took off, and at some point the floor price hit the 50s or 60s after some big wallets swept.
+
+Will: I'd characterize it as a drop that got flipped, unfortunately — heavily targeted. Not your fault at all, but a lot of people with Temple wallets who were trying to mint just couldn't. That's what happens with projects that get popular and targeted — it takes a long time to burn through that tranche of inventory people are just trying to flip for a couple tez of profit. But because of the quality of the work, and your plan to create this membership, that inventory got consumed by the collector base really quickly. Other projects can take months to turn over. It was really cool to see.
+
+abstractment: And it wasn't just Temple wallets, for what it's worth — I've got Ergo, and I tried to mint when I saw people were having trouble, because I wanted to pick some up for people I knew would want them. I tried six times and only got one.
+
+Trinity: I got five.
+
+abstractment: I got one.
+
+Will: Crazy that you got five.
+
+Trinity: I just spammed the button — didn't matter, just kept refreshing and mashing it.
+
+Will: I got one, and then I really failed in my planning. If you're an avid collector watching the market, you know prices tend to spike immediately, then decline over the course of a week or longer before hitting a second spike, if it ever happens. So my plan was: sell my one nice mint at a markup since it had a really good palette, then buy five floor pieces later and get into the club.
+
+abstractment: Right.
+
+Will: But the floor just caught up to the price of my piece before I could. Bad planning on my part.
+
+Trinity: I have a quick question about the drop itself — we did a logo drop just last week. How did it feel hitting that mint button, putting it out into the world, and then watching all the conversation swirl around it — discovering the reaction on primary and secondary, through Twitter, Discord, wherever?
+
+abstractment: Drop day — I was walking around my house earlier that day, and it was the first time it really hit me: wow, this is insane. I'd been working on this collection for two months, and I had a general idea of what it was going to look like, but I actually didn't know. I'd thought about this as a collector many times before, but this was my genesis drop, and it was remarkable how amazing this space is — you put something out there and have no idea what's going to come back. It's a fascinating space from that angle.
+
+After hitting mint, I actually thought I was going to be in trouble for three hours. I'd announced a drop time, but it turned out I'd been verified without realizing it since the day before. So I minted, then had to wait three hours before actually unlocking it for others, because I wanted to stick to the original timeline in case people were paying attention to my earlier Twitter announcements. A little less than ideal, but I think it worked out fine — people got to review the code and the outputs and look them over before deciding to buy, which I think is always a good thing.
+
+Afterward, I remember it very clearly — it was really awesome. I duck into the fx(hash) Discord every once in a while to see what's going on, and I dropped into the #price-discussion channel and saw someone — I can't remember who, maybe Coincasher — dropping memes: "You get a clue, you get a clue." "Oh, I don't have a clue." "Oh, you're clueless." Just all these plays on the term "clue." I thought it was such a refreshing, positive moment, and I'm glad to have contributed to that. I really appreciate the community — I've been given such a warm welcome to this space, and I can't thank people enough for it. It genuinely makes a difference in terms of wanting to come back and keep bringing value to the community when you have positive experiences like that from the beginning. It was an amazing day just watching it all unfold, the excitement and enthusiasm around it.
+
+Will: Call it a top 2 fx(hash) moment for you?
+
+abstractment: Definitely — top 2 since I've had one Genesis drop so far.
+
+Trinity: Number 1 that we should be thinking about?
+
+Will: I know this is something you wanted to talk about — maybe this is a good time to divert.
+
+abstractment: I was interested in hearing about your top moments with fx(hash) too, but is it okay if I mention a couple of things first?
+
+Will: Yeah, let's keep going on *Clew*.
+
+abstractment: I've built out this airdrop model, and I feel very fortunate because I have a full-time job — I'm not relying on income from my artwork to keep a roof over my family. Not every artist is in that situation, and every artist looks at their art from a different perspective. I really hope this model doesn't result in collectors pressuring artists, or artists feeling pressured, to start airdropping to all their collectors, because that's not the right approach for everyone. This is part of my model to create space for myself in the fx(hash) world, and best case, it just becomes another option for artists moving into this space to consider as one of many ways to introduce themselves to the community. It's far from the only model, and probably not the best one for most people. I want to be very clear about that — I worry about the pressure some collectors might put on others, and I discourage it.
+
+Will: Is there any anxiety for you around this model you've created, which you now kind of have to fulfill? When you tweeted it out, there was some discussion of you being very formal about the rules — but you have to be, right? You're making a commitment to anyone who holds five. People might be making decisions right now, at a higher secondary market price, spending hundreds of Tezos to join, versus someone who got lucky and minted five off the floor. Do you feel like you're on the hook now, because of the project's success, for at least one, two, three more drops? It makes me nervous just watching from the sidelines.
+
+abstractment: Great question. The short answer is no — that may change long-term, especially depending on the price of *Clew*, but right now I don't feel pressure. What I do feel is... I don't know the right word for it. A rejuvenated commitment, maybe. Or just motivation — a strong motivation to return value to the Clew Crew.
+
+When I was doing Art Blocks Curated, one thing I loved about that space was that it was all about the artist: they choose the drop size, the mint price, and the members are along for the ride, participating as they want. Reflecting on that, I thought: well, I'm the artist now, so what do I actually care about? Not really any of those details. So why not flip the concept on its head and focus on the collectors instead? I think that approach was smart from my perspective — it gives me long-term motivation to provide value to Clew Crew members.
+
+Nobody should be buying *Clew* because of anything I'm saying on this podcast. Buy *Clew*, or any art, because you like it. I don't want this to turn into a sales pitch — but I am very focused on how I create value for collectors. Let me touch on one more thing: we've talked about the airdrops, and I've committed to one airdrop for all Clew Crew members for all of my fx(hash) work moving forward. But I've also recently decided that there will be times I airdrop two pieces to the Clew Crew instead of one.
+
+Something I've struggled with a lot in the past is feeling liquidity-strapped. When you don't have liquidity, it's stressful — especially if you want to get into another project. I don't know about anyone else, but I'd sell something at its low point so I could buy something else at its peak, then feel really crappy the next day. Rinse and repeat, over and over, just because I felt liquidity-strapped. That ties into the diversity in collectors I mentioned earlier and how I like to maintain it. When I think about smaller wallets, I ask: how can I help them feel comfortable remaining part of the Clew Crew? One way is airdropping two pieces from some collections — not all, probably seldom — so they can keep one piece of the artwork and have an extra one to sell if they're feeling liquidity-strapped. It just gives them one more option for managing their portfolio and collecting art. My hypothesis is that if I create value for collectors, it gets reciprocated — they value and appreciate my art and what I'm trying to do to support them.
+
+Will: Maybe this is a good opportunity to talk about the project you previewed a little in a tweet yesterday — our time, might have been morning your time.
+
+Trinity: Rocking some Twitter banners you released yesterday, or at least at the time of this recording.
+
+abstractment: Yeah. The only real promise I've made to the Clew Crew is one airdrop for all future pieces or collections. The banner piece was just a little icing on the cake — I saw a few people adopting them as Twitter banners and thought, that looks awesome, so I decided to formalize it and mint some for anyone who wants one.
+
+As for what's coming next: coding isn't my strong suit, I'm self-taught, so everything I do takes time — me figuring out my vision and then how to actually get there. Some of these pieces are going to take a while to fully develop. But here's the tease from yesterday: there's a very special clue in *Clew* — number 205.
+
+Trinity: Oh, okay.
+
+abstractment: It's the only piece in the collection with both a symmetry trait and a special trait. I'm going to build a small collection in honor of that one piece — basically a zoomed-out variation on the "lost/not lost" special trait, which is what *Clew* 205 has. I think I'll call it *Symmetric Clew*, since the vast majority of the collection will be symmetrical in some way.
+
+*Clew* 205 also has the Dune Lakes color palette, so I'm actually going to remove that palette from *Clew* altogether and replace it with the new one I teased yesterday — neon-inspired, makes me say "bam" every time I look at it. I'm calling it Neonomatopoeia. Get it?
+
+Trinity: Yeah.
+
+abstractment: That's my new—
+
+Will: Spell that right now.
+
+abstractment: I can't — every time I need to, I have to go search how to spell "onomatopoeia."
+
+Will: The official *Clew* style guide.
+
+Trinity: All right, bam.
+
+abstractment: Also — the podcast comes out Wednesday or Thursday?
+
+Will: Probably the 9th, US time, midday.
+
+abstractment: Then let's announce the drop here. I've shared on Twitter that I give a one-week advance notice before drops — consider this that notice. It'll drop on Wednesday. I'd encourage people to listen to the podcast first. And let's make this a nice start for the collectors: we'll do a drop of two pieces for the whole Clew Crew. I'll probably reserve five of the minted pieces for a Dutch auction or something like that — still working through the details — but my goal is for about 95% of this collection to go to the Clew Crew.
+
+Trinity: Sounds like I need to get onto the secondary market.
+
+Will: Not financial advice—
+
+abstractment: Not financial advice.
+
+Trinity: Not financial advice, just talking about myself. And I can't wait to see what Neonomatopoeia looks like.
+
+abstractment: You've already seen the teaser for it in yesterday's tweet, but I'll share more details as we get closer. I want to start off with a bang for the Clew Crew and make sure I'm bringing value back to them.
+
+Will: Given the funkiness of the fx(hash) opening windows right now — looking at the calendar, cycle 87 closes and cycle 88 opens on Wednesday — you'll have to check your time zone, Preston, and figure out which cycle this lands in.
+
+abstractment: Yeah.
+
+Will: But if it's mostly minting through the distributed-minus-auction system, that might be less finicky about exactly when it hits.
+
+abstractment: Yeah.
+
+Trinity: Congratulations on putting out something people are really going to look forward to. You were upfront on Twitter when you dropped *Clew* and announced the Clew Crew that this isn't your full-time job — you have a day job, family, friends, all these other responsibilities. I'm really glad you've been able to take that motivation and keep making beautiful new things. Kudos.
+
+abstractment: Thank you. It's just a lot of fun—I really enjoy it. It's surprising how many hours I put in, and it's quite difficult with the full-time job, but it's very rewarding. I've really enjoyed the space so far.
+
+Will: I'm trying to think of the number of hours just to get that logo project done for us—and you were thankfully a part of it too, in that final week, when I was sprinting to get everything figured out and wrapped for fx(hash). For how simple that logo project is, going from not coding to getting that done took a lot of hours. I can only imagine, for a project at the scale of *Clew* and the refinement of it, how much sleep you've siphoned away working on it.
+
+abstractment: Yeah, absolutely.
+
+Will: We're at 45 minutes, so let's spend the last 15 talking about some non-*Clew* stuff. Want to talk about what you collect on fx(hash), or keep going down the future path?
+
+abstractment: Let's talk collecting. I'll admit I am not a great collector. I've recently realized I collect physical art in a very different way than digital art, and I've decided to start putting my physical-art hat on when I'm looking at things. With physical art, I think: this is going to be on my wall for the next 20 years, I want to love this piece. I don't apply that same standard digitally, but I need to start looking at my wallet as if it's my wall—if it's going in there, it's something I love and want to keep. I'm saying this out loud partly to commit myself to it.
+
+As an artist, it's really hard to keep up with everything going on in the fx(hash) community. I've really appreciated your podcast, because when I listen in, I only recognize about 25% of what you're talking about—the other 75% I have to go dig up, because the rest of the week my head's buried in code, trying to figure out what I want to create. I don't have the time to look up and collect the right way, so that's a constant battle for me.
+
+This is also why I love what TENDER is doing. I almost want to stop looking at the fx(hash) homepage entirely and just look at the TENDER page, because that's by far the easiest and fastest way for me to see what might be appealing to me. When I first found fx(hash), around October or November, KenConsumer dropped into the GenArt Discord and said, "If you're not paying attention to this, come check it out." So I did, and it looked like a lot of spaghetti being thrown at the wall to see what would stick. I decided it wasn't for me at the moment and passed. But if I'd walked in and seen something like TENDER, I would have thought, this is where I want to be—it takes all that spaghetti falling off the wall and shows you just the pieces that are going to stick, the artwork that's going to get traction or is worth the investment. Not financial advice, to be clear.
+
+Will: The analogy I've heard for TENDER is that if fx(hash) is the L1 of generative art on Tezos, things like TENDER are the L2s built on top to streamline discovery. I'm sure there'll be more, since that's the nature of how Ciphrd developed the project—all the APIs are there for anyone to hook into and build on top of. I'm excited to see where that goes, because discovery is such a problem. There's a handful of projects every week where you look at them and think, I really hope this one doesn't get lost. It goes through the cycle of getting botted and flipped, and now 30 or 40% of the inventory is sitting on the market, but it's still such a good piece. You know that if we had ten times the user base, that inventory would get bought up and it'd have a nice stable floor and room to grow. But what happens if it takes months to get there, and by then there are thousands of projects buried?
+
+So we need these L2s to celebrate that work—and that's part of what we're trying to do with the podcast too: create an oral history of what happens on the platform week to week, because every week feels like a year and it's so hard to remember. It's almost like a time capsule—someone who discovers fx(hash) a year from now could go back and listen to an episode about a drop that's been forgotten for six months and revisit it.
+
+abstractment: Absolutely. And I don't think it should be overlooked that the fx(hash) Discord community is really good at finding good art—spotting things with a lot of potential, including older pieces that have been overlooked, and bringing them back to life. I've been really impressed by some of the collectors and what they've identified in the Discord.
+
+Trinity: We've all benefited from some of KenConsumer's alpha over the years—or weeks, I guess, though it feels like years. I've learned so much from people in the Discord and on Twitter helping communicate what makes a work great. Always indebted to them. So what are some things you've collected that have really given you joy—pieces you knew could go on your wall for 20 years?
+
+abstractment: The other day, during the *Mountain View* drama, I took advantage of the opportunity and picked one up—was really excited to add that to my collection. I'd also been wanting to get a *Stitch* but missed the mint window, which is one of my recent regrets. I minted several *Glass* pieces that I really like, and I like the *Smolskulls* too. More than anything, though, I love the community around them—it's a great example of where this space can go with the right community built around it. It's kind of what I'd like to eventually build with the Clew Crew, obviously on a much smaller scale.
+
+Trinity: Two for two on our interviews loving *Glass*. I need to make that our intro icebreaker question: on a scale of one to ten, how much do you love *Glass*?
+
+Will: How much *Glass* do you own?
+
+abstractment: Can I flip the script for a second? You started to ask me about favorite fx(hash) moments earlier—I want to turn that around on you. I'll share one more of mine first: when Rich Poole purchased a black-and-white *Clew*. That meant a lot. I really admire Rich as an artist, and he's been really helpful whenever I've reached out for support. When he bought that piece, I really appreciated it. But those are my big fx(hash) moments—drop day, seeing all the memes in the Discord. You two have been around longer and participated a lot more in the community side of things. What are your favorite fx(hash) moments?
+
+Trinity: Will, go first—I don't want to steal any moment you might have.
+
+Will: I think the obvious one is starting the show. Trinity and I have known each other a long time, and over the years we've always talked about starting projects together—usually more business-minded than this—but this is the first one we actually executed on, and it happened so quickly. Around Christmas last year I thought, this is an opportunity—there's no one really creating consistent secondary media around the platform. There's stuff written in blogs, or someone doing an NFT magazine with artist interviews, but nothing like a podcast you could subscribe to through an app. It was awesome to start it. You were a little reluctant at first, Trinity, but I convinced you.
+
+Trinity: I'm not a podcaster. I don't even listen to podcasts.
+
+Will: Neither am I. But we're just naturals—we've got radio voices.
+
+Trinity: We've got six years of banter going for us.
+
+Will: So yeah, I think that's the obvious one for me.
+
+Trinity: I'm surprised you didn't say the NFT drop. That was such a fun moment for me too, Preston, similar to what you described—especially since I control the wallet, so please, everybody, don't hack us, don't steal our stuff. But going through it, screen-sharing, putting in all the information and descriptions, arguing about capitalization, then pushing the button and waiting three hours, holding our breath collectively—watching over time who was buying what, there was this overwhelming feeling of "they love us, they really love us," feeling that support come back from the community. That was amazing.
+
+Will: I'll offer some market and collection-related ones, because I don't think we would have gotten to the podcast if it weren't for one key sale I made. I'll complement that with one key purchase I'm really proud of: when Toxy released *Defrag 2*, I think I got two of them. At that point I was still very much in hardcore flipper mode — learning the platform, viewing it purely as a way to accumulate Tez, not really engaging with the art yet. I sold one immediately, probably for 2 or 3x mint. Then the next day, as collectors started coming in, I sold my second one after it revealed for about 700 Tez.
+
+That gave me a month's worth of room to make mistakes — collecting, figuring things out, actually engaging with secondary instead of just minting and flipping, which was the mint-two-sell-one strategy we talked about on our collection-oriented episode. If it hadn't been for that one windfall sale, the momentum could easily have fizzled out for me. It helped me get my feet into the community and feel good about spending and playing without it really impacting my personal finances. Just very, very lucky — a big moment.
+
+Trinity: That moment.
+
+Will: The other one: very early on, within my first day or two on fx(hash), I bought an RGB. I don't know why I gravitated to it — I wasn't even really on the Discord much, and I don't remember how I found it. I'd collected some similar *Game of Life*-inspired stuff on HEN before, and I was just looking through the site when I found one I really liked. It was 50 Tez at the time, way above floor, and I just bought it. It's also sub-100 in ID number on the site, so I thought, this is one of the first hundred things made here — never expecting it would become the grail piece it is now. That's been a big moment for me on the platform. I don't know why I gravitated toward that particular one, but it feels good to have it in the vault. It's what I use as my Discord profile picture.
+
+Trinity: And the other big moment is *not* selling it at 600 Galaxy.
+
+Will: I've listed it a couple of times and delisted it. It hasn't been listed for a while now.
+
+abstractment: That's awesome.
+
+Will: Congrats on that. Let's hear from you, Trinity — you have to have at least one.
+
+Trinity: I don't have as many big moments as that. There have been some fun-slash-stressful times operating with like 0.3 Tez in the wallet, where you don't even have enough liquidity to list anymore — which is how I became a big fan of the batch-relist tool on Netlify. Use it only at your own risk. Even though that's not fun, because you're gatekept out of literally every drop, including *Clew*, there's something about the scrappiness of digging yourself out of a hole. It forces you to really look at your collection, to figure out what you want to price things at and what you want to put on the market.
+
+That said, I also enjoy having liquidity. One of my favorite moments — I think it was the same day *Sequence* dropped. It was a big day; I actually went into the office, which I do maybe once every five months, so it was special timing to be sitting at my desk during a small office get-together, everyone at the bar, and me just hitting refresh constantly. *Farbteiler* came out — I'd seen some Twitter previews and thought, this is just beautiful. I already loved *The Signatory* by Erik Swahn. It had been a big day — a lot of big days back in December — and I just kept hitting the mint button on *Farbteiler* because the colors were insane, the structure and architecture were insane, everything about it was insane. I ended up minting thirteen of them. I kept looking around fx(hash) thinking, why is this taking so long to mint out? I knew I was onto something. And then just being right.
+
+abstractment: Yeah.
+
+Trinity: Having the eye, having the vision, being able to predict something other people would love, even though it wasn't taking off in that exact moment.
+
+Will: So thank you for telling me — I minted three because you said, "You need to get some of these," and I said, "Are you sure? I feel like this one's a trap."
+
+Trinity: It was two Tez. Nothing is a trap. That was a great moment. And obviously, fx(hash) is ultimately, in some respects, one giant gambling ring. You're buying a thing, there's some skill involved in getting there — especially in the early days, when you couldn't just mint through the front end, you always had to find alternate tools to be successful. If you managed to mint, you'd successfully outmaneuvered all the weird blockchain things, all the weird wallet things.
+
+Will: Yeah.
+
+Trinity: You'd found your way to win. And then there's the lottery component of the output itself — hitting the jackpot a few times, like getting a 1-in-4 *Akeese* dragon, feels so good. Or getting a *Sequence* with the hole in it, which is like a 2% chance.
+
+Will: Your red Iskra.
+
+Trinity: A red Iskra. Those moments are like a weird kind of success — not quite the right word, but it's very onomatopoeic. It's just — bang.
+
+Will: It's an extension of the poker analogy I made on our collection episode — you do a lot of things that are process-oriented, but behaving in a process-oriented way doesn't mean the outcome is always going to be good. Because of the nature of luck in a game like poker, as long as you're following a good process, those wins feel really good, because you're accumulating enough edge in your actions that it eventually pays off. That's the feeling. You should go play poker. That's not financial advice.
+
+Trinity: That's so dry and unemotional. Don't we love the storytelling, the big hits and wins? That's the emotional part that feels good too. Although — I guess there's also satisfaction in executing a process. It was like playing *Magic*, too.
+
+Will: When you've designed a deck to behave a certain way — I don't know if you play games like that, Preston — you build your deck with a certain idea in mind, but you're still shuffling the cards, so there's randomness to what you draw and the order you see things. When you hit the middle of the bell curve you designed for and everything's humming, you feel great. The edge cases are where you feel bad, because you don't get to do what you want. I think that's a lot — maybe we went longer than expected.
+
+abstractment: That was great. It's the adrenaline that keeps us going, those little wins. Same thing for me on the generative art side — when I overcome one of those challenges that's been driving me nuts for days, that adrenaline is what keeps me going for the next two weeks.
+
+Trinity: And solving that problem, figuring out the breakthrough moment — there's got to be something really nice about that too.
+
+abstractment: Absolutely.
+
+Will: Did you know you can put arrays inside of arrays? Mind blown.
+
+abstractment: Cool.
+
+Will: I feel like we're at an hour, and it's getting late on your side. Anything you want to wrap up with, put a bow on this, and send us out?
+
+abstractment: Just a big thank you to the two of you for putting this together. This is where I get my fx(hash) news every week — updates on what's going on and the big drops. I really appreciate it, and I've gotten a lot of value from it as someone who's trying to collect more but gets wrapped up in the creating side. It's nice to have this space to catch up on everything.
+
+Trinity: Thank you for everything you do, and for the exclusive drop info — I think everybody's going to be really excited to see what you have in store.
+
+Will: That feels like an awesome place to end it. Thanks again, Preston — Abstractment, we'll always get your name right moving forward. Really looking forward to everything you have to offer on the platform and in the community. I think you've approached it in a way that's a big part of why you've gotten the reception you have — that, and the fact that art is cool and good. A win on every level. Guess I'll end it the way you end an interview episode: by clicking stop. Thanks everyone, thanks Preston, thanks Trinity for getting up early, and we'll see you all soon.
+
+abstractment: Thank you.

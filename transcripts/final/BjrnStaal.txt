@@ -1,0 +1,237 @@
+Bjørn Staal: All right.
+
+Will: Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode — an fx(hash) emergency interview episode. We're joined today by Bjørn Staal, who some of you may know as @nonfigurativ_ on Twitter and from some of his past releases. Trinity is here as well, and we're convening to talk about the first fx(hash) Vertex release, *Entangled*. How's it going, everyone? We're excited to talk about this release.
+
+Trinity: I'm excited. Bjørn, are you excited?
+
+Bjørn Staal: How much have you talked about this in the past?
+
+Will: That's the question.
+
+Bjørn Staal: It's been a couple of interviews now, and it's still an ongoing process. I'm still working on it, figuring things out, and the concept has kept developing as I've worked on the actual implementation. So I think we can find some new stuff to talk about.
+
+Will: I hope so. We know you spoke with Ken last year after your tweet blew up showing the two windows with the entangled particle systems interacting with one another. Is there any other media you want to plug? Any other resources people should check out?
+
+Bjørn Staal: There's an upcoming video interview with Le Random that should be published soon, probably before the release. I went to Belgium a couple of weeks ago and met with the fx(hash) team there — we filmed an interview and also scouted a space, because we're putting on an exhibition related to *Entangled*. I'm working on a robotics installation to create a kind of physical manifestation of the project, and that exhibition will happen in September. Really cool to meet the whole team in person. The interview we filmed should be out this week or early next week.
+
+Will: I did not know there was going to be a live component to this — we should definitely dig into that.
+
+Trinity: More on that soon.
+
+Will: But before we jump into the project and the process behind it — the first question is always about your background in art and coding, and how you came to NFTs. We covered some of that on Ken's podcast, but for those who didn't hear it: take it away, Bjørn. How did you get here?
+
+Bjørn Staal: Depends how far back you want to go. I got into coding as a teenager, 12 or 13 years old. I got exposed to Flash — I was already really into drawing and making things with computers, early 3D software, that kind of thing — and I got super stoked about Flash. I saw some websites that blew my mind and I wanted to learn. I started by animating things by hand, then gradually got into ActionScript, just very simple things, and that pushed me into the more technical side of art and design.
+
+Being an artist was never really on the menu. I come from a lower-middle-class family in a working-class city, and the expectation was that you had to think seriously about what job you'd have when you grew up — being an artist wasn't considered a real opportunity. I studied art in a special high school for it, and then I understood that if I wanted to keep doing this professionally, I'd have to go into the design industry. So after high school I studied art photography for a year, then graphic design. I kept programming as a pastime, and while I was in design school I got more into it and got exposed to Joshua Davis, one of the old-timers — he's actually in the NFT scene now too. That got me super inspired, and I dove into generative and interactive art a little bit back then.
+
+Then I got a job offer, quit school, and started working at 20. I spent eight or nine years in different design studios in Oslo before some close friends and I started Void in 2015. Around that time I'd really gotten into the OpenFrameworks scene — this C++ framework, kind of like Processing, but more hardcore.
+
+Trinity: Better.
+
+Bjørn Staal: Better for some things, not for all things. More down to the metal — you can do higher-performance work, and especially if you want to work with hardware components, it's usually easier since most drivers and ways of communicating with hardware have a C or C++ library. Zach Lieberman was one of the early pioneers who helped develop it. We used it a lot at Void, building physical interactive installations ranging from small sculpture-like things to large-scale public installations. One of the last projects I finished before leaving the studio last year was a huge permanent light installation in the city center of Oslo, where I live — 3D cameras track everyone moving around, creating these rivers of light passing through a whole city block. That was near the height of my professional career, building my own studio with my friends.
+
+I got into NFTs in early 2021. I'd read about it before and saw some friends from my Twitter circle getting into things, but I was busy with my company and I have two kids, so I only read and learned a little at first. I didn't really get it with the whole JPEG thing. It was only when I got exposed to Art Blocks that I felt, okay, this is actually a very interesting marriage of generative art and blockchain technology. I was stoked by the idea of on-chain storage — the script stored on-chain — and that purity of concept. I did an experiment there in '21: had to line up and wait a couple of months to get reviewed, then released a project in August of that year, *The Lifts of Sisyphus* — chose a really hard name for it. It was basically an experiment to see how the platform worked, writing JavaScript again, which I hadn't done in years.
+
+Since then it was something I did in my spare time while still working at Void. But the idea grew on me — I'd had a dream for a long time to do my own thing. Not so much to get away from my colleagues, more to be independent in how I work, and not do client work. I'd been doing client work for close to fifteen years at that point. NFTs seemed to make it possible to earn a living from something most people had only done as a hobby, without any financial upside. So in April last year, the decision came out of the blue — I just felt like I really wanted to try this and see if I could build a career as an individual artist. My plan was to give myself space to explore ideas and learn new techniques — I'm very interested in the technical side as well as the artistic side. I've released a couple of projects since, but I move slowly. I like to work everything to a level where I feel it's really good from my own point of view.
+
+With *Entangled* specifically, I've also worked with fx(hash) to get the physical component in place, which has taken a lot of time — going back and forth on finding a venue and other things not directly connected to the piece itself. Since you first saw that demo before Christmas, a lot of time has gone into developing the series itself, but also into planning the installation and exhibition. fx(hash) has even built a mini-website specifically for this project, because it's a bit complex — minting on both chains, seeing the entangled pairs, that kind of thing. It's grown from a simple experiment into a series and an exhibition. I'm really happy about it, and so grateful fx(hash) has gotten involved to the level they have — such an amazing team to work with.
+
+Trinity: That's good to hear. We're just eight days out from the launch date, which is exciting, but clearly this has been in the works for a long time. You may have covered this with Ken already, but for people who haven't heard that — what's the history of *Entangled*? What was the evolution of the project? It's one of the biggest "brain" pieces of art to come out on the blockchain, so we'd love to hear more.
+
+Bjørn Staal: I actually have a very small skull, so I don't think a big brain would fit in there, but—
+
+Will: Dense brain. Very dense brain.
+
+Bjørn Staal: It's a very dense idea, but like most of my projects, there wasn't some grand narrative behind it from the get-go. It's very much an iterative process where the visuals, the technical side, and the concept are all in this feedback loop, informing each other. The genesis of this whole idea was seeing that fx(hash) was launching 2.0 with support for both Tezos and Ethereum. That made me realize we now had, to my knowledge, the first platform that merges these two communities, which have been slightly separated. I've loved both fx(hash) and the Ethereum community, and it's always felt a bit strange to see that division. I've used this analogy before, but to me it's like two different cities: Art Blocks is LA, or maybe Marfa, and fx(hash) is the Berlin of the art world. They play different roles, but they have a symbiotic relationship. That sparked the idea: is there some way I could make a project that actually uses both chains and makes these two communities interact with each other?
+
+The first thing I did was more of a technical test — researching whether it would be possible to have two interactive pieces running in a browser and have them interact with no server in between. Obviously, if you build a backend into the system, it loses that self-contained property we love about on-chain generative art. So it started as a technical experiment. I won't dwell on it too long, or I'll get stuck there. But after some initial tests, I found a way of hacking local storage — it's sort of like a cookie — to communicate between several instances hosted on the same domain. I made a simple example and got really fired up: I could make two pieces, two NFTs, regardless of what chain they're on, because the communication happens locally, on your computer, when you open both.
+
+I got super fired up and started thinking about ideas for a project. I can't remember exactly why, but the word "entangled" just came to me — these communities are entangled in a way. I'd had a keen interest in theoretical physics a while back — I'm a bit rusty now, but I remember reading about quantum field theory and the concept of entanglement, which in simple terms means two or more particles can have their state entangled such that you can separate them by an infinite distance, but when you measure the properties of one, you can instantly tell something about the properties of the other.
+
+I saw that as a cool analogy for these two communities. No matter how far apart they seem, they're literally entangled. So many artists have started out on Tezos, built a career, gone over to Ethereum, and then come back again — there's this interchange of talent. The financial side plays a role, obviously, but I think it's important that we have both. Ethereum has provided the collectors and platforms that let you actually make a living doing this art. Tezos may have done that for some people too, maybe not to the same degree, but it's definitely been a playground where people come up and experiment, and the community has been incredibly vivid and alive. In many ways that's my community — the fx(hash) crowd and everyone on Twitter connected to Tezos. Then when you're done with something you've worked on for a long time, there are obviously more financial incentives on Ethereum, or at least that's what it's been like for a while.
+
+That's something I find really interesting about this project — it's an experiment in market dynamics. The value of owning a pair is pretty obvious, but will it be possible to link the prices as well? Will people pay the same on Tezos, in US dollars, as on Ethereum? Because if they don't, that's strange in a way — these are two components of the same thing, and the value proposition is really tied to that specific connection between them. That's a more performative part of the project, and I've started to find it almost like an interesting performance piece. But I'm also very nervous about it — maybe it sells five mints and the project's over, and there's no dynamic at all. Who knows, these days? It's a hard time for many, people are nervous about a lot of things, so it's very hard to predict.
+
+Will: 100%. But with Vertex now, this seems to represent a shift — and I think we're hopeful we'll get an interview with Ciphrd soon too, since we talk to him every six months or so. It feels like a shift in what fx(hash) is doing philosophically with the platform. It's still an open platform, but they're starting this new brand impression on top of it, where they work really closely with artists like yourself — putting together an exhibition, doing a lot of technical work behind the scenes, creating that standalone-ish website with all the project-specific information for *Entangled*. I saw a little preview of what that circular graphic is going to look like, showing which pieces are entangled.
+
+So with that push, and you making the rounds — doing the Le Random interview, and of course getting the Waiting to Be Signed bump here — there's a marketing push behind this in a way there hasn't been for previous fx(hash) releases. Was this always intended for fx(hash) because of that duality? When you first talked to them last year, did they say, "we're thinking of doing this kind of soft-curated thing and you'd be a great candidate"? What was that process like? How did this become Vertex? What did you hear about Vertex? I've got so many questions, but let's start there.
+
+Bjørn Staal: I've been in touch with them since last summer. I did a small show here in Oslo with a huge projection, where we put in some work from Andreas, Kim Asendorf, and myself — Toxy and Carson Smith were there too. The fx(hash) team saw that and reached out, saying it looked cool and that if I ever wanted to do something like it again, they might help out. We had a bit of a dialogue, but it didn't materialize at the time. Still, I kept this idea in the back of my mind that I'd really like to do an fx(hash) project again.
+
+Around the time of the 2.0 release, I didn't feel like the viral post had really pushed my name out yet, so I didn't feel like I was at a point in my career where I could just call anyone up and say, "do you want to do this with me?" So it started as building that demo to show, "hey, I have this idea, I think it will be pretty cool." I didn't have any expectation that it needed anything extra — my plan was to finish the project in a month or two, release two projects on Tezos and Ethereum, and handle the communication myself.
+
+But then the post went super viral, and honestly, it got a lot of people out of the woodwork. I was approached by several people — different platforms, curators — who wanted to talk. That was cool, and I met a lot of people in the aftermath; new projects might come out of those conversations. But for me, it was very clear this idea was tied to this platform, these two chains, and I stuck to that all along. In some ways it was hard, because there were obviously other things that would have been more lucrative — I could have jumped on the Ordinals thing or whatever to maximize that. But as important as money is to survive, I think there's something about keeping that vision alive: if you have a great idea, just stick to it and work it through.
+
+Then fx(hash) contacted me just before Christmas and suggested we do an exhibition around the launch. That's how the conversation started. Just after Christmas, they mentioned they had this new program they'd been thinking about, and asked if I wanted to be the first project in this collaborative effort they were developing.
+
+I think it's really cool, actually — I want to say that, because to some people it might sound like, "oh, now they're doing curation too." But I've talked with them, been a fly on the wall while the whole team discussed this, and I think it's great how true they're staying to their ethos. They're not playing curators, not elevating one project as better than anything else. It's more that they see someone who wants to push some boundaries, and they say, "we want to help you do that." They're all super energetic people with this "let's make things happen" attitude. Baptiste himself is a hardcore programmer and loves anything that challenges the tech side of things. So for them, it's a new way to support the community and help push generative art forward.
+
+They put an extensive effort into this project, and I'm not sure what their plans are for others — it's obviously not something they can do too many of in a year. But I think it's a very cool opportunity: if someone has a good idea and the means to execute it, this is going to be a great resource for people who want to do something beyond the existing limits. fx(hash) can support a lot — customizing things on their platform, building new features. In my case, when I had the idea of doing a physical installation, they said, "let's make this happen," and used their network to figure out who we could work with. They're out at art fairs all the time, meeting people, so they have a good network too. It's been such a cool process.
+
+Trinity: That's so cool to hear, and everything you just said really resonates with how we see some of the different platforms. Art Blocks or Verse, for example, are definitely more art-world focused in many respects, and fx(hash) feels like the fun, techie startup in the mix — willing to get their hands dirty to get stuff done. For artists who might be looking to work with fx(hash) on a Vertex project, what are the sorts of things they specifically help with? Did they build the website? Provide programming input on the project itself? What about art direction, marketing, pricing? I think that's something we'd expect more from an Art Blocks, so it'd be great to hear about the benefits of working with Vertex and how it differs from other platforms out there — not trying to shill Vertex, just want to get more of your firsthand experience out there.
+
+Bjørn Staal: I can't really speak to what their plan is from now on, or what process they'll put in place to handle applications. In my case, they reached out to me, and I know they're already working with other artists on very different projects. So my impression is that it will vary a lot from project to project—it's not like a box you put artists through. It's more about: what is the vision we're trying to realize here, and what is needed to make that happen?
+
+In my case, they had no heavy-handed approach in terms of telling me how the project should look or behave. But they'll give feedback and ideas when they see an opportunity—"have you considered this or that?"—plus a lot of technical support around integration with the platform. They've also built a separate website for the project. I'm not sure that's needed for every project, but for this one it made a lot of sense, because the minting dynamic and the pairing could be a little hard for people to understand. It's really cool—Ciphrd built this circular visualizer that we talked about, and it's like a small art piece in and of itself.
+
+In terms of marketing, they're using their channels, helping make content, filming interviews in collaboration with Le Random, getting it out there. I'm pretty organic on Twitter—I'm hard to control in that sense, so I haven't stuck to any marketing plan. We're doing a mix of things: some they've set up, some I've set up, just to get the word out. For me, the most important thing is that everyone who's shown interest becomes aware that it's launching now, since it's been a while since that first teaser came out—and that I communicate clearly how it's going to work. I'm going to try to do that over the next couple of days.
+
+On the exhibition side, they've been super helpful. They've arranged a venue with a robot arm, and we have an engineer working with us on that installation. Handling all that communication is very time-consuming—for me and for them. Olga from fx(hash) especially has been working nonstop to make this happen. It's almost like I've been part of the company: "Hey, what do you need? What are we doing next?" We just make it happen. I don't know if it's sustainable for them to put this much effort into every project long-term, but I definitely get the feeling they really want to help however they can.
+
+Will: I'm keen to jump in with a technical question. You've already explained a bit about the local storage that lets particles interact between windows, but it's one thing to spin that up in your own browser locally—it's another to have one contract on Ethereum minting tokens and another on Tezos minting tokens. It plays into the whole entanglement thing, right? These two things that seem infinitely far apart—they're not even chains that use the same language to write contracts. That's one of the big things people complain about with Tezos: it's not Solidity. So, first of all, is it guaranteed that there will always be a pair—every single piece has one? And what went on behind the scenes to pull this off? Is it too technical, or too much to ask you to reveal the trick? What work went into making it work?
+
+Bjørn Staal: What I'm afraid of is that you'll be very underwhelmed, honestly, because I had this idea and wanted to launch it even before I knew I'd have any help from the fx(hash) side—so it needed to work out of the box. Basically, there's nothing going on in the contracts. It's just a completely normal fx(hash) contract on both chains. None of the entanglement is in the contract, so to speak—that's a real-time element.
+
+The nice thing about generative art stored on-chain is that the contract really only handles storage of the code. The code runs in your browser in real time. So when you open two of these, it doesn't matter where they're stored—at the moment you open two or more windows, these are real-time applications running in your browser on your desktop, and that's where the magic of them communicating happens.
+
+Obviously this has limitations. You can't open your pair as one iteration on your computer and another on your phone and have them start interacting—that would require technology that just wouldn't work in this context. So there are some very clear limitations: you need to open them in the same browser, on the same computer, and they need to be hosted on the same domain. That has nothing to do with the contract—it's about which domain delivers the content to your browser, which in this case is fx(hash) as a platform. This wouldn't work if I put one project on fx(hash) and another on Art Blocks, because they'd be hosted on two different domains, and for security reasons those two can't access the same part of the local storage memory.
+
+To answer your other question—yes, the pairing is completely one-to-one: 256 on each chain, and they all have a pair, paired randomly. There are really three levels to it. If you mint one and open it alone, it's just one orb doing its thing as a solo object. If someone else mints the corresponding pair on the other chain, you can open the two side by side—you don't have to own both—and they'll start interacting and communicating. But there's a third level: if both are owned by the same collector, there's an extra visual element, an effect showing that this is what we call a "perfect pair"—entangled and owned by the same collector. As for how technical you want to get: that collector information is just sent to the JavaScript application through URL parameters, which is how everything on fx(hash) works—they send all their data to the JavaScript that way.
+
+Trinity: I'm confused about something, and if I'm being an idiot, that's fine, I'll own it. One thing I understand about fx(hash) is that there's no linking to outside libraries—everything is self-contained. So how does this work? Let's get a bit more into the technical side: what's different about this project that enables the entanglement, versus what's available out of the box for other fx(hash) projects?
+
+Bjørn Staal: There isn't anything different, and that's maybe what's confusing.
+
+Trinity: All right, cool. That is confusing.
+
+Bjørn Staal: I'll reveal something that takes a little of the magic away, but it has a cool side effect: it's the same exact code stored on both chains. In one sense, it's the same project on both chains. What's cool about that is it's double-backed, in a way—if one chain dies for some reason, the code is still there, the project can be spun back up, and it will work.
+
+All the data it needs—like what chain it's on and which collectors own it—gets sent to the application through URL parameters. When you click the link from the fx(hash) website, it opens the mint with those parameters attached. That's the same thing they already do with the hash: it's one piece of code, and you send it the random hash, which is the data you need to know which mint you're on and generate the corresponding randomness. It's always the same script being processed—they're just sending more data through that URL. From what I know, they're planning to implement this so it can be accessed in any fx(hash) project from now on, so if you want to differentiate behavior based on collectors, that's something you'll be able to do.
+
+So, like I said, it's the same code on both chains, and I do a little trickery to pre-generate a list of pairs—I already know upfront which numbers are paired. When you open two of them, they start communicating: "Hey, is there any other window open?" If there is: "You're this mint hash, this mint number—which one am I?" They check the list: "Are we a pair?" "Yeah, we're a pair." Then they start communicating. That's the simple version of how it works.
+
+Will: I think that's a great explanation. The other half of this is the general market dynamic—how the two chains perform, and how people tend to collect on Ethereum but maybe not on Tezos, or collect on Tezos at much lower price points. We've seen the prices picked for this. My first question: did you ever consider a "mint one on Ethereum, get a free Tezos one" mechanic, or vice versa, to avoid that asymmetry? Or are you actually looking forward to that asymmetry—maybe Ethereum sells out first and Tezos takes longer—as part of the performance? And how long do you intend to keep it open? Will this ever close? Do you intend to put pressure on people to mint the project out, or risk losing the potential for their pair if they only mint on one chain?
+
+Bjørn Staal: In terms of pricing, that's not my field of expertise at all, so I've been working closely with fx(hash), who have a lot of data on what's going on across their platform. Prices were set based on what we think is right for this project in the current environment. It is, admittedly, a pretty high-priced project for fx(hash), but it's also one that's taken considerable effort, both from me and the whole team. There's a certain level of revenue needed to do something like this successfully—so it's a bit of an experiment in that sense. If it doesn't work out, it'll be obvious to me that I can't invest this much time in a project like this again.
+
+As for "buy one, get one," that's not something I considered. To me, the interesting part is how these different communities collect—and, honestly, maybe annoying collectors a little bit. I'm not a huge fan of that commercialized "buy one, get another free" way of selling art, even though I understand why it would make sense here. Since the pairs are random anyway, we couldn't guarantee that buying one gets you an actual pair. I think that's part of the fun—people will have to look around a bit, and maybe some new dynamics will emerge. If two people each have a mint on both chains with corresponding pairs, they could just swap. Without paying for it, I guess. But you might also see other interesting dynamics where two people who have the entangled pair just decide they want to keep theirs, and they're kind of like buddies, you know, they have this thing that links them together, and I don't have to own both. So I can't really predict where this will go. Part of it has been this open, experimental nature, and I'm hoping there will be some interesting surprises there. So far, no one's attacked me to tell me this is completely ridiculous, so I feel like most people find the whole dynamic interesting.
+
+Will: Definitely. I think anything that encourages collectors to talk to each other about the project, what they like, and to seek out their complementary pieces — even if they don't trade — this whole thing becomes this giant Möbius strip of connections. If I mint one on each chain, even if they're not a pair, each one connects me to someone different, and they're all connected to different people through their pairings. It creates a network effect beyond the kind we typically talk about in gen art, where it's just the network effect of owning stuff. Ours are literally entangled in a way other projects haven't done. Really elegant execution.
+
+Bjørn Staal: You had one more question, I think, that I didn't reply to — how long we'll keep the minting open for.
+
+Will: Oh yeah, please.
+
+Bjørn Staal: I haven't considered that at all, honestly. My last fx(hash) project, *the face we had*, was open for six months before it minted out. There's this idea in the NFT scene, which is a bit corrosive, that you have to sell out as soon as humanly possible, or else the project is considered a failure. Personally, I'm in no rush. Our expectation is that people will participate and that it will sell out, but as we've discussed, it's very hard to know. Very few projects have gotten this sort of attention — and to me, it was clear that all the attention the project got when it went viral wasn't necessarily from people in the NFT scene at all. It got the attention of a lot of developers and tech people who just found the thing technically interesting. Onboarding those people to actually buy NFTs is still a hard sell. We'll see.
+
+I don't pay too much attention to the market in general, but it's hard not to notice things are slower these days. Still, I've decided not to let the market dictate what I do and when and how I do it. If this NFT scene is going to be a place where people can build real art careers, then if you make your best effort and put a lot of work into a project, it should pay off. If it doesn't, I start questioning whether the space is healthy enough. I do feel like the space has matured, that speculation is out of the picture in a lot of ways compared to before, and the people left are the ones who really want to make things and the ones really interested in collecting.
+
+Will: I think that's definitely the case. Speculation, to the extent it exists now in code-based generative art, seems a lot healthier in the 5-to-10-to-20-year outlook, instead of the hourly or daily outlook it had a couple years ago at its height. You want to think we've created something special — a whole team came together to make this happen, and we're going to price it to make it worth the time, and because it's genuinely cool, and that's how you should value it. This is a big statement — for you as the artist, and for fx(hash) as a platform, to say, "Hey, look at this." So I hope this episode encourages people to consider minting, because it's going to be a singular piece.
+
+Trinity: Yeah.
+
+Will: I imagine this will inspire other people to do some version of this, especially if they can take a peek at the code, depending on how you've minified it or not. Isn't that part of this whole Vertex thing — to make the code available and open so people can learn from it?
+
+Bjørn Staal: Yeah, and that's been my plan all along. My long-term goal is to merge my interest in open-source software with making a living selling digital art. I think it's possible. I've seen some setbacks for open source since NFTs came about, and I don't see why it needs to be that way. Obviously, if you put your code out and lots of people rip it off to make spin-offs, that's a problem in a sense. But for me, the project is out there, people have interacted with it, they know who made it, and if other people can learn from the code, that's essential — because that's how I learned what I'm doing. Without the open-source pioneers showing the way, very few of us would be here today making these projects. I'm using Three.js a lot in this and really want to give back to the people building that library and that whole community.
+
+As I said in an interview I did with Fake Whale before Christmas, what matters to me is that when you put code out there, it has a certain quality and people can understand it. That'll be a real challenge for me, because now that I'm working for myself, there's no one else on my team — I don't need to write sustainable code the way I did when I had colleagues and we had long-term projects. My code is a huge mess. I work more like a painter with code, just throwing things around. So my plan is to clean it up, publish it, and maybe do an interview with someone who wants to do a deep dive into the technical side, or write an article about it. Historically I've been really bad at writing — it takes a lot of time, and I'm always working on something new, so it's hard.
+
+Trinity: Mm-hmm.
+
+Bjørn Staal: But the plan is for people to get access to the code and for me to make it understandable.
+
+Will: I don't know if you listened to our interview with Alejandro Campos a few weeks ago. He recently released a project called *Fantasia* on Verse.
+
+Trinity: Oh yeah.
+
+Will: After a couple of projects, he took a break to publish his library, p5.brush. In that interview we talked about how long it took him to clean up the code, document it, and then write it up for publication — it's basically an art piece in itself once it's all said and done, given the effort that goes into making it comprehensible to someone coming along later. Just last week, an artist published a project on fx(hash) using that library, which is super cool. So good luck with that — it's an endeavor.
+
+Bjørn Staal: For me, it also connects to the financial side of things. If I'm doing this full-time and selling my art is my only income, whether or not I'm able to clean up the code and put it out there depends on whether I can afford to, or whether I have to jump straight into the next project. That's maybe a different discussion, but I feel like a lot of the discussion around the finances of NFTs is very focused on the market, and it seems like people have no lower limit to how low they'll go on price, which doesn't make sense to me. We should expand our idea of how long a project can sit on-chain unminted — have stock, like in the traditional art world — instead of lowering prices to a level that doesn't make sense anymore. Obviously a lot of people in this space have very different approaches. Some are doing this more as fun experiments, and it can make them a buck to buy some new equipment — this micro-economy, which I think is super cool.
+
+Trinity: Yeah.
+
+Bjørn Staal: But then there's the other side — I stepped out of the company I built for nine years to try to do this full-time, and the financial aspect is important for making this way of working sustainable.
+
+Will: It's challenging. A lot of artists we talk to say exactly what you're saying — I don't really want to keep track of the market, I don't want to do my own marketing, I just want to focus on creating. The idea of pricing your own work is either too difficult because you're too close to it, or it's just distasteful. There are a lot of reasons people don't want to think about it, but it's necessary because it's how you subsist until your next project. We also talk to a lot of platforms, and the economics of platforms are really challenging. The idea of pricing something high and being okay with it taking eighteen months to mint out, messaging about it every two to four weeks, constantly putting out new editorials or interviews to sell a few more pieces a month — economically, that doesn't work for them, because honestly it sounds like most of them, if not all of them, are breaking even or losing money. Dedicating staff to support a project for over a year to mint it out at the price it should be minted at just doesn't work right now.
+
+Bjørn Staal: Yeah.
+
+Will: It worked for a short period when a lot of these companies were founded or conceptualized. So now it's laissez-faire — it's on the artist to get themselves on podcasts, to be out there blasting on Twitter every day. But the more you do that, the less time you have to create.
+
+Bjørn Staal: I really hope— of course, now there's this push from fx(hash) to get the word out about this project, and I can't take credit for the teaser going viral. But I do think if you make something that pushes boundaries, something where the project itself has that marketing built in, it helps — though I wouldn't say every artist needs that element of innovation. My approach has always been to make things I'm really interested in, push myself to make something beyond what I was capable of yesterday, and post about the process. That tends to pick up over time, and I'd focus more on that than on extra marketing activities.
+
+I really get what you're saying about the platforms. It's sad — a lot of companies and careers were started and built during a time that was probably unsustainable. The pricing has been so strange, because we've never really been at a normal level — it was either batshit crazy or nothing at all. So personally, I'm trying to find the balance where I can make this feasible as a career.
+
+Trinity: Mm-hmm.
+
+Bjørn Staal: I'm used to working in consulting, so it's very easy for me to think about how much an hour is worth. I spend this much time on something, it needs to generate this amount of revenue — if not, I'm losing money and need to take on extra work. If you're an adult with responsibilities, you have to take those things into account. But the financial and money aspect of things isn't really interesting, for the most part, to anyone who works creatively. It's more of a necessity, to be able to keep doing what we're doing, depending on your life situation.
+
+Will: We do this show part-time. We both have jobs and families, and we have a small Patreon and get donations from artists and collectors from time to time. But if we sat down and tried to calculate the hourly rate, it would be hard to justify. Trinity, there she is — I'm sorry if we've been talking over you. I assumed you weren't here since you just went blank.
+
+Trinity: No, I've been here the whole time.
+
+Will: All right, well — opine, jump in. What's the hourly rate? I didn't just leave.
+
+Trinity: I'm not that rude. I think there's a difference between this and consulting. In the consulting world there's a direct one-to-one correlation between the output you're making now and the revenue you're making. Here there's more of an investment element — when you put so much work into a project and make sure the code is clean and well-written, it's an investment in the future, because it's something perpetually out there with your name on it. With client work, as you were saying, the client knows you did great work and will hire you again, but it's not public knowledge. A project that's out there, with a great site the fx(hash) team is putting together with you, is something that stands the test of time. Beyond all the tweeting and marketing push, it's something that will exist in perpetuity — even if it doesn't mint out right away, it persists. I think that's wonderful, and very aligned with what needs to happen from an art perspective through all of this.
+
+Bjørn Staal: I totally agree. I wouldn't say an artist should think about every hour they spend in terms of an hourly rate — definitely not at the market price of a consulting hour. But like you said, you have families and bills to pay, so you have a burn rate: the amount of money you need to make every month to make ends meet, and you calculate backward from that. As with most artists, you put in a lot more work than you ever get paid for. Going into a project with this much risk, you put in so much time upfront with no guarantee you'll get any money back, so there needs to be a lot more in it for me than just money. And this has been a crazy, interesting project to work on with really inspiring people — getting it out there is the most important thing for me. The financial side will basically decide whether or not I can do this again. It's that simple, and that's the part I don't see much nuanced discussion about.
+
+No one owes anyone anything — collectors don't need to pick up my work because I have bills to pay. But if people get used to a price level that no one could ever build a career on, that's an unhealthy environment, and there are probably too many platforms and too many artists in the long run if things have normalized the way they are now. That's very similar to the art world in general — very few artists can actually make a full-time living as professional artists. Why would the digital world be any different? We'll see. People are hoping for another market swing for the better, but I don't want to base my decisions on those dynamics — that would wear me out completely.
+
+Trinity: Fair. I think we're still going to see what the "normal" becomes.
+
+Will: I do want to specify that you are duty-bound to support the podcast, so subscribe to the Patreon if you enjoy the show.
+
+Bjørn Staal: Definitely.
+
+Will: But you don't have to support artists. That's your message, right, Bjørn?
+
+Bjørn Staal: Support the podcast too — people producing content you like, I think it's important to support.
+
+Will: Let's start wrapping up with some rapid fire. We've talked a ton about *Entangled*. Reminder: it's June 20th, cross-chain, about $200-ish a mint at the bottom of each Dutch auction — I think it starts around $600–$800 in the relative currencies and goes down. Be on the lookout, and consider minting yourself a pair. Trinity, let's close this out with rapid fire.
+
+Trinity: All right, one related to what we've been talking about. Apologies, but —
+
+Bjørn Staal: No, it's perfect.
+
+Trinity: What's going to mint out faster, ETH or Tezos?
+
+Bjørn Staal: Oh, that's a hard one. ETH. I should add, the ETH auction opens ten minutes before the Tezos auction. I personally wanted them to open at the same time, so people would be super stressed out, but the fx(hash) team made the point that if you really want to mint on both, it'd be nice to take your time and get one sorted before the other.
+
+Will: Making people stressed out has historically been a bad strategy.
+
+Trinity: Or a great one.
+
+Bjørn Staal: My strategy is pissing people off and hoping that works.
+
+Will: I'll ask one: who would you like to hear us interview in the future?
+
+Bjørn Staal: Oh, so many great ones. Have you talked to Darian Brito?
+
+Trinity: No.
+
+Bjørn Staal: He's a great artist — I think he made some of the best work on Art Blocks. He's really quiet on social media, but he's an incredibly interesting person, super knowledgeable, hardcore coder and artist. I think he'd be great to talk to.
+
+Will: Is he local to you?
+
+Bjørn Staal: No, I think he lives in Amsterdam. We just know each other through Discord and Twitter — how you make friends these days.
+
+Will: Good recommendation. Trinity, want to do another?
+
+Trinity: We've already talked about this as a big release, but are you already looking forward to something in the future? Is there another work in progress?
+
+Bjørn Staal: I have too many ideas. I should have already been working on other stuff, but I've had to cancel or postpone some plans because this took more time than I anticipated. I also need a good holiday — we have summer holiday in July and I'm traveling with the family, so I need a breather after this. But I already have a bunch of ideas for other things. Hoping to get fired up again in August. The exhibition and finishing the installation will be my main focus after this, besides cleaning up and open-sourcing the code.
+
+Will: How old are your kids? I just traveled with a toddler and it was not relaxing.
+
+Bjørn Staal: Mine are 9 and 15.
+
+Will: Oh, probably a little easier to kick back at those ages.
+
+Bjørn Staal: In some ways, yes. In other ways, not so much. Some things get easier, some things get harder throughout this whole process of aging with children.
+
+Will: So everyone should be on the lookout for pictures from your vacation, and hopefully after you clean up your code we'll see something new from you before the end of the year — on fx(hash) or some other platform, who knows. Last one, to take us out: what do you like to listen to while you work and code? Any music recommendations?
+
+Bjørn Staal: I listen to music nonstop — a lot of ambient and electronic music in general, but also black metal and extreme metal on the other end of the scale, and classical music too. I'm all over the place. I have playlists with like 40 hours of music.
+
+Will: I'm thinking Sleep, Dopethrone, Nils Frahm.
+
+Bjørn Staal: Vladislav Delay — do you know him? It's incredible, almost more sound art than music, using a lot of field recordings and pushing sound into these weird places no one else does. It's been incredibly inspiring — it actually directly inspired the particle visuals I'm using in the *Entangled* piece. I listen to it all the time; it gives me this noisy, particle-y feel. Very inspiring.
+
+Will: Drop a link in Discord so we can include it below for people to listen to while they play with their pieces after they mint.
+
+Bjørn Staal: Right.
+
+Will: All right, let's wrap it up. Trinity's having weird connectivity issues again, but that's okay since we're ending the episode. That was Bjørn Staal, aka _nonfigurativ_. Look forward to *Entangled* on fx(hash), the first Vertex project of what we hope will be many really cool ones. June 20th, for those of you considering collecting. That's it for this one, everyone. Hope you enjoyed it — we'll be back soon with another episode. Bye-bye.
+
+Bjørn Staal: Bye everyone.

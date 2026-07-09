@@ -1,0 +1,373 @@
+Ozzie: Welcome to Waiting to Be Signed for a very special podcast with a very special guest. I have with me Will and Trinity. Quick disclaimer: nothing said in this podcast should be taken seriously. We might give some financial advice, but don't take it too seriously.
+
+Will: Almost — you gotta introduce yourself too. Who's speaking?
+
+Ozzie: Who's speaking?
+
+Trinity: It's obvious, no?
+
+Ozzie: Can't you hear the purring? I'm Ozzie from fx(hash). Hello, hello.
+
+Will: Ozzie, welcome, and thank you for doing the intro. That was a load off our shoulders.
+
+Trinity: Will you also be interviewing us? Really flip the script, because that's what people want — they don't want to hear about you, they want to hear about us.
+
+Ozzie: I actually watched that Jonah Hill therapy documentary on Netflix, where he interviews his own therapist instead of the other way around — pretty cool. But I'll just give the mic to you two and see what happens today.
+
+Trinity: Magic will happen. Not *Magic: The Gathering* — we need to ask you that. Do you play *Magic: The Gathering*?
+
+Ozzie: I play almost nothing. I have no time for games. I was a big fan growing up — I know you guys are too — but it was mostly the classic PlayStation stuff, *Grand Theft Auto*, FIFA. A little generic, maybe boring for you guys, but that's basically what I played.
+
+Trinity: You heard it here first, folks: Ozzie is generic and boring.
+
+Ozzie: Super boring in real life.
+
+Trinity: Straight from the cat's mouth.
+
+Will: Well, your real life is what we want to hear about, Ozzie — that's one of the reasons we have you on the show. Everyone here probably knows you for your role at fx(hash), but they might not know exactly what you do, or really who you are. In these online spaces we don't share that much about ourselves. So give everyone an introduction: who is Ozzie? How did you get into art, crypto, NFTs? How did you find fx(hash)? What's your background?
+
+Ozzie: I was already doxxed by the Tezos Foundation last year, so I just tell everyone now who I am and where I come from. My real name is Özgür Eryiğit, which means "free brave soldier" in Turkish. My parents were both born in Turkey; I was born in the Netherlands 26 years ago and I'm living in Rotterdam right now. I finished med school last year and I'm a medical doctor. I also did a research master in clinical research for two additional years alongside medical school, focused on patient safety — video and audio recording in the operating room to enhance the operative report. After my studies I started my PhD, which I'm still doing — this is my fifth year. I'm a slow PhD candidate. I hope my professor isn't listening to these podcasts, but I hope to finish this year.
+
+How I got into crypto and NFTs is a bit different. I was a medical student, and around October or November I realized I wasn't very good at trading crypto — I ended up with $200 after a year. So, as far as financial advice on this podcast goes, take note. I called my friend and said, "This trading thing isn't for me, I don't understand it, I'm not going to make it." And he said, "Bro, you should just do NFTs." I said, "What's an NFT?" He said, "PFP projects, Solana" — and you can already tell that's the wrong direction. So I started looking at Solana NFTs, and I actually wanted to buy my first NFT there — a philanthropic project for women's rights, about $200. Just before I clicked buy, I saw people in the Discord chatting about rug pulls and scammers, and I thought, what does this even mean? I wasn't good at trading, and I clearly wasn't going to be good at picking NFTs either, so I backed out.
+
+Then I went on Twitter, scrolling, not really following any artists doing NFT-based art. Somehow a tweet by Ciphrd popped up: "I'm doing this beta on fx(hash), it's generative art, if you have some time go look at it, go buy some NFTs." I checked it out, and it was very accessible — the website didn't look sleek like the Solana sites, all purple and astro-themed. I bought my first couple of NFTs for $2, $1.
+
+Trinity: What were they? That's a good question.
+
+Ozzie: I actually don't know. I think it's still in my collection — if you scroll to my oldest mints it should be there. I wasn't a great curator of my own collection early on; probably 20 to 40% of the artists I collected that first week stopped publishing afterward and took their names down. But I liked the art, and I didn't have a big budget back then. I'd started using Discord that October, and I joined the fx(hash) server in the second or third week — that's where the magic really happened, I think, for all of us. You'd enter the Discord, people talking, memeing, speaking about art — sometimes serious, sometimes funny — and it was a great way for me to think about something other than med school. That was my eighth year of studying more than full-time, something like 80 hours a week. It gave me a place to rest, focus on something else, look at art, talk about art.
+
+I quickly started helping other people onboard to fx(hash) — how do you get a wallet, how do you get your first NFT. One day I got a message from Ciphrd — doesn't happen anymore, he's too busy — but back then he DM'd me directly and said, "I really like your vibe in Discord, thanks for helping people out, here's 40 tez, go mint some NFTs for yourself." Forty tez back then got you like 40 NFTs — that's a lot. That was the moment I really started collecting heavily, building what we call grails in my collection. That sparked my interest in gen art itself, rather than flipping art to buy more art.
+
+In January I became a community moderator, and about a month later they asked me to join the fx(hash) team as artistic director, since I was already in contact with many artists in the space. I'm still doing it a year and a half later, and it's really fun.
+
+Will: January 2022, so a year and a half.
+
+Ozzie: January 2022, yeah.
+
+Trinity: Very young fx(hash) — that's about when we started podcasting too. Everything was happening, life was better. So, you had a long and storied career in academia to become a licensed medical professional — what's your qualification for directing artists? How did you actually get into art? Unless, like Will and me, fx(hash) was how you got into art.
+
+Ozzie: Actually, yes and no. I was really interested in art from around age 10 — I did sketches for my school's monthly magazine, this recurring character like SpongeBob but as a fly, a new episode each month. In high school I did even more of that — sketches, art classes — and after two or three years I randomly stopped. My teacher didn't believe me. She said, "Why stop? You love this." And I said, "I want to become a doctor, this isn't for me." Deep down I loved languages, art, sketching, drawing, but I wanted to be a doctor — and I'm still really happy to be one.
+
+So what made me artistic director at fx(hash)? I think I brought a different kind of communication to the team than what was there before. NFTs and digital art are a space built mostly by developers, less by people who interact one-on-one with humans — it's always about the interaction between human and computer, less about human-to-human interaction. I've been trained to speak to people, patients mainly — sounds weird, but it's true, you learn how to be empathetic. That made it easier for me to connect with artists and talk with them about their goals: what they like, what they want. We realized this is what artists really value — not just talking about the technical side of their art, but asking, what do you want for your career? Are you happy with what you're doing? How busy are you right now? Do you need guidance, advice, or just a listening ear? No one really talks about that — it's always more drops, more art, more exhibitions, more events. Never about the human side of who this artist is, what their life looks like.
+
+That's what made it easier for me to interact with artists, and part of why I took this role. Of course it's all very new to me — I haven't finished a master's in art or anything like that. It's moving fast, I'm learning a lot, and I know I can go to anyone with art questions and people are keen to teach me. Web3 is new, too — I got into crypto and NFTs pretty early, but we're all still early. Everything we're doing right now is new to everyone. Is there really an expert in this space? I'm not so sure. Are there experts in digital art? Absolutely — digital art is older than most people realize. But the people working in this space right now are the experts of the future. I don't think there are real experts in it yet.
+
+Will: These might be the only three experts right here on this show right now.
+
+Trinity: That's true.
+
+Will: You describe a lot of what you do as relationship building with artists more than anything. I imagine that translated into the live events fx(hash) was doing last year — were you one of the key people organizing those? What was it like corralling all those artists and traveling to all those events? It seemed like an intense six months of constant travel.
+
+Ozzie: Yes, it was super intense — not something I was accustomed to, a really new experience for all of us. I haven't actually mentioned this before, but I'd been in the event industry for a couple of years already, mostly medical congresses, some party-type events too, but nothing like an Art Basel, nothing like Proof of People. So it was all really new, and the constant traveling was hard, and not just the travel itself. I always say the actual week of the event is less hectic than the weeks leading up to it — that's something you learn by trial and error. Our more recent events are noticeably better than the ones we started with. If you've been to the Art Basels, you can see it gradually improving each time. Art Basel and the foundation hold their events to a high standard, and that pushed us to think more critically about how we organize ours.
+
+We're really confident now about our events and our live minting installations. For next year, expect more events, in more countries — not just the Western world, but Asia, maybe South America, plus Europe and the States. We started in Western Europe, but we're very aware our community isn't just Germany and England — it's the rest of the world too. We want to give everyone a fair chance to experience the live minting installations. After a year and a half, we're pretty confident in our IRL events now. Hopefully that leads to, who knows, a first official fx(hash) event.
+
+Trinity: Dreaming big — I love to see it. We also just got off of NFT NYC 2023, and I think it doesn't need to be said, but I'll say it anyway: it was a huge improvement over fx(hash)'s presence at NFT NYC 2022. Depending on your love of mariachi bands and getting kicked out of buildings, it's definitely way more official now. You didn't make it out last year — it was just Erik holding down the fort. What was this year like from your perspective? What was the Ozzie take on the scene, on New York, on Brooklyn, which was very cool?
+
+Ozzie: That's a good question — I'll try not to laugh, but the mariachi band thing is really funny. The funnier story is that I was partly responsible for that mariachi band without even being in New York. I was in the Netherlands at the time, and I got a message from someone I won't name, who said, "Hey, I heard you're doing this event in New York, cozy community, et cetera — do you like pizzas, or do you like tacos and a mariachi band?" I said, "Hell yeah, I want tacos and a mariachi band — I'm not there, but it should be good, right?" Then they called the mariachi band, and the rest is history. That's a little secret that never really got out. So, for everyone listening — sorry about that. I hope it was fun though.
+
+Trinity: Event planning at its finest. It was fun for us — just not for everybody else trying to work in the building.
+
+Ozzie: Oh God. But about Brooklyn — it's a no-brainer, Brooklyn is amazing, one of my favorite neighborhoods. ZeroSpace is a legendary location, founded by Joshua Davis himself. He gave us a tour of the studios at Proof of People that weren't open to the public. It was amazing — that's where huge companies like Meta and Disney, and multiple American artists, recorded their video clips. I'd never seen anything like it. Seeing that a generative artist built something like that with his friends was incredible, so being there for us was a no-brainer.
+
+We had eight artists in New York City doing live minting — a paid live mint, one of the first we did after Piter Pasma and Bright Moments. I was really happy with the quality of the work. Some pieces minted out within a block, even two. I think it was William Watkins that minted out right as Will entered the space.
+
+Will: Before it.
+
+Ozzie: Before it.
+
+Trinity: Waiting in line, watching it mint out.
+
+Will: I was waiting on the block while the mint happened. They made us wait until about 2:15 before they let us in, but the mint went live at 2:00.
+
+Ozzie: That was a decision we made — one we hadn't made for other events — to open the live minting experience both to the public at ZeroSpace and to people at home, because we knew we had enough editions for everyone. There's so much going on in New York during NFT NYC, so we thought: why not open it up, let the people there experience the art up close on huge screens with the beanbags, and let people who want the art at home mint too? Especially during a bear market, not everyone can afford to fly to New York for a mint. Going forward, I hope we can do more of these hybrid live events — giving something extra to the people who show up in person, while people at home get their own version of the experience.
+
+Will: Definitely the right direction. Having sat out every event last year, I not only missed out on stuff as it minted live, which created some apathy toward the drops themselves, but then you'd watch the ensuing drama of how artists handled the unminted pieces — do they release them for zero, do an allowlist, price them? Everyone had their own chaotic approach to dealing with leftovers post-event. So some kind of hybrid reserve/open system makes sense. I love the idea of letting projects build momentum with people minting from home, but I was bummed I didn't get to mint *Landlines* live — that was the one I was coming for. Where should we go from here, Trinity?
+
+Trinity: Well, should we talk about the cat?
+
+Will: I guess we should talk about the cat in the room.
+
+Trinity: What's up with the cat? I know it's your PFP, but why are you a cat? How did that become common knowledge?
+
+Ozzie: Whew, that story. It isn't really that deep, honestly. When I first joined the fx(hash) Discord, I actually had a different cat — I don't know if you remember. Probably not. It was a white cat with a pink ribbon on its head and little tears down both eyes. I had that for a long time, until I found a GIF of another cat with heart eyes — maybe you remember that one. I had that for a long time too; it's still one of my PFPs on fx(hash). The one I have now was sketched by Bartholomew Little Silver — I'm really proud of that one. It's my profile picture everywhere, even on my business cards, which have a metal card with a QR code on the back and the cat on the front. It kind of became a trademark, I guess.
+
+It's funny — people used to argue on Twitter about me not actually being a cat, because they'd seen me at an event: "He's not a cat!" There were practically threats over it. It's funny. I like cats — I don't actually have one myself, funnily enough, because my family can't have pets at home. My sister has one, and I'm like a second father to that cat. The whole thing started as a silly joke — I didn't have a PFP NFT I liked that wasn't cringe, so I just picked a picture I liked and went with it. Somehow it became a meme in Discord, people calling me "cat," and I just went with it. It's still my profile picture. If I respond to people, it's usually a cat GIF or something. I like it — cats are funny.
+
+Trinity: They are. I'm a cat owner, insofar as you can own a cat — I live with a cat. Maybe that's the best way to put it.
+
+Ozzie: The cat owns you, you mean?
+
+Trinity: Correct. Will famously wouldn't allow us to get a cat when we lived together.
+
+Will: I was answering a question!
+
+Trinity: I moved in a month before he did, and he said, "While you're here — no cats."
+
+Will: Do not get a cat.
+
+Trinity: Do not get a cat. So I didn't.
+
+Will: And then the second I moved out, you did.
+
+Trinity: It took six months, but yeah, basically.
+
+Ozzie: But it was worth it, right?
+
+Trinity: Oh my gosh — living with Will instead of a cat, I'd take the cat every single time.
+
+Will: I have some cat-like qualities. You might not know it from the show, but I definitely do.
+
+Trinity: My cat loves *Diablo IV*, so.
+
+Will: Ozzie, the cat theme has actually carried through to some of your philanthropic work. Semi-recently you released *Kittens to Cairo* for Turkey Quake Aid, and you've got a history of philanthropic work in crypto — you mentioned one of the first things you looked at on Solana claimed to be a charity NFT, even though it turned out not to be. You also worked with fellow fx(hash) team member Liam Egan on the *Reissiger* project. Tell us about your passion for that, and about both of those projects.
+
+Ozzie: Philanthropy has always been a big part of my life. I like to see people succeed, but I also like to see people happy. I like to see people getting the chances that they want. I'm a child of migrants, so I know how it feels not to have all the chances you deserve. I was always like this — I always tried to fight for my own rights, even though I live in the Netherlands. I was born here, I'm as Dutch as you can be, but it will always be a fact that your roots are from somewhere else, and that your chances are still slightly different from other people's.
+
+So in my work and in my life, I always try to find ways to do good. Especially at fx(hash), I'm aware of the influence we have as a platform — artistically, but also financially, because a lot of artists have messaged us saying, "Thank you for making it possible for me to live off my work, which was not the case before."
+
+With *Reiziger*, it started with a good friend of mine in the Netherlands who wanted to travel from the Netherlands to China by bike — 10,000 kilometers, I think — and wanted to raise €1 per kilometer on GoFundMe. A couple of weeks in, I saw he was in Iran, and I asked him how it was going. He said it was fine, but they were nowhere near the money they needed for this school in South Africa, where they wanted to educate children in art, music, and dance in a neighborhood where the chances of reaching an art school are basically zero.
+
+I messaged Liam that same day and said, "We're fx(hash), we're an art platform — if there's one platform that can help them reach their goal, it's us, because if just one project mints out, that's the entire amount they need to get that school running." Liam loves to help artists and loves philanthropy too — I call him the code doctor, because he literally knows everything about code. We started working on *Reiziger* for a couple of weeks. He'd tweak it, send it to me, I'd give feedback, he'd tweak it again, and so on. We wanted it to be something good, because people at fx(hash) love to help others, but it also has to be good art — our community is really critical. We know when a copy-mint is a copy-mint, and we know when an artist has put real time into a piece.
+
+I didn't actually plan to be a collaborator on the project, but Liam told me, "You've put a lot of time into this too, so I'm putting you on it — you deserve it." I said, whatever works, let's just get this money for them. It turned out amazing — I don't even remember the exact number now, but I think we raised eleven or twelve thousand euros, more than the maximum they'd asked for on GoFundMe. It was amazing, and very emotional.
+
+*Deprem Aid* was even closer to home, since I'm a Turkish-Dutch guy. It stopped me from working properly at fx(hash), from doing my PhD, from everything — it was traumatic seeing people with the same roots affected so badly. Earthquakes like that are hard to see anywhere in the world, but when it happens close to home it's even worse. That was a real community effort with the entire Tezos community — people from Versum, Teia, OBJKT, fx(hash), xCollabs, DNS — we were all in one DM group saying we have to do something. We created that campaign.
+
+I don't publish a lot of NFTs myself, but I started *The Kittens of Cairo* — kittens, because it's fun, and Cairo because Egypt has this culture of respecting cats going back to antiquity. I wrote poems for each of the kittens. Actually, I listened to your previous podcast talking about those kittens — one of your questions was how they were made. I didn't put that in the description on purpose, because I wanted to see how convincing AI could actually be: could it look handmade, like I'd taken a photo of something, or would it read as obviously AI? I was surprised to hear you debating whether it was AI or not. But I can confirm — it really is AI.
+
+Trinity: Cat is out of the bag.
+
+Ozzie: The cat is out of the bag.
+
+Trinity: That's one of the really cool things about AI these days — there are people who specialize in making AI output that looks like ceramics, or claymation, or sculpture, because the models are trained on such diverse material that if you work hard and focus on it, you can get that effect. Very cool to hear about all this philanthropic work. Going back to *Reiziger* — what role did you play on it artistically? Were you directing the artist, so to speak, or more like an artist directing yourself?
+
+Ozzie: Good question. Liam started off with a project I didn't like, so he told me, "Go through my old unfinished projects, look at what you like, and we'll start there." I went through them — which you should do too, by the way, they're amazing — and I picked one and said, "I like this style," with specific themes in mind.
+
+*Reiziger* means "traveler" in Dutch. We wanted to create a piece where you could see something traveling through the entire artwork and, in the end, creating something beautiful. If you look at it, when you press play it always starts with a dot that travels around the canvas and creates the piece. We built the story around that and tied it to South Africa. I'm not a coder myself, so I was providing feedback on what Liam was doing and shaping the description of what the artwork should be. That was my part.
+
+I hadn't really done that before with other artists — I've had a small part in a couple of fx(hash) projects, maybe you've seen me pop up in a description somewhere —
+
+Will: The timeout chair.
+
+Ozzie: The little royal timeout chair. But nothing like what I did with Liam. There might be more coming, though.
+
+Trinity: Anything you can talk about?
+
+Will: Want to preview anything now?
+
+Ozzie: No.
+
+Trinity: Okay.
+
+Ozzie: I don't want to put deadlines on my partners, but I have some ideas for collaborations with generative artists — it's going to be very fun. I'll try to incorporate linguistics into it as well. I also have a solo project about poetry that should have been finished last year, but it got paused with everything going on. Since I started working full-time at fx(hash) a few weeks ago, I have more time for it, so I hope I can finish and publish it soon.
+
+Trinity: All that work getting in the way.
+
+Will: Keep your eyes open for that one. Maybe we can turn the conversation to fx(hash) and the generative art ecosystem in general — how's that sound?
+
+Ozzie: Let's go.
+
+Will: We'll do our best to keep this uplifting and not too doomer, but it is the times we're in, unfortunately. Given your close relationship with a lot of the artists on the platform — that's part of your role as an fx(hash) team member — can you speak to the proliferation of platforms out there, artists spreading out across them, and specifically the downturn in artists releasing on fx(hash) versus elsewhere? How does the team think about artist retention and attraction? Obviously fx(hash) needs art released here so there can be fees, so the platform can persist and grow. Is this even viewed as a problem internally, and what ideas are being thrown around?
+
+Ozzie: It's a good question, and it's something all platforms should take seriously. We're very aware of the financial dynamics artists face right now, and it's multifaceted — there are so many factors behind artists' decisions and collectors' decisions to collect or not. One is the overall crypto market. Another is what you mentioned: multiple curated platforms popping up on Ethereum, Tezos, and other chains.
+
+We're not pessimistic about this at all — if anything, we're getting more confident, because the fact that more platforms are appearing, and that institutions are seeking advice on web3, crypto art, and generative art, is a sign that this is the future for the long term.
+
+As for why artists move from one place to another, the reasons are personal and varied. In general, artists who start at fx(hash) — and a lot of big names did: Marcelo Soria-Rodriguez, William Mapan, Zancan — started very early on fx(hash) and then moved to other platforms too. That's part of an artist's natural trajectory: you want to drop on multiple platforms and blockchains, reach a bigger audience, experiment with IRL and curated exhibitions. So it's not strange that top artists move around.
+
+But from my conversations with artists, they're still very much connected to fx(hash). They value it, they value the tools we build, and they return. It's hard to draw firm conclusions from the fact that things are slower right now — we see this across other generative art platforms too. It's fine for artists to look around and have work on multiple platforms. Some are also thinking about how to keep the value of their existing fx(hash) pieces high — you don't want to drop every week and dilute your own market.
+
+So it's hard to point to one problem. Short term, artists are going left and right; long term, I think it stabilizes, and the big names return. And the next Zancans and William Mapans are probably dropping right now without us realizing it, because we're so accustomed to talking about the big names' drops that we're not paying attention to the new artists coming up on fx(hash). So — short answer, it's multifaceted, a short-term turbulence, but long term we believe generative art will have a central role in our society.
+
+Trinity: There's so much to unpack there. Thank you. On the other-platforms point — something an artist said in a prior interview stuck with me: working with a lot of these other platforms and systems is really a partnership. There's an expectation to hit a particular date, a tight collaboration. That can be great for a career, but there's a certain exhaustion to it when you're no longer fully in charge — you can't just release whenever you want. That doesn't happen with fx(hash); you're pretty much in charge of what you release and when. I think that will always be a value-add.
+
+Ozzie: The artists experimenting with fx right now are coming with amazing pieces. You can see that while you're going through the params, which you might not notice just looking at the thumbnail. But once you start playing with it, the magic happens. I had this conversation with Joshua Davis about how he spent fifteen hours getting to a specific iteration he really wanted for an fx piece, which was amazing to hear. The artists who experiment, who want to see innovation—those are the artworks I personally like.
+
+Trinity: What about new artist recruitment? We've seen a bit of a slowdown in new names appearing in the feed—though maybe they're there and we just need to look more closely. How do you think fx(hash) recruits more artists? It's such a weird intersection of coding, art, crypto, and talent.
+
+Will: Does fx(hash) make any overtures to the traditional art world? We've talked to other platforms whose strategy isn't just to pull existing generative artists from fx(hash), Art Blocks, and elsewhere, but to bridge digital artists who haven't released NFTs into the NFT ecosystem and legitimize it that way. You've been to all these traditional art fairs over the last year—have there been conversations on the fx(hash) side about that? Joshua Davis is a good example of someone who'd done NFTs before but was new to fx(hash).
+
+Ozzie: We have lots of conversations with traditional artists who aren't coders, and with digital artists who don't code themselves but are really interested in generative art and don't know where to start—how to find someone to collaborate with on a project. So this year, even more than last year, we're going to try to help people find partners to create amazing generative art pieces, even if they're not natively generative artists themselves.
+
+Right now we're in conversations with traditional artists who present their work to us and say, "This is my style, I hope I can find someone who could work with it." It's really hard to find the specific generative artist who could collaborate with a traditional artist in that particular style. But since we've seen hundreds, maybe thousands, of artworks on fx(hash), it's much easier for us and the community to say, "This artist might be a good collaborator for you." Without curating too much, we try to connect these artists to coders. That was also one of the reasons we came up with the collaborative contract—not only to split royalties between artists, but to let traditional artists and generative artists or coders work together. I think we'll see much more of that in the upcoming months.
+
+Trinity: Fingers crossed.
+
+Will: Very exciting. Staying on the platform side—something we've heard a lot is that fx(hash) operates like a layer 1, or even a layer 0, in the ecosystem for people to build upon. We've seen a bit of that: the Blind Gallery dropped art on fx(hash) for their latest release, and *Here and Now* uses fx(hash) to power its generative experience. But there's always some friction, because everything has to live within the page we look at things on, and it's hard to differentiate without doing something explicit like titling your project a certain way—which an artist might not want to do. So I'm curious what ideas the fx(hash) team has for making the platform a more successful base layer, not just for artists but for other platforms to build upon.
+
+Ozzie: Good question. We started with the idea of being a base layer for artists and for other platforms who want to build on top of fx(hash). After a year and a half, I think we've reached the point where we've made many tools people can use and feel very confident in, and other platforms and artists are interested in using them too. The next step is that you'll see people running our tools on their own platforms and websites—artists creating their own site with fx(hash) running in the background. That's all possible through fx(hash), and it should be very easy to do.
+
+We've seen it with *Here and Now*, which was a very smooth experience running on fx(hash) in the background. TENDER also uses fx(hash) for their minting experience and how they showcase tokens. And you'll see this with fx(params) too, as it becomes usable by others as a tool for their own native platforms. So I think fx(hash) will soon be running in the background of many platforms and artists. This is the next step—it starts slowly and will expand to many use cases. We're confident about these tools; they're fun to use and easy to integrate. If you're listening and have a great idea, we're definitely open to talking about what's possible for you as an artist, an event organizer, or anything else.
+
+Trinity: So it sounds like there's a big ramp-up in both directions—we've seen a slew of new features come to the main fx(hash) site, like params and collection offers, while the backend technology is also extending out to other entities. Is there an immediate priority for fx(hash), and how does one direction impact the other? For instance, building more robust tools for the community tools that have risen up—fx(party), the statistics tools—how does that impact the broader ecosystem?
+
+Ozzie: When we build tools, we always think about how not just our community but the entire ecosystem can use them—mainly the Tezos ecosystem right now, but with broader use cases in mind. That's always there before we start working on anything. So once a tool like fx(params), or the collaboration contract, or soon redeemables, goes online, it's built to serve our own community but also the bridges to other communities and the wider ecosystem. You see that with fx(params), where you should be able to integrate tokens from other platforms, not just fx(hash). Once a tool is live, it should work for multiple purposes—not always immediately, sometimes it takes months before other entities can use it, but our goal is always to be that base layer for the entire ecosystem.
+
+Trinity: One thing we haven't asked about yet: events. We're coming off NFT NYC, one of the rare NFT events fx(hash) attends—NFT Show Europe is the other big one—but there's also a big focus on art events, the Friezes and Art Basels of the world. What's the priority there? Is fx(hash) an NFT entity, an art entity? Where do you want to sit in that mix?
+
+Ozzie: Interesting question, and the answer is two-sided. We're primarily an art platform, and we use NFTs as a medium to showcase art—we don't deny that. We love the technology and the medium, and we want to be at events that properly showcase what fx(hash) stands for. For contemporary art events especially, we want to be there because we think it's important to show that digital art is truly an art form. That's been debated for decades and hasn't been fully accepted, but we're seeing auction houses, museums, and galleries slowly start to integrate and accept digital art as legitimate. As fx(hash), the biggest repository of generative art, we feel it's on us to show the world that digital art is good art—no less than what's showcased in museums or at Art Basel.
+
+At Art Basel, we were maybe one of the only ones showcasing digital art, which was pretty crazy. In Paris, we were at the center of the fair where everyone had to walk through, and people would see the screens and say, "We haven't seen digital art before—what is this? How do we collect it?" Those small questions trigger a new paradigm in how people see digital art. You can already see how these big institutions experimenting with digital art are shaping what the future of the art space looks like.
+
+When it comes to NFT events, we'd love to be there too, but we want art to be the priority, or at least a focus. We have high standards for the events we attend. If the art isn't prioritized—if it's just put on walls somewhere and you walk through a hall to see it with nothing around it—then it's clearly not the place for us. We're very picky about which events we attend, and if the main event isn't art-centered, we try to at least do something offsite, since we know our collectors will be there and expect something from fx(hash). So yes, we're mainly at traditional art events, but especially this year, I think you'll see us at more NFT events too, as they start valuing digital art the way it deserves.
+
+Will: It's been nice listening to other NFT podcasts—gotta keep track of the competition—that used to focus on PFPs and the broader ETH space. A lot of them are taking a hard turn toward art now, as the real durable use case NFTs are proving out. I expect a lot of those previously non-art-focused events will bend that direction more and more. It feels good—like we've been in the right space for the last year and a half.
+
+Ozzie: Absolutely. I think you'll see at NFT events this year that they've learned from mistakes made last year, where art wasn't prioritized. Through feedback from platforms like fx(hash), Art Blocks, Verse, Bright Moments, and others, they've started to value art more, seeing that its chances of prevailing through time are much bigger than a profile picture project's. There are, of course, some PFP projects that will probably stand the test of time, but in the end—not just for digital art, but for all art—art has always been the thing that prevails through time, a stable entity within society. It's nice to see people realizing that will also be the case for digital art. And, maybe a little biased, but I think generative art specifically will definitely pass the test of time.
+
+Will: Hell yeah. That sounds like a great ending to the formal conversation. Very bullish. Trinity has prepared some special rapid-fire questions in addition to our usual ones, so I'll let her take it away.
+
+Trinity: First one—most important, because I think it has implications for everything we've discussed and every rapid-fire question to come: is time a line, or is it a circle?
+
+Ozzie: A circle.
+
+Trinity: Okay. We don't need to get into it. One pro tip, I heard this on TikTok, is that if time is a circle, which it is, anytime you're in a place that you've been in the past and that you have a special connection to, just say a little hello to your past and future selves, to invigorate that space with good vibes, positive energy, and the powers of manifestation.
+
+Ozzie: Hell yeah. You can still learn some things from TikTok.
+
+Trinity: Why did Will not get a hat at NFT NYC?
+
+Ozzie: He didn't? Oh, damn. I'll make sure that Will gets a hat. It's on tape right now, so.
+
+Will: I didn't put that in there.
+
+Trinity: I put that in there. I'm looking out for you, man.
+
+Ozzie: This is the main question, or maybe the first question that gets asked. I don't know if you've followed the Twitter thread between me and Clown Vamp, but that was a crazy story where I basically got kidnapped by Clown Vamp — shout out to him — in an Uber towards Art Matter, where Zancan had his *Organic Matter* show. And the first thing he said was, "Hey Ozzy, I'm Clown Vamp, by the way — where's my cap?" So I really had no choice anymore. But of course Clown Vamp is someone who definitely needed his cap. I'll make sure you get one too, Will.
+
+Will: It'll happen sometimes.
+
+Trinity: Clown Vamp has given enough money in platform fees to earn a hat at this point.
+
+Ozzie: Let's not make that one of the criteria to get a cap. It's definitely not, by the way.
+
+Trinity: It doesn't hurt.
+
+Ozzie: No, no, definitely not. Shout out.
+
+Will: If you were stuck on a desert island with one other team member, who would you pick? And as a bonus, name a community member and an fx(hash) project you'd want to be stuck with too.
+
+Ozzie: Ooh, it's like a practical joke. I'd definitely pick Liam, because he's so knowledgeable — he'd definitely know how to get us out of this desert. And I'd bring my Contra with me, probably. For community member, I'd go with Baya. He's super skilled — technically, practically, he can fix any car you want, so I'd definitely want him around.
+
+Trinity: The desert island has cars on it too?
+
+Ozzie: Maybe — I've seen enough movies with cars, right? For the fun of it, I'd have Baya with me because he's an amazing persona, a big supporter of fx(hash). He deserves all the praise we give him, maybe even more. We need more people like Baya in Discord — it's truly a blessing to have people who spread that much light in a community.
+
+Will: Really good answer there.
+
+Trinity: We'll do our best to channel that chaotic energy rather than be so serious. So, Liam is the person you'd most want on a desert island. Who on the team is the funniest?
+
+Ozzie: Ooh, do I have to pick someone else?
+
+Will: No, you can pick yourself.
+
+Ozzie: Then it's definitely me — I think I'm the least serious of the team. I put a lot of serious work into fx(hash), of course, but I always try to find funny moments in serious conversations. Maybe it's a Dutch thing, because Dutch people are pretty funny.
+
+Trinity: Are they?
+
+Ozzie: I'd say so. Funny-looking, maybe. It gets to the point where the team says, "Ozzy, we're in a serious conversation, can we not make jokes right now?" This might sound generic, but I think every person on the team is extremely funny in their own way, and every meeting has at least five minutes of straight-up laughing. You could cut the audio from any of our meetings and just hear "ha ha ha ha ha" for five minutes. As a team, we're super funny. And look at our backgrounds — we've got a medical doctor, someone from the gaming industry, movie industry, marketing, finance. Put those people together and you already get a funny combination that could fit right into a practical joke somewhere in a desert.
+
+Trinity: We're not in a desert anymore.
+
+Ozzie: Oh, I thought I was still in the desert.
+
+Trinity: No, no, no. We're off the desert. Liam got you out.
+
+Ozzie: Yeah.
+
+Trinity: Baya didn't make it.
+
+Ozzie: Oh God.
+
+Trinity: Sorry.
+
+Ozzie: Rest in peace.
+
+Will: Who's the craziest on the team?
+
+Ozzie: Who do you think it is?
+
+Trinity: What's the definition of crazy, right? Obviously, Ciphrd has some level of insanity in building fx(hash) with literally one hand.
+
+Ozzie: Ciphrd is insane. But I think Paul is really the craziest on the team. I'm crazy too, but he can out-crazy me, especially at events. The fx(hash) team is known for being the crazy people — you can always find us dancing around somewhere in a random gallery or at an event we didn't even organize ourselves, which I think is amazing. I've been to a lot of events with Paul since the beginning — I think we were at our very first event together, in Lisbon, Portugal. I've seen a lot of Paul, and I can say with confidence: he's one of the craziest guys on the team.
+
+Trinity: You heard it here, folks. Last team question: who would win in a fight?
+
+Ozzie: I think Cosimo, because he's the fittest guy you'll find around. I'll call him and he's off skiing somewhere, or on a mountain jumping off cliffs, doing the most extreme stuff you can imagine — during a completely random week, not even a vacation. He just opens his door and goes skiing, or hiking, or running something close to a marathon. So yeah, he's the fittest — he'll win a fight, definitely.
+
+Will: Okay, I'm going to jump to some of the more traditional questions with the time we have left, if that's okay, Trinity.
+
+Trinity: I'm reserving one for the very end.
+
+Will: I want to know what you're most excited about in the space, or on fx(hash) specifically, for 2023. What are you looking forward to this year?
+
+Ozzie: I really like events — that's where the community gets together IRL, where people can see each other's faces, and that always excites me the most. What excites me even more is organizing events, solo or with partners, where we actually get to use the tools we've built and see them work. One thing I'm most proud of is how fx(params) will turn out in IRL experiences. We got a small sneak peek in CDMX with Bright Moments, where there was a touchscreen you could use to play with the params and watch the artwork change in real time. But there are so many possibilities for fx(params) in IRL experiences with any type of input — sound, movement, words, anything. This year could be a really wild year of events, with so much interaction between collector and artist. That's the tool that excites me most.
+
+Will: Very cool. Do you want to ask us a question? We usually offer guests the chance — if not, we can cut this and move on.
+
+Ozzie: I'd love to know — how do you, as collectors, as members of the community, see fx(hash) as a team? I have my own opinion — I see us as crazy, funny, hardworking — but it's hard to hear from others what the community actually thinks of fx(hash) as a team. How do you look at us? How have you perceived us over the last year?
+
+Trinity: Loving what you do, every second of it — that's how I'd put it. But also: building and growing. I think we'd all love to see more transparency, though I know transparency comes at the cost of doing the work and figuring out how to prioritize — you don't want to commit to a specific roadmap while still needing the ability to pivot. Those would be my notes, but mostly, just keep enjoying yourselves — that comes through.
+
+Will: It's clear the team is super passionate, super engaged, super invested. I think that's why, like Jeremie was saying, we sometimes wish we knew more about what's going on behind the scenes. Even with the fx(fam) events, which are great — a big step in the right direction — and with folks like you coming on the show, it's a great opportunity to introduce you personally and hear your candid thoughts. Maybe operationally it seems smart to stay quiet, but it lets the community spiral. When someone asks a question and the answer is basically "heh, we're working on something, TBD," it doesn't inspire a lot of confidence. Everyone has a lot of faith in each individual team member, but we'd all just love to actually know the roadmap, get it updated, hear what's coming — and if something the community's expecting isn't coming, understand why, what went into that decision.
+
+Ozzie: Thank you, first of all, for the lovely words and the feedback. We're very much aware of the dynamics between the team and the community. fx(hash) was always a platform that grew out of its own community — we're all people from the community. A year, a year and a half ago, I was also just a collector, not doing full-time work for fx(hash) or anything like that. As a team, we have the same hopes and goals as the community, and I hear you that at times it feels like we're not transparent enough, not updating enough. We're very aware of that, and it's something we discuss every day — when and how we should update the community about the tools we're building, the issues we're seeing, why we're updating something or not.
+
+Being a small team, or a team still in the scaling phase, isn't a reason to not be transparent enough. fx(fam) is a big first step toward improving that transparency, with Ciphrd updating everyone on what's coming and what's maybe not coming anymore. It's a good way for us to carve out time with the community to talk together, which a few months ago was even harder to find, because you're so invested in events and working full-time on the tools that it's difficult to find a specific moment to sit down with the community and talk about what's good for the platform and what's not.
+
+Step by step, we'll get to a place where the community is content with how we communicate — with them and with partners. That will happen with time. We just need a bit more time, and a bit more understanding of how fast things are changing — not just in the generative art space, but for fx(hash) specifically. So much changes in such a short amount of time that it's always difficult to keep up, with the huge changes and even the small ones. But I'm very aware that the community is deeply connected to the fx(hash) team, wants the best for us, and wants us to succeed — just as we want the community to succeed in their experience within the gen art space. So we'll definitely keep working on that together.
+
+Trinity: Hell yeah.
+
+Will: All right, Trinity, do you want to ask your last question?
+
+Trinity: Who is the best host at Waiting to Be Signed?
+
+Ozzie: You cannot ask that. Who's the best host? That's not a fair question. I think this is the moment where I say you're both amazing hosts, amazing people. I'm super happy I got to see both of you in New York City — I actually didn't even know what you two looked like. I saw Will first, and I knew it was him because he was wearing the fx(hash) shirt and started speaking, and I was like, holy shit, this is Will from Waiting to Be Signed. And when I saw Trinity, it was the same thing: this is the voice. This is the voice of Waiting to Be Signed, the voice we heard at FXFAM, that we've heard on a panel at Proof of People with some amazing names. I was really excited to see you both, and I hope Waiting to Be Signed will be part of our future events too — Proof of People was a first step, and hopefully there will be many more, digital or physical.
+
+As a team, we're really proud of what you've done every single week for the last year. That deserves praise and support, not just from us but from the whole community. Tezos as a foundation should be aware that these are exactly the kinds of projects worth supporting. Long answer, but that's how it is.
+
+Trinity: This is a beautiful answer.
+
+Will: Arthur, return my DMs. We want you on the show.
+
+Ozzie: You heard this, Arthur.
+
+Will: That was really nice to hear, Ozzie, thank you. I was just looking — we missed our milestone. We crossed 100 episodes a couple weeks ago, between the interviews and the weeklies, which is crazy. This will probably be episode 105 by the time it comes out.
+
+Trinity: Does that include our listings episodes?
+
+Will: It does.
+
+Ozzie: Those are still episodes. Ooh, listings episode.
+
+Will: That was supposed to be a trick question, by the way — there are some non-Will-and-Trinity co-hosts you could have named, like Danielle or Ken.
+
+Trinity: They're actually the heroes.
+
+Ozzie: It would've been bad if I'd said, "Oh yeah, Danielle's the best co-host."
+
+Trinity: I mean, it's the right answer.
+
+Ozzie: She's amazing. I love her.
+
+Will: Only a two-time co-host, though. All right, Ozzie, I think that wraps it up. It was really generous of you to hang around and talk with us — I hope you had fun being on the show. We're excited to share more of you with our listeners and the community. Thanks for coming on.
+
+Ozzie: Hell yeah, thank you for having me. I hope we can do this again — maybe a Twitch stream or YouTube stream where we're actually sitting together physically, on those beanbags we had in New York City. Those were good.
+
+Will: If we have occasion to be together at an event, that would be amazing.
+
+Ozzie: We're going to do this. Write it down.
+
+Trinity: If we could go back in time to December 2021 — that was the ultimate moment for a Twitch stream on fx(hash), because something new was hitting the feed constantly.
+
+Will: Every hour some project was minting out that everyone was going crazy for.
+
+Trinity: You had to do the due diligence — is this a scam or not — within one block.
+
+Ozzie: You could make it a game: is this a scam or not, vote now. But yeah, I was really happy to be here. Took some time, but we made it. That's it.
+
+Will: That's it. Thanks again, Ozzie — that's the definitive Ozzie interview. We hope you all enjoyed it. Be back soon with another episode.
+
+Ozzie: Bye everyone.

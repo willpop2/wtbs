@@ -1,0 +1,241 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a very special interview episode. We got Trinity here this morning, and we are joined by Jacek Markusiewicz. Pretty close.
+
+Jacek Markusiewicz: Pretty close, I think.
+
+Will: We've had a string of tough names recently, but I feel like it makes us better people.
+
+Jacek Markusiewicz: It's Markusiewicz. Markusiewicz.
+
+Will: We're super excited to have Jacek on to talk about *Barbarians*, his upcoming Verse Solos release, but also to talk about all of your work, because we've been collecting and talking about you for two years, since your earliest fx(hash) stuff.
+
+Trinity: I was talking to Will on Thursday, and you're definitely in my top three, top five, somewhere in there. This is really exciting. Not to spoil it, but the only generative art piece I've printed is *Hollow*. The next thing I'm thinking about getting printed would be *Unbuilt* and/or *Barbarians*, depending. I feel like we have a lot of alignment in terms of taste and interest, so I am so excited to have you on.
+
+Jacek Markusiewicz: It's an honor. An absolute honor.
+
+Will: So we're going to get into all of that. But first, Jacek, the question we always ask our guests so our audience can get to know them: tell us a bit about your background in art and coding.
+
+Jacek Markusiewicz: I'm an architect. I studied architecture in Warsaw — I started about 20 years ago, graduated from the Warsaw University of Technology, and then did a master's in Barcelona, which helped me merge my architectural background with coding. That's where I was introduced to generative design, sometimes called parametric architecture — though that term carries strong aesthetic connotations, so I prefer "generative design": using programming and scripting to make design decisions in architectural processes, whether formal, functional, or optimization-related.
+
+That's when I started calling myself a creative coder. I worked at an architectural studio in Barcelona applying code to design — generating facades, testing architectural massing, doing wider urban-scale analysis. I also spent five years teaching programming to architecture students back at my old university in Warsaw, alongside running design studios. At the same time, I pursued a non-academic career, collaborating with architectural offices and furniture designers as a creative coder.
+
+I also started working in the art world, initially as an external consultant and programmer for interactive installations and exhibitions for Polish artists. Slowly I began designing interactive installations myself. When I moved to San Sebastián about five years ago, I worked on public interactive installations here. That's how I gradually shifted from architecture, through creative coding, into more of an artistic practice.
+
+Trinity: So what about generative art specifically? How did you get into code-based art? It sounds like it was mostly practical application in your previous lives.
+
+Jacek Markusiewicz: For most of that time, I didn't know generative art existed in the Web3/NFT sense — until about three years ago, when a friend and former teacher of mine, Luis Fraguada, who's also a fellow artist in the space, asked me what I thought about art on the blockchain and NFTs. I had no idea what he was talking about. He explained this world to me and introduced me to Hic Et Nunc — today called Teia — and to Tezos. He gave me half a tez so I could mint some of my work. I did, got involved with the community, and fell in love with it straight away. That's how it started.
+
+Trinity: So all of this started from you borrowing the equivalent of like two dollars from somebody.
+
+Jacek Markusiewicz: A bit more than that — tez was around six dollars then. But I didn't borrow it, I paid him back with my art. I transferred my first mints to Luis.
+
+Will: I imagine your earliest work on HEN was curated editions, since Hic Et Nunc didn't have long-form generative art set up on that contract. When fx(hash) came out, were you already aware of long-form generative art from somewhere like Art Blocks?
+
+Jacek Markusiewicz: It started with the emergence of fx(hash).
+
+Will: I'm curious — thinking about the themes in a lot of your work, did you avoid Ethereum for a while for environmental reasons? A lot of your work has environmental or conservation themes, and I know some artists stayed strictly on Tezos until Ethereum went proof-of-stake and its carbon footprint dropped.
+
+Jacek Markusiewicz: I was aware of the ecological implications of minting on Ethereum, but that's not why I stayed on Tezos. It was comfort — I started there, found a positive community, and it was hard to leave. I liked it. I had no negative associations with any part of the NFT world because I had no prior associations at all; I was brand new to the space. My first Ethereum mint was with Bright Moments a year ago. Before that, I only minted on Tezos.
+
+Trinity: How has it been jumping over? Do you think you'll come back to Tezos more in the future?
+
+Jacek Markusiewicz: I'm chain agnostic. I don't care that much about the technology or the blockchain — it'll sound cliché, but I care about the art I create and publish. Hopefully one day it won't matter much which blockchain a piece is minted on.
+
+Trinity: What we've been seeing recently is the consolidation of the Tezos generative art scene and the Ethereum generative art scene into just one broader generative art scene, even external to the NFT side. You see that with communities coalescing around Verse and TENDER, which is cool to see. But your first forays into NFTs were on HEN — I'm looking at them right now, it's a very fun series.
+
+Jacek Markusiewicz: It's based on Conway's Game of Life — the multiplication or death in cellular automata.
+
+Will: Popular theme.
+
+Trinity: It is a popular theme. But you didn't release that as long-form on fx(hash).
+
+Jacek Markusiewicz: It was generated as if it were long-form — I generated a bunch of outputs and then curated them. I think I always did eight editions of each.
+
+Trinity: So how did you discover fx(hash) and get into official long-form work? *Ephemeral* is your first really significant drop there, and it's so unlike anything you'd done before.
+
+Jacek Markusiewicz: I know. There was a certain coincidence — fx(hash) appeared right around the discontinuation of Hic Et Nunc. There was a crisis, Hic Et Nunc closed, and it took time for the Teia community to emerge. I felt orphaned, and I went through a bit of grieving that I alleviated by trying out this new long-form platform. It felt natural, because the way I'd worked before in architecture was very similar to long-form generative art — creating a program that generates multiple results, then browsing through them and choosing the best parameters. The idea of that program running online and being validated against blockchain technology felt like a very natural space for this type of generative art. I definitely wanted to try it, and my first attempt was *Ephemeral*.
+
+Will: Given your background making generative things for the real world — algorithms that produce or help produce physical objects — and given that for the last two years you've been making a lot of generative art, have you thought about the future of generative design? Recently Tonic released a generative chair with the artist Luke Shannon, and we've seen generative clothing — there's actually a generative scarf in the fx(hash) queue right now. How do you think about generativeness applying to the real world moving forward? Do you think it'll become a bigger part of day-to-day life, and the things people own?
+
+Jacek Markusiewicz: Predicting is hard, especially about the future. I grew up alongside the evolution of the internet and the popularization of personal computers. To me, digital presence was always something that might be part of my real presence, but it never fully overlapped with my personality. I have a feeling that today, online presence is gaining a lot of importance — the way I treat mine, I always publish things I honestly want people to see me through. But for generations younger than me, this online presence has become so important that it's become real — as real as physical presence.
+
+In that context, what we define as digital property, owning something digital, gains more and more importance. That's where I see the potential of generative art — owning a piece of it is a very interesting way to express something about oneself. There's a postmodern philosopher, Jean Baudrillard—
+
+Will: Simulacra and simulacrum, right?
+
+Jacek Markusiewicz: Exactly. He said something about consumerism — that the way we consume things is about more than consumption itself. We consume things to project a certain idea of ourselves into the external world; by consuming, we build an image of ourselves. I think in the context of online presence and social media, owning or consuming digital content like art is a very logical way of expressing ourselves. That's where I see the biggest potential. As for bridging it to the physical world — I still like printing my digitally owned works and having them in physical space, but I wonder which direction this tendency will shift.
+
+Trinity: There's something interesting in what you said earlier — with generative design, you're optimizing for function, finding the best solution. Whereas in generative art, you're exploring the full range of possibility — what's unique, what's charismatic, what someone can project onto. Building on Will's question: how do you see those intangibles — the whimsy, the art side — feeding back into design?
+
+Jacek Markusiewicz: So you're asking whether my artistic practice will contribute to my architectural work?
+
+Trinity: Or, if we're moving toward a place where we're not only projecting parts of ourselves into digital space, but also thinking beyond cost — because cost always pushes us toward consolidation and consistency — do you think there's space for more of that whimsical, artistic side to be projected into physical spaces or objects?
+
+Jacek Markusiewicz: Yes. Part of my background was collaborating with a Dutch furniture designer, Joris Laarman. What I was optimizing for there was definitely not cost or efficiency — his fascination was with the complexity of form, an almost Baroque abundance of forms. It was beyond practical, definitely in the artistic rather than utilitarian sense you're describing.
+
+Trinity: You put that way better than I could. It's almost like you've thought about this extensively in your life.
+
+Jacek Markusiewicz: I'm not sure I've really thought about whether there's a reciprocal benefit between my former design practice and my artistic practice. For the last few years, I haven't been professionally involved in anything other than my art. So I'm not thinking about getting as much as I can from the artistic world and then applying it back to where I come from. I think and hope that this is going to be my practice, full stop, and what I do.
+
+Trinity: Maybe this is a great segue into your other early works on fx(hash), specifically *Unbuilt* and *Reborn*. They leverage a lot of that parametric space you used in architecture, but bring it into an art form. I'd love to hear what inspired those pieces and what made you feel confident putting them out as long-form work on the blockchain. I love those so much, by the way. I think they're fantastic.
+
+Jacek Markusiewicz: Thank you. I had a lot of fun working on those. It wasn't really a conscious decision for these to be my first strongly architecturally-inspired long-form projects, but I think the fact that they are is very consistent with my background in architecture, and with my approach to making sense of things around me. In this case, that meant architectural objects of different scales — Gothic churches and ideal Renaissance cities.
+
+The way I always try to understand anything is by building mental models of how elements work together within a system. Consistent with my artistic sensitivity, which has always been representational and figurative, I wanted to bring back archetypal architectural elements and break them down into algorithmic logic. I was always fascinated by the algorithmic approach to understanding historical architecture in works like Bill Mitchell's book *The Logic of Architecture*. So I started with Gothic architecture, took what I knew about it, translated it into algorithmic form, and gave it an aesthetic manifestation. That's how *Unbuilt* started, and *Reborn* was, to me, a logical continuation of that exploration.
+
+Trinity: Looking at *Unbuilt*, I can see the aesthetics you're describing — what fills the spaces between the columns, the diamonds and other shapes filling in that blank space. It's quite nice. I think a top-down reference point doesn't necessarily capture the internal beauty of a cathedral — the different types of vaulted ceilings. Is it a barrel vault? A double barrel vault?
+
+Jacek Markusiewicz: We'd have to expand those into 3D to really see what those lines are — whether they overlap with the intersection between the pointed barrels, which would make them ribs, or whether they connect the ribs between them, which would make them diernes, I think it's called in English. But I'll be honest — they might be geometrically consistent, but historically, the types of vaults in this piece are quite frivolous.
+
+Trinity: And with *Reborn* — what's the level of artistic interpretation for these Italian, or European, cities? Even though it's thematically similar and roughly contemporaneous, you're taking the perspective of a whole city rather than one important building within it.
+
+Jacek Markusiewicz: I had the need to move from architectural scale to urban scale, and I paired it with moving from the Middle Ages to the Renaissance. My biggest fascination with ideal Renaissance cities is how spectacularly they failed historically. They were based on ideal mathematical relations and a concept of the ideal citizen and how they would inhabit those ideal cities — and virtually none of them exist today in the real world. Palmanova, in northern Italy, was not a successful implementation. Some elements remain, like Zamość in eastern Poland, but that worked mainly because it was never implemented in a strict way.
+
+I think the moral superiority of Renaissance thinkers, who looked down on the Middle Ages and called them the Dark Ages, proved not as ideal as they expected. That was a fascinating element for me.
+
+Will: I'd like to jump to *Hollow*, because there's a natural extension here. You started with *fmorld*, this small exploration of almost a rock or a gem. Then we get cathedral into city, and you've even done space-themed work — planets. The scope of your work kept growing, and a great intermediary point was *Hollow*, a project that made our top 10 list — not that that matters, but we both loved it the year it came out, and Trinity has a print of it.
+
+The story of this has been well told in your writing and in your recent appearance on Kaloh's show — shout-out to Kaloh, our brother in podcasting and art content. But could you give us the background again, briefly: how did you get interested in mountains, and in making this kind of tribute project? And I'm also personally interested in how it felt to watch this one take off. You'd always been an artist people liked and talked about on fx(hash), but this was the project that broke through. The primary went crazy, the secondary went crazy, people were going nuts — they wanted the "only lights," they wanted the birds. What was that moment like, watching the success of that project over the following week or so?
+
+Jacek Markusiewicz: You're asking where my fascination with natural formations, with mountains, comes from. If there's anything I'm especially interested in that traces back to my architectural background, it's how we as human beings inhabit our space and territory, and how we treat it. More than architectural scale, I was always driven by the social aspects of urban design and territorial planning — how we relate to our environment, both natural and built.
+
+The story behind my fascination is the project of Eduardo Chillida, a Basque sculptor famous for his geometrical explorations and work with materiality. He had a vision — and not just a vision, a serious proposal actually considered by the authorities of the Canary Islands — to excavate an enormous void inside the mountain of Tindaya in Fuerteventura, a sacred mountain of the island's indigenous peoples. It's a natural formation that's been there for something like 20 million years, and this famous sculptor comes along and says he's going to use that formation as matter for his artistic vision.
+
+It was seriously considered by the authorities but widely criticized from very different angles. Ecologically, because of the impact of such an intervention on natural terrain. Socially and economically, because it was clear the site would need to become a massive touristic attraction just to sustain itself — which would undermine the artistic vision itself. How could you reflect on the tininess of humankind inside such a space if it's packed with tourists taking selfies and buying souvenirs? And artistically: what justifies imposing your vision on something many consider a natural formation comparable to a work of art in its own right?
+
+I found the story, and the fact that it never came into existence, absolutely fascinating. I agree with the critique, but the beauty of the vision is undeniable. So I thought about giving it another life — not by excavating a real, culturally sacred mountain, but by sculpting a digital matter that would be randomly generated, bearing no reminiscence of the real world. How would that idea, that logic of Chillida's, be seen and received in today's world using contemporary technology?
+
+Trinity: You convey that very well, and you also convey the critique through the use of tourists as one of the predominant features in the space. In my *Hollow*, when it first renders, one of the tourists is holding up a camera, taking a selfie — which feels very apropos given what you just said.
+
+Jacek Markusiewicz: That was the idea behind the visitors. But there's another side to that critique. I understand and agree with the criticism of that vision, but I also feel it's much easier to criticize an idea like that when it's purely artistic. Yet it's something we do all the time — at least in the Basque Country, where I live. Removing half a mountain to build a highway may be criticized, but not nearly as widely or as ferociously as an aesthetic, artistic vision. That says a lot about how we relate to the environment we live in.
+
+Trinity: Is there meaning behind the birds, and behind the "only light" version?
+
+Jacek Markusiewicz: The birds were an addition I felt would give the piece a stronger sense of scale. I didn't want them in every output — not to force a certain uniqueness onto any piece, but because I felt that making this feature special would emphasize the vastness and void of the composition even more. The completely empty spaces, meanwhile, are what I imagine would be closest to how Chillida would have envisioned his own work.
+
+Will: What about your own personal reaction? What did it mean for you?
+
+Jacek Markusiewicz: I have to admit I wasn't aware of what was happening. This might sound naive, but I didn't grasp how it was going to play out. In fact, when I published *Hollow*, I hadn't even reserved a piece for myself, nor minted the first edition for myself before opening the algorithm for public sale. I actually bought one edition from secondary the next day — something like 60 or 70 tez at the time. I had no idea the next day was going to be so overwhelming. It really was overwhelming for me — I wasn't expecting it at all.
+
+Trinity: No offense, but I think *Hollow* might have a place in history as one of the most mispriced projects of all time. Looking back at the stats, 32 tez was the top tier of the Dutch auction. It minted out in two or three blocks, and nobody successfully minted for less than about 6 tez worth of gas — some people paid up into the 40s.
+
+Jacek Markusiewicz: That's probably on me, honestly — maybe justified by my lack of experience, and by how I approach pricing. I was never very familiar or comfortable with the speculation of supply and demand. I just counted the hours I spent working on the piece and multiplied that by what I think an hour of my work is worth. That's how I set the price — I wanted it to finance the work I'd put into developing *Hollow*. The speculative element completely overwhelmed me. It wasn't part of my calculation at all.
+
+Trinity: You're being very pragmatic about it. I appreciate the practicality behind the mathematics.
+
+Will: Who among us is good at calculating their own hourly rate of worth? Not an easy practice.
+
+Jacek Markusiewicz: Of course.
+
+Will: Thematically, some of the themes you were speaking to with *Hollow* really carry over into your upcoming drop, *Barbarians*, which will be for sale on March 6th but has already been exhibited in London. You were just there last week, and there are some amazing images of the prints — it looks fantastic, and even more so at scale. Can you talk about the tie-in with *Hollow*? We also see thematic similarities to *Cantera*, your project with Bright Moments — the interplay of humans and ecology, the spaces we inhabit, the aforementioned paving over a mountain to create a road. What's the backstory on this piece, what were you going for, and how did it end up on Verse?
+
+Jacek Markusiewicz: The project started as a mental image, like most of my projects do. Within that image was this vision of archetypical architectural elements — my architectural background is always there, influencing my thinking. Massive columns, walls, arches, vaults. But in this vision, they wouldn't bear the weight of a building. They wouldn't be made of concrete or brick — they'd be made of stone and soil and dirt, shouldering the weight of a natural landscape.
+
+As I developed the image, I imagined inhabitants resting on these columns and arches, partly just to give the scene a sense of scale. But then I started thinking about how those inhabitants would actually live — with their roads and fields and houses. And I had a thought that I think was the real moment the project started: I imagined them dwelling on the ruins of a bygone, advanced civilization, almost like parasites — like barbarians. And when I thought that, it scared me. What had these imaginary inhabitants in my head done to deserve such a derogatory term, such treatment from me? Because as far as I could tell, what they seemed to be doing was trying to make a living in a fairly respectful relation to their environment — both the natural environment and the one created by these megastructures. Aren't they really the barbarians, or is it whoever introduced this massive intervention into the terrain who's more barbaric?
+
+It went further, because I realized that in both versions of the story, I'd fallen into the same dichotomy — taking one side and casting the other as "barbarians," whether I was looking from the perspective of the humble settlers or of the fallen great civilization. I never considered the position I occupied to be the barbaric one — it was always the other side. That struck me as a good illustration of the preset ways we divide the world into us and them, right and wrong, matter and form, human and natural. These false dichotomies are what I hope the piece explores. Looking at the pieces we've published with Verse and the ones we printed, nothing explicitly says we're looking at two opposing forces — good and evil, settlers versus an invaded advanced civilization. It could just as easily be the same civilization, with one technology as the natural evolution of the same people's lifestyle.
+
+That's where I landed on *Barbarians* as the title — it's a little ambiguous. It can suggest barbaric tribes dwelling on the ruins of Rome, but it can also suggest the strength and ferocity with which someone intervened in a natural landscape. It's a bit of a trap: I want people to reflect on how we split the world into false dichotomies, but the title itself nudges them toward dichotomous thinking anyway. That's what the piece is about.
+
+Honestly, it was probably the most difficult work I've made to date.
+
+Trinity: In what sense?
+
+Jacek Markusiewicz: Work on it started about a year ago, around two important events in my life: I defended my PhD, and I published *Cantera*, my first solo exhibition with Bright Moments, in Berlin. That caused a certain amount of pressure — well, it didn't cause it so much as I put it on myself — and I felt genuinely tired afterward. I made the mistake of thinking that because these two things I love doing, learning and creating, had coincided with anxiety and pressure, the logical move was to take time off.
+
+I tried, and it turned out I'm not very good at that. I didn't handle those few months well, mainly because I hadn't accounted for the fact that creating art is often what alleviates my anxiety in the first place. So I spent months forcing myself not to do the thing I love, which only built more pressure, until I decided I needed to start creating again. By then my head had become a bottleneck of ideas I wanted to try, which was overwhelming in its own way. I spent the following months making trials and discarding more work than I'd ever discarded before, while slowly building an image of what I wanted to do — pouring those difficult experiences into formal explorations that became complex and eclectic. I think you can see the amount of work that went into it. But it was a hard road getting there.
+
+Once I made peace with those months and started accepting the results, I knew this line of exploration would lead to something I'd want to show people. So I contacted Verse. They'd actually reached out to me a few times before, but there was always something in the way — a project in progress, a PhD to deliver, a PhD to defend. This time, once *Barbarians* was close to ready, I felt comfortable reaching out to see if they'd still be interested in publishing my work. They loved it. After a few weeks of talks, Lonli wrote to ask if I'd be comfortable with it being a solo show, since they felt the work deserved that special treatment. That was amazing news — of course I said yes. I got back from London two days ago, and it was a fantastic experience. The effort the team put into the exhibition was really something. It was at Cromwell Place in central London, right next to the Natural History Museum and all the major South Kensington institutions — and there I was in my flannel shirt, presenting my work. It was emotional.
+
+Trinity: Well deserved. Neither of us made it to London, or we'd have done this interview there in person, but from the videos and photos, *Barbarians* clearly presents beautifully as large prints — especially in that clean space, showing off all the little details, the agricultural elements, the lines and shadows running through the trees and bushes. It feels so alive; I'd never guess it was made by code. I imagine it translated just as well at that huge scale.
+
+Jacek Markusiewicz: I was actually a little afraid of how the piece would behave at that scale. All the outputs we're publishing with Verse are actual outputs of the algorithm — we haven't open-sourced it yet. It's long-form, fully made of code, not a token that renders instantly. There's so much detail and geometry that I had to think carefully about optimization. I figured it would work well at maybe 4K, or 3,000 by 3,000 pixels, but the biggest print needed to be generated at 20,000 by 10,000 pixels. I was nervous about how that would hold up.
+
+But seeing it live, I thought it was a great choice, because it felt like zooming in on the piece. There's a layer to how you perceive the output — at first sight you see the landscape and the geometric intervention, and then as you zoom in, you see the little houses, churches, fields. Seeing it in the gallery felt exactly like that: from a distance, a strong composition; up close, like zooming in on my computer, translated into a real-world gallery experience. It felt like the right decision.
+
+Will: You mentioned it's long-form — is it long-form random output, or long-form but curated? There's a distinction now, and Verse does both artist-curated and collector-curated drops.
+
+Jacek Markusiewicz: This piece is going to be collector curated. We want to give collectors the ability to interact with the piece and see multiple outputs, and I'm curious what people will gravitate toward. I wanted it collector curated because I wanted to open up the possibilities of the algorithm as much as possible. If you constrain randomness to guarantee consistency between pieces, you inevitably cut off the more peculiar, characteristic outputs I wanted to preserve. I wanted the range to go from something that reads almost like a photograph of the landscape with its intervention and settlers, all the way to very geometric compositions where elements align with the framing of the image. To leave that range open, I wanted the parameters as unconstrained as possible.
+
+It'll be really interesting feedback for me to see what people look for — whether they gravitate toward strong compositions, or zoom in on what's happening in the landscape between the vaults and columns, searching for the little church that sometimes appears next to a road, surrounded by little houses.
+
+Will: I look forward to playing with the generator and saving some seeds — that's always a fun part of this.
+
+Trinity: I'm already stressed thinking about it. There's always this tension as a collector — I love collector-curated releases, being able to spin through seeds and find the one you want, but that also means more pressure to find the perfect one, you know?
+
+Jacek Markusiewicz: One thing I really wanted to ensure was to limit the abundance of outputs a collector is faced with. I know how stressful it is — when I'm working on a piece, I'm testing like crazy, generating thousands of outputs almost every day, going through them to check that everything's working correctly in the algorithm. I know how overwhelming it is to choose one output out of hundreds. So the idea is to limit the number of outputs a user can browse per day to 25. I want people to be able to dedicate a little bit of time to each output they're reviewing. If there are only 25, you can look thoroughly through all of them, save the ones you really love, and form an opinion after a few days of interacting with the piece about which compositions connect with you and which you wouldn't want as your final minted piece.
+
+So the idea is to limit both the number of days people can interact with the piece to save seeds, and the maximum number of seeds to browse through per day. There's a certain strength to that scarcity — paradoxically, it might give people more opportunity to relate to the piece, rather than just scrolling through hundreds of outputs.
+
+Will: I think that's very thoughtful, actually.
+
+Jacek Markusiewicz: I hope it alleviates your stress, Trinity.
+
+Trinity: Oh, definitely. But you should have been upfront about that — that's a really important nuance to the minting.
+
+Jacek Markusiewicz: We'll announce that soon, for sure.
+
+Will: Let me ask one market-related question before we start wrapping up. As a full-time artist, I imagine you have to track who all the players are — the platforms, which blockchains collectors are gravitating toward. I'm sure you've noticed the push into Solana, and more recently into Bitcoin with Ordinals. Sometimes there's a multiplier in what you can charge just by being on a different chain — with Bitcoin in particular, it's kind of crazy what a standard mint goes for these days. Do you have an opinion on all that? Now that this is your primary source of income, do you have to take it into account? Have you considered other chains, or are you more focused on partners like Verse and what they have to say?
+
+Jacek Markusiewicz: I'm aware of all those shifts in the space. The first thing I think of is how surprisingly deep and strong the frontiers are between certain communities — projects published on other blockchains often don't reach me through my social media circles at all. I always say I'm chain agnostic, I guess, but I'm surprised how important it is to so many people where a piece is minted.
+
+I know it's a cliché, but I'm focused on art. Creating it already comes with so much weight and responsibility — you have to confront yourself with your work, then get it out there and show part of yourself to people, which is incredibly stressful. Out of everything an artist can and should be, the part I struggle with most is exactly those market-related decisions. That's why I really appreciate working with Verse — it feels like someone is taking care of certain aspects of what I'm doing. Creative work makes you really alone and vulnerable, and you always wish somebody would step in and take care of something. That's one of the big reasons I appreciate that partnership.
+
+Have I thought about minting on other blockchains? Not yet. All of this happened while I was working on this project, and when I'm working on something, there's no space in my brain for almost anything else — no space to think about other potential projects or plans for the future. I dedicate myself completely to what I'm doing until I'm too tired, or until I reach a moment so different from when I started that it's time to wrap it up — either throw it in the trash or get it out there. Hopefully the latter. Right now I'm in this pre-release moment, so I haven't thought about other ventures yet.
+
+Trinity: Everything you're describing with *Barbarians* feels like the culmination of such a long period of time, coming out of such a difficult stretch. We're really looking forward to seeing what happens next month. For listeners, we're recording this in the middle of February, so things might change — but whatever chain you release on in the future, and whoever you partner with, we'll be looking forward to it.
+
+Will: We'll be watching.
+
+Jacek Markusiewicz: Yes.
+
+Trinity: We've been recording for a while now, so let's do some rapid-fire questions. First one — and I think I know the answer — do you have any alt accounts?
+
+Jacek Markusiewicz: Nope. I have a secondary wallet somewhere on Tezos, but it's not related to my creative work.
+
+Will: What do you like to listen to while you code? Any recommendations for us, music-wise?
+
+Jacek Markusiewicz: While coding, absolutely nothing. As I said, when I'm working on a project, there's so little space in my head for anything else, and when I'm actually coding, my focus has to be at 100%. I can't do it any other way.
+
+But generally, music I like — once Lonli, Ivan from Verse, and I were talking about it, and he guessed what music I like. He said, "You must like Pink Floyd." And yeah, that's my favorite group of all time. Maybe he saw some relation between that and what I do as an artist. I like progressive rock from the '70s — Pink Floyd, Yes, King Crimson. What I appreciate in music is, on one hand, being able to value a composition in its totality, its musical lines, but also a certain virtuosity, attention to detail, and complexity of composition. That's the type of music I usually listen to.
+
+Trinity: There's also the emotional intensity, the performance side of it — it's not just playing notes or being talented, it's the emotive response: what are you putting into it, how are you feeling that day, how does that get expressed.
+
+Jacek Markusiewicz: And the work behind the music.
+
+Trinity: Exactly. Moving on — similar question, but with art. What artists do you like to collect? Who are some of your favorites?
+
+Jacek Markusiewicz: Metaphorically, I grew up on Tezos, so there are quite a few artists especially important to me — I always say it, it's never a mystery. Andreas Rau — I think he's my favorite generative artist. One of the first pieces I ever minted was *Loom*; I have it printed and signed by him, hanging on my wall.
+
+Should they only be generative artists?
+
+Will: It's your interview, your answers.
+
+Jacek Markusiewicz: Okay. I already talked about this in my interview with ItsGalo, but since I'm so interested in land art, I have to mention at least one land artist: Maya Lin. She's an architect who moved toward art, very inspired by intervening in territory in an artistic way, and by reproducing landscape elements within a controlled gallery environment.
+
+There's an artist from Ghana I absolutely adore — El Anatsui. He uses bottle caps from alcohol bottles to build structures reminiscent of ocean waves, but also monumental, textile-like forms, almost like sails. There's a story behind the materials: historically, alcohol was used as currency in exchanges between slave traders, and his critique of postcolonialism is reflected in that choice of material.
+
+Trinity: I saw his work at the Brooklyn Museum a couple of years ago. I didn't remember the artist's name, but the second you mentioned it, it all came back — so memorable.
+
+Jacek Markusiewicz: The first time I saw his work live was at the Guggenheim Bilbao, near where I live. A few days ago I went to Tate Modern to see his new installation in the Turbine Hall — three enormous pieces, very impressive.
+
+Coming back to generative art — or maybe not generative per se, but web3-related art — there's a poet, Ana María Caballero, I wanted to mention. We also have a secret society on Twitter for architects who code. I think it'd be fun to do an interview with the group together.
+
+Will: There are a lot of them.
+
+Jacek Markusiewicz: Way too many architects in generative art. Sticking together, there's people like Erik Swahn, who I'm a big fan of; Olga Fradina, who had a curated drop on Art Blocks a few months ago — I've lost track of time; Luis Fraguada; many others. I don't want to turn this into a super long list.
+
+Will: That doubles as an answer to the other question we ask — who do you want us to interview? We could pick any of those names and you'd probably love to hear that episode. Plenty for us to work with.
+
+Jacek Markusiewicz: That would be interesting — an architects' interview.
+
+Will: We're actually talking to some of them already — Erik, we're lining up an interview with you this year. We've been talking to Alejandro Campos on and off for a while too.
+
+Trinity: It's becoming a bit of a meme that the best generative artists are Dutch and/or architects.
+
+Will: I feel like this is a good place to stop. It's been awesome, Jacek, chatting with you and learning more about you and about *Barbarians*. Hope you had a good time on the show.
+
+Jacek Markusiewicz: I did. A lot.
+
+Will: Awesome. Let's wrap it up, then — everyone go check out *Barbarians* on Verse. It'll be for sale in March; the generator should be up sometime before then for everyone to start collecting their seeds. That's it for this one — thanks for listening, hope you enjoyed it. We'll be back soon with another episode. Big thanks to Jacek. Bye-bye.
+
+Jacek Markusiewicz: Bye. Always — we're waiting to be signed.

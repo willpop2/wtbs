@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-stack" aria-hidden="true">
+      <span class="hline"><span class="waiting">Waiting</span> <span class="tobe">to be</span></span>
+      <span class="hline"><span class="waiting">Waiting</span> <span class="col2">to be</span></span>
+      <span class="hline"><span class="waiting">Waiting</span> <span class="signed">signed</span></span>
+      <span class="hline"><span class="waiting">Waiting</span> <span class="col2">to be</span></span>
+      <span class="hline"><span class="waiting">Waiting</span></span>
+    </div>
+    <div class="hero-copy">
+      <div class="eyebrow">A podcast about generative art on-chain · 2022–2026</div>
+      <h1>Every guest was waiting to be signed. Here’s the whole list.</h1>
+      <p>Four years of Will &amp; Trinity in conversation with the artists, collectors,
+         and builders behind fx(hash), Art Blocks, and Verse.</p>
+      <div class="hero-btns">
+        <button class="btn btn-pink" onclick="document.getElementById('surprise').click()">Read a random interview</button>
+        <a class="btn btn-ghost" href="#ledger">Open the ledger →</a>
+      </div>
+      <div class="hero-sig">Trinity &amp; Will</div>
+    </div>
+  </div>
+</section>
+
+<div class="ticker"><div class="ticker-track">
+  {% for name in ticker %}<span>{{ name }}</span><span class="pen"> ✎ </span>{% endfor %}
+  {% for name in ticker %}<span>{{ name }}</span><span class="pen"> ✎ </span>{% endfor %}
+</div></div>
+
+<section class="stats">
+  <div class="stat"><div class="num">{{ stats.episodes }}</div><div class="lbl">Episodes</div></div>
+  <div class="stat pink"><div class="num">{{ stats.interviews }}</div><div class="lbl">Interviews</div></div>
+  <div class="stat"><div class="num">{{ stats.years }}</div><div class="lbl">Seasons</div></div>
+  <div class="stat"><div class="num">{{ stats.founders }}</div><div class="lbl">Founders &amp; builders</div></div>
+</section>
+
+{% if quotes %}
+<section class="quote-sec"><div class="wrap">
+  <div class="quote-eyebrow">// A line from the archive</div>
+  <blockquote id="q-text" style="transition:opacity .3s">“{{ quotes[0].text }}”</blockquote>
+  <div class="quote-attr" id="q-attr"><b>{{ quotes[0].name }}</b> · {{ quotes[0].title }}{% if quotes[0].platform %} · {{ quotes[0].platform }}{% endif %}</div>
+</div></section>
+{% endif %}
+
+<section class="ledger-sec" id="ledger"><div class="wrap">
+  <h2>The Ledger</h2>
+  <p class="ledger-lead">{{ episodes|length }} interviews · every guest, signed · rows sign in as you scroll · hover to reveal the signature.</p>
+  <input class="ledger-search" id="search" placeholder="search guests, roles, platforms…" autocomplete="off">
+  <div class="ledger" id="rows">
+    {% for ep in episodes %}
+    <a class="row" href="{{ ep.slug }}.html" data-search="{{ ep.search|e }}">
+      <span class="rnum">#{{ ep.num }}</span>
+      <span><span class="rname">{{ ep.guest }}</span><span class="rsig">{{ ep.guest }}</span></span>
+      <span class="rrole">{{ ep.role }}</span>
+      <span class="rplat">{{ ep.platform }}</span>
+      <span class="rdur">{{ ep.duration }}</span>
+      <span class="badge-signed">✓ Signed</span>
+    </a>
+    {% endfor %}
+  </div>
+  <p class="ledger-empty" id="empty" hidden>No matches.</p>
+</div></section>
+
+<section class="about-sec" id="about"><div class="wrap">
+  <h2>About the show</h2>
+  <p><em>Waiting To Be Signed</em> is a podcast hosted by Will and Trinity about generative
+     and on-chain art. Alongside weekly news episodes, they sit down with the artists,
+     collectors, and platform builders shaping the space. This archive collects the
+     interviews with full, readable transcripts — spot an error on any page and you can
+     suggest a fix.</p>
+</div></section>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // rows "sign in" as they scroll into view
+  var io = new IntersectionObserver(function (es) {
+    es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+  }, { threshold: 0.08 });
+  document.querySelectorAll('.row').forEach(function (r) { io.observe(r); });
+
+  // search
+  var search = document.getElementById('search');
+  var rows = Array.from(document.querySelectorAll('.row'));
+  var empty = document.getElementById('empty');
+  search.addEventListener('input', function () {
+    var q = search.value.trim().toLowerCase(), n = 0;
+    rows.forEach(function (r) {
+      var ok = !q || r.dataset.search.indexOf(q) > -1;
+      r.style.display = ok ? '' : 'none'; if (ok) n++;
+    });
+    empty.hidden = n > 0;
+  });
+
+  // cycle the archive quote
+  var quotes = {{ quotes|tojson }};
+  if (quotes.length > 1) {
+    var qi = 0, qt = document.getElementById('q-text'), qa = document.getElementById('q-attr');
+    setInterval(function () {
+      qi = (qi + 1) % quotes.length; var q = quotes[qi];
+      qt.style.opacity = 0;
+      setTimeout(function () {
+        qt.textContent = '“' + q.text + '”';
+        qa.innerHTML = '<b>' + q.name + '</b> · ' + q.title + (q.platform ? ' · ' + q.platform : '');
+        qt.style.opacity = 1;
+      }, 300);
+    }, 6000);
+  }
+</script>
+{% endblock %}

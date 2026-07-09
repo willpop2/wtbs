@@ -1,0 +1,245 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Bre Pettis, a collector we met through TENDER — the art collective, curatorial platform, gallery, and collaborative art releasing platform. It's a lot of different things. Trinity is here as well. How's it going, everyone?
+
+Bre Pettis: Good morning.
+
+Trinity: Good morning, everybody. Bre, thank you so much for joining. We're excited to talk to you.
+
+Bre Pettis: Thank you. I feel like a longtime listener, first-time caller.
+
+Will: You know the flow of the show — you've been listening for a minute now. We met through TENDER; you had a pass, but it took you a while to join the Discord. When you finally jumped in a few months ago and gave your introduction, it clicked — we knew you from the sales feed, from what you'd bought and were collecting, but once you gave your bio it was like, oh, this guy might know a thing or two about generative art. So why don't you give everyone an introduction to yourself — your background in art and collecting, and the fact that you were involved in co-founding MakerBot. Let it rip.
+
+Bre Pettis: Sure. I've got this wandering professional life where I tend to say yes to things and then suffer the consequences and go on the adventure. My first job, I said yes to being a floor runner in the film industry — turned out that job was in Prague, working on *Pinocchio* with Martin Landau and Jonathan Taylor Thomas. I showed up and worked on a British crew, and among other things, I made them tea. They were like, "This is horrible — we're in a foreign country and we have an American making us tea. How could it be worse?" But I made really good friends on that second unit in Prague, and ended up working in puppeteering and animatronics at Jim Henson's Creature Shop. I burned out on the film industry after a couple years — it's brutal — and moved back to Seattle, started doing puppetry, made my own theater, worked at the Northwest Puppet Theater.
+
+After a few years of making about $6,000 a year doing school gigs, I realized I had to figure out a way to support myself properly. So I became a schoolteacher, which at the time was in Washington State, the 49th least-paid state in the country. I couldn't really afford a car and I wanted a family, so I started using art as a side hustle. That didn't really work either. Eventually I got into video art, and when nobody would represent me or buy my art DVD, I published it to the internet in 2004. Within about a month, 30,000 people had watched it. I thought, okay, I may not be making money, but people are watching — I'll do more of this.
+
+Then I started making how-to videos for my students, because if I recorded myself and they watched it, I got a 100% retention rate, whereas saying it out loud in person meant repeating myself three times. I published those online too, and ended up joining a community of about 20 people doing internet video in 2004-2005 — this is pre-YouTube, everyone grabbing DreamHost domains because of their infinite bandwidth program, which was a disaster for DreamHost but great for us. That led to a job at *Make* magazine, making a video every week on how to make things, and then a similar role at Etsy for a year. I moved from Seattle to New York — in Seattle everybody's got a garage, but in New York people have a closet.
+
+So I started something called NYC Resistor with some friends — basically a honeypot for all the hardware hackers in New York. We created a clubhouse that, 16 or 17 years later, is still going in our space in Brooklyn. Out of that, we wanted a 3D printer, but at the time the low end was $60 grand. The other MakerBot co-founders and I figured out how to make one for under $1,000 in parts and thought, maybe there's a business here, maybe a few other people want this too. We thought it'd be a side hustle. Instead we sold out instantly, and spent the next three and a half years just trying to keep up. I rode the whole thing as CEO of MakerBot — from three guys, a laser cutter, and a dream to 600 employees, a sale to a public company, and getting named in an SEC lawsuit. The whole rollercoaster from garage to corporate.
+
+After that I eventually settled into my current company, Bantam Tools, which makes desktop CNCs for world changers and skill builders — innovators who need aluminum parts, impatient engineers who can't wait for machinists, and educators training the next generation to make things. For the last year we've been working on art machines, and we've got a pretty exciting show coming up at the Whitney in New York, where one of my favorite generative artists, Harold Cohen, created a program called Aaron. He started developing it in the '60s — I believe he was part of the Stanford AI research group — and by the '70s he had a program that could make art. By the '80s it was making beautiful abstract drawings, and by the '90s it was drawing portraits.
+
+He died in 2016, and for the last 30 years of his life he joked that he'd be the first artist to have a posthumous show of new work — his AI, Aaron, would create the artwork after he was dead. Very nerdy thing to do. I've been working with his assistant Tom, his son Paul, and the curator Christiane at the Whitney to resuscitate Aaron. The show opens February 3rd, with Bantam Tools pen plotters running at historical speeds, making new artworks from Harold Cohen's program.
+
+Trinity: That is bonkers. We could talk about this for hours — let's just shift the script. That's exciting.
+
+Bre Pettis: It's so rad.
+
+Will: We didn't know that detail going in — we thought we were just having you on for a collector interview, and here you are bringing generative art to the Whitney. What's it going to look like — are these plotters going to be live streaming new pieces as the AI spits them out?
+
+Bre Pettis: The Whitney has another project in the works that absolutely must work as a live stream, so it's likely they'll be streaming our plotters as a test run for that other performance piece. We've got two types of artwork. One is called *Mazes* — line artwork from a program originally written in 1972. That program lived on tape drives, and when we sent the tapes out to a place that recovers data off old media, there was nothing on them. Fortunately Tom found the original notebooks from the early '70s, and Paul reconstructed Aaron from those notebooks to make *Mazes*. That'll run on one plotter.
+
+The other plotter will run portraits from a project called *Kcat*, a screensaver Cohen developed that generates a new painting every 15 seconds — usually a couple of people in a gallery, sometimes with an artwork behind them, often with a potted plant in the scene. He did this in the '90s, but his aesthetic was set earlier — he'd been a very successful pre-computer artist in the '60s, and I think that's where his style comes from. The characters Aaron draws have fantastic mustaches, jaunty fashionable poses, very cool hair. We generated 5,400 versions of each drawing, since we figure there's about 1,000 hours of plotting possible over the run of the show — though I'm not sure we'll plot the entire time. Nobody will have seen any of them until they're plotted. That's the thing: the moment it's drawn is the first time that artwork has ever existed.
+
+Trinity: So I have to ask — is there an NFT component to this at all? It seems like there's such a potential synergy, minting these as they emerge.
+
+Bre Pettis: If Cohen were alive, I think that conversation would probably happen. A lot of generative artists get asked every day, "Can we make money on your art?" This is totally long-form generative artwork from the 1970s and '90s — it just wasn't called that at the time. In fact, early generative art had to fight to be called art at all.
+
+I'm in my workshop right now — behind me is some art, and in front of me is my collection. When I sold MakerBot, I decided I wanted to collect art. I'd spent about ten years, roughly '96 to 2006, as a teacher in Seattle going to every art opening and every museum show I could. That let me develop my taste, because when you look at a lot of art regularly, you make a decision in the moment: do I like this or not? At first you like Monet, you like Cézanne — the validated artists. But once you've looked at enough art, you can look at something with no attribution and just ask yourself: do I like this? Does it fit my criteria for what's my jam? I'm not sure how long that process usually takes, but I think it's actually accelerated with NFTs, because you can look at so much art on your screen — you don't have to wait for the end of the month. You'd go to art openings and see a hundred pieces of art. I could be looking at thousands of pieces of art a day. I think one of the beauties of digital art is the ability to develop your style much faster than in the in-person art world. But the style I developed for myself—because I was trying to make a go of being an artist while looking at all this art and being inspired by other people—was really procedural. I was interested in artists who would set up rules. Probably the best example is Sol LeWitt: the rules are the art. Go to a wall, make drawings like this with your arm out, move two steps to the right, do it again. You can implement the art anywhere because the artwork is the instructions.
+
+I fell in love with art where the artist had an intention but not a post-visualization—where they had a way of beginning and engaging but didn't know where they were going. I can tell, looking at an artwork now, whether the artist saw it in their head and was just trying to make the thing that was already there. That's totally different from seeing a person or a still life and trying to document it—you don't know how you're going to do that when you start, but you know where you want to get to. That idea of intentionality without a fixed endpoint is my jam.
+
+Generative art, as it's called now—computer art, as it was called until a couple of years ago—has that quality: I'm going to make a program and it's going to have an output, and if I do it right, I don't know what the output's going to be. That's exciting. I got a chance to meet Vera Molnar in '95. I've got a lot of her work, and I'm really sad about her passing—she was such an amazing person. She started in the '60s, and nobody really bought her work until the early 2000s. She spent about thirty-five years making art with nobody buying it, and for the most part nobody even accepting it as art in the greater art community. Her notebooks show her engaging every day with the idea of delighting herself through procedural generative art. There's a heartness to her work. I love it.
+
+So I got into computer art—now generative art—in 2013 and started collecting it obsessively. At the time there were maybe three other people with a similarly obsessive collection. So it was like four of us. When Manfred Mohr's family decided to sell his childhood home and he went back and found all his early work in the attic, forgotten, it was me and a couple other people going, "I would really love to get my hands on that." That's very different from where generative art is now, where so many more people have been initiated into the cult of generative art and see the value and excitement in these experimental artworks, where the artist initiates an idea and we get to decide if we're delighted by it. And for a lot of these things, it's very delightful.
+
+I could go on and on—I love generative art, I love procedural art, and I love plotters. I'm in the cult of the physical object, for sure, and in the cult of plotters. I bought an HP plotter around 2007 or 2008 off eBay and lent it to Marius Watz at the time—he didn't end up using it, and he returned it. One of my pandemic projects was to take scans I'd made of my friends, use Blender to position and light them, find all the creases and outlines, and turn them into portraiture from 3D scans, executed in 2D on multicolor pen plotters. I dug way into the HP 7550 and fell in love with the machine—it's so well built. I ended up tracking down the design and development team from HP in the '70s, who are all retired now.
+
+Will: Wow.
+
+Bre Pettis: I talked to them about how they developed the machine, because I love it so much. And I've been working on a modern version of it ever since, because I can't help myself.
+
+Will: It's fascinating to hear your collecting history and that you caught onto this wave—what's now a whole current within NFT collecting—so early with generative art. I have to assume you found NFTs and crypto because of your passion for generative art, maybe through early Art Blocks, or even projects that came before Art Blocks. What was the journey to crypto and NFTs, and to accepting that world? I know it can be a friction point for people coming from the traditional art world. How did your experience collecting physical generative work inform your collecting behavior with NFTs, so much of which doesn't come with a physical component?
+
+Bre Pettis: I was very interested in NFTs when the hype started in 2020. I'm not quite in, but orthogonal to, the digital art crew of New York—I was in 7 on 7, one of the Rhizome things at the New Museum, back in the day. So I saw it coming in 2020, though I didn't really get it at first. My friend Sean Bonner went really deep into it. From my puppetry days I had characters—Pink Bunny, Boo Boo Kitty, childlike drawings—so I used bueno.art to do a project with these kittens and bunnies wearing different clothes and holding balloons, and I made them a bus so you could organize your collection in a London bus. It was very satisfying. I love SVGs, so it was easy to set up the basic idea and layer in different types of clothing they could wear. Bueno is a nice NFT platform—you say go, it asks how many you want, you make three hundred of them, all different, and then you publish them as NFTs and sell them. I enjoyed that creative process, made a bunch of screw-ups along the way and had to redo things, which I think is pretty normal for NFT creators.
+
+Then my friend Scott Beale invited me into NFT NYC, his group—a combination of creatives and speculators, the whole "this thing is coming out, I got us in early, let's all jump on it and get excited" dynamic. I did a bunch of collecting there, but it didn't really match my passion for computer art, generative art, intentional art—as opposed to the PFP side of things. I think I cut my teeth there trying to participate. The first time I really got into NFTs was at a party at NFT NYC—Scott's thing is Non-Fungible Social Club. I saw my friends obsessing over things on their phones, on Discord, genuinely excited. I thought, okay, I didn't get NFTs before, but I see my friends happy, having a great time, communicating with friends they've made in this space. I love a community, I like nerding out about stuff, so I decided to jump in. But it didn't really feel like my space until I found fx(hash). Then I thought, oh yeah, this is my jam. I spent maybe two months going through every single project on fx(hash), looking for the ones that attracted me, specifically focusing on pieces with physical components, or that output an SVG I could manifest on my own plotters. I wish I could go back in time and do that all over again.
+
+Trinity: I think we all remember our early fx(hash) days as something of pure beauty and magic—that's the official catchphrase, I think. Interesting that fx(hash) was your entry point. Was that your first exposure to generative art on the blockchain, versus Art Blocks, for example?
+
+Bre Pettis: I love Art Blocks now. I went to Marfa, Texas and hung out with that whole crew—Snowfro is such a gentle, generous, thoughtful, considerate human. But for me, I can go buy an amazing physical piece from a pioneer in generative art for single-digit thousands of dollars. I'm not going to drop double-digit ETH on a digital artwork—I'm not going to spend more on a brand-new artist on Art Blocks than I'd spend on one of the greats in the entire universe. Bless their cotton socks that they can command that, but it's not a leap I can make. I have bought a couple things on Art Blocks—when I was in Marfa I told myself I should buy one of the pieces from that series of generative artworks based on a plant that grows out around Marfa. Still on my to-do list.
+
+For the most part, if I don't have a relationship to the work, I feel like so much of it is still in the garage, in early stages, and I can't justify the prices I see on Art Blocks—though I think it's great that the artists get that. There's other stuff I can prioritize buying for my collection that's physical, so it's hard for me to get there.
+
+Whereas with fx(hash)—I'd bought some cryptocurrency back in the day, and it had grown, so I thought, great, this has been sitting here a decade, I'm transitioning to Tezos. I don't like Ethereum at all. I love Tezos—Tezos is the art currency. I committed to Tezos, threw it all in, because I believe Tezos is the best way to support emerging artists as they explore, experiment, and grow. By the time you're on a platform that operates like a real gallery, or selling at museum or auction-house prices, your ability to experiment is very limited—you're selling things for real money. But on fx(hash), you hear it in a lot of your interviews with artists: "I can't wait to get back to fx(hash) and really explore and experiment and do fresh stuff." That's why I love fx(hash)—it's the garage of the art world. It lets people experiment and try new stuff without worrying about pleasing someone who's paying $10,000 worth of ETH for it.
+
+Will: How do you feel about fx(hash) 2.0 and the Ethereum integration, and the ecosystem as a whole? Platforms like Verse and Tonic come to mind, doing more of that gallery model, often paired with physicals.
+
+Bre Pettis: Yeah.
+
+Will: Has that changed your mind at all? Have you looked at Tonic and thought, oh, this comes with a really great print, or even a chair in some cases? You've been collecting for almost two years now—fx(hash) is about two years old. What's your read on the ETH integration and the ecosystem overall?
+
+Bre Pettis: I'm conflicted, because I hate it.
+
+Will: That doesn't sound conflicted.
+
+Bre Pettis: It's a major loss for the garage-and-experiment ethos, and for Tezos, frankly, because Tezos is such a better platform for art. ETH is the platform of scam artists and ultra-privileged people; Tezos is the platform for emerging artists. I love being able to buy something with transaction fees of like 17 cents. A lot of times now, if I buy something on ETH, I'm paying some massive double-digit percentage of the artwork's value in gas fees, which is a complete waste of money. And I've been scammed a couple of times on ETH. Somebody tweeted, "Hey, get on the early adoption list for this famous artist, the reserve list." I clicked on it. It didn't work. I clicked again, and again. Turns out I wasn't getting an early reserve spot — I was giving them access to pull out my Gee's Bend quilts, my Stevie dollar that I really miss, and my really random rock.
+
+So, fuck ETH. I'm down to be the one to say it: I think everybody should just fuck ETH. Tezos is such a better platform for art, and I'll be the one to say it. I think fx(hash) on Tezos is still going to be a great place for emerging artists. I'm not really interested in all the ETH stuff, because it's like the punk rock kid deciding to sign with Warner Brothers. I'd rather they stay independent. So I'm probably the only one who feels this way — for the artists, I get it, they want to make more money, and they should, especially if they can get it. There's this idea that ETH will last longer or whatever. I just think it's the land of scammers and deceit. Sorry, I guess I have a strong opinion on this, but I'm sorry that fx(hash) is moving to ETH. I'm looking forward to the new garage, though, because this is what happens in every medium: the garage turns into the gallery, and the work in the galleries goes to auction houses. That's just the way it goes. If you're an emerging artist, I'd still recommend cutting your teeth on Tezos and seeing if you can make that work.
+
+Will: Have you looked at other chains, like Solana? One of the big narratives right now is that Solana is going to be next up for art, and it's low fee. I don't know all the details about how centralized versus decentralized it is, but it seems like that stuff doesn't matter to a lot of collectors. Have you looked at that at all, or are you just Tezos, full stop — you just want to collect long-form gen art here?
+
+Bre Pettis: I'm not there yet, but with fx(hash) 2.0, I'm looking for where the next garage is. My favorite place to buy artwork is what I call the metaphorical garage — where people can experiment and have high-risk, exploratory experiences both creating and collecting art. I'll be curious to see if the Tezos branch of fx(hash) stays as the garage. If it doesn't, I don't really want to go looking for another one, because — except for recently — my experience has been great. Lately fx(hash) keeps bumping me off, I have to keep re-signing in, I try to do something and it freezes up. They just fixed that today.
+
+Trinity: Oh, good.
+
+Bre Pettis: But this last week I've kind of been like, this is the best thing on the internet for generative art — why are they abandoning it and moving to something mainstream? I'm bummed about it.
+
+Trinity: My take is that it's a business decision first and foremost. They're hiring a team, they got funding, they have promises to keep in terms of marketplace fees collected. So it makes sense for the long-term growth and trajectory of fx(hash). I think we'll see a lot of bifurcation around what's a Tez drop and what's an ETH drop — maybe some artists will hold the line. Hard to predict.
+
+Will: I think some artists are going to get burned on some nice projects, because they'll try to list at under 0.05 ETH, gas will be 0.03, and no one's going to want to pay 20, 30, 60% of the price of the art in gas to collect it, even if it's nice. So these first few weeks and months, I think there's going to be some bad burns, projects not minting out, and it's going to be sad. That's my biggest concern with the launch, which is tomorrow, by the way, as we're recording this. We'll see — maybe I'll be proven wrong and there'll be so much hype people are willing to swallow the gas.
+
+Trinity: Or it just gets more eyes over to Tezos. If people are excited about ETH drops and we're getting more people from the ETH scam network looking at Tezos and ETH side by side, who knows?
+
+Bre Pettis: Tezos is made for art, made for artist transactions — it's the best platform for art. ETH is the transactional network; it's not made for art. You can do so many things with contracts on ETH, but a lot of those are just scams. I love going to fx(hash). I've never gotten scammed out of a Tezos, never had these ETH-style problems on Tezos, and part of that is just because fx(hash) is such a great garden. I can't think of another platform where I've spent months going through every single drop to explore the frontier. Verse and a couple of the other platforms clearly have really smart people figuring out the social engineering of how to make a platform work. When people I love and respect are on those platforms, I'll buy one because I want one, or if there's a physical, to support them. But yeah.
+
+Trinity: So we talked about fx(hash) 2.0 and the ETH integration — clearly you have strong feelings there. One of the other new features coming with fx(hash) 2.0 is the ability for artists to curate pieces to post for sale, with collectors getting one of those at random. How do you feel about that release mechanism versus long-form generative? Or, as you mentioned with Verse, the introduction of collector-curated?
+
+Bre Pettis: I think that mechanic gives the end user a higher likelihood of getting something curated by somebody with good taste, hopefully — it's literally curated. It's interesting: when I was in Marfa, Texas, with the Art Blocks crew, and for all my ranting on ETH, I really enjoyed spending time with that crowd. The people in this space are artists, collectors, infrastructure builders, and speculators. One of the beautiful things about a down market is that speculators have no agency — a lot of times they'll buy something and as soon as it's done minting out, the value goes down. That's kryptonite for speculators, whose whole benefit is buying stuff up and then selling it.
+
+One of the differences between NFT art and physical, historical, in-person art is that if I miss a drop, I can still go into the secondary market and get one. I was curious about this thing of buying the grails on fx(hash), so I saved up, made an offer on a dragon — didn't care which one I got — and was excited for the delight of whoever accepted my offer. There's a real beauty to that randomness, a fuel for the churn that lets the artwork fall into the right hands. That works really well when you don't have curation, which I think decreases it. I've heard Will say, "I'm going to buy three and sell two to get the one I want." I love the Easter-egg experience of buying something not knowing what I'll get — that's my category of good intentionality, unknown outcome. Curated, in some cases, will create more high-quality outputs, sure, but I don't have strong feelings about it. I still really like the randomness of the unexpected, on both the artist side and the collector side. On fx(hash), for the most part, the artist doesn't know what's coming next either.
+
+Will: Hell yeah. You've talked a lot about your collecting over the years, and one thing we always ask collectors — we have a good sense of what you like and your philosophy around collecting, but do you view any of this as investment? Do you have a strategy for selling or taking profits? I don't think I've ever seen anything of yours in the sales feed — it's always things you're buying. How do you view it long-term?
+
+Bre Pettis: I'm not a speculator, which definitely makes me an outlier in the NFT space. I buy for two reasons. One: I see potential in an artist and want to support them as they emerge — I want to be an early supporter of artists in general, and specifically artists doing generative work. That's probably 80 or 90% of my collection. The other 10% is stuff that either comes with a physical or has an SVG output. So, to all the artists listening: if you make your artwork output an SVG, I will buy it. I will just love you for making something that lets me manifest it in the physical world. That makes me really happy — I love living with artwork.
+
+So I'm probably one of these hoarders who's going to keep collecting. If things go the way I think they're going with generative art, by the time I'm near death — probably 50 years away, and I'm only 10 years into collecting — I'll have a pretty epic collection to either start a museum or donate to one. That's probably where I think it's headed.
+
+Trinity: That's huge. That's beautiful. Can't wait for our museums to appear out of the ether.
+
+Will: This would be a good opportunity, since you've talked a lot about — well, first, note to us: next time we do a Waiting to Be Signed collab, we should make sure it outputs an SVG. Actually, the next one might be a good candidate for that, or the next two.
+
+Bre Pettis: Oh, great.
+
+Will: I noticed you've been collecting some stuff that doesn't output as an SVG — I saw you recently buying a lot of pixel-filled stuff, which set off an alarm for me, because that's an artist I've been talking about—
+
+Trinity: That's the A.I. side.
+
+Will: —over a year. Why don't you shout some people out — especially anyone you think is underappreciated or undersung in the back catalog of fx(hash)?
+
+Bre Pettis: One of the things that's hard about NFTs is talking with your friends about it. So one of my favorite activities to do with my artist friends is to say, okay, you don't get it yet, and that's fine. Here's the experiment we're going to do. You're going to go on the App Store and download the Temple wallet. You're going to write down your 12 words on paper, which for people who haven't done that before, doesn't make sense to them—they're like, "I'll just remember the password." But that's just the password on the device, and if you change phones, you lose access to your wallet. So get them to write down their passphrases, and then I send them 5 Tezos, inspired by that 5 Tezos challenge from earlier in the year. I send them a couple of articles about people who made their 5 Tezos collection and say, your job now is to go spend 5 Tezos. Earlier this year when I did this, Tezos was about 60 cents, so it cost me about $3 to run this experiment. It's more like a dollar now, so it's about $5.
+
+They go through the history, the archaeology, or search for things, and then they find stuff and have to decide if they like it or not. There's very little other data for them to go on, because they don't know the artist, they're not in the space—outside the NFT world, most of the people creating this work aren't well-known, so they just have to sit with the question: what do I actually like? It makes me really happy to do this. If somebody had done this for me, I would've gone kaboom, off to the moon. Nobody's gone as deep as I have, but it does help people understand how this world works a little.
+
+As for artists I like—I'll pull up my collection. In general, if I like the aesthetics of something, I'll support it, and if it has a physical component, even more so. I went back and bought a bunch of earlier Shawn Kemp work. Then when fx(hash) 2.0 went live, his *Luminous Echoes* project launched—the previous one was called *Mini Dahlias*, such a great set. *Luminous Echoes* is in the same vein: he makes artworks that, when you redeem them, become stacks of card and paper in different colors that assemble into this amazing layered 3D experience—he laser cuts and assembles them himself. It's clearly a labor of love, because the resale value is like 100 times what you can buy them for from him directly. So I got my *Mini Dahlias* and then a bunch of *Luminous Echoes*. It's the only thing I've ever seen like it.
+
+I still go through and get excited about old stuff on fx(hash) too—PixelSymphony, I got a bunch of those. The outputs from that project are truly delightful, clearly programmed, with an element of randomness while still being beautiful—every single one is beautiful. I also like an artist called Vector Zero. They just did one called *The Machine*—it looks like a TARDIS in space with an asteroid and a black hole. I wish it were an SVG, because it's totally vector line art, but they didn't have that output option. I sort of wish I were a programmer so I could just add an "SVG output" button myself. I can keep going if you like.
+
+Trinity: I think it makes sense as you look through your fx(hash) collection—it actually connects to some conversations we've had, specifically in the TENDER Discord, and it came up in our Kim Asendorf interview a couple of weeks ago: this dichotomy between skeuomorphic generative art—brushstrokes, landscapes, that sort of thing—versus art that's lines, pixels, something more generatively native. Do you find yourself drawn to one more than the other, outside of SVGs, of course? Where do you land in that argument, especially looking through your collection?
+
+Bre Pettis: I like things to be what they're supposed to be. I won't buy furniture with veneer on it—MDF pretending to be wood. I don't want pretend wood. Similarly with art, I'm not that interested in work that pretends to be made with brushstrokes. Caveat: any artist could use brushstrokes in an exciting, digitally native way that would completely change my mind. But looking through my collection, almost everything is either native digital, or the vectors are actual vectors—lines that aren't pretending to be brushstrokes. I'd eat my hat if an artist did something clever enough to prove me wrong.
+
+Will: You also have a bunch of Erik Swahn stuff. Have you tried plotting any of that?
+
+Bre Pettis: Yeah, and unfortunately his color data is in the fill, not the line color. So every one I've tried plotting—these beautiful color pieces—comes out with all the lines black, because the line color is black. I've thought about going through and replacing all the line colors with the fill colors in Inkscape, but that would take me a day. A real programmer could probably write a script to do it. I love that work, but I haven't been able to plot it respectfully to the artist's intent.
+
+One of my favorite artists is Piter Pasma, because he's done a lot of work that's both configurable after purchase and plottable. My favorite series is *Yip and Yap's Imaginary Playground*—38 out of 100 are minted, it's a 200 Tezos purchase, and I've probably bought 8 of them. I love these because when you run them in your browser, you can add "LW=" for line width—by default it's something like 0.7 or 0.4—and set it to 0.1, meaning the lines go from 0.4 millimeters to 0.1 millimeters, filling the space with four times as many lines. So a drawing he essentially intended as a postcard-sized plot—
+
+Will: Oh, wow.
+
+Bre Pettis: —you can plot at 24 by 36 inches. It takes about two G2 pens, and all the ink in both, to execute that plot. It's a huge *Yip and Yap* drawing. I really want other people to buy this series, because I want to see the other 62 pieces—I get so much enjoyment out of the first 38.
+
+Will: I'll speak for myself here as also a Piter Pasma fan: I think that's my least favorite of his.
+
+Trinity: Really?
+
+Will: Something about it just didn't connect for me compared to some of his other work, like *Industrial Devolution*. I just couldn't figure out what these little guys were doing.
+
+Bre Pettis: The other piece I love of his is *Geomorphism*—I've got a bunch of those, plus one of the *Nano Panoramas*, one *Industrial Devolution*, and several from *Universal Ray Hatcher*. Even though you can't scale those the same way—messing with the parameters destroys the original composition—it's still incredible. For those who haven't played with it: Piter Pasma made a project that's basically access to his Universal Ray Hatcher. In the parameters, there's a place where you can input math that generates a 3D model, and then the Ray Hatcher applies light, shadow, and lines to it. Go down the rabbit hole on *Universal Ray Hatcher*—it's one of the champion projects of generative art on fx(hash). He just handed out tickets and said, "play with it."
+
+Will: One of the best uses of params for sure.
+
+Bre Pettis: 100% agree.
+
+Will: A great Easter egg too—if you go back and listen to our episode with Piter, probably a year and a half old at this point, we talked to him about his plotted work and how he'd never done a long-form generative piece. He was hesitant about whether he could pull it off for long form. I don't know if that conversation inspired him or if he'd just been working on it independently, but about six or eight months after that episode he finally released *Industrial Devolution*—he'd figured it out, and then the dam broke and he put out all these amazing projects.
+
+Bre Pettis: Awesome.
+
+Will: Trinity dropped off here, but that's okay—let's start wrapping up, since we're almost at an hour. Couple of closing questions. You're building a company, or part of one, helping contribute to the space with Bantam. As a collector and builder, what are you most hopeful for as we move into 2024 in generative art?
+
+Bre Pettis: I think we're moving away from even using the phrase "NFT," toward just calling it art—NFTs are art, not necessarily their own separate category. At the beginning, people were chasing the Bitcoin story: buy something for a dollar, sell it for $50,000, 50,000x growth. That hype infected NFTs early on—people buying anything because they thought it would go up. For the most part we've shed those pure speculators—the people who weren't artists, collectors, or infrastructure builders.
+
+As that happens, you're also seeing more artists lean on physicals to add value to their work. That's why I'm committing to making art machines—I've been developing them for the last year. We've got an exciting year ahead starting with the Whitney show, and I've got four art machines in development right now. I'm excited to create infrastructure for artists to take their digital work and send it through the portal of one of Bantam's machines to manifest it physically—to enter the cult of the physical object in addition to the cult of the digital object. I'm committed to giving artists more infrastructure for manifesting their work. That's my focus for this next year and beyond.
+
+Trinity: I'll follow up with this: you've talked a lot about physical pieces already. Two-part question—what's your favorite plotted piece in your fx(hash) collection, and what's your favorite physical piece in your entire generative art collection?
+
+Bre Pettis: Oh my goodness. My current favorite plotted fx(hash) piece—really a set of them—is Joanie Lemercier's *Nuages Possibles*. I'd previously collected Joanie's work: I have an ocean piece, and I have mountains. Then he did the clouds, and I was like, okay, I'm on the train. One thing I really like about Joanie Lemercier, beyond making beautiful artwork, is that if you follow him on social media, he's active in an anti-extinction environmental group and does aggressive work confronting environmental polluters—which adds a whole other layer to his nature-based artwork. He's also gone out into the desert, flown a drone to do landscape scanning, and run a plotter on battery in the middle of the desert.
+
+My favorite physical piece right now—I just got it in the mail this morning—is an Antigoon. Someone on the TENDER Discord was letting go of one of those artworks, and I was able to grab it. I just opened it this morning, so I'm looking at it now.
+
+Will: Must have been *Clown Vamp*, right?
+
+Bre Pettis: Yes, *Clown Vamp*. You know what? That little interaction made me really happy because it's another avenue for manifesting a digital artwork into my physical world — other people are buying physical artworks too. The way I bought it was I actually bought the NFT from him and he shipped me the physical artwork. I've heard people talk about this idea that if you sell it, you have to ship it. I did it, and it worked — probably primarily because I'm in a Discord community with him, so there's some social currency involved. I can't buy the digital artwork and he can't forget to send it. That made me happy just because it's a different way of interacting with both community and artwork to acquire something physical. You can trade without fear in Tender, for sure.
+
+Will: People are pretty good about making sure they fulfill, which is another aspect of it — it's a wide-ranging club, I guess, is the best way to describe it.
+
+Bre Pettis: That's something that gets overlooked in this community. Most people see the digital artworks and assume everyone just sits at home in their underwear interacting with the NFT space through a computer. That's not actually very descriptive — the people who are into this regularly meet up. Even though this is a podcast, we're getting to look at each other over video, and it's great to see. Now I'll recognize you when we're in person. Being in these Discords and at physical events means there's an actual sense of community, accountability, connection, and friendship-building. That's what got me into NFTs — realizing there was community and friendship building to support artists. I think that's the thing that will persevere and make sure this digital platform for artworks, and transacting with cryptocurrency, continues to move forward: there's an underlayer of community and relationships as close to IRL as you can get.
+
+Will: I don't know if that's particular to or owned by Tezos, but I feel like it's definitely emphasized and more common here. I can think of so many times, even before Tender, in the fx(hash) Discord, someone fat-fingering and accidentally selling a piece they intended for thousands of dollars for one Tez — and then someone buys it before a flipper can and returns it to them.
+
+Trinity: Oh.
+
+Will: Or, "Hey, can you mint me this and I'll pay you back later?" and people just say, "Yeah, sure, I'll get one for you" — willing to spend, even when Tezos was $4 or $5, a hundred dollars on a mint purely on faith that the person will honor it. I can't think of a single real story of someone getting burned.
+
+Bre Pettis: Right, on the Tezos network.
+
+Will: On Tezos, yeah. I can't speak to Art Blocks or the other Discords back then, since I wasn't in them, but I feel like the camaraderie here is what got a lot of us to stick around — got people like us to start a show and start talking about it.
+
+Bre Pettis: I went to Marfa, Texas for the Art Blocks event, and I think Art Blocks itself — not necessarily as an ETH community, but as a community — if I were to mess with ETH, that's the community I'd want to spend more time with, because I really enjoyed that. So the community thing is really important for people to understand if they're getting into this: listen to the podcast, get to know the cast of characters, and when there's a party, show up.
+
+Will: Speaking of parties, you mentioned before the show that you're a Magic: The Gathering enthusiast, but we don't know to what degree. It's rare that we actually have a confirmed Magic: The Gathering fan on. So tell us, Bre — do you still play? Are you a past pro we forgot about? What's your story with Magic?
+
+Trinity: Can you get to Brooklyn?
+
+Will: Yeah. Can you come play with us?
+
+Bre Pettis: One of the things I like about your show is your commitment to being yourselves on it. One of the ways you do that is asking everybody about Magic: The Gathering, and so far you haven't had a lot of hits. I figured, okay, at least I have a story. In 1997, I was living in Seattle, and me and my friend Clay Martin were both professional puppeteers — that's how we made our money. He's a true master, honestly the best I know on the planet right now at puppeteering. He'll put characters on his hands and within seconds you've forgotten they're puppets and you're enchanted.
+
+Me and Clay Martin found a theater in Seattle that would let us use it for almost nothing, as long as it was after 10:00 p.m. So we started a show once a month on the first Friday called *Night of the Puppet Master*. If you've ever gotten together with puppeteers — they're a very interesting group. They create an entire world and then expect you to believe it, and they control the whole thing. They're control fiends, obsessive, they want to control the whole narrative. Really interesting characters, and for the most part they're stuck talking to children, so every puppeteer has shows that aren't for kids — not necessarily adult, but engaging with material that isn't exactly *Three Little Pigs*.
+
+There were about a dozen puppeteers in Seattle at the time, which is a lot for any one place — it's one of those communities where there are only dozens of people around the world in it, and you're in an elite club as soon as you become one, just by making a bunch of puppets and putting on a show. Our primary audience ended up being employees of Magic: The Gathering, since the company was based in Seattle at the time. Pretty much every audience member worked there, and they were such an awesome audience — if they weren't high or drunk, they were acting like it. What a delightful group. We'd perform for them and they would just howl. We became friendly acquaintances with a lot of the Magic: The Gathering employees. So when you ask about Magic: The Gathering, I get a warm place in my heart for the people who were creating it in the '90s. I have to assume they were all so passionate — I bet every single one of them is still kicking butt at Magic now. That's my story about Magic: The Gathering.
+
+Will: Any names you remember? I wonder if Mark Rosewater or Aaron Forsythe would've been there in '97 — Trinity, I don't know if they started that early since Magic launched in '92, '93.
+
+Trinity: I'm trying to find the list of people who used to be part of that team.
+
+Bre Pettis: I think it was only about 25 people, and I think they all came.
+
+Trinity: I think Mark Rosewater joined around '94.
+
+Will: Fresh off his gig writing for *Roseanne*, he became lead designer of Magic: The Gathering. So you probably knew a lot of those folks who are legends now — and probably a lot of people whose names aren't known because they weren't directly involved in designing the game, but in the logistics of getting it printed and shipped. That's cool.
+
+Bre Pettis: Their offices were in this dungeon in Seattle on University Ave, where you literally went down about 30 feet of stairs at a steep rake. They'd made it look like an actual dungeon — that's what their offices were like. That's my one connection to Magic: The Gathering. I'm not a hardcore player, but I get it, I've dug into it, and I love it.
+
+Will: You've got your Vera Molnars, we've got our Magic cards — time will tell who picked wisely. Trinity, anything else? Should we wrap up, or one more question?
+
+Trinity: One more. We've talked a lot about the artists in your collection and the art you love — anyone you'd like to shout out, someone people should be paying more attention to?
+
+Will: Yeah, even if it's not an artist — just someone we should go check out.
+
+Bre Pettis: I come from the world of infrastructure builders. I started out trying to be an artist, and instead of going to California to dig for gold, I ended up selling shovels. With MakerBot, we made 3D printers for people to use. At Bantam Tools, we make CNC machines, and in 2024, art machines that people will use to manifest art. As a teacher, I empowered students to unlock their creativity by giving them tools to make art. Other people I have deep respect for in that infrastructure-building space, outside the NFT world —
+
+Will: Yeah.
+
+Bre Pettis: I'd point people to Adafruit, a New York company run by PT and Limor. They have a large employee base and run an electronics fabrication facility on the 10th floor of a building in SoHo — completely absurd. I'd also shout out Evil Mad Science in California, the designers and manufacturers of the AxiDraw. And PocketNC — folks in Montana who make a 5-axis CNC, the best one out there if you want to start manifesting 3D sculptures in materials other than plastic. Those are the infrastructure and physical-manifestation people I'm happy to shout from the rooftops.
+
+Will: Physicals was one of our big themes for 2023, and it sounds like it'll continue into '24. I wouldn't be surprised if we have occasion to talk to more folks on that side of things — great shoutouts.
+
+Bre Pettis: I think you called it. People on audio can't see it, but I can see the books and artwork behind you — living with art matters. I have 800-some-odd pieces on fx(hash) in my collection, but the ones I really know are the ones hanging on my wall; I feel a much stronger relationship to them. I think you're on target — the physicals trend started in 2023, and I think we're going to see it really take off in 2024.
+
+Will: Well, Bre, this was great, really cool to have you on. This was so much more than just "I like to collect this and I'm going to sell it at this price." Delightfully unexpected in a lot of ways, and you're not that far away — maybe someday we'll drop by your studio, say hi, and check out some of your Vera Molnars.
+
+Bre Pettis: I'm happy to have you up. When we open the Harold Cohen show in February at the Whitney, I'll be there a lot making sure the machines are happy. Maybe we can set up a get-together, I can do an insider tour, and then we can head up to VAR for a little party.
+
+Will: That would be sick. Let's plan on it, a year in.
+
+Trinity: That's my birthday weekend, so yes.
+
+Bre Pettis: Yes, let's celebrate your birthday.
+
+Trinity: Let's celebrate my birthday. At the Whitney.
+
+Bre Pettis: Win, win.
+
+Will: Let's put a pin in that — something to look forward to in 2024. All right, that was Bre Pettis, everyone. Check out the upcoming exhibit at the Whitney, and check out his collection on fx(hash) if you want to see some cool plottable stuff. That's it for this one — hope you all enjoyed it. We'll be back soon with another episode. Bye, everybody.
+
+Bre Pettis: Always. We're waiting to be signed.

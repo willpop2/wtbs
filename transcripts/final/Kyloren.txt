@@ -1,0 +1,283 @@
+Will: Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Kylo, famous collector on fx(hash), and of course Trinity, ever-present co-host of the show, is here. Hey everyone, how's it going?
+
+Trinity: Super glad to have you on, Kylo.
+
+Will: It's been a little difficult to get the timing right because you're all the way over there in India, quite a time difference, but we're really happy to have found this time to talk to you.
+
+Kyloren: Thank you for having me. I've heard a few of the podcast episodes already, and I'm really happy to be here. Thank you for taking time from your personal lives to have me on.
+
+Will: Increasingly the podcast is becoming our personal lives, so it just feels like part of it. I'm sure almost everyone listening will be familiar with you, at least from seeing your name in the sales feed, usually buying, not so much selling, and from some of the collections you've minted and own a large portion of. Maybe you can start by giving us an introduction: yourself, your history in art and art collecting, NFTs in particular, and how you came to fx(hash).
+
+Kyloren: I got to art from crypto, so I'll start there. Post-pandemic, there was a big crash and the price of Bitcoin had fallen below $5K. I thought that was a good time to get back in, after experimenting a couple of years earlier. In India, where I live, crypto had been banned, or at least made very difficult to transact — and it was around this time that it was unbanned and made legal again. So I started with Bitcoin, then got into Ethereum as the second most valuable coin. But I wanted to understand what actually gives these cryptocurrencies value, so I started researching projects launching on Ethereum and what people were doing with the smart contract platform. That's when I came across *CryptoKitties*, the project by what is today Flow Labs — a gaming-slash-collectible project that broke Ethereum. I was fascinated that these CryptoKitties could generate more CryptoKitties purely on-chain.
+
+I signed up for the NBA Top Shot beta right when it launched and got in early. The ability to own basketball cards as digital packs excited me — being in a country that never had access to those physical markets, mostly dominated by the USA, this opened my eyes to what NFTs could mean for digital ownership. Around that time, Rarible launched — maybe not much used today, but it was all the rage back then, with people minting all sorts of art and collecting it with crypto. I have a hobby painting in acrylics, so that interested me: I could mint my own art and see what happened, and I actually found a few collectors who bought those mints. I was always intrigued by the question of whether NFTs were only for digital artworks, or whether a physical artwork could be photographed and minted too. We were all figuring that out at the time.
+
+That's how I got into Art Blocks. Snowfro, who launched the platform, was also an NBA Top Shot collector and a good friend — we used to trade NBA Top Shot moments together, and he told me about the platform he was launching. Not many people know this, but I minted squiggle number 3 out of the 10,000. I was literally right there for a historic moment, but it didn't feel that way at the time — stupidly, I sold it for about 7 ETH a few months later. I regret that a lot, like many other decisions, but it's made me learn and be more successful in other areas.
+
+Art Blocks was a revolution: any collector could mint something random, like opening a box of chocolates — each one different, with that element of surprise of owning something unique. It took off that August. Then came Tezos. My thought going from Ethereum to Tezos was simply: why only Ethereum? There are alternate blockchains. I'd seen success minting PFPs on other chains too, like Solana and Cardano. A lot of people, maybe just from being maxis, neglect these other chains — and that's where I saw opportunity, because if fewer people are there but the work is just as good, it might become valuable someday. The same reasoning applied to art. Tezos felt like this niche, up-and-coming, hippie sort of scene where the art wasn't expensive and you could collect so many different editions. At the time, Ethereum transactions cost upwards of $20 for even simple things like a transfer or a mint. Tezos was a place where you could really build out a cool collection with lots of great art and artists without spending much money, especially once you converted from Ethereum to Tezos.
+
+I need to thank some people for that start — Lonli was the first. He's a big proponent of art on Tezos. I created a little fund of about 20 ETH worth of Tezos to get into it, and Lonli, who'd already been in for a while, helped me pick out good artists to buy from. This was mainly on what was then Hic Et Nunc and OBJKT — fx(hash) hadn't launched yet. At that time there was a big audience that was only Tezos and a big audience that was only Ethereum, and I had the advantage of coming from Ethereum and becoming a large Tezos collector pretty quickly, because I loved the art. I'd already collected a few hundred pieces from different artists.
+
+Then fx(hash) came along, and it quickly became clear to me: this is exactly Art Blocks, but on Tezos. If you look at the early Art Blocks collections and imagine the same thing happening on fx(hash), it could be pretty big — and there were only a few collectors on it back then. What we kept discussing almost every day was: this isn't just good art, it's often the *same* artist — someone doing work on Ethereum and also selling on Tezos for a tenth of the price. In any market, that doesn't make sense. Of course each piece is different, so art isn't directly comparable — that's the whole point of non-fungibility — but the quality was just as good, and that price discrepancy didn't add up. It could only mean one of two things: either the Ethereum art was overvalued, or the Tezos art was undervalued. Maybe the answer was somewhere in the middle, since over time we saw a bear market and a crash in Ethereum's value.
+
+Comparing to traditional art — which isn't my background, but I've learned a lot about over time, meeting fellow collectors, going to things like NFT NYC, visiting museums with friends — some artists command prices in the millions, but plenty of others don't command anywhere near what we pay for, say, an Art Blocks NFT today. It's a wholly different medium, and you can't always apply the same criteria since we're in early days and some of this could be historic. People love to speculate, and that's a lot of what the market is today. The market is what it is — I don't argue with that. People put their money where their mouth is, and that determines prices going forward.
+
+So that's how I started on Tezos and fx(hash), and I'm super happy — I love the community, the people who support artists and each other, it's warm and welcoming. That said, I'm not an either-or maxi. I love collecting art on all different chains and I'm happy to be wherever the artists are.
+
+Will: You're the only person I've talked to who's admitted to minting an NFT on Cardano. That chain gets so hated on all over crypto Twitter.
+
+Kyloren: The PFPs I minted were called Space Buds — pretty cute, and super cheap when they minted out, so I figured, it's not going to cost much in Ethereum terms, let's see where it goes. But that's the extent of it. I don't use the chain much, and I've sold almost all of it since it gave a decent return, which I reinvested into Tezos. I also did the first generative art mint on Solana, a project called *Fract*. Being first always carries significance in blockchain, since the mint time is forever recorded in history. Over the period I was investing in Tezos, I was essentially selling off all my Solana holdings and putting it into fx(hash). It wasn't really an investment for me — I counted the Solana stuff as free money to experiment with great art and artists. And it worked out well.
+
+Trinity: Related question — you clearly see art as something amazing to collect, but also as an investment. Do you participate in the DeFi side of things, especially on Ethereum, as a way to keep growing your stack? Air quotes abound.
+
+Kyloren: I've dabbled a little in DeFi, but NFTs have always been my core — I really get them. Over time I've seen how NFTs link to culture, value, brand, and strategy. Even in my day job, which has nothing to do with NFTs or crypto — it's in agribusiness — and I also did a postgrad in management, so NFTs just make a lot more sense to me. I understand the markets better. DeFi felt too volatile, too much Ponzinomics and shitcoins. Some of it worked out for me, but mostly it didn't, and mostly I lost money. The basic idea is you provide liquidity — say a bunch of ApeCoin and Ethereum — on Uniswap and earn fees in return, but you take losses if one of the coins drops in value. It's too hard to predict, especially in crypto markets. Even with NFTs it might be similar, but I've found I can pick and choose much better in NFTs than in DeFi. So, not much DeFi for me.
+
+Will: You mentioned Ponzinomics — that's one of the bigger criticisms we hear now, looking back at recent history with PFP projects that either set out to be Ponzis or rug pulls, or incidentally became them through bad management. Are you still bullish on PFPs and actively looking at them, or was that more something you viewed in the moment as quick flips to generate liquidity — get in, get out, and keep the ones you feel actually have strong legs? I know you have an ape, for example.
+
+Kyloren: I believe PFPs have their own space and place in the NFT ecosystem. They're your identity in the digital world, and they can be much more than that too. I wouldn't call them art, exactly — they're more like your personal digital avatar, wherever you go eventually in the metaverse. You need an identity there, and maybe a piece of artwork could serve that purpose, but profile pictures convey it in a much better way than art could. So yes, PFPs have their own space, and I view that as a completely different market from generative art or digital art in general.
+
+I look at them from time to time, but I'm not really into trading much at all, in art or PFPs. I've found that I only lose out when I try to time something perfectly — buying and selling immediately. The best returns I've ever generated came from buying into a project I really believed in early and holding it for a long time. The NFT space is quite young, so I don't know what "long" really means here, but I'm not into trading, so I'm not looking at PFP flips on a daily basis.
+
+I still hold some apes, and I'm quite bullish on them. They're the largest project in the space by far, and Yuga Labs keeps innovating — they're launching a game now, and I think they'll keep pushing culture, merch drops, partnerships with cool brands, and so on. I think they'll continue to have relevance. There are only 10,000, and that's never going to increase, so I do believe they'll do well eventually. But I'm not trading PFPs or watching too many PFP projects.
+
+Trinity: One of the things we always talk about — both Will and I lean toward selling a bit here and there to cover costs so we can keep collecting. It sounds like you're much more about long-term holding, not even speculation. Is there anything you've speculated on besides your *Squiggle* early on, or anything you do prefer to sell? Or are you just diamond hands all the way?
+
+Kyloren: I've sold a lot of things I regret. Most of what I've sold, I've regretted; some things I haven't. This is how I learned, though. Back when Rarible was just kicking off, they had token rewards based on how much volume you did on their platform, and CryptoPunks were just taking off — under 1 Ethereum on the floor. I saw a few pro traders, Pranksy and others, wash trading Punks to farm the Rarible token. That's how I first learned about Punks, and I thought they were pretty cool too.
+
+At that time I was still quite small in crypto, so I had to sell things to buy things — I didn't have spare cash to just hold long term. Bitcoin was around $10K, and my entire exposure was 3 Bitcoin. I went all in from my savings: sold 1 Bitcoin and bought about 13 Punks, at around 5 Ethereum floor value. Because that price was artificially pumped by the Rarible token farming, it dropped from 5 Ethereum back to 2 over the next couple of months. I felt like I'd made a huge mistake. Eventually it climbed back to 5, and I sold everything just to avoid losing money — telling myself at least I'd gotten my one Bitcoin back, when I should have kept one or two Punks. But that's always hindsight.
+
+So yes, I do believe one should sell from time to time. As we saw in the recent bear market, if you'd sold some of your Art Blocks pieces during the initial pump, when they were going for much more than today, you'd probably have been better off. But again, it's all hindsight, and very difficult to time.
+
+Now I have a collection I feel comfortable with — partly because of my involvement in ApeDAO, I have enough savings that I don't need to sell everything, and I can take my time figuring out what to sell. But I've also reached a point where I'm so invested in the Tezos ecosystem that if I want to buy more art there, I feel like I should sell something first to fund it. That's not to say I won't buy more, but I have to be selective, because it's no longer the early days of buying at 1 or 2 tez hoping it becomes something big. It's already become something — a platform. Most of the big drops now are Dutch auctions, more fairly priced, with no arbitrage effect.
+
+So now I want to focus more on art I really love and want in my collection, without obsessing over price. But that means being selective, and to finance that, I need to sell parts of my collection in order to keep collecting. Maybe unlimited resources would change that calculus for some people, but I believe you have to keep some kind of balance.
+
+Trinity: Your portfolio on Tezos, or at least on fx(hash), is up almost 600%, which is pretty spectacular performance.
+
+Kyloren: Did you count the test drive? I don't know if you did that.
+
+Trinity: No. One Tezos is one Tezos — that's how we operate around here. Really, the only thing hurting your portfolio is the unicorns you bought. They're down 90%.
+
+Will: And some other pieces too. It's been an interesting year on fx(hash) — some classic pieces, things considered grails back in December and January, have declined a lot in USD value since. Before we get into that — or maybe this is part of the same question — what's your underlying thesis? You've said you consider yourself exposure-capped on Tezos. How are you deciding which pieces to move into now? We've noticed your collecting has slowed down, and there's a newer class of grails from the past four or five months — projects like *September*, *Coronado*, *Turner Lite*, *Take Wing* — that you haven't added much of, maybe just one. What's your thesis, medium- and long-term, on generative art? Looking at museums, talking to people from the traditional art world — where do you see this going? Do you think it'll ever be accepted by the mainstream? Open-ended question, but feel free to riff.
+
+Kyloren: There's a lot to unpack there. I do think some of this art will be considered museum-grade, and some of it will end up in museums. We don't know which artists or which pieces yet, but I'm pretty sure this is part of a niche, a distinct chapter of art history, and people will look back on this as an extraordinary period of experimentation — so many artists coming together to do something really cool.
+
+That said, yes, my collecting has slowed, but my average purchase price has probably increased over this period, since I've been leaning more toward one-of-ones. I love long-form collections, where one algorithm produces countless outputs, but I also want pieces in my collection that are unique — a single output chosen by the artist as something special, with its own meaning. So I've been collecting one-of-ones from many artists, on both Tezos and Ethereum. That has its own place, and it's usually priced a bit higher than long-form collections.
+
+There's also the question of supply. In traditional art, there's a physical limit to how many paintings someone can produce, because it takes physical labor. With digital art, especially long-form, you can let an algorithm generate millions of outputs if you want — even though a lot of work goes into building it. So the real question, and I don't have an answer, is how people will value long-form collections over time when the individual pieces aren't very distinct from each other.
+
+Personally, I don't like it when a long-form collection's pieces are separated only by palette but otherwise look almost identical. That defeats the purpose of doing a long-form collection at all — you might as well mint a one-of-one, or a short series of three or four, instead. I'm not here to make decisions for artists; they know their market and their art, and maybe they want to showcase the algorithm's range. But my point stands: if you want a long-form collection to really work, it needs to be varied enough yet cohesive enough to qualify as one. That takes real skill, and that's what I look for. I've skipped plenty of collections for that reason.
+
+Still, I'm bullish on long-form in general, because of that unique ability to mint something totally random and unique to you while also building a community around it. Take *Garden, Monoliths* as an example — you and other collectors all own pieces of the same algorithm, and you can bond over your shared love of that art. You can't really do that with a one-of-one. That community feeling is a big part of what's driven long-form's popularity, and fx(hash) shows no sign of slowing down — big projects every day.
+
+But as you said, many so-called grail projects from last December have cooled off while newer collections get the hype. That's the nature of the beast — the newest thing is always top of mind, there's a frenzy at mint, heavy secondary volume and FOMO, and then over time it settles and people focus on the genuinely rare or good pieces.
+
+There are two strategies: try to stay online constantly and track every collection, or not. With a full-time job and a newly started family — we have a 17-month-old baby — it's really tough to keep up, and it takes a toll on sleep and sanity, especially since I'm in India and most mints happen late at night for me. My collection has grown a lot, and I'm still excited, but it's hard to track everything. So I've shifted toward buying on secondary or minting via Dutch auction, where I don't need to be there at the exact second it drops. That gives me more flexibility.
+
+I still buy here and there, but selling is hard for me, because almost everything I've bought was because I loved the art or the artist. It's like a personal collection built with real love — difficult to let go of. Which makes it hard to raise tez, which makes it hard to buy new things. But that's okay. There will always be a continuous flow of great art, and I have to remind myself I can't own everything. There's too much good art in the world. I can appreciate it from a distance even if it's not in my collection, and still collect things once in a while. That's where I'm at personally.
+
+Will: Now I feel even more bad that you're recording late in the evening your time — both Trinity and I are newer parents than you, so we understand how valuable that sleep is.
+
+Kyloren: Congrats to you guys. It's crazy, it's amazing, and it's beautiful at the same time. But sleep is not something you have in the first year.
+
+Will: It's tough.
+
+Trinity: Working through it, that's for sure. One thing I wanted to ask about, without going too far down the rabbit hole, is your take on one-of-ones. From a collector's perspective they're amazing because you're getting unique art that exists only for you. But from a speculation perspective, we've seen that smaller-edition work — even on fx(hash), where everything is randomized — doesn't move the same way. *Waiting in Afton* is a classic example: less volume, less liquidity, less traction through the sales feed. Does that cross your mind when you're deciding between collecting a 1/1 versus getting into a 500-edition fx(hash) or Art Blocks project?
+
+Kyloren: Exactly like you said — art isn't supposed to be liquid. What crypto has allowed, through these long-form projects and tokenization, is for art to become more liquid than it ever was in the traditional world. So when you look at one-of-ones, or smaller collections like *Waiting in Afton* that don't have liquidity, that's exactly how it's supposed to be. The more valuable pieces rarely change hands, and rarely come to market at all — only when a collector wants to sell and there's a buyer willing to pay at that moment. At auctions, things go unsold all the time. Some paintings don't see the light of day for thirty years, until someone's estate is settled or someone gets divorced.
+
+Crypto and blockchain allow a kind of tokenization that moves fast — we see things go 10x, 100x almost overnight — and that's its nature. But art isn't really supposed to work that way. So maybe one of the pluses of a long-form collection is exactly that liquidity: if you ever need funds, you can liquidate quickly, at least at the floor. List a relatively rare piece below floor and it'll likely move fast. That's a plus from a collector's perspective.
+
+But on the one-of-ones, if you have the ability to hold for a long time and you're thinking long term, that's historically where you get the highest value, if you look at parallels from the traditional art world. So I don't see the illiquidity as a negative at all for a long-term buyer.
+
+Take *Waiting in Afton* — I think it's one of the most amazing projects, and I only own one, which I regret. I believe it was actually the piece that caused the first real run on fx(hash). I bought mine for something like 1,000 tez; I think the collection minted out at maybe a hundredth of that. At the time it was the highest sale on the platform, and things kind of boomed from there as collectors kept coming in.
+
+What fx(hash) and Tezos need, generally, is more and more collectors coming in for the art, and I think that'll happen as knowledge spreads and people get more excited about this kind of work — and about the Tezos ecosystem overall. In the end, you're buying something denominated in tez, even if people convert to dollars back and forth. You need the Tezos ecosystem to stay strong, a place where artists and collectors love to create and come together. I believe that'll happen, but nobody knows for sure.
+
+I think both smaller collections and larger ones will do well — each will have its own market. Whether a super-rare piece from a long-form project ends up more valuable than a one-of-one from that same artist, nobody knows. I think they'll both find their own markets.
+
+Will: Taking the long view — some projects bled a lot this year, several of which you hold a lot of, some you're even the top holder of. Things like *Sequence* and *Repeater*, to name a couple, have dropped a lot, partly because of the price of tez, but also because their floors haven't kept pace. Do you see a future where those come back, or do you think they've started to become a bit forgotten as volume shifts to other projects?
+
+Kyloren: I can't predict the future, but I still love those projects and believe in them completely. *Repeater* is one of my favorites — not just because I'm biased as the top holder, but because of what the artist did with the palettes. It's genuinely unique; you don't see that anywhere else, and some of the shapes that came out of it are quite unusual.
+
+It actually launched the same day as *Garden, Monoliths* — everyone loved GM, obviously it didn't mint out that day. Back then fx(hash) still had breaks between minting windows, so I had to wait for the next one and then minted as many as I could, partly because I'd missed out on the artist's collection on Art Blocks and loved it so much. Once he launched on fx(hash), I wanted as much of it as I could get.
+
+I still love the art, and I think eventually people will recognize it — it was one of the early collections, and it doesn't have that large a supply, maybe 300 to 500 pieces. But there are so many great collections now, many of the newer ones I don't even own. They'll keep coming. What I hope eventually matters is which collections were both good *and* early — though obviously great collections still to come will have value too. But for anything to hold value, you need more and more collectors who love this kind of art. People have limited money to spend, so they can't own everything. I'm still holding my *Repeater*s.
+
+Another example is *Defrag* by Toxy — one of the OG collections that did very well. That raises the old debate about static versus dynamic art — art that's interactive or video-based, unlimited in duration like *Defrag*, versus static work. You really need to spend time with it to understand what it's about, not just glance at the thumbnail, so maybe it trades at a slight discount right now. But eventually, when we have screens in our homes made specifically for displaying art — as ubiquitous as our phones or laptops — interactive art like this could become more valuable. Toxy himself has been a pioneer in coded art, and this was his first collection on fx(hash). I just thought of it today scrolling through my earliest mints. I'll let the market do its thing — I'm just going to hold on to pieces I believe are great art.
+
+Will: Toxy's a great example of a project whose price has stayed pretty flat in tez terms. It had a couple of runs over the year, but nowhere near enough to keep pace in USD terms. Still super affordable, and one I look at all the time when I'm buying.
+
+Kyloren: One thing I forgot to mention — a lot of artists are minting a lot of projects these days, and I'm not someone who thinks collectors should dictate an artist's price or mechanism or how much they mint. Let artists use their own agency to mint as much as they want. Right now it's a small group of collectors, but eventually there will be thousands more who want access to this art, and a bigger collection size might serve that better. That said, it does affect prices in the short run.
+
+I've seen artists with more than 10, 20, even 25 collections, using fx(hash) as a place to experiment. In the end, quality shows. Even if an artist mints ten-plus projects, collectors will gravitate to their best work, and the rest won't hold as much value. That's true of everything — collectors buy what they like, not purely for speculation. Speculation is temporary; what lasts is great art — something new, something that looks cool, something with a story that resonates.
+
+That's what I look for. When fx(hash) first launched, everything was new and speculative, so I bought pretty much everything. Now I try to be more selective. Even with artists whose other projects I don't own — you mentioned I don't own *Ethereum Microcosm* by Ciphrd. I think I owned one at some point and sold it, but I like *RGB* much more, so that's where I've concentrated my collecting. You also mentioned I don't own *Uninhabitable* — I did own three or four at some point, but I love that artist's other collections and hold a lot of those instead. So in a lot of cases, I don't own everything from an artist — just the work I connect with.
+
+Trinity: Going through your overall collecting thesis — obviously collecting great art is a big part of it, but how much is also about collecting from artists you believe in? You're the number-one holder of some seemingly random items — for example, you might be the top collector of Chris McCully's *Bezier's Four Ways*, his first project. You're also the top holder of work by Lars Wander, who's had huge runs, and of Piter Pasma, people who've released a lot on Art Blocks. How do you weigh art versus artist — not in a controversial way, just from a collecting standpoint?
+
+Kyloren: It really depends on the artist. Typically if I like an artist, I try to mint from them. There are a lot of pieces I've collected from artists I didn't know at all — I just went by the art. Back then there often wasn't much on Twitter about an artist's background, so all you had to go on was the piece in front of you. A lot of my collection is like that. For example, I collected Rhys's *Twin Peaks*. I just thought it was so fresh and different — simplistic in a good way. I went deep on it without knowing much about the artist, and only afterward spoke to him and collected his other work in different styles. If I like an artist, I try to get deeper into their whole body of work.
+
+One other thing I look for is artists who minted well on Art Blocks and are also minting on fx(hash) — I try to collect from those artists even if I don't love every piece, purely from an investment thesis. But generally, Zancan is the big name — probably top three of the top five projects by sales on fx(hash). I collect his work on every platform, whether it's OBJKT or Ethereum, because I love the range of styles he works in. It depends on the artist and the art — if I like it, I go deep.
+
+Will: This might be a hard question, since you've collected so much of his work — you're the top holder of *Garden, Monoliths* and recently bought some 1-of-1s at auction for your ALFA Fund, which we can get into. Do you feel Zancan is one of the few artists exempted from the oversupply problem? The open edition he released with Verse, which coincided with those auctions, minted over 8,000 pieces from one long-form drop, and he has another event coming up soon — I don't know if it'll be a 1-of-1 or another long-form piece. He's everywhere — almost every major art fair has some Zancan piece. How do you feel about that as an invested collector?
+
+Kyloren: I've just always felt drawn to his art. I live in a fairly rural area in India and I've been surrounded by nature since I was born — I used to go on long walks with my granddad around our farmhouse. I love nature and having trees around, and I think a lot of his work, as opposed to others (not saying one is better than the other), brings a fresh perspective on nature while putting a twist on it. It's not trying to copy nature — it's doing that with code, in his own unique style, while blending in elements that aren't natural at all, like in *Monoliths*. I thought that was really cool, and clearly a lot of other people did too.
+
+Beyond the art itself, when you dig into his background — how he plots his work on paper, the depth he goes into for the finer details, the personalization he does for each collector, how kind he is as a person, how he collects art from other people himself, what he thinks about art and life in general — I've met him a few times since collecting his work, and I just want to get as much of it as possible because I think he's among the top digital artists of our age.
+
+His first drop on Verse was curated by Tyler Hobbs, one of the OGs of this space, who was also an oil painter before he started coding. That kind of artistic background was always there — I've seen some of his oil paintings, and they're brilliant. It's not necessary to be an artist in the traditional sense to succeed as a crypto artist, but in Zancan's case it clearly shows through in the work.
+
+As for the supply question — I think the market will do its thing. An open edition just lets demand find its own balance: as much demand as there is gets minted out. Collectors probably need a breather after that, which is why there wasn't much secondary action right away — that's normal for an open edition. Whoever wanted a piece minted one, so secondary activity naturally takes time to pick up. I actually minted quite a few myself on that drop, probably the second-highest count.
+
+It was a unique experiment — an open generative edition. I don't think that had really been done before, because the artist needs the confidence that the algorithm will keep delivering great outputs no matter how many mint. I think that was historic in its own way, and I think it'll continue to do well. Zancan's gotten to the place where, like Tyler or Dmitry, every piece he mints is thought through — not just experimenting, but really considering what's new and different. I think that works in his case, and probably in other artists' cases too. Time will tell, but I love the art, as you can tell.
+
+Will: Definitely can tell — interesting perspective on Zancan. I got some of the open edition myself; being able to buy with a credit card made it a little too easy, which, by the way, you can now also do on fx(hash).
+
+Kyloren: That's pretty cool.
+
+Will: Want to talk about the ALFA Fund, since we brought it up? Great name, by the way.
+
+Kyloren: Thank you. ALFA stands for "appreciation and love for art." I founded it because I'm passionate about the generative art community and about collecting. Over the last two years I've collected from, interacted with, and met hundreds of artists and collectors, and this community has no parallel. I believe it has a future both culturally and financially. But we're at a point where blockchain, wallets, and seed phrases aren't things most people understand — the friction to get in is massive. Friends of mine who aren't into crypto and NFTs think NFTs are just PFPs, just speculation, nothing else. Barely anyone outside the community has heard of Art Blocks or fx(hash) or this whole art movement.
+
+Can NFTs still have value beyond the speculative? For those of us already in the community, the answer is 100% yes. That's where the opportunity lies — before the big museums, the big galleries, and the wider interest arrives for this era of digital art, can we as collectors get together, get the best pieces, and own them collectively, while having fun in the process? A lot of artists we already know are excellent, but their prices are too much for a single person — if you wanted to buy a 1-of-1 from Tyler or Zancan, it'd be really difficult. So why not pool together, hold pieces long-term, and have fun doing it?
+
+That's obviously a hard thing to pull off in a bear market, but I figured it was also the best time to build. We're not in a hurry — we've already collected two pieces. One was the Zancan 1-of-1. The second was by Golid, from his latest 1-of-1 series, *Expanse Sea World*. I want to focus on acquiring art that individual people can't get on their own, so we can own it collectively, then do cool things alongside that — work with artists on editions, airdrops for token holders, and build an artist-and-collector community together.
+
+I'm not the first person to try this — a few funds are already doing similar things — but I want to do it in a web3-friendly way, so you don't need to go through a traditional investment fund. If you have Ethereum, you can just buy a token and automatically become a fractional owner of the fund's treasury. So far we've raised around 86 ETH, and I think with time it'll be a lot of fun to keep collecting together.
+
+I got into this because I was previously in ApeDAO — a collective that owned Bored Apes together, which was a fun journey. Members eventually voted to liquidate it. After that I was just collecting art on my own, and I realized now was the time to build something and own art together again.
+
+Will: How does this work exactly? You get a token representing fractional ownership, and if the value of the art goes up, in theory you could sell that token to someone else who thinks it represents higher value. Or is there also going to be some kind of disbursement down the line — five, ten, twenty years out — where if you liquidate pieces, the proceeds get distributed evenly among holders?
+
+Kyloren: Yeah, that's the idea eventually. Though in the short term, there's no guarantee the token's price on OpenSea or any marketplace will exactly reflect the value of the treasury — that value is somewhat subjective depending on the liquidity of the pieces you hold. It really comes down to what buyers are willing to pay. Technically, yes, as the value of the underlying art goes up, people wanting fractional ownership should be willing to pay more.
+
+But I'm looking at this from a long-term perspective, where it eventually transitions into a DAO: token holders vote on a council of members who make decisions, and if everyone eventually agrees — maybe five years down the line — that the art has become valuable enough to sell, the ETH gets dispersed proportionally to token ownership. We did exactly this with ApeDAO — holders were able to claim their share of the treasury after we sold everything.
+
+Will: I don't know that I'll ever have ETH to invest, but it's pretty appealing — both of us are so focused on Tezos that something like this could be a good entry point into the Ethereum side for someone who hasn't done as much research, at a fixed price.
+
+Kyloren: Exactly. And the fund will own pieces that will otherwise not be part of anything else. If you look at the Zancan 1 of 1, it's one of his most beautiful pieces, and nobody else will ever have it. This fund will be the sole owner of that piece. Eventually, if these artists do well, which I think they will, this will be the only way — at least for people who don't have the means to shell out $50K or $100K at a time — to be part of the journey of these artists and of the generative art space.
+
+Trinity: You've already given us some of the reasoning why you haven't collected some of the newer grail-ish projects on fx(hash) — timing, having a small baby, prices going up, things getting more competitive. Are there any newer projects you're waiting to get in on? And what will be your criteria for getting into them? Some examples include *September*, *Coronado*, the Melissa Wiederrecht projects.
+
+Kyloren: I would love to get in on these at some point. I really like *September*, but I haven't been able to. I was watching it and the price just kept going up and up, and then I get that remorse — I could have gotten in so early, and now I'd have to pay such a premium. It's a fallacy, but it's a mindset: you feel like you could have had it at a lower price, so now you resent paying more for the same thing. I fall for that like anyone else.
+
+You see things mint out, and then flippers immediately sell higher on the marketplace right after minting, and people readily buy it. There's a market for that, but I feel bad buying from flippers who've gassed out the drop or been online 24/7 just scalping. I'd rather that money go to the artists. So I prefer Dutch auctions or something similar, where things don't sell out instantly and are more fairly priced.
+
+It really is tough to keep track of all the drops, though. I was just checking the highest volume over the last seven days, and there's a project by Anna Lucia, *Action System*, which is pretty cool — a small 50-edition work that's done well. It actually minted out on my birthday, so I wasn't online for the Dutch auction. I like that collection — maybe at some point I'll get in on that, and on *September* too.
+
+Will: I'll send you a picture of my framed Coronados. Maybe that'll get you interested in that project.
+
+Kyloren: Yeah, tell me more about the Coronados. What's this all about?
+
+Will: Maybe a fun question as we wrap up: are there any projects you went really hard on, where you loved the art or the artist, and were surprised the market didn't agree?
+
+Kyloren: There are a few. One is the unicorns. I thought they were going to be like the PFPs of fx(hash), and it turned out they weren't. There was a frenzy in the beginning, and I collected a whole bunch — I don't regret it, I probably spent 1,000 tez on it or so, and I've hedged my bets, so I'm okay.
+
+There's another project called *Window* by Damien Seguin, one of the earliest projects. I really liked it, and it's way down from where it used to be. Sometimes that's availability bias — at the time you only had a few projects to choose from, and a lot of scams were being minted since fx(hash) was an open platform. So anything even remotely good, or by a known artist, was already pumping hard within a few months. As more art becomes available, the market naturally gravitates toward what's genuinely amazing — it's not really people thinking about it more, it's just the market doing its thing.
+
+There's another project I thought was pretty cute — I forget what it's called. I mentioned it on Toxy. One second.
+
+Will: Is it an animated piece? Are you thinking of *Vortex*?
+
+Kyloren: Yeah, *Vortex*. How did you read my mind?
+
+Will: We have a huge list in front of us of all the projects you're the number one collector of. You're the top collector on *Vortex*, and also *Abbreviated Curves* by Landlines, another animated piece where you're the top collector.
+
+Kyloren: I love Landlines — great art, but a lot of supply, so maybe that's what happened with the market there. I'm not saying the art is good or bad — I like it, which is why I collected so much of it. It's an animated piece too, right?
+
+Will: Yep.
+
+Kyloren: Another early project is *Loom* by Andreas Rau — again, a great artist, and I think it's stayed pretty stable around its original price. Great project, the texture really comes through, it doesn't look coded at all. As for ones that got the recognition they deserved, *Contrapuntos* has done really well, even though it's a large collection. Another one I like is by Machio — I forget the name.
+
+Will: *Shattered Moons*?
+
+Kyloren: Yeah, I like *Shattered Moons* as a collection, but I don't think a lot of action has happened on it recently.
+
+Trinity: You see it in drips and drabs, but it's definitely lower than we would've expected — even lower than when it first came out. It never did that immediate 10x.
+
+Kyloren: There was another one called *Monuments*.
+
+Trinity: Classic.
+
+Will: *Kingdom of U2*.
+
+Kyloren: Yeah, *Kingdom of U2* — I thought that was a pretty cool collection too. *Hash Cities* I love, because the moons change over time. Collections like that have done really well on Ethereum — *Gazers*, for example, has done really well recently. *Hash Cities* is beautiful to look at, but it also changes with time, and there's a special secret date when there are fireworks and explosions. What else am I a big owner of? Maybe we can talk about those.
+
+Will: *Contra*, definitely — you're the top holder with 27, which is insane.
+
+Trinity: *Gossamer* is a big one too, especially because Lars Wander is having what we might call a moment right now, with a bunch of his projects pumping to $1,000.
+
+Kyloren: Those used to be 2 tez.
+
+Trinity: What made you go in on them?
+
+Kyloren: If you look at my OBJKT profile, there are a couple of early works by Lars Wander that I own. So it was really about knowing what this artist was capable of, not the *Gossamer* algorithm itself. For that, I have to thank TheFunnyGuys, because he posted about Lars — he'd probably bought Lars's first work on Hic Et Nunc or OBJKT. I saw it on my Twitter feed, immediately loved it, and went in. Then Lars eventually dropped on fx(hash), and at that time nobody really knew who he was. I just knew he was capable of amazing art, so I thought, it's a great artist, it's $2, I'm going to buy as much as I can. It worked out, but it happened purely because of information asymmetry.
+
+That's exactly what I was discussing with TheFunnyGuys — what's so exciting about fx(hash) is the information asymmetry. Everyone on Ethereum had no idea this was going on. Eventually, when they find out and those collectors come in, this is going to be another Art Blocks, where a piece bought for one tez goes to 100 or even 1,000 times that, just because people didn't know about it.
+
+The piece I mentioned by Lars is called *Splat* — I think his second piece ever minted. Those were available for like a dollar, an insanely low amount. Eventually he launched on fx(hash), and I was excited because I already knew the artist. Like I said, so much was being minted at that time that if you knew the artist, you'd go for it. And it just sat there for a long time, because a lot of projects weren't minting out — people didn't like a lot of the outputs, opinion was divided. Some pieces were nice, some weren't, so why roll the dice on something you might not like? That was the mindset at the time. Same thing happened with *Repeater* — the groups I was part of were saying some outputs were nice, some weren't. I figured I'd just try to get something — maybe I'd get something nice, and I'd keep it either way.
+
+Will: Another one you're deep on is *Tych* by Rudxane — you're the number 2 collector there. But interestingly, you haven't gotten many of his more recent projects, which we're both big fans of on the podcast. One of the few newer projects you have gone in on is *Ichigo*, where you're the number 1 collector.
+
+Kyloren: That old habit doesn't go away — trying to go deep on artists you like. Rudxane is an amazing artist. I love *Tych* — I even got a print from him, which was beautiful, and it was kind of him to sign and send it to me. I own some of his other projects too, but somehow I haven't gotten into others — probably missed the mint. His latest, *Garabatos*, was really nice, and I missed it. I also like *Disrupt*, but I have very particular palettes I'm after, and the rare ones I've been looking for haven't come to market, or have been very expensive. I own one — the Hobbes palette.
+
+Will: Appropriate.
+
+Kyloren: Named after a type of Hobbes.
+
+Trinity: Full, incomplete control — 100%.
+
+Kyloren: Which one were you mentioning after that?
+
+Will: *Ichigo*, the new one from Studio Yorktown.
+
+Kyloren: I just like the art — it has references to Japanese culture and places, and I'm a big fan of Japan. I've traveled there four or five times. I thought the art was beautiful, still do, so I went deep and bought a lot of the ones I liked.
+
+Will: We've been going for almost an hour and a half now, so let's find a question or two to wrap up. Trinity, want to throw out a quick one?
+
+Trinity: Here's one we've been asking recently — if you could have us interview anybody within the general fx(hash) ecosystem, who should we add to our list?
+
+Kyloren: Did you already interview Artnome?
+
+Trinity: Not yet.
+
+Kyloren: You should, definitely. I met him at NFT NYC — he's a complete believer in crypto art, especially the Tezos platform. Great guy, with a big traditional art background too, and he knows a lot about generative art and its history. He's been a proponent from the start — he collected Manolos and other great crypto art back when nobody else was, when it was probably worth a few dollars. Very knowledgeable, doing good work in the community. It'd be great to have him on if he's able to.
+
+Trinity: I think we have a connection, so we'll go for it.
+
+Will: Great suggestion. One last quick one: how do you enjoy your collection? You've got such a large collection across so many chains, gone deep on so many projects — what's your favorite way to actually sit back and enjoy it? Do you even get the opportunity to?
+
+Kyloren: Up until now, I really didn't have the opportunity, but every once in a while on OBJKT, I get notifications when someone makes an offer on one of my artworks. I check out what's so appealing about the piece that someone wants to buy it, and sometimes I realize, oh wow, I own this — I actually forget how many amazing pieces I have.
+
+Another way is through prints. I try to order prints of artworks, but recently I've found there's not much wall space left. So eventually, maybe through ALFA, we might create a physical gallery where all these signed pieces from amazing artists can be shown and displayed for the world — a way to enjoy the art on printed paper rather than on a screen.
+
+For a long time I also used an app — I think it was called Deca — that puts a widget on your phone's home screen and shuffles through your collection, showing you a new piece every couple of hours. That's another way to randomly rediscover art in your own gallery, or in other people's. If something catches your eye, you can look into where it's from.
+
+The last way is through gifting. Zancan has a site where, if you own a piece — even an edition — you can order a signed print. Instead of ordering for myself, I started gifting these prints for birthdays and special occasions to friends who may or may not be into crypto or NFTs, and having them delivered as an art print. Almost everyone reacts with, "Wow, what is this? Tell me more." And most of them also ask, "Who the hell is Kylo?" — they don't know my collector name. It's been really fun sending prints to people who know nothing about digital art and explaining what makes it special. I hope more artists offer prints directly, both to support their work and to let people enjoy it on their walls.
+
+Will: We're big into printing here too, so I love that answer. Lots of great ways for people to enjoy their art digitally and physically. I think that's a good place to end — but Kylo, is there anything else you want to say? Any points you didn't get to make?
+
+Trinity: Final words of wisdom?
+
+Kyloren: I think we've pretty much covered everything. Maybe one last thing: I love that the community has come together to appreciate more women artists and coders. There's always been a bias toward men in the world generally — I don't have data on whether that's especially true in the traditional art world, but crypto in particular is full of guys, maybe because it's such a risky market; you see similar statistics in stock markets and elsewhere. I've really liked seeing more women artists earn their rightful place in top collections, both on fx(hash) and elsewhere, and I hope that continues and encourages more women into coding.
+
+In the end it should be a level playing field — over a large enough sample, women artists should be just as prominent as male artists, roughly 50/50. That's clearly not the case today if you look at the statistics, so it's a good direction we're heading in. Ultimately the art speaks for itself and wins out, but I'm happy this focus has emerged recently.
+
+Will: I think that's a focus we're starting to see more of, at least in our corner of the NFT ecosystem on fx(hash). There's actually a team that tracks stats like that for traditional art — I'll share it with you in Discord.
+
+Kyloren: Okay.
+
+Will: They put out an annual report called the Burns Halpern Report, and the data supports your intuition — women are underrepresented at auction and in museums relative to what an even distribution would look like. I'll send that to you and maybe we'll put it in the show notes too. Very interesting stuff.
+
+Kyloren: Nice.
+
+Will: Well, Kylo, it's been awesome having you on — amazing to hear your perspective as one of the OG collectors on the platform. Always a pleasure to talk to someone like yourself, and very cool to see everything you're doing in this space. Appreciate your time, and I hope you had fun.
+
+Kyloren: I had a great time talking to you guys, thank you so much for having me. And this podcast you're doing really helps the generative art space — thank you for what you're doing, guys.
+
+Trinity: Thank you. It's been a pleasure.
+
+Will: Thank you. All right, that was Kylo — hope everyone enjoyed it, what a wonderful interview. Thanks again, Kylo, for taking the time to come on. That's it for this one. We'll see you all soon. Later.
+
+Kyloren: Later.

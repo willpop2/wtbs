@@ -1,0 +1,11 @@
+Guest: Jimmy Griffith, who goes by the handle "remnynt" (also styled Remnynt).
+A systems / generative artist from North Carolina (b. 1985, Charlotte, NC). Holds a
+BS in Computer Science from UNC Chapel Hill. Previously worked in the games industry,
+where he co-developed the award-winning game "EverWing" (2016).
+
+His generative art works include: "vibes" (2021) and "the reliquary" (2022).
+Recent projects: "Architectonica" and "Proscenium" (released on Art Blocks, late 2024).
+
+The interviewer/host speaks first (Speaker A); Jimmy is the guest (Speaker B).
+Rename "Speaker A" to the host and "Speaker B" to "Jimmy" only if their names are
+clearly stated in the audio; otherwise leave the Speaker A / Speaker B labels as-is.

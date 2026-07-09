@@ -1,0 +1,431 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, the biggest generative art podcast out there — which you might have heard on another podcast, maybe. I'm not sure how well-researched that stat was, but we're joined today in a very special interview episode with Zeneca and Jaime from the 2 Bored Apes Show. We're doing a bit of a podcast crossover. How's it going, everyone?
+
+Jaime: Going well. Thanks for having us.
+
+Zeneca: Thank you. Maybe we should compare numbers after the episode, because we do a lot of generative art talk too and might be able to vie for the throne. Who knows?
+
+Will: I think you guys crush us for sure.
+
+Trinity: For now.
+
+Jaime: I'm not so sure about that. People think we get a lot of views — we have a very loyal listener base, but it's not massive.
+
+Zeneca: NFTs are still pretty niche in the podcasting space, unfortunately.
+
+Trinity: People love apes, though.
+
+Zeneca: They do. But our podcast is trending more and more toward generative art stuff and less toward "here's the newest profile picture." That got a little tiresome, and it's just not as exciting these days.
+
+Jaime: We also had an inflection point when I sold my ape.
+
+Zeneca: Yeah, and the title became false. That was a big change.
+
+Will: I was wondering if it was out of bounds to ask about that — I haven't heard the episode where you discussed it, but I'm curious what led to that decision.
+
+Zeneca: I'd basically been listing mine for a ridiculous multiple of the floor for a while, and I was fine if it sold. Then LooksRare came along with listing rewards, but to qualify you had to list relatively close to the floor. I figured nobody would pay 10% over floor for my clearly floor-level ape, so I just kept listing it to collect like $17 a day in rewards. Then one day somebody bought it, and I was like, "Oh, I guess I don't have my ape anymore."
+
+Trinity: You could always get an fx(hash) ape.
+
+Will: Oh yeah, for a fraction of the cost.
+
+Zeneca: There are a lot of options.
+
+Will: I'd bet most people listening know who both of you are, but as is tradition on our show, could you each give a brief introduction — how you got into crypto and NFTs, and your path from PFPs to gen art? Then we'll jump into some fun topics.
+
+Zeneca: You want to go first, Jaime? I got into NFTs because of you, so it's easy for me to go second.
+
+Jaime: Our stories are pretty similar — we were both professional online poker players, and in that world there was a lot of curiosity about and early acceptance of crypto. I got some Bitcoin when it was around $700; anyone who knows the charts can figure out what year that was. Late 2020 I started hearing about NFTs and thought, "Oh, my poor friend is getting scammed, buying all these right-clickable picture files." Eventually I read an article that changed my mind, and by around March of last year I actually got into it.
+
+I didn't start with profile pictures — my first ever NFT was minting *Stipple Sunset*, an Art Blocks project. But for most of last year, profile pictures were so popular that I did quite a bit of that too. Jaime was in the same group chat where I first heard about NFTs — my friend was into them before me, and I was sure he was getting scammed. Once I decided it was legitimate, instead of just talking about it to Jaime, I invited him into the chat too. And the trajectory of my life changed. Crazy, but basically the same background — professional poker player. I didn't hear about NFTs in late 2020; it wasn't until Zeneca asked me if I knew what a Hashmask was. I went and looked at the chat log — it was actually "Hashmark," a popular project from early 2021 — and I had no idea what that was. A couple days later he asked if I knew what an NFT was. No idea. He explained it, and I thought, "Oh, your poor friends, they're getting scammed. What is this Ponzi scheme — a thousand dollars for a standard one, but you can pay five thousand for a rare one and level up?" It sounded very scammy.
+
+These are zany characters known for wasting money on silly things, but also known to be very intelligent people who know what's up. After Zeneca read that article and sent it to me, I read it and started to see the power of the technology and jumped in. My first NFT, unfortunately, isn't as cool a story — but my third NFT was an Art Blocks piece. Pretty early on, thanks to someone in that group chat, we became aware of Art Blocks and thought it was very cool. Then as last year went on, I dabbled in a lot of PFP stuff and traded for a while, but always kept coming back to generative art — because it's just better. It just is.
+
+Zeneca: It's such a great product-market fit for NFTs. It's the most intuitive use case, and it uplifts both NFTs and generative art at the same time, because generative art never really had much of a market before this. What's cool about NFTs elsewhere is still mostly theoretical — the gaming stuff, the IP stuff, "maybe this will actually happen" someday. But generative art is happening right now.
+
+Will: We're here for the generative art for sure — that's the entire premise of our show. Fair's fair, so let's briefly say how we got in.
+
+Trinity: In which case, you have to go first.
+
+Will: I started dabbling in crypto during COVID, after hearing about it for years — basically since Bitcoin was created — but never getting into it. Bored, stuck at home, I started researching, going down the YouTube hole, finding a ton of bad content — most content on YouTube is not good, but there's a small amount that's good — and same with podcasts. I found one or two I thought were legit and started doing some Bitcoin, Ethereum, and altcoin shenanigans, but ignored NFTs because I didn't have that person in my group chat telling me these things might not be a scam.
+
+It wasn't until I stumbled into Tezos, saw Hic Et Nunc and eventually fx(hash), that it clicked. First, the entry point was really cheap, so if it went away, fine — you're only out $20 or $40. But also there's intrinsic value in it just being art. That's what I've always liked about gen art: the roadmap's baked in, the roadmap's done. Here's the piece — you've got it, you're already there. If you like it, you like it, and if other people like it too, the value probably goes up, but you're not banking on some future promise. And then, Trinity, I got you in through osmosis, basically — I just kept being annoying about it.
+
+Trinity: You talked to me about it enough times that I finally said okay, I'll do this thing. That was right around when fx(hash) had been around for three or four weeks — late November 2021. I'd held some crypto over the years, but never anything I actively traded. It's more like: here's an opportunity, I'll throw some money at it and sit.
+
+Zeneca: That's how I mostly did it too — this makes sense, so I bought some and held.
+
+Trinity: Once you start paying attention, though — I'm the type of person who, if I lock onto something, I lock on. You should've seen me during fantasy football season back when that was my thing; it was very bad for my workday. There's no end to the information you can absorb. I got into fx(hash), and now, almost a year later, it's still my obsessive life — making content, doing the show. It's become a big part of my social circle in some respects. So I guess the fire is there.
+
+Will: It's all about the fire.
+
+Trinity: It's also interesting that you both come from a competitive poker background. Will has played quite a bit of poker; me, not so much, because of the fear of not doing the objectively correct thing when there is a best play and you can't quite optimize for it.
+
+Zeneca: If you play poker for two hours, even as an expert, you'll for sure make mistakes. Even the best player can't play perfectly.
+
+Jaime: And even if you do play perfectly, you can still lose.
+
+Trinity: Exactly. But you know, Will and I come from a collectibles background too, playing *Magic: The Gathering* at an aspiringly professional level. It's really about min-maxing, while also having this huge swath of cards and styles you can collect and trade up. It's similar to the NFT space in that particular way — not so much the gen art space, but if you think of it as a more liquid kind of collectible than traditional art, there's a ton of overlap. Patterns of experience we're all used to, whether it's Pokémon cards, Yu-Gi-Oh cards, Magic cards, Pogs, who knows.
+
+Zeneca: I did Pogs, Magic cards, and Pokémon cards — never got into Yu-Gi-Oh, but I hit those other three. Magic the most significantly. Pogs was a third-grade thing for a couple weeks, but I played Magic for years — every Friday night at a local shop, for basically the entirety of my sixth and seventh grade social life.
+
+Trinity: A really important part of my growth as a human. I'd say that means I was primarily socialized by a bunch of teenage boys, which speaks a lot to my character and personality these days, I'm sure.
+
+Zeneca: Actually, I just remembered my AOL screen name back in the day was Giant Growth, because I was looking around for something to use and I had a Giant Growth card sitting on the table. Plus three, plus three.
+
+Will: The poker thing is something we've popularized a bit in the fx(hash) space through our show, because we often talk about stack management — how much tez you have in your wallet, what you can afford to put in. And hearing your story about the ape going for 10% above floor — one thing we talk about a lot is "always be listed." Even if you have a piece you want to hold, put it up at an aspirational price, one you'd be comfortable with, because you never know when someone's going to come along and buy it. That's how you perpetuate your collecting without always having to bring in new fiat — building a collection in a cost-neutral way. be listed because once the run happens, you're too late. You have to be listed to have exposure to the run. Otherwise, you're just going to become an undercutter after the fact as things cool down again.
+
+Zeneca: We get a lot of people on our podcast asking about that kind of thing, sometimes in Twitter Q&A episodes, and I like to preface by saying the answer varies enormously. If you have the ability to bring in new fiat on a semi-regular basis, that's one way you can behave. But if you have a fixed amount of money in crypto with no real ability to add more, you need to be more cognizant of the fact that if you want something new, you have to sell something old. You have to think ahead in that sense.
+
+Trinity: I wonder if that's something that's more pronounced in the Tezos community than the ETH community, just because the low cost on Tezos lets people become digital hoarders. I don't know exactly how many tokens I have in my collection right now, but I'd guess upwards of 1,000. I imagine that's much harder to do in the ETH community, at least at a cost-neutral or low-cost price point, without constantly getting lucky or being very strategic. If you're on the more strategic, speculative side, I'd assume you're listing and selling.
+
+Zeneca: The important thing with gas prices is the ratio to the actual price of the NFTs. The smallest scale at which you can do this on fx(hash) is so much smaller than on ETH, because if you're selling an NFT on Ethereum for anything less than $100 equivalent, you're paying a huge percentage of that price in gas. Do that repeatedly and it eats into everything.
+
+Trinity: Do you think that's a contributing factor to where we're seeing generative artists go? We often talk about this big culture on Tezos.
+
+Zeneca: The art scene on Tezos was happening before I was even really aware of it. It seems like the financial thing may have started it, but at this point it's very cultural — that's what's happening on Tezos, so that's where people go, that's what people look at. It's gone beyond the economic reasons that probably kicked it off. The same logic could apply to Polygon, Ethereum's layer 2, where gas prices are also negligible, but there just isn't an art scene there. So I think it's gone beyond that now.
+
+Jaime: It's very much a cultural thing. At the beginning it was the low transaction fees and the fact that it was a green chain — a lot of people weren't happy with the environmental impact of ETH mainnet. That's basically gone away since the Merge. The price difference is still there, but gas prices are far lower now than they were this time last year, when it was $100 to $200 to buy an NFT. Now it's $3 to $15, which is still an order of magnitude or two higher than Tezos, but not four or five orders of magnitude higher. So it's gotten better. But yeah, there's now a culture where, to me, Tezos is just known as the art blockchain. I have no idea what else happens on Tezos — I've heard something about gaming, a couple of projects launched there. But in my mind, when I talk about generative art and collecting, I generally recommend people check out Tezos first because of the low price point. $50 can get you a very long way, whereas on ETH, maybe you get two or three NFTs for that if you're lucky.
+
+Will: I've got a bunch of topics written down, so let me go with whichever fits what we're discussing. One thing we hear a lot anecdotally from larger collectors — we're in TENDER, actually, and I think you're in TENDER too, Zeneca. I don't know, Jaime, if you got a pass or not, but—
+
+Zeneca: I'm not.
+
+Will: There's a lot of people in that group who trade on ETH and run in ETH circles, and they express a lot of skepticism about Tezos — that the chain risk is too high. Obviously both of you are into fx(hash), generative art, and Tezos, and aren't afraid of it, but how much does chain risk factor into your decision-making? Would it give you pause to take a good chunk of ETH holdings and convert it into, say, Zancans on Tezos?
+
+Jaime: It is a significant thing in my mind. It's not necessarily 100% the chain risk — it's chain risk plus longevity, I guess is a good way of putting it. Take Art Blocks, or GM Studios, as an example: they have a very high bar for what an artist needs to do to release there. The one I keep coming back to is that the art needs to be resolution-agnostic, so that in 5, 10, 20 years it still looks good on whatever high-resolution displays we have by then. As far as I'm aware, that's not a requirement on fx(hash). The code might not produce the exact same output in 5 or 10 years — maybe the artist needs to update it, which is a little less permanent.
+
+The chain risk is there too. I certainly have less confidence in Tezos as a layer 1 than in Ethereum, and in 10 years I could see a world where Ethereum is around and Tezos isn't, whereas the reverse seems very unlikely to me. But if we ever got to that point, I imagine there'd be an avenue for at least the high-value Tezos NFTs — maybe a lot more — to be bridged or reminted on Ethereum, as long as the community, artists, and collectors agree: yes, this is the same thing, we're just moving it to Ethereum because it'll survive there forever. I think that would carry along the large majority of the value.
+
+So I attribute maybe a 20-30% premium to ETH NFTs — the exact same artist releasing the exact same piece on ETH, especially on a platform where the code is resolution-agnostic and on-chain forever. I place a premium on that, but not so much that I'm unwilling to collect high-value NFTs on Tezos. There are phenomenal artists releasing phenomenal pieces there — it's still beautiful art by incredible artists. That's how I think about it. What about you, Zeneca?
+
+Zeneca: I'm in a pretty similar ballpark. Will, the example you gave was Zancan — we both have pieces by him, so it's not as though we're afraid of collecting something like that on Tezos because of chain risk. It's funny, for a while I was very into crypto broadly and pondering which chain is best, how many chains will exist in the future, and what niches they'll fall into. But since getting into NFTs, I've focused so much more narrowly that I feel like I have a much less educated opinion on that now.
+
+It still seems to me that it doesn't make sense for only one chain to have all the activity in the future, and that Ethereum should be the biggest of the options out there right now — at least last time I checked deeply. But as far as moving NFTs from one chain to another, that already exists — Emblem Vault, Rare Pepes, stuff that was originally on Bitcoin sidechains like Namecoin, and is now on Ethereum because that's where the liquidity is. So I don't think the financial risk works the way people assume: the more valuable an NFT is, the less risk there actually is that it gets left behind, because it becomes more likely to be ported over to a surviving chain — theoretically, maybe ETH.
+
+I have a bit more to say on this, though. There's also the difference in how on-chain the art actually is. You have stuff with off-chain dependencies, stuff that's fully on-chain, stuff on IPFS versus stuff hosted on a centralized server. That distinction feels more important to me for how much longevity and stability an NFT will have — whether it still exists as-is in 5 years, 50 years — than which chain it happens to be stored on.
+
+Will: That question — where the file actually lives, what the NFT even is once you account for IPFS pinning — feels like such a big question mark. Ironically, it's the smallest question mark for Art Blocks, because my understanding is that almost the entire project is on-chain; that's one of the restrictive aspects of publishing there. Whereas with fx(hash), they pin to IPFS, and file size isn't as much of an issue — they still cap you at 30 megabytes, but you can do a lot with 30 megabytes in generative art. I don't have a strong opinion on what's going to happen with the IPFS side of things. Have you heard of Artnome?
+
+Zeneca: Yeah — the thing where you basically download all your NFTs, or the image files associated with them.
+
+Will: Right. Honestly, I don't know if I fully understand what that does. We'd love to have him on sometime to talk about what it really means to back up your NFT, and speak more knowledgeably about all these issues with IPFS and pinning, on-chain versus not. So, Zeneca, are you saying you have an underlying thesis that on-chain dedication will ultimately be one of the most important things for generative art, over these other options?
+
+Zeneca: I wouldn't put it quite that strongly, but within the discussion of whether a Tezos NFT is less safe than an Ethereum NFT, that question goes hand in hand with: what chain is the art stored on, and what exactly is in the code that defines this NFT? Because ultimately, especially with generative art, we're talking about the art itself — where is it, and where is it generated?
+
+Art Blocks isn't perfect either, because they still have a JavaScript dependency. If JavaScript somehow stops being supported by next-generation technology, that's an issue. So what Artnome is doing is less about preserving the financial aspect of your art and purely about preserving the art for the art's sake — so you can still look at it in the future even if the IPFS link goes down, or if JavaScript isn't supported on newer devices. It is a little unsettling to realize that with these services, you're not really saving the NFT itself, you're saving the artwork associated with it.
+
+I read the article where he introduced the idea — he had an early xCopy piece on some pre-OpenSea marketplace that hosted all its files on a centralized server. The marketplace went down, and his xCopy effectively no longer existed. That's the kind of thing that makes you take this seriously — we all know what xCopy means now, and to have owned one that early, only to have it vanish because the art itself was stored on a centralized server, is something we all need to think harder about.
+
+Will: Us more than you two, probably — we need to start researching this more. Because in my heart, I feel like for Tezos, and for these underlying issues of where the art actually lives and how it's hosted, the community will ultimately come together and find solutions. Individual artists will, like you said, remint or find some other way to host it.
+
+Trinity: I think we already see a little bit of pseudo-de-risking today with some artists — MJLindow, for example, or Mark Knol — hosting everything on their own websites as well. Part of it is getting the highest resolution files you can possibly get. It's still not resolution-agnostic, and it can still be a giant file size, but who knows where we'll be in 10, 15, 100 years. If all of this is still relevant in 100 years, we'll know some very smart people made some very smart decisions.
+
+But that brings up one of the other topics we have to talk about. There's the discussion of chain, sometimes the discussion of market, but when I think about gen art, what comes to mind is that it's not just about collecting work. Obviously there's the "oh yes, I'm getting a *Fidenza*" side of it, but you're also collecting an artist — something that comes from a human being. Within the traditional art community that carries a ton of provenance. And that speaks to your idea that these things can just move cross-chain because they have both intrinsic and extrinsic value. So what's your collecting philosophy — when it comes to the artist, the art, the chain, and the cross-collaboration between all of it?
+
+Jaime: I don't know if it was a tweet or a post in the Art Blocks Discord, but Dmitry Chernyak — famous for *Ringers* and other things — made a point last year about how, specifically in generative art, people say "I collected a *Fidenza*," or "Do you have a *Fidenza*? Do you have *Ringers*? Do you have a *Squiggle*?" Whereas in the traditional art world it's "Do you have a Hirst? A Koons? A Warhol?" — the artist's name is what gets referenced.
+
+I think we're starting to see that transition now. XCOPY is a great example — people will say "Do you have an XCOPY?" or "I have an XCOPY" rather than naming the specific piece. As time goes on, I think the more prolific artists will get referred to by their name rather than their collections, though obviously the collections still matter a lot. It's just interesting in generative art because one artist might have a collection of tens, hundreds, sometimes thousands of works, versus the traditional world, where it's usually not editions like that.
+
+Personally I place a lot of value in both, but especially in the artist — if you like one collection from an artist, you'll very likely like their other works too. Whether they release on fx(hash) or Art Blocks, on Ethereum or Tezos — Zancan has released on both, William Mapan too, and there are at least 50 more — I look at the art and the artist together. When you're deciding what to collect, especially on fx(hash), it can be overwhelming to sort through everything. But if it's an artist you already know and appreciate, you're much more likely to check it out and like it than something you find scrolling at random.
+
+Zeneca: I think this is actually a place where generative art is very different from regular art. To me, saying "I own a Monet" or "I own an XCOPY" makes a lot more sense than saying "I own a Hobbes," because of how intrinsically related all the *Fidenzas* are. Generative artists sometimes say the code itself is the art — I don't fully agree, but there's something to it. All those pieces came from the exact same thing, and it's inherently networked in a way that makes it make more sense to talk about the artist, since every piece is, in some sense, a completely different work coming from one source.
+
+A relevant comparison: Monet has a lot of haystack paintings, done at different times of year and day, so the light is different in each. But there were only ever, whatever the number is, a dozen or so — and they're very different from something produced in a non-human way, which is what generative art is. Monet painted one on one day and a different one on another day; he was a different person each time.
+
+Whereas code is code. Even though you minted *Fidenza* #7 and someone else minted #58 a couple minutes apart, it went through the exact same code — the only difference was the transaction hash going in, which produced a completely different piece.
+
+Something else that irks me a little: on Twitter you'll see people talking about an artist's edition pieces — XCOPY is a good example — saying "Can you believe this one is trading for such and such, when this other one with an eighth of the supply is only trading for twice as much?" They're purely talking about it from a financial angle and from the artist's name, not asking whether we actually like that art better.
+
+Are we not valuing the art on its own merits anymore — is it just about supply and the name attached to it? If XCOPY put a single pixel in the middle of the screen, obviously, given what the art market is, that would still command—
+
+Jaime: Shut up and take my money.
+
+Zeneca: —a premium, certainly more than if I did the same thing. But I think it's a dangerous path to only look at the artist's name and the size of the supply, because then we're not talking about art anymore — we're talking about some weird commerce that's attached to art.
+
+Trinity: We already see that within generative art, right down to the feature level. *Garden, Monoliths* by Zancan is a great example — people will pay a huge premium for a pink one over one that's more black-and-white sketches. So you can go even further than "I have a Zancan" or "I have a *Garden, Monoliths*" — it's "I have a pink *Garden, Monoliths*." It's a great parallel to Monet's *Haystacks* versus the *Water Lilies*.
+
+Will: The whole trait thing, which gen art maybe inherited a bit from the PFP space, is odd sometimes. Is pink maybe the rarest *GM*? Sure. But does that mean it's the most aesthetically pleasing one?
+
+Trinity: Maybe not to you.
+
+Will: Right, so there's a subjectivity to it. But because of the baked-in scarcity that comes with traits, sometimes you just get lucky — you mint one, you don't even think it looks that good, but it's a rare palette, so you list it at 3x floor, and it sells because a completionist or a whale wants one of the scarcer ones among the three or four they're collecting. That element is a little confounding, because there's the speculative, financial side that's endemic to NFTs, but we're also all here because we think the art is cool and we're intrigued by the culture around it.
+
+Following up on that — because gen art is code-based, artists can sometimes produce a lot. Even good artists — there have been instances, especially on fx(hash), of an artist releasing a project and then a V2, a V3, a V4, working off the same codebase, creating different pieces but still very much within the same family. And you see the performance, financially, do a lot worse on those, even when the artist is really good. So how do you feel about that dilution — this almost infinite-supply problem, where you can always make more, especially with something code-based? It can cut against the artist's name and recognition — make too much, and you get punished. You have to hit a happy medium: creating good work consistently, but not so much that people start to devalue it or wonder how hard you're really working on it. It's a very fine line to walk.
+
+Zeneca: People in this space love to talk about how many pieces Picasso or Andy Warhol produced in a lifetime, to compare it to this. But it's so different how generative art is created. Say, for instance, it takes a generative artist the same amount of time to create a master algorithm as it took a traditional artist to create a master painting — sometimes shorter, sometimes longer. Either way, if the algorithm is diverse enough, you get a thousand different individual pieces of art from the same amount of labor it took the traditional artist to make one piece. And if the algorithm is wide enough, and the artist and the audience want it, you can get 10,000 pieces for that same amount of labor.
+
+So there's a real theoretical concern, from a supply-and-demand standpoint, that these artists could flood the market with supply in a way a traditional artist simply couldn't. Someone like Warhol did a lot of prints and editions, but the scale isn't the same as what's possible now — and that's still editions of the same piece, not unique artworks generated from within the same algorithm. It ought to be less costly on the supply side in theory, because these are still new works, but you can stretch a single algorithm out to a ridiculous extent, one you made a long time ago — whereas Monet can't keep cranking out haystacks. He's done. That's all there will ever be of those, minus whatever AI versions we can all generate now.
+
+There's something to how explosively generative art can scale, and it's something I think about with these prolific, successful artists cranking out a new project every month and a half or every three months. It's a little unsettling how much supply there will eventually be, because there's only so much money out there to collect this niche area of art.
+
+Jaime: I agree with all of that. It's fundamentally different from creating art with a traditional canvas and paint, and it's a fascinating topic. As an artist, it's something to put a lot of thought into, and every artist has their own approach. There's a tension between short-term and long-term thinking—trying to thread the needle so you don't oversupply the market and devalue your work to the point where there isn't enough capital willing to collect it. Some artists don't care; they just want to create as much as they want and put it out there. But I think for most, there's a balance: they want to create as much great art as they can while also selling some of it, having people collect it, and seeing its value go up. Almost no one is immune to the good feelings of "number go up."
+
+There's an interesting inflection point where, as an artist gets more popular, releasing massive editions actually becomes a good thing for them. XCOPY is a great example—a lot of his work is extremely expensive, and then he did an open edition. Suddenly there's a much lower price point where you can own something he's created. Now he probably has far more fans, collectors, advocates, and holders than when it was a niche group of 20, 50, 100, 200 collectors. In my mind, the strategy for most artists should be: lower supply first, build up a core base of collectors, and once you've established a name for yourself and people who appreciate your work, then release much larger supplies and editions.
+
+Will: I don't want to open up this conversation too much, but when *QQL* was released, one of the things that ultimately bummed me out about it was that it could have been a great opportunity to let a lot of people collect at a much cheaper level and own a piece from Tyler—it was clear from Twitter and social media what that algorithm and tool was capable of producing. Ultimately the decision was made to restrict supply. I'm not faulting that decision necessarily—artists have to think about themselves, their careers, and their previous collectors—but the full extent of the algorithm was never going to be explored across the number of passes that were minted.
+
+One of my personal long-term theses is that I'm looking for people doing 1,000+ editions, really putting work into code that can survive a large number of outputs without hitting sameness—not necessarily making another *Fidenza*, but code robust enough that you don't get two pieces that look too close together. So much care and attention goes into that. To me, *QQL* felt like a slight missed opportunity—totally understandable, but playing off what you were saying about XCOPY: they could have easily done 10,000, or gone uncapped. Mint for 48 hours, close it after that, let anyone who wants one get it for an ETH or half an ETH each. Then we'd see a lot more *QQLs* out there.
+
+Zeneca: That would be interesting. A couple things on that. First, even though you can't do that, if we're just talking about the art itself, the algorithm is open and anyone who wants to generate outputs can do it for $0. There's unlimited supply for anyone who wants it, without restriction.
+
+The other thing—I see this discussion on Twitter a lot, about how something is elitist because of its price, which is true. 17 ETH or whatever is crazy. But the argument is usually "it should be 1 ETH instead," not realizing that instead of excluding 99.9% of the global population, you'd just be excluding 99.4% instead. You're still in your bubble where that difference feels huge to you, but it's still way out of range for almost everybody.
+
+Will: Inclusion ends at me, apparently.
+
+Zeneca: With something like a Tyler Hobbs piece, it's going to be out of reach for almost every human on Earth regardless—you have to draw the line somewhere.
+
+It is interesting, though—we talked a bit before the episode about how *QQL* is a different kind of thing. Traditionally in generative art, the artist creates a lot of work, picks their favorites, and sells those. Then, with the synchronicity between blockchain and generative art, we got what's called long-form generative art: you put the algorithm up, a fixed number get made, and all of them get minted. In that model, you need an algorithm where even the "ugliest" output is acceptable, because there's no curation happening afterward.
+
+*QQL* is a weird hybrid: the algorithm doesn't have to produce nice-looking art most of the time, because those outputs aren't the ones that get minted into commodified art—but instead of the artist doing the picking, the community does. It'd be interesting to know how much thought went into capping it at 1,000, because that algorithm clearly has insane diversity. The output space isn't dense, in the sense that there are so many possibilities—because you don't have to worry about the ugly ones being minted. It does seem like, especially in the smaller circles, you could generate almost any image imaginable if you searched the output space wide enough. So it really did have the potential to have been a much larger collection while still maintaining diverse, interesting quality.
+
+Trinity: A couple of things come to mind. One is the idea of innovation within the space. Generative art has been around a long time—it's been the bread and butter of so many creatives who innovated in it purely out of love and passion. Over the last two years, as we've seen more commodification and speculation, and that transition from curated outputs to "what else can we do with this, leveraging the blockchain"—I think *QQL* represents the next big step: thinking outside the box to create new forms of engagement between generative art, blockchain, and the humans involved, whether collectors, customers, or marketers.
+
+Now that there's real attention on the space, it'll be interesting to see where we continue to innovate—what are the future forms of interaction between artist and collector? We have this collective hive mind growing, especially around fx(hash): people who've only been creating in the space a short time, dedicated coders opening up their creative side who might not have even heard of this a year ago. We're getting this influx of brainpower. I don't have a specific question about it—just an observation.
+
+Zeneca: It reminds me of something Snowfro talked about a while back—potential applications for generative art beyond the screen. For instance, an algorithm outputting circular pieces of art could become a collection of 100 generated tables: literal furniture, where the tabletop is each one piece from the collection. That's an interesting way to bring generative art into the real world without just being more prints. One thing I think a lot of people in the NFT space love is that it's a way to collect art without flooding your physical space with more stuff you don't know what to do with. NFTs solve that problem. But applying generative algorithms to design—furniture, objects, things beyond traditional "art"—is an interesting direction.
+
+Will: We talked to a generative artist earlier this week who's working on sculptures that will be generated. He's still figuring out the details of how they'll actually be manufactured and distributed, but he has an idea there.
+
+Zeneca: That's interesting—you could do that with 3D printing. I'm pretty sure Snowfro is already looking into sculptures too.
+
+Jaime: His *Grails* piece for the Proof *Grails* collection—I believe he's gotten into sculpting and wants to merge generative art with sculpture. From what I understand, his thinking is that everything could be generative: sculptures, t-shirts, shoes, tables, furniture—
+
+Zeneca: Tables and furniture.
+
+Jaime: Houses, one day.
+
+Zeneca: Shirts, clothing.
+
+Jaime: Jamie never lets anything go.
+
+Will: It's okay, I can edit that out. I'm sure you're both aware we're in a bit of a bear market right now.
+
+Zeneca: No, I hadn't even noticed.
+
+Will: It was a little slower to hit us on the fx(hash) side because we had this huge boom in May—I'm not sure if that was across all gen art or just fx(hash) specifically. A lot of projects are still doing well and maintaining their value in USD there, which is nice to see, all things considered.
+
+I want to ask about how your thinking has changed over the past year as the space has cooled off in both PFPs and gen art. Where do you see the future of both categories? And a related question: with gen art specifically, do you think we'll keep seeing consolidation around just a few names and projects, or is there long-term room for a fatter middle of successful creators? We hear a lot that outside of the grail projects, everything's just going to go to zero. My gut says no, but I'm curious how you feel about that.
+
+Jaime: I do think we're going to see consolidation, and the grail projects are very likely to continue to do well. But there's a lot of room for middle projects to become grail projects, or for new projects to launch and find a collector base that just loves them. So I think it's less likely that only 0.001% end up in that grail category. I think we'll have a fatter middle, especially for generative art. PFPs are a different beast. But with generative art, you really only need a couple hundred people who really like that collection and that artist to support a very healthy valuation for the work. Sometimes you only need ten people if it's a really small collection.
+
+If it's a 500-piece collection, a couple hundred people might own two or three each. What we generally see with generative art is that floors are very thin, because a lot of the collection is held by true collectors, people who like the art for the art's sake, especially as time goes on. Right after mint there's a lot of speculating and flipping, but if you look at projects from Art Blocks from a year or two ago, they'll have very thin floors because a large percentage of the supply is in the hands of people who want to collect long term. I think we'll continue to see that with many artists and collections in the generative art space.
+
+With PFPs, I think 99-point-something percent are going to zero. But there are way more PFP projects than generative art projects, I think. fx(hash) has a crazy amount, so I'm not really sure on that one.
+
+Will: 20,000.
+
+Jaime: 20,000. That is a lot.
+
+Zeneca: But so many of them have three pieces or ten pieces, which is—
+
+Will: And a lot of them are unminted.
+
+Trinity: And are they PFPs?
+
+Will: Yeah, some of them are.
+
+Jaime: For PFPs, the majority are definitely going to zero, but a good number won't. And I think as a genre, PFPs will exist forever—people like having a digital identity in one form or another. But to get back to your original question about the bear market and whether my thinking has changed: not really. I'm as bullish as ever on generative art, and I've always thought the vast majority of PFP projects would fade away.
+
+Zeneca: From my perspective, what's happened is largely what I expected. We've talked about this on the podcast before, but essentially, with profile picture projects, any real user only needs one—that's your profile picture. Whereas if you're a real person interested in art, you might want a piece from *Elementals*, a *Singularity*, something from *Lush Temples*. You can have hundreds of pieces you're legitimately collecting for the art. With profile picture projects, once you own a second one, it becomes purely speculation, because you don't need a second one. There's no use for it. So it makes sense to me that generative art and art in general won't bleed in price the way profile picture projects have and will continue to.
+
+As for whether it'll all be centered among the top ten artists with everything else very thin—I think there's probably going to be more of that than I'd like to see. If you could show people various collections with the creators' names hidden, I think there's a lot of art in that theoretical fat middle that people would like more than some of the projects from top-end artists. But because the name is there, there's an unavoidable financial gravitation toward those bigger, more successful names. Still, I think over time there will be more artists who break through—usually because of one great project that gets their name out there, after which it becomes much easier for them to release new work and have people's support, not necessarily just for the art, but because they're now an established artist in the space.
+
+Trinity: A related follow-up: especially during this bear market, there aren't that many people in this space—probably five figures at most who are genuinely interested, and maybe only four figures who are actively engaged. Do you think we'll see an influx of more collectors as blockchain technology becomes more widely accepted? And how do you think that will influence which artists people are interested in collecting? Can you tell the future?
+
+Will: Are we just going to be perpetually early? In five years, are we still going to be saying, yeah, we're still early?
+
+Trinity: True.
+
+Jaime: We're obviously still early, and maybe we still will be in three or five years. But we're already seeing millions of people get Trojan-horsed into the technology. Starbucks announced they're implementing their Odyssey program—NFTs on Polygon—for 25 to 35 million of their loyalty customers. A few days ago the news came out that Reddit now has more users with wallets holding NFTs than OpenSea does—something like three million Reddit users have actual NFTs. They just don't really know it, because they were Trojan-horsed in—they weren't called NFTs, they were called avatars or collectibles or digital assets.
+
+I think we'll keep seeing more of that, and it'll be interesting to see how these two worlds bridge—people Trojan-horsed into a closed-wall system like Reddit or Starbucks or Meta, and how that bleeds into the truly decentralized nature of Ethereum, Tezos, and these other blockchains that a lot of these NFTs actually exist on. Even setting aside the Trojan horse angle and the millions coming in through those avenues, I still see tons of curiosity in this bear market—every day there are more people wondering, is Ethereum's environmental impact not so bad anymore? Maybe I should take another look at this NFT thing. Or... we're still early.
+
+Zeneca: You look like you ran out of steam right in the middle of a sentence there. You're doing good.
+
+Jaime: We're still early. That's it.
+
+Zeneca: We really are, I think you're right about that. I have a couple of thoughts. First, art is something humans have loved to create and collect, and the wealthy in particular have long put a lot of money into it. There have been cycles—old masters, modern art, the Impressionists—and cycles in what specifically people like to collect. When people in the generative art community talk about us being early, I think the hope is that generative art will be the next huge thing the traditional art world comes around to. This has happened many times in art history: a new form comes out, the established art world says "that's not art," there's a period of question, question, question, and then eventually they declare it the greatest new art. I think that's a legitimate possibility for generative art.
+
+But generative art is different from a lot of what came before. Impressionism has a sameness to it—showing the brushstrokes was the defining difference from what came before. Abstract art's defining difference is not being figurative. Generative art, though, is more like saying "painting" or "drawing"—it's a method of making art rather than a style. You can create any kind of image with it. So I'm less sure it will necessarily be taken up as art's next big favorite thing.
+
+The other thing I've been thinking about lately is that AI art is really taking off—the capacity and ability of it is growing immensely. That's something to watch. If we're looking at the people who've always collected art, and people getting enough money that they start thinking "what am I going to put it in—art, I guess. What's next?"—maybe generative art is the last bastion of humanity before AI art becomes the answer to all of it. I don't really know. But even six or ten months ago, I really believed generative art was likely to be the next big thing to get collected and get a lot of attention. The speed with which that hasn't quite happened, combined with how fast AI art is accelerating, is a bit scary for that prediction—because AI is so powerful and only getting more so.
+
+It'll be interesting, because art is supposed to be different from science in so many ways—there's a human element people are drawn to. I wonder how much the art-collecting community will reject AI art because of that, and whether that, too, will be one of those temporary things where they shun it and then eventually realize it's legitimate.
+
+Trinity: I think this whole thing is really opening up the aperture of what art is, who can collect it, and who can create it. Changing the hearts and minds of the traditional art community will obviously be a huge factor in legitimizing gen and AI art. But there's also a whole conversation about the creation of a new kind of collector and a new kind of creator, especially as more people enter the space. We didn't talk about your art backgrounds, but Will and I had, at absolute best, a passing interest in art a year ago.
+
+Will: Yeah.
+
+Trinity: So it's really been an indoctrination—that's not the right word—
+
+Zeneca: Indoctrination, maybe?
+
+Trinity: Indoctrination, yes. Indoctrination is great. We're all being indoctrinated into this thing we had no idea about not that long ago.
+
+Jaime: It's all a cult. It always comes back to being a cult.
+
+Trinity: Exactly.
+
+Zeneca: I've thought a lot about the idea of right-brained versus left-brained people—left being the math-and-science type, right being arts and humanities. I've thought for a while that generative art is very much art for left-brain people, both as creators and collectors. That plays exactly into your point: people who didn't think art was for them find it generated in a way that's much more comprehensible to their minds, and so it's more accessible and interesting to them.
+
+I'd say I had more than a passing interest in art before this—my brother is a serious artist, and I started painting myself maybe fourteen-ish years ago—so it wasn't out of nowhere, but it's certainly exploded since.
+
+Jaime: Fourteen years. That's crazy. We're old, Jamie.
+
+Will: Playing off the earlier question about whether there's room for a lot of artists outside of the grails: do either of you want to name artists or projects you feel are personally grail-worthy but aren't getting much attention? I think both of us on fx(hash) could name plenty of artists and projects we love that never got a floor above mint price, but they're beautiful.
+
+Jaime: The first one that comes to mind is Luke Shannon — *Opera* is his collection on Art Blocks. It's been one of my favorite collections since I first saw it, almost two years ago now. He recently did something with Bright Moments that I haven't had a chance to look into, but I rarely see him or his art spoken about, even within the Art Blocks community. Only a small niche really knows and appreciates him, but to my mind he's a grail artist and his work is grail-worthy.
+
+Trinity: *Opera* is very delightful.
+
+Zeneca: It is.
+
+Jaime: It's so fun. It's whimsical.
+
+Zeneca: It's always had a fairly high floor for being a factory piece, but because it wasn't curated, it never really got the recognition a lot of other stuff did.
+
+Jaime: It didn't take off immediately either. I remember putting bids on it at like 0.03 when the floor was 0.05 — I regret not just buying at that price, obviously. It was one of those factory collections that didn't quite take off until it did, and then it's just always been popular among a small group of collectors.
+
+Zeneca: You could just look at my collection on fx(hash) and infer which projects I like more than the community does. But naming specific artists I think are fantastic — Monica Rizzoli's stuff is amazing. *Fragments of an Infinite Field* is as beautiful and interesting as basically any collection out there. When it dropped, the floor went crazy, like it was going to be one of the next big Art Blocks projects. But that was right at the very end of that bull run, or maybe a little after — it was a blip, like "oh, are we back? No, we're not." And then it all came crashing down.
+
+I love that collection very much. I've also recently become really enamored with MP Kausa's stuff — Michael something, I'm sorry, I can't pronounce his last name. He did *Chimera* on Art Blocks, which I like a lot. But it wasn't until I went to his website and saw his earlier work that I realized this guy is doing next-level stuff. *Parnassus* was actually what led me to his website — I saw that collection and thought, I like this even more than *Chimera*. What else has he done? So he's another artist I've lately been thinking is basically a master.
+
+Jaime: One more — the screen name is NSMAG. I believe they're from Thailand; I'll try to pronounce their full name — Natakit Suzanthitanon. They did an Art Blocks Factory collection called *Daisies*, but they've done two or three other generative art collections outside of Art Blocks. They've been a generative artist for a long time but remain fairly unknown, in and outside the space. Looking at the spectrum of their work, you can see the evolution — where they came from and what they're creating now — and I see them as potentially grail-worthy. I'd want to see some larger collections, but I'm a huge fan of *Daisies*. I might be the largest holder — I missed the mint, was really bummed about it, think I set the wrong alarm or something, but then went through and picked up tons. They're very, very appealing to me.
+
+Will: I'm not familiar with any of these Art Blocks projects, so this is great to hear. I've only ever minted two things on Art Blocks.
+
+Jaime: Which ones?
+
+Will: A Shvmbldr — the more recent one, the alien piece.
+
+Trinity: The aliens?
+
+Zeneca: Yeah.
+
+Will: And EDG, or Pepe XYZ as we know him from fx(hash), released a piece — I can't remember the name, it was about five months ago. I minted one of those too because I really liked the look of it.
+
+Trinity: *Mazenaw*.
+
+Will: Yeah, *Mazenaw*.
+
+Jaime: I have an fx(hash) artist — I don't know how to pronounce it, Y-K-X-O-T-K-X, "Exotics"? *The Traveler* and *the Flower Arrangement*.
+
+Trinity: If you like daisies, then yeah.
+
+Jaime: *Traveler* is the one I love so much — a really, really cool collection. And *One Paper Planes* by Phaust. I'm just going through my collection now.
+
+Will: So many.
+
+Zeneca: One collection I found on fx(hash) — I don't even remember when — was called *Sketchbook Splash*. When I used to paint, it was almost always watercolor, and the colors in this piece were very evocative of watercolor, so I loved it. I got a couple, and it was never a particularly popular project, though the artist had a bunch of others. Then recently they released a new project called *September*, and it's gone crazy — people love it. I think it looks great too, but it would've been better for all of us if you'd had me on a month ago and I'd called out this artist ahead of time so we could've gotten into *September* before it took off.
+
+Will: Tyler's piece before that — the name is escaping me — also blew up, floor went over 100.
+
+Trinity: *Assembling Machine*.
+
+Will: *Assembling Machine*.
+
+Zeneca: You can hear an interview with him on the podcast. I bid on a bunch of the *Assembling Machines*, never landed one. Now that I think about it, yeah, quite a few of those were nice.
+
+Trinity: I think T. Boswell is one of those folks who's relatively new to the space.
+
+Will: To art, specifically.
+
+Trinity: Right, to art. Just a really talented coder. I think that's the thing about the popularization of gen art — it's bringing so many new creators into the field. So if we look at the gen art from two years ago, obviously a lot of it is fantastic, but we're having an influx of new creative brains, and the quality of work being put out consistently on fx(hash) and elsewhere is insane.
+
+Will: People who never went to art school, who just thought, "I know how to do this, let me check out p5 and publish a project" — and three months later they have 500-tez floors on their pieces.
+
+Jaime: It's really crazy. I have a friend going through exactly that journey right now — a proficient coder who was never into art, fell down the generative art rabbit hole, and started a project a few months ago that's actually launching soon, so I'll plug it: it's called *Imperium*. I was looking at a Discord thread where he wrote about his progress — something like, "Spent some time on Pinterest looking at posters and how they arrange colors, picked colors I felt fit my project. I do feel these palettes are stronger than the ones I developed so far." It's really cool to see his journey — from "how do you even code generative art?" to now fine-tuning color palettes and the algorithm. I think he's going to write a blog post documenting the whole thing afterward. It's fascinating to watch people go from zero to "now I'm a generative artist" in six or eight months.
+
+Will: When we first started the show, we thought a good way to fundraise would be to make a token every month, so we started learning p5. After three of them, it was too hard to keep up — making the show, working, family, and trying to ship a complete project by the end of the month, even a mediocre one. Just checking the box of "long-form" — my coding days for that are well over at this point.
+
+Zeneca: It is interesting how powerful the tools are, to the point that people quite new to it can make something great in no time. I did a fair amount of painting, not a ton, and then about two years ago started doing digital art on a tablet. I was impressed by how much more powerful, editable, and "multipliable" my effort could be that way. Then about a year ago I started dabbling in generative art, and it was the same kind of jump — the difference between what I could do on a tablet versus with code. When you get it right, the amount of output you get from a little bit of correct effort is enormous. Roy's smirking at me again.
+
+Jaime: This just in: Jamie the dinosaur is amazed that digital tools are better than paper and pen.
+
+Will: Did you both see the projects from a month or two ago that lit up for a minute — code generated entirely by GPT-3?
+
+Zeneca: Was Pronoia involved in that?
+
+Trinity: Yeah.
+
+Will: His was the one people found, but there was another artist working with GPT-3 too, who did three of them.
+
+Trinity: Codexter.
+
+Will: Right, Codexter was the name they published under. Kind of scary.
+
+Jaime: Yeah.
+
+Zeneca: The amount it can do is pretty amazing — also great if we can use it for good. I'd vaguely heard about them, as evidenced by me barely recalling the name Pronoia, but hadn't looked into it in any depth.
+
+Will: They're fun to look at, and the code itself is interesting too, if you pull it down. With the Pronoia piece, the AI didn't even bother to write a loop — it's just "draw a square, make it this color, place it, draw a square, make it this color, place it," instead of looping n times. Pretty wild.
+
+Zeneca: Inefficient.
+
+Will: Probably too late in the episode to get into IP ownership and PFPs — maybe we save that for another crossover. But let's open the floor: what are you both excited about, where do you think the space is going? What would be a good way to cap off the conversation?
+
+Zeneca: While Jaime's thinking, I'll just say I'm excited for the space because right now it's filled with people who are actually interested in it. Last year it was easy to make money, but that attracted people who were only in it for the money. I heard somebody on Twitter asking how we onboard people, and the easiest way to get people into it is to make them think they're going to make money — but those are the hardest people to keep around. It's a catch-22: to get people interested in the space who will actually stick around, they need some boring human reason that isn't money, which unfortunately isn't a very attractive pitch when so much of what they've heard about it was monetary.
+
+But I think we're getting to a place now where the people who got in for cynical financial reasons are leaving, and what people are hearing about the space isn't just the ridiculous prices and returns anymore. So the people getting onboarded now are much more genuinely into it, which excites me — both for that, and for NFTs to actually be things we understand rather than vague promises about gaming and IP that are still very theoretical. I think we'll see more of the product-market fit we already have with generative art, but applied to other kinds of projects I can't even imagine yet.
+
+Trinity: And if we just keep a few percentage points of the people who get in for speculative reasons, that's pretty standard for any digital product these days. Incentivize people to come — maybe most leave, but we convert some into true believers and true lovers.
+
+Zeneca: When I read the article I mentioned way earlier in this episode — the one that convinced me this stuff was real — the first thing I said was, "I've got to buy one of these CryptoPunks, because these are certainly going to be worth a ton of money in the future." I was very disappointed when I got to my computer and saw how expensive and out of my price range they already were. So yeah, I initially thought this was legitimate in the sense that I could put money in and make money. But a lot happened since then that wasn't about the money at all.
+
+Jaime: I'm excited too — piggybacking on that, more product-market fit, more real-world use cases for NFTs that aren't speculative. We're already starting to see it, and I think we'll see a lot more: things like ticketing for events, or anything that eliminates fees and speeds up transactions. All the basic stuff digital assets can do better than physical assets that involve middlemen — remove the middlemen, save everyone time and money, make things more efficient.
+
+There's a lot of possibility out there, and we're entering the phase where more companies are exploring the technology and figuring out how to implement it. Smaller operations are getting curious too. I've talked to people who own a coffee shop and ask, "Should we be doing NFTs as loyalty cards?" Probably not yet, honestly — the number of people within a 20-minute drive or walk of your shop who are actually into NFTs is maybe four, maybe one, depending on where in the world you are. But it's great that they're thinking about it now, so they can roll it out more fully in a few months, once the tech is abstracted away and the user experience is seamless — so you don't need to understand any of the blockchain stuff you need to understand today. It's just an app on your phone: you go to the coffee shop, sign up for a loyalty card that happens to be an NFT, and it's just stored there. Maybe you can sell it, maybe you get other NFT rewards, whatever. I'm excited for real-world use cases like that.
+
+Will: I'm gonna put my house on the blockchain, guys.
+
+Zeneca: Did you see there was one—
+
+Jaime: I think one sold.
+
+Will: Yeah, I saw that. South Carolina?
+
+Zeneca: Yeah, something like that.
+
+Will: Well, I hope it's not pinned to IPFS.
+
+Zeneca: No, I don't think it is.
+
+Will: This has been a great conversation, guys. We really appreciate you both coming on to talk generative art with us. We're usually pretty bad at ending these interview episodes, so this is where we just say—
+
+Trinity: —like every episode—
+
+Will: —yeah, like every episode — thanks, hope you had a good time, we appreciate you coming on, and that's it for this one. Talk to everyone soon.
+
+Jaime: Thank you.
+
+Zeneca: Thank you. I appreciate it.
+
+Jaime: I think Jamie's headphones just died or something — he can't hear me. Right as I was calling him old. How convenient.
+
+Will: Oh, there we go — new headphones incoming.
+
+Zeneca: I should be saying something about how I can't hear anybody, but... oh, you're back.
+
+Jaime: Did you get to hear me call you old?
+
+Zeneca: My headphones died on me. Devastating. Trying to fix it.
+
+Jaime: Wait, no, he still can't hear us.
+
+Will: All right...
+
+Trinity: It's okay.
+
+Will: We can cut all this out.
+
+Trinity: No, we're keeping it in, Will.
+
+Jaime: We should keep it in — "Jamie is old and he can't use technology."
+
+Will: Or I'll just cut this and put it at the end, like a little Easter egg.
+
+Zeneca: But I didn't do anything wrong, they just stopped working. They have plenty of battery.
+
+Jaime: Sounds like what my mom and dad say.
+
+Zeneca: It does sound exactly like that — but in this case, I believe I'm actually right.

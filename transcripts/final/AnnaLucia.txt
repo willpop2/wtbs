@@ -1,0 +1,247 @@
+Will: Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Trinity. As always, I'm Will. And with us is Anna Lucia, or Anna as she likes to be called. She's a friend of ours now, so we have that privilege. Anna, how's it going?
+
+Trinity: Very well.
+
+Anna Lucia: I'm doing very well today. Thank you.
+
+Will: Thank you for coming on. It's generous of you to give us your time. It's always fun for us when artists come on the show and help close the gap between our understanding as collectors versus your expertise as someone who actually makes art. I'm sure everyone who listens to the show is familiar with some of the work you've made, but maybe not so familiar with who you are. So perhaps you could introduce yourself — who is Anna Lucia, what's your background in art and coding, and how did you come to create NFTs and put stuff out on the Tezos blockchain?
+
+Anna Lucia: For sure. Most of your audience will probably know me from my two fx(hash) collections — one is *Art for Walls and Public Spaces*, and my second drop was called *Perpetual Oscillations*. I also have an Art Blocks collection called *Loom*, and I experimented a bit on Hic Et Nunc when that was still up and running, and minted some things on Foundation, which is actually where I started with NFTs.
+
+But NFTs are only what I've been doing since August of last year — I've been making generative art for about three years, and I kind of rolled into that by accident. I went to art school right after high school and studied fashion design; I've always been very interested in textiles and fashion, which you can probably see in my work. After a year of art school, though, I realized there wasn't much math or physics involved, and I've always been drawn to numbers — there's an almost calming quality to working with them for me. So I switched to studying engineering, which was great. I really got my fix of math and physics, and it was creative — you have to be very creative to work in engineering — but it's not very artistic.
+
+I especially noticed that once I started working. As an engineering student, the projects you work on are often very creative and a lot of fun, but as soon as I got into the workplace, I realized there was a lot of bureaucracy and it wasn't nearly as creative as university had been. I was really looking for a creative outlet, and for some reason I discovered Processing — I don't even remember how I found it. For people who don't know, Processing is a Java library developed for designers and artists to learn code. Then there's p5.js, which most people mint with on fx(hash), which is the JavaScript version of that.
+
+I discovered it and was immediately hooked — that was about three years ago. I taught myself how to code. Studying engineering gave me a little bit of a foundation, but not much, so I really taught myself, and I haven't stopped since. I did that for a long time by myself, just working behind my computer after office hours, not really sharing it with anybody. Then at some point I thought, maybe it's time to put this out into the world. I started an Instagram, Anna Lucia Codes, and that's when I realized generative art was a whole thing — before that I didn't even know it existed as a genre. I was just playing around in Processing doing my own thing, and suddenly this whole world opened up to me: all these other people making incredible work in Processing and other creative-coding languages.
+
+I became part of that community through a Slack group called the Generative Art Club and met a lot of fellow artists. That's how I rolled into NFTs last year — many of them started experimenting with NFTs, and I thought, let's try that out, let's see how it goes. And here we are, almost nine months after minting my first NFT, and I'm a full-time generative artist. It's been crazy.
+
+Trinity: Congratulations on making that switch. We've talked to a lot of people who've done that, but going from full-time engineer to full-time artist is quite the accomplishment.
+
+Anna Lucia: It has been — especially in the beginning. I'm more used to it now, but at first I'd wake up every day just thinking how grateful I was that I got to make art that day. And that's what I do now.
+
+Will: That's so cool to hear. It's interesting that you arrived at it independently, through your own exploration of Processing and code — creating art the way we'd now think of as modern, code-based generative art. Did you have any influences before that pointed you in that direction?
+
+Anna Lucia: Yeah, definitely. Especially early on, when I was making generative art by myself, I had a friend who's a graphic designer and would always give me prompts. He has no affiliation with coding or computer science whatsoever — he'd just say something like, "Can you make a pinball machine that creates art?" or "Can you do something with a sunset?" — really creative prompts — and I'd try to implement them. That's kind of how I learned.
+
+I think that's shaped my work in a way you can probably see: I don't come from a computer science or software development background, so I often start with a graphic or art reference in mind — modern art references — and then try to find the algorithm that fits it. There are many artists with more of a computer science background who start from an algorithm and let that generate the art; for me it's often the reverse. In the beginning that made me quite insecure, especially once I discovered how many people were making generative art, and how talented some of those programmers were — you've had Piter Pasma on your show, he's a great example. But I've gotten a lot more comfortable with it, and I've come to see it as a strength — it means I often look at things from way outside generative art. Like looking at the weavers of the Bauhaus and bringing that into generative art. I'm starting to see that as a real strength now.
+
+Trinity: You mentioned a strong background and interest in more traditional art, graphic design, and fashion. Is there anything specific you find inspiring that you bring into your own work?
+
+Anna Lucia: Even as a kid, going to museums, I was drawn to the modern and abstract artists of the '50s and '60s — an artist like Sol LeWitt, for instance; I knew his work long before I knew about generative art. Right now I'm looking a lot at Yayoi Kusama, the Japanese artist who makes those incredible infinity rooms — I recently bought a VR headset, so maybe that's part of why. Bridget Riley too — people often bring her up when they look at my work, and rightly so. That abstract work from that era is definitely something I'm drawn to.
+
+Beyond that, I'm also quite inspired by the net artists of the '90s and early 2000s — the first people to use the browser itself as a place to make art. Raphael Rozendaal is a great example, very inspiring, and that aesthetic is something I'm drawn to as well.
+
+Will: Before we get into your particular pieces and what makes your work so special — a question occurred to me. Given that you've only been in NFTs for nine months — though I guess no one's really been in NFTs that long; maybe a couple of years at most if you're a true original in the space — do you have any theory about how you broke through? There are a lot of artists who put a ton of work into their art, throw pieces up on platform after platform, and never quite get traction. Do you have any advice, or can you crystallize what you think enabled you to break through in such a noisy space?
+
+Anna Lucia: I can break that into parts — my own experience, which maybe can't be copied by everybody, and then some more general advice for artists starting out.
+
+For me personally, I can't deny that timing was a big part of it. I was relatively early in the NFT space, and when I first arrived it was during the Art Blocks summer, when that scene was a huge boom and all eyes were on generative art. If you were a generative artist at that time and put something on Foundation, you were pretty confident it would get picked up. That said, I don't want to attribute everything to timing — putting your work out there and making good work matters too. But I won't deny that factor.
+
+Another huge contribution has been the community of generative artists — we support each other, help each other, share what's worked, and that has been enormously helpful for me in breaking through. I hope I do the same for other generative artists in this space.
+
+More generally, my advice would be to consistently show up. Social media is important for getting yourself known. I make it a habit to share work-in-progress a lot — I'm pretty generous about posting quick screenshots here and there without much text. That's been a great way to get the ball rolling, rather than posting nothing and then doing one big announcement. It's not only about pushing or selling your NFTs — it's about being generous with the work you make, sharing it, and also sharing other artists' work, building that community.
+
+Another thing — maybe a bit cliché, but worth repeating — is to stay true to what you actually make. Like I said, certain things used to make me insecure: being self-taught, only having made art with code for three years, doing things a bit differently than the people around me. Instead of being insecure about that, lean into it — stay true to what you want to make rather than chasing whatever's trending, because that can change by next week, or even tomorrow — the space moves fast. It's a cliché to say "stay true and follow your own voice," but artists doubt themselves far too much, so it's worth repeating.
+
+Trinity: Talking to other artists in this space—you've already mentioned the community, some of the Slack groups. When we spoke with Amy Goodchild, she said it's such a loving and supportive community. Do you find that community pushes you to improve as an artist? I know you've mentioned things like January as a source of inspiration in past interviews. What else within the community pushes you forward?
+
+Anna Lucia: There's a Slack group with two channels that are really important to me. One is the work-in-progress channel, where people share what they're working on, and it's absolute fire in there every single day. You see such different styles and approaches—everybody working with the same medium but taking a completely different path. Having that all together is really awesome and inspiring. There's also a mental health channel, which I think Amy mentioned in her interview too. That's a place where you realize other people are struggling with the same things—you're not alone. Being an artist in the NFT space, constantly online, in a place that changes so rapidly, isn't always easy. Being able to share that gets you through a bad day.
+
+Trinity: It feels like the space has changed a lot over the last nine months—or maybe twenty-five years, which is how long it feels, honestly. What are some of the biggest differences you've noticed since you first entered?
+
+Anna Lucia: Good question. Sometimes it feels like I've lost a hobby but gained a career. That's been a big change for many artists—something we discuss amongst each other. We used to do this outside of work to get energy or find inspiration, and now it suddenly comes with a lot more pressure, because you feel like you have to release something again. That's definitely changed. There's also the insane amount of attention generative art has gotten. Two years ago, if I told people, "This is my weird nerdy hobby where I make pictures by writing computer code," they'd have no idea what I was talking about. Now I tell people and they say, "Oh, does that mean you work with NFTs? Is that like Art Blocks?" Suddenly people know what it is, and people are interested in exhibiting that kind of work. It's exhilarating to feel like something is really happening for generative art.
+
+Trinity: You're lucky to know people who are even aware of generative art. If I mentioned Art Blocks or NFTs to my family or in-laws, their minds would be blown. It's cool that you have a knowledgeable, supportive community outside the gen art space too.
+
+Will: Both my parents are art teachers, and they still have a hard time wrapping their heads around the idea that code makes the output. I show them stuff and they think it looks nice, but I don't think they fully grasp the connection between what's going on and the images it produces. I'm curious—this is a question we ask a lot of people—have you encountered much resistance to the crypto side of this? NFTs and crypto can be very polarizing, and the art itself is hard to explain, though you've said you've actually had a good reception. Have you run into issues in your personal life, or professionally, around putting your artwork on the blockchain?
+
+Anna Lucia: In the beginning you saw a lot of criticism on Twitter, and I think I internalized that—I was expecting to get more of it in my personal life. But I've been very lucky; people are generally interested in learning about it, or just happy for me. Caveat: I have two brothers who are pretty nerdy. One has two collections on fx(hash), and another was into Bitcoin back in 2012, so they were already explaining cryptocurrencies and NFTs to me in 2017. So my personal life might not be average in that regard.
+
+I also live in Egypt, and people I encounter here—especially in the creative and artist community—are very interested in NFTs and not immediately critical. They see it as a way to break through barriers: the political situation here can make it hard to release the art they want, or to travel, for instance. NFTs can be such a force for good, and that's part of what I try to spread.
+
+Trinity: I definitely feel it democratizes the art space—both in terms of access to release and sell art, and access to collect it. It's also great for raising awareness, though there's a lot of criticism around NFTs, mostly from a market-based perspective—PFPs, apes, and so on. But I feel like those people don't really consider generative art at all when they think about the NFT space, which is such a huge gap. There's so much more than that.
+
+Will: The only part we really care about.
+
+Anna Lucia: Exactly. When I talk with people about what I do, I'm quick to say: yeah, you see all those apes in the mainstream media, but that's not what I do. There's this blockchain called Tezos—it's this alternative artistic scene, really cool, all of us artists and creative people supporting each other. I always give the caveat that I'm not creating profile pictures.
+
+Trinity: Not yet.
+
+Anna Lucia: Not yet. Oh yeah.
+
+Trinity: You don't have to announce anything right now, but we'll just put that out into the universe.
+
+Will: Some of the colors on that unicorn drop could have been Anna Lucia colors for sure. Maybe this is a good opportunity to talk about your work—the use of color in particular. Trinity, back me up on this: as two people who came into collecting art through fx(hash) without knowing much beforehand, what I've found I gravitate toward most are artists and releases that lean heavily into the construction of palette and use of color. Both of your drops on fx(hash) really highlight that—the sometimes complementary use of color, or... this is where my language starts to break down. The core of the question—Trinity, help me refine this—is: what is it about color that I like? Especially in your work, how could I get better at talking about it when I'm looking at a piece like *Art for Walls in Public Spaces* and vibing with it hard? I'm like, this is so cool, I love the way this thing moves, I love the way the colors change—but there's a vocabulary I feel like I can never quite grasp. You've probably heard it on the show: he says he likes it, but he doesn't know why. I'd love to hear your perspective on color—what makes it such an amazing tool for art, and how you use it so effectively in your work.
+
+Anna Lucia: It's definitely really important to me. I'm not sure why, but making color palettes is something I just enjoy a lot. I can back up all the way to my first Processing sketch: a 10-by-10 grid of squares, each given a random color. That's what almost everybody does when they start creative coding—they use random colors. It's absolutely horrible in a way, because you'll never get a nice palette that way. But there's an element of it I still keep in my practice, because generative art lets your system put two or three colors next to each other that I would never come up with myself, but that just work. That's something I'm always looking for in my systems—that variety where, when colors first land next to each other, you think, "Ooh... actually, I kind of like this. This is working."
+
+A real tip for generative artists: make your own color palettes yourself. I've seen Ratchitect talk about this—he compared using a cookie-cutter color palette to using a spice mix from the supermarket, instead of working with your own spices and finding that balance. So often I'm in Illustrator, mixing colors together, building my own perfect spice mix from there. Then, in the algorithm itself—true for *Art for Walls in Public Spaces*—there's a probability system I define myself. You might want a little bit of lime yellow to give a kick, but you don't want the whole artwork drowning in lime yellow, so I make sure those probabilities work out well in the algorithm.
+
+I didn't do that for *Perpetual Oscillations*, though, and I think you can see it: *Art for Walls in Public Spaces* is really curated and balanced, all the colors sit nicely together. *Perpetual Oscillations* is way more random, which I often really like, but I think it's also maybe an acquired taste.
+
+Trinity: Looking through both works now, I see exactly what you mean. There's much more consistent refinement in *Art for Walls*. But there's something satisfying in *Perpetual Oscillations* too—not dissonance, that's not quite right, but that random element you mentioned. I can't describe it either. Will and I are both equally terrible at talking about art.
+
+Will: Despite having an art podcast, we're really bad at talking about the art—though maybe that's actually useful for artists to hear: what does the lowest common denominator think of your work, the common person's view of it. In *Perpetual Oscillations*, just scrolling through the thumbnails, I can see a much wider array of colors in each given piece, and what looks like gradients. Are there hardcoded palettes for this, or is it more like a rule that starts with a color and steps away from it? In the little coding I've done, I've played with that—you pick a starting point for the color and just keep moving it around randomly.
+
+Anna Lucia: I always hardcode my colors. I never use mathematical formulas to arrive at them — whenever you see a color, it's hardcoded in there. With the gradients, obviously there's a shader that calculates the space between two colors, but those two colors on the extremes are chosen by me. In *Art For Walls In Public Spaces*, there's a group of different palettes, and each palette has colors that recur in the others, but each one has its own probability space for which colors can come up. *Perpetual Oscillations* is just one array of colors to pick from, which is quite a balancing act, but I really enjoy it. That's actually why I chose a smaller edition size for it — often, if you want to increase the edition size of an algorithm, an easy way to do that is to add more color palettes, since that increases the diversity of the collection. *Perpetual Oscillations* only has that one array, and not all the colors appear in every output, which is why it's not a very big project.
+
+Trinity: You just released a collection on Verse. How did your approach for that differ from what you've released on fx(hash)? Looking through the outputs, you definitely see some of that signature color palette, but also some work that really diverges from what we've seen you do in the past — and it's really cool.
+
+Anna Lucia: I'm very happy with this project. Usually when I start a new sketch — as you can imagine, I have one Illustrator file full of all my color palettes, and an associated GitHub file with all the actual color arrays. So it's a bit like being a makeup artist with all her little boxes. For *Patchwork*, I pulled out all my colors and assembled completely new palettes from them, adding a few new colors here and there. That's partly because I created *Secret Garden* for the Blind Gallery, ItsGalo's project where the idea was to release a set of NFTs that people collect without knowing who the artist is. I couldn't use my old color palettes for that, so I came up with a whole new set — and those ended up getting reused in *Patchwork*.
+
+Trinity: Looking at *Secret Garden*, you definitely see some of that, but the introduction of more greens and bluish-greens really brings out the garden element. It's funny, I just watched *The Secret Garden* the other day — a very comforting movie — and I get that same sense of magic coming through this piece.
+
+Will: I'm curious what that process was like. It's been hyped for the last week and a half or so, with people collecting the passes and redeeming them.
+
+Anna Lucia: It was a lot of fun, in two parts. First, as artists participating, we were sharing our work in progress with each other, which was really cool — getting to see the process of artists I admire. Really amazing. And for me personally, it came at a good time, because I'd been wanting to make something a little more organic. It's still pretty abstract, but especially on fx(hash), landscapes and naturescapes are very popular, and I'd been drawn to that while also feeling stuck — like, I can't step outside what I'm already known for, isn't this too far from what I already do? Then ItsGalo asked if I wanted to participate in the Blind Gallery, and I thought, this is perfect, I can test out something a little different that I already had in the back of my mind, and see how people react to it without me attached to it. The piece was very well received, and I loved working on it. I actually talked to ItsGalo about maybe turning it into a small fx(hash) collection — that might be next, hopefully.
+
+Trinity: Is this generative?
+
+Anna Lucia: Yes, it is.
+
+Will: A curated output from an algorithm you're working on.
+
+Anna Lucia: Right, there's just one. And this is the thing — I'd love to take this idea and turn it into a long-form generative artwork, but as the algorithm stands now, maybe 1 in 20 or 1 in 30 outputs is actually good. What you see in the Blind Gallery is that one curated output where I was like, yes, this is the one. Most of them, I'm still like, this isn't quite hitting the right notes. So I'd need to find a way to tame that algorithm so I'm happy with all the outputs.
+
+Trinity: Is that a process you go through with all your work? Obviously you have to be happy with a certain percentage of outputs, but do some algorithms come together more easily than others?
+
+Anna Lucia: Definitely. And there are algorithms where I think, this isn't for fx(hash) — maybe this is a one-of-one on Versum or OBJKT or Verse instead. You can always force an algorithm into being long-form, but you don't always want to. The concept behind it has to justify multiple editions — it needs an underlying logic to work as long-form. Something I'm very curious about is what's going to happen on Verse, because there are outputs in my new piece that I might not personally go for, but other people might really like. What's cool about Verse is that before you collect, you can click one of two buttons — pattern or palette — which changes either the geometry or the palette of the artwork. You can't go back, but you can keep asking for another one. I'm very curious what people are going to mint. There are outputs in that algorithm that aren't bad — they're good — just maybe not what I would personally choose. I'm curious to see what collectors choose.
+
+Trinity: We've seen the first fifteen or so outputs come through, and you can really see a nice play across the different geometries and palettes. Could you talk about your thought process going into this piece? There's a lot more variation here than in some of the fx(hash) works.
+
+Will: To jump on that — I look at this one and see it as a marriage between your Art Blocks project and some of your fx(hash) work. I get that same sense of weaving, but also computer circuitry and a connection to electronics, plus the undulating colors we've seen in your fx(hash) pieces. Is there a real connection there, or am I just reading into it?
+
+Anna Lucia: No, there's definitely a connection. This piece was made specifically for the Cortesi Gallery, an Italian gallery, and it was exhibited last week during Milan Design Week. There was a really cool projection, and indoors we had an installation of tablets showing the work alongside Autoscope, who's also an fx(hash) artist — we were both part of that exhibition.
+
+The question we were given for the work was: is the metaverse free of waste? When I started thinking about that, I first went really big — all the electronics we work with, the mining needed for the metals in those electronics, the carbon dioxide released because of how much energy blockchains use. I was thinking about all these huge things that might be part of the "waste" of being a digital or NFT artist. Then I started zooming in more and more onto my own personal process, looking at my computer. I'm a very messy person for someone so logical, I guess — my desktop and hard drive are just littered with screenshots. That's actually what you often see me posting on Twitter, these screenshots everywhere. I realized I was surrounded by these scraps of my own projects — not quite waste, but scraps.
+
+I collected all these scraps and fed them into a machine learning algorithm — one of the commercial ones where you give it a database of images and it generates new images based on that database — to see what the machine would find in my work, in all these screenshots and outputs that never made it. Honestly, I was disappointed by the results. It had that typical machine-learning look, like it was colored with watercolor — it didn't have the straight abstract geometry of my work, the colors got very blurry, and each output was only one color. But what did come through clearly was a marriage of my *Landlines* project and my fx(hash) work, since that's where most of the project scraps came from. Based on looking at both the screenshots themselves and the machine learning outputs, I developed *Patchwork*. So it's definitely a mix of those three projects.
+
+Trinity: For *Patchwork*, are there any patterns or palettes you feel especially close to?
+
+Anna Lucia: Yes — there's one palette inspired by a new vintage pajama I bought on a trip to the UK. It's green with orange, very vintage colors, which I'm really happy about — new and old at once.
+
+Will: There are a couple other topics we wanted to cover, and one feels timely given what we've discussed on the show recently: your first release, *Art For Walls In Public Spaces*, and its use of reserves in the fx(hash) marketplace. First, I'm curious how much you follow the markets, and how much that's discussed within your community of artists — pricing strategies and so on. And what led you to the reserve strategy you used, where collectors needed to own multiple pieces from *Art For Walls In Public Spaces* to earn a reserve spot? At the time, that came off as a little aggressive — reserve lists were new, and we didn't know how the mechanic would play out. But looking back now, given how much mania there is over reserve spots, with projects getting over-reserved and this weird asymmetry between haves and have-nots, it's starting to seem like a pretty smart way to do it.
+
+Anna Lucia: We definitely talk about how to price your artworks, think about edition sizes, and support each other in that way for the different platforms. That's actually part of why I enjoy your show — it helps me understand the market and think about how to design my drops. You could say, "Oh, I'm an artist, that's not what I want to be busy with," and I do think your artistic intent is very important and should come first. But in the end, you know you're releasing your projects on a platform that has a market associated with it, so being conscious and mindful of that matters too. It's about finding a balance between the two.
+
+As for the reserve list — it's funny that it came across as aggressive, because that was really not my intent. I knew *Art for Walls in Public Spaces* has an edition size of 144, and I knew *Perpetual Oscillations* was going to be smaller. I didn't want to create a situation where you could be on the reserve list but still not be 100% sure you'd actually get to mint an iteration. I wanted everyone who got a spot on the list to actually get the opportunity to mint, without still being in competition, especially since it was tied to a Dutch auction — I wanted to make sure those people didn't have to participate in that auction too.
+
+So I thought: the people who've collected two of my pieces — that just felt like a logical way to decide who gets a spot on the reserve list. I could have gone through the people I have a more personal relationship with, or collectors I feel more connected to, but I wanted it to be a transparent process — one where everybody could check who did and didn't get a spot, and see that it wasn't based on favoritism. That was really my thought process.
+
+Will: I'll recharacterize "aggressive" — I didn't mean it like, "whoa, Anna Lucia is going super aggro on this one." More that for a lot of people, holding one of that project is an achievement, because the mint was very competitive. It was immediately held in high regard, and the floor price has gone up and up. This isn't a problem unique to you — it's a problem for every successful artist, really. That success almost becomes a burden, because you have so many people clamoring to get your work.
+
+Desperately trying to collect it, and then realizing, "I'm one step away — I sold a bunch of stuff, got my 400 or 500 Tez, bought my *Art for Walls in Public Spaces*, and now I need a second one." That's kind of what I was getting at.
+
+It's just going to become an increasing problem for all artists, probably even more so for the successful ones on the platform, because they experience the most criticism — everyone wants a fair shot at their work, and there's the most demand and hype around it. So I'm curious, among the artists you talk to, what's the vibe with the way reserves are playing out? We solicited comments on Twitter recently and a few artists chimed in, but we didn't get a ton of positive feedback. I'm curious what your sentiment is, or if you've heard anything in the community.
+
+Anna Lucia: Nothing specific comes to mind, but it is a tricky thing to balance — maybe easier to not do it at all than to risk people being unhappy with how you do it. What's difficult in my situation is that my edition sizes are relatively small, which, in the case of *Perpetual Oscillations*, made it hard to give a spot to everyone who'd collected *Art for Walls in Public Spaces*. It's a hard thing to balance. Perhaps the solution would be to create a bigger drop.
+
+Will: Well, that's easier said than done, right?
+
+Anna Lucia: It is, because for me, the edition size doesn't depend on the marketplace at all — it's tied to the artwork itself and the algorithm. At some point there are variations I could add to buff up the algorithm and support a bigger edition size, but then I always ask myself: what are you doing here? Are we designing a Pokémon card deck, or creating an artwork? That's why I always end up with fairly small edition sizes — I'm hesitant to just throw in another color palette or another background variation. I'm quite strict about that, so I end up with small drops. I think there are only a few artists who can really design drops that can support 500-plus artworks well. That's genuinely difficult, and it's something I'm working toward — a bigger algorithm — but it's not easy to do well.
+
+Trinity: Two questions come out of that. One — maybe for a bit later — is about who you like to collect, and some of the art in your personal collection, since I know you have quite a few tokens in your fxhash wallet. But earlier, we saw you had a fun collaboration with Sable Ralph, blending his classic gemstone styling with some of the colors and patterns you often use. What was it like collaborating with him, and is that something you're looking forward to doing more of, especially given the collaborative contracts that came out with fxhash 1.0?
+
+Anna Lucia: Collaborating with Sable Ralph was great — he's very organized. He's done collaborations with multiple artists, and the way it worked was that he made the first move: he created the first leg of the algorithm and sent it to me, basically saying, "Here's the basic gem, now put your spin on it." He'd created this beautifully well-commented, super organized template. That was a great experience, largely because of him. It was also a lot of fun to create something I probably wouldn't have made on my own.
+
+That said, I am a bit hesitant about collaborations — they're more difficult, but they can bring about very beautiful things too. One of the biggest collaborations I'm working on right now is for an Art Blocks project. I'm not sure how much I can say yet, but it's with a group of artists who aren't code-based — they're quilters. It's been absolutely inspiring and rewarding to work with their body of work and turn it into a generative artwork.
+
+Trinity: That sounds amazing. Thinking toward long-form work — since Art Blocks often encourages larger editions — do you have a sense of the edition size, and what you're hoping to achieve there?
+
+Anna Lucia: It's definitely going to be a large edition size, 800 to 1,000 pieces. It's a long-term project I've been working on every week. Since I'm working with the body of work of a group of artists, we want to make sure each of their individual voices is represented within the bigger algorithm.
+
+As for fxhash, I love collecting art there. I'm not yet in a position where I have a huge budget for it, but I want to get there — or maybe I should just make it a bigger priority. I've collected a few works by artists I greatly admire — for example, a piece by Shvmbldr, if I'm pronouncing that correctly, and one by Casey Reas, at a time when I thought, "Wow, I can actually afford to own a piece by these artists." So sometimes I take that leap and buy a bigger piece, but most of the time, when I'm in the mood, I just start scrolling through the fxhash Explore page, opening tabs of works that make me happy or draw me in. If it's under five tez or so, I usually just collect it — I want to support the artist, and it's often work that's very colorful, very overloaded, that just makes me happy.
+
+I thought I wasn't spending much tez, but the other day I found this tool where you put in your wallet address and see how much you've spent — and it had really added up. So maybe I should start making better choices and save up for pieces I really want, instead of going on these binges collecting one or two tez pieces. It adds up.
+
+Trinity: I actually looked at your portfolio — your cost basis is 999 Tez, which is a lot, but it's worth about 17,000 Tez in potential value.
+
+Anna Lucia: Doesn't that include my own work as well?
+
+Trinity: No, just the work you've collected — so that's separate from your own work.
+
+Anna Lucia: Then maybe I've made some good investments along the way, but I've also definitely got stuff that will just stay.
+
+Will: That's the way you've got to think about it — it's investments, not spending. Not financial advice, as we always say, but still.
+
+Trinity: And investments in the community.
+
+Anna Lucia: Exactly. I never really intend to sell anything when I buy a piece.
+
+Will: Anna, I know we've gone over an hour now, but I have a couple of fun, off-topic questions if you're game.
+
+Anna Lucia: For sure.
+
+Will: I noticed in your Twitter bio that you have a YAT address for your URL — which is actually one of the very first NFTs I minted, if not the first, when I found out about those through a neighbor of mine. So, one, I'm curious if it's been useful to you, because I haven't found a use for mine yet. And two, was it one of your nerdy brothers who taught you about it, or did you stumble on it yourself? This is the first time I've talked to someone who actually has one. And you made a really cool one — a generative one, at least that's how I interpreted it. So what's the story behind your YAT?
+
+Anna Lucia: There's Madison Brill, who works at YAT, and she's a collector of one of my pieces. We got to chatting, and she asked if I wanted a YAT. I checked them out and ended up replacing my Linktree with it. I'd been talking to someone who gave me advice on this, and I'm always a little conflicted about the Linktree — it's helpful, but I never know if it's the most professional look, or what it really says about me as an artist. The YAT feels much more like it speaks to being a digital-native artist, someone who works in the NFT space. It's a little wink to that. And I had a lot of fun choosing the emojis. They didn't have my favorites, but I found a nice combination: a dice, a painting, and a floppy disk, which felt like a nod to generative art. Then I threw in a dragon, because a dragon is just cool.
+
+Will: That's actually one of the reasons I ended up making one myself. For anyone listening who doesn't know what these are — a YAT is basically a tokenized NFT URL, and what makes them interesting is that you can use emojis as the URL itself. So it'd be like y.at/ followed by, say, a dice emoji, a computer emoji, a floppy disk emoji, a dragon emoji. I don't know how easy that actually is to type out, but they're really meant for embedding into things like a social media profile — Twitter, for instance. Instead of people associating you with some long URL full of slashes, they associate you with this little cluster of icons. It was really fun to make one when they first came out.
+
+My wife and I sat down and made ours together, trying to come up with something clever. We landed on "kiss kiss bang bang" — lips, lips, bomb, bomb. At the time I remember thinking, in a few years these are going to be worth millions of dollars. So — Anna, this is basically the "Will shills his YAT bag" segment of the interview, but I thought it was cool that you had one, so I wanted to ask about it.
+
+Anna Lucia: It's definitely more fun to have than a Linktree. Get a YAT, I'm on board. It is a shame, though — they work great on Twitter, they look really cool in your profile because the emojis actually render, but they don't show up that way on Instagram. There it's literally just "dice, picture, floppy disk, dragon" as text. People probably think I have the weirdest link in my Instagram bio.
+
+Will: All right, that was the YAT segment. Trinity, do you have any random questions? I've got one more of my own.
+
+Trinity: Go ahead with yours — I didn't realize this was part of the brief.
+
+Will: It's always part of the brief — there are always random questions at the end. Anna, you mentioned being a math kid, really into that side of academics. I'm curious whether you ever ran into the "date game" — this is something we played a lot at my school, though maybe it was specific to us. Every day the math teacher would write the date on the board. Say it was June 12th, 2018 — 06/12/18. You'd have to come up with as many equations as possible using those numbers: 6, 12, 18, or 6 × 1 × 2 × 1 × 8, that kind of thing, just churning out dozens of them. Did you ever play anything like that, or have any math games as a kid that really cemented your love of the subject?
+
+Anna Lucia: I've never heard of that game, but I'm sure I would've loved it. I got lucky growing up before mobile phones were really a thing, so on long car rides my mom would make up story problems to keep me quiet and occupied. Something like: there's a farmer with a field of carrots, this many fields, this many carrots per field — how many carrots does he grow? I'd answer, and she'd follow up: now the farmer harvests his carrots and takes them to the store to sell... and so on. I loved it as a kid. I'm probably one of the few people who did, but that's what kept me happy on long car rides. I've always been very much into numbers.
+
+Will: I love that. Thank you for indulging me, fellow math person to math person.
+
+Trinity: I've got a random question straight from the #price-discussion channel in the Discord: what's your favorite stroopwafel flavor, and why is it the best?
+
+Anna Lucia: You don't mess with stroopwafel flavors. Just the classic. Don't mess with it.
+
+Trinity: Classics never die.
+
+Will: I wasn't even aware there were variations.
+
+Anna Lucia: There probably are for the foreign market, but we Dutchies just eat the classic style.
+
+Will: Wait, you're Dutch?
+
+Anna Lucia: Yes.
+
+Will: Oh my God, everyone is Dutch. We have to ask — what is it about the Netherlands that makes seemingly everyone from there a generative artist?
+
+Anna Lucia: In preparation for this interview, I actually listened to the Piter Pasma episode — great artist, great guy. I think he made a good point: we speak very good English, so it's easy for us to participate in spaces that are predominantly English-speaking and well-educated. But also, the Netherlands has a really rich art history — Rembrandt, Vincent van Gogh, Mondrian, and later a lot of Dutch net artists too. So maybe it's a combination: we're very present online, but we also have a strong art history and culture behind us. Those two things colliding — that's my theory.
+
+Trinity: That's a strong intersection of education and cultural awareness. My one counterpoint would be — where are all the English generative artists? We have some, obviously RevDanCatt is a show favorite, but per capita the Netherlands is just above and beyond.
+
+Will: I can think of far more Dutch generative artists on fx(hash) than American ones.
+
+Anna Lucia: Really? Wow.
+
+Will: The Americans who come to mind first are MJLindow and Nudoru. There must be more, but it is interesting — at least on fx(hash), the discipline seems very Eurocentric, and especially Dutch-centric.
+
+Trinity: And French.
+
+Will: And French. A lot of French. I actually thought Zancan was Italian, but he's in France too.
+
+Trinity: Yep. Ryan Bell is American.
+
+Will: Right, so there's a third. We found three.
+
+Trinity: But that's it.
+
+Anna Lucia: There's probably also a crypto element to it. Apparently the Netherlands has a lot of crypto companies per capita compared to other European countries — more startups in that space too. So we're pretty present there as well.
+
+Trinity: This is the part where Will and I promise we'll move to the Netherlands at some point, to further our own education and maybe become better artists. That's how it works, right?
+
+Will: I haven't coded in over two months now, so it's going to be a while before there's another Will Pop original. Maybe moving to the Netherlands is the answer.
+
+Trinity: A hundred percent. I hear it's lovely this time of year.
+
+Anna Lucia: It is.
+
+Will: Well, right on, Anna. Thank you so much for taking the time to speak with us — it's greatly appreciated. We always love talking to artists like this; it always educates us, and hopefully it educates everyone listening too. I think this is a good place to wrap up. Anna, anything you want to plug, or any closing statements?
+
+Anna Lucia: No, thank you for having me. I've dropped some hints here and there in this episode about what's coming up, so I hope people paid attention. Thank you very much for having me.
+
+Will: That does it for this one. Thank you again, Anna. Thank you, Trinity, for recording two days in a row. We'll catch you all later. Bye, everyone.

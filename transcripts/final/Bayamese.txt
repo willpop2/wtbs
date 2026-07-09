@@ -1,0 +1,551 @@
+Will: Hello and welcome to another episode of Waiting to Be Signed, a special interview episode. We're here with Price Discussion, fx(hash) community legend, and head of memes as far as I can tell: Bayamese. Actually, I should ask before we start — do you prefer Baya? Does everyone have the pronunciation right? Is it Bayamese?
+
+Bayamese: Baya is fine, but it's pronounced Bayamese. It's someone that originates from Bayamo, Cuba.
+
+Will: There you go. We'll start it off with a little doxxing.
+
+Bayamese: I'm not actually from there, but my family is. I'm second gen.
+
+Will: We're here with Baya. Anyone who's ever been in Price Discussion knows this guy. Let's start with the typical question: who are you, and how'd you get into crypto, NFTs, generative art, and fx(hash)?
+
+Bayamese: I'm Baya. I got into the whole sphere because of another community member, Conrad — NemoCake on Twitter, so I'm sure it's fine that I say his name. He got me into fx(hash) and showed me generative art. When he first explained it to me, I was opposed, because I wasn't aware of the nuances of crypto at the time — I was very against ETH environmentally. I thought he was into that kind of thing, but once he showed me generative art specifically, I got into it a lot and started collecting. He gave me five Tez to start, and I made my way from there. I think my first mint was *Antigen*.
+
+Will: That's a Jeres project, right?
+
+Bayamese: Yeah, classic Jeres project.
+
+Will: So you'd basically avoided crypto entirely on principle — either ecological concerns or it just felt like scammy bullshit?
+
+Bayamese: Ecologically, I was opposed to ETH, but I didn't know something like Tez existed. I wasn't aware of smart contracts or the differences between chains — I was under the impression proof-of-work was the main thing, like Bitcoin. You've seen those big shipping crates filled with GPUs just melting — sorry, am I allowed to curse?
+
+Will: It's your interview, man, you can do whatever you want.
+
+Bayamese: Just checking — I feel like I've never heard anyone curse on this. Anyway, I didn't want to be involved in something like that. Tezos was obviously a very different story, and I fell in love with the concept and the chain. Conrad also showed me Versum early on — that was right when I got into fx(hash), the same week Versum was created, I think. They were having a free mint event — I can't remember the name — where everyone dropped a free mint that day to celebrate the release. It was crazy, super fun.
+
+Will: That was fun. But my conspiratorial mind thinks the whole thing was engineered marketing. Obviously it was, since it was within their first week, but the number of artists who all of a sudden seemed to know about Verse and have a drop ready was suspiciously high for a brand-new platform.
+
+Bayamese: I agree, everything is conspiratorial in that sense — not in a crazy-person, tinfoil-hat way, just in a market way.
+
+Will: They're trying to start a business, so it's not far-fetched that they'd reach out to a bunch of artists ahead of time and organize the event — it just wasn't pitched that way. They made it seem very organic.
+
+Bayamese: Exactly, I feel you. I really like generative art because the concept feels like I'm rolling the dice all the time, and I really like rolling the dice. I'd much rather buy on primary than secondary — if I get that juicy 0.01% chance mint, that's a nice, fun time.
+
+Will: It's interesting how the dynamics have ebbed and flowed over the platform's history. Early on, everyone was just in it to mint. Now that it's matured, there's a real stratification of collectors — people who basically never mint and just cherry-pick the best pieces from secondary, and then the flippers. It feels like now more than ever the minting tier is almost always dominated by pure flippers. But there's still so much novelty — people want to mint stuff, there's some attachment to the piece you minted yourself, even if it's not the best output in the set.
+
+Bayamese: I feel that for sure. It definitely feels that way.
+
+Will: So your first mint was that Jeres piece, and you came in around the Verse era — you weren't around for the November/December origins. My memory says you were already here by the time I arrived, but maybe that just speaks to your stature in the community.
+
+Bayamese: Maybe. I remember it was January 21st when I created my wallet — I could have joined sooner. At first, me and my friends were in another Discord that came out of us all originally playing RuneScape, which is a little-known fact. The OG OSRS group from 2018 onward is what got me into fx(hash). But I didn't join when they first started talking about it, because I thought crypto and NFTs were kind of cringe, and I didn't know anything. I also didn't want to burden my friend by asking him to walk me through everything. But he was very open and really wanted to bring me into it. So it worked out — just a month late and a few mints missed.
+
+Will: I used to play a ton of RuneScape back in the day. I no-lifed it hard one summer in college. The girl I was dating was working in the science labs over the summer, so I just bummed around in her dorm — didn't go home, didn't have a job, just chilled and played RuneScape all day. This would've been around 2008.
+
+Bayamese: Damn, that's the real OG era — which is funny, because I actually never played that version when I was younger. I played a lot of Neopets, and went through a pretty hard MapleStory phase too.
+
+Will: I skipped that one. I played the TCG for a minute, though.
+
+Bayamese: There was a TCG?
+
+Will: Maybe it never officially got released — at my first job, the company that put it out was Topps, I think. We were talking with them about maybe doing a game together, and one of our bosses came back from a meeting with two booster boxes of it and just said, "here, play this." It was really fun, actually.
+
+Bayamese: That's tight, I did not know they made that.
+
+Will: RuneScape had some crazy mechanics — I basically rage quit because, back then, when you died, you lost everything but two items.
+
+Bayamese: It depends on the mode you play — there are different rulesets. There was no such thing back then, though.
+
+Will: I was doing a run I'd done many times, my micro was just off — I misclicked on my food, didn't eat it, and got killed. And there was something about how the game assigned value to your items — it kept my third and fourth most valuable pieces and took everything else.
+
+Bayamese: Yeah, for sure, so frustrating.
+
+Will: I was just like, I'm done, I can't.
+
+Bayamese: It's so frustrating. Between me, Conrad, and my other friends from that Discord, we've probably put in a couple dozen collective years of game time. It's been a grind.
+
+Will: My brother still plays. Last Christmas, him and his girlfriend were playing any time there was downtime — whipping out the laptops. It looks so different now, the UI is like a million windows. I was like, what are you guys playing? This isn't RuneScape.
+
+Bayamese: We still play OSRS, the old-school version — never played RS3. We've been on OSRS since it released, 2018 I believe. I never played prior to that, but I no-lifed the shit out of that game once I started. It was so good — just the best thing to do when you're unemployed and young, hanging out playing RuneScape.
+
+Will: So you joined in January, your friend gave you five Tez — did you ever put in real money after that, or have you been running on that five Tez this whole time?
+
+Bayamese: There have been times I've put more in to get certain mints, but I think I've gotten everything back out that I put in. I couldn't tell you the last time I bought Tez, honestly — it's been a long time. That's why I miss so many things now. I'm just sitting there like, well, nothing's sold yet, so I'll just watch and make jokes about it.
+
+Will: That's actually something I want to ask about — your role in the community. If you're saying you're so broke you barely collect, what keeps you engaged? I feel like you're always one @baya away from being summoned into Price Discussion. I know you work, but it's mobile — you see the notification, you're very engaged with the community, always cracking jokes and entertaining people. What keeps you so engaged when you're unable to collect?
+
+Bayamese: I think it's just a fun little game in my brain. At work, if I go to the bathroom and I'm just sitting there with nothing else to do, I can pop in, make a joke, and go back to work. The engagement is just entertaining — it's fun to make jokes about stuff. I think I generally walk a thin line: I feel like art, and fx(hash) discourse in general, shouldn't be so serious that it becomes pretentious. Humor helps break that down, keeps people from taking it too seriously. But there are also things I think are staunchly unethical, things you just shouldn't do — so it's a fine line between having fun, making jokes, and keeping people entertained, while still caring about that. It's just as entertaining for me to say silly things, react to my own jokes, and share funny stuff with my friends.
+
+Will: Do you have any background prior to fx(hash) in art — either making it yourself, or just studying or appreciating it?
+
+Bayamese: Not art as much as music. My father was a musician. I can play a good few instruments, but I don't play as much anymore. I used to write and play music a lot, and I really wanted to be an audio engineer for a while. But sometimes you just gotta know when you're not built for something — there are things you're born to do and things you aren't, and being an audio engineer, with that crazy ear you need, is one of the ones I wasn't. Music was the big thing, though art played a role too. I really like Impressionist stuff — Eugène Boudin and that whole school — and I spent a good bit of time studying it. My mom was very into art. But generative art really hit the spot. I'm definitely a code maxi, not really into image composition. I think everyone knows that about me. It's not that image composition is bad as a whole — there's good work there — but I'm here for the code. I'm here for the impressive tech.
+
+Will: Do you have a take on the new, more nuanced tag that's between image comp and non — the one they added for people who use an image but there's still a lot of code going on?
+
+Bayamese: Like Mythic Latent Glitches?
+
+Will: Yeah, or a lot of the stuff Thomas Noya does — pre-rendering because you just can't fit it into the constraints of fx(hash), so they're kind of forced to pre-render some of it.
+
+Bayamese: I honestly didn't even know they'd added that.
+
+Will: It's very new. It's called—
+
+Bayamese: Dude, 61 mints on *Divine Levels*. Godspeed — that's 600. Ten does for charity, dude. Nice.
+
+Will: They made the right move putting the charity in the contract.
+
+Bayamese: Oh yeah, for sure, I think so too. I probably wouldn't be as lighthearted and jokey about it if it were primary to them. But anyway, that's another tangent.
+
+Will: It just says "pre-rendered components."
+
+Bayamese: I'm going to go ahead and decide right now that I like that. Pretty sweet. That's a plus.
+
+Will: I don't know if you listened to our Ivona interview, but it's kind of like—
+
+Bayamese: I did not. I should.
+
+Will: She and also Thomas Noya and some of the others working on AI platforms are training their own models.
+
+Bayamese: Right.
+
+Will: Their own photography, their own work product — that's what gives their stuff its own look.
+
+Bayamese: I really should listen to that.
+
+Will: It's probably our most educational episode, because if you don't know much about AI — we didn't really know that much either.
+
+Bayamese: Oh, thank God, because I really don't. We were actually just talking about this in the Byverse today — I feel very uneducated about it. I'm not opposed to it, I just don't know enough to make any educated statements. I need to check that episode out.
+
+Will: We're potentially having Thomas on around the end of January or early February.
+
+Bayamese: I love his work.
+
+Will: Yeah, his stuff is really cool.
+
+Bayamese: Have you seen this Emprops thing, the oracles?
+
+Will: It just came out today, right?
+
+Bayamese: Yeah. I didn't mint any — I still don't technically understand it, but... what did he say here... "I like their pipeline of being able to have an fx-like token that then feeds the capture through a GAN or style-transfer algo over the top." I am not intelligent enough to understand what that means. But it sounds so cool.
+
+Will: I was talking to Thomas about this today. So there's the platform, and then there's the artist who authored that project — did Ira actually develop the model, or is he just responsible for all the seeds associated with it? It's a little opaque, I'm not really sure. But it is cool that they built a platform where you're essentially live-minting something that's coming through a model like that.
+
+Bayamese: Very interesting. I need to look more into it. I'm scrolling through it right now — it's a little spooky, but I like it.
+
+Will: Let me ask you this. Your fx(hash) persona is very chaotic, very humorous. Talking to you now for almost twenty minutes, you're pretty chill — I can tell you have that humorous energy in you, but do you play a character a bit when you're typing? I think everyone plays a character somewhere in their life — I play a character hosting a show. How do you feel about the character you play in Price Discussion versus the person you actually are?
+
+Bayamese: I very much like the person I am in Price Discussion. Right now it's a little constrained — earlier, for instance, I didn't want to cuss, because I've listened to a good number of your episodes and never heard it once, and I thought, hmm, maybe I shouldn't be a child. But I'm very much the same person. If you catch me in the BAYC server, or we're playing games, it's very much the same energy. I think it's just a little more constrained because I'm trying to keep all my thoughts in one place. I'm really baked right now, trying to make sure all my eggs are in the same basket — unlike the people who invested on FTX.
+
+Will: On the swearing — we never really talked about whether to make this a clean show going in. Personally I swear a lot in casual conversation. I've made other content, for Magic: The Gathering and stuff, and trained myself to withhold it so I don't turn anyone off. You never know if someone's listening without headphones, and there might be a kid — or an adult who'd take offense — nearby.
+
+Bayamese: Oh my God, I did not even consider that.
+
+Will: I never wanted to alienate anyone, and I don't think it detracts too much from the personality. Maybe it makes me a little less funny on the show, since I'm not saying some of the wilder things I might say at, say, the brewery playing Magic.
+
+Bayamese: Right, right, right.
+
+Will: But I don't think it hurts the content.
+
+Bayamese: I agree. I can see people making the opposite argument, but in this instance, since it's an episode with me as the subject — like I said with my last wallet name, there's definitely an aura — but I'll still try to keep it down.
+
+Will: So you've got your main wallet and then a side wallet, and the side wallet changes names often. What's the current name? What are some of your favorite names from the past? Why do you change it so much? And has anything you've said in Price Discussion, or named your wallet, ever earned you a demerit from a mod?
+
+Bayamese: Very funny question. I'll answer all of these, but you may have to remind me partway through.
+
+Will: All good.
+
+Bayamese: Reel me in. So — first question again, my alt wallet, current name and favorite past names. Current name is three Z's right now, because I was trying to do something better — actually, this might ruin the secret of how you do it — there's a way to change your name to have as many characters as you want using the smart contract. I was trying to do it on my phone and my wallet wouldn't connect, because Kukai does not fix their mobile wallet, even though I've emailed and DM'd them like fifty times. If I comment under their posts, I get seventy bots asking me to connect my wallet to them.
+
+So it's currently sitting at three letters, but soon it'll have a different name. Mostly it comes from just thinking of things — usually under the influence, usually out of boredom. It's a creative outlet, almost like speaking straight from my head, making a joke, and then putting it out on a platform in front of people. You get a sale, people see the name, get a little laugh, and move on to something else.
+
+Will: You're planting a joke and waiting for it to sprout into the sales feed. The interesting thing is you can always tell it's yours.
+
+Bayamese: Yeah, though there are definitely more people doing it now.
+
+Will: But yours are pretty identifiable — that stream-of-consciousness, beat-poetry quality. I totally buy that you just sit down and go.
+
+Bayamese: No, it's exactly like that. It's early-2000s shitposting energy — I'm in my early twenties, haven't hit the midway mark yet. Early in my teens I was a huge Yung Lean fan, huge Chief Keef fan, into internet rap and internet shitposting, and that shaped my humor a lot of what it is today. It definitely shows. Like you said, it's identifiable for a reason — very stream of consciousness, very authentic, coming straight off the top, for the most part.
+
+As for the demerit — no, I've never been issued one. As funny as that would be, I don't even know if they've ever done that to anyone. But I've never said anything wildly offensive or edgy. I'm very, very far left on the political spectrum — more than the normal person, to a radical extent — but I'm not a bigot. I'm not going to say a slur or anything wildly offensive or inappropriate. Unless you count the police or the military.
+
+Will: Have you ever talked about that part of you publicly?
+
+Bayamese: I think it's pretty evident when I argue with people in PD — which happens occasionally. There was that one guy recently — I don't know if you were around for it — who said Vitalik was a libertarian, and brought up something Vitalik said on Twitter a while back equating meth users to pedophiles, defending pedophiles in some way. McLlama posted the screenshot in PD — I'd never known he'd said anything that bad. And this guy responded, "He's autistic, TBF," or something like that. I said that's not really an appropriate response — it doesn't hold up, and it's just a random, harmful generalization. He said, "Context is important here." I said, what context — that he's bizarre? Because apparently he was exhibiting "bizarre behavior," so therefore autism? I said, do you not see the line here?
+
+I guess that's not strictly a leftist thing, but there have been other arguments where I've very explicitly shown I'm far to the left socially. I had pronouns in my Twitter username for a while. I think people can generally tell from what I say.
+
+Will: I think I'm the only person in the Discord who has pronouns in my Discord name.
+
+Bayamese: The only reason I haven't done that there is I just like how my name looks on its own. But I have it on Twitter — which honestly makes it kind of pretentious not to have it here too.
+
+Will: Someone way back, maybe December or January, asked me about it, and I thought, here we go.
+
+Bayamese: Oh. To their credit, and I think in general to the credit of the community at large, when I explained it—that even though I myself am cis, by doing this I'm signaling to other people that it's safe to do it and normalizing the behavior—they got it. They didn't change their name, but they didn't call me a virtue signaler or demean the behavior in any way, which was really surprising, because I do feel like crypto is so full of those libertarian, center-right to far-right types who want to meme on that kind of thing. It's been pretty rare here, which is nice. It genuinely upsets me a lot. I see a direct parallel between my personal Twitter and my crypto Twitter that isn't just art—I have mutuals I don't really know, people I randomly followed early on. You see their likes and stuff, and it's so stupid to me. Decentralization is the dumbest thing on the planet in that context. What do you mean you want decentralization? It doesn't mean anything in the end—you need to cash out somehow, and you can't do it without a centralized platform. You'll never get to some pure decentralized end state, because that's not how the world works. It genuinely upsets me. Someone recently—I think it was Tyler or Chris—said in Price Discussion that they didn't like how we're tied down to crypto when it comes to fx(hash) generative art in a blockchain sense. You're tied to it, but it's kind of a no-win situation.
+
+Will: I generally agree, though I'd pull back one notch from you. A lot of the talk on crypto Twitter about the virtues of crypto is very exaggerated, or at least it is right now—plenty of chains aren't very decentralized when you actually look at them. But there is virtue in the fact that if Tezos went to a penny, a bunch of us could just run our own nodes and keep the whole thing going without a corporation involved. The decentralized aspect of securing the chain defeats the need for a centralized corporate entity to keep things going. That's rare under capitalism. If the profit motive of owning Tezos went away—if you were basically losing money because of the electricity needed to stake, which is negligible, but still—if Tezos went to zero, people like Punevyr who run a node would keep it relatively centralized if only a few people were left, but those few people could keep it going out of their houses. That use case has never actually been proven, though.
+
+Bayamese: Right, we've never done that. Maybe we should do that when Solana dies and take it over.
+
+Will: That's the thing about Solana—it's very centralized. You can't just become a baker, or whatever their version is, in Solana.
+
+Bayamese: JK, I don't know anything about that awful chain.
+
+Will: It's basically like a corporation runs Solana.
+
+Bayamese: That's weird. I still don't understand Tezos, honestly. Like, who's Mr. Tezos? How's he putting the big sign on the MLB things? Who's Tezos, you know what I mean?
+
+Will: There's a Tezos Foundation that's separate. There's no—
+
+Bayamese: I'm joking about the "Mr. Tezos" part.
+
+Will: Mr. Tezos—his name is Arthur.
+
+Bayamese: Wait, for real?
+
+Will: Yeah, the founders—if you look them up, it's Arthur B. and his wife. Not sure if they were married at the time.
+
+Bayamese: Arthur B. sounds like a fake name.
+
+Will: He's on Twitter, tweets sometimes. He was just tweeting about a scam someone tried to run on Tezos recently.
+
+Bayamese: That seems pretty ethical. I know a lot of people have some issue with—honestly, I still don't understand the drama.
+
+Will: You can find a summary of it. As far as I understand, the original conflict has been completely adjudicated—the aggrieved parties were paid. Some people who invested in the ICO successfully sued the founders for something related to securities fraud, which is basically true of everyone who starts a coin. Literally everybody.
+
+Bayamese: Sam Bankman-Fried is there too, you know.
+
+Will: Something along those lines. You can find good summaries, but as far as I understand, that was five years ago, which is ages in crypto time. Why are we still talking about it? I don't know.
+
+Bayamese: This space moves at like a 50x rate. I was just listening to some podcast—I don't remember which—talking about how fast the crypto space moves, and it's so true. The last year has felt like three years as far as crypto goes, but real life has gone by in the blink of an eye.
+
+Will: Wait till you get to 30, bro.
+
+Bayamese: I'm slightly stressed, but not too stressed, I guess.
+
+Will: I can safely tell you my 30s have been way better than my 20s.
+
+Bayamese: I'm just stressed about the state of the world. Ecologically, we're in a pretty rough spot. I don't know how well we'll fare in the near future.
+
+Will: Hey, we got that fusion breakthrough this week. Who knows, that could be a thing.
+
+Bayamese: Hopefully.
+
+Will: Let me pivot to another fx(hash) question. The space evolves really fast—you've been a Discord community member for almost a year now. Next month will be your one-year mark.
+
+Bayamese: Oh my God, that's so true. I didn't even realize that.
+
+Will: How do you feel things have developed on the platform, in the Discord, in the community? What's changed, what's stayed the same, for better or worse?
+
+Bayamese: It's crazy that it's almost been a year, and there's definitely been a lot of changes. Right now it's a little tilted toward the market side, but we are in Price Discussion, so, fair. I'm not really upset about it—I mostly find it funny to make jokes about. I never take it too seriously, whether it's talking about floors, "shilling," or your favorite projects. It's all good—artists are getting paid and people are happy. Right now it's just a bit more market-heavy, but we still have a lot of our old OG core members. The big thing about Tezos, like people have said, is the community—the chain, fx(hash), HEN—it's been a very tight-knit, long-game thing. Tezos is under a dollar right now, so people aren't really here for the crypto side of it. I think it's a healthy community. We don't have nearly as many bad actors as other chains like Ethereum. People made that joke about Dmitry Chernyak saying Tezos is a scammer's chain, which is just bananas, considering how many—dozens and dozens, actually no, hundreds, potentially thousands—of projects on Ethereum had hundreds of thousands of ETH in volume and are now worth like 0.05 ETH. Just useless.
+
+Will: I think that comment was a little misconstrued. I don't think he said the chain was for scammers—he was calling the chain itself a scam, referencing what we just talked about. Someone asked what he meant, and he linked to summaries of that case and the settlement.
+
+Bayamese: Oh man, people took that and ran with it. That's so funny.
+
+Will: I didn't wade into it, because he hasn't blocked me yet, and God willing, maybe someday he'll release on Tezos and we'll want to talk to him.
+
+Bayamese: That's so funny. That's sad for him, I guess, that they did that.
+
+Will: I'd also push back a little—Tezos is probably one of the longest-lasting chains in terms of longevity. It made it through the 2017 crash, and it's making it through this one too, God willing. Right now, we're trucking along. So overall you feel the community has stayed strong, even if the current conversation has shifted a bit toward flipper talk?
+
+Bayamese: Yeah, and you know what, we all flip—we all do a little market-placing, a little selling, we all need to fund potential future mints. Or sometimes you need to buy your wife or girlfriend jewelry, or God forbid, pay taxes. The speculation is a lot sometimes, especially when it's nonstop. It's funny to joke about it, like the Ty Vek thing, which I know we'll talk about more—there are a lot of good jokes that come out of it. And in the end, the artist is getting good things, which is what makes me happiest about this whole system: artists can get paid a livable amount for the art they create and the time they put into it. Plenty of artists in this space live more than comfortably in a way they might not have in the traditional art world. That's a really great thing to see. But when the market talk goes on nonstop, it's just annoying—every hour you open Discord and it's the same thing: "Oh, who's this guy? What about this? Oh, he's releasing this on this date, maybe we should all buy everything he's ever made since the beginning of time." Which again is good, but when it's constant, it gets kind of brain-numbing.
+
+Will: You mentioned earlier you love to mint stuff—you love the lottery-ticket vibe of maybe hitting a super rare piece. Any big memorable mints you hit that you were able to sell for a big windfall profit that funded you for a while?
+
+Bayamese: One I have really good memories of is *Sprocket Factory*. I love that drop. I love Ryan Bell—he's a great artist, a very nice guy, and pretty funny too.
+
+Will: He's a music guy too.
+
+Bayamese: Yeah, he's a music guy as well, just a really cool, wholesome dude. I managed to squeak out two reserves across both my wallets, and I think I minted three total. I sold one for about $160, and traded my red one—my grail piece—to my friend Ahmad. I got a *Seascape* for it, plus some other things like a *Heat Death* and something else.
+
+Will: Nice.
+
+Bayamese: Yeah, which is great. I loved that project—it was a really fun minting experience. I got my girlfriend to mint too; she's the one who got my grail piece, *Sprocket 19*, a crazy red iteration with kanji text at the top. Really spicy. That one wasn't about flipping, but I got great stuff out of it. Then there was *fx(Apes)*—that was such a good minting experience.
+
+Will: Oh my God.
+
+Bayamese: I love that. The *fx(Apes)* minting experience was something else for me.
+
+Will: Did you sell them all?
+
+Bayamese: I only got one, because I didn't understand very well how to properly get in the block, and I just got railed. I remember it being one of the first big ones I saw, and I thought, this is going to be huge. That was pretty early on for me in the space.
+
+Will: I think it was February—I remember covering it on a really early episode, and we named the episode after it.
+
+**Bayamese:** It was a huge thing to me to mint that — my first mint that went crazy high on secondary. I did end up selling mine. I got trolled so hard trying to see it beforehand. Oh my God, I'm remembering this now — real ones remember when you had to copy-paste the hash at the top of your URL to see the mint before the preview. I didn't fully understand how it worked yet, so I typed it in and got an iteration — but there was a space in it, so it entered a question mark instead, since it's coded. And it rendered this crazy thing — RGB fur, a *Smolskull* shirt, some kind of captain's hat. I was like, oh my God. But it ended up just being a pretty mediocre green-background orange ape. I was like, damn, that's kind of sad. Anyway, that was a good one. Let me look at my oldest mints, I can't think of any others right now.
+
+**Will:** The iRyanBell *Sprocket Factory* — when that came out I called it the greatest transfer of wealth in fx(hash) history. It was so cheap, like 5 tez, reserved out to people who already had his stuff. I think I sold around the same range you did, maybe a little higher — like $225 — but people were spiking up into the $300, $400, even $500 range instantly on that one. Anyone who got one, it was just so much free tez. *Apes* came out the week of January 30th — that would be episode 4 of the podcast.
+
+**Bayamese:** That was literally the week I joined, or the week after.
+
+**Will:** There were some big releases that week — Flockaroo's *Mountain Moves*, if you remember.
+
+**Bayamese:** Oh my God, yes.
+
+**Will:** Jeff Palmer's *Dissolution*.
+
+**Bayamese:** Oh, I got some of those.
+
+**Will:** And RevDanCatt's *Overbombing Project*.
+
+**Bayamese:** Got some of those too. I like those, they're nice.
+
+**Will:** That was back when Everlasting Building was putting out a project every week — those rooms, if you remember.
+
+**Bayamese:** I got a few of those at some point. You know what was another great one? The first Tyler Boswell — I want to say *Hydrangea* and *Patchwork* was the first one. Or which one came first out of the two?
+
+**Will:** I actually don't know.
+
+**Bayamese:** *Hydrangea* and *Patchwork* — that was the first thing I saw from him, and it was a free mint. I remember that day, Petey was going crazy for it. It wasn't crazy expensive or anything, but the art was really nice and refreshing, everything looked different, people were talking about it a lot, and it was just a fun minting experience. He was also in the chat at the time, which — I know that's not necessarily uncommon, a lot of artists come into PD and talk — but it's a more connecting experience when you get to talk to artists as they release their projects. That was the first time I ever interacted with him, and he made a joke about something I said, which is always a good sign. It's a good indicator when an artist makes jokes, because in traditional art there's a lot of pretentiousness — a lot of invalidation that comes from people thinking their art or their sense of design is better than yours. You don't get a lot of that in this space. You don't get a lot of people who release something and then act like the biggest douche on the planet afterward. Usually they're humble, nice people, and when they can joke around, it's a huge plus. Landlines makes jokes all the time — funny guy. Leander always makes jokes too. Funny guy, great artist.
+
+**Will:** Did you listen to his episode?
+
+**Bayamese:** Yes, I was listening the other day. He's a great guy. I really love his art, and a lot of my friends are good friends with him and say he's really funny. Ciphrd too, I hear — also very funny. Just funny people. I think it's a positive indicator. That was a huge diversion from the original topic.
+
+**Will:** I don't even remember what the original topic was.
+
+**Bayamese:** Me neither. That's how we got here.
+
+**Will:** You were just talking about some artists. So who do you like to collect? Who are some of your favorites on the platform? What are some of your favorite pieces? And who do you look forward to minting when you have the tez?
+
+**Bayamese:** I'm a huge fan of all my friends who I talk to most, because they're also really good artists. You know what was super fire? The most recent *Exalted* piece, *Garda* — so cool, I love that piece, and Exalted's progression has been so nice. I'm a big fan of theirs now. Tyler Boswell, huge fan. Who — my guy, humongous fan of *Who* and *Gradient Descent*.
+
+**Will:** But Who doesn't release that often.
+
+**Bayamese:** I know, but I'm always looking forward to his releases. I can't stress enough how good *1 Hour* was. It's so underappreciated, the whole concept of it. You know what's so upsetting to me? *1 Hour* is a perfect example of a project people probably bought and flipped a million times over without ever bothering to open it in live view, press play, or read the description of what it's actually about. If you've ever watched it in real time — that 60-minute slowed time is the actual hour of the heart — it's so nice in the background. If you have a second monitor running it, it's really nice. I wish those little display monitors didn't cost $34,000. That would be pretty sick.
+
+**Will:** Give it a few years. Do you know the story behind this one, since you're kind of friends with him? What inspired it?
+
+**Bayamese:** I don't remember exactly. We talked about it one night while just hanging out. I remember him saying he got really deep into — I can't recall if he took a book out from the library or bought one — but he studied EKGs, understanding what happens in them. He said he geeked out hard over the concept and figuring out how to translate it into an artistic style. He could explain it a lot better himself.
+
+**Will:** I was just curious if it was inspired by a personal event. When this came out, I really wanted to get a couple. I minted one and then it sold out. I wanted to give one to my brother, who's had multiple heart surgeries in his life. It also reminded me of this weird thing my grandpa did — he got hit by someone on a bicycle in New York City when I was in third grade.
+
+**Bayamese:** Oh my God.
+
+**Will:** I think it triggered a heart attack — trying to recall my childhood memory here. He went to the hospital and got a bypass or whatever you do for a heart attack, but he was fine. He's actually still alive. And he gave me this long sheet of receipt-style paper that was an EKG printout.
+
+**Bayamese:** Yeah.
+
+**Will:** Kind of a weird thing to give a third grader, but it reminds me of that. It feels like a personal project in a way.
+
+**Bayamese:** I definitely think there's that element to it. I wish I remembered the conversation more clearly — I forget things within minutes, honestly. But I remember him telling me how excited he was about figuring out a way to work that in, his thought process behind it, and how he geeked out over the concept and studying it. I'm a big *Gradient Descent* fan, really into that style. Big fan of Leander. Big fan of *Aglow* too.
+
+**Will:** Oh, yeah.
+
+**Bayamese:** That was really, really good — I'm really into that style. Loren Bednar, I really like a lot.
+
+**Will:** We've got to start the Loren Bednar Appreciation Club, because I feel like his stuff doesn't get the respect it deserves on fx(hash). I don't even know exactly what I like about it, but it's so cool.
+
+**Bayamese:** It's the style. I think he gets appreciation from the same kind of crowd that Nudoru has — people who really appreciate his work. It's pretty large-scale now, I feel like his work is valued pretty well. He mints out at 20 tez when tez is expensive. His work and style are very distinct, and it attracts a specific group of people. There are also just flippers, of course. But big fan of his work, and he's very funny too — another big indicator of being funny and being a good artist.
+
+**Will:** And he hasn't released in a while either.
+
+**Bayamese:** I know. I'm convinced his next release is going to be a stealth drop. He's going to do it, I know he will. This is me coping. This is just coping.
+
+**Will:** Or maybe he's working on an Art Blocks thing, in monk mode. His stuff on Ethereum is far more expensive than his stuff on fx(hash).
+
+**Bayamese:** I didn't even know Loren had things on Ethereum, honestly.
+
+**Will:** It's different too — he uses color.
+
+**Bayamese:** Oh my God, this is so cool. *Parade*. Oh my God, 400 minted? How much are these — this is expensive.
+
+**Will:** You might need to sell some of that girlfriend jewelry.
+
+**Bayamese:** Yeah, I guess so. Super sick, though. I really like these kinds of animations a lot. This is exactly what I'm talking about — so nice. I'm a big 8-bit enjoyer, big pixels moving guy. We do a little bit of pixel enjoying.
+
+**Will:** Is that the type of stuff you're trying to teach yourself? You've mentioned in passing, in Price Discussion, working on your own coding — is that to create art?
+
+**Bayamese:** Yeah, I also want coding as my career. Right now I sell insurance, which is very lame and not fun, and I want to do front-end development as a career instead. That would be really nice, but I heavily lack motivation a lot of the time. It's difficult — I work 8:30 to 5 every day, and it's hard not to be tired. I also run PD for free, unpaid, and it's a lot. I don't have time to sit there and code if I'm busy making jokes.
+
+**Will:** Yeah.
+
+**Bayamese:** But yeah, it is to make art — sorry, I completely diverted. I'm very interested in plotting works, SVG stuff, but I'm really bad at vector math. I failed every year of math in middle school and high school. I'm not good at it — I'm an English person, a writer. I considered doing writing-based generative art, like Ross Goodwin — that wave was coming in hot.
+
+**Will:** Yeah.
+
+**Bayamese:** Big Ross Goodwin fan, by the way. I considered it, but it's not really what I'd want to do for real. I'd prefer the SVG route. I'm interested in abstract art, in 8-bit things, pushing pixels around — quite literally, even as a base concept — like *Gradient Descent*, things like that. I'm a big fan of how *Heat Death*'s actual code was so short. That's so impressive to me. I don't know if you follow KilledByAPixel or people like that on Twitter, but they post their—
+
+**Will:** The tweet-length code Twitter crowd.
+
+**Bayamese:** Yeah, that's crazy to me — using vanilla JavaScript, they make a whole fx(hash) project in a tweet. I'm like, okay, I get it, you're cooler than me. That's great. Thanks. JavaScript, from talking to artists and learning a little bit about it, seems to have this mixed reputation—really janky on one hand, but because of that jankiness, it's capable of doing things like that. You can get a lot out of it in a very compact form. I tried to learn some at the beginning of the year when I was making those early *Waiting to Be Signed* projects, and my code looked nothing like that stuff, with just letters and arrows everywhere.
+
+Bayamese: I was like, what am I looking at? It confuses me pretty hard.
+
+Will: That's definitely not the way to start. You just gotta load up the p5 library and—
+
+Bayamese: I know.
+
+Will: Or use some of the others—there are libraries more pixel-art oriented that I think are good for that kind of thing. You must like Kim Asendorf too.
+
+Bayamese: Oh yeah, love him. You know who else? There's someone I recently discovered who reminded me of Kim Asendorf. I want to say the project was called *Angel Fire*. Hold on, I need to find this—I'm sorry, I hope you can edit this out, but I absolutely need to find it. *Rush Gush Blush* was so neat, I'm a big fan of that. Oh, and *Open Space* by 3D Manatee was great too. Best on fx(hash).
+
+Will: Oh yeah, I saw you had a lot of those.
+
+Bayamese: Love them. I swept the floor on those—well, I didn't get to mint them at all, which was very sad for me. Okay, found it: the project is called *Angel Fire*. I still don't understand the relationship between Lowcode and Asterly—I think maybe they're a pair, and they make stuff together—but *Angel Fire* is so good, and it's still mintable. Only 5,000 supply. I just realized I should mint more of these.
+
+Will: They use Hydra.
+
+Bayamese: Very interesting, and I'm a fan of that. *Ethereal Data Circuits* was cool too, a little different, but in that same vein. I'm a big fan of glitch art. TAC released something on fx(hash), I believe—only two things, and I think both are PFP things, but their work on OBJKT is good. Glitch art stuff is very cool to me—that early-2000s internet phase shining through for real.
+
+Will: Those are all good names, some I'm not familiar with, which is great. Anything else you want to cover?
+
+Bayamese: I did want to ask you about Magic: The Gathering. You and Trinity both have a background in it, right?
+
+Will: Oh, hell yeah.
+
+Bayamese: Coincidence, or did you two come to this space together from Magic?
+
+Will: No, not coincidence—it's the foundation of our friendship, dating back to college. I was a senior when she came in as a freshman. We went to a really small school, and someone put out an email trying to start a Magic: The Gathering meetup group. We hung out with that group a couple times, but we really didn't vibe with the other kids—they were more D&D-style nerds, excessively nerdy before it was cool to be that way. We cleaved off and did our own thing. We were much more interested in the semi-professional side of playing, traveling to big tournaments, while they were more casual.
+
+Bayamese: Filthy casuals.
+
+Will: Yeah, too casual. We also got in trouble because the guy organizing the club spent money on a box of boosters so we could draft—you open the boosters and build your deck from the cards. Do you know what I'm talking about, or is this all just noise to you?
+
+Bayamese: I've never heard of that, but it sounds really cool. I'm not in the scene, just curious.
+
+Will: The story goes nowhere if you don't know the game, but the TL;DR is: we knew the values of the cards and the other kids didn't. So as everyone's passing the cards around and picking, we just picked all the really valuable ones.
+
+Bayamese: That's not even a big deal.
+
+Will: The guy who organized it didn't realize what was happening at the time. Afterward he was like, "Wait, how come everyone I know ended up with all these trash cards? Where'd all the good cards go?" And we're just like, "Later."
+
+Bayamese: You're not even cheating, you're just being smarter.
+
+Will: It's one of those things I wouldn't do now—getting a $20 card in a kind of opportunistic, scumbag-adjacent way isn't something I'd do as someone with a job. It would occur to me, sure, but I'm 38 now—I'm not trying to burn social equity with people for a few dollars. But at 19? I need these cards, they're valuable, twenty whole dollars.
+
+Bayamese: That's twenty Hot and Spicy's, bro.
+
+Will: Exactly. Trinity's thing was that there weren't very many women who played, so at even medium-sized tournaments she'd often be the only woman there. People really underestimated her. They'd start showboating a little—you play poker, right, so you know tabletop dynamics—they'd try to read her, thinking it was obvious what she had, and make all these assumptions. I'd be watching her have absolutely none of the cards they thought she had, and they'd make horrible mistakes, overplaying the situation and losing the game just because they assumed she wasn't a good player.
+
+Bayamese: I would have loved to see that. That is cringe of them. I can imagine it's not a fun space to be in as a woman, at all. I wouldn't want to be associated with it just for that reason. Good for her for sticking with it.
+
+Will: She loved the game, and mostly we played just with friends. It was only at the bigger events that things got a little less comfortable, not really hostile, but not comfortable either.
+
+Bayamese: I could see that. Do those events smell as bad as Smash events? Smash Bros—have you ever been to one of those?
+
+Will: I haven't. I am familiar with the furry who's the world champ, though—what's his name?
+
+Bayamese: Wait, the Smash world champ is a furry?
+
+Will: Maybe it's Street Fighter I'm thinking of.
+
+Bayamese: Oh, SonicFox! Yeah, I forgot about him. He is a furry. The more you know. Smash events smelled so bad—I truly did not know putrid odor until I walked into one.
+
+Will: They were usually in big convention halls, well-ventilated enough that it wasn't too crazy. Trinity, being one of the few women there, had the luxury of having the women's bathroom all to herself. The men's bathrooms got pretty bad over time.
+
+Bayamese: Oh my God, that's so messed up. I also wanted to ask—what art do you enjoy collecting the most? Who's your favorite artist? I'm not super familiar with your tastes.
+
+Will: We actually just recorded our top 10s of the year today, so that'll come out soon. But my number one right now has to be Jeres.
+
+Bayamese: I'm such a big fan.
+
+Will: I've been collecting their stuff since January, watching the whole arc of releases over the year—all the little breakthroughs, *Vapor Trails*, the attachment pieces, projects that blew up but didn't go crazy. And now *Coronado* is my favorite. I love that project.
+
+Bayamese: Yeah, banger.
+
+Will: Another artist you'd probably like if you haven't checked them out is Agoston Nagy.
+
+Bayamese: Let me check—I don't believe I have.
+
+Will: Check out *Turing*. Check out *Kernel*, their most recent one, still open for mint.
+
+Bayamese: So much of their stuff is still open for mint. Oh, I minted *Turing*, I had one of those at one point. Let me look at their most recent piece... I remember *Turing*, that was fire.
+
+Will: If you look at *Kernel*, the one before it, and *Nil*—all of their stuff is animated, and it actually has an audio component too. I feel like you'd really like it.
+
+Bayamese: Oh, this is sick. Yeah, I do like this. What a good recommendation, thank you.
+
+Will: And it's totally disrespected right now—you can get in really cheap.
+
+Bayamese: I've actually changed direction—I want to do a cellular automata project as my first thing, I think. I've been super fixated on it, like an ADHD fixation. I'm just really interested in the way it works, looking at all the rules. I want to read—well, not the whole thing, but a lot of that Wolfram book about all the rules. I've never been interested in math, always been bad at it, wish I could be a lot better, but this is very interesting to me. I like reading about things like the Ulam spiral, math and nature, that kind of thing. I think Zancan makes a point of that a lot too—math in nature, code in nature, tech in nature.
+
+Will: Yeah.
+
+Bayamese: It's a big theme. I've just been fixated on it, especially because of that project.
+
+Will: In a way—I think I have a reputation for hating on naturalistic stuff, the trees, mostly because of how many of them there are on the platform. But they do make sense as a subject for computer art, because there's so much math involved in something formed from cells dividing and placing themselves, the fractal nature of it all. It makes sense thematically, it just annoys me how many flowers and trees we get.
+
+Bayamese: I know, but you know who's done it best? Nat Sarkissian, with *Bardez*.
+
+Will: *Bardez*, yeah.
+
+Bayamese: That's a project I don't have that I want most, besides maybe *Contra*. It's a lot more affordable than *Contra*, but gosh, is that project something else. I really love it.
+
+Will: Yeah, the impressionistic take on it, adding that painterly style—really nice.
+
+Bayamese: I just love impressionism. I think I'm a big impressionist guy.
+
+Will: Do you like the current wave of paintbrush-style work, recreating brush strokes, that we've been seeing in some projects?
+
+Bayamese: Yeah, I like it a lot. It's interesting seeing all the different ways people approach it. Nudoru especially has some very interesting takes on brushstrokes. I'm a big fan, and I like the diversity—like I said, I'm very into uniqueness in the space right now. Even something like Landlines' project on OBJKT, *Destruct*, with the burning text.
+
+Will: Yeah, I have one of those.
+
+Bayamese: It's so cool to me. Even what he did with 8BitDo — that token where it was all randomly generated. I can't remember how much it was, but I still have one of them on my 8BitDo, and they were all randomized via some custom process, I don't know, it was crazy. It was so cool, I was really impressed. I'm a big fan of things like that, that just are different. I think it's very important to set yourself apart from others if you want to succeed.
+
+Will: It's not necessarily immediately rewarding, but I think in the long run it's gonna pay off.
+
+Bayamese: There's things that release and get hate early on, but in time people realize how good they are. A lot of music is like that. There are artists who release something that sounds awful at first, and then you listen to it three years later and think, this guy was onto something.
+
+Will: We can't go down this rabbit hole now, we're too deep to start talking weird music theory — we need to wrap up for the sake of time. One last question, and it's a hot topical one: I need a non-copypasta theory from you about Ty Vek, if you have one to offer.
+
+Bayamese: I honestly don't know. I haven't done any of the investigating that other people have — a lot of people have done a lot more digging in general. I genuinely don't know who it could be. I haven't put much thought into it, honestly, because people were talking about it so much it made my brain hurt for a while, and I was like, all right guys, did anyone see a cool bird today?
+
+But I do think it's neat and interesting. I really liked what Ty Vek did with Art Basel, with the little tickets of unique tokens — very cool concept. It shows a lot about the community, and the mix of the market and community aspect, how it all works. Do you remember who mentioned Typing in Price Discussion when we talked about it?
+
+Will: I think it was me, actually.
+
+Bayamese: I thought so. Typing is the perfect example of the same kind of thing — I don't think we ever found out who that was. I think they just took the Tez, if I remember correctly, and withdrew it.
+
+Will: Yeah, I remember the big leading theory at the time was Abash.
+
+Bayamese: I remember that too. It's interesting to watch that dynamic play out, the speculation and all. It's fun to make jokes about — there are so many funny things that come out of it. Like that thing with *Light Tyvek*, what is it —
+
+Will: The one that went up today.
+
+Bayamese: Right, *Lytek von Uten*. The reactions from both sides are pretty funny, but I think it's lighthearted. Ty Vek said he's cool with it — he seemed happy, and he even encouraged PixelWank, upped his percentage on it or something, which was nice. I think it's funny, I think it's cool, but I don't have any real theories. I know my friends do, but I didn't really read the messages — I was focused on something else at the time. I'm excited to find out, though I don't think we'll find out for a while, since I think he's going on a hiatus.
+
+Will: That's what it sounds like.
+
+Bayamese: So we'll just have speculation for a while, which will be fun. Maybe it's Rudxane.
+
+Will: I've heard that theory too, more recently.
+
+Bayamese: I don't know if it's valid — his art doesn't really resemble it, nothing alludes to it — but I just feel like it's Rud. I feel it in my bones.
+
+Will: All right, now you're on the record. That's your guess. I like that.
+
+Bayamese: I'd say Tyler Boswell, if I didn't talk to him every other day.
+
+Will: Any parting thoughts? Anything you want to say, or do you just want to wrap it up?
+
+Bayamese: Nothing too crazy. I appreciate you having me on, it's been a great time, I hope everyone else enjoyed it. Probably not as chaotic as usual, just because of this new setting — if there were a podcast that happened inside BAYC while we were doing things, it'd be a different story. You guys were talking about doing a League of Legends podcast or something — you should just do that in the Binance. I don't remember if you guys ever did.
+
+Will: Someone was trying to invite us to come play League of Legends with them and stream it or something.
+
+Bayamese: I can't remember if it was Maxwell White.
+
+Will: Oh yeah, maybe.
+
+Bayamese: Might have been Rocky, or maybe Who — I can't remember who was invited. Oh, actually, Who definitely invited Trinity to play League at some point. I think they might have actually played recently.
+
+Will: Really interesting.
+
+Bayamese: I think so. Maybe so.
+
+Will: I can't play anymore. I've got boomer APM now.
+
+Bayamese: Boomer APM — that's so funny. Oh my God, that's hilarious.
+
+Will: I've definitely noticed that. I started playing that game with my brother, his younger friend, and their friends — he's like eight years younger than me. When I was under 30, I could keep up with them, get to gold, platinum, actually rank up a bit. But every few years I come back to the game and try to reacclimate, and I just can't do it anymore.
+
+Bayamese: Sometimes it's like that, man. It's hard to keep the motor functions up. I probably have a fraction of the gray matter I had at 18, and I'm not even 20 yet. It's really something else.
+
+Will: Well, those are prime gaming years — enjoy them.
+
+Bayamese: I appreciate it a lot. Hope you have a good rest of your night, man, and thanks.
+
+Will: Thank you, Baya, for coming on the show. I'm glad you were down to do this. At the beginning I thought we'd talk to way more people from Price Discussion and make the show more community-focused, partly because I assumed a lot of artists would say no to coming on. But surprisingly, virtually everyone says yes, so we ended up going the artist route instead. It felt like the right time, though — now that the show and the platform are about a year old, it feels right to start honoring the community a bit more. You seemed like the obvious first pick. It was really cool to talk to you.
+
+Bayamese: I appreciate that a lot, man, thank you — that means a lot. I don't think too hard about the jokes I make. Sometimes it feels like a drop in the pond — I'll be honest, I take a lot of shots in the form of jokes, and a lot of them don't land. But that's okay, it makes it a little funnier when a joke doesn't land — I just self-react, and we move on. Try again next time.
+
+Will: Good words to live by. Thanks again, Baya, glad you could come on. That's it — that's the definitive, canonical Bayamese interview. I hope you all enjoyed it. We'll be back again soon with another one. Until then, later everyone.

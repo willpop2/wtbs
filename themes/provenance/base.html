@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Waiting To Be Signed{% endblock %}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=Space+Mono:wght@400;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Caveat:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ root }}style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="{{ root }}index.html">Waiting <span class="g">to be</span> <span class="p">signed</span></a>
+  <nav class="nav">
+    <a href="{{ root }}index.html#ledger">The Ledger</a>
+    <a href="{{ root }}index.html#about">About</a>
+    <button class="btn-surprise" id="surprise">⚄ Surprise me</button>
+  </nav>
+</header>
+<main>
+{% block content %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <span class="foot-brand">Waiting <span class="g">to be</span> <span class="p">signed</span></span>
+    <span>A podcast by Trinity &amp; Will · interviews on generative &amp; on-chain art</span>
+  </div>
+</footer>
+<script>
+  document.getElementById('surprise').addEventListener('click', async function () {
+    try {
+      var list = await (await fetch('{{ root }}episodes.json')).json();
+      location.href = '{{ root }}' + list[Math.floor(Math.random() * list.length)] + '.html';
+    } catch (e) { location.href = '{{ root }}index.html'; }
+  });
+</script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

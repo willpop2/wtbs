@@ -1,0 +1,721 @@
+Trinity: So you train a model with thousands of pictures that you took, and then you just have it kind of spit out images based off of the images that were, it was trained on, like?
+
+Thomas Noya: Yeah, exactly. Once the model's trained, it can generate an infinite number of new images that never existed before -- it's not just recombining the photos I fed it, it's actually learned the patterns and can produce novel outputs. Then I take those outputs into p5 and apply the effects -- the dithering, the blend modes, all of that -- to get the final look.
+
+Will: All right. Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined this evening by Thomas Noya, an artist who comes up often on the show -- we've been collecting his work and talking about him for a long time. Trinity is here too, of course. How's it going, everyone?
+
+Thomas Noya: Hi, Trinity. Hi, Will. Thanks for having me. Sorry, Trinity, I think I stole your spot.
+
+Trinity: No, there's no spots to steal. You're the guest. Guests are always first.
+
+Thomas Noya: Well, thanks for having me, guys. Let's do this. It's gonna be fun.
+
+Will: It's super exciting because you've had a bunch of releases recently, which we're gonna get into -- you're kind of on a roll right now. And this will be the official-ish announcement of the collaboration we've been working on for a while with the podcast, so we'll definitely want to talk about that later too. But before we get into all of your work, maybe you can give us an introduction: your history in art and coding, how you first discovered NFTs, and what brought you to fx(hash).
+
+Thomas Noya: I'd say my background is in arts -- both my parents were artists, or are artists, so I never really had a chance of becoming anything else, sadly. Should've been a banker, maybe that would've been better. I did a degree first in media production and worked in filmmaking and advertising for a few years back in Venezuela. Then I moved to London and went to art school, and that's when I discovered creative coding. Before that I'd never really coded anything, so it's only been about four years of me writing JavaScript.
+
+As for crypto, I heard about Bitcoin early on -- somewhere around 2012 or '13, because I used to go into the dark web every night just to browse through weirdness. I knew about it but sadly never bought any. NFTs, I think the first time I heard the term was in the bull market of 2017, in some article like, "oh, this is a use case for this," but I didn't really pay attention -- I just heard it mentioned and forgot about it. Then in 2021, during the next bull market for crypto art, there were headlines like "*Fidenza* sold for this much" or "*Ringers* sold for this much." My dad kept saying, "Have you looked into making NFTs with your art?" and I'm pretty sure I said, "I think it's stupid." At the beginning I only knew about OpenSea, and I didn't know about anything else, so I kept going there and thinking, "there's so much noise, I have nothing to do here."
+
+It wasn't until a few months later that I stumbled across Hic Et Nunc and saw it was on Tezos -- much cheaper to mint there, and it didn't carry the same environmental cost as Ethereum did back then. I started collecting there and even minted a few AI works, something really rudimentary, just for the fun of it. From HEN, I discovered Loackme. When HEN closed, he released *Sticky Circles* on fx(hash), I think in week one or two -- pretty early on. I went into fx(hash), it all looked very beta, but I liked the energy of it. Sadly, I didn't collect anything -- I regret that every day of my life. But I did read the documentation and noticed you could actually upload your own generative sketches, so I made a note to come back to it as a platform eventually and mint something. By the time I got back, there were already something like 5,000 projects on there. So even though I knew about fx(hash) from the beginning, I didn't really interact with it much at all, which in hindsight was probably an error.
+
+Trinity: So does your dad release NFTs?
+
+Thomas Noya: No, but I do have three short video pieces on Foundation that use his music -- so it's like a collaboration, I'd say.
+
+Trinity: That's so beautiful. He was really flipping the script. You gotta appreciate that.
+
+Thomas Noya: You could blame it on me being a contrarian -- "I'm not gonna do what you're telling me to do." He should've done the opposite: told me not to get into NFTs. Maybe then I would've bought a *Ringer* for 1 ETH.
+
+Trinity: NFTs, they're dumb as hell.
+
+Thomas Noya: Yep. NFTs are evil.
+
+Will: It's so funny that that's how you got into it. It feels like outside our small circle, NFTs have such a bad reputation -- so many artists seem resistant to get into the space. You obviously overcame it through the environmental angle, finding Tezos, and finding the community. Do you still have a circle of art friends you're embarrassed to tell that you do NFTs, or who have bad opinions of it?
+
+Thomas Noya: I don't think I've ever been embarrassed about it since I started releasing art as NFTs, because I just see NFTs as a medium -- a way to distribute my work. I don't really care about anything else; it just facilitates something I couldn't do before. If ETH didn't have the gas prices it has, I think I would've minted something on OpenSea back then -- the environmental thing mattered, but I guess I still would've minted something just to try it. But when I saw the gas prices, I was like, this is fucking stupid.
+
+As for friends outside our space, I don't think I know anyone else from my previous circle who's doing this, even though they're artists. A couple have asked me about fx(hash) and how to get started, and I've offered to help, but they've been too busy or not interested enough to actually put in the time. I don't think anyone's ever criticized me for it in person. Maybe on Twitter someone has, but who cares about Twitter?
+
+Will: Good point. How did you get into the AI side of your art? You mentioned you've been coding for about four years, but when you were in art school, were you there for painting? Design? Because about half or more of the work you've released uses AI-trained models.
+
+Thomas Noya: My initial idea was to do a fine art degree, but when I applied I switched to a newish program called Digital Arts Computing -- half arts, half computer science. That's how I got introduced to coding. In my last year we had a machine learning course, but the summer before that, I got interested in AI and started training my own models on a platform called Runway ML. They're still around, though I think they've rebranded to cater more to video editors -- special effects and things like that. I never used them for that; I just used them to train models because I didn't want to deal with setting up a virtual machine myself. Eventually I moved to running my own virtual machines and training my own models on my own.
+
+The first model I trained was kind of funny -- I had this idea to gather thousands of photos from Vogue runway shows, different designers, and train a model on them to make some sort of crazy AI clothes or modeling. I did that with tons of collections, and by the time I was done I was really happy with it. Then I read an article that Robbie Barat had done pretty much the same thing a year before me, and I thought, guess I'm late.
+
+Trinity: Yeah, but still a genius.
+
+Thomas Noya: He's a genius. I wouldn't call myself one. It's magical to me that these models can generate images -- it's beautiful how much weird craziness can happen. Although I tend to prefer the errors and imperfections over the ultra-realistic stuff. I can appreciate that for how technically incredible it is, but it's kind of boring. I'd rather go into the Twilight Zone of creepiness.
+
+Trinity: What kind of creepiness do you typically lean into?
+
+Thomas Noya: I don't know -- whenever you get a third eye, or a face that's too long to be a face. The thing is, I don't really work much with humans or animals. I trained a model on clouds once, and within that model you start seeing all these crazy patterns emerge that don't really look like clouds, but kind of do if you turn the image a certain way. I really like StyleGAN for that reason -- you get these nice textures that you don't get with the diffusion models that are popular now, like Stable Diffusion or DALL-E. To go back to your question about how I got into AI -- I don't remember exactly what drove me to it, but I just started on Runway ML, since that was the easiest way in for someone who didn't want to deal with Python back then.
+
+Will: One of the things that stood out the first time I encountered your work -- and I'm pretty sure I gave it a pretty bad review on the show, because I just didn't understand it. There were other digital photography projects around at the time and people were saying "this is photography," and I was like, wait, I don't get it, it doesn't look like anything.
+
+Thomas Noya: Is that *HX*?
+
+Will: Maybe the one right after it -- the one that had a pretty big moment on the secondary market. I've obviously come around on it quite a bit since. What are you using to train those models? What are the underlying images? And then you're applying all this After Effects-style stuff on top too, right -- p5 dithering and other effects? Can you walk us through one of your *HX* projects, start to finish -- what goes into it?
+
+Thomas Noya: Funny that you mention the bad review -- I don't think I'd actually listened to Waiting to Be Signed back on those first couple of projects. I was aware of the show because I saw tweets about it, and I thought it was a clever name, since back then you really did have to wait days for things to get signed. Now I'm curious to hear the review, though -- I'll check that out tomorrow.
+
+I don't remember the exact project you mean, but there was a photography collection that did multiple exposure, black and white -- I think even Matt Kane or Tyler Hobbs tweeted about it.
+
+Trinity: Was it *Metamorphosis*?
+
+Thomas Noya: I don't recall the name, but it was pretty big at the time, and that's when I thought: why didn't I think of this before? Of course I could do multiple-exposure kind of things in p5 and add a bit more magic to it. That's how I got the idea to start the *HX* series.
+
+As for what goes into it -- every model I've used for fx(hash) I've trained on my own datasets, usually just me taking photos with my phone of a particular subject. For the very first one, I used a model trained on trees -- I was going on runs in winter in Brooklyn's Prospect Park, and I kept seeing these bare trees against gray or pure blue skies with no clouds. The silhouettes looked really cool to me, and I thought I could make a great-looking model out of that. Every run, I'd take maybe a hundred photos of trees, and eventually I had enough to train my own model. I did some sketches in Photoshop first -- what blend mode do I need, what kind of dither, what looks good, what doesn't -- and then I brought it into p5 and made it happen there.
+
+Trinity: So you train a model with thousands of pictures that you took, and then it just spits out images based on what it was trained on?
+
+Thomas Noya: Yeah, exactly. Once the model's trained, it can generate an infinite number of new images that never existed before -- it's not just recombining the photos I fed it, it's actually learned the patterns and can produce novel outputs. Then I take those outputs into p5 and apply the effects -- the dithering, the blend modes, all of that -- to get the final look. It'll usually give me a bunch of tree-looking things. With the hands, you get the crazy hands or the crazy fingers. With the trees, because I didn't train for very long and didn't have a huge dataset, you get these crazy twigs and branches that don't make any sense as a tree. As a visual image, though, that's interesting. So what I do is train the model, pick which one I want to use, generate a bunch of seeds from it, and curate them: okay, these are the ones I want. Then I write my script in p5, which takes a random selection of the seeds I've preloaded into the sketch and combines them. Back then, I think I was using between 3 and 5 seeds per output.
+
+Each layer it picks also gets processed with an array of dithers based on Floyd-Steinberg dithering, but modified to be broken, air quotes, so it doesn't work as intended. I apply other image processing tricks too, like contrast, saturation, hue, blend modes. All of it combines in a kind of chain reaction to create the outputs.
+
+Trinity: Just to be clear, when you're uploading seeds, they're image files that are part of the code. They're not being generated within the code that's uploaded to fx(hash).
+
+Thomas Noya: Right. If you could actually host a GAN model on fx(hash), you could do it all online. But with the 20 or 30 megabyte limit, that's not really possible. You can do it with a tiny model, like Cyril did with his Moon project, which is beautiful. I think that's why he took the approach of a grid of tiny moons — if you made that image big, it probably wouldn't look as good, unless you're going for some kind of glitch aesthetic.
+
+Will: PixelWank is the other artist we know who's done that, and I think the way he gets around it is by using ASCII or pixel art as the output. He's not going for something high fidelity, but the whole model is contained within the code.
+
+Thomas Noya: That's the way, for now — unless something changes in the next couple years and you get this amazing model that only weighs 2 megabytes. That's kind of where Emprops comes in, actually — sorry, small deviation — it's an interesting platform because you can do these things all online.
+
+Will: Looking at your earliest projects in the HX series, the AI stuff — with *GHX-1* you can pretty easily tell the tree influence. But then with *MCHX* and *CHX*, I have no idea what the underlying photographs and models are.
+
+Thomas Noya: For *MCHX*, it's a dataset I built in the Catskill Mountains — close-up photos of rocks, trees, ground, all the textures you find in a wet environment. All the greens and grays, the rocks — that's what gives those oval shapes. For *SketchX*, I think I only used one model, trained on close-ups of dry paint from walls, streets, or paintings in museums, but really close up, so you can't tell a figure — just a line, a texture, a depth. That was the first one where I used color in an inherent way, which is why it's called *SketchX*. For the other two, the first letter doesn't really mean anything. The HX came from fx(hash) — I wanted a short, brandable name that could represent a potential series. That's how I came up with *HX1*. There could potentially be an *HX2*, though it was never going to be a *CHX2* — just, you know, the possibility was there.
+
+Trinity: So we can assume *GHX* is for Genesis?
+
+Thomas Noya: Oh, there you go.
+
+Trinity: There we go. It was there the entire time.
+
+Thomas Noya: Yeah, I absolutely thought of that.
+
+Trinity: *CHX* was really your first big breakout — the one people saw and jumped on. I feel like Galo has half the collection and idflood has the other half. Not entirely sure of those numbers — we might need to do some fact-checking.
+
+Thomas Noya: idflood has the most for sure. I don't know exactly how many, but a lot. Galo's probably second, but I don't think he has more than 5%.
+
+Will: idflood was buying in at a time when the project had a signing issue and it wasn't clear it would be resolved.
+
+Thomas Noya: The ones that were white, yeah.
+
+Will: I can't remember if it was at the 1.0 launch or the end of beta, but then all of them got revealed. Pretty good moment for him, I have to imagine.
+
+Thomas Noya: That was a crazy day. It was the first one I released with that many editions. I want to say one of the earlier ones I minted with something like 100 in mind, then burned some at some point.
+
+Trinity: They're all 24 or 32.
+
+Thomas Noya: *UHX* and *MHX* were on purpose — I don't think I burned any there. *Interlinked*, I think, might have been around 100, and I burned some too. *CHX* was funny because it was the first one where I thought, 256 makes sense — 256 bits, and it's color. I set the price at 2.5556 tez to make it symmetric, and thought, if I sell 20, I'll be happy. So I minted it, left my laptop, and went to do something else. When I came back, it was gone. I went into Discord and everyone was talking about it, and I didn't know anything. Someone said, "Oh, Galo just bought one for 100 tez." I was like, wait, why is he paying 100 tez for this? And who is Galo? I didn't even know who he was. It was a crazy morning.
+
+Trinity: It's so unique and different from *GHX* and *MCHX*. When you were creating it, what was your thought process — was it, "oh, this is bonkers cool, the best thing I've ever made," or, the way you're describing it, more like, "this is pretty pedestrian, I'll just put it out there"?
+
+Thomas Noya: When I did the other two, I already had the idea of where I eventually wanted to go: the first one mostly white, the second mostly black, the inverse, and the third in color. I didn't know exactly how, but it was going to be color. As I was developing it, I thought, there are so many good outputs, why limit it to 32? I'll just make it 256 and see what happens. But that one took a while — I started making it and lost interest for a bit. This is probably cancelable nowadays, but I watched the Kanye West documentary on Netflix around that time, and seeing him as a young kid doing his own thing inspired me to just finish it on my own time. Back then I also had a normal day job, so I spent two weeks working every night from 9 p.m. till 3 in the morning until I finished it. So, as bad a person as Kanye West is, he did have some positive influence on that project specifically, before he was canceled. Please don't hate me.
+
+Trinity: You're going to have to airdrop him a couple.
+
+Will: I don't think anyone's going to get mad at you for watching the documentary.
+
+Trinity: *KHX* — let's go.
+
+Thomas Noya: Missed opportunity there once again.
+
+Will: The HX series is done, right? You finished it on Verse. You had a few more on fx(hash) around the start of the year, but *THX* on Verse wrapped it up. What does that mean for you and your AI work going forward — is there going to be a break? Are you moving away from the dithering look, or —
+
+Thomas Noya: I'm not going to stop making AI work, because I love it. I'm not going to stop making dithering work, because I love it — it's become the style I've developed that's easy to recognize. But whatever comes next won't be exactly the same as *HX*, and it won't be called *HX* anything. I do have some ideas I'd like to finalize this year. I have a model I've been working on since last summer that I'd eventually like to finish and do something with — I don't know if it'll be released commercially, but at least I'd like to finish the piece.
+
+As for *THX*, I'd been thinking about culminating the HX series this year around the anniversary of the first one, *GHX*, or *CHX*. Then Verse came along and offered me the opportunity to be part of *Imperfections*, and it felt like the perfect time to finish it. So it just happened to land on Verse instead of fx(hash). Most of the collectors are from fx(hash) anyway, so it doesn't really matter.
+
+Trinity: As long as your next series isn't the "AB series" existing only on Art Blocks, I think we're fine.
+
+Thomas Noya: I don't think I'm close to Art Blocks, but it's in my mind to apply at some point this year, even just for the sake of applying.
+
+Trinity: If you need a reference, we're here for you.
+
+Will: On the Verse drop, why did you decide to curate it? You've done curated work on OBJKT before — the *Some Kind Of* series, which is great. Why curate 400 different outputs? It was 400, right?
+
+Thomas Noya: Yeah, 400. The first idea was to curate like 100 or 150. I wanted control over what the collection was going to be, since none of the others were curated. Taking money out of it — just as a series that exists as pure art — I wanted control over which outputs, which pieces, made the cut. At some point I sent Verse around 500 consecutive random artworks so they could evaluate the algorithm, and we landed on 400. There were so many good ones — why limit ourselves to 150 or 100?
+
+I won't lie, it was kind of scary. I think it's probably the first one that was 400 curated on that platform — I don't even know if any other platform has done 400 curated. That's a lot of editions. I didn't know how that was going to play with the market, because generative work usually carries a premium when it's a smaller set, and I didn't know how people would behave with curated generative at that scale.
+
+Trinity: Watching it play out on Verse, I'd say it's played out pretty darn well. I wouldn't know it wasn't purely generative based on the market dynamics. You've created such a distinct style with the HX series that it's probably an honor for collectors to have a piece you've specifically handpicked.
+
+Thomas Noya: Thanks to everyone who collected. As for the OBJKT series, *Some Kind Of*, I started that while working for Art Für Theory last summer. That project was taking most of my hours every day, and I needed a break from that particular sketch. So I'd wake up at 7 or 8 in the morning and go straight to my computer before anything else — before my phone, before breakfast, before coffee — and make something glitchy. It started as a daily series while I was looking for inspiration, and the name comes from being playful about what an image looks like: *Some Kind Of...* Whatever I minted in that collection back then, I'd made that same day.
+
+Will: I enjoy those in particular — I collected a bunch of them.
+
+Thomas Noya: You have a lot, yeah.
+
+Will: Especially while I was working on the AI gallery. I really liked *Rapture* — the way the rainbows played out against the black and white. Those were super cool.
+
+Thomas Noya: Yeah, that one was a nice surprise -- I wasn't expecting to make that. That series is also coming to an end soon. There are only 5 left, but those 5 aren't going to be sold. They'll just be airdropped to collectors of the series.
+
+Trinity: That's alpha, folks.
+
+Will: Fingers crossed there are any left after we go and collect more of these.
+
+Thomas Noya: I'll go in order of importance -- whoever has the most will get more.
+
+Will: Well, that bodes well for me. What do you think, Trinity -- since we opened up for Tender, should we talk a little bit about the p5 work? Technically your genesis is p5, and you've had a lot of standout projects there. The one I first collected and got excited about, and I think the one we first talked about on the show too, was *400 Flips*.
+
+Thomas Noya: Yes.
+
+Will: There's a beauty to the randomness and noisiness of it, but it also somehow feels orderly, with these nice little surprises built in. When KenConsumer was on the show around the end of the year, he had it in his top 10 drops of 2022. Let's hear a little bit about that one -- it was such a fun release.
+
+Thomas Noya: When I heard Ken say that, I was like, wow, that's unbelievable. The idea for *400 Flips* -- not the name or the concept, just the art -- came when I was working on *RTX*, because it shares the same backbone. Instead of seeing the sphere you get from rotating all those figures in 3D space, it's like a close-up of that -- the nucleus of the sphere is what forms *400 Flips*. It's not the same exact code, but it stems from the same idea.
+
+My visual references were Jackson Pollock, of course, but also Jonathan Horowitz -- specifically a series of his called *Leftover Paint Abstractions*. If you Google that, you'll see what I mean; it's done with paint drips, more like circular pointillism. My initial idea was to make something in that pointillism style, but when I discovered that "mistake" with *RTX*, I decided to go that direction instead.
+
+This was early in fx(hash) 1.0, and there was a lot of discussion on Discord about a new wave of quick flippers who maybe weren't around in the same numbers during the beta days -- whether because new people came in or new tools made it easier to mint more. So I wanted to make a piece designed to induce flipping, and by inducing everyone to flip it, collapse its own value on the secondary market. That didn't really work out -- it actually did quite well on secondary, for whoever ended up with those royalties.
+
+Initially, I wanted to give 100% of royalties to whoever minted, but that wasn't possible. I considered a Dutch auction for royalties too -- the sooner you mint, the more royalties you'd get, like the first 50 minters getting 99%, then dropping to 75%, and so on. But there was no easy way to implement that, it got too messy. So I went back to my initial idea and just set it to 99.9% to the minter. I would have loved to give 100%, both because it's a stronger number and because the fractions of fractions of a tez I kept getting as the artist were so annoying -- I didn't even know royalties could go that low.
+
+Will: That's funny. Have you heard of anyone else trying to kill their own secondary market like that, Trinity?
+
+Trinity: The closest thing that comes to mind is RevDanCatt's *Art for Bots* -- 64 editions at 0.16 tez, released right after he dropped a semi-big project earlier that day, so all the bots were already queued up on his wallet.
+
+Thomas Noya: That's funny. On one of my early pieces on HEN, under a different Tezos account, I tried releasing something really cheap without realizing there were bots -- they just took it all. So next I made a 10-by-10-pixel black square with text that read "for the bots," priced it super cheap, and released a thousand of them just to see how many bots would buy it. I guess other people have had the same idea of catering to the bots.
+
+Will: Dan is a weirdo like that.
+
+Thomas Noya: How did that project do, actually? I haven't seen it.
+
+Trinity: It's still largely held by bots, but it has a pretty beautiful floor. I hope it stays there.
+
+Thomas Noya: Don't give the bots the pleasure.
+
+Trinity: Floor of 111.
+
+Will: That's pretty good returns, though I think most of the bots got out of it -- at least the first round did, way under that. There were hardcore Dan Catt fans coming up with theories about which ones were best and picking them out, since they were all instantly listed. That moment when everything hits the market is the time to grab the one you like best. At least with your project you put out 400 editions --
+
+Trinity: -- so it's harder to get heavily flipped than something like 64 editions, where there's only so much you can do.
+
+Thomas Noya: The name *400 Flips* actually comes from the movie *The 400 Blows*.
+
+Will: I was always curious if that was a reference.
+
+Thomas Noya: It is, though I'll admit I've never seen the movie -- I just knew the title and thought it was great. So it's a reference to something I haven't even watched.
+
+Will: Anything else about how it all came together? It has such an amazing mix of color and composition, and somehow manages to feel interesting while also feeling random -- which is such a hard balance to strike with abstract work.
+
+Thomas Noya: Most of the development time went into finding different color combinations and patterns within the chaos, because there's a very fine line between something that looks completely random but good, something completely random that just doesn't work, and something that has a sense of intention to it -- which, hopefully, most of the *400 Flips*, if not all of them, achieve.
+
+Trinity: How much tweaking do you usually do on a project, AI or otherwise, to get to the point where you look at a thousand outputs and think, most of these are pretty solid?
+
+Thomas Noya: It's grown exponentially -- I do way more tweaking now than before. I don't remember exactly how many tests I ran for *CHX*, but probably fewer than a thousand. For *Aftertaste* [A4Tore], there are probably 10,000 tests somewhere -- I haven't counted, but it's at least 11,000 or 12,000. For *400 Flips*, I'd need to check my hard drive, but probably 4,000 to 5,000 tests.
+
+Will: Should we talk about *Aftertaste* then -- the big collaboration you did with TENDER? It's interesting that you mention so many test outputs, because a piece like that can be deceptively complicated even though it might look, for lack of a better term, simple -- this thing that moves across the screen and leaves streaks behind. What was that process like?
+
+Trinity: And how was it working with AJ? You can drag him through the mud if you need to.
+
+Thomas Noya: No, no, no -- I'd never do that with him or anyone. From the beginning, I was surprised when AJ and Flo approached me to do something together, and I said, let's do it. We started going over ideas -- should we build a collaboration from scratch, or do the kind of collaboration TENDER had done before, where you take an almost-finished project and add some final... I forget the right term, but I believe *Tidally* did one like that.
+
+Will: An advisory?
+
+Thomas Noya: Advisory, that's the word. I said, if we're going to collaborate, let's do something from scratch, whatever it turns out to be. I presented a couple of ideas I had in mind around that time, and we took it from there -- talking about my current references in art and anything influencing me.
+
+AJ is so good at bringing the best out of artists -- at least out of me; I can't speak for how he works with others. I don't think *Aftertaste* would exist in the form it did without him. Even though I had a core idea related to it, it wasn't close to what it ended up becoming, and I'm really happy with how it turned out.
+
+It took us about six months total, and most of that time was spent making sure the movement looked right. The backbone of the sketch was done in about two months. A lot of attention went into color, of course, but most of the time was spent on the movement of the animation as it renders, because we wanted it to look human. We weren't trying to make the lights look like real lights or the paint look like real paint -- we weren't trying to fool anyone into thinking it was something it wasn't. The movement was what mattered: it needed to be playful, gestural, human-like, like it came from a hand. Finding the right balance of speed, direction, and small imperfections in the path -- the patterns and shapes it forms -- was the big challenge. That took so many hours every day of render after render, thinking "no, not that." I ordered a print last week and watched them render again, and they still make me happy every time I see them.
+
+Trinity: How do you even approach creating something that feels human and lifelike? It's not like you can just watch videos and superimpose that quality onto code -- you can't really tell how human it feels until you've implemented it and gone through the trial and error.
+
+Thomas Noya: If I were good at math, I probably would have gotten there sooner. But since I'm not good at math or coding, it was a lot of trial and error. My approach to the technical side of generative art is mostly brute force -- hours and hours of just plowing through it. A lot of times I have a clear visual idea of what I want, but executing that in a way that holds up sustainably across many editions is, for me, trial and error. If I were really good at coding it would be much easier, but that's not me.
+
+Will: That's rough.
+
+Thomas Noya: It's fun too, because in that trial and error you get surprised, and in those surprises I always find new directions or ideas I didn't know were possible at the start. That's become part of my process: I start with a seed idea, execute it in a generative environment, and end up somewhere that's maybe not fully removed from the original concept but visually different from anything I imagined. That's what I love about generative art -- even though I'm not great at coding, it lets me do things I couldn't do any other way, or that would otherwise take far longer, because I can automate the process.
+
+What I really love about generative art, AI, and machine learning is that surprise of discovering the unknown that was there all along but you didn't know it. That feeling is the best part. Exploring those avenues is what I've come to accept as my practice -- just following the errors.
+
+Trinity: Or just following whatever looks really cool.
+
+Thomas Noya: Usually the error looks cool. At the end of the day, if it doesn't look cool, what's the point?
+
+Will: Not to plug the *Logos with Fractals* project, but the coolest ones are the ones that kind of bleed.
+
+Trinity: The ones that almost crashed.
+
+Will: When I first found that effect by accident, it was like a broken recursion in the loop, and it creates this really cool bleeding-ink effect on some of those fractal outputs. The trick was figuring out how to keep that effect in the code but create a stopping point so it wouldn't run forever and the token wouldn't sign. I think one or two actually didn't sign — someone messaged me about it — but it's fine.
+
+Trinity: That's the best one.
+
+Will: Yeah, probably. I want to talk about our collab. Do you want to talk about *Ciudad Central* first? Any cool story there before we move on?
+
+Thomas Noya: Blind approached me to do something with them, and I had this idea I'd wanted to try for a while: paying homage to some of my favorite artists, growing up and still now — Jesús Soto, Cruz-Diez, James Turrell. I'd also once made a particle system that used part of my own DNA data — the genomic markers — as input. It's not a scientific implementation, just pure numbers, a symbolic gesture. I wanted to try something like that for fx(hash), so $fxh has a few lines of my DNA in it. Nothing scientific happening with it, but there's a literal piece of me in there somewhere.
+
+I got the data through one of those ancestry tests — you can actually ask them to send you the raw data, and it's this massive text file, millions and millions of numbers and letters, that crashes your computer. It's a direction I want to keep exploring this year — I'm looking at making physical pieces from it, experimenting with different printing methods, and letting it grow into a series eventually. For now, I'm happy with *Ciudad Central* on fx(hash). And then — should we get into the collaboration? Do you want to talk about how it started?
+
+Will: I think it started with Trinity meeting you at NFT NYC, which at this point was almost a year ago.
+
+Trinity: We said hello, then listened to a mariachi band, then got kicked out.
+
+Thomas Noya: Kicked out, yeah. Good times. And then we thought about making this collaboration.
+
+Trinity: It's everybody's local — let's do something.
+
+Will: The big realization was when Trinity and I talked later that week and she said, "Oh yeah, I met Thomas Noya, and he actually lives in Brooklyn."
+
+Trinity: And we're like, does he play *Magic*?
+
+Thomas Noya: The last time I played *Magic: The Gathering*, I must have been about 13.
+
+Trinity: So that's a yes, you do play *Magic*.
+
+Thomas Noya: In a different lifetime, yes.
+
+Will: There are apps for that — you can get reacclimated pretty quickly.
+
+Thomas Noya: I'm scared to do that with a bunch of things.
+
+Will: After the collab's done, jump in. Devote as much time as you want.
+
+At that point, we'd figured out it wasn't sustainable for us to keep making our own projects, so we started working with collaborators — had some success — and then started thinking about what we could do that was a bit more meta, bigger picture. All the collabs were great, but we wanted to move past just doing a logo or the earlier format. So: let's do something with A.I. We settled on training a model on the show — on our text transcripts. That's basically where we're at now — the model's essentially done. That's where you come in, Thomas. Tell us what's interesting or exciting about this project from your perspective, and the difference in working with text.
+
+Thomas Noya: The moment you said, "let's do something together with A.I.," my first thought was, what kind of image do you want to make? Then you said, "let's train a model on all the episodes," and I thought, now we're talking. I'd done some basic stuff with language models before but never anything serious, so this was the perfect opportunity to do something fun and different. I'm sure someone's done it before, but I don't know how many language-model projects are out there on fx(hash).
+
+Trinity: Sasha Stiles — there's some other poetry stuff.
+
+Thomas Noya: Sure, but by the numbers, it's less than twenty. Definitely fun to do something slightly different. And there's something fun about language models trained on not much data — they're weird in a fun way. GPT is amazing, but it's a different kind of amazing. Our model — everyone will see when we release it — but some of the outputs are just hilarious.
+
+Trinity: So that was trained on what, 45, 46 episodes?
+
+Thomas Noya: At least 44.
+
+Trinity: So, 50 or 60 hours of audio worth of transcripts. What would be a better measure?
+
+Thomas Noya: Millions and millions of pages.
+
+Will: That was the biggest surprise to me — when you said, "we don't have very much data here," I was like, what? We have an entire year of episodes.
+
+Thomas Noya: I'm used to working with little data when I train my own models. By professional scientific standards, I'm using nothing — if I use 500 or 1,000 images, that's like 0.1% of what companies use to train something like those "this person does not exist" faces, which was probably billions of photos. So by computing standards, it's nothing. But for art, you get the fun outputs precisely from the imperfections of small models.
+
+The major challenge for me is that because it's a text-centric piece, it's more graphic-designy — not in a bad way, but you have to take a different approach, because it has to remain understandable to a point. We don't want to abstract the text so much that it just becomes a building block and you can't read what the model is saying. So it's a fine balance: cool-looking compositions while still preserving the spirit of the output, so people can enjoy the craziness of the *Waiting to Be Signed* model.
+
+Trinity: You can't just dither it, which would probably look really cool.
+
+Thomas Noya: I tried. Didn't work.
+
+Will: We could have a toggle — dither on, dither off.
+
+Thomas Noya: That could be an option, let's see. But I think it's better to keep it *Waiting to Be Signed*-model-centric, its own style.
+
+Trinity: I love that it's a mash-up between the A.I. work — that's the source — and then finding something cool to do with it in JavaScript. Best of and worst of both worlds, in a lot of respects.
+
+Will: It's also cool because in the past we had very little input into these collabs. Trinity, you'd say you had the most input of anyone on the collabs we've done.
+
+Trinity: I provided fonts.
+
+Will: Fonts, and a little art directing. Well — not quite art directing, but you were the one who said, "I like posters, Jeres, let's look at Olympic posters," and you two both jumped on that.
+
+Trinity: Looking at stuff from the '80s, it's just so on point. Whoever was doing graphic design back then —
+
+Thomas Noya: Whatever happened to humanity after that?
+
+Trinity: Both ahead of their time and completely of their time — or things just come full circle.
+
+Thomas Noya: What's the word — anachronistic? Like it doesn't belong anywhere, out of time.
+
+Will: The cool thing here is, since we're not wrapping this model into the code — unlike your image-based stuff — we have to pre-curate all the text strings. So that's something we can all participate in. We've been tweeting some of them, but I don't think anyone's guessed what those weird tweets are yet. A couple people have messaged me asking what's going on.
+
+Trinity: "Were you hacked?"
+
+Will: "Were you hacked?" Something like that.
+
+Thomas Noya: This last week we both tweeted around the same time — the one about "it's all about the gas." Trinity, you mentioned it in Discord too, and people were like, what is this, what is happening?
+
+It's a very interesting process. There was a way we could have trained a model to run live inside fx(hash), but it would've used different technology and the model would have sucked — sucked to the point it wasn't even funny. So the compromise was: let's use a GPT-2 model that makes better outputs but won't fit within fx(hash). We do all the outputs outside of fx(hash) instead — we still get the awesomeness of the model, it just won't run live. Maybe one day we host it on a website and people can go prompt it themselves.
+
+Will: Ooh.
+
+Thomas Noya: That's actually a really good idea.
+
+Trinity: WTBS —
+
+Thomas Noya: Always possible.
+
+Trinity: Let's go.
+
+Will: Wait, does that actually work as a URL?
+
+Trinity: Yeah, you can.
+
+Will: Sick. Well, let's launch the project first.
+
+Trinity: You two have been doing most of the heavy lifting on string creation — I haven't figured out how to do that quite yet.
+
+Thomas Noya: There's still time.
+
+Will: I haven't been coming at it as frequently as I'd hoped, but I've been working on the ones that start with multiple words in that shared document. We need a lot more, so Trinity, figure it out — it's actually pretty fun. You get to craft it, figure out what prompts create a good string and what doesn't, and play with how creative the output gets versus how close it sticks to the script.
+
+Trinity: I'll have to take a look.
+
+Thomas Noya: It's interesting — the more niche a word is, the less the model knows what to do with it. A lot of times, if you put in something specific and uncommon, it'll assume the word is the name of an artwork. It'll say something like "AirPods, an amazing piece," instead of "AirPods are headphones that you use." Recently I fed in that quote from a couple episodes ago — "NFTs are evil, your therapist said that" — and I thought, that's going to make an amazing seed. That's the seed that produced the line about gas: "don't spend it all on gas."
+
+Will: I think it was "don't spend all your tears on gas."
+
+Thomas Noya: Yeah, it was. Beautiful.
+
+Will: That one will hopefully make it in.
+
+Thomas Noya: That should be a t-shirt. And a hat. Everything.
+
+Trinity: God, and it's so appropriate for this whole bear market — people will be crying.
+
+Thomas Noya: I'm not looking forward to that day in like six months.
+
+Will: I guess this is on-topic and off-topic for your work, but — is that something you think about now? On Tezos we're all pretty good about enforcing royalties, but you've put work on Ethereum now, and if you want to do Art Blocks someday, or more with Verse — is that top of mind for you? Are you thinking strategically about how you'd approach releases if royalties aren't guaranteed?
+
+Thomas Noya: Not really. Not because I don't think it's important, just because I haven't had the time to worry about it. I'm postponing my worrying to whenever I'm not this busy, mostly because I don't know what solution I could actually implement. I liked what you said in the previous episode, Trinity, about OpenSea defaulting to paying royalties by opting people in, since most people will forget to even untick that box. People don't like unticking boxes. But I really don't know what the solution is. It doesn't matter what platform I use unless Tezos disappears, and I'm not even worrying about that. I'm always going to release work on Tezos and fx(hash). Probably not as many projects as last year, just because I can't keep that rhythm, and because I want to keep increasing the quality of my work, which means I need more time between series. If I were a really fast coder, maybe I could pull it off, but I'm not. So it doesn't matter to me whether I release on Verse, OpenSea, Art Blocks, fx(hash), or OBJKT — I'll be everywhere. The platform isn't the main thing for me. The art is the main thing. Whatever infrastructure supports that, I'll be there. Not on Solana, though. Not Solana, not Cardano, not any of those weird things. Why would I?
+
+Will: I have some Cardano from way back in the day.
+
+Thomas Noya: I used to have Cardano too. I don't think I sold at the top, but I'm pretty sure I made some money from it.
+
+Will: I didn't sell at the top either, so I'm just holding still.
+
+Thomas Noya: I did sell Ripple at the top back in the day.
+
+Trinity: I think I'm still holding Ripple in a lost wallet.
+
+Will: In a lost wallet?
+
+Trinity: Well, not a wallet — on some exchange that went down.
+
+Thomas Noya: Oh, that's even worse.
+
+Trinity: It's like, "sorry if you're a US customer."
+
+Will: "You have 30 days to move your money or—"
+
+Trinity: And I got that email like five years ago. More than that. Never did.
+
+Will: Do you want to talk about your collection a little bit? Are you an active collector? Do you seek out a lot of AI stuff, or are your tastes pretty eclectic? Who do you think is undervalued or underexplored?
+
+Thomas Noya: This year I haven't been that good at collecting. Last year I collected way more — not for economic reasons, just because I've been so busy working that I forget about drops, and then secondary is crazy so I have to wait. But if there's something I really love and missed at mint, I'll probably go back for it eventually. From the big pieces I really love recently, I have a Coronado, and a *Glossolalia* that I love even more than the Coronado, I think.
+
+Trinity: Oh, I love *Glossolalia* too. What do you love about it?
+
+Thomas Noya: I don't know — the blocks, the depth, the story behind it is so powerful. I'm not an expert on Coronado, but I think there are more colors going on in *Glossolalia*.
+
+Trinity: Definitely way more vibrant.
+
+Thomas Noya: Such a strong piece. I don't think the market loves it as much, but who cares about the market?
+
+Trinity: It's 60% below mint right now.
+
+Thomas Noya: Perfect time, then. Sadly, the one I want isn't for sale — it's the one you have.
+
+Trinity: It is a very nice one.
+
+Thomas Noya: I think it's a light purple palette — so beautiful. That's one of the few drops where I actually minted the palette I wanted. I wanted a black background. Usually I want something and never get it, so I have to go to secondary, sell what I minted, and try to buy what I actually wanted. A little bit of friction, but it's all part of the game.
+
+Trinity: The danger of long-form generative art.
+
+Thomas Noya: A couple hours ago I collected this one — I think it's still available to mint. I didn't know the artist, but I really like the work: *Recursive Realms* by Salviado. I should mint a couple more, it's so good. I'm a very eclectic collector. If it's not expensive, I'll collect anything I like, or anything from an artist I want to support. If it's expensive, I really have to love it. Either way, I always collect assuming that money is gone, so I don't put too much weight on it. The only piece I've ever minted where I thought, "okay, I could actually make a return on this," was *KGM*.
+
+Will: Did you flip it?
+
+Thomas Noya: No, but I listed it about a week ago. It's way above floor, so I'm not expecting it to sell anytime soon, but I listed it for the fun of it. That's the only piece I've minted where I thought I could probably make money if I wanted to. It's got a risograph background with great colors.
+
+Trinity: It's one of the rare ones. It's beautiful.
+
+Thomas Noya: I got lucky. I should have bought two that day — it was the same day I dropped *RTX*. Half the tez from *RTX* went into that *KGM*. I was tempted to mint a second one, but I was on my phone in a car and it wasn't working, so I gave up. I do remember I minted it for 666 tez, which I thought was kind of funny.
+
+Trinity: Hey, it worked out. You got a good one.
+
+Thomas Noya: All about the numbers. In terms of artists I think are undervalued, I have a little list here — in advance, I apologize to all of them because I'm going to butcher their names. Kusamehewa, 3DT, PaperCut, Polymorph, Boro — all amazing projects. Elaut the Cock. Chatori. Dashine the Shade is so good — I collect everything he releases, no matter what it is.
+
+Will: He's a very active Discord user too.
+
+Thomas Noya: There's something so old-school digital about his work. Net art kind of vibes.
+
+Will: I chatted with him once in #price-discussion. He's had a long career making digital objects — a dozen or so years ago he was making stuff for Second Life and selling it, and probably even before that.
+
+Thomas Noya: It has that vibe younger people like us try to replicate every now and then, but he's the real thing. It's pure, it's so good. Sam Tsao is definitely not unknown, but I think undervalued. Look up Ish Gorej. Or Protocell Labs, with *Obscurum* — definitely undervalued. Gorilla Sun, for sure — such a treasure. His blog is an amazing learning resource; anyone trying to learn generative coding or anything JavaScript-related for art should go read it. Antonio Verley is kind of new to the platform, but he has two releases and I really like them both. Actually, one of the most recent pieces I bought was from that second one — I saw it and thought, I like this too much, I don't care what happens, I'm getting it.
+
+Trinity: Which one — the first one, *Debyte*, or—
+
+Thomas Noya: The second one, *Umbra Money*. There are too many, but the last one I had written down is Harry Isaac. I don't think they've released anything lately, but *Chromantix* was one of my first mints on fx(hash). I minted two, flipped them both near the top, and I actually want to go buy some more because I like that project so much. I still have one of the *Blots* pieces.
+
+Trinity: That's Will's favorite.
+
+Will: I always liked *Blots* more than *Chromantix*. I liked the movement of it.
+
+Thomas Noya: It looks like skin — so weird, but I love it. It would look amazing as a big projection or on a big screen somewhere. I also have his last drop on fx(hash). What was the name of that one — very cyberpunk kind of thing.
+
+Trinity: Oh, *Cybernetics*.
+
+Thomas Noya: *Cybernetics*, yeah.
+
+Trinity: Still available to mint.
+
+Thomas Noya: I don't think that one did well market-wise, but anything he's made, I like it. I hope he comes back at some point.
+
+Will: Harry's also in New York.
+
+Thomas Noya: Oh really? I thought they were from the UK.
+
+Will: No, I met them right before I moved to Jersey City — we met up in Brooklyn. I think they just have career stuff going on.
+
+Trinity: I did not know *Cybernetics* had audio — I forgot about that part.
+
+Thomas Noya: At least on my laptop, that piece kills my computer. Maybe that played a part in it not being that popular.
+
+Trinity: The visuals don't load for me, but the sound does.
+
+Thomas Noya: It takes a while to load for me too, if I remember correctly.
+
+Will: I don't know if this qualifies as a rapid-fire question — we asked Ivona this, we asked the Emprops duo this too.
+
+Thomas Noya: I think I know what it is.
+
+Will: Considering you've trained your own models, do you have a strong opinion on AI usage — the difference between training your own model versus just using prompts on something trained on whatever public data, like the Midjourneys of the world? Now that this is so publicly available and evolving, what's your feeling on it?
+
+Thomas Noya: I don't have strong opinions about it — I see both sides of the argument. I train my models on my own data, not just to avoid the gray area, but because I want control over the outcome, and I want it to feel more artisanal, more personal, than using whatever data is available online. I do see the point a lot of people make, especially people not into digital or coding-based art, that you're using data without permission. I don't think that's right, but it's complicated. If they scraped paintings or photos from your own personal website where there's copyright and they didn't ask, and there's legal basis for it, then you should absolutely pursue legal action. But if it's from Facebook, Instagram, or Twitter, you pretty much gave that up the moment you signed up. So if we're going to complain about data being used to train AI models, there are bigger, more personal things to be outraged about — everything you do on your phone or computer is tracked. Why aren't we outraged about that?
+
+It also depends on how you use the model. If you're using it to copy a particular artist and claim the result as that artist's work to sell it as-is, that's not cool — amoral, and probably illegal. But if you're using an artist as a reference in a prompt to arrive somewhere new, how different is that from referencing anyone else? We all do that, consciously or unconsciously. The only way to avoid influence entirely is to grow up in a vacuum — and even then, you'd be influenced by the vacuum. Four white walls would still influence you. There's no avoiding influence.
+
+The real difference is that because it's automated, it's much faster — you can make more work, more quickly, than before. But if the problem is the subject of the art, then you're paying attention to something other than the art itself. If the art is good, it'll remain. If it isn't, it'll be forgotten regardless of how it was made. Idea, concept, and intention matter more than whatever tools you use to make something.
+
+You go to an ad agency, and whenever someone says "let's make this commercial," they're always trying to copy someone else's style. Everyone copies everyone. As long as you're not passing it off as someone else's work, it's a gray area we can probably live with. It's an annoying move by these tech companies, sure, but at the end of the day, they're tech companies — better to ask forgiveness than permission, as the saying goes. You'd have to change the world before you could fix this problem, because it's not unique to this industry — it happens everywhere.
+
+Trinity: I can tell you, as someone working in the professional services world, that AI is literally the only thing people are talking about right now.
+
+Thomas Noya: It's kind of annoying because the public conversation is so superficial and misinformed. It's like talking about aliens or the chupacabra—that sensationalist thing. There are bigger problems in the world than this. I'm also influenced by where I grew up. These super niche problems of the developed world, I find them kind of funny. I grew up in Venezuela, and that's a different kind of problem you get there. So it's fun to watch, but I don't really care.
+
+If someone's getting hurt, then for sure pursue whatever avenue you can. But if it's just arguing for the sake of arguing, it's irrelevant. I'd be more worried about AI taking actual jobs—driving jobs, construction jobs, things that are easier to take away. Driving is objective: you just need to go from point A to point B. Art is completely subjective. Even if it's made by a machine or not, it doesn't matter—it's about the art. But driving is something that, once you take it away, there's no going back. I'm not saying it's going to happen, but that's something way more important to worry about.
+
+Will: According to Elon, we've been one year away from solving self-driving for six or seven years now.
+
+Thomas Noya: So, ten years. Clearly not. Eventually it'll happen one day.
+
+Trinity: I mean, they're self-driving already, come on. It's just if the government would let them go.
+
+Thomas Noya: I hope it doesn't, because I want to see more cool tech, whatever that means. It doesn't have to be Elon—it could be any company, I don't care. I just want to see other things happening.
+
+Trinity: Quick question going back to AI-generated art outputs—and I know this is the conversation people had when cameras were invented—how will we know if something AI-generated is qualitatively good? What makes it good art? Sorry, big question.
+
+Thomas Noya: It's totally subjective. For me, if I see something I connect with or that moves me, I like it. When I'm evaluating an art piece, my first point of data isn't the tools used to make it, it's the final version. It's visual art. Then, if I'm curious, I'll wonder how they made it—oh, they drilled these little holes through the canvas and put gold in there, whatever it might be. Or if it's generative art: I wonder how they actually wrote this code, because I can't even fathom how this is possible.
+
+If we wanted to evaluate what makes art good or not, we'd probably need some sort of blind test, where you put a bunch of artworks in front of a control group who aren't told anything about them, and just ask which ones they like. It'd have to span a lot of different styles, because if you just go for realism, AI will probably nail a lot of those. But mix in some abstract expressionism or surrealism, and you'll get interesting results.
+
+Why is it so crazy to think a machine can make a good piece of art? At the end of the day, the machine exists because someone wrote it, so you can always trace it back to a human. Even if the dataset isn't from other artists—well, if it is, you could argue the art comes, to a degree, from another human. But even if the dataset is created entirely from generative digital images, it's still coming from a human. It always traces back to a human, because even if an AI develops another AI on its own, the first AI came from humans. We could go down this hole forever.
+
+Maybe I'm too idealistic, but I think public conversation pays too much attention to the tools and not the actual piece. If we were only guided by that metric, the best camera and lighting equipment would always translate to the best movie, and that's not always the case, in my view. I'm sure a lot of people disagree, but that's how I see it.
+
+Will: I think a lot of people probably do agree. That's a pretty well-thought-out take.
+
+Thomas Noya: It's easy to get lost in the technicalities, but at the end of the day, if we're evaluating art, we should pay more attention to the actual art. Of course the process is important, but who cares if that thing on your wall is a digital photo or an analog photo, a painting, or a print of something digital? If you like it, what's the problem?
+
+Will: Hell yeah. For the sake of time, let's move on to the rapid fires. You told us in advance that you're well prepared for this one—I'm excited to hear it.
+
+What do you listen to while you code, and do you have any music recommendations for us?
+
+Thomas Noya: Brooks and Dunn.
+
+Will: Country music?
+
+Thomas Noya: Country music. Great to code to. Alan Jackson, Glen Campbell—beautiful. I'm joking, but I do listen to country when I'm coding. It depends on the stage I'm at. At the beginning, if I need inspiration, I might go for something like Arca, Björk, or the *Blade Runner* soundtrack. In the middle, when I need energy or just something in the background to keep me going: The Killers, Arcade Fire, Four Tet, The XX, Springsteen. Venezuelan bands I like, like La Vida Bohème.
+
+And then there's a podcast by Bloomberg that's the most middle-aged-white-financial-New-York-person thing there is, called *Masters in Business*. I know nothing about finance, but there's something about that podcast—it has just enough information to keep me interested without distracting me, since I don't know much about the subject. It's perfect background noise. If you want to maybe subconsciously learn something about business and finance, that's the one.
+
+Will: Middle-aged white guy from New York talking about something you know a little about—I'm trying to think what other podcast this could be.
+
+Thomas Noya: No, no, it's a different vibe. A Wall Street vibe.
+
+Will: This is how people will be talking about us.
+
+Trinity: That's us. Not financial advice.
+
+Thomas Noya: Imagine people who were thirty when *Wall Street* the movie came out—that kind of vibe. Play ten minutes and you'll understand my sentiment. I'm not criticizing, it's just a very specific target audience that I'm not really part of, but I like it as background noise. Toward the end of a piece, or when I'm writing things that require attention, something without lyrics is better—my capacity to listen to music in English and write in English at the same time isn't very good.
+
+Will: Makes sense. Interesting that you like country, even joking aside.
+
+Thomas Noya: I shield myself behind irony, but I do like country. It's so fun.
+
+Trinity: New country or old country?
+
+Thomas Noya: Classic. If I'm feeling really trashy, sure, I'll play ten minutes of new country. But the old country from the '80s and '70s is so good. Or even the '60s.
+
+Trinity: Is Neil Young country?
+
+Thomas Noya: Folk.
+
+Trinity: Adjacent?
+
+Thomas Noya: Yeah, not too far.
+
+Will: Crosby, Stills, Nash.
+
+Thomas Noya: Bob Dylan, you could argue.
+
+Will: Thank you for those. Send us the Venezuelan names too, assuming we can find them on Spotify.
+
+Thomas Noya: They're definitely on Spotify. It's in Spanish, so you might not understand, but the energy is there—or you can practice.
+
+Trinity: At this point we have to ask—and I know it's my question—preferably in the fx(hash) world, but it could be anyone: who should we have on next, or in the future? I have a few names.
+
+Thomas Noya: I'm pretty sure you haven't interviewed them yet, but at the risk of repeating: Iskra, for sure.
+
+Will: Not yet.
+
+Thomas Noya: Lisa Orth.
+
+Trinity: We've had her.
+
+Thomas Noya: I haven't heard that episode.
+
+Trinity: It was great—life lessons.
+
+Will: Lots of life lessons.
+
+Thomas Noya: Sarah Reachley.
+
+Trinity: Stay tuned.
+
+Thomas Noya: I'm curious about Anna Lucia.
+
+Trinity: We've had her on as well.
+
+Will: A while ago.
+
+Thomas Noya: How long ago? Now I'm curious, because she's so mysterious to me.
+
+Trinity: A year ago. Long time ago.
+
+Will: She came out pretty early.
+
+Thomas Noya: Lars would be cool too. I love Lars—I know he was in *Arbitrarily Deterministic*, but I don't think you've interviewed him. Another artist, and one collector: artist Pepe XYZ—
+
+Trinity: Who goes by his real name now.
+
+Thomas Noya: Eric, something.
+
+Trinity: He's the next Art Blocks Curated.
+
+Thomas Noya: Yeah, that project is so cool. I didn't know, reading the Art Blocks announcement, that he's a serious physicist—it's crazy. That would be interesting. And maybe Pronoia and Lonli would be interesting too.
+
+Will: Stay tuned. We have a lot cooking right now.
+
+Thomas Noya: That's a lot of names, but half of them you already have in mind, and the others are already in the works, so I have to go back and reconsider those.
+
+Trinity: You already gave us a lot.
+
+Will: It shows we're on the right track, if you're bringing up names we've already got scheduled. Other than our collab—which we don't have an official release date for at the time of this recording—what else do you want to talk about that's coming up? Anything else on the horizon?
+
+Thomas Noya: The only thing on the horizon right now is the Waiting to Be Signed app, which will hopefully be done and released next month—that's the plan, at least. Other than that, at some point this year there will be something on Emprops. A couple ideas are floating around, but nothing concrete yet, and no timeline. So hopefully this year, but nothing on the books yet.
+
+I don't have plans yet to drop anything in particular, though I do have some projects I want to work on throughout the year—no clear ideas on when they'll be ready or released. I'm looking into doing more physical pieces this year, pairing something digital with a physical counterpart. I'm researching different types of printing, and looking into making hand-woven tapestries, European style or something like that. Could be a cool idea—expensive to produce, but it could be really cool.
+
+Trinity: Interesting. You're doing art full-time, right?
+
+Thomas Noya: I am at the moment, and hopefully for the rest of the year—we'll see. I spent the past four years working at an AI startup, and last year I tried art full-time, because it's now or never. So let's see how far I can go. I might have to go back to office life and do half and half.
+
+Will: We'll see.
+
+Trinity: Sounds great.
+
+Will: This collab could blow up—this could be big.
+
+Thomas Noya: I'm expecting a million dollars from it.
+
+Trinity: This is the *Garden, Monoliths* of the year.
+
+Thomas Noya: I guess it's impossible to know, but it'd be fun to see *Garden, Monoliths* dropping this year instead of last year.
+
+Will: Like, what would have happened if it dropped now?
+
+Thomas Noya: Yeah.
+
+Will: Who's to say if it would even mint out? It feels so hard right now.
+
+Thomas Noya: I was checking the market earlier, and there are so many cool projects already out there not minting. I'm so surprised.
+
+Trinity: It's tough.
+
+Thomas Noya: Even cheap ones.
+
+Will: One last one that occurred to me—since you're local, what's the best Venezuelan food in New York, or is there any that you've found?
+
+Thomas Noya: I've only been to a few Venezuelan spots myself because I just make the food at home. If you want cachapas — these corn pancake things with cheese — there's one really good place, but it's far out in Brooklyn. I don't even know the name of the neighborhood, but I can send you the address. For something more central, there's a place with two locations, one in Bushwick and one in Bed-Stuy, I think — they make really good arepas. There's also Caracas Arepa Bar in Williamsburg, which is good too. But honestly, none of them can beat me, so if you want real Venezuelan food, come to my house.
+
+Will: Okay, we'll figure that out.
+
+Thomas Noya: Whenever we release, we should do it from my place. Have some food and drinks.
+
+Will: That'll be really fun. Anything we missed? Thomas, is there anything you'd like to ask us?
+
+Thomas Noya: What are your plans for this year for the podcast?
+
+Trinity: We're going to flip Proof.
+
+Thomas Noya: I don't think that'll be hard.
+
+Will: Sentiment on Proof there. I'm joking. It's been a year and a month — how do you feel numbers-wise after that time? I imagine it's very different. Yeah, we have a bigger audience going into this year. The show is growing.
+
+Trinity: Will, I think you've only missed one week.
+
+Will: I've only ever missed one week, which is great. Trinity, you've only missed two, so we've been pretty good at getting it done. We talked about some of our goals in the episode that went out around the beginning of January, and so far so good. We're nailing it on the interviews — obviously we've got you here, so checking that off. And we've got a collab coming up.
+
+Thomas Noya: One of your goals was to keep getting great guests, and after your latest run, I felt like I was in the wrong place — you had Melissa, Jamie, and Kaloh one after the other. That was pretty surreal.
+
+Will: That's a good run. But hey, you just released on Verse too.
+
+Trinity: We're a Verse podcast now.
+
+Will: Yeah, we might just become a Verse podcast.
+
+Thomas Noya: What's the equivalent of "waiting to be signed" on Verse? "Waiting to be transferred"?
+
+Trinity: Waiting for gas to go down so they can execute the transaction.
+
+Thomas Noya: Gas is ridiculous. You're getting amazing guests — you can probably get anyone you approach, I'd assume.
+
+Will: Mostly, yeah.
+
+Thomas Noya: Maybe not from the traditional art world, from what I've heard. Have you thought about doing more live events, like live minting events? You should become the Supreme of fx(hash) — just put your logo on everything.
+
+Trinity: I think it'd be fun for us to go to live events, mostly for the panels rather than the mingling. I was watching a video yesterday of Bright Moments Berlin, held in this giant industrial club — of course it was — and I just don't think I can do that particular part of the scene. But the talking, the intellectualizing, the enthusiasm — you could sign us both up for that. And nice dinners with nice people.
+
+Will: Oh yeah, we love nice dinners.
+
+Thomas Noya: Every time I see one of those, I'm like, lucky you, LeMonde.
+
+Will: He somehow did an around-the-world trip and didn't stop in New York. Come on, man.
+
+Trinity: We don't really have art here.
+
+Thomas Noya: No one comes here. Art Basel Miami, Bright Moments in every amazing place but New York. We got NFT NYC last year, but that was mostly a hype fest — really annoying, just PFPs.
+
+Trinity: From an art scene perspective, there's a lot happening with the Armory Show, Frieze, and so on. I think it's the generative art communities and other NFT art communities coming together to make a big scene there. If they came to Frieze or the Armory Show, we'd be all about that.
+
+Will: And I'd be down to travel if it makes sense cost-wise. We're not big ETH whales — it doesn't make sense for us to go to these things if we can't even afford to mint the work. Why would I ever go to a Bright Moments event if I'd need $20 grand lying around just to buy the project?
+
+Thomas Noya: So it's the new jet-setter lifestyle — you travel, but only to Bright Moments locations. Same for these events.
+
+Will: We talked about going to Miami, but had no idea what we'd actually do there. It's hard to justify spending unless we get invitations or have a good reason to be there.
+
+Thomas Noya: That makes sense.
+
+Will: It's on our list. We want to travel to something this year — we've got to start figuring that out.
+
+Thomas Noya: It's not even half the year yet, so there's still time.
+
+Will: True, but it's getting late for us new parents over here.
+
+Thomas Noya: I appreciate the effort. Thank you.
+
+Will: Thank you for making this happen, Thomas. We're super excited to be working with you on the collab. It was great to have you on the show — obviously big fans of your work. We've been collecting it and talking about you for a year now. Go back and listen to my poor review of your project.
+
+Thomas Noya: I need to go find when it was released and match it up with that review. Now I'm curious. But it's all good, it doesn't matter.
+
+Trinity: We made up for it since.
+
+Will: Yeah, we've well made up for it.
+
+Thomas Noya: This was all for the sake of apology. Thanks for having me — really appreciate this.
+
+Will: Thank you for coming on, Thomas. It's been great. Thank you, Trinity, for recording late into the evening with us. That was Thomas Noya. Thanks again — hope everyone enjoyed. We'll be back again soon with another one. Later.
+
+Trinity: Later.

@@ -1,0 +1,7 @@
+SHOW CONTEXT (weekly / non-interview episode):
+This is a regular weekly episode of "Waiting To Be Signed" (WTBS), not a guest interview.
+Hosts Will (handle Willpop) and Trinity — with occasional co-host Ken — discuss the week in
+generative and on-chain art: new drops and releases, platform news (fx(hash), Art Blocks, Verse,
+Tezos, Ethereum), market conditions, and community happenings. Episodes are conversational and
+often playful. Preserve the hosts' banter and personality; fix names of artists, projects, and
+platforms against the glossary; italicize work titles as usual.

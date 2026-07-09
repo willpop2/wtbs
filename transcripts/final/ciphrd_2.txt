@@ -1,0 +1,323 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special anniversary episode. We're joined today by Ciphrd, who needs no introduction, but just in case, he's the one who created fx(hash), the platform to which this show is dedicated. And of course, Trinity is here. How's it going, everyone?
+
+Trinity: I'm excited.
+
+ciphrd: Doing good. Thanks for having me. It's always a pleasure.
+
+Will: It's been a huge year, and we're excited to have you on. The last time we talked, it was in March, about eight months ago, just before 1.0 came out. We were excited about a lot of the new features on the roadmap at that time — Dutch auctions, reserves, collabs.
+
+Trinity: Tokens.
+
+Will: Tokens, which maybe we'll get to later. But perhaps a good place to start is looking back at some of the big milestones from 1.0 and how you feel they've played out. The one that's probably been most impactful for both collectors and artists is Dutch auctions and reserves. We've talked a lot on the show about the dynamics — how they play with the floor, how they play with the collector base and flippers. From your perspective on the platform, how are those mechanics working?
+
+ciphrd: I haven't gone in depth into the statistics on how every feature is shaping the way communities interact, but I've observed a few things. On the reserve list — in the beginning it was a bit chaotic, especially on Twitter. Lots of artists were doing raffles for reserve list spots, which isn't quite why the feature was built, though it's a feature like any other, so people can use it as they see fit. I think fewer artists are doing that now, probably because it's not very practical, and some collectors rightfully complained about it.
+
+I think the reserve system gives a lot of options on the platform right now — I'm thinking especially of *Tender* and the Tender Pass. The feature has been helpful in letting them shape how they want people to interact with their tokens, specifying different reserve types for different groups, which matches exactly what the pass was made for.
+
+As for Dutch auctions, I think they've been pretty good, especially for drops with a lot of traction. They helped reduce the gas wars that used to happen — for some artists whose work was highly anticipated, there was so much gas being spent on transactions that at times more money went to gas than to the artist, which was sad to watch as a platform owner. Dutch auctions helped with that. There are still gas spikes when a drop hits a certain auction step, but nowhere near what it used to be. As for the secondary dynamics they've created, I haven't monitored that closely — as a collector, I'm usually on the secondary market for anticipated drops anyway, since I don't often have time to click at the exact right moment. I just pick something I like on secondary.
+
+Trinity: This toolset has been so helpful when we talk to people who are new to the platform about how minting used to work — back in December or January it was just click the button as fast as you can, hope and pray. These tools have been so impactful, so thank you for putting the thought and effort into them. I think we'll still see people innovate with them going forward. The other big release with 1.0 was the collaboration contract, which we've seen in heavy use both within the artist community and in the official fx(hash) collaborations, of which there have been many. Any thoughts on that feature?
+
+ciphrd: Of all the features released with 1.0, that one was the most artistically significant for the platform. I put a lot of effort into designing it carefully, because I'd seen it implemented poorly elsewhere. It wasn't tied to the platform itself — on HEN, for instance, you'd just see the smart contract address for the collaboration, with no indication of which artists were involved, and it wouldn't appear on their own pages. I wanted it tied tightly to the platform, and to make it easy for artists to preview exactly which transaction they were about to send.
+
+I think that helped the feature evolve properly over the last few months. It's a genuinely complex system — you have to approve transactions, get all your collaborators to see and approve, then execute — so there was some friction at first, but I'm happy people are using it without much trouble now. And I was really happy to see how it helped shape a new artistic landscape on the platform: collaborations between non-coder artists and coders, all kinds of new combinations. To me it was the most interesting of all the tools released for 1.0.
+
+Will: Trinity was pointing to us during that.
+
+Trinity: Sorry.
+
+ciphrd: Yeah, I probably shouldn't point that out, since this is recorded audio.
+
+Will: It's been awesome for us too. We've actually been doing some accounting recently, and some of our most successful support has come through collaborations with artists — which speaks to their generosity, putting us on the contract and incorporating some aspect of the podcast into the art. We've even had artists release projects and put us on the contract at 5%, just as a way of supporting the show. It's been really cool.
+
+ciphrd: I'm glad to see these kinds of things emerging from a system that makes it possible in the first place — that's also part of what came with 1.0, the splits on primary and secondary sales. I'm happy contributors to the ecosystem can benefit so naturally from these features.
+
+Trinity: The community has benefited too, from just having access to the melding of minds behind great work. The launch of 1.0 came out with a big bang of an official collaboration between Yazid and Zancan, *Garden, Monoliths*. The support there has been absolutely insane. Have there been any collaborations, official or not, that have really captured your interest?
+
+ciphrd: Oh, there must have been a lot.
+
+Trinity: I have a list.
+
+ciphrd: The *Tender* collaborations — a few of them really caught my attention. In particular there was *Reconnaissance*, which used a technique I'd been exploring myself as an artist, so seeing it used that way was great; I love that piece. There's also — oh God, I'm going to butcher his name — Watkins, the faces one. I don't even remember the title.
+
+Trinity: *Emotional Shell*.
+
+ciphrd: Yeah, exactly. To me, that's been one of my favorite pieces on the platform so far, just because it's a fairly simple concept that's been used before, but shaped in a way that's very unique to this piece and creates a lot of emotion. When I introduce people to generative art now, I either use *Garden, Monoliths* by Zancan, because it has that wow effect, or *Emotional Shell*, because it has a similar wow effect. I like telling people: see, this is quite beautiful visually, but there are no assets in it — it's fully code. That's what triggers the wow effect, and gets people to see how powerful code can be, rather than just triangles and circles, which is what they might have expected in the first place.
+
+Will: That was such a mind-blowing drop when it came out. For some collectors it was a little unsettling too, but that's part of art — sometimes you have to be a little disturbed by it.
+
+Trinity: Some people use it as their PFP, and it's unnerving every single time. It's just the creepiest project on the platform.
+
+Will: But in a good way.
+
+ciphrd: In a good way. That's maybe why I liked it so much — I've been a fan of creepy aesthetics for a while. I used to do creepy stuff myself, horror movie collages and things like that. Maybe that's why I relate to it.
+
+Will: Let me ask something to get it out of the way — kind of a personal pet issue of mine. With 1.0, we added scheduled releases, letting artists post their project with a countdown so it comes out at the day and time of their choice. Now that we essentially have artwork releasing around the clock, do we still need the minting cycles? Do we need to restrict when artists can post the work, if we're not restricting when they can release it? We still see artists miss the schedule, then have to go on Twitter and explain they can't release because minting is closed for two days. So — has there been any discussion about whether we still need this rotating system?
+
+ciphrd: It's an ongoing discussion, and it's been a problem for us too. Sometimes professors reach out because they want to introduce students to fx(hash), but their class falls outside the opening schedule, and it's a shame because we'd need the platform open for that. We've opened it especially, outside the schedule, for events like that — though we can't do that for every case that needs it.
+
+I think we're going to reevaluate this soon, because even for our own events — like the live minting installations we're doing for Art Basel — we require artists to post slightly in advance, and it's difficult for them given the tight schedule, especially depending on their time zone and how the cycle has rotated. It creates real problems for them.
+
+On the other hand, it does create a sense of life for the platform — open, closed, at different times. You can expect new projects to appear first within a cycle, which creates a nice small effect. But I believe it's far less impactful than it used to be, simply because the platform has grown so much and is now used by so many people around the world that the schedule may not make as much sense anymore. Eventually we'll reevaluate it and ask the community. We had this discussion maybe two weeks ago — it went stale, but we'll pick it up again.
+
+Trinity: This is such a tough one. It is less impactful, as you said, than it used to be. But I really appreciate having two days a week where I can step away from my computer and not worry about new mints coming out — I can anticipate the scheduled ones and come back when I know they'll be there. It's nice to have that break, especially in a community that's always on. Not an easy decision, that's for sure.
+
+ciphrd: Maybe it's less about having a schedule open a third of the day every day, and more about having little breaks once in a while. The two days off might be what's still really meaningful in this cycle.
+
+Will: When we last talked about this, the argument I was most sympathetic to was trying not to bias the site towards NA or EU, making sure territories around the globe had their action on the platform. But now that we have scheduled releases, that kind of takes away that issue. And from the collecting side, I agree it's cool to have these two days off and know whether or not you need to be plugged in, because you can see what's coming out. But it feels like now the only impact it's having is negative, at least from my perspective on the collector side. Something happens — for example, the *Horizons* drop. They had to take it down, then they wanted to put it back up, but in the period of time that they took it down, the platform closed, and then they couldn't put it back up. They ended up having to delay it by like five or seven days. It's little instances like that creating a lot of unnecessary friction. I'm glad to hear you guys are still talking about it, but let's move on from this.
+
+ciphrd: We're still talking about it because it's as much a pain for us too, for the reasons I've just mentioned — it creates friction for so many different instances.
+
+Will: Moving on, and somewhat related to the topic of minting: the number of live minting events fx(hash) has been part of over the summer and now fall. What has it been, six, seven, eight, between the Art Basels and—
+
+Trinity: Proof of People, NFT Show, Bright Moments.
+
+ciphrd: Seven or eight.
+
+Will: And you traveled a lot — I know other fx(hash) team members were traveling too. Are you finally settled now? Recovering? Are you going to go to Miami? Are you just going to be on the circuit year-round? What's the plan with these live events, and how has it been taking part in them?
+
+ciphrd: Such a wide question — there's so much to talk about. It's been wild for me to travel that much, especially within Europe; I try to limit taking the plane as much as possible. I will be going to Miami because I want to visit the United States once in my life, but I feel like next year I'm going to travel way less, just because these events take so much energy. It's been great — meeting so many artists and people from the community has been wonderful, and honestly some of the best moments of my life happened at these events. But it also takes a lot of energy and time to recover, and it drives the mind away from building tools for the platform. Sometimes I come back in a fuzzy state of mind for a few days, not able to think clearly about everything I'd like to.
+
+It has helped the platform grow, though, because long term I really want us to have a solid framework for live minting events, and I wanted to see in person what the friction points were and how to make things easier for people at these events. When we introduced paid live minting at NFT Show Europe, there was a lot of friction just because people didn't necessarily have a wallet. So we've been thinking about how to improve this, because long term we really want our platform to have tools so people can set up live events — I feel like this could be one of, if not the most powerful way to reach new audiences. But it's been tiring to travel this much, to be fair. Next year is going to be way less for me, because I want to focus more on myself and the platform. Still, if we can go to Tokyo, I'm not going to say no.
+
+Trinity: You should definitely do that. Last time we talked, back in March, it was more or less just you — you were thinking about maybe hiring one other developer. And obviously there's the team of community support people in the Discord helping with moderation and that sort of thing. In the community update from last week or two, you talked about growth in the team — more developers, people for marketing, operations. How has it been with the actual growth of the official fx(hash) team?
+
+ciphrd: Interesting to talk about, because I feel like in the last four or five months, that's actually what's been slowing us down in the development of the platform. When I used to be alone, it was fast and easy to iterate on features — you can do everything yourself and have a clear idea of how everything ties together. But it's not very scalable, and it creates a big point of failure: if I'm not available, how does the platform keep going? Also, our operation started to get bigger — doing all these live minting events required people to help the artists, people available on the dev side.
+
+So a lot of our effort in the last months has been shifting from being very decentralized, with people contributing but not being paid for it, to a more centralized entity where we can process tasks more easily. I say centralized entity because some centralization is required to even make a product work, to grow it, to evolve it. The product itself can be decentralized in how it works, but bringing it to life and improving it requires a central entity driving that iteration.
+
+So right now we're around 15 people on the team. On the dev side we're five or six, depending on who's available, plus people handling events, community, communication, artist relations — basically all the components required for us to grow in the future. It was difficult because I don't have a business background at all, so I had to learn everything, and it was slow for me to process this new information and apply it well for the team. That's why there's been a bit of a slowdown in shipping features — we also had to train new developers and build internal pipelines to improve the product. It was quite intense, maybe more intense than bringing the platform to V1, but also an interesting experience.
+
+Trinity: Hopefully you can take a vacation soon. Well deserved.
+
+ciphrd: I'm slowing down, to be fair. I'm trying to work less and have more time for myself.
+
+Trinity: That's good and healthy. You should definitely do that.
+
+Will: Related question: it's awesome to hear you brought on so many people — we talked to Liam a few weeks back, so it sounds like he's involved, and some of the mods we know from Discord have found roles on the team, which is great. But we're in a bit of a bear market right now. Not necessarily FUD, but obviously platforms like OpenSea have seen a big drop in volume — I'm not sure we've seen as severe a drop on fx(hash), but the price of Tez is down. Conditions just aren't what they were back when we spoke in March, when things felt a lot more optimistic. It's opened up this whole conversation about creator royalties, and it was great to see fx(hash) — along with OBJKT — committing to honoring those royalties. Have there been any moments of concern in the last few months, or is that just not something you pay attention to at this point?
+
+ciphrd: I'm paying close attention to it. I'm not surprised we've reached this state, and I'm expecting it to get even worse in the coming weeks, if not months. The state of the economy right now isn't great, and that's not a great environment for crypto to thrive either. It was a bit expected that we'd reach this point — we'll have to wait for the economy to get back on track for crypto to follow.
+
+I think it was needed in the ecosystem, honestly, because things kept growing to unhealthy points — PFPs were selling for millions for no reason except speculation. This bear market has filtered out which projects bring real value to the ecosystem and which were essentially void. People are now much more sensible about what to invest in, and I'm happy to see that, even though it's hard to have an optimistic view of the future when crypto is crashing this much. It was a needed cycle after all that crazy growth — the reality had to come back at some point, it wasn't sustainable. Eventually we'll reach an equilibrium between the value crypto brings to people and the value people perceive it brings them — an equilibrium where the economic system holds its actual value. I'm not great at analyzing all this myself; there are people on the team much better at it, and we're taking the necessary steps so that if everything falls further, we can keep going for a few months until things improve.
+
+Will: Every time a Zancan sells, that's a little bit of payroll for the month, right?
+
+ciphrd: It is, yeah. For fx(hash) itself, every time crypto crashes, our sales actually increase on the other end. That's what I meant about people investing in something they think holds more value — and I think it relates to art in general, and generative art specifically. To me, generative art is going to be the art movement of our era, because it's the first form of art truly proper to computers, and it really highlights what computers are and what they mean for humanity. It's going to be what we look back on and say, this was a genuinely new way of creating art that never existed before. That's also why I think people are investing so much in gen art — they're starting to understand, maybe not with deep technical understanding, but with a feeling that something is going on there. We all get that feeling when we see code-generated art — "whoa, this is really something." That feeling is maybe what's driving our generative art ecosystem in the right direction.
+
+Will: We've done some very non-scientific research into—
+
+Trinity: Very scientific research.
+
+Will: Very, very non-scientific research into the fiat price of some of the "top" projects on the platform as Tez fell. If you're holding *RGB*, *Contrapuntos*, or Zancans, despite how much Tez is down and how bad the markets are, you're still up in dollar terms — which is crazy to think about. Kind of shows we're in the right place building, collecting, and hanging out.
+
+ciphrd: That's a great marker, you're right to highlight it. As mentioned, when the price of the currency crashes, our sales increase in the other direction — there's compensation. I think that's really because the pieces genuinely hold value.
+
+Trinity: We've been seeing that a lot in the last 24 to 48 hours, maybe more over the last week, as everything's gone to hell. I think it's also what triggered that really big run back in May, when everything was flying through the roof — that was the first time Tez dipped under $2. Yesterday we dipped below $1 for, I think, the first time in many years. So there's been continued conversation around chain security — not just how safe it is, but its longevity. There was a good Twitter Space yesterday or the day before with Tender and Zeneca. The one thing that makes me feel really great about Tezos is that it's not the most financialized chain — people aren't here to make money in traditional financial ways, they're here because they love what's happening on the chain, more from a digital collectibles standpoint, air quotes. Are you still feeling good about being on Tezos versus any other chain?
+
+ciphrd: Yes, I actually do. I came on Tezos for a reason in the first place, and I feel like this still stands today. I'm not really surprised, because the reason I came to Tezos was its community. When you have such a strong community, whatever comes, you'll find solutions. I feel like that's what's happening and what's going to happen if things go sideways — we'll find solutions to maintain this ecosystem, because there's such a strong and vibrant community behind it.
+
+I've also become more and more happy about the direction of the Tezos Foundation over the last year. There's a true effort to highlight the art space on the blockchain — it's maybe the only chain doing that right now. I think that's worth highlighting, because we're often quick to point out the bad choices they make, and there are a few, we can't deny that. But there's also a long-term vision that deserves recognition. There's been a presence at Art Basel, there will be one for Miami, and probably more to come. It really shows a will to highlight what's working in their ecosystem, and they're noticing it and taking the steps to further it.
+
+Trinity: One last question here, related to the wonderful community we have and the growth we've been seeing. How has the pace of growth of the fx(hash) community been over the last six, seven, eight months? I know at first you were a little shocked at the huge spike between late November and early January. How are you feeling about the overall trajectory at this point?
+
+ciphrd: We're actually building internal tools to monitor that more carefully, because up until now we haven't had decent tools to do it properly. So I'm using the same resources you have — App Radar, the community graphs people build. My judgment is based on those, so maybe not the most accurate data, but it's something.
+
+I feel like we've reached a steady pace. There's not so much growth in new users — we see new people coming, but also users who don't interact with the smart contracts as much as they used to. I think that's fine. We're out of the initial fire-rush of the platform coming to life, and it's great that we've reached a stable state to grow from.
+
+We haven't made much effort toward growing our ecosystem, which is worth pointing out — we're not actively marketing. We're just releasing new tools and helping artists interact with the platform. When we do start meaningful marketing, I mean live events with conceptual installations that highlight generative art and the ways we have to interact with it. I think that could bring a new influx of users who see the platform in a new light, or discover generative art and blockchain in a new light — because we're still not really public. When you say "fx(hash)," nobody understands what it is on average. I believe we're going to try to change that in the years ahead.
+
+Trinity: I think a large part of that has to do with it being a very open platform. Art Blocks, when you talk about Ethereum collectors, has a big name-brand association, very few releases, heavily curated. Do you still enjoy the open aspect of fx(hash)?
+
+ciphrd: Oh, hell yeah, 100%. I stand by this value. This will remain.
+
+Will: If anything, it feels like Art Blocks is sliding more toward openness than not.
+
+ciphrd: Maybe, but that's not something I've observed. I've looked at their recent features, and I don't think they're going to be open at all — if anything, it's the opposite. I think they really want to keep their focus on curation rather than opening up more. That's the feeling I have, at least.
+
+Will: My interpretation of them removing the seasons, and just the sheer number of announcements, was that they were net doing more art. But maybe that's not the case.
+
+ciphrd: No, I think they're on the same track as they've always been, in terms of what they are as a platform. I think it's great to have that in the ecosystem too, because they represent what curation means. It'll be interesting to watch how these two visions evolve — a fascinating social observation to monitor.
+
+Will: Let's do one last feature that came out more recently before we move on to the future of the platform and what's coming in year two. About two or three months ago, out of nowhere, fx(text) was released — this microblogging platform, for lack of a better term. How do you feel fx(text) is going, and where do you think it's headed? Are people using it the way you hoped? Are you surprised by the volume, in a good way or a bad way? What's your take on the community's reception to it?
+
+ciphrd: My initial intent in building this tool: I was in front of the computer looking at some pieces, and I thought, it would be so great to have a way, while looking at a piece, to access articles that speak about it. Maybe I want more insight, or the artist has written something about their process. That was the initial thinking behind the feature. From there I thought, okay, we'd need some tool to write rich text content — with images, videos, and so on — but it needed to be a very layer-zero feature, unopinionated and open to the whole ecosystem.
+
+So while my initial intent was to bring more context to pieces, I started to derive from that and think about how to make one feature abstract enough to give context to a piece in general. That's how fx(text) was built, and it's still in its infancy. Right now it only lives on fx(hash) — you have a space where you can write and read articles, and within the text you have these Tezos storage pointers. That's basically a way of saying: I want my text to point to data in a smart contract. So you can link to generative tokens, or to particular *Gentk* iterations you want to highlight.
+
+It can be used in many other ways we haven't built tools for yet. In the future, fx(text) will be a separate platform where you can link to projects uploaded on OBJKT, or Versum, or any platform. The idea is to create an ecosystem that ties all the art together in one space. Say you want to create a new platform and want people to write articles about the projects published there — I want that to be easy to integrate, so with a few clicks you can add a section to your website where all the articles get published.
+
+The reception from writers has been great — we've seen so much great content uploaded. Collectors haven't quite caught up yet; it's used much more as a tip than as collecting something valuable for the long term, and I think that's fine for now. Once this whole ecosystem is tied together into its own tool, people will start seeing more value in the tokens that are written. fx(text) is also a building block for a much more complex creation system I have in mind — I've written a bit about it in some documents somewhere, maybe published, I don't exactly know. But it's going to be one component of a much bigger curation system.
+
+Will: That sounds like a good segue into new features. Next week there are going to be a couple of announcements celebrating the one-year anniversary. What's going to be announced? Let's hear it.
+
+ciphrd: That's going to be very exciting. We've been working on one feature in particular that's probably going to reshape how the ecosystem works on the platform. It's called fx(params), and the idea is simple. Right now, when you mint an iteration, it's basically full randomness — you have no control over the output you're going to get. The idea is to give artists the ability to define parameters that collectors can interact with before minting, and those parameters influence the output.
+
+Artists will still be able to use pure randomness. But they'll also have the option to expose a parametric space to collectors — anywhere from full control over the exact output, to something as narrow as just choosing the background color. I think it's going to tie in very well with our ecosystem, and I see it as a very important component of the platform in the years ahead.
+
+Trinity: A quick question on how this functions, because we've seen similar features elsewhere — Versum has a much lighter take, where you pick between option A or B, or reroll once. How would this interact with the very speedy minting process we experience today, even with Dutch auctions and reserves? Can you play with it before the project is in the queue?
+
+ciphrd: Good point. It wouldn't be meaningful to offer a parametric space to explore with no time to explore it. So this will be a two-step process. First, you mint a pass, which locks in your ability to mint the iteration later. Then you can play with the parametric space for as long as you want — but not quite as long as you want, there's a twist.
+
+Mint passes will actually be NFTs, so you'll be able to trade them on the platform, but they'll be subject to a Harberger tax. The idea is that if you want to hold onto it, you have to pay the artist for as long as you hold it. You get seven days where you don't have to pay anything and can just mint. But once those seven days pass, you have to pay a fee to the artist to keep it in your wallet — otherwise, someone else can claim it. The tax is meant to incentivize people to actually mint their iteration, so we don't end up with projects that are half-minted and half stuck as mint passes sitting in wallets — we don't want a collection to be fully "sold" but not fully minted.
+
+Will: Interesting.
+
+Trinity: Will the mint passes be tradable or sellable on the marketplace?
+
+ciphrd: They'll be NFTs, so yes, tradable — but a special kind. I won't get into exactly how the Harberger tax works, but basically, it's always for sale. Once the seven days are up, your mint pass is always for sale at a price you set, and you have to pay a fee that's a portion of that price. So if you want to keep your mint pass, you have to set a very high price — but then you're paying a very high fee to the artist.
+
+Will: That's a lot to unpack. I feel like when this goes live, we're going to be discussing the implications on the show often. That's straight out of a board game — such a game-theory, min-maxer feature, which I love. We're all going to have to sit with that one. I do have a question on the philosophy of *params* in general — we saw it with Versum, and most notably with a heavy implementation in *QQL*.
+
+ciphrd: Yeah.
+
+Will: This came up recently with Tyler Hobbs and *Dandelion*. A personal question for you, ciphrd: do you feel that allowing the minter or collector to control features like this, at some level, is still long-form generative art? Is it just regular generative art? Does the category shift a little when it's no longer truly random?
+
+ciphrd: I wouldn't be so keen on putting labels on what we're doing. I get the idea of long-form versus short-form, but it's important for artists to have as many tools as possible, and a range of tools to choose from for their projects. I've been talking to lots of artists who wanted collectors to have the ability to go through what they go through when they create their pieces. When you're making your own set of generative art, you go through thousands of iterations and pick the one you like — that process itself tells you a lot about the artist. Some artists wanted this for their pieces because it was meaningful to the work. I think it'll be like that: where it's meaningful, it'll be used; where it's not, it won't be.
+
+But there's still a place for randomization, and I'll encourage people to keep using it, because it's at the core of generative art and the long-form aspect — the artist's ability to manipulate the parametric space in a meaningful way. That's what's at the core. When you're evaluating the quality of a project, you're often evaluating the artist's ability to manipulate that parametric space.
+
+Trinity: It's such an interesting concept, and as Will said, a little mind-blowing right now in terms of the game theory — both with mint passes and with curating the mint you like, and how that plays into the ultimate sense of rarity long term. With some pieces — maybe these wouldn't use fx(params) — there's the idea of a 2% chance of getting a piece that's upside down or inverted. But when something is fully minted out with a mint pass, and there are all these features you could use, and 98% of people make theirs green because they want to sell to Zancan, it's interesting how that puts rarity pressure on the ones that are red. It's really the community that creates the sense of intrinsic value and aesthetics. Crazy to think about.
+
+ciphrd: This will actually be the theme of our exhibition at Art Basel Miami: subjective rarity. Right now there's this rarity-by-number metric, where you're evaluating the rarest item by the occurrence of traits across the collection. I'd prefer to see new kinds of rarity emerge. As you said, if everyone likes the blue iteration, they'll all mint blue, but someone will mint the red one — and suddenly the red one becomes the rarest, even though maybe it's the ugliest. We'll get this interesting new dynamic for the long-form life of a piece after the mint. I'm curious what will be considered rare once this feature is released. It'll be different for every collection, which fits the narrative of us being a framework rather than a platform that assigns a number and declares "this is the rarest item."
+
+Once we have this new set of tools, it'll be much more important for communities to figure out for themselves what they consider rarest in a set. Now that people can mint the most beautiful traits, do we value that? Or do we value the ones who sacrificed a beautiful output for the sake of getting something different?
+
+Trinity: That also gets at the subjective nature of beauty. What we consider beautiful now could change completely next month, or in 10 years, or 100 years — especially looking at an artist's trajectory and how they grow across their body of work. Incredibly fascinating.
+
+Will: That's why you're going to have to pay the fee to hold the pass.
+
+Trinity: That's going to be such a thing — what if you have an unminted mint pass sitting in your wallet for 10 years? A lot of tax.
+
+Will: A lot of tax. But imagine if you could mint a *Contrapuntos* now and get yourself a big chunky black background.
+
+Trinity: White background. Come on, man.
+
+Will: Both are pretty desirable, but—
+
+ciphrd: That'll make for some interesting theory, because you'll have to pay a lot to keep the mint pass — anyone can buy it away from you at any time if they pay the amount you set. So you'll have to keep paying just to keep it in your wallet in the first place.
+
+Will: I'm most interested to see — I expect huge adoption immediately once this feature comes out, because every artist will want to play with it. But what's the medium-term breakdown? Personally, I'd hate to see it become overused. There's so much charm and fun in truly random mints, and it pushes artists to work on their algorithms — to make sure there aren't a lot of duds, and to hone their taste and style. Some of the best collections go to 500-plus pieces and every single one is awesome. I wonder if the community will pressure artists to just release it customizable and "we'll figure it out." I wonder what the ultimate breakdown will be between artists who lean into this heavily and artists who stick with pure randomness. Assuming this comes out in the next several months, maybe early next year, it'll make for a very interesting year.
+
+ciphrd: You're right that we'll have to wait for the initial burst of projects leveraging this feature — there's so much at play, we can't really predict what will happen. It'll take a few months until we've made enough observations to deduce what worked and what didn't. The life of a platform and its artists is much more collaborative now than it used to be — community feedback happens faster and easier. And I think it's on us, as platform builders who understand a bit about how the market works, to help educate artists about it.
+
+Will: Yeah.
+
+ciphrd: To tell them: if you do this, you may face these consequences, but you're still free to do it — here's what we've observed over time. That kind of data is valuable for artists, because the market is so obscure when you first arrive in the crypto space. You think, "Cool, I can make money, I'll push out tens of projects," without really thinking through what that means for you as an artist. This will be another iteration of us, as a platform and community, educating artists about what it means to publish in these ways.
+
+Trinity: Good transition point to talk about the other feature coming out around the same time — fx(lens), I believe. What is it, and how does it play with fx(params)?
+
+ciphrd: It's a tool you use locally to build projects for fx(hash). With fx(params), you'll have sliders and other controls to select what you want, so we needed a tool artists can use in their own environment to preview what a piece will look like on the platform. It's fairly sophisticated, because we needed to give artists as much freedom as possible while still respecting the platform's constraints, all within the same tool. It's not something collectors interact with — it's for artists building projects for fx(hash), and it's a much more sophisticated way to work than what we used to offer, which was basically a pretty bad boilerplate.
+
+Will: So is it replacing the Sandbox, or in addition to it?
+
+ciphrd: It'll effectively replace the Sandbox. Honestly, people aren't really using the Sandbox much anymore to test their projects, so this will replace the need for it entirely — the Sandbox might actually disappear from the website.
+
+Trinity: Interesting to see what impact that has on the actual minting experience.
+
+ciphrd: Hopefully none.
+
+Will: You alluded to this earlier, but another new feature coming is an evolution of live minting. Does this mean you and the fx(hash) team won't necessarily need to be around for people to host live minting events? What's coming there?
+
+ciphrd: Opening live minting tools to the public is going to happen much later. Right now there's a lot of monitoring required to make sure everything works — we need services running specifically for specific events, and abstracting that into a publicly usable framework is very hard. Even for our own events, we haven't reached the stage where our tools are what we want them to be — there's friction with wallets, lots of things that need fixing before it's as good as it can be for us. Only then will we start thinking about opening it up. It's not really a single feature — it's us continually building tools in the background that we'll eventually make public.
+
+One feature that is coming soon out of a real need: for our one-year anniversary, we wanted to sell shirts for fx(hash). We considered setting up a standard Shopify or WordPress e-commerce site, but that didn't feel like the web3 way to do it, and wasn't very interesting. So we brainstormed, and landed on an idea we really like: consumable tokens. For now, we'll set up one token to be consumable on our backend, and on the frontend you'll see that a project has iterations marked as consumable. When an iteration is consumable, you can "consume" it to trigger an action — in this case, ordering a shirt. So if you buy our token, you can consume it for free to get a t-shirt. It's a way to both hold the NFT and redeem it for a real-world product.
+
+It's a somewhat sophisticated system, and we'll release it just for ourselves at first, but I think it could be an important tool for artists in the future. If you want a piece printed only once, you could let someone consume the token, have a print sent to the address they provide, and then certify that it will never be printed again because it's been consumed and sent.
+
+Will: That's cool — selling merch on the blockchain is a genuinely hard problem, so this is an interesting solution. People take their Tez, buy a consumable token, and then cash it in wherever a marketplace is set up to sell the merch. Do the consumable tokens have a fixed value? And when it's cashed in, does whoever redeems it get Tez out of some escrow wallet?
+
+ciphrd: You keep the token once it's consumed.
+
+Will: Okay.
+
+ciphrd: "Consuming" isn't quite the right term — you're only consuming its value, in a way. You still have the NFT in your wallet afterward. That was important to me to preserve — it'd be a shame to burn the actual NFT. Instead it gets marked as non-consumable on the platform. So on the marketplace, you'll see which iterations of a consumable project are still consumable and which aren't, which I think will be interesting in itself.
+
+Will: Maybe "drainable tokens" is a better term, I don't know.
+
+Trinity: Such a gamer.
+
+Will: That sounds like a really interesting open feature. Even us — if we ever wanted to do a Waiting to Be Signed t-shirt or hat, that's probably how we'd do it. Not that merch is on our radar at this point.
+
+Trinity: It is now.
+
+Will: That would be the way to do it, right?
+
+Trinity: You just put it on our radar. I think there's also something interesting in thinking about tokens having utility elsewhere — people building things to support these tokens, having things in your wallet as a way of identifying your journey through the blockchain. There are so many options that could be built on top of that, so it continues to provide value long after you've spent it. We'll have to see it in action to really understand everything it enables, but there's a lot of cool stuff already being talked about. My brain is breaking.
+
+Will: Since we'll need to see them in action — do you have estimates for when fx, live minting, and consumable tokens are going to go live?
+
+ciphrd: Beginning of December for consumable tokens, and beginning of January for fx.
+
+Will: And the live minting tools already exist, so it's really just a matter of opening them up to other people. Will that be by request?
+
+ciphrd: For now, yes, we want to keep it by request, because we're going to do some quality assurance on the exhibitions we work with — the live minting, the quality of the screens representing the artist correctly, all the things we've learned over the last year doing these installations. We want to open live minting on a per-case basis, gather more experience, and eventually release it to the public once it's really ready.
+
+Will: That's an amazing summary of everything that's going to be announced this week, by the time the episode goes live. Before we wrap up — I know we're already over an hour, which is amazing — let's talk about what's still on the previous roadmap. I don't think that document's been updated in a while, but there's curated spaces, which you mentioned might end up being an extension of fx, and then DAO governance and the token. What order do you want to tackle those in? What's still being worked on, and is there an end in sight for any of it?
+
+ciphrd: The roadmap on the website is definitely not updated, and we need to fix that. Honestly, the lack of communication has been a byproduct of us working internally to find a new way of working together. We've been overflowing with things to process, and figuring out how to share more with the community, setting up real pipelines where everyone has a defined role. That's why you're seeing these community updates now, and you'll see them more regularly going forward. Updating the roadmap is another item on our to-do list — the whole documentation needs to be cleaned up.
+
+As for what's actually on it: curated spaces is happening next year, though I don't know exactly when. It's such a complex system that we need to properly observe how people would use it and how it fits with the whole ecosystem. We're in talks with OBJKT about how to bring this to life properly, and that's taking time. To me, there are features more important for the platform right now, until we reach a stable state for fx(hash).
+
+And the token — it's an ongoing joke in the crypto community, "when the token?" The problem is I want platform fees distributed to token holders, or at least to people who stake it. The issue is legal: that makes the token a security, which means complying with a wide range of rules. We could go cowboy and release it without addressing that, but it would become a real issue down the line. So we're working with lawyers to slowly set it up properly. The bottom line is that redistributing fees to the community requires a pretty high level of KYC somewhere on the blockchain, which introduces a whole new set of issues. So it's postponed indefinitely — there's just so much work to do to get it right, and we already have plenty to do that's arguably just as interesting for the ecosystem, and easier.
+
+Will: Makes sense.
+
+Trinity: Someday.
+
+ciphrd: Someday.
+
+Will: Soon. What about market features? We talk a lot about the market on the show. Are there any more contract-level features planned for Dutch auctions? What we have now is great, but we've talked about wanting the ability for artists to stop a Dutch auction once the open portion of the reserves is minted out, so reservation holders don't automatically get the bottom tier price. We've also seen artists manually refund the difference for people who minted at a higher tier than the final resting price. Any plans to add features like that to the contract in the coming months or year?
+
+ciphrd: We're talking about several complex systems that would need to interact in an abstract way, dictated by the minter, and that's very complex to build. Just having reserve lists and Dutch auctions on-chain, with different pricing methods and reserves on-chain, is already a complex system — especially keeping it modular the way it is today. I'll look into the possibility for the next iteration of the smart contract, which will come with fx, but I'm honestly not sure it'll make it in, just because of the complexity. It's probably possible, but we also have to consider that the minting UI becomes way more complex if we let these systems interact. Maybe a few projects need it, but all the others would suffer from the added complexity. That's on us to simplify. So — I'll think about it, but I haven't established whether it's viable to implement.
+
+Trinity: We're all looking forward to seeing what comes out. We'll keep an eye out for January.
+
+Will: January sounds like a big month.
+
+Trinity: Every month's a big month.
+
+Will: It's also the one-year anniversary of the podcast, in January.
+
+Trinity: That's true.
+
+ciphrd: There will also be on-chain code for the next smart contract, which will be cool.
+
+Trinity: Is there anything else we've missed — platform features to look forward to?
+
+ciphrd: Probably. There are a few other things we're baking in, but more for the long term.
+
+Will: The natural next question — what's coming from you, Ciphrd? It's been a while since you dropped a project. It'd be fitting to see one for the one-year anniversary, but maybe that's not happening because you've been so busy. Have you been working on any art? Might we see something from you soon?
+
+ciphrd: I don't know. I'd like to, but I'm pretty in the mood of building for fx right now. Maybe at some point I'll hit two weeks where I can't stand fx anymore and just want to work on generative art, but I'm not in that mood currently. I've forced myself out of the gen-art mindset, because when I'm in it, I'm very monomaniacal — is that a word in English?
+
+Will: Yeah.
+
+ciphrd: If I'm into gen art, I can't work on fx for two weeks — I have to work on my own projects. So I'm forcing myself not to go there for now.
+
+Trinity: That's a bummer.
+
+ciphrd: Yeah, I know.
+
+Will: We saw something that looked like it might've been a new project of yours on the t-shirts worn at some of the live events. I thought maybe that was something in the works.
+
+ciphrd: Yeah, I threw that project away.
+
+Trinity: Oh no. Okay.
+
+Will: All right, so nothing new coming from Ciphrd — no alpha there. To wrap up: how are you feeling? Optimistic about the next year? Have your feelings about fx(hash) — the mission — changed at all over the last year? It sounds like they haven't, but what's the vibe? Where's Ciphrd at?
+
+ciphrd: The general feeling is excitement. The vision really hasn't changed, but I've realized there were so many ideas in the back of my head that weren't possible to implement at scale before, and now they are — that's exciting for me. It's actually one of the reasons I'm not working on my own art right now: I know I have the ability to produce something for the gen art community that will be meaningful as a framework for years to come. Doing that right takes a lot of time and energy, but it's exciting. All these live installations we're going to do — if we build the right framework, we can make it easy for any artist in the years ahead to set up installations, have people live mint, use MIDI controllers to tweak the parameters of their pieces. That's just one of many use cases I see for fx in the years to come. Very excited for next year.
+
+Will: Ciphrd, thank you so much for your time. Amazing having you on the show again — you're our first repeat guest, I believe. Has anyone else been on twice? Just you. Great to have you on, great to look back on the year. We're big fans of everything you're doing, so it's been a pleasure. We'll let you get back to what I'm sure is a lot of hard work. Thanks for coming on.
+
+ciphrd: Thanks for having me, and for the work you're putting out there. Always a pleasure, as I said at the beginning.
+
+Trinity: We'll talk to you in another year or so, I suppose.
+
+Will: Less than that, hopefully.
+
+ciphrd: See you next year.
+
+Will: We'll talk to you next year, but hopefully sooner — maybe six months. I'm sure we'll have a reason to have you back on. All right, that was Ciphrd — thanks again. Hope everyone enjoyed this conversation about where fx(hash) has been and where it's going. That's it for this one, everyone. We'll talk to you again soon. Bye.
+
+Trinity: Bye.

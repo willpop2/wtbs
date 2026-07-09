@@ -1,0 +1,255 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a very special interview episode. We're joined today by William Mapan, who many of you know for his fx(hash) project *Dragons*, for his Art Blocks Curated work, releases on Tonic, and most recently his project with LACMA, and of course the upcoming first Verse Solos release. William, you're a legend in the short history of NFT generative art. It's really amazing to have you on the show. How are you doing?
+
+William Mapan: Good. It's an intense year, definitely. I hope next year will be more quiet, more normal, but it's crazy. On top of that, with the kid, it's a survival show. I'm happy to be busy and to just make art, so I can't complain too much.
+
+Will: Well, we really appreciate you taking the time to come on. Let's start with the usual first question: give an introduction to anyone in the audience who might not know you. What's your background in art and coding, and how did you come to find the blockchain and NFTs as a way to release your work?
+
+William Mapan: I have a coding background — I did all the computer science stuff. At some point I found another degree that opened up a lot more doors: marketing, graphic design, art history, math, a lot of things, not really in depth, but enough to choose a path and dig in. I chose graphic design and animation, especially the infamous Flash software — very great, and dead now. That's how I started. My first job was as a motion designer, then I slowly moved back to coding. I entered a media art school in Paris, and that's how I discovered media art and this whole world of technology where people had been doing this for a long time.
+
+After that, when I started my career, I just wanted to code graphics, to code images, with no purpose at first. Around 2017 I discovered generative art and thought, okay, that's actually a thing — let's dig in even more. Then NFTs came, and things got crazy. The story of how I got into NFTs is very simple: at first I didn't know anything about blockchain and crypto. It was mostly through friends — they said, you should try this. I tried it, and here I am.
+
+Will: It's kind of amazing that you were open-minded enough, because it's such a difficult technology to talk about generally — people have really strong opinions against it. I'm sure you've encountered that socially. Has anyone ever really told you, "I can't believe you're doing that, it's all a scam"?
+
+William Mapan: Oh yeah, definitely. French people are very heated about it, especially in the creative coding, video games, and art communities — anything that touches money is very sensitive. For me it was mostly a technology thing: you can sign your work, mint it, it lives forever on this big book of trust, which is a blockchain. I thought, that's a cool concept. I wasn't really seeing the monetary side of it, because at first I was on Tezos and it was mostly experimental — I just wanted my work to be out there, to be proof of existence. It's a complicated subject with friends. Some are very against it, some are okay-ish, some think it's cool. But most of my friends think it's bullshit, so we don't talk much about it. It is what it is.
+
+Will: You mentioned Tezos — your first project, at least that we're aware of, is *Dragons* on fx(hash). I assume you were collecting on Hic Et Nunc on Tezos before that. What was it like in those early days of Tezos, and how did *Dragons* end up on fx(hash)? Pretty quickly after that you crossed over to Ethereum with *Anticyclone* on Art Blocks Curated. Can you tell us about that path — from releasing on Tezos to crossing over into these more curated platforms?
+
+William Mapan: My first contact with NFTs and blockchain was Tezos, with Hic Et Nunc. It was Wild West, crazy times — you had to hit the sync button a million times before minting or collecting something. It felt fresh, and that's what I liked about it. I was selling stuff for $10 and buying back friends' work — it was mostly a community thing for me at first.
+
+I'd heard about Art Blocks without really knowing what it was, but I knew it was something where you press a button when you mint and it generates something. I didn't know anything about the contracts or the on-chain stuff. I thought, okay, fx(hash) sounds like that, but for Tezos, and since I was used to Tezos, why not try it? So I came up with *Dragons*. I remember having FOMO when fx(hash) came out — I thought, I need to try this now, because I don't know if I'll have time later with my baby. I worked a lot; some nights I had my baby on me, not sleeping, and I'd be bouncing on a yoga ball to get him to sleep while coding *Dragons* at the same time. Crazy times, but good ones.
+
+It completely changed my way of working. Before, you'd generate some output and put it out there for people to see. With this, I didn't know what would come out, so I needed to make sure everything looked good. Once I realized that, I knew I couldn't just put my algorithm out there — I needed to polish it as much as possible, run thousands of iterations, and then release it. That's why I delayed the launch, but it was a good time overall.
+
+Will: A lot of crunching with a baby on the lap — this podcast has been recorded with a baby on the lap from time to time too, so we get it. Working with algorithmic art, curating one-of-one outputs on Hic Et Nunc, and then transitioning to a fully long-form model where the minter gets a random output — that's such a fascinating part of this practice. How do you think about palettes, rarity, and the typical collector experience? A lot of artists pushing to 500 or 1,000 outputs really have to think about what the average piece will look like, since that's what's representative.
+
+So how do you think about traits? *Dragons* has rare traits — the gold dragons, the Iskis dragons — but they're extremely rare. How do those intersect with the more common palettes that make up the average experience? Are you trying to make sure the most representative outputs are the most beautiful, or should the rarer a piece is, the more aesthetically pleasing it should be? How does all of this play out, especially now that you've been doing long-form generative work for two years?
+
+William Mapan: My practice around this has evolved a lot. With *Dragons*, I thought, maybe there's a 1% chance of a golden one, and I'd hardcode all the parameters to make it golden. I didn't want the whole collection to be golden — I wanted it to be colorful, representative of the story I wanted to tell, but I still wanted these rare stages for a dragon, and that's how I came up with those. I didn't want them to be the main output, or a statement that they're the most beautiful — it's just that they're not representative of the series. It's more about how you want to shape your algorithm and your series, and sometimes you spice it up with rare traits.
+
+Now it's more complex in how I code things, because with *Dragons* I had hard rules — if it's less than 10%, this is golden, otherwise blah blah blah. Now it's more about components I mix together. It's messier, and I know the mess makes something work, but I don't control it as tightly as before. I try to modulate it, but I'm giving much more freedom to the algorithm — enough that even I can be surprised. I actually try to surprise myself when I make an algorithm now. *Dragons* was almost fully controlled. But now, with this most recent project, for example, I made a lot of iterations, and still at 250 outputs in I saw one I'd never seen before. That's what excites me now — discovering things in the algorithm I created.
+
+So the traits are really about how I build the algorithm. It's a bit like alchemy — you have your ingredients, your table of molecules, and you take a bit of this and a bit of that to see what happens. I know that combining two things makes a third, and that becomes the whole series. But sometimes I'll grab something I don't fully understand and put it in, and something happens — that's usually how the rare traits appear now. It's a combination of random stuff I didn't plan. Once I find it, I'll try to reproduce and control it, but I want to keep that element of surprise. It's not about what collectors want — for me it's more about exploring the algorithm and being surprised myself.
+
+Will: We hear that so much from artists — the code becomes a collaborator. You put in a piece of math and you don't fully know how it'll behave at the edge cases, then you look at a thousand outputs and think, whoa, that combination had a wild effect I didn't expect. That's such an amazing part of this practice.
+
+After *Dragons*, all of a sudden it was Art Blocks Curated with *Anticyclone*. *Dragons* is now considered one of the "grail" projects on fx(hash) — a lot of major collectors own them, and they trade for a lot relative to other Tezos pieces. But it wasn't an overnight jump to four-digit sales; there was a long period of people collecting and building appreciation for it. In that time, were you watching and thinking, I'm really onto something here, my skills are good enough for Art Blocks Curated? How did you make that jump from one fx(hash) project to going for Art Blocks? Beyond learning to surrender more to the algorithm and loosen control over traits, were there other big lessons from *Dragons* that shaped *Anticyclone*?
+
+William Mapan: fx(hash) and the whole Tezos ecosystem was, and still is, very community-driven. I wanted to make something people could relate to — creatures, something tangible. You could say, "I could totally ride this dragon into space." I created them almost like I was the father of all these creatures, and the creatures were for the community. That worked, I think — I saw people in the Discord roleplaying, having their dragons fight each other.
+
+Will: Wow.
+
+William Mapan: It's crazy cool because that's what it means to be something, you know — don't fight your platforms, use them as something you cherish and are attached to emotionally. I think it worked in that way. But when I moved to *Anticyclone*, first of all, I'd never done the same platform twice. For me, that's pretty usual. I'm a very curious guy, so I'm like, okay, I did that, now I'm going to do another thing and keep exploring, because there's been so much happening in the last two years.
+
+With Art Blocks, people started telling me maybe I should try it — people from Art Blocks actually reached out and said the same. Then they sent me all this documentation: you can't use any images, it's much harder than fx(hash) because you have way more constraints. So I took the challenge. There was already this debate around *Dragons*, where I used an image for the paper — I bought some paper, took a photo of it, and used it in my shader. I wanted to prove I could do it without any images at all.
+
+Whether it got "curated" or not, I didn't think about that. I just give my best every time, whatever the platform, whatever the people, because I think that's my legacy. I don't want to look back in ten years and think I did something just for the money, or out of FOMO. When I release something, it's because I'm proud of it and I did my best.
+
+It took a long time between when I started working on it and when it released — end of April, I think. I'd started that algorithm before *Dragons* and released it about eight months later. At some point Art Blocks said, "This is something we've never seen, so this counts as curated." That's when the whole storm started around me.
+
+Art Blocks was a good challenge — it pushed my practice toward making my code compact and performant, with no assets at all. That's stuck with me ever since. Now, whenever I start something new, I think about optimizing my code, making it performant, finding tricks to make it better. Being on both fx(hash) and Art Blocks was a great experience — two completely different ecosystems, two communities, and both very important to my small career.
+
+Will: You said you've never worked with the same platform twice. So how do you pick? In this case, Art Blocks encouraged you, or other artists encouraged you, to submit. But you've also done Bright Moments, Tonic, LACMA. I imagine some of that was you reaching out, and some was them reaching out — especially after Art Blocks Curated, when I'm sure you had a lot of inbound interest. When someone reaches out and says, "Do a release for me, with my platform," what actually gets you to say yes?
+
+William Mapan: It's the idea and the vision behind the platform, and the people — I'm more into people than platforms. Usually it's when I meet someone and talk to them on a deep level about what they want to do, what they see for the future of their platform. I don't even reply much on the internet — I'm bad at that, there are so many messages, especially since *Anticyclone*. It's hard to keep up, so I try to shut down as much as I can. Sometimes I'll dive into my DMs and say, okay, I'll answer the first ten messages, and that's it for the week.
+
+Mostly, when I meet people face to face, it's much more enjoyable — I can connect, because beyond the platform there are people, and I work with people first. I want to try new things every time, at least for the past two years, because there's so much going on that I can't stay on just one platform. It doesn't make sense. There are communities all around, and if I want to show my art to all these people, I need to switch bubbles.
+
+So really: pitch me your platform, but really pitch me *you*. Who are you? Are you good people, or just greedy people? If you truly believe in what you're building, I think we can work together. It was the same with Verse — I met Leila, I met Jamie last year, and a year later, once my workload allowed it, we made it happen. When I meet people and think, this is cool, I can work with them — that's really the only reasoning. I trust myself to read people.
+
+Will: Are you blockchain agnostic? You had the Tezos work in the beginning, but everything's been on Ethereum since. I'll add that fx(hash)'s 2.0 launch will include Ethereum and on-chain contracts, so you'll be able to challenge yourself on fx(hash) with a Tezos or Ethereum on-chain project too.
+
+William Mapan: That's really awesome news.
+
+Will: Have you deliberately put work on Ethereum because there's a larger collector base there, or is it more that the platforms you've wanted to work with just happen to be on Ethereum? Do you have a strong opinion about the underlying blockchains at all?
+
+William Mapan: I'm not a chain maxi. At first it bummed me that most people didn't want to be on Tezos. With *Anticyclone* and Art Blocks, I knew from the beginning that's where it was headed. The ecological issues bothered me a bit, but I knew the merge was coming for Ethereum, so the chain was on its way, and there are good people there trying to do good, so I was willing to bet on that.
+
+Ordinals, for example — I don't know anything about that, so I'm not going to release something there. Ethereum is good enough for now; maybe I'll change my mind later. I've heard collectors need things like multisig and other technical setups I don't fully understand, and I get that platforms listen to collectors. Apparently Tezos was lacking some of that — it's balancing out better now, but a year ago it wasn't the case. So if collectors want to be on Ethereum, that's okay. It's different from Tezos — the fees, the gas, even the communities can be more intense, though Tezos can be intense too, just in a funnier way.
+
+I think it's up to the platforms to decide, and if artists want a particular chain, they have the choice today. But I'm not a chain maxi — I just go with the people and listen to that.
+
+Will: You were on Ken's podcast, *Arbitrarily Deterministic*, recently, and we heard there's hope the Cyril Diagne collaboration might materialize next year — hopefully on fx(hash), and potentially Tezos, which would be really cool.
+
+William Mapan: The goal was to be on fx(hash), definitely. We're pushing for that. Let's see where Cyril and I land next year.
+
+Will: We'd love to see it — we're big fans of Cyril's work on the show and have collected it on fx(hash). Let's get into the Verse Solos stuff, but I have one more question leading into it, on *Distance*. We already talked a bit about trait distribution, palettes, and letting the algorithm do its thing. I remember you tweeting things like "hope you like green," and you talked about this project quite a bit on Collector's Corner too, so anyone wanting a deeper dive should check out that episode with you and Lady Cactoid.
+
+My question is this: there's a lot of green, brown, and muddier colors in the project, which makes sense — you're imagining an aerial view from an airplane, looking down at fields. But there were also these rare, colorful, rainbow palettes, and there was a pretty big divergence in pricing — the average piece, with more green and brown, ended up closer to the floor, while the rarer ones became much more expensive. Does it bother you when people don't react as strongly to the most representative pieces in a collection?
+
+William Mapan: I think I was expecting it. When something appears less often in an algorithm, people assume it's rare and therefore more expensive — I get it, especially with the Paris palette. That one is special to me: the two palettes that mean the most to me are *I Hope You Like Green* and *Paris*, because they trace the journey from my small, very green village to Paris, where I discovered art and became more colorful. I also wanted to echo Berkeley and connect it to Paris, which is where my art really began.
+
+But I think if people don't value the greens enough, they're missing something. It's not all about color — it's also about composition, about what it means when there are cities, or suburbs. There's a deeper level than colors. Still, it's fine if people don't find it attractive right now — it's only been a month. I'm hopeful that over time people will appreciate the whole series, not just one palette. To really appreciate the series, you need more than one palette. Thinking only the colorful palette has value isn't the point, but I understand it.
+
+Will: That's a thoughtful answer. We're so used to thinking about this in terms of hours, days, or weeks because it's crypto — but really we should take the long view, decades from now, when people might come to appreciate the whole body of work.
+
+William Mapan: Some of my favorite outputs aren't the Paris palettes at all. There's a lot I like simply because the composition is good, well balanced, the elements well placed on the page. Art isn't only about color — there's so much more. I'm a baby artist, but I still believe that.
+
+Will: Let's transition to your upcoming Verse Solos exhibition, *Intimacy*. You'll be releasing a long-form project called *Sketchbook A* and a curated one-of-one project called *Through Your Eyes*. Let's start with the long-form piece. You mentioned to Ken on *Arbitrarily Deterministic* that you were inspired by a childhood drawing you found — done in crayon — and the freedom, expression, and texture of it, which became one of the driving influences for this piece. Is there more to that story you want to tell?
+
+William Mapan: I think it's the medium you first encounter in kindergarten. It's the easiest thing: take your crayon, take a piece of paper, and do some stuff. It's amazing how powerful that can be as an adult. If you observe kids doing that, it's crazy how free they are, because the medium is so simple, you just take a color and start drawing. That's all you need to explore what you want to say or express. If you're angry, if you're happy, you make a smiley, whatever. It's really amazing, especially now that I have a kid — I put some crayons into his hands and watch what he does. I'm like, that's actually really good. How can a two-year-old be so free of expression? That's a question I try to dig into: how, as an adult, you start building constraints around yourself, around your body, what you can and can't do, can and can't say.
+
+*Sketchbook A* is definitely about wanting to go back to that freedom of exploration. There's not really a deeper layer to it, like with *Distance*, where I moved to the countryside and so on — this is just about exploration, about being free to explore things. I think the crayon medium ties everything together, like glue. I called it *Sketchbook A* because there will be a B, a C, a D. I don't want to stop there — for me, this is a way of saying: I'm going to keep exploring. This is my sketchbook.
+
+Will: I want to follow up on that, but first I want to ask about your process. You've done quite a few projects using code to imitate a physical medium — crayon, watercolor, oil paint. You seem to have a knack for this, and you're considered one of the best at it. What's it like building those brushes and shaders? How do you even arrive at math that defines the way a crayon draws — crayon is this waxy material that breaks apart, so you don't always get a clean line. Are you poring over physics books looking for descriptive formulas, or is it trial and error? How do you actually go about building these mediums in code?
+
+William Mapan: I'm very bad at reading academic books — I don't know how to read the formulas, it's too complicated for me. So it's mostly trial and error. I also practice a lot physically, which becomes a good bridge: I can translate what I do with my hands into code. It becomes a way to express myself. With pigments and paints, you build texture, and the way you build texture means something. If you're angry, you press harder. If you want to give more personality, you alternate between smooth and hard edges, layer thick paint over transparent — these are all tools of expression. I want that in my code too, because that's how I express myself.
+
+So basically it's me staring at my sketches, my sketchbook, my paints, and trying to come up with the math. There's a lot of trial and error, which is why it usually takes months to get there — a lot of black screens, a lot of "what the hell is this?" But that's part of the exploration. If you practice enough physically and enough with code, at some point your brain starts making connections and translations. When I press the crayon, this happens on the paper — it diffuses in some way, it looks like noise, like transparency. So if I had to do that in code, I'd approach it the same way. It's a back-and-forth: physical, coding, physical, coding. At some point your brain mixes it all together, and that's how I arrive at these things — because I want the same base digitally and physically. Not identical, since every medium has its own specificities, but the same foundation.
+
+Will: Trial and error is a lot of how I approached it when I first started learning to code. I never got anywhere good, but it's encouraging for anyone learning to hear that the trial and error never really goes away.
+
+William Mapan: Don't give up. I've been doing this for ten, twelve years already, so it might look easy, but it took time — I'd say six years of trying to get to this point, and it didn't look good at the beginning. If anyone wants to do the same: don't give up. It will happen if you want it. Practice your coding skills, practice physically, and your brain will connect the dots. I'm sure there's no other way.
+
+Will: This project — and this episode will come out just before the sale, so hopefully everything's publicly announced by then — is going to be 64 editions and collector-curated, or minter-selected, depending how you want to put it. How did you land on that quantity, and how did you get comfortable letting collectors have final pick over the outputs instead of doing a standard long-form release or curating it yourself? I also heard that instead of standard royalties, you're going to hold a few pieces back for yourself. Let's start with the collector-curated decision, and get to the royalties question after.
+
+William Mapan: That came out of collaborating with the platform. I don't know anything about market dynamics or sales dynamics — I didn't even know the term "collector curated" until Verse brought it up. At first I wasn't into it; I was about to just create 64 outputs myself and sell them. But Verse was right that it's a good enough algorithm to let people explore, refresh the page, and find something good. Also, 64 isn't a lot, so you might not see the whole spectrum of the algorithm otherwise. Letting people play with it lets me show the full spectrum without the workload being on me — I'm inviting everyone to navigate my sketchbook. That's the idea. Sixty-four because a sketchbook has 64 pages — it's just thematic, nothing deep. My sketchbooks are 64 pages, so I wanted to do the same and ideally offer every collector a sketchbook of 64 means. It just makes sense.
+
+Will: If you'd done this as a standard long-form random mint, would you have kept it to 64 for the theme, or gone bigger to let the randomness breathe? I'm thinking of your older projects — *Dragons* was 512, I think, and *Anticyclone* was over 800. You clearly have this history of flexing the algorithm, letting all the outputs come out and maximizing it. Here we're at the other end of the spectrum — just 64. The algorithm is deep, there's tons of potential to find great stuff, but you're keeping it tight. Where's the balance for you?
+
+William Mapan: With this one, I'm very much in a sketching state of mind — I have a strong concept for the sketch and I want it to stay cohesive across the whole series. So it's 64, and it's a sketchbook: it looks like crayon, and when I sketch it's usually with crayons. Everything connects and makes the piece cohesive. My issue was, okay, the algorithm is capable of much more — but if I open it to everyone to refresh and see another, and another, and another, you'll see the full spectrum that way. So I keep the sketchbook concept while still letting the algorithm live.
+
+Will: I think a lot of people are getting ready to line up and get excited — it'll be a fun week of watching people share potential mints on social media and in Discord as they prepare for the auction for the right to make one.
+
+William Mapan: Verse also framed it as a way for me not to carry the whole responsibility of creation. I like that idea of being community-driven. Usually I do my thing — I'm the one creating. This is the first time I'm letting the community actually create, since it's a sketchbook, something experimental. We were like, yeah, let's do it, why not.
+
+As for the zero royalties — it's a sketchbook, it's not some huge thing. There's been a lot of discussion around royalties, and I think as an artist it's good to explore different options given the issue we now have with OpenSea. It was a long discussion with Verse: there are options for applying royalties, but the future of royalties is blurry — you can go with zero royalties and keep some works for yourself instead, or a mix of both. I thought, it's 64 editions, it's a sketchbook, it's fine to experiment. Let's see what happens — no big deal. If it fails, there's room for failure, and I think it's important to always try new things.
+
+Will: What would you consider a failure here? The issue you're referring to is that a platform called Blur let people stop honoring royalties, OpenSea lost volume, and then OpenSea changed its own royalty policy. None of this is baked into the tokens themselves, so there are always ways around it. In your case, taking a 0% royalty — what would failure look like? The project's definitely going to mint out, people are definitely going to buy. Would failure be if they shoot up to hundreds of thousands of dollars overnight and you didn't have a royalty?
+
+William Mapan: I think failure would be if it had a bad effect on my other series — if people decided they wouldn't pay me royalties on those anymore. That would be the backfire. I'm very excited for the collection to come out, but with this royalty experiment, it's only 64 pieces, so we can afford to experiment.
+
+Will: You're keeping four for yourself. Is that so you have some control over which pieces make it into the final set, or do you see it as a bet on yourself — if the pieces massively appreciate over ten or twenty years, you'd have a couple that could function as your royalty, since you could sell one later? Or is it more about completing the series and having your own hand in its creation?
+
+William Mapan: It's about completing the set — seeing the whole thing and realizing, oh, maybe something's missing, so I can add it. It's also useful for future donations — if I want to donate to an institution or a major collector, I don't want to have to track down who owns what and hope they're willing to sell. If I keep some for myself, it gives me much more control over where they end up in the future. Those are the main reasons.
+
+Will: That's a good place for me to plug that we're a donation-supported podcast — you can donate to us at wtbs.eth. We don't usually work those plugs into interviews, but since you mentioned donating, might as well. I think the idea of maintaining some control over the pieces makes sense, too, since there could be asymmetrical outputs — people might favor blue over red, or certain compositions over others.
+
+William Mapan: That's definitely what I'm afraid of — like, okay, it's gonna be all blue, and, oh no, that's a fail. I'm never doing community-driven again.
+
+Will: All right, so everyone's on notice. Everyone who's bidding, you all better coordinate and figure it out, or else William's coming for you.
+
+William Mapan: Please, please. But Verse had a really good point on this. They said everyone wants to be unique, and we find something that people don't have. I thought, okay, that's a good point actually. Should be okay.
+
+Will: I think it'll work out. For anyone who's not participating in the Sketchbook series, there's also *Through Your Eyes*, which I can't quite tell just from looking at the few that have been up on Verse — do these derive from a similar algorithm to the Sketchbook series? And is the difference just markers versus crayons, or are there other differences in the code base beyond the brush?
+
+William Mapan: *Through Your Eyes* is through the eyes of the algorithm — it's me finding portraits, facial features, in the outputs. But it's a different algorithm, though the base is the same. The geometry and composition come from *Sketchbook A*. I started another branch, another code parallel to it, where I wanted to be more digital — hard edges, but still with a sense of texture without using any noise or grain, just opacity, rectangles, and strong colors. That was a challenge, because I wanted it to live as a big print without having a very physical-looking output — very digital instead.
+
+I'm always trying to create a double reading with my pieces. With this one, from afar you think, "oh, this is a painting," very obvious. But up close, you realize it's just rectangles on top of each other. That's the texture I wanted.
+
+So *Through Your Eyes* is through the eye of the algorithm — what it found, what it could see, what it's trying to tell me. What am I seeing? Am I just making stuff up? I don't know. But I found this output and thought, this is good, I want to put this out there. It's basically the high-resolution version of *Sketchbook A*, because *Sketchbook A* isn't meant to be printed huge — it's meant to stay small, like a sketchbook, A5 size.
+
+Will: Gotcha.
+
+William Mapan: But this one, *Through Your Eyes*, is meant to show the things that came out of *Sketchbook A*.
+
+Will: I'm excited to see those displayed. We're recording this on October 2nd, and the live show starts October 4th, so Jamie's probably got the printer running right now trying to get everything ready and hung. I'm sure we'll see it all over social media and the Verse Discord as these pieces go up leading to the sale. William, we've already been going for an hour, so I hope you're okay wrapping up with a few rapid-fire questions.
+
+William Mapan: Yeah.
+
+Will: We like to end with these, and I have a couple that are unique to you. First: your physical paintings. You've been sharing a lot on Twitter of your actual paintings, not your code paintings.
+
+William Mapan: Oh yeah.
+
+Will: I saw a few people replying, asking if these are going to be on sale as part of the Verse release too — they'd love the opportunity to buy them.
+
+William Mapan: Oh, really?
+
+Will: Yeah. I don't think they're going to be included in the Verse release, but do you have any plans for collectors to eventually see these? Maybe put them on Foundation as one-of-ones, or sell them, or are they just for you?
+
+William Mapan: So far it's been only for me. But the last one I posted, this morning, is a commission — my first ever — and it took a year to finish, because I struggled to find a good recipe, a good balance of texture and surface to translate what I wanted. It's a generative system at the root, so there's a digital output, the native format, and the painting is a representation of it.
+
+It took a year, but that's good, because now I feel confident with painting, and you'll see more — I'm going to continue with paintings. There's one coming up with Kate Vass Gallery, I think mid-October, in Paris. It's a way for me to say I'm not a digital-only artist — I do stuff with every medium. I've been painting for a long time but never released anything. This commission pushed me through that ceiling. Before, I was just afraid, didn't want to show my paintings. But this is the first one. I'm a painter too.
+
+Will: I have a guess, about 70% confident, as to who that patron is, but I'll say it offline — we don't have to say it publicly. But I think I know who might be asking you to make a painting like that. So that gives people some hope for seeing more physical work from you in the future.
+
+William Mapan: Definitely. If I have some shows next year, or the year after, they could definitely include paintings.
+
+Will: Here's another one custom for you. On other shows, you've talked about your background in gaming, and even in this episode you mentioned blockchain applications for gaming. How optimistic are you about NFTs in gaming, and this technology proliferating? I work in gaming too, so I think about it often. What's your take on the current state of that, and where do you think it might go?
+
+William Mapan: I think it will happen. People don't like the word NFT, don't like crypto, don't like anything related to money — which is weird, because they already buy stuff in-game, so I don't get it. But signed digital assets — I don't see how they don't see it. It's so obvious to me that it will happen. If it doesn't, it's just because the lobby, or people, are too afraid of it. Maybe it'll be repackaged under a different name, but it will happen. It just makes sense to me.
+
+Will: Definitely a lot of people out there trying to make it work. I bet within the next big bull market cycle, we'll see some games that are being worked on now release and do some interesting things. To me, the barrier has been that people aren't doing interesting things with them right now — just shitcoin schemes with games attached, from what I've seen. Would be cool to see some authentic, creative uses. Here's another one we ask a lot of people: what do you listen to while you code, and do you have any music recommendations for us?
+
+William Mapan: I told Ken this too, but a lot of Kendrick Lamar. He's a big inspiration for me — not just because I like the songs, but as a person. He's great with everything he does artistically. It's crazy how much he releases, but it's always good, always high quality, and the artistic vision is clear. When you look at his whole career, the whole thing makes sense. That's what I'm trying to do — I want my whole body of work to make sense too. So he's a big inspiration, musically and otherwise.
+
+I also listen to a lot of classical music — recently a lot of Sofiane Pamart. Especially when I paint, I love classical. It goes with the vibe, the notes — some piano going *doo doo doo doo doo*, some violin, some guitar, and you feel a different vibe in your body. I'm very receptive to that. So hip-hop and classical. I also dance a lot, and I think both of those categories hit me very intensely.
+
+Will: Between your work and your child, do you have any time for gaming? Have you kept up at all, and do you have any recommendations if you're still playing anything?
+
+William Mapan: The last time I binge-played something was before my child was born.
+
+Will: I kind of expected to hear a no from you.
+
+William Mapan: Yeah, no.
+
+Will: Mine is 18 months and Trinity's 10 months, so we're in it too.
+
+William Mapan: Oh my God.
+
+Will: The lack of time is crazy.
+
+William Mapan: Yes, it's crazy. It gets better, but yeah.
+
+Will: That leads to my next question — any wisdom to share about what to look forward to in the next year of development and challenges?
+
+William Mapan: It's cliché, but time flies fast. The very first years are very important — you shouldn't neglect them, because your child needs you to be there. Spend as much time as possible with them. Forget everything else. When they need you, they need you.
+
+Will: So be present.
+
+William Mapan: Yeah, be present.
+
+Will: Who would you like to hear us interview? Who would be an interesting guest that would get you to come listen?
+
+William Mapan: Sofia Crespo, maybe. It's always fun talking to her — she's crazy fun, good vibes, good times, all the time. Definitely recommend her.
+
+Will: We haven't talked to her yet, so we'll add her to the list. Thank you for that. Last but not least, what can we look forward to from you? You've already hinted at *Sketchbook B* and *C* and beyond — are those coming to Verse, other platforms, different mediums? What's the future of the Sketchbook series, and what else can you get us excited about, to the extent you're allowed to talk about it?
+
+William Mapan: Definitely, the sketchbooks are very important for me to keep going. The title comes from when I started studying Vera Molnar — her sketchbooks, which at some point were online and which you can still find in museums and galleries. It's fascinating to get into the head of the artist through the sketchbook, and I wanted to go that way too.
+
+So there will be more — maybe paintings, maybe another sketchbook, maybe printed editions, could be anything. I want to say we need to explore as artists. We don't need to make a crazy number of editions — just confined, not too many pages, not too many editions, just exploring. Usually when people release a big edition, it's this crazy algorithm they worked on for so long. This one has been long too, actually.
+
+Will: It's okay.
+
+William Mapan: The next one will be shorter, definitely. I'm really getting into sketchbooks and paintings — I like moving my body around, not being on the computer all the time, so I'll be doing more in-between work. Also, way fewer releases next year. The last two years have been about testing my limits — how much I can make, at what frequency, given this world's supply-demand dynamic. It's too much right now, so I'm going to slow down for a while — less output, but more exploration, and commissions too. People have been asking, and I've had to say no because I don't have time, but I'll have more room for commissions going forward.
+
+Will: So if you miss the mint, maybe a commission is the way to go.
+
+William Mapan: Definitely. And also taking care of my previous releases — I know a lot of people want *Dragons* printed. *Anticyclone* is on the way too, with Artix Code. *Distance*, why not — we could explore that with other artists as well. All these things I've done aren't forgotten just because they're out. It's a long-run thing, and I want to keep developing it.
+
+Will: I hope you enjoy taking some restful years — it's well deserved. One option we'll give you: if you want to ask us a question before we wrap up, we can do that, and I'll do my best to come up with a thoughtful answer.
+
+William Mapan: Interesting. What is your favorite generative art series from anyone, and why? The why is very important.
+
+Will: I can tell you the one I have the most pieces displayed in my house of, and that's probably a pretty good metric for favorite. I have a nice triptych of *Coronado* by an artist named Jeres, who actually just recently released a project on Art Blocks Curated that did really well. Jeres has been around since the earliest fx(hash) days, and I've been following and collecting their work all that time. I still find myself going back to the fx(hash) page, scrolling through, seeing which ones might have gotten listed recently near the floor, trying to find some different colors or expressions of the piece.
+
+There's something about it that, deceptively simple as it is, uses color in this really illuminating way that stands out to me. I'm looking at art every single week to make the show, and that one has always felt really special. It's also one I was fortunate enough to actually collect — still, compared to a lot of work, pretty approachable to buy into. That's a hard question to answer in general, because there's so much work I'm priced out of and could never collect. I find myself not even taking those pieces that seriously, honestly, because if I don't have 5 or 10 ETH to spend on a single piece, I just don't engage with them as critically.
+
+William Mapan: Yeah, that's a good point.
+
+Will: That's revealing my bias — toward what I can actually enjoy and own, versus what other people seem to value highly.
+
+William Mapan: I struggle with that too, from the other side. The more visibility I gain, the more I'm exhibited here and there, the more my prices go up. And I miss when it was fx(hash) times and things were like 20 tez. I'm still trying to figure out how to get that vibe back. It's difficult, but I'm aware of it. Thank you for the answer.
+
+Will: I don't think there's a good solution, honestly. It's really challenging. I'm actually saving up for a *Dragon* during this bear market — that's the piece of yours I feel like I could realistically acquire. You're one of the fx(hash) artists missing from my collection right now. I've got at least something from Zancan, from Marcelo, from Andreas Rau, from Sarah Ridgely, from Lisa Orth — so many amazing artists who've put work on fx(hash) — and somehow I never got a *Dragon*. Now I need to save up and figure it out.
+
+William Mapan: Every little sale, I'm saving and saving trying to get one. With Zancan, it was crazy — I swear I thought I had a piece, and then like six months ago I realized, oh, I actually don't. *Garden, Monoliths* was released maybe a week or two after *Dragons*, and I meant to collect one and never did. For months, years, I thought I had a *Monolith*, and when I wanted to show it to Zancan I realized, oh shit, I don't actually have one. I went to fx(hash) and it was so expensive. But I bought one anyway — I have one now.
+
+Will: I actually don't have a *Garden, Monoliths*. I have some of his other pieces, like *Bugged Forest* and *Kindergarten Monument*. Both Trinity and I missed *Monoliths* when it released because — if you remember back then — fx(hash) was so weird, only open for like eight hours before it closed.
+
+William Mapan: Oh yeah, true.
+
+Will: We were minting other things, and then the platform closed, and we looked and saw everyone else had been minting this piece from a guy called Zancan. We were like, what is this — flowers and grass? We completely missed it. The front end was so slow back then, too. If you didn't know how to watch the contract directly, you could miss things entirely. Wild days.
+
+William Mapan: It was hard. For *Dragons*, I didn't have time to mint myself. I wanted like ten copies for me, and I didn't have time — I uploaded the code, people minted everything, and I went back to the front end and it was gone. Like, shit. But yeah, I know what you mean.
+
+Will: I saw you have three. Did you mint those or get them on secondary?
+
+William Mapan: Secondary, definitely. It feels weird buying back your own art, but I think it's important to own it.
+
+Will: Right on. I feel like that's a good place to leave it, William. How do you feel?
+
+William Mapan: It's a good place indeed.
+
+Will: Thank you so much for taking the time to come on. It was amazing getting to talk to you and pick your brain about your process, the market, gaming, and the early days of fx(hash). Really thankful for you giving us your time. We hope everyone listening enjoyed this episode.
+
+William Mapan: Thank you for having me. It was a pleasure, really. All right, bye.

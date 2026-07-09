@@ -1,0 +1,381 @@
+Will: All right. Hello and welcome, everyone, to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Susannah Maybank of Tonic, and of course Trinity is here too. Susannah, Trinity, how's it going?
+
+Susannah Maybank: Great. Very excited to be here. Thank you guys for staying up late to get on with me.
+
+Trinity: We're here for it. It's an absolute pleasure, and we've been looking forward to this interview for a really long time.
+
+Susannah Maybank: Me too. I'm excited that it's finally happening.
+
+Will: It's been a few months in the making, but we got it figured out. We're excited to talk to you about Tonic and your background in art. Maybe that's the best place to start — introduce yourself, tell us about your background in art and collecting, and how you found crypto and NFTs.
+
+Susannah Maybank: I've been around art my entire life. Many family members have worked across all the different sectors of it, from academia to museums to auction houses and galleries, so I grew up looking at a lot of art and hearing from people who dedicate their lives to it. It was a pretty easy decision to study art history as an undergrad, then pursue a master's, then go to a large gallery in New York — Gagosian — where I started as a receptionist and worked my way up. It was an incredible experience being so close to so many icons of art, both the artists and the dealers.
+
+Will: When you say worked your way up — Gagosian is a big name, even to those of us outside the traditional art world. Tell us more about what you did there, and how you bridged from that career into co-founding Tonic. Where did you discover NFTs and blockchain in that process?
+
+Susannah Maybank: I was incredibly lucky at Gagosian — some of the most brilliant minds work there. I was on a team building out online sales, which then expanded into other areas: market work, customer development, business development, things of that nature. Eventually I left Gagosian to go back to school for an MBA, and moved to California for that. It was late summer, fall of 2020. I don't know exactly what spurred the change, other than the media hype cycle was in full force — this was post-Beeple sale — and I was the obvious "art girl" on campus, so I started having conversations about NFTs.
+
+I've always been passionate about art markets and building market datasets, and the blockchain provided a far better footing for that than anything I'd been able to build in the traditional market. So it sounds a bit bloodless, but I really did first fall into it from an analytics perspective. Then, while doing that research, I discovered artists like William Mapan, Iskra Velitchkova, Dmitri Cherniak, Tyler Hobbs — some of the usual figures — and I fell in love. Not only was this a far more efficient market that solved a lot of the issues I saw in the traditional art world, but the art was really good. That was the clincher that made it easy to take the leap.
+
+Around that time I met my co-founder, Mariam Nafisi. She was a lecturer; we started talking about the art market and really hit it off, and she encouraged me to jump in right away. When someone with the experience and brilliance of Mariam tells you you're ready, you believe her.
+
+Trinity: How did you land on the idea of Tonic? Actually, let's take a step back first — what was your introduction to generative art specifically? Coming into NFTs is one thing, but landing on generative art — how did you discover Mapan, Iskra, and the rest?
+
+Susannah Maybank: A common story for many — it was Art Blocks. The way they defined a set of rules that an entire community could form around was really inspiring, and it was through Art Blocks that I fell in love with generative art specifically, and with digitally native art in general. That said, I love artists working in other mediums too — Helena Sarin, Sofia Crespo, Tangled Others — there are so many people producing interesting work across different modes of production. But generative was the clincher for me. Mariam was already an Art Blocks collector by that point too, so she came in with that same love of generative art.
+
+Trinity: It's also inherently native to blockchain technology, in a way — of all art forms, it's the one best enabled by it. It really lives through hashes and transactions; there's so much you can do with what's inherently there. It's beautiful to see it come into its own as a blockchain-native art style, even though it obviously has its own very long history outside of that.
+
+Susannah Maybank: It was the first thing that felt native, as you said, but also internally consistent. I understood every part of it — why it was being stored on-chain, why an NFT made sense outside of the hype cycle we were experiencing at the time. That purity of concept and execution was really gratifying and exciting to see.
+
+Will: It's encouraging to hear that from someone who didn't come from a digital art background — "oh yeah, the art's good." That's a question we always ask ourselves. We like this stuff, and we know collectors here like it, but it seems to be a struggle getting it acknowledged more widely. Let's put a pin in that, though, because I don't want to derail the history of Tonic.
+
+Susannah Maybank: I have so many things to say on that front.
+
+Will: We'll come back to it — that's a good half hour on its own. So, 2020, 2021 — you're learning about NFTs, discovering Art Blocks, and you find a partner to start this platform with. What were the early days of Tonic like? Did you have a different vision than where it is now? What was it like to get funding and start a platform like Tonic?
+
+Susannah Maybank: The Mariam magic didn't happen until 2022. I had a two-year master's program that gave me a lot of freedom to explore new things like generative art, and in 2022, right around graduation, I met Mariam, who had started an incubator — a venture studio called Heretic Ventures. As we got to know each other, we talked about ideas she had in the generative art and NFT space more broadly. That was the beginning of us spending a lot of time together, though I didn't plan to join at first — I was supposed to go back to the traditional art world. But through consulting on this idea she'd been developing, I eventually said, okay, let's do it, I'll join. So it was a bit of a longer sell.
+
+The original concept was organized much more around interior design, I'd say, and it shifted toward more of a gallery model when I joined — that's probably the biggest pivot. In terms of funding, because it was an incubated company, we had initial seed funding to get off the ground, which was hugely valuable, since we didn't start raising until 2023 — by which point the market had changed, valuations weren't high, and people weren't raising money overnight. The fact that we already had a product on the market for our first collection when we went to raise was hugely valuable.
+
+We closed our raise in March 2023. I'm happy with that timing, because we already knew we were in a downswing, so we could be thoughtful and strategic about our cash spend and the realities of sustaining that investment through a long bear market. The raise wasn't perfectly timed for an easy fundraise, but it was well-timed for building a durable company.
+
+Trinity: Fascinating story. I'm interested in the opportunity space you saw when founding Tonic. We're seeing a lot of platforms launch that are essentially copies of fx(hash) or Art Blocks. How did you land on the idea of Tonic and how it operates? And for people less familiar, could you give an overview of how it operates in the market today?
+
+Susannah Maybank: Tonic is meant to be a bridge between the digital and physical worlds — both in terms of the artwork, since every digital piece we sell comes with the option for a physical counterpart, and in terms of community. We're here to be a helping hand for new participants entering the market. It can be really intimidating — we were all novices once — and our real reason to exist is to help bring on that new generation of digital collectors.
+
+We did a lot of research into the opportunity, and everything being on-chain is a wonderful asset for that — you can see how many active wallets are participating on a regular basis, and moving that needle slightly can result in massive rewards. It's not a huge number of people driving this market compared to others, so that was the key insight: if we could find a good way to educate people and introduce them to this art form, there's real opportunity. I don't think we've seen a digital art form take hold of the collective psyche as quickly and strongly as generative art has. It has the potential to become a massive movement in the global market — but if we don't reach across the aisle and bring new people on board, we're dead in the water. That's really why we're here. Art Blocks already does Art Blocks incredibly well; fx(hash) does fx(hash) really well. That's not why we exist — we're here to bring more people to the party.
+
+Will: We all want to see the space grow. Trinity and I have been collecting for almost two years now, which is crazy to think about, and through doing this show and talking to artists and founders like yourself, it's clear everyone wants more people to come in. We've seen fx(hash) doing the Art Basel roadshows, Tonic and Bright Moments doing openings at big events, Verse doing openings in London — a lot of people trying to cross over collectors who aren't familiar with NFTs or generative art. In your experience with Tonic, what have been the major challenges? Where have you had successes, and where are you still hitting failures? From the collector side, it doesn't feel like we're seeing a ton of crossover yet — but maybe we're just not seeing it at the level we exist at.
+
+Susannah Maybank: A few easy points. One was mechanical difficulty — not having a wallet, not having any crypto. So from our first sale, we made sure wallet provisioning was available; you just need an email account and you can still participate on auction day. The second was credit card purchasing — that was the lowest-hanging fruit. And it was sort of a no-brainer. Let's remove the mechanical impediments. And the second was a strong preference for display. A lot of people are still struggling to understand what the value is in having something that sits on their phone or computer. So if someone is going to spend hundreds to thousands of dollars, they really do want the utility of display. Making sure that everyone who owns a Tonic piece can have it hanging in their home, displayed in some fashion, was really important. The third part was education, and that's taken the most massaging and iteration, because there's so much to communicate in such a short period of time. Getting that balance right has taken a lot of testing. The most important thing, right off the bat, is just getting people excited. Some of that means reading your audience, and if the crowd is too big for that, you have to get creative. But it's really about explaining the value of the art being produced and getting people excited about the art itself before you get into the specifics of the market, the wallets, or the technology.
+
+Will: On the education side, what does that actually look like? There are kind of two levels to it. A lot of people who collect generative art and have been doing it for years, us included, still love to learn more — hearing that a piece references something from the '60s or '70s, learning about that first wave of computer generative artists. There's always more to learn as someone already collecting. But for someone who's not doing NFTs at all, who's not familiar with generative art, maybe skeptical, someone who only buys paintings or photography — are you literally pulling out your old Gagosian Rolodex, calling up friends who still work there, saying "give me the names of fifty cool collectors in New York"? What does that education look like with people who aren't already here? How are you getting to them and crossing them over? And if you have an anecdote of crossing someone over, I'd love to hear it.
+
+Susannah Maybank: I do have an anecdote, but I don't know if they'd love it if I told the story. Let me think for a second.
+
+Trinity: You don't have to name names.
+
+Will: Yeah, just don't name names.
+
+Susannah Maybank: It's so cute, if you know what it is — I'll tell the story and then ask her if she's okay with it being shared. The art is a really great first sales tool. But one thing we've done is lectures — I give a lot of them. If it's an arts-focused crowd, I give a deep-cut historical backdrop to the generative art movement, so that by the time we're talking about algorithmic art, they see the entire chain and understand how this fits into the historical narrative. Then we're immediately talking about it in terms of "real art" — that's the context it's given in. After those events, it's amazing — people stay, they chat, they talk about the art we discussed, sharing a piece of a collection they're particularly excited about, and you watch people feed off that excitement. A thorough art-historical backdrop can be really effective.
+
+And then sometimes it's really as easy as: the art is stunning, and people see it in person. We did a Lars Wander opening in LA, and someone walked in off the street during the install. The works were half on the walls, half on the floor, and we started talking — I explained what was happening. He came back for the actual opening, brought a friend, and said, "This is so cool, I just wanted to show people what's happening right now in the art world." He was truly just impressed by the beauty of the art and its physical manifestation.
+
+We also do live bidding parties — you can join online from wherever. On our first one, a woman in her 80s joined and raised her hand to ask a question. She said she'd never considered purchasing an NFT before, but this looked fun, and she asked a simple question about how to process the provisional wallet. She showed up just to learn and experience it. You keep it a friendly, open environment, and you really never know who you'll catch.
+
+Will: I love the idea of someone's grandma outbidding me on a Lars Wander.
+
+Trinity: Seems plausible. I'm ready for that.
+
+Susannah Maybank: Practically speaking, Lars Wander's work is just beautiful. There are very few people you show it to who say, "that's not art." It's stunning, it's impressive. So just showing that to people at these lectures — I try to bring as much physical art as possible, so they can look at it before they even hear us talking, and people get it.
+
+Trinity: With generative art, it takes ten minutes of education. And more than ten minutes of education — okay, sorry, people listening, you can't see the face that was just made. But I've given lunch-and-learns at work about generative art, because people aren't into NFTs — they think they're a scam, they think they're just ugly apes. But then you go into detail, show them outputs, and it's like what you were just saying — explaining how it works, the elegant technological wonder that it can be. All of a sudden you're turning heads, converting people who hadn't even considered it before, one or ten or twenty at a time.
+
+Susannah Maybank: Exactly. I can go to a hundred-person lecture — if I convert one person, if I really plant that seed of interest, it's worth it. I'll keep traveling. I'll do it.
+
+Will: On the flip side, how often are you reaching out to people who aren't aware of the NFT side at all — people who think it's art, and then they hear "NFT"? Do you find people are instantly turned off? I get the aversion to PFPs — they look bad, maybe you don't like the people who have them. There are a lot of problems with PFPs; we hate PFPs on this show generally. So it's not like — don't make that face, Trinity, you hate apes too, I know.
+
+Trinity: I was just thinking about the beauty of capturing people in a lecture hall — they can't leave.
+
+Will: We're not hardcore "NFTs in every form" maxis — this is an art-focused show. But it is difficult. I've talked to people who assume, because I'm left-leaning, that I must think NFTs are a scam and hate them. It's hard to explain the nuance — that there's this technology, this art that is code, and it does have real legitimate uses, maybe even just one. How frequently are you running into that friction with people outside the community?
+
+Susannah Maybank: I hate to say it, but sensing at least a small aversion to NFTs is probably the majority of my conversations. I try to delay that element — referring to the "digital counterpart" or "digital asset" instead of using the word NFT explicitly. We began this conversation talking about how blockchain unlocked a much more efficient market, so I do talk about it in those terms. But if you just say NFT without explaining the why — the internal consistency of generative art we spoke about, the efficiency of assets stored on the blockchain — it's really intimidating. So even in the explanation, I try to delay saying the word NFT. But I think if we never use it, it's never going to get laundered.
+
+Will: True. I doubt we're going to come up with a new acronym or name. We're kind of stuck.
+
+Susannah Maybank: My hope is that eventually the media cycle improves and we move on from villainizing the technology. Maybe in ten years it won't be such a dirty word, but I'm living in 2023, and I'm going to be careful.
+
+Trinity: When we're talking about onboarding people who aren't native to the NFT space, tying that back to your history and love of analytics — this is a space where everything is transparent, you can scrape all the data in the world and apply it. It seems like the primary KPI to understand if your mission is succeeding would be, at least from a measurability standpoint, the number of non-custodial wallets being made versus MetaMask or other wallets connected. What sorts of trends are you seeing?
+
+Susannah Maybank: It is trending up. One caveat: we onboard a lot of people directly to MetaMask or other hot wallets. If you come to an event and have never participated in crypto markets before, there's always someone there who can show you a QR code, let you scan it, and walk you through the process. So provisional versus non-provisional wallet isn't the metric we use — we focus more on the wallets themselves. And because we enable credit card payment, that's another useful metric to track. We're moving toward 50/50, though not quite there yet — that's just in the primary auctions, which is already a self-selecting group, since many people who are physical-art-motivated balk at the idea of a blind Dutch auction. That's very intimidating for people whose primary motivation is display. But even so, we're still seeing that number grow collection to collection, which is really encouraging.
+
+Will: For clarification, that's 50/50 people you think are new, collecting their first NFT, versus existing degens?
+
+Susannah Maybank: Yes, that's the breakdown, though we're not quite to 50/50 — closer to 40/60. It's a substantial number, which is the goal, and the trend is more heavily toward new buyers, which is what we're aiming for.
+
+Will: That's really encouraging. I had assumed it would be a lot less, just because it seems like a difficult thing to pull off — and the auctions play out quickly, so it's hard enough for someone already in the space to know an auction is happening and make time for it.
+
+Susannah Maybank: A few things help us there. One, we enable pre-bids — you can preregister your bids up to a week before the auction, which helps a lot with the non-degen crowd. We also do presales, where if your priority is selecting the specific work you want, you can do that in the presale window, though you pay a slight premium for that privilege.
+
+Will: I want to go a little off script and talk about something we've been discussing a lot this week. Within the Tender generative art community, there's been a lot of talk about random mint versus curated mint. Is that something you've considered? Right now, as I understand it, Tonic pre-curates outputs with the artist, and those are randomly distributed at time of mint or presale. Have you considered doing anything closer to what Verse is doing, or what fx(hash) is doing with params — allowing people more control over the output they're getting, especially at higher price points?
+
+Susannah Maybank: Nothing's off the table. From the beginning, we've looked at blind versus non-blind. Especially as our community widens to include more new entrants, they have different preferences and appetites, and we have to be cognizant of that. For the immediate future, we're not going to shift to fully non-blind anytime soon. Curation is pretty core to the business — the ability to ensure every work is high quality, that it will print extremely well or manifest physically extremely well, because we don't just offer prints. That's very important, and it also allows a different piece to mint. Because if you have to constrain an algorithm to work within those fully uncontrolled parameters, it means that you have to cut out a lot of the outliers. So I think it's a good thing for the broader art that's being produced that there is an alternative where you can do some slightly different things.
+
+Trinity: Will, did you have a follow-up to that?
+
+Will: Nothing pressing. Go ahead, Trinity.
+
+Trinity: I wanted to talk about the physical side, the fact that everything comes with a physical piece. Will, I know you're probably still waiting on the framers?
+
+Will: This is embarrassing. Don't make me pull out my still-unopened Iskra print that's hanging up. It's waiting on other people to fulfill their prints to me so I can take a batch to the framer. I have an *Escape, a broken opera*, and I got the physical, but it's just sitting in my closet because I haven't taken it to—
+
+Susannah Maybank: I cannot tell you how common that story is. We almost did a PSA when we realized one of my teammates had six works unframed, sitting right next to their closet. It's very common.
+
+Will: It's an efficiency and time thing—a baby, a job, a podcast. I'm just trying to get five or six things in at once and waiting for the rest. It's all coming, though.
+
+Trinity: It's in your backlog, Will. But let's not divert—Trinity had a real question.
+
+Will: I don't think you were going down that line just to shame me, Trinity. What was your real question?
+
+Trinity: Okay, we're in the realm of the physical. Having every piece come with a physical alternative is a big differentiator between Tonic and other systems. But the additional value layer—these extremely premium, high-quality prints—how do you figure out what print technique aligns with what project? Every project so far has been different. How did that idea come about in the first place, as this huge value add?
+
+Susannah Maybank: The unique printing alternatives were actually born with Iskra, which is why it's appropriate that we were just talking about her—that collection will forever be near and dear to my heart. The work is so stunning, and we wanted people to have something unique and really special. The colors are so strong, the architectures so bold, that we said, let's try something different that's not on the market right now. So it became a black-and-white collection, and that widened the gamut of possibilities hugely.
+
+From there it differs collection to collection in terms of how we decide to manifest it. Sometimes the artist comes with a firm opinion—Phaust and riso printing, for instance. They said, "I have an idea," and it was our job to execute it. Sometimes it's more of a collaboration. I've basically tried almost every kind of art production in existence at one point in my life—I always knew I'd be involved in the art world somehow, so having a thorough understanding of materiality was important to me. I've welded, made wood furniture, carved marble, done woodblock printing—tried nearly everything at least once, probably five times. So it's funny: Tonic has become this experience of plumbing my entire memory on a nearly daily basis—all the art history I've studied, all the art I've practiced—to work with artists and find the exact right offering.
+
+Will: Hell yeah. And now you're podcasting, so the circle of mediums is complete. This might be an annoying question, so feel free not to answer, but what's the conversion like on those premium prints? Some of the Iskra prints cost $1,000, $2,000, $3,000, but the mint price the auctions settle at can be a fraction of that. Are people actually paying $300 for an NFT and then $3,000 for a print? Or is it more, "We believe in this, and if people aren't converting now, that's okay—long term, this is where the business needs to be and what people want"?
+
+Susannah Maybank: People are definitely converting, and price point is definitely a factor. The Phaust unique physicals, for instance, were about $500 framed—pretty competitive with standard digital printing, but a much different experience and feel. That had a lot of uptake. It really depends physical to physical. For an upcoming project, the piece really becomes complete with its physical manifestation, so even if the price point is higher, people get excited about that unique experience, especially when there's nothing like it on the market—like the Iskra silver gelatins mounted on dibond. I wish you could see this on camera, but they're meaty—impressive, so beautiful, and so differentiated from digital prints.
+
+Even just giving people the opportunity to mix up what's on their walls matters. My biggest fear is that digital art collectors end up with a room that's entirely digital prints framed the exact same way. Even if the art itself is different, it becomes homogenous after a certain point. Textures and treatments matter.
+
+Will: I was pulling my collar in shame, but I actually have some variety in here—not all the same print style with the same frames.
+
+Trinity: You have a woodcut too, right?
+
+Will: This one you can see is actually printed on cloth. The artist handmade the frame and printed the piece on cloth at their home. So there's real diversity of mediums here.
+
+Susannah Maybank: I love that. Even having things that aren't framed—the silver gelatin didn't need a frame—immediately mixes it up. There's a lot that can still be done. We've tried a lot, but there's more in the hopper, so don't worry.
+
+Trinity: One thing we've talked about with other guests is the idea of divorcing the art from the token—the token can be the art in some respects, but it's mostly the certificate of authenticity on the blockchain for the art. Having an ultra-premium print in some ways makes the art *the art*—it does justice to the output that was generated digitally. Not really a question, more an observation on how we might start to see this.
+
+Susannah Maybank: I'll offer an observation of my own: there's something inherent to generative art where the collector is invited to collaborate more directly than in the average art market transaction. Being able to decide for themselves whether to have that physical manifestation, whether to value it more than the on-chain asset—that's all part of the magic here.
+
+Will: We've talked a ton about the economic side and the logistics of prints.
+
+Trinity: We could talk about the economics forever.
+
+Will: We're such dorks.
+
+Susannah Maybank: Same.
+
+Will: We can come back to it. Let's talk instead about the Tonic process. I'd love to hear how you landed such premium partners from the get-go. What's it like pitching a William, an Iskra, a Lars? How do you pick, how do you recruit, and once you're working with these artists, how much influence does Tonic have? Are you hand-in-hand curating? Do you have input on pricing and quantity? Are you telling them, "That's not it, take another six months"? What does that start-to-finish process look like, and how have you succeeded in landing such amazing partners?
+
+Susannah Maybank: For the first maybe six months, we had no track record. We approached William almost a full year, if not more, before he did that collection. So the key was persistence, honesty, and really understanding what his goals were and trying to meet him there—listening and being reliable. I'll be forever grateful to all of those early releases, because those artists took a leap of faith on someone they didn't know and a platform that didn't exist yet.
+
+Talking about art a lot definitely helps too—making sure they understand that the making process is its own beast, that timing can be flexible, that you respect their creative process rather than treating them like a machine. And a lot of follow-up, a lot of outreach.
+
+Once we had a track record and had been around a bit longer, things shifted: we started accepting artist applications, so now we have inbound as well as outreach to artists we think are really talented and have a bright future. There's still a lot of patience required, because people have schedules, commitments, personal lives—they're humans like us. You roll with missed deadlines and shifting plans, stay patient and understanding, and be a real ally. They're taking a risk on us, so it's our duty to be as supportive and helpful as possible.
+
+The process itself is long—these collections don't come together overnight. We're usually in conversation for at least six months before a release, with a lot of back and forth. I have a lot of meetings personally with each artist as they develop the algorithm, just to check in and be someone they can rely on, since it can be a pretty lonely endeavor. In the month before release it gets more intense—very regular meetings and correspondence—and we curate together. A few people are involved in curation, and we'll go through sometimes 15,000 or 20,000 outputs. It takes a village, and we all decide on the final collection together, with a lot of calls and messages while that's being wrapped up.
+
+Pricing is similar—being a sounding board and support system. Many artists find it hard to price their own work; it's not their focus, since their primary objective is to storytell and create. I'm an art dealer, so they can leave that part to me.
+
+Trinity: Match made in heaven.
+
+Will: So is Tonic taking the lead on those key decisions—Dutch auction start and end points, refunds, edition size—or is it more of a 50/50 split with the artists?
+
+Susannah Maybank: It depends on the artist. Sometimes they don't want to make those decisions, sometimes they want a more active part. As I said, we're just lucky to get to tell those stories, so we lean into their preferences. If they say, "Susannah, you just do it all," fine, I'll do it all.
+
+Will: Anecdotally, without naming names—has there ever been disagreement?
+
+Susannah Maybank: There's definitely been kibitzing, but never a strong disagreement, people digging in their heels, fights happening. It's always been congenial, but there have definitely been differences of opinion. Sometimes internally with the team too—we talk out a lot of these mechanics before they're presented.
+
+Trinity: We've run that gamut a bit within the TENDER Discord too, seeing some collaborations ahead of time. There are so many opinions, and none of them are right or wrong—it's just figuring out what can happen.
+
+Susannah Maybank: And the reality is this market is so dynamic that a decision you made three weeks ago, or an opinion you held three weeks ago, might no longer be sound. So it's about not being too ego-driven, and reevaluating constantly.
+
+Trinity: That was especially difficult in early 2022—the metagame was shifting every few weeks. It's slowed down a bit now, thankfully.
+
+Susannah Maybank: Now we have our own shifting sands—maybe slightly slower, but tricky nonetheless. They have their own potholes and sinkholes.
+
+Trinity: Definitely.
+
+Will: How does that compare to the gallery world, the traditional art world? This is a question we wanted to ask: what's the same and what's different between working at a Gagosian and working on a digital platform? When you're pricing art in the traditional art world versus pricing NFTs that you think might be equivalent in quality, but obviously it's new and—
+
+Trinity: And you're not creating 400 of them.
+
+Will: Right. So what crosses over? What skills from that past life translate, and what are the big differences? And as a corollary — do you think we're on a collision course with behaving more like the traditional art world? Or will we stay divergent, or maybe even push them to behave more like us?
+
+Susannah Maybank: One main difference is speed. In the traditional art market, flipping happens over years, not seconds, so the real-time feedback is a fundamental shift. Despite the relatively short time period we're talking about, there's a huge amount of transaction data. The secondary market kicks in much faster, and artists release more work — not just more per series, but more in a single calendar year. There's simply more being put onto the market, so prices fluctuate more dynamically, and you have to reevaluate pricing on a nearly daily basis.
+
+Otherwise, there are a lot of similarities. You take market considerations into account, but individual artist markets are usually the strongest indicator of price by far. One difference is size and material — in the traditional market you have to factor those in, whereas here we're dealing with digital assets that are effectively size-agnostic. So there are more variables in the traditional market, but the underlying action is the same. I'm still a data-driven person — I scrape tons of information, look at transaction records, and weigh additional inputs like major museum shows or press coverage. Fewer books in this market, but still plenty of coverage to consider. A lot of the levers are consistent; you just have to pull them more frequently.
+
+Trinity: I think the crypto market has an additional wrinkle: the cryptocurrency itself. Tonic prices things in ETH, which obviously shifts in price. As you prepare for a release, I imagine that has to be considered. Do you think in terms of ETH or USD? If the price changes day to day, do you reprice the work — or at least the auction start and end points — accordingly?
+
+Susannah Maybank: I look at the ETH conversion daily, and it factors in. If I'm looking at past sales, I'll check both the ETH and USD value — I'm tracking both dynamically, because it does have an impact. Not necessarily one-to-one, but an impact. I think they're correlated markets, 100%. Since so many of our buyers come from the traditional side — even if they were all degens, the correlation would still hold — but because we have these novice buyers, it's even more important.
+
+Will: Did you ever consider pricing in fiat, to make it feel more accessible to people who aren't crypto-native?
+
+Susannah Maybank: On our site, we include both fiat and crypto pricing. You can participate in the secondary market directly from our site, buy listed works, and pay with a credit card using a provisional wallet. So buyers have access to the secondary market that way too. We list both the ETH price and the USD price, and yes, it fluctuates constantly.
+
+Trinity: So you're catering to both markets without cutting anyone out.
+
+Will: Something we've talked about off and on is the difficulty of managing the secondary market amid price fluctuations. Say I mint five pieces and put one up for sale at one ETH, then ETH drops or rises 30% — you're stuck babysitting it. There are obviously logistical issues, but from a layperson's standpoint, it would be so much easier to just say "I'm selling this for $2,000" and have that number stay constant regardless of the underlying currency's movement. It's a hard problem to solve, but it feels like the most user-friendly approach — not making buyers constantly do mental accounting about what they paid versus where crypto has moved.
+
+Trinity: That's going to be more of an issue on fx(hash) than on Tonic, for sure.
+
+Susannah Maybank: It's definitely something I'd like to do eventually. It won't be on our immediate roadmap, mainly because our Web2 buyers don't sell as quickly — it'll take time before that becomes a real roadblock. They're the true diamond hands. They just put it on their wall and leave it there.
+
+Will: Yeah, they're actually real art collectors.
+
+Trinity: Taking it back to the art — and I'm sure we'll tie in some market dynamics too — when you approach an artist, do they usually come to you with an idea or concept already, or is it something you co-create, or built from scratch?
+
+Susannah Maybank: It depends. Early on, it was more built from scratch, because we were approaching artists well before we were close to launch, which meant a long collaboration — sometimes a year — so we'd see more of that development process firsthand. Even today, there are moments where we connect with an artist and get excited about working together before any collection exists, and it evolves from there. But for the most part now, they at least come with a seed, a kernel, that we get to watch grow. There's usually at least an initial concept or experiment. Each artist works differently — sometimes it's concept-driven, sometimes texture- or color-driven — but there's usually something there to start.
+
+Trinity: Bringing that back to the conversation we were just having — there's often a question of what a piece can support. How broad is the algorithm? Does it really only create around 100 unique-ish outputs? Could it support 400? Could it go as big as 1,000? Some of the broadest examples that come to mind are works by Kim Asendorf. Is the strength of the algorithm a factor, or are you measuring more against the size of your perceived audience?
+
+Susannah Maybank: One caveat: I'm not sure I'd use the word "strength," because some very strong collections are better at a smaller size. But yes, the algorithm definitely drives collection size — much to the chagrin of our collector base. Usually we're almost finalized, if not completely finalized, with curation by the time we announce collection size, just to make sure we're not selling any work that can't stand on its own.
+
+Will: What's an example of a robust algorithm that might be capable of 1,000 outputs, but where you'd want to constrain it to 100? What are the factors that tell you smaller is better? I think about this constantly.
+
+Trinity: Like, when can you see the full breadth of what it can produce?
+
+Will: If it can do 1,000 but it's actually better at 100, what's the nuance there?
+
+Susannah Maybank: There are a few factors. One is the audience — not just Tonic's audience, but that specific artist's market, and how recently they've released work in the past. Whether the narrative works better with a smaller collection size, where we think we can get people more excited about it. Visual variety makes a big difference too — sometimes when algorithms are really far-reaching, with a huge range of outputs or outliers, not all of those outliers turn out well. Let an algorithm get a little wilder and there's risk — those outliers can be less successful than the rest. It really comes down to artist by artist, collection by collection: does the narrative make more sense at a smaller or larger size, do the themes call for something more concise. There are a million reasons to go larger or smaller at any given time, and it's ultimately a judgment call.
+
+Trinity: I think you might think about this more than we do.
+
+Will: I think we all wish every artist could do the maximum output at all times without being punished for it, but we've seen great collections struggle to mint out or flounder on the secondary market purely because of timing — like you said, it's their third release in three weeks, and it just shakes out that way regardless of the work's quality. That makes a lot of sense.
+
+Trinity: We've talked a lot about the NFT ecosystem overall. Specifically within generative art, I'd love to get a sense of your long-term vision for the role of generative art and NFTs. It's hard to keep a sense of optimism or perspective through some of these extended bear markets — what role does this corner of the art world have to play moving forward?
+
+Susannah Maybank: As a digital native, I'd been waiting what felt like my whole life for a digitally native art movement to catch fire, and we finally saw it happen. I'm still very bullish on the long-term perspective. What I'd personally like to see is more robust dialogue with critics, historians, institutions, and museums — deeper integration into the powers that be. Art criticism can make the art better; it can push artists forward, and I think it would have far-reaching benefits beyond just exposure to new audiences. There's a danger in the current narrative in arts and mass-media coverage, where the conversation is still overwhelmingly market-based. I'd love to see that shift, and I'm actively working to build that bridge and change the narrative.
+
+A bit of background: I was a medievalist. I studied the period of art between the proliferation of the bound book and the printing press. Every time there's been a major technological advancement in how information is shared, stored, and disseminated, there's been a corresponding shift in art and in what becomes the dominant art form. We've clearly had a massive transformation in the digital age — everyone is more connected than ever via the internet. I was just waiting for the corresponding art movement to emerge, and I'm really happy it's finally here.
+
+Will: One more non-sequitur question before we move into the rapid-fire portion. As the man on the show, and as the father of a daughter, it's my responsibility to ask this: when you look at the Tonic team, there are a lot of women, which is great, since Web3, crypto, and NFTs are such a male-dominated space. I'd love to hear from you, Susannah — was that intentional, a deliberate effort to bring more of those voices into the space? Or did it happen more organically, just hiring people you knew and wanted to work with? How did Tonic end up being broadly women-run?
+
+Susannah Maybank: I think there is intention behind it. For one thing, having two female founders, even if you don't set out for it to be a statement, is a statement in this space. I also fully believe we were the best people for the job, so in that moment I wasn't thinking critically about the gender angle. But I'll never avoid the fact that I'm a woman — I'm incredibly proud to be one. Anytime I do anything, I'm still the marked gender. I'm a female founder, and I can't tell you how many times people ask about doing "female founder" articles. So any company I lead will, by default, be a female-led company.
+
+I do think it's important to foster that and keep giving talented women opportunities. There was a great panel at Marfa last weekend, the FemGen panel, where they asked the artists: do you want to be considered a female artist? Their answer was that they're artists — it's a reality that they're female artists, but we don't refer to male artists as "male artists."
+
+My thesis has always been that women are undervalued in the art market, so in general they're just good buys. If you're in a male-dominated space, there's a pretty high likelihood there are talented women being overlooked — so why not go after them? Practically speaking, the art world is predominantly female, so coming into a space that's predominantly male was a transition. But it's such a welcoming community that there have been very few times I've been hyper-aware of that fact, and I'm grateful for that.
+
+Trinity: We should start a movement where every episode we call out all the male artists.
+
+Will: I'm on board with that.
+
+Susannah Maybank: Deal. There's a lot of evidence that female artists are undervalued, so if you're here for purely economic terms — probably not a bad buy.
+
+Trinity: Will has his escape plan sitting in a roll in his office.
+
+Will: I got my Lisa Orth. I got a couple others lined up. My bags are packed when it comes to the ladies.
+
+Susannah Maybank: There are incredibly talented female artists out there. Good taste.
+
+Will: All right, Trinity, want to start the rapid fire? Anything else you want to touch on before we wrap up?
+
+Trinity: Let's segue into it — this one's kind of real. What's upcoming on Tonic's roadmap that you can talk about, in terms of expanding the vision of NFTs, the blockchain, art, or any other innovations?
+
+Susannah Maybank: Something I'm really excited about — depending on when this episode comes out, it may already be live — is bundled sales for physical and digital assets. As we double down on onboarding new collectors, this reduces friction even further: they can buy on the secondary market and get the digital asset at the same time as the physical piece they want to display in their home. I think that's going to be a huge unlock, and I'm extremely excited to roll it out. It should lower the barrier to entry and help more people catch the bug.
+
+The other thing I'm excited about is ongoing innovation in how digital art comes into the physical world. We're releasing a project in November: physical chairs you can actually sit in. They're fantastical carved and painted wooden structures — visually captivating enough to appeal to a broad range of buyers, but they also show what's possible with algorithms: unique, otherworldly objects that sit on your floor and interact with your daily life. I can't tell you how many chairs I have in my apartment that I sit in without thinking about them at all. This gives people that punctum — that moment where they're reminded they're living with beauty. I'm very excited about it.
+
+Trinity: A print so premium you can sit in it.
+
+Susannah Maybank: Exactly.
+
+Trinity: I can't wait to see what that actually looks like. It sounds next level.
+
+Susannah Maybank: It's wild — the engineering on these things blows my mind. Luke is unbelievably talented. Talk about an artist I see going the distance — I think he's an icon.
+
+Trinity: This is Luke Shannon, for anyone wondering.
+
+Susannah Maybank: Luke Shannon. The one and only.
+
+Trinity: Famous male artist?
+
+Susannah Maybank: Famous male artist, Luke Shannon.
+
+Will: Don't be afraid to send Luke our way as that project gets closer. It would be fascinating to talk to him about building a generative chair from start to finish.
+
+Susannah Maybank: It's been months and months in the making — I'm sure he could fill four podcasts talking about this project.
+
+Will: Everyone knows one *Waiting to Be Signed* interview is worth four of any other, so we'll get through it.
+
+On that note — another rapid fire. Who would you like to hear us interview? People from the gallery world, the traditional art world, skeptics of NFTs who might be willing to come on?
+
+Susannah Maybank: There are a lot of curators becoming increasingly interested — LACMA, the Whitney, Centre Pompidou, SFMOMA. Great institutions with curators now at least open to the conversation. There are also traditional artists who've dipped into NFTs — Cai Guo-Qiang, Urs Fischer, Takashi Murakami, Loie Hollowell, so many others. I think it'd be fun to talk to someone with a very established practice who's branching out and experimenting here. And Iskra Velitchkova — I'll talk about her until the day I die. She'd be great on a podcast. Incredibly thoughtful and brilliant, with a really unique way of thinking about the future of generative art.
+
+Trinity: Iskra's definitely on our list of NFT natives.
+
+Will: Trinity owns an extremely rare, uninhabitable — one of the few red outputs from *Nowhere* on fx(hash).
+
+Trinity: I wouldn't trade it for anything. Such a beautiful collection — it speaks to me on so many levels.
+
+Susannah Maybank: A hundred percent. Maya Man too, speaking of things that speak to me on every level.
+
+Will: We just had her on a couple weeks ago.
+
+Susannah Maybank: You did? I need to go listen to that. I think she's amazing.
+
+Will: One of our recent favorites. All right, back to the episode. Trinity, another rapid fire.
+
+Trinity: What's your favorite piece of art in your collection — physical, digital, or chair — and what's the story behind acquiring it, or making it your favorite?
+
+Susannah Maybank: Long story, but I'll give you the Cliff Notes version. So many favorites, but the one that came to mind immediately isn't an NFT — it's "trad," as you'd say — but it's tangentially involved in the Inigo Philbrick scandal. If you haven't heard of it, look it up — there are a hundred trashy articles about it. He was a swindler who ran an art Ponzi scheme, caught around 2020 or 2021. He was on the lam for a while; the FBI was looking for him. Very juicy story. I have a piece that was purchased by a friend of his — an Elaine Sturtevant... actually, an Eric Doeringer miniature copy of the painting that sold at Christie's and brought down his scheme. It was purchased three days before that sale. On every level, it's a fun, juicy, scandalous piece of history.
+
+Will: Send us a picture — that can be the cover art for this episode.
+
+Susannah Maybank: It might actually be copyright infringement, since it's a replica of a Gerhard Richter painting that's itself a replica of a photo of Picasso. So I could be in trouble with four different people. But I'll send it to you.
+
+Will: It's a relief to hear there were Ponzi schemes outside of NFTs too.
+
+Susannah Maybank: The painting that finally brought him down had been sold to three people at the same time.
+
+Trinity: That's just good business.
+
+Susannah Maybank: Almost 300% equity.
+
+Will: Great story.
+
+Trinity: I'm going to go read all about this.
+
+Susannah Maybank: There's so much to read.
+
+Will: Any media recommendations — music, movies, books? Doesn't have to be art-related, just things you love.
+
+Susannah Maybank: If you've never seen *His Girl Friday*, it's incredible — highly recommend. That's the one that comes to mind. I had an odd pop culture education; I watched almost exclusively black-and-white movies growing up, so my cultural references are about eighty years behind.
+
+Will: Does that extend to modern black-and-white movies too?
+
+Susannah Maybank: Occasionally. I've branched out now — I'll watch anything — but my cultural reference points are still a bit abbreviated.
+
+Trinity: Two-parter: what's the origin of the name Tonic? And if Tonic were a cocktail, what would be in it?
+
+Susannah Maybank: Part two is easy — gin.
+
+Trinity: Good answer.
+
+Will: Gin and tonic is a classic.
+
+Susannah Maybank: I lived in London for a year, so I couldn't avoid it. As for part one — my co-founder Miriam came up with the name. "Tonic" has a couple meanings: it's a balm, and we wanted something soothing and healing in a relatively stressful market. But it's also fizzy and exciting — and this market is fun.
+
+Trinity: A gin and tonic answers both of those needs.
+
+Susannah Maybank: Exactly. It's a great balm — I feel better when I have one.
+
+Will: Many a gin and tonic has been consumed while recording this show, for sure. Last thing — anything else coming up you want to plug? We talked about the chair, and you recently announced Dean Black as one of your upcoming releases.
+
+Susannah Maybank: Yes, Dean Black. I'm incredibly excited about this collection. What amazes me about generative art is that to make a realistic watercolor, he essentially had to rebuild the paintbrush, the hand that moves it, the water, the ink — everything from scratch. I love the virtuosity of that execution, but it also highlights something real: we're working in digital means, and there are two big strains emerging. One is constructing realistic, familiar materiality from the physical world. The other is making art that's only possible through digital means and looks visually distinct because of it. I think that's a relevant, timely conversation, and watercolor is a wonderful entry point into it, because it's so hard to recreate — it reminds us that what seems like a minor gap is actually a chasm between the digital and physical worlds. I'm really excited for that project to release.
+
+Will: Any interesting premium offering — like using Artmatr to do an actual watercolor plot of it?
+
+Susannah Maybank: We haven't released anything yet, so you'll just have to wait and see.
+
+Will: Sounds like I guessed right.
+
+Susannah Maybank: Ha — no, I'm kidding.
+
+Will: All right, well, Susannah, that was amazing. Thank you so much for taking the time to come on the show. I think we killed it — hope you had fun getting grilled.
+
+Susannah Maybank: You're the friendliest grillers I've encountered in a while.
+
+Trinity: That's how we get you.
+
+Will: That's how we get them.
+
+Susannah Maybank: You're smiling while—
+
+Will: Wait till you hear the edit.
+
+Trinity: You're going to hate it.
+
+Susannah Maybank: Okay, perfect. Can't wait.
+
+Will: All right, everyone. That was Susannah Maybank from Tonic. Hope you all enjoyed that episode — it was amazing to learn more about her background, the platform, and her optimism about crossing new people over. Thanks again to Susannah. We'll be back soon with another episode.
+
+Trinity: Bye.
+
+Susannah Maybank: Always lit. We're waiting to be signed tonight.

@@ -1,0 +1,213 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Erik Swahn — fx(hash) legend, Verse legend, the man who made *Farbteiler*, which we collected instead of *Garden, Monoliths*, which we can talk about. Trinity, of course, is here as well; there's no way she was going to miss this one. Trinity, Erik, how's it going, everyone?
+
+Erik Swahn: Good. It's an honor to be on. I've listened to a lot of episodes, so I'm really happy to be part of it.
+
+Will: Any in particular that's your favorite?
+
+Erik Swahn: I've listened to quite a few, maybe half or so. It's really interesting to get context through interviews and just chitchat around.
+
+Trinity: We'll have to learn whether anything you heard influenced your decision-making on any of your releases. Hopefully we're very influential. But also — we just discussed that this is your first podcast or media recording ever. This is the first chance to tell the Erik Swahn story, which is very exciting for us. We didn't know that ahead of time.
+
+Erik Swahn: Yeah, I'm starting to feel the pressure now.
+
+Trinity: We're very nice people.
+
+Will: There's no pressure — that's not the intention at all. The easiest way to get comfortable, I think, is just to ask you the question we always start with: share your background in art and coding, and how you first came to discover NFTs as a way to distribute your work.
+
+Erik Swahn: It's kind of a long story — I haven't moved in a straight path. I grew up with computers; we had a Commodore 64 when I was around seven. I think there's an overrepresentation of people from that generation within the generative art space — I've heard a lot of people who grew up around that time say the same thing. The Commodore 64 had this nice blue and light-blue startup screen that told you how much memory you had free, said "ready," and gave you a blinking cursor. You were literally prompted to enter commands from the get-go, and if you entered line numbers before the commands, you'd already started writing programs. So at around age seven I started programming — not very well, of course, but it shaped my way of thinking about lots of things. I remember thinking, oh, you could do anything with this — take any problem, come up with a solution, break it down into smaller steps. It was an exhilarating feeling that shaped how I approached tasks in all sorts of fields later on. Programming became this universal tool I could apply to whatever I worked on.
+
+In my teens I became more deeply interested in art — mostly music and literature at that time. I made music, and at university I studied computational linguistics and became interested in generating music and text through code — computational creativity in a very broad sense, using computers to do things that wouldn't have been possible otherwise. I was also influenced a lot by electronic music then — Warp artists like Autechre and Aphex Twin, people who seemed to be introducing qualities of computation into their art.
+
+But I didn't do any visual art until my twenties. I hadn't drawn or painted since I was a kid, but suddenly I became interested in visual composition and blurring the lines between music, text, and image. My first generative visual art was around 2002 — I used Markov chains, simple statistical models, to generate text, then scribbled it onto large canvases by hand, painted over it, and did it again. So that was my first foray into generative visual art, though it was semi-manual, semi-computational.
+
+Later, after working as a programmer and translator for years, I went back to university to study architecture. I didn't originally plan to use coding as a creative method, but I got into computational or algorithmic design — applied generative art thinking, essentially. A lot of people from that field are active in the gen art scene too; there's a lot of overlap. I started using AI in an architectural context around 2018, and came to Twitter to see what other people were doing in creative machine learning — people like Robbie Barrett, Gene Kogan, Mario Klingemann, Helena Sarin, Memo Akten. Around that time I saw people talking about NFT releases but had no idea how any of it worked. I didn't know much about blockchains — I remember Mario Klingemann writing something about gas prices being high, and I genuinely thought, "I guess it's a cold winter in Germany, maybe gas prices are up."
+
+Then I found out about Hic Et Nunc, in 2021, I suppose. I don't think I would've been as interested if it hadn't been so secretive and esoteric. I followed a tutorial on how to sync — you hit the sync button, enter microtez, it has to be millions of mutez, you sync and mint and sync. I liked the whole peculiar process. It felt like arriving at a place — a city in the desert, almost. I'd been doing generative student projects at university but hadn't really shared much with people. I'd posted a few AI architecture things on Twitter, but Hic Et Nunc gave me a mechanism to actually release things, which I think is an important contribution of NFTs generally. When you work digitally, especially with generative art, you generate endless files in folders on a hard drive with no real endpoint — it can just go on forever. Minting gave you a way to turn a work in progress into a definitive work of art, which felt important. You can't overstate how important places like that were — without them, a lot of that work simply wouldn't have been created. Art worlds are always social networks in some sense, but it became really clear with a place like Hic Et Nunc. That's pretty much how I got into releasing things, and then it all just went so fast.
+
+Trinity: HEN was huge to everybody we've talked to. I feel like I missed out — I came in a little late, after it had already kind of fallen apart. What about fx(hash)? How did you discover it, and that joy of long-form generative art? You were one of the first people on the platform, with two releases in November, which is insane.
+
+Erik Swahn: On Hic Et Nunc I'd mainly released curated pieces, mostly based on machine learning and architecture, plus one JavaScript-based project — you gradually got the ability to mint JavaScript projects thanks to community efforts. But I'd been eager to move into more interactive, live-generated work. I'd looked at what people were doing on Art Blocks, of course, but at the time I wasn't that drawn to the ETH scene — it seemed foreign to me, and this was during the proof-of-work days. So when fx(hash) came about, I was excited to try releasing something quickly. I think the first thing I saw was Frederik Van Hout, WBLUT, releasing something — and I had all these projects on my computer I just wanted to get out there. I was maybe a bit overactive in the first few months, but it was such a fun thing. The whole Tezos experience was very low-stakes from the beginning, and same with fx(hash) — I'd create a project, sell pieces for one or two $TEZ, and people were really excited. It felt like mini communities forming around different series. There was a much stronger reaction, interaction, and active engagement with generative projects on fx(hash), so I just kept going.
+
+Will: We hear that from so many artists — they had a bunch of projects that could have been long-form, but the only real way to release them before was curated platforms like Art Blocks. Then fx(hash) hits, and suddenly you see artists doing two, three, four projects back to back because they already had them ready. Was that the case with *Retrogrades*, *Disegnatori*, and *Farbteiler* — just sitting there, and then boom, upload and see if people collect?
+
+Erik Swahn: Pretty much. I still have a long list of things I want to try — I'm very curiosity-driven. I get ideas, write them down, and try to come back to them. Sometimes I forget, sometimes I don't. Some of those early releases were things I'd thought about in student projects or old experiments I went back to. I've slowed my release pace since then — not because I'm running out of ideas, but the more time you have to spend on projects, the longer they seem to take.
+
+Trinity: I know we want to spend most of our time on your newer work and how your style has progressed, but is there anything we should know about *Retrogrades* and *Disegnatori*? They feel like the unsung, underground pieces of your work — so different from each other, but both very delightful. I love them both.
+
+Erik Swahn: My main themes have been color on one hand and form-finding on the other. *Retrogrades* was almost pure form-finding — a very simple algorithm generating distinctive simple shapes. Even though I'd been into generative thinking for a while, making a generative series was still new to me — what should it be, what does it mean, how do the pieces tie together? With *Retrogrades* I wanted individual pieces that somehow went together, so I used this simple approach — almost like throwing dice to determine the direction of the shapes. It felt like a simple way to generate these individual faces.
+
+*Disegnatori* was a bit more academically grounded — actually based on Markov chains, like that old work I'd done twenty years earlier. I took shapes from maps, converted them into sequences, and used that generative process to design map-like structures. Someone posted a really nice one just yesterday, actually, and it made me want to go back to that track. It's hard to find time for everything. I was a bit hesitant about color in *Retrogrades*, so it stayed pretty muted. In *Disegnatori* I used maybe six colors at once, but I became more adventurous after that.
+
+Will: A good chunk of your work since then has been devoted to color, starting with *Farbteiler*. Trinity, weren't you the biggest single holder of those, or in the running for it?
+
+Trinity: I minted thirteen of them — just kept hitting the mint button. Do you remember, Will, when it first came out? It felt like, this is the one — people get excited about lots of projects, but this was the project to be excited about. I'd seen some of your works-in-progress on Twitter, if you were posting WIPs at that point, and I was so excited because they were just so good and so cool.
+
+Will: And had the fortunate—or unfortunate, depending on how you look at it—alignment with Zancan's release that day. I think that was one of the reasons you were able to get so many mints: back then there was no feed of upcoming projects. It would just hit, and you had to mint from the back end of the contract, like everyone did two years ago on fx(hash), trying to beat the bots and everyone else minting. And Trinity's just sitting there minting away. The project is still, I think, really revered by so many. It inspired Monk Antony—I'm sure you saw he wrote the piece for TENDER about it, which basically got him his role at Le Random eventually. That original piece of writing he did.
+
+So it was such an important project in the history of fx(hash), but I want to hear the story from your side. There are no features on that project—it's a color study. How do the palettes work? What was your approach to coming up with this in the beginning? Are there defined palettes, or is it algorithmically generated to mix and match and see what looks good?
+
+Erik Swahn: With *Farbteiler*, there are just twelve different colors. It actually started as a project where I wanted to make a type of musical notation so my oldest son could learn to play piano. Lots of people had worked on things like that before—synesthetic systems, Goethe did it, Scriabin, others. So basically it was the twelve tones of the chromatic scale, and I paired that with a color wheel from the Bauhaus era by Johannes Itten—primary, secondary, and tertiary colors. Then, a bit like *Retrogrades*, it's a kind of random walk, but with those colors. In my mind it became a type of sheet music, almost a harmonic chord notation. I didn't state that at the time—I wanted people to see it for what it was.
+
+The idea was very simple, but as I was developing it, I was struck by how intense different combinations could be. It really was like harmonics in music—you get this interaction between different colors, and I was really happy when I found that. The release itself was very intense. I had no idea about the Zancan release—now, with the Verse releases, I actually talk to people about the planning, but back then I just thought, "I think it's ready," and sat at home minting it. It was a frenzy. A very intense experience.
+
+Trinity: Those were definitely different days. How did it feel actually releasing it? I think it was that point in December when fx(hash) was really taking off. How did it feel seeing it mint out—what was it, 500 editions—so fast?
+
+Erik Swahn: I was really surprised. In the beginning, with Hic Et Nunc, I'd released a few things, and just selling one piece was exciting. So this was a total overload. It was also kind of perplexing to see people care that much about something you made. It's very flattering, but there's a transition from doing things for your own amusement on your computer to releasing it and seeing it get a life of its own. It's been super exciting and totally unexpected.
+
+Will: Not only to see a project sell out, but then to see the secondary volume and floor price rise over time, and to carry that forward—that's a success story that's too infrequent. A lot of artists never quite cross over. Are you full-time art now, by the way?
+
+Erik Swahn: Yes, pretty much full-time art now.
+
+Will: That's awesome. To continue on this progression you've done since *Farbteiler*, into *Punktwelt* and *Fields*—how would you describe these projects in general as they've evolved? Aside from color, are there core things you're trying to achieve or understand as you keep pushing it forward? Also, is there a story behind the mark itself? It looks like a dot from far away, but zoom in and a lot of them are more like crescents—little half-dots, not quite regular. How would you describe the pieces themselves, and how things are composed?
+
+Erik Swahn: It's been a process of trying to find a visual language of my own. I think the main themes are color and form, though those are very general. In *Punktwelt*, I became more interested in placing an object in a place, but super minimal—pretty much a horizon, maybe something you could interpret as sky and ground, and then these shapes.
+
+I think it has a lot to do with my architectural training, or maybe a reaction to it—you do drawings, all exact lines and surfaces, no colors basically. I've become interested in these dissolved forms, using color instead of black lines to describe shapes and objects. Gradually I've become more interested in the configuration of objects and place, which is what I'm exploring in the new series, *Autoscope*.
+
+There's also the theme of perception. If you dissolve shapes somewhat, how do you perceive them? When you put different colors together, how do you interpret that? Color is something I'm very interested in because I don't really understand it. I have a strong experiential response to it, but it's hard for me to define what I'm actually doing with colors. From the outside, I can observe that I'm drawn to these very strong, saturated primary colors. I think it has a lot to do with my early days looking at CRT screens on 8-bit computers—I remember turning the saturation on the monitor to the max just to get that sensory overload from the colors. I might just be trying to replicate that.
+
+Trinity: I think that's really cool. Even something you said earlier, about the esoteric process of uploading things to Hic Et Nunc—it's kind of a throwback to your experiences on a Commodore 64, needing to know exactly what to put into the command line to make anything work.
+
+There must be something about blockchain that throws people back into those days, where it's like a technical marvel.
+
+Erik Swahn: I think so. This was long before the internet, of course—you made pirate copies via tapes and discs. And when I was making music, there was a DIY lo-fi cassette scene, sharing cassettes with people, sending music around. I liked that underground feeling—sharing art just for the fun of it.
+
+Trinity: That still feels special about fx(hash) to a certain extent—all these online communities with so much enthusiasm and sharing. But before, we were talking about CRT monitors and color, and you said you don't really understand it. I have *Punktwelt* open right now, and in some ways it helps people understand color, just in the way all the shapes are overlaid. Can you talk about the process for how these shapes and colors merge together? You can see all the dots interpolated together—it's kind of wild.
+
+Erik Swahn: The form generation is pretty simple—boxes, with a few boxes subtracted, these Boolean operations. It's been a while since I did it so I can't remember every detail, but it started with a block and then subtracting different blocks. The interesting thing happened when I started changing the drawing order—you end up with all these sub-faces of the volume, and some faces that should be in the back appear to be in front. The different faces have different colors, so it becomes a mind game trying to decipher the colors and shapes and depth of the different faces.
+
+That's become the way I work on projects most of the time now: I build something like a machine that does something, then I start breaking it, and the mistakes or malfunctions become an aesthetic quality.
+
+Will: Quick question on *Punktwelt* and the works that came after—I think that was the first one where you included the SVG export option. Have you ever plotted any of them, or do you know anyone who has?
+
+Erik Swahn: I've plotted a few, but it's difficult to do in the same way—you end up with something different because of how the dots are overlaid. I've tried a few; I'm searching in my room here to see if I can find one. On the JavaScript HTML canvas, you can put colors directly on top of one another, and it doesn't turn out the same way with pens on paper. You could maybe do it with Posca pens that are totally opaque, but I have tried it, and the result is a different thing—exciting, but it becomes another project, really, because of the logic of paper and ink.
+
+Will: Makes sense. I was curious because it actually came up in an interview we did months back with Bre Pettis, who does a lot of plotting and owns a bunch of your work—he said he was having trouble figuring it out, so I wanted to ask you.
+
+Continuing on: *Punktwelt* was your last drop with fx(hash). Since then, as far as we know, you've only been releasing with Verse. You were one of the first artists to embrace the collector curated function they added in early 2023, with *Fields*. Was that project designed with collector curated in mind? Were you hesitant to do it? And do you think collectors hit the mark with the outputs they chose?
+
+Erik Swahn: In the end, it became created with that in mind, though it didn't start that way. I'd worked on fx(hash) before, and at that time there was only one mechanism: random mints. But when we started talking about Collector Curated, I became interested in what that meant for a series, especially with *Fields*, which is extremely abstract—just fields of dots. For me it already worked like a Rorschach test; it was meant for people to see things in the outputs.
+
+What drew me to working generatively in the first place is its endless, ephemeral nature. You click a button and it generates a new one, and another. You build a machine, pull the lever, and watch things appear—that's a very central part of what these works actually are. Collector Curated felt closer to that experience.
+
+There's an obvious conflict of control—you don't know what people will choose, and it isn't a popularity contest about which images are prettiest. That's not what it's about. But working generatively is already about giving up control to some extent. Instead of drawing or painting, you take the process, put it on the table, dissect it, externalize it from yourself, and introduce randomness. That's a way of getting out of yourself, of freeing yourself from your own taste or intuition, and creating a process that generates things you wouldn't have made otherwise.
+
+So I've been happy with how it turned out—people spent so much time at the generator, looking at outputs, sharing them, and explaining what they saw in them and why it meant something to them. We sometimes call the random mint the "classical" gen art mechanism, but it hasn't been around that long, so it's not really classical in my view. The risk with Collector Curated is that people chasing rare outputs might not choose the aesthetically strongest ones, but gravitate toward the weird or unusual instead. That's fine, though—the fun of giving up control is also about being surprised by what happens.
+
+Trinity: Were there any surprises in what people gravitated toward with *Fields*, versus what you personally found aesthetically pleasing?
+
+Erik Swahn: Naturally, lots of people chose things I wouldn't have chosen, but that's what I mean about getting out of your own taste—it's still a fair image of the algorithm, because that's the work, that's what happened. I wasn't really surprised by how they looked, though, because by the end of a project you've seen thousands and thousands of outputs. It becomes almost a fatigue syndrome—you get overwhelmed by the sheer mass of it.
+
+Trinity: How many *Fields* are there—around 700?
+
+Erik Swahn: 800.
+
+Trinity: Out of those 800, was the average output you saw running the algorithm yourself thousands of times better or worse than the final 800 that are listed today?
+
+Erik Swahn: The final curated outputs are much better than a random mint would have produced, because people spent so much time on it. I can't remember the exact mechanism, but I never expected all 800 to mint out—I think we had 24 hours, and I may have expected 500 or so to be minted. In the end they all sold, which was also very intense.
+
+Will: That project, and *Cosmic Rays* by Melissa—the mechanism is still very appealing, but there was novelty to it too. Everyone was going so deep; some people, I'm sure, had hundreds of seeds they really wanted to mint. You start out thinking you'll just get one or two, and then you see all the ones you could have, and it quickly scales to three, four, five that you end up minting. I know I got several—and they look great on the Samsung Frame, by the way, I have them up on the TV.
+
+Since *Fields* into *Punktwelt* and into your upcoming *Autoscope*, you've kept the same base of colorful dots that started all the way back with *Farbteiler*, but with every piece you've pushed it in a different direction while maintaining that same visual style. Anyone familiar with the scene would look at a new project and instantly know, "oh, that's Erik." What do you think has been key to keeping that visual style consistent while still making each project feel fresh enough that collectors don't think, "it's just the same thing"? We've heard that whispered about other artists sometimes, but never about your work—and it feels like you've always found a new angle, including with *Autoscope*, where we're going to see animation for the first time in your work.
+
+Erik Swahn: I think it's because after each project I naturally want to go in a new direction—you become exhausted after looking at 10,000 images from the same family. So I try to move somewhere new, but eventually I'm typically pulled back into things, and I realize I'm actually quite interested in continuing to pursue certain themes, just because they're relevant to me somehow. I'm not really sure why I do the things I do. It doesn't start with an intention; it starts with the doing. I try to make things that resonate maximally with me, and hopefully with others—but I'm the first person there, so I try to make things that resonate with me first. These themes just seem hard to shake.
+
+In a way it's about your personal limitations. I think that's typically true for people making art—you have your own understanding of things, maybe idiosyncratic, but you have a way of understanding composition or color or shapes. From the outside I can see the theme, but it's not a planned strategy. I just keep coming back to a few core themes.
+
+Trinity: It's fascinating to hear you say "maximalism," because it puts the trajectory of the work into context. Even though it follows similar themes—color exploration, dot exploration—I don't want to say you're becoming more unhinged, because you're not. You're just taking off the restraints in some ways. *Farbteiler* was very minimalist compared to *Punktwelt*, and then *Fields* takes it into full colorway even more, and with *Punktwelt* and *Autoscope*, it's just more. Do you feel like you're really coming into your own as an artist? Is this representative of your inner workings, your feelings, your thoughts and desires and hopes?
+
+Erik Swahn: I hope I'm finding more and more of that visual language that's my own. The word *Autoscope* literally means "self-viewer," so that's how I see it—a reflection of my way of seeing things. In the previous project, it was mostly about dryly described objects in the center of the image. But with *Autoscope*, I wanted to move more into place, groups of objects, and movement—something more experiential. I think that's how I ended up with both the animation and the visual distortions of *Autoscope*. Things aren't very clearly described; it's more like a recollection, a memory, or a limited vision of a place.
+
+Will: Had you experimented with adding motion before? In your other works, you can see the drawing happen, and that's kind of where the animation stops. This one feels more focused on the actual animation, the distortion—things we haven't seen in your work previously. Had you explored that in other projects and it just never came together, or did you feel compelled to introduce it for this one specifically?
+
+Erik Swahn: There was a project called *Kinetograms*, with primitive shapes like circles and rectangles that are animated and fall—like toy pieces in a box that you shake, and they fall into place and leave traces of color. That's animated to some extent, but then they just stay in place; you can actually shake it by pressing certain keys. So there was a bit of animation there. And in *Muur*, a project with ruin-like shapes, there was animation behind the scenes too—you see the starting condition, then a physical simulation where the bricks fall into place. But with *Autoscope*, the animation is more cinematic than in those previous projects. I'm trying to suggest a sense of being there, pulling the viewer into the scene somehow.
+
+Will: This project is coming out on Verse April 19th—only a couple of days away by the time people hear this. Nothing's been publicly announced yet at the time of this recording, but is there anything you can tell us? Will it be collector curated? Any pricing details? We won't hold you to it, since things can change, but where do things stand?
+
+Erik Swahn: The details aren't 100% settled, but I've thought about it a lot. It will be collector curated as well. I've been very tempted to curate the pieces myself, but it feels like that would keep viewers and collectors from being part of the experience. In a way, it's about finding places within a world, or an artwork as a place of refuge. When I think about how I use art myself, I look at images and project myself into them, or disappear into them somehow. I think that experience is stronger if you go through the process yourself—looking at one place, moving to the next, and then finding something that speaks to you or resonates with you. So it will be collector curated. Beyond that, I can't say much more about the details.
+
+Trinity: Probably for the best—otherwise Will signs up for hordes of after-the-fact editing as the details change and we end up just being wrong.
+
+Will: It's good to hear the thought process and the vibe. You don't have to commit to "it'll be exactly $200 and exactly this many," but it's interesting to hear that tension between collector curated and artist curated.
+
+Trinity: Versus long form—it's been a while since we've seen some long form from you.
+
+Will: In general, you've released your last three projects with Verse. What has that relationship been like from the beginning? How did you first connect with them for *Fields*, and what's kept you coming back to release there rather than experimenting with something like Tonic, Art Blocks, or fx(hash) with ETH now? How do you think about platforms and these relationships, and why has Verse been winning out for over a year now?
+
+Erik Swahn: I don't feel very tempted to jump between blockchains and different platforms. I just want to concentrate on the work. I was originally contacted by Layla at Verse for the *Imperfections* exhibition that *Fields* was part of, and it's been a relief to have people to talk to. As I described earlier, with *Farbteiler* and the fx(hash) projects, you just sit in isolation with something for a long time and then release it. It's a very isolated experience apart from the reactions from collectors. So it's really nice to have people to talk to and collaborate with in different ways. I'm not particularly good at promotion — I don't think of that as the thing I do. I just want to make artworks. So I've been super happy to have that dialogue with them, and a place to return to. I also think they've handled a lot of things in a very professional and interesting way, being innovative with collector curation and lots of other things. Most platforms pale in comparison when it comes to being innovative and trying things constantly.
+
+Trinity: We're big fans of them in that regard. From a product perspective, they work to fail fast, but rarely do I find that they truly fail. We've heard a lot of your experiences echoed by other artists who've released work there multiple times. It's not quite a gallery model in the traditional Web2 sense — or even the traditional art-world sense. It provides more layers of support, and we've seen a huge shift toward curation overall. From an artist's perspective, you're able to get more work highlighted at higher prices, with a beautiful site to have things held in. But that's a huge shift from what we were talking about at the start — releasing on HEN or just uploading your project to fx(hash), where if you get 3 tez for it and it sells out at 500 editions, that's a huge win. How have you experienced the space changing, and how you operate in it?
+
+Erik Swahn: It's been quite a process. As I described earlier, it was extremely low stakes — nothing to lose. It's like different phases of a personal trajectory, and the space has changed a lot too. I don't feel anymore like I'm at the start of my artistic journey. It's a different thing when you have more eyes on you, more expectations, maybe more definitive expectations. You're forced to relate to that somehow — by defying expectations, following them, or just not caring about it.
+
+Trinity: The pressure is there.
+
+Erik Swahn: It kind of is. In an ideal world, you have lots of different healthy marketplaces where people can emerge and continue — these different levels of high-stakes and low-stakes releasing. I'm not a great market analyst, but I suppose that's kind of how it has to be. I see an important role both in the open platforms and in the curated platforms. With something like Verse, you have people who work on putting more context around different works, and that becomes impossible on an open platform.
+
+Will: So far we haven't seen it yet. Well, we've been going for over an hour now, so we should start to wrap it up. We usually like to end the episode with some rapid-fire questions. Trinity, do you want to kick us off?
+
+Trinity: Will, do you want to take your question? This is your question.
+
+Will: I thought it was your question.
+
+Trinity: I did write it down, but I wrote it down for you.
+
+Will: Something we've noticed a lot is that architects are really—
+
+Trinity: Oh, this is my question.
+
+Will: Don't worry, you do your question.
+
+Trinity: We have noticed that architects make some of the best artists in the space — or, personal preference, I suppose. We talked to Jacek a couple of weeks ago, and that was chef's kiss amazing. Why do architects make such amazing artists within the generative art sphere?
+
+Erik Swahn: I've thought a bit about it, and I think architecture school is quite good training for generative artists. You learn to iterate endlessly and be self-critical, and you're forced to present your work to others and discuss it. Maybe most of all, you have to come up with generative strategies in a way — even if you don't work with programming, which most architects don't, you have to develop processes to take you through a project. There's also that field of computational design, which I think is very close to generative art. So perhaps architecture school is even better preparation for generative art than art school would be. In any education, you get socialized in different ways — you learn the ideals and norms of a trade or profession. As an architect, you're free to use the languages of visual art, but you haven't really been socialized into an artist role, which perhaps makes you more free from the traditions of the artist's trade. I'm speculating, but—
+
+Will: Perfect, this is a space for speculative answers. Another one we ask a lot — and I think this is the one Trinity thought was my question — what do you listen to while you code? What kind of music do you want to recommend to us? You mentioned Warp and Aphex Twin, Autechre — those names come up a lot on this show. Something about coders in particular really likes that IDM stuff. What else do you want to toss out there for us to check out?
+
+Erik Swahn: Personally, when I work, I can't really listen to music — I end up concentrating too much on the music and not being able to work. I listened to music all the time as a teenager, literally all the time, and I think I became so filled up with music that it's almost hard for me to listen to more now. Also, now that I have kids, they've taken over the Spotify accounts, so the recommendations aren't in my taste anymore.
+
+Trinity: It's a problem.
+
+Erik Swahn: But I can listen to extremely minimalist music — maybe Philip Glass or Arvo Pärt — in the background while working. I listened a lot to electronic music, and modern classical music or whatever you want to call it, quite a bit of Japanese noise music too — maybe Merzbow or Melt-Banana.
+
+Will: Right on. You got another one, Trinity?
+
+Trinity: What type of art do you like to collect? Who are some of your favorite artists, favorite projects?
+
+Erik Swahn: There are so many great ones. I'm not a very active collector, unfortunately — it was much easier in the early Hic Et Nunc days, when you had maybe a few hundred releases to go through in a short period. Now that it's in the tens of thousands, it's really hard to find stuff. I really like Andreas Rau's work, *Earth*.
+
+Trinity: Classic.
+
+Erik Swahn: In general, I like artists who are onto something — they find something and they go with it. It can be lots of different things, but I like that feeling of tagging along on some kind of journey a person is on. I really like *Landlines*. I haven't collected anything, but I wish I had.
+
+Trinity: Don't we all? Are you a *Meridian* fan?
+
+Erik Swahn: Yeah, that made a very big impression on me and made me realize what generative art could be. It is generative art, but it uses languages from outside traditional computer art, or whatever you want to call it.
+
+Will: One last one here, and hopefully this will resonate since you've listened to a bunch of episodes — who would you like to hear us interview?
+
+Erik Swahn: You've spoken to quite a lot of people, I don't have the complete list, but personally, now that there's a lot of talk about A.I. art, it would be interesting to talk to more of the OGs of A.I. art — the people I was very impressed by when I first got into it. Alexander Mordvintsev, Mario Klingemann, Mike Tyka, Memo Akten — people like that who were active early on. I've honestly lost a bit of interest in A.I. art now that people are largely working with ready-made tools. Back then, people were making their own training sets, and I think that was, in a way, a more interesting era. I'm sure I'm offending a lot of people, but it would be interesting to hear from people like that.
+
+Trinity: Add it to the list.
+
+Will: I think Mario is definitely someone we've been thinking about having on for a while now, and I think we can probably find him, hopefully. I think that's a good place to wrap it up.
+
+Trinity: Any last words?
+
+Will: Anything else you want to plug? What's coming up after this — are we going to see another evolution of the colorful dots, or something different?
+
+Erik Swahn: I have no idea, actually. I'm usually kind of exhausted after a release, and a bit lost in a good way, but I have no idea what I'm going to do next.
+
+Will: Fair enough — TBD. Maybe we see something else from you later this year, maybe not. Just depends on when you have the time and mental energy to get going on something.
+
+Erik Swahn: Yeah, it's quite possible.
+
+Will: Well, thank you so much, Erik. It's been awesome to get to know you, and I feel like we did a pretty good job covering your history here. I know we missed a couple projects, but we only have so much time.
+
+Erik Swahn: Absolutely. It's been a pleasure to talk to you.
+
+Will: That's Erik Swahn, everyone. Be on the lookout for *Autoscope* on April 19th — it'll be on Verse. Probably by the time this episode's out there will be more info on things like quantity and pricing, and maybe you'll even be collecting some seeds by then too. Look forward to that one. That's it — bye everybody.
+
+Trinity: Bye.
+
+Erik Swahn: Always lit. We're waiting to be signed. Grail of the week. To be signed. We're waiting, always. We're waiting to be signed.

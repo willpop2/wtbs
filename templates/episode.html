@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+{% block title %}{{ ep.guest }} · Waiting To Be Signed{% endblock %}
+{% block content %}
+<section class="read">
+  <div class="meta">
+    <a class="back" href="index.html#arch">← Index</a>
+    <div class="i">Interview // {{ ep.date_short }}</div>
+    <h2>{{ ep.guest }}</h2>
+    <div class="kv">
+      Title: {{ ep.display_title }}<br>
+      Role: {{ ep.role }}<br>
+      {% if ep.platform %}Platform: {{ ep.platform }}<br>{% endif %}
+      Duration: {{ ep.duration }}<br>
+      Hosts: Will &amp; Trinity
+    </div>
+    <a class="lk" href="{{ show.spotify }}" target="_blank" rel="noopener">Listen on Spotify <span>↗</span></a>
+    {% if ep.links.twitter %}<a class="lk" href="{{ ep.links.twitter }}" target="_blank" rel="noopener">Guest on X <span>↗</span></a>{% endif %}
+    {% if ep.links.website %}<a class="lk" href="{{ ep.links.website }}" target="_blank" rel="noopener">Guest website <span>↗</span></a>{% endif %}
+    <a class="lk" href="{{ ep.audio_src }}" download>Download MP3 <span>↓</span></a>
+  </div>
+
+  <div class="doc">
+    <div class="player">
+      <audio src="{{ ep.audio_src }}" preload="none"></audio>
+      <div class="playbtn" role="button" aria-label="Play">▶</div>
+      <div class="pl-txt">
+        <div class="pl-t">#{{ ep.num }} · {{ ep.display_title }}</div>
+        <div class="pl-s">Self-hosted audio // press play</div>
+      </div>
+      <div class="pl-r">{{ ep.duration }}</div>
+      <a class="dl" href="{{ ep.audio_src }}" download>MP3 ↓</a>
+    </div>
+
+    <div class="seg">
+      <button class="on" data-body="article">Article</button>
+      {% if ep.raw_html %}<button data-body="raw">Raw transcript</button>{% endif %}
+    </div>
+
+    <p class="suggest-hint">Spot an error? Highlight the words or lines you want to fix — an “edit” button appears, and the panel opens with your selection ready to edit.</p>
+
+    <div class="body transcript" id="body-article">
+      {{ ep.transcript_html }}
+    </div>
+    {% if ep.raw_html %}
+    <div class="body transcript hidden" id="body-raw">
+      {{ ep.raw_html }}
+    </div>
+    {% endif %}
+
+    <section class="changelog">
+      <h3>Change log{% if ep.edit_count %} <span class="cl-n">// {{ ep.edit_count }} edit{{ 's' if ep.edit_count != 1 }}</span>{% endif %}</h3>
+      <ul>
+        {% for c in ep.changelog %}
+        <li><span class="cl-date">{{ c.date or '—' }}</span><span class="cl-sum">{{ c.summary }}{% if c.credit %} <span class="cl-credit">— {{ c.credit }}</span>{% endif %}</span></li>
+        {% endfor %}
+      </ul>
+    </section>
+  </div>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // player
+  var audio = document.querySelector('.player audio');
+  var pb = document.querySelector('.playbtn');
+  pb.addEventListener('click', function () {
+    if (audio.paused) { audio.play(); pb.textContent = '⏸'; } else { audio.pause(); pb.textContent = '▶'; }
+  });
+  audio.addEventListener('ended', function () { pb.textContent = '▶'; });
+
+  // ARTICLE / RAW toggle
+  var segBtns = Array.from(document.querySelectorAll('.seg button'));
+  segBtns.forEach(function (b) { b.addEventListener('click', function () {
+    segBtns.forEach(function (x) { x.classList.remove('on'); }); b.classList.add('on');
+    var a = document.getElementById('body-article'), r = document.getElementById('body-raw');
+    a.classList.toggle('hidden', b.dataset.body !== 'article');
+    if (r) r.classList.toggle('hidden', b.dataset.body !== 'raw');
+  });});
+
+  window.WTBS = {
+    episode: {{ ep.slug|tojson }},
+    title: {{ ep.display_title|tojson }},
+    endpoint: {{ suggest_endpoint|tojson }}
+  };
+</script>
+<script src="suggest.js"></script>
+{% endblock %}

@@ -1,0 +1,269 @@
+Will: All right. Hello and welcome everyone to another episode of Waiting to Be Signed, a very special interview episode. We're joined today by Alejandro Campos, and Trinity is here as well, of course. How's it going, everyone? Good morning.
+
+Alejandro Campos: Good morning.
+
+Trinity: Or good afternoon slash early evening, potentially.
+
+Alejandro Campos: Afternoon for me.
+
+Will: Alejandro, we've been chatting on and off for well over a year now, and we finally got you on the show. This is super exciting. I think fans of the show will know you from the *Enfantines* series on fx(hash), from *Pensado a Mano*, and probably from the works in progress you've been sharing from your upcoming release with Tender and Adam. But before we get into all that, perhaps you can introduce yourself to the audience — tell us about your background in art, architecture, and coding, and how you got involved with crypto and NFTs in the first place.
+
+Alejandro Campos: That's a lot to explain. First, it's great to be here — I've been listening to the podcast for over a year now, so it's nice to be on the other side for once. And thank you both for the work you're doing pushing for this generative art scene on the blockchain.
+
+I knew this was going to be the first question, so I was thinking about it yesterday. I thought I'd start by explaining that I'm an architect, which is basically my artistic practice — I consider architecture an art, even though it's connected to dwelling, inhabiting, and functional needs. But then I started reminiscing about my history with web art, or with the internet more broadly. I was born in '89, so my teenage years were this explosion of the internet. Looking back at my old emails and trying to figure out when I first got interested in art, I realized it was always connected to websites, forums, and communities.
+
+I started out making signatures for forum threads — people would post "request a signature here," and I'd do it for free just because I liked it. That's how I started using Photoshop, painting, drawing. Later, when I was studying to become an architect, I started entering my work in art competitions — posters for events and things like that. That's how I became interested in visual arts, let's say.
+
+Architecture is a practice with a nice balance between creativity and logic or organization. It's not a coincidence that we talk about "architecture" of programming, and that one can be an architect not only of buildings but of software. Coding and looking for order and logic are deeply connected to creativity and creation. So I've always been interested less in "art" per se than in creativity, imagination, and how to bring ideas through some kind of order into reality. That's the starting point.
+
+With coding specifically, I started by coding websites — HTML, PHP, a bit of JavaScript. It's always been connected to websites, which is important for explaining *Fantasia*, because I've realized over the last few months that what we're doing is actually web development rather than art in the visual-arts sense. That's what I'm trying to push with the project, and it comes directly from where I started in my coding journey.
+
+Will: Did you study coding as part of your formal education, or pick it up on your own afterward? And where does crypto come into the picture — were you early on Bitcoin or ETH? How did you find NFTs? They're controversial; most people don't like crypto or NFTs. What pushed you to get curious about the space?
+
+Alejandro Campos: I never studied coding — it's autodidacta, self-taught. I wanted to make websites, so I had to learn. I used to have one of those MSN Spaces, the Microsoft thing, where I posted tutorials on how to customize your own banner and theme — what I thought was coding at the time. It was always connected to communities and to helping people, which later connects to the brush library and things like that.
+
+The crypto story is more personal. Four years ago I moved to the Netherlands by myself — my partner stayed in Spain — and I felt alone, bored maybe. So I started watching a lot of YouTube videos, very practically, and that's how I discovered crypto. I started on Binance, buying and selling different coins and tokens, and then I discovered NFTs. From that moment, two things connected: my interest in the internet and technology, and community — which I think everyone in NFTs has felt at some point, that the most important part of it was how Web3 culture, Discord servers, and Twitter created a real sense of community. I got into it project by project, joining Discord servers, meeting people. I didn't feel alone anymore because I was having fun with others. So it's a personal story, more than anything, that brought me here.
+
+Trinity: What kind of communities specifically? We came into this through the generative art community and loved the culture here, especially compared to the rest of crypto, where everything is "to the moon" and HODLing. What was it about these communities that pulled you in? And, part two: how did you specifically arrive in generative art? I've been creeping on your Tezos wallet, and you've been here about two years — not since the 2021 wave, but a while.
+
+Alejandro Campos: I'm still fairly new to crypto, honestly. When I say community, I mean it was through NFT projects — especially puzzles someone would post on Twitter, where you'd have to find clues in a wallet and go somewhere else. I enjoyed those, but it was especially role-playing that got me into NFT communities. That's actually where my first name in the space comes from — Ratchitect, a merge of "rat" and "architect." I started in crypto role-playing in a server where we were all rats, building our own rat kingdom. Absurd, but fun. That's also where I started producing images for people — posters, maps of the kingdom, that kind of thing.
+
+From role-playing to generative art, it was actually architecture that brought me over — specifically two people, Ismahelio and Jacek. You interviewed Jacek a few shows ago. It was one project of his in particular, *Holo* —
+
+Will: *Holo*.
+
+Alejandro Campos: — which I know you love, Trinity. That project made me think, wow, I can bring my architecture background into this space. So I got into fx(hash), started collecting projects I liked, and started DMing Ismahelio and Jacek on Twitter. They sent me tutorials on coding with fx(hash) and p5. So it was through them that I got into generative art, which is why I always mention them — their work has been important to me personally, and it also shows how you can bring disciplines together, how architecture can be a starting point for coding.
+
+Will: We see that influence most clearly in your earliest works on fx(hash) — *Maps of Life* and *Sparsely Populated Grid*. To us non-architects, they feel like architecturally driven pieces, organized around form. But the work that really blew you up, the first one that got you a lot of attention, was from *Enfantines* — *Small Talk* — which goes in a completely different direction: childlike brushstrokes imitating crayon and other analog mediums, plus a musical component. I want to dig into that with you. Why music? A lot of generative artists don't incorporate motion into their work, let alone sound, and you bring in both through the drawing process and the accompanying sound. What importance does music have in your practice, and what do you hope to convey to the audience through it?
+
+Alejandro Campos: *Enfantines* really was different from what I'd done before, and I think it connects back to architecture again. Jacek and Ismahelio come from a branch of architecture I don't share. As an architect and university teacher, I'm very interested in history — in archives and drawings, real drawings, not digital ones. I'm interested in analog things. When I first saw generative art, I felt it often lacked the textural and material qualities that analog work has, which I love. I always want to print my architectural drawings immediately to see how they look on paper, and I'm picky about what paper I use. So it's this feeling for materials and textures.
+
+*Enfantines* documents my journey learning to use code to represent these analog techniques — something there's been a lot of discussion about lately, with Mapan and others using similar approaches. I told myself, I'm going to teach the code how to draw. And of course, when you want to draw, you start by drawing like a child — that became the theme for the series: how to draw like a child.
+
+Music comes from a related idea. At the beginning I was completely clueless about what generative art even was — it's coding, but what does that mean? Then you realize: what it means is that it's a website. So what we're creating is actually a website, and it doesn't make sense to me for a website to be only an image. A website can offer music, animation, much more. So all my work is animated or has music — never just an image.
+
+With music specifically, it came from my reading and interest in childhood, and in Satie, the composer behind the *Enfantines* pieces. When you animate these shapes with music, they take on materiality, texture, weight — as if they exist. They're not just circles; they're made of small, tiny circles, but they become more than geometry. That was the thinking behind it.
+
+Trinity: You speak a lot about — I think this was in relation to the *Enfantines* series — not only learning how to construct lines and flow fields and animate them across grids, but also the digitization of things we take for granted in real life. The process of generating a music file and mapping it into JSON so things can be effectively drawn, or how to blend colors more effectively in a digital space — people have debated whether blending in RGB versus HSL is the way to go. That really speaks to learning how to operate within this digital-first space. I'd love to hear more about the process and the desire to incorporate these elements generatively.
+
+Alejandro Campos: I think I started by acting as if no one else had done it before — which isn't the right way, because you end up creating something much slower and worse than what already exists. But it's a way of working. So I asked myself: how do you draw a line? What is a line on paper? I realized that a line, when you move a pencil, is actually a collection of places where the pencil leaves a mark — a collection of circles. So I wrote code that draws a collection of circles following a path, with some randomness. That's how you create a line that imitates an analog line, though of course it's not the same.
+
+It's similar with the music and the blending of colors. With music, I was very interested in linking it to animation. After many tries, I landed on the idea of using a MIDI file or a JSON with all the notes — but I wanted the music to sound natural. For *Enfantines* and also *Fugatientas* on Verse, the music is actually a recording by an ex-student of mine who plays piano. I asked him to play these pieces and record them as a MIDI file while playing. So I have both the sound and the exact timing of every key. That's how I mixed the two — I didn't want to just use a recording and analyze it; I wanted precise synchronization, so I came up with this approach.
+
+It was the same story with blending colors. When I first drew two lines, one blue and one yellow, the blend wasn't green. I thought, how is this possible? When I draw with a pencil, it's green — it should be green! That sent me down a very deep rabbit hole, because that's not how RGB works at all. It's actually quite complicated to do in code, and I learned how from Lars Wander. I eventually found my own way of doing it, and now I always use it — a realistic blending. So I'm not fully embracing the digital-first approach. I'm always trying to bring analog techniques into it.
+
+Trinity: Fascinating — maybe a good segue into talking about p5.brush. There's something to the idea that as a child you're always experiencing things for the first time, with a sense of invention and wonder, and you don't want to follow what's been done before — you want to figure it out yourself. One of my former coworkers, and the worst boss I've ever had, used to say that in math it's one thing to be taught what a proof is, but only the best students figure out the proof independently, and that's really the best way to learn.
+
+Alejandro Campos: When you do things from scratch, you have to learn how to do them because you have no other choice.
+
+Trinity: I wasn't able to derive the Pythagorean theorem myself, unfortunately — standing on the shoulders of giants. Thank you, Pythagoras. So: p5.brush.
+
+Will: What is it, for people who might be listening?
+
+Alejandro Campos: This came out of a period when I was feeling less enthusiastic about the space. It goes back to how I started doing art on the internet, which was for free, basically — there was a forum where I posted that if you wanted a signature, just send me a message and I'd make it. Everything I did connected to the internet was always for free. I always felt it was quite separate from my work as an architect.
+
+Then I started making NFTs, and at some point I really began to dislike the idea that everything has to be sold, that money is always the most important thing — we're always discussing floors and prices. I know it's an important part of it, and I know it's unfair of me to say art should be done for free, because there are people who need to sell their art to pay rent and buy food. But for me, it felt a bit violent to sell my art, since it was the first time I'd done that. So at some point I thought: I have to give some of this back to the community — not money, but something. That's how I created this library: the tools I'd developed since *Enfantines*, tools to draw like a child, with analog techniques. I uploaded it completely open source so everyone could use it. It was my way of giving back something of what I'd received.
+
+Will: That must have been an enormous amount of work. A lot of artists keep libraries of functions they've found useful across projects, but very few go through the effort of cleaning up the code, documenting it, and building a whole website so people can learn how to use it. It's a huge meta-project in itself — not as simple as just making some code open source. You must have put a ton of work into packaging it for people unfamiliar with it.
+
+Alejandro Campos: Yes, the documentation was the hardest part. When the library was done and working, I thought, okay, it's done. Then it took another month to document everything and put it online. But I saw it as a way of challenging myself to write clean code for once, to take the time to explain clearly how it works, and to learn what open source is really about — I'd never contributed to GitHub like this before, so it was a nice learning process: how to create a repository, how to do it in a way that lets people contribute too. It was an enlightening experience. I really appreciate people who create open source projects now, because I know how difficult it is.
+
+Will: Have people picked it up and made meaningful contributions since you published it? And have you seen any cool generative art projects using it that you'd want to shout out?
+
+Alejandro Campos: There are a few projects that used it on fx(hash). One artist, Julia Bergatova, has been sharing work in progress using the library for a while. I don't know if she ran into problems with it in the end — I think it was on a different platform, not fx(hash). But what she was sharing was really beautiful. I can send you a link.
+
+Will: Yeah, send it.
+
+Alejandro Campos: I thought it was a nice use of it because at the beginning, when everyone started using the library, it was mostly squares with this fill function that looks like watercolor — a very direct use. But hers was one of the first times someone used it in a different way, in their own style.
+
+Will: It's very glitchy — it's not immediately apparent that it's using the library.
+
+Alejandro Campos: That's also what I like about it.
+
+Trinity: She's a relatively well-known fx(hash) artist, and a lot of her work in other mediums is pretty glitchy too. It's interesting that you can take these existing tools and put your own spin on them — the extensibility of it, similar to what you were doing with the color mixing. It's about figuring out how it works and making it work for you. Very cool.
+
+Alejandro Campos: Yes. There's also been someone who did a kind of mixing project — I don't remember the name, I can look it up later. There have been some nice applications of it, though not a lot of published projects so far.
+
+Will: Let's continue on the music, since your upcoming project, *Fantasia* — as we'd say in English, because that's how we all learned to say it from the Disney movie —
+
+Trinity: We can call it *Fantasía*, though.
+
+Will: We can call it *Fantasía*. It's your creation.
+
+Trinity: You can call it whatever you want.
+
+Will: It's coming out relatively soon on Verse — a Tender collab. You started this project a while ago; I remember seeing early WIPs from you back in 2023, and we're recording this in May, so at least six months ago. There's always been a musical component to your work as far as I can remember, but for the first time you're creating a generative music piece instead of using prerecorded music. Why make it so difficult for yourself? That must have involved a lot of new learning — figuring out how to train and create this AI model. Is it an AI model? How would you classify it? How does the music even work? Tell us about it.
+
+Alejandro Campos: I would call it *Fantasia*, which is Spanish. At the beginning it wasn't actually coming from the Disney movie — it came from a piece by Satie, "Fantaisie" or something like that in French, I'm not sure how to pronounce it. That was translated by an architect, a well-known Spanish architect named Enrique Miralles, in his PhD, in a chapter called "Fantasía muscular" — muscular not in the sense of being strong, but from the muscles, so "muscular fantasy," let's say. In that chapter he writes about imagination — how you start drawing a line, then another line, and shapes start appearing. He has beautiful drawings he made himself; he was a really good draftsman. I was interested in this emergence of shapes from nothing, or from dots, in this case the musical notes. That's where the name comes from.
+
+Then when I was speaking with Adam, he asked, "You're calling it *Fantasia* because of the movie, right?" And I thought, actually, maybe that does make sense. I watched *Fantasia* when I was young, in this IMAX cinema with 3D glasses, and I remember it very strongly — it was a wonderful experience as a kid. I hadn't consciously connected the two, but once I did, it made a lot of sense, and the piece evolved in that direction. If you look at the colors and some of the shapes, they really do resemble things from the movie, even though that's not where it started.
+
+The music was actually really difficult. At the beginning I was thinking of this as an fx(hash) work, and I talked with some people from the fx(hash) team, because I wanted people to be able to upload their own music and have that music generate the composition — a different way of doing an fx(hash) project without sliders, where you just drag and drop music and it creates the piece. But that music would have needed to be a MIDI file, which meant people would have to learn what a MIDI file is and how to use one. It got complicated fast.
+
+Around then I'd also been getting suggestions and questions about *Enfantines* and *Fuga Tientas* — whether they were really generative, or whether I should try to make the music generative since this is generative art. So I thought, let's try. I'm not a musician — I don't know anything about music beyond liking certain composers — so I couldn't write a logic myself that would produce a nice composition. That's why I turned to AI.
+
+It's a genuine AI model running in the browser. When you open the page, it loads the model, the model runs, and it produces notes — not sound, just notes, essentially a MIDI file, which I then play back with piano samples. I didn't create the model myself; I found a great project, now more or less abandoned, called Magenta, by Google, where they trained AI models on classical music using huge databases, and also built a framework for running these models in the browser. The problem is that the code is seven or eight years old, so nothing works out of the box. So it became more a question of learning how TensorFlow — the framework these models use, designed for AI training — actually works, and how to get it running in a browser and load a model, rather than thinking deeply about the model itself, since I didn't train it from scratch. I started from a model pre-trained by the Magenta team on the Maestro database, a huge database of compositions played by real performers, and trained it further myself.
+
+The special quality of this model is that it produces not just the MIDI notes but dynamics too — it simulates a real performer. You can feel it: sometimes the keys are stronger, the velocity changes. It's not robotic, all notes played the same way. It emulates the natural touch of a performer, which is why it sometimes sounds so good.
+
+Trinity: Sometimes.
+
+Will: Hopefully most of the time. How does that actually work technically — is the model sitting off-chain, called at mint time to produce a MIDI file that gets injected into the piece? Or is everything bundled together? I'd imagine the model is pretty large.
+
+Alejandro Campos: No, it's actually only 20 megabytes.
+
+Trinity: Oh wow.
+
+Alejandro Campos: Quite small. Still impossible to put on-chain, so this won't be an on-chain project — it'll be on IPFS, which is pretty normal; there are things you just can't do on-chain yet because the files are too big. But it functions like a normal mint: minting only produces a seed, and the script uses that seed to seed both the model and the visuals. Everything happens live, in real time, when you open the page — nothing is precomputed. The nice thing about the TensorFlow framework running the model is that you can seed it and make it fully deterministic, which is handy for future projects too — anyone else wanting to use this framework will know it can be made deterministic, which is the basic requirement for anything to work as a generative art project the way we think about them.
+
+Will: That's pretty cool. Between the music and the visuals, which was more challenging? And on the visuals — it feels like it could almost connect to the original *Enfantines* trilogy, but it's also quite different: instead of brushstrokes, it's more about shapes and forms, layering them, creating dimensionality with this drop-shadow effect that sometimes emerges. Do you feel this piece is spiritually connected to that series, or is it something entirely new? Where does it sit in your body of work?
+
+Alejandro Campos: I haven't said this publicly before, but *Enfantines* was me catching up to the space, to creative coding — learning how to code, basically. *Fuga Tientas* was consolidation: this is what I've learned, now let's do it seriously, aim for quality rather than learning. This piece, I think, is more experimentation, so it's more connected to *Pensado a Mano* — experimenting with how to bring generative music, and specifically AI, into a generative piece, doing everything in the browser without relying on the strange frameworks other platforms use.
+
+Visually, it uses my library for the first time in a project, but I'm not using it to imitate analog techniques anymore. A little, maybe, but I'm searching for its own style now, so it doesn't look like something done by hand. It's more about embracing the digital — doing something you couldn't do with your hand alone, which also connects to the music and the animation.
+
+Trinity: What was it like collaborating with Adam on this, and bringing it to life through Tender? I'd love to use this as a transition into talking about web development versus art, but first, tell me about working with Adam.
+
+Alejandro Campos: It was completely amazing. He has a super sharp eye for things — every suggestion he's given me has helped improve the piece. He's also very supportive and optimistic, and he understood what I wanted to do from the beginning. It's been great having someone to interact with and share things with — he responds quickly to everything, and he has a very clear idea of how to launch things, which he handles so I don't have to think about it. That's the part that, if I start thinking about too much, makes me distant from the work. This time I'm not thinking about price, not thinking about supply — I'm leaving all that to Adam. It's been a great collaboration. What about web design, Trinity?
+
+Trinity: Thinking about the process that got you here — not only working with defunct tools and libraries for the sound side, but using your own library and figuring out how to get this whole organism working within the constraints of IPFS — at what point is *Fantasia* really about the art, versus the construction of the system that makes everything work? It almost feels like architecture — not the art itself, but the building of it, where you need the walls, the plumbing, the electrical, to make the thing habitable. That connects to one of your hot takes about web development. Maybe this is a chance to talk about that process, and go off a little.
+
+Alejandro Campos: Yeah.
+
+Trinity: We love a hot take.
+
+Alejandro Campos: Okay. I think it's very sharp what you said, but it's also what happened a bit with *Pensado a Mano*. I wanted to experiment with something, and then you need to create the framework, the tools, to make it work. At some point you're not so worried about how it looks, more about how it works. This is also what I believe about architecture: it's much more important how it works than how it looks. And "how it works" not from this very limited functionalist perspective of how many square meters and all these things, but how it makes you feel inside, how it makes you behave. This is what I believe architecture can do.
+
+In this case, the difficult part was putting all these pieces together into one thing and making it look cohesive and coherent and simple, which it is not. It was also the first time I used web development tools like Webpack, which I now hate completely. Super difficult to use. No one explains clearly how it works. You're always navigating old tutorials, and the new versions don't work like that anymore. It's awful. Now I understand why people love p5 so much — the p5 documentation is a work of art in itself. Anyone can understand it, anyone can use it. You need to know a bit about coding, but basically anyone can learn through p5.
+
+If you try to develop a website like this, using seven or eight libraries from different people — one from eight years ago, another from last year — they don't work the same way, so putting all the pieces together is super difficult. It's completely web development. I had to learn how to install things through npm, which sounds easy now, but at the beginning I didn't understand it at all. This is when I really started thinking: this is what we are doing, we're doing web development. I'm quite sure about it now. So we shouldn't be making only visuals — we should think about the piece as an experience, the same way I think about architecture. Architecture is an experience, not just a building. It's how you feel inside the building.
+
+For this piece, I'm very interested in how you feel inside the piece. If you check the website, the background is not transparent — there's a background color, because I'm thinking about the whole website, not only the piece. And the piece doesn't use the whole size of the window. It has borders and a shadow, so you feel it floating in the background. Then, as the music continues, some shapes start appearing behind. So yes, it's a website. I don't know if that's a hot take, but for me it's quite clear now: we should be making websites. This opens up a lot of possibilities for us as coders or artists — I don't know if I like the word "artist" completely.
+
+Trinity: Ooh, let's talk about that.
+
+Alejandro Campos: I have a lot of respect for artists — I studied history of art, so I really respect artists a lot. It's imposter syndrome, I think it's called. I don't know if I can call myself that. It looks like a very difficult thing to be. I think you need to somehow give your life to it — "entregar," in Spanish, works better than "give your life." I don't know how to say it in English. It looks like a very serious thing.
+
+Will: I think that's so funny to hear, because you've done so well — which is kind of ironic. You're saying, "I don't really know if I'm an artist, I'm just making websites," and yet between *Enfantines*, *Fuga*, and *Pensado a Mano* — which you almost didn't even release, if I remember correctly. You were like, "I made this weird thing, but it's probably not good." Now it's regarded as one of the best, if not the best, uses of fx(params) that's ever been made. It's funny to hear you talk like that, but also understandable — everyone struggles with labels and with the confidence to say "yes, I'm this" or "yes, I'm that." It must be weird to see success, to have people get excited for your work and praise it, when you're not even sure you fit into that category.
+
+Alejandro Campos: For *Pensado a Mano*, I think you convinced me to do it, actually — over DMs, if I remember correctly. But that project, in the end, I launched because I thought it had to be done by someone. It wasn't that I had this great idea in my mind of how I wanted it to look — I just thought, there's this framework, fx(params), that no one is using. From my perspective, no one was using it as it should be used, or using the potential it has. So it needed to be done. That's what I did with that project, and maybe this one is a bit the same: no one is using generative art to create experiences, so it needs to be done. Maybe it's not the best project, the looks can be improved, whatever — I'm an architect. And when I say I'm an architect, I also mean I'm an artist, but maybe an artist who thinks about things differently. As Trinity said, more about bringing things together than really designing. I'd say I care about meaning, not so much design. When I create something, at some point I stop caring how it looks. I don't want to polish it more. I just like the idea and the meaning it has, and then it's done for me — and I get a bit bored with it.
+
+Trinity: It makes me think of a lot of the conversation people have around the different chains — Tezos, Ethereum, fx(hash) versus Verse — and what areas are for experimenting, getting something out of your system, versus a place for art or elevated website creation, depending on how you look at it. You've released on both platforms. Is there a difference in how you perceive them, and the types of work you might push out on each?
+
+Alejandro Campos: Not so much, I think. I've always thought fx(hash) had an amazing community, which I enjoyed a lot — and I think that's also where this podcast comes from, from fx(hash) and the beautiful community it had. At some point, when everyone started leaving, that community wasn't so strong anymore. Then Verse came along — Jamie is a big collector of my work, easy to check — he really likes what I do, and he was the one who approached me for my first Verse release. Since I started doing things with Verse, they print things sometimes, which for me, as an architect, is quite interesting — seeing my work in printed form. You can see some of them in the background here.
+
+I think Verse feels more artistic — maybe that's not the right word, but it feels closer to my background as an architect, because of the culture. So it's not so much about community, it's more about art, and about curating, and about how you link the art into a chain of historical events — creating a history and a narrative, which is what I do as a researcher and teacher. I don't think of fx(hash) as the place where you experiment and Verse as the place where you publish finished things. I'm always experimenting — it's always something new I'm trying to do.
+
+Will: Will there be more projects after *Fantasia*, do you think? At some point you said you worked on Brush because you were at a low point with web3, and from chatting with you, I know you've come close to quitting doing art, or website design, or whatever we're calling it.
+
+Trinity: Yes.
+
+Will: And then this project popped up, you got excited about it, and now it's coming out. Are you feeling reinvigorated? Have you come to terms with just making the project and letting someone like Adam or Jamie figure out the economics of it — divorcing yourself from the market side? What was bothering you? What happened that got you down on it, and where are you now?
+
+Alejandro Campos: It was what I said at the beginning — it was connected to how everything needs to be sold somehow, how it's always about money. I was used to doing things for free. There was also an event — I don't want to say which one — that was really impactful for me. I was there thinking it was going to be more about the art side of things, and then I discovered it was more about the money and crypto and trading side, which I didn't like. There was no real appreciation for the art. The venues, there was lots of noise, the artworks didn't have space. I started reflecting: what am I doing here? There was a dinner that day — I didn't go. I went home instead. It was a pretty bad personal experience. From then on, I tried to distance myself from the buying and selling side of the space.
+
+Will there be a new project after *Fantasia*? That's a good question. I'd say: is there something else that needs to be done? That's why I do this — because I think someone needs to. And then maybe other people think, well, you can do this and this and this. So if I think there's something that needs to be done, that no one else is doing, maybe I'll do another thing. I don't know if that answers it.
+
+Trinity: *Enfantines Volume 3* needs to be done, or else you'll leave us hanging forever.
+
+Alejandro Campos: That's a good one. I'd say — children never finish things. At some point I decided maybe it's better if it stays unfinished.
+
+Will: That's more or less how I thought you might answer. But we're all excited to see at least this project come out. It's super cool hearing about your journey into using the AI music system and training it — I think it's going to be really rad. Just as a reminder for anyone listening, it's going to be on Verse. Is there a date yet? June something?
+
+Alejandro Campos: Mid-June. The specific date isn't decided yet — probably around the 14th or so.
+
+Trinity: Should we even ask about sizing, pricing, release mechanics?
+
+Will: Should we be asking Adam that?
+
+Alejandro Campos: We're thinking it's better if it's something people can have fun with — probably not a small supply, and not a high price.
+
+Trinity: Accessible.
+
+Alejandro Campos: I like that. We're thinking about a collector-curated approach, but it's not decided yet. If you've listened to a few of the tracks, sometimes the music works very well, other times it's too quick, or not that interesting. We want to give people the opportunity to pick a few by looking at the thumbnails first, and once they have ten or fifteen they like, they can go inside and listen. Then they can pick based on the music too — we want to give some agency there.
+
+Will: That makes a lot of sense, letting people explore — and assuming there's a way to export the audio, or share a GIF, being able to say "look at this one I found, listen to how good the music is." Collector Curated makes a ton of sense there. Staying on the topic of Verse, do you want to talk about the architecture exhibit?
+
+Alejandro Campos: Yes, of course.
+
+Trinity: Yeah.
+
+Will: What was the story behind that show? You were one of the curators and organizers, and you brought together quite a few artists, all releasing basically the same day, within a couple of hours if I remember right. What was the arc of that? What did you learn, what do you regret, are you happy with how it went? What's the story with the whole exhibit?
+
+Alejandro Campos: There's a big group of architects doing generative art, and we have several places where we talk and share things. At some point, I think it was me and Ismahelio who proposed doing something together, since we were always talking anyway, and we appreciated each other's work and shared the same background. We thought architects could contribute something different to the space, so we prepared a proposal for Verse, which they loved and accepted.
+
+It started as a group of friends, but by the end we'd brought in many other people from outside that group — partly because we wanted more parity, more women involved, since there are very few women in the space. So we opened it up.
+
+As for how we ran it, that was an experiment we worked out with Jamie. With so many artists, we thought if we stretched the drops out too long it would get tiring, so we figured it might be fun to have everything happen at once. In terms of the market, that didn't work so well. Looking back, I don't think we gave each project enough space. That's probably my regret.
+
+Will: It was quite a whirlwind.
+
+Trinity: It was fun, though.
+
+Will: It was. And you brought together some great work — I still go back and check out a lot of it. I really liked Victor Dovall's piece, the anaglyphic one, really cool and different. But it was a challenging time — the market hadn't fully registered yet that it was slowing down and dying. You'd think bringing together a bunch of good art would naturally draw people in, but unfortunately that's not how it works these days. Could you see yourself getting involved in that side of the space again — organizing, curating?
+
+Alejandro Campos: Sure, why not. In this case I was involved in all the conversations about how the drop would happen — I probably wouldn't do it quite that way again, but as curating or organizing something, yes, I liked it. There was also some nice discourse that Ismahelio and I built around the drop.
+
+It was also my attempt to connect my practice as a coder to my practice as an architect, since those had been pretty separate. I'm the same person doing what felt like two or three unconnected things, so I wanted to find a way to tell that story — me as an architect, but also a coder, and how the two connect. In my case it's not as direct as for others. Jacek, for instance, has worked with generative practices in architecture and design for a while — that's not really my case. What I do in architecture has nothing to do with coding; I'm actually not that interested in generative tools for architects. So I was trying to bring the two together more theoretically.
+
+Trinity: Even in the description of the exhibition, you talk about the creation of spaces in a very meaningful, targeted way — can spaces exist with or without architects? Who knows? That really comes through in *Generative Architecture: The Making of a Room*.
+
+Alejandro Campos: Yes — the website *is* a space. That's a good line, I'll steal that.
+
+Trinity: You already wrote it. I stole it from you.
+
+Alejandro Campos: I'd forgotten, maybe.
+
+Will: On the physical side — you've mentioned studying history, your love for analog work, wanting to see pieces printed out, and last night you were digging through archives trying to find your old work for this interview. How do you think about preservation? There's always debate between on-chain and off-chain, whether on-chain work is more likely to persist. Does that come up in your professional life? This new piece is using IPFS, so you're clearly not an on-chain maxi — do you have a strong opinion on it?
+
+Alejandro Campos: I work at TU Delft, a university here in the Netherlands well known for architecture, and my research and teaching group is called Architecture Archives of the Future. Everything there is about archives — how you preserve documentation about buildings and bring it into the digital world. Right now, in one studio, students are designing a virtual museum: virtual spaces, but with real thought given to how you enter them through a physical space, how the physical and virtual relate, and they have to use archival materials to curate exhibitions. So my work as a teacher is tied completely to archives and preservation.
+
+Actually, going through my own background yesterday, I realized all my old emails from my first Hotmail account are gone — they migrated to Outlook at some point and everything vanished. That's enraging, honestly, because your email is basically your life. So I only really exist on the internet from 2007 onward; my first eight years online are completely gone. It made me realize how fragile digital archives are — something we talk about a lot in our group, because we assume digital things are sturdier than physical ones, and it's actually the opposite. Try using a CD from 15 years ago — it probably won't work. Archives now, when they acquire an architect's papers, increasingly get digital archives, and they don't know how to deal with that yet. It's a live topic for us, and I felt it personally yesterday with my own memories — some of them are just gone.
+
+Trinity: We can store so much more in so much less space, but preservation is another matter. I have this conversation a lot about music collections — as you migrate from iTunes, moving your music from laptop to laptop over the years, and then Spotify arrives and you stop migrating altogether. All those mixtapes and downloads you pirated fifteen, twenty years ago — you just can't access them anymore. There's so much music I love that only exists in my iTunes library because I haven't updated it since 2012 or so.
+
+Will: That's pretty discouraging. It's part of why we try not to get too caught up in the on-chain versus off-chain debate — at the end of the day it all relies on a web browser and its standards. Locking code onto Ethereum doesn't guarantee it'll still run in a browser thirty years from now. I don't even know how you'd begin to approach that problem, or whether any platforms are really thinking about it — it's one thing to sell someone a piece today, another to make sure they can view it forever. That's a daunting task.
+
+Trinity: What precautions do you take as a creator to make sure your work stays accessible outside these platforms?
+
+Alejandro Campos: I think the safest option is to print the code on paper.
+
+Will: Print and archive.
+
+Alejandro Campos: And donate it to a good archive.
+
+Will: Let's wrap up with a rapid fire or two. Trinity?
+
+Trinity: Sure. First question: who should we interview next, or who would you like us to interview?
+
+Alejandro Campos: I haven't thought about that one, honestly. Have you interviewed Lars Wander?
+
+Trinity: No.
+
+Will: We haven't.
+
+Alejandro Campos: I think he's one of the smartest guys doing generative art — I really enjoy how he thinks about problems.
+
+Will: Guess we'll have to brush up on our coding before we talk to him.
+
+Trinity: Color theory, too.
+
+Will: He does seem like a glaring omission. We'll find a reason to get him on.
+
+Trinity: Special request — that's a great reason.
+
+Will: Let me throw one out. We've talked a lot about music — is there anything you listen to while you work, besides classical? Anything more contemporary you'd recommend?
+
+Alejandro Campos: I used to listen a lot to Ólafur Arnalds — I think he's from a Nordic country, maybe Sweden. Contemporary classical, basically. Though honestly, I also listen to a lot of Queen — things you can sing along to. But Ólafur Arnalds, if you don't know him, is quite good.
+
+Will: I'm always looking for contemporary piano stuff. Anything else — I guess we usually ask what we can look forward to from you, but maybe better to ask: what problems out there haven't been solved yet that you're going to go fill the gap on?
+
+Alejandro Campos: Probably more open source things. With p5.brush, for instance, I've now rebuilt it without p5, which is what I'm using currently. It's still unreleased, but I'll probably put it out in the next few months.
+
+Trinity: Definitely something to look forward to — maybe not for us specifically—
+
+Will: But for the other artists listening. And everyone, look forward to *Fantasia* on Verse — high supply, affordable price point, hopefully collector curated. Thanks, Alejandro, it was awesome to have you on. Great to finally talk face to face after all the DMs — even if it's still digital. So long, Trinity. So long, Alejandro. Thanks for coming on the show.
+
+Alejandro Campos: Thank you for inviting me.
+
+Will: All right, that's it, everyone. Bye-bye.

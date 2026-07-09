@@ -1,0 +1,235 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We are here with Trinity, of course. And today we're joined by Pierre Casadebeig. I hope I got that pronunciation close. How's it going, Pierre? How's it going, Trinity?
+
+Pierre Casadebeig: Going pretty well, actually. Thanks for having me and taking the time for an interview.
+
+Trinity: Thanks for joining us. It's always great to have new artists on, people we haven't spoken to before. And you're not exactly the classic p5 generative artist we typically talk to, so I'm really excited to dig into some of these questions. But Will, I know we have our standard intro question.
+
+Will: Yeah, for sure.
+
+Trinity: I'll give you the honors.
+
+Will: I think if people are familiar with Pierre, they probably know he makes generative art, but he hasn't released any long-form generative art because the language he uses is R -- a statistical modeling language that just doesn't work in-browser. That excludes you from releasing on platforms like Art Blocks or fx(hash). But you have a Tender release coming up on Verse, which is perfect, since they enable pre-selected, curated outputs. Pierre, first, give us the correct pronunciation of your last name, and then introduce yourself -- your background in science, how you got into making art, and how you ended up plotting these wonderful mountains.
+
+Pierre Casadebeig: You were pretty close -- the final G is silent, so it's Casadebeig. I'm not sure how common this is in digital and crypto art, but I have no real background in art beyond what I studied in school and whatever curiosity and research time I've had since. I studied plant science and data science, and I work in a lab trying to understand how crops function and how we can design more sustainable cropping systems. It's a very open lab, a mix of crop scientists and humanities people.
+
+There isn't much direct link between my science background and my art -- maybe only that it's the same language, in a sense. I can use skills from work in my art, but it's actually quite hard to use what I know about plant biology to design art about plants, for instance. As for R itself and how it interacts with platforms: I was exposed to art through data visualization. Thomas Pedersen is well known in that space and did a lot of technical development for graphics -- he came from that same background. Aleksandra Dovančić and Nadieh Bremer also work at that intersection with data, even if not all their work is data-based.
+
+The real limitation for platforms is that I need a bunch of data, and I can't easily get that data onto the blockchain or link to it through the web. That's what's kept me off fx(hash) and similar platforms. As for the language itself, I'm not geeky enough to know for sure, but I believe something like WebAssembly lets you embed different languages in the browser, so it's getting solved. It shouldn't be a permanent limitation.
+
+Trinity: I don't think you quite answered this -- what specific type of plant science do you do?
+
+Pierre Casadebeig: Imagine a crop -- sunflowers, say. You can study and improve them through experiments, but you could spend your whole life just sowing, measuring, and harvesting. Or you can move into modeling, and try to extend what you observe in the field into what could happen theoretically, using mathematical models. That matters a lot given the weather conditions we'll face from climate change and changing farming practices. So there's a strong link between data science, applied mathematics, and crop science. If any listeners have a biology background, it's a great field for this kind of application -- all my in-laws are biologists, actually.
+
+Trinity: But they're more on the marine side of things, fisheries and the like. When you talk about exploring data and extrapolating what could happen -- what's within the realm of possibility -- it really seems to tie into algorithmic art. You start with a simple algorithm, and depending on the hash that's input, you get all these different potential outcomes in a system that can be more or less controlled. Interesting parallels there -- though maybe that's just what it means to work with code and information generally.
+
+Pierre Casadebeig: Right, I think anyone with a background in an applied field -- architecture, systems thinking -- can carry that into generative art, because you're designing systems, designing inputs, balancing what's random against what's controlled. People from very different trades can get into generative art and have a lot of fun with it.
+
+Will: You mentioned in your intro that you weren't sure how common your story was, but honestly, it's incredibly common among the artists we've talked to over the years. A lot of them came from other disciplines -- architecture is a common one, but also computer science broadly. People who already knew how to code, and at some point in their career thought, it might be fun to turn this skill into something more pleasing, more fun, more for me. So many artists we've talked to have only been doing this for one, two, three years -- don't sweat it, you're in good company in the Web3 world.
+
+You mentioned your scientific work touches on environmental and climate change, and I think we can sense some of those themes in your art. How did that play into your decision to get into crypto and NFTs? A lot of artists we know started on Tezos specifically because it was seen as a "green" blockchain -- they had environmental concerns. Ethereum is proof-of-stake now, but there's still a lot of bad PR around crypto, and a few proof-of-work chains still out there. Was that a difficult consideration for you?
+
+Pierre Casadebeig: Like a lot of people, I was mainly exposed to this through Twitter, browsing around. I was following Zancan's work, since he was doing plotter pieces with plants -- a big example for me, combining plotting, crops, and plants. He got into crypto quite early and started releasing work on Tezos and making money from it, so that was one big influence.
+
+The other was Dan Catt. He documented his process very thoroughly -- "I made this many prints this month, I can sell this much, I won't quite break even, but I'll make a small profit." Little by little he started asking questions that resonated with me, like: when do you stop considering it a hobby, and start pushing more time into it as a practice? And of course, once crypto brought in some income, I could buy new things -- a plotter, a computer. Those two people were instrumental in convincing me to go into it.
+
+It was only afterward that I learned about the environmental impact of different blockchains. Tezos has a different consensus system that seemed cleaner, or at least more defensible. But I don't think that was the biggest factor -- it was mostly that the Tezos community was easier to access at first.
+
+Will: Definitely a good community there. Trinity, can you take the next question? I've got some noise outside my door, so I'll go back on mute.
+
+Trinity: We've talked about your art, the science, the blockchain side -- I'd love to hear how you go from working with data to actually making art, especially given that your background is in plant science systems, but the work we know you best for on Verse is mountain ranges. How did you get from cornfields to elevation data, and everything in between? How did mountains become the subject?
+
+Pierre Casadebeig: At first it was really about working with data. Elevation data is very easy to get a lot of -- it's extremely well documented, at least in France and Europe, because there's public funding to gather it for things like architecture, urban design, or flood prevention. So it's high resolution and accessible. And the process of reading that data, modifying it, and exporting a plot -- not a plotter plot, just a graph -- is really close to what I do for my job.
+
+I also don't live far from a big mountain range, the Pyrenees, so it was tempting to take places I knew from hiking and turn them into graphs, and later into plots on paper. I never really considered plants for this. I actually had this conversation with Zancan -- he thought science could help design plant shapes. But scientifically, a field is just huge layers of green, like a big cake -- there's no realism to it. I don't need much precision to predict yield or function accurately. If I add too many details to the model, I end up with too many parameters, and I get them wrong. So you actually have to stay far from reality just to describe a field usefully. That made it useless for art -- there's no real visual output from those models, just numbers.
+
+With mountains, I'm much more interested in incremental change than in making wildly different pieces from week to week. It started with an idea: take a surface from elevation data, cut it, analyze it, and shape the output to resemble my early mountain pieces, which were an imitation of *Meridian* by Manolo Gamboa Naon -- I really liked that and wanted to try to reproduce it. Once you do that, you start messing with the parameters. Some outputs end up much simpler, and you notice some stand on their own while others could be combined -- and that's how composition enters the picture.
+
+That became another branch of the algorithm: not just representing geography, but creating a synthetic, almost artificial place that still resembles a mountain, but carries more emotion, where you're more involved in shaping the algorithm's output. From there it's about how to lay these forms out on the page, questions of composition. That path led me to discover a lot of authors and guidelines on graphic design -- a whole domain I realized I needed to learn, and I found it fascinating.
+
+Will: I imagine the decision to use data came from your background with R and your scientific experience. But during this exploration, did you ever think about it differently? Zancan makes plant-based landscapes without data, and plenty of other artists do mountains and landscapes without data too. Did you ever consider that you might get even wilder outputs by learning a different language, or by working without data at all? What role does data actually play in your work beyond just providing the foundation for the forms? And when you import data, is it one specific dataset, or are you pulling in the full historical record of mountain range elevations and doing statistical modeling to project where they might go, then playing with those parameters? Are we talking about erosion here? Are we talking about mashing up different datasets to get interesting forms? I'm curious about the actual process.
+
+Pierre Casadebeig: I wanted to stay compatible with fx(hash) or Art Blocks and JavaScript, and there's a path where you lean into noise algorithms instead of real data. But that required a lot more work to get topographical landscapes that were interesting without being realistic. So I had a choice: go deep into learning how to make and modify noise, or work with real data. Even if you start with realistic data, you can import a huge chunk of mountains, sample different places, recombine them — and even though it's "your" material, it gets modified so much that it no longer resembles the original data. I was more at ease with that approach. I could stick with the data and still bring in a lot of randomness, even though it's deterministic at first. I hadn't even thought about the kind of erosion modeling you're describing — that could be another direction entirely.
+
+Trinity: That's really smart.
+
+Pierre Casadebeig: Great ideas.
+
+Will: This is why people love the show. Another way you use data — I noticed this looking at *Despair* and some of your other projects — is that in addition to adding noise, you're discarding data. You start from a full set and remove parts of it. Is what's removed replaced algorithmically by code you've written, or is it just gone?
+
+Trinity: And is it the same data being removed every time, or does it vary per piece?
+
+Will: How do you decide what to take out?
+
+Pierre Casadebeig: The starting question was: how much data can I remove and still have something that reads as a landscape? I pushed it as far as I could to see whether I'd end up with just ridges, or something more realistic. What gets removed is random. When you start with something deterministic, like real data, whatever you add on top should lean fully into randomness — every level of the process should follow that logic.
+
+You can scan the landscape and choose to remove only the lower parts — in bands, or paths — or keep only the higher path. That's the core of my work: sample a new place, then apply modifiers based on its features — removing, deleting, adding noise — and get a new output.
+
+Some of these modifications were designed with a plotter in mind. If you just draw the true data, you get a very smooth line, which isn't very interesting, so you add noise to give the pen small irregularities, like real drawing or etching. Interestingly, in other cases the data was too rough, so you'd smooth it with statistics — or not — and instead use a fountain pen versus a brush. Because the brush's movement lags slightly behind the arm's movement on the plotter, it smooths things naturally. So you get this interaction: you design something at the algorithm level, but translating it to paper through the device adds something else, and it turns out you didn't need to add that at the code level at all. That's the research side of working with a plotter — it's not just a way to print or get your work onto paper, there's a genuinely strange interaction with how you design the code.
+
+Will: It's fascinating — you incorporate data, noise, and other functions, and the final output still feels like a mountain. You start from a factual mountain and end up with a synthetic, algorithmically determined one, but looking at the plots behind you, they're still completely believable. That balance has to be intentional.
+
+Pierre Casadebeig: The one behind me is actually one of the first outputs — it spreads out into these abstract maps, almost like a true map. It gets very hard to know what you can remove. It's easy to add things, much harder to remove them well. That's what I was aiming for with the more brush-like pieces in the first drop.
+
+Trinity: Going back to *Despair* — I know we want to talk about the upcoming collaboration, but this collection has so much variation built in. Was that variation intentional in the curation? Is it a function of different algorithms being used? How did you arrive at such a broad range of interpretations of mountains? Some pieces are almost photorealistic, some are very similar to *Meridian*, and *Polyline Hiking* barely reads as a mountain at all — it's pure interpretation. How did you get to some of these outputs?
+
+Pierre Casadebeig: That was the goal for this work with Verse — I work with data, I make mountains, but with this algorithm the simplest output is the most realistic one, with a large number of lines. From there, depending on the sampling locations and the order in which you chain different functions — filter the dataset first and then remove data, or the other way around, then add smoothing — you get a whole range of variations, just from the parameters of those functions.
+
+I could go very realistic, or, at the other extreme, get down to *Polyline Hiking*, which is just two lines per location. The idea was to sample 60 locations across the range and put them in columns — no link to geography, except that if you know the place, it's the Pyrenees, with the Atlantic Ocean to the east and the Mediterranean to the west. Cross a transect through the mountain range and you get a transect of altitude, so the first samples are very quiet, there's more noise in the middle, and it's quiet again at the end. That one's more abstract.
+
+With Verse, I realized I could do all of that without it being "the same algorithm" — it's hard to even define what counts as one algorithm versus another. It's just functions patched together in different orders, using the same set of tools. For example, one piece is close to the first drop, with a more comic-style look and precise ridges in different frames — but for that one I chose the seeds manually, so which ones would work well together. The algorithm produced the output, but the layout was manual composition. It's like designing a postcard: you make a lot of decisions, but it's hard to articulate the rules behind why the text goes in one spot and not another.
+
+That manual control is one thing for a single piece, but it gets much harder when you want each cell to be generative across, say, 100 outputs instead of a short series. That's the main challenge with the new release: how do you guarantee the iterations remain comparable, that the composition across different cells or pages still holds? I'm still learning this. There's a lot of theory in graphic design — grids and so on — but it's hard to know how to actually operate with it. In the end you use a grid and then rely on instinct. Code doesn't help you learn that part.
+
+Will: Let's talk about the upcoming Verse drop — 128 pieces, in collaboration with Tender. It's been a long time coming; I think your collaboration with Adam was announced back when the Tender Pass first sold, at least eighteen months ago, if not longer. Walk us through that journey with *Ridge Regressions*. Were there a lot of starts and stops? How many times did you come close to releasing it before the plan changed? What have the last eighteen months been like working on this?
+
+Pierre Casadebeig: Maybe the key thing is that the generative art space moves so fast that if you're not putting out a lot of work, you constantly feel behind. When I first discussed this with Adam, we connected through a common collector who was kind enough to introduce us and say Pierre was interested in doing a release with TENDER. My goal was to do long form, which wasn't the norm for me but felt like the right direction. I said, I want to do that, I need to learn JavaScript, I want to use fx(hash), and I need to find a subject that isn't mountains, because of my dependency on data there.
+
+I had a project on plants, actually, using a different algorithm that output different plant shapes. It's not very mysterious -- a lot of this work is based on mathematical sequences. One approach uses Collatz sequences, which divide or multiply numbers in a sequence, producing numbers that decrease but in a very irregular way. That kind of irregularity is close to what you see in plants -- in the internodes, the little sections of stem between the leaves, whose lengths are highly variable. So it seemed to have the right properties, and it was easy to code and get plant shapes out of it.
+
+I started that in JavaScript, but then thought: I can only do plants, I'd like to add some writing too. My idea was to mix in some calligraphy and render the plant shapes in a very simple, minimalistic way, like calligraphy itself. So I needed to add other components, more graphics. And then you see how it goes -- you want plants and other components, and then it's, how do I put this on the page? Oh, that's not very nice. Maybe I could add some titles, paragraphs, and on and on. It wasn't successful, at least for me. It was missing contrast -- everything was lines, and it's very hard to bring in bold strokes that way. I was also struggling to learn a new language and kept missing what I already knew in R.
+
+I think it was mid-2023 when we decided to just stop, and I said, okay, I'll refocus on my own language and what I know. That was it for that drop. I made some experiments and actually sent Adam a postcard -- one very simple piece done with a brush pen -- and he said, okay, we need to do that. So in this case, it wouldn't be long form. It seemed like that kind of curation wasn't necessarily better accepted -- though he was following the space much more closely than me. There were moments on Twitter where people argued that artists should embrace the digital medium and not imitate paper. But there was also a lot of pushback saying, we can do what we want. More recently it seems more accepted that each person can follow their own path -- with data or not, with a lot of curation or not.
+
+So that, plus the technical possibilities with Verse, made us say, okay, let's go into that and figure it out.
+
+If I can add some precision on why R is interesting to me: on the purely computational side, I'm not sure it's that different -- it might be slower than other languages, but I'm not certain even of that. The two things that really stand out are, first, its focus on functional programming. You don't often write iteration, or at least not using indices or complex calculus-style constructs. You just say, I want to apply a function over all the leaves in my stems, and it reads much closer to natural language. A lot of biologists gravitate to it for that reason -- you can write code, come back six months later, and still understand what you wrote. The other thing -- not little, actually significant -- is that there's a lot of theory in R around visualization, with a clear separation between the data and how you visualize it. Once you've coded the part that generates the data, you can try many different visualizations, and the code changes needed are tiny and very interactive. Both of those were things I missed when experimenting in JavaScript.
+
+Will: That answers the question of whether you've experimented with other languages -- sounds like you did quite a bit. If you ever go back to that flower project, you could always consider releasing it under a pseudonym on fx(hash) and see how people take to it. Apparently it's not uncommon for artists to keep secret alt accounts, so keep that in mind.
+
+Continuing on -- you mentioned the design elements you added for this piece. Something that comes up in a lot of the outputs is the paneling, the breaking up of the mountains into almost a comic-book-style composition. But there's also this asemic writing, which I don't think I saw in any of your previous work -- or if I did, I missed it. What role does that play in the theme and exploration you're going for with *Ridge Regressions*? Why the writing, and also the style -- there's quite a bit of variation, some with thinner plotted lines and some with really thick calligraphy, almost like a single stroke. I'd love to hear about all the different elements you've incorporated, their significance, and how you arrived at them.
+
+Pierre Casadebeig: A broader thing I'm trying to learn is composition. Say you build different systems -- one generates plants, one generates writing, another generates mountains or decorative frames -- and at the end it's tempting to mix them together. The easy way is to ask, what would I do if I had these different elements and needed to put them on a page? That leads you into generative grid design. In this case, I first designed a grid and then tried to match elements into it. That's my basic solution for mixing different systems.
+
+A more recent example is Golan Levin's *Yazidographia* drop. He explained that all the different parts and organelles of the cells are separate systems that he patched together within a broader system -- the cell. He'd start with two blobs, decide one should be smaller, leave a little space between them, add another element that fits accordingly, and so on -- a way of integrating different systems within a larger one, with each layer interacting with the others. He has a huge practice behind that, so he can figure it out at that level, but for someone still curious and starting out, layering things is the main thing I wanted to experiment with.
+
+As for the writing -- once I had the mountains, I wondered how to bring in other ideas. Some outputs felt complete on their own, with very thin ridges and a lot of emptiness -- some of those could be rendered with a brush pen and stand thicker, standing on their own. Others needed to be complemented, or could at least support additional systems. My scientific background came back here too -- like scientific figures, where you have one figure, one legend, and by the time it's all typeset it looks beautiful, but there's a lot of work behind it that you don't see because the elements were carefully separated.
+
+This also carries over from a previous project with TENDER, where I tried to make each page feel like part of a book. What would the story of a book be -- front pages, intermediate pages, and so on? It seemed like a good number of the outputs could support that kind of page treatment. Others could stand alone. One could support clouds. Again, these are like bigger branches -- variations, but not different enough that they needed to be separated into different drops.
+
+Trinity: Looking at the previews on Verse right now, they're actually scans -- not digital outputs, but actual scans of the plotted work. Can you speak to the importance of having this physical element baked into the release from the start, rather than it being purely digital?
+
+Pierre Casadebeig: I remember Dan Catt saying it was lazy, so I'll say that about myself too. But at one point during exploration, the interesting thing is that you code a line, and then when you change the device on the plotter -- using a broad or narrow nib, or a brush pen -- the line completely changes. It's a huge shortcut: you use the same code and get different shapes on paper. But if you lean into that, you lose the sense that the digital version still matches the paper one.
+
+To go back to the Golan Levin example -- he actually coded the paper part too, so that's twice the work. It seems more sensible to me to avoid coding aesthetic effects to simulate ink on paper, and instead let the final output really be the paper itself. Some digital versions end up quite close to the scanned paper, and some are very far from it.
+
+The broader Japanese woodblock print logic is also a big inspiration -- partly for the sheer aesthetic of simple elements and poems, but also for the model of production. From what I've read, there was a separation of roles: one person did the carving, another did the coloring, another handled distribution. I feel more at ease with that kind of system in generative art. The plotter does the printer's work, Adam and the platforms handle distribution. Otherwise, you'd have to be a full-time artist, and even then, having one person do all the layers isn't just difficult -- it's really, really hard, and it has to balance against work-life and family life. This kind of role separation suits me.
+
+Will: I didn't put this in the notes, but I want to ask some market-related questions, because I heard from Adam that you're actually pretty keen on observing the market. You've said yourself that just watching generative art from the sidelines while working on this project, things move so fast. So even though you don't release a lot, you seem to have a good sense of what's going on.
+
+To kick it off: you've only been doing this for a bit more than a year, and some of your initial one-of-ones sold for a lot of money. I don't know how the *Ridge Regressions* auction will pan out, but some people bought TENDER passes specifically because they were excited to collect your work. What do you think allowed you to break through all the noise so early on?
+
+Pierre Casadebeig: Yeah.
+
+Will: Where do you think your success came from? Random luck? Offering something that looked different? It's on OBJKT, right -- you didn't even put your earliest work on fx(hash), where there are a lot of eyeballs. I find it can be hard to find things on OBJKT. Talk a bit about those early days -- what it felt like to say, I'm going to make some mountains, I'm a scientist but I'm going to make mountains, and then suddenly have people trying to spend thousands of dollars on them.
+
+Pierre Casadebeig: Yeah, that's not at all fueling my impostor syndrome -- not at all. Joking aside, I think it would be interesting for other artists to hear an honest answer to this too, so they can feel more comfortable asking it. In my case, I think it's a mix of things. It's not pure luck, but there's definitely an algorithmic element -- getting retweeted by Zancan, being associated with him, maybe even unconsciously, since we both work with nature and have a similar profile. My posts got shown to some key people without me really doing anything to make that happen. So I put a good amount of that down to luck, without fully understanding the mechanics behind it.
+
+The other part, and I don't have a clean explanation for this, is that representing nature speaks to a lot of people. It almost feels too easy from the artist's point of view -- you make a mountain, and it sells. If I did something abstract, I'm not so sure it would land the same way. So, a bit of both: luck, and nature speaking to a broad audience.
+
+Will: Have you ever considered doing abstract work, or have you only explored these natural themes so far?
+
+Pierre Casadebeig: Yeah, no, I'm very bad at it. Something I use to guide myself when watching my own output is an analogy with music: if you hear a catchy tune, you get excited immediately, but usually I notice that it doesn't get a lot of play over the years. So I try not to keep the things I'm very impressed by at first. I prefer things I understand slowly. In this case, I try to stick to that rule when choosing what to release.
+
+Will: Gotcha. Trinity jumped off for a second, but she'll be back.
+
+Pierre Casadebeig: No worries.
+
+Will: The last year has been pretty brutal, right? You've had one drop on Verse, but you've been pretty quiet overall. Looking at your website, it's not like you have dozens of projects up there — it seems like you're very deliberate and intentional with how you release your work. Do you have a philosophy about this? Are you following platforms and seeing which ones have a lot of interest, or is it more a function of having a full-time job and a family, so it's done when it's done, and that's what dictates when you release something?
+
+Pierre Casadebeig: Definitely the second option. When I realized I wanted this to be more than a hobby — in France, in research, you have some facility to take part-time positions — I dedicated one day a week to art and the other four to my job. So I work on art one day a week, and if I can manage two releases a year, that's perfect. That's really the only way to pace myself. It's also easy to not be satisfied with your work — you try a lot of things, you plot a lot of things, and there are more outputs and sketches on my website than there are NFTs.
+
+You also mentioned crypto a while back. One effect I've noticed is that it creates a huge split between the open-source community — people making art on their own, exchanging tips — and people just using crypto to authenticate and distribute their work. The open-source crowd tends to associate that with speculation and can be quick to cut you off for it. So on my part, I decided to rely on very specific, timely releases and not put a lot of weight on NFTs. But the space seems to be getting better with the years. Maybe the crypto slowdown last year helped avoid a flood of PFP projects, and there's been a shift toward taking more time between releases, so it does seem to be evolving in a good way. A lot of people from the p5 community are also releasing on Art Blocks and elsewhere now, which feels like they're accepting crypto too. Definitely positive signals for me.
+
+Will: Have you explored or talked to other platforms? I doubt Art Blocks would work unless you went back to JavaScript, but a platform like Tonic — I don't know if you're familiar with them — every release they do has a physical component. They even did a generative chair last year. Have you explored other platforms, or is it more inbound, people like Jamie from Verse or Adam from Tender coming to you? Do you just sit back and let the requests come in?
+
+Pierre Casadebeig: No, it's really about the people. I knew Adam first — he's very accessible, gives me feedback, and doesn't try to control the interaction too much. That's why I felt comfortable working with him despite not releasing much before. With Verse, I don't even remember if I contacted them or the reverse, but the fact that they proposed physical installations and an exhibition was reassuring — it was the first time my art was hanging on an actual wall, not just something on-chain. Those are the two reasons I've stuck with them, and I'm happy with that for now.
+
+Will: What kind of notes or feedback did you get from Adam? We've had him on the show a couple times, and he's always reluctant to talk too much about his process. To the extent you feel comfortable saying — what did Adam bring to the collaboration that you really benefited from? Did he play a big role in helping you craft those initial p5 projects, get them into a state where you were happy? Did he influence *Ridge Regressions* in ways you wouldn't have thought of yourself? I'm curious what the collaboration was like for you.
+
+Pierre Casadebeig: There was a difference between this project and the one that wasn't released. On that earlier one, he was very active, saying "this is working, this isn't," giving stricter and stricter guidelines. Eventually there was so much to explore that I just stopped and went back to my own language and expressions. On *Ridge Regressions*, it was more about reassurance — saying, okay, the stuff with the brush pen, simple as it is, works, don't worry. You always hit a point where you think your work isn't enough, especially seeing other artists progressing so fast, and you think, "I'm not going to release anything." So it helped a lot to have him say, "this path is working."
+
+The other thing that helped a lot on the first release was curation. For each style, we generated about 500 outputs, and then went through a curation step shaped partly by geography. It was good to let go and have outside eyes selecting things — that was really valuable.
+
+Will: I want to jump back to data. You've experimented a bit with plants, and said the data wasn't super useful there. You've obviously found a lot to uncover in mountain range and geological data. Do you have a running list of future data sources you might want to explore? What else might appeal to you, or what other potential is out there? I'm thinking of Thomas Lund Peterson, who talked on Ken's podcast last year about going out into the wilderness to collect electromagnetic field data — getting far from cities, basically trying to listen to the atmosphere. There seems to be so much potential here, but it's also a challenging thing for artists to work with. What else has come to mind as a potential area to explore?
+
+Pierre Casadebeig: Yeah, sticking with data — I think it was Matt Delaury with that electro device.
+
+Will: Yes, yes.
+
+Pierre Casadebeig: One option is to go with more detail. There are lasers embedded in planes — LiDAR — that give very precise descriptions; you can even make out individual trees in a forest. That data has the same properties as what I'm working with, just elevation data, three-dimensional, but much bigger to read and slower to process. I'm genuinely trying to work with that. The problem for now is that with so much detail, the outputs get very realistic but not necessarily meaningful yet.
+
+The other direction is what you mentioned — new sources of data. Scientific simulation models, for instance: you can simulate the level of stress on a crop field day by day for different crops, and that's also three-dimensional data. I haven't had time to explore it, but you could also use generative models that produce chunks of data, then patch my process onto that and explore from there.
+
+Another option is something like global temperature data — thinking about what story you could tell with it. Maybe properties of the data could change with time, temperature, water level. I tried something with rising sea levels over time in the Pyrenees, but it came out a bit gloomy — I'm not sure it's something people want to easily see, or whether "time passes and we're going to flood" is too simple a message. So that one didn't quite work. But there are still many possibilities within the constraints of data.
+
+Trinity: Cool.
+
+Will: We usually wrap up with a few rapid-fire questions to get to know you better. One we like to ask: what do you listen to while you work? What kind of music do you like? And feel free to throw in any media recommendations — I actually really enjoyed a French film this year called *After the Fall*.
+
+Pierre Casadebeig: I don't know if you—not in it, but yeah, them too.
+
+Will: It was really good, and a lot of it was in English, which was great for me. What do you like to listen to while you're coding?
+
+Pierre Casadebeig: That's a tricky question — hard for me to say what my top ten is. But honestly, a lot of things. Mainly electronic music, ranging from mainstream like Radiohead to shoegaze, something like Moon Duo. I just start something, and if the music doesn't fit, I change it until I find the mood for the day or the coding session. Sometimes, not often, I'll use noise-canceling to just get silence and focus. But usually I'm coding with music.
+
+Will: Gotcha — electronic music and shoegaze, those two come up a lot. There's something about coders liking that repetitive quality — it's there, but it's not distracting, and you can just chill and work.
+
+Pierre Casadebeig: Yeah, it happens with classical music too — Steve Reich, for instance. I think the common pattern is: as soon as it's repetitive enough, with no lyrics you can latch onto, it hits the right spot of abstraction.
+
+Will: Another one we sometimes ask, since you've made some money from your sales — any artists you collect that you want to shout out? Have you explored much on the collecting side?
+
+Pierre Casadebeig: I don't collect much. The key pieces I have are from Zancan, and from Emily Edelman — she makes a series called *Asemica*.
+
+Will: Yes.
+
+Pierre Casadebeig: And recently one from Golan Levin. Beyond that, the things I'm drawn to are just unreachable — *Meridian*, of course.
+
+Will: We actually just talked about the Golan Levin release last night, on our weekly episode where we cover new drops. I've seen a lot of big artists talking about how much they love that release, but when you look at the market reaction, it sold out and did fine, but underneath, I think, the value a lot of artists expected. Where do you think the disconnect is between artists who really appreciate it and collectors who bought it but now can't seem to sell it for a profit?
+
+Pierre Casadebeig: I really have no idea what makes people collect and expect a profit, except maybe picking up on social trends and thinking, "lots of people seem into this, so there must be more demand than supply." As for collectors not being interested enough — it seems like huge formats, abstract work, and color are still very appealing. I'm not passing judgment, but I often picture huge abstract pieces on blank walls in huge houses — very appealing. Outside of that, I'm not sure what the mainstream of collectors wants.
+
+Animated pieces are interesting, especially in this case, because Golan spent so much time animating all the little elements and making them interact with each other. But I have no idea how you'd display that. You could print them, but I'm not sure people get excited about having a "weird cell" on the wall. And digital frames — I'm not sure the technology is there yet to support that properly.
+
+Will: I have a Samsung Frame, and it's very good at displaying static pieces if you put in the work to get them in the right resolution and size. It doesn't intelligently resize the art to fit, so it's actually a really annoying process to get your art up there. And if you want to run something live off the native browser, it's really bad—the best way is to mirror a computer up to the screen. We're still really behind on that.
+
+Pierre Casadebeig: I'm not embracing it too much myself, but I can definitely see it becoming something. If there's development in how digital art gets shown—beyond the virtual gallery model—I think it'll draw more people in. I spoke a bit with Zancan about interacting with the community; he does that a lot to get feedback and pick up on trends. Even though I'm not into that myself, I think it's a really peculiar thing about Web3 art specifically that could be translated into the work itself. That'll be interesting to follow over the next few years.
+
+Will: Looks like Trinity isn't coming back—she had a work emergency. Let's do one or two more and wrap up. Another question we like to ask: who would you like to hear us interview? Who would excite you as a guest on Waiting to Be Signed?
+
+Pierre Casadebeig: I'd need to read through the podcast's history to know better, but I've listened to a bit of Marcel Schwittlick. Did you ever get the chance to speak to Matt DesLauriers? I'm curious about him—he has some really striking work, and he's also very active in the open source community, giving a lot back while balancing that with crypto. I've never met him, and I'd love to hear him speak about it.
+
+Will: Not yet—he's definitely on the list. Especially after hearing him on Ken's show, he sounds like a really interesting guy to talk to. We haven't reached out yet. Sometimes it takes us a few months to get warmed up and figure out how to build an episode—though we got yours done quickly. But yes, he'd be an amazing guest.
+
+Pierre Casadebeig: Also Aluan Wang—he makes a lot of interactive art. He doesn't post reactions much, but when he does, I really enjoy his thoughts. I wonder how he sees the movement, since a lot of people here have been around since way before Web3. That's the hard part for newcomers: acknowledging all the development that came before, learning it, and finding our place within that. I'm very curious about the people who've been here a long time.
+
+Will: We've both collected some of his work on fx(hash), but no, we haven't had him on either—he'd be a great guest. Thank you for those suggestions. Lastly, tell us what else might be coming up from you, other than *Ridge Regressions*, which comes out February 6th on Verse. Anything else you're working on that you want to get us excited about? I guess this is one of your two releases of the year, maybe?
+
+Pierre Casadebeig: Maybe, yeah.
+
+Will: Maybe toward the end of 2024—maybe you haven't even started it. But if there's anything you want to tease, please go ahead.
+
+Pierre Casadebeig: There's this thing called plant blindness. In a landscape, you hear a lot of animals—mammals, insects, birds—and think, okay, there's a lot of life here. But really, you're standing in a forest full of plants, and you just don't see them. I'm trying to stick with that idea—that we need to showcase more plants and find a good way to do it. I'm still trying to link plants and calligraphy, because I really like that aesthetic. We'll see—hopefully by the end of this year I'll have something out.
+
+Will: Did you ever see the video of someone recording plant sounds—a plant making noise at a frequency people tend to ignore, but that you can actually technically hear? It seems similar to what you just said about people tending to ignore plants.
+
+Pierre Casadebeig: Do you know what that is? There are a lot of different things happening. One is about water movement in plants—with the right devices, you can detect it, especially during drought, when bubbles form in trees. That's really just listening to them draw water from the soil, no special meaning behind it. The other is interaction with pollinators—leaves vibrate, and there's some kind of recognition based on sound. It's a tricky subject, because it's easy to anthropomorphize and say the plant "sings" or "communicates," when it might just be adaptation and randomness. I'm usually very cautious with this kind of news, but there are still ways living things communicate that we don't directly grasp. There was also the idea of mother plants and saplings exchanging signals—but when the research went further, they found no real link. They're connected, but there's no actual exchange of nutrients.
+
+Will: I've seen so many weird plant science things on TikTok. There's one where if you put a plant in a room with random lights, the plant predicts where the light is going to be. Have you seen this one?
+
+Pierre Casadebeig: No, not at all.
+
+Will: I'll find it and send it to you on Discord. I think they're trying to prove it's either plant intelligence or some kind of quantum link between plants and light—without training, they'll grow toward a future light source that's being determined randomly, with statistically significant consistency in picking right versus wrong. We can talk about that next time.
+
+Pierre Casadebeig: Yeah, you can tell me if it's real or not.
+
+Will: I sent it to my brother, who's a PhD, but I don't think he actually looked into the paper.
+
+Pierre Casadebeig: In short, I think cybernetics originally was just a definition of taking in different signals, integrating them, and reacting—a form of reaction and intelligence. If you stick to that and say plants are interacting with different signals, there is a form of intelligence there, even memory. But if you push the idea too far, you get all these wild theories. Still, definitely a cool topic.
+
+Will: Mushrooms are aliens, all that stuff. Well, Pierre, it's been awesome to have you on. We're really looking forward to your upcoming release on Verse, and to seeing something from you at the end of 2024 too. It's been great getting to know you—hope you enjoyed it. I think that's a wrap.
+
+Pierre Casadebeig: Thanks so much, Will, and Trinity too. It was definitely enjoyable, and easier than I expected to explain all this. Thanks for the thoughtful questions.
+
+Will: It's fun to talk science. That's it for this one—we'll be back soon with another episode. Thanks for listening, everyone. Bye-bye.
+
+Pierre Casadebeig: Thanks a lot. Bye. Always listen—we're waiting to be signed.

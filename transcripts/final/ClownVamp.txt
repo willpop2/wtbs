@@ -1,0 +1,419 @@
+Will: Hello and welcome, everyone, to another episode of Waiting to Be Signed, a special interview episode. I'm joined by Trinity as always, and today we're joined by ClownVamp. How best to describe ClownVamp? A well-known collector from the market action feed, right? Hey, how's it going, Clown?
+
+ClownVamp: It's great. Transylvania is very warm and sunny today, and the world is... there's lots of good art out there.
+
+Will: Yeah, for sure. I fumbled that introduction because I think you're the first peer collector we've had on that we don't really know anything about publicly. Mostly we just talk to artists, so it was a little hard to get you introduced there.
+
+Trinity: We know you through your collection. We know you through going deep on certain things. Even just browsing your collection earlier today, I think I crashed one or two websites just because it's so vast and enormous. It's pretty special. So congratulations, it's crazy cool.
+
+ClownVamp: Thanks. I love it and I'm happy to talk to you guys about it.
+
+Will: Thank you so much for agreeing to come on. We'll do our best to help you maintain your anonymity and privacy here. As is traditional for any interview episode, to the extent you're willing to share, can you give us a description of who you are, your background in art, crypto, and NFTs, just so everyone has some context as we get into the discussion?
+
+ClownVamp: Yeah, for sure. I've always done a lot of work in technology, but also art and creativity, and I've always been someone really interested in patterns and why certain things are the way they are. I never understood crypto at all until NBA Top Shot. I was not a basketball fan of any sort — I do not like sports, I'm not a sports person — but one of my friends said, "Hey, you should check out Top Shot, it's really cool." I'd been one of those people who bought Bitcoin back in 2013 and then sold it a couple years later, and I thought I was really smart because my money doubled and I got out of "this Ponzi." Between 2015 and 2020 I'd tell anyone who'd listen how dumb crypto was and how it was clearly never going to last.
+
+So Top Shot was the first time I actually got it, because it answered all these fun questions that, as someone who liked to collect things, instantly clicked: oh, you actually own this, and you can trade it, and you get all the fun parts of collecting Pokémon cards or art or anything, without having to deal with the physical stuff, which is actually kind of annoying in practice. So I went deep down the Top Shot rabbit hole, still fully not knowing anything about sports, and was part of that wave where if you'd bought anything on Top Shot you somehow 10x'd your money and felt very smart. I luckily sold most of it near the top.
+
+Then I started doing a lot of reading and digging in, and bought some Art Blocks relatively early — not as many as I should have. I think my first few purchases on ETH were a couple *Chromie Squiggles*, a Hashmask, that kind of thing. I laid low for a bit, and then sometime in spring 2021 I started being a really aggressive minter of a bunch of projects that have since become blue chips on ETH. It was well-timed, right place right time, and I ended up with a really big bag of ETH NFTs.
+
+At some point I stopped, because it started to feel purely speculative. Some of the collecting, some of the geekery, some of the Pokémon-card-esque nature of it started to fall apart. I really loved NFTs, but I was exhausted from ETH, exhausted with all the drama, exhausted with the financialization of it. Then I started seeing people talk about Tezos — I saw Cosimo post about it, saw people mention it here or there. I wrote myself a note that said "check out Tezos," and at some point I did. I was like, shit, this is really cool, look at these prices — instead of one cartoon JPEG, which I'm not knocking, I was really into that for a while, I could buy literally seventy pieces of art. That started the rabbit hole, and here we are.
+
+Will: Just for clarity, when you say a lot of the ETH drama and collectible stuff, are you referring to PFP stuff?
+
+ClownVamp: I was a big PFP-summer sort of person. I'm not anymore. There's still drama — now I just read about it to keep up. But it lost some of the fun, special feeling, partly because people made so much money off it that it's hard to retain that magical quality.
+
+Trinity: Well, it sounds like it treated you pretty well, and then, as you said, it allowed you to come over to Tezos and go deep and get everything you could possibly want instead of that one weird —
+
+ClownVamp: Exactly.
+
+Trinity: So what were some of the first things you saw when you came over to Tezos? Was it more the HEN era? Were you just browsing OBJKT?
+
+ClownVamp: This was fully in March, so about two months ago. I saw fx(hash) relatively early — someone I saw on Twitter posted a link to the TENDER page. I remember going through the icons list, clicking on stuff I thought was pretty, and using that as a shopping list. Then I started looking through Cosimo's wallet, seeing some of the stuff he bought — that's how I found Sem, who's probably one of my favorite artists on the non-generative side. I remember that first week I felt like a kid in a candy store. I think I bought something like 900 NFTs in a week — insane. I got this sense, one I've had with other things in the past, of "oh, there's something special here, and timing-wise, there's something special here, and I should just go all in." So I did. And I still am.
+
+Will: Are you all in, free-rolling on the profits you made on PFP stuff? Or are you constantly putting in new money? To the extent you feel comfortable saying — clearly you're a big collector, and that's one of the reasons we wanted to talk to you — are you taking the position that this is art, this is here to stay, and I'm putting my profits into it? Or are you actually constantly putting in new investment?
+
+ClownVamp: With NFTs in general, I'm net positive by a lot, so I'm not putting my kids' college money into it, if that makes sense. I've sold maybe two or three things total — there were a couple I sold because I was taking too long to get liquidity, then bought back afterward. Out of roughly 3,400 or 3,500 NFTs now, I've sold two or three that I haven't bought back. So I'm not a seller. That doesn't mean I'll never sell, but I'm buying to be a very long-term holder.
+
+I do think there's a world where, if fx(hash) has an "August of last year" moment like Art Blocks had, I wouldn't hold everything — I'd do some selling if there were some blow-off-top moment. But that would be a great problem to have.
+
+Trinity: So it sounds like you think we're still really early. As somebody who came in around week three or four, it feels so late.
+
+ClownVamp: Really? Wow. No, it feels really early. Obviously not financial advice, but I think about the fact that you can buy art that's visually stunning for like $60 on fx(hash) — to me that feels super, super early. Let me back up a second. My general investing thesis on this stuff is: I love collecting, I love art, so I want to do that, and then where can I best act on that? There's some IRL art I do, but with this stuff, a lot of it is, "oh, this is a place where I can buy art I like, in the quantities I want."
+
+On the downside scenario: if all this goes to shit, if Tezos goes to ten cents, will I be happy with the stuff I bought relative to how much I spent on it? Absolutely. That's how I think about the downside. On the upside: Tezos is at $1.80 right now, its all-time high was $8 or $9. There's obviously some drama with the Tezos Foundation, but it's one of the more-used blockchains, actually. Cardano is worth something like $18 billion, and Tezos is worth like $1.5 billion. So there's a base-currency scenario where, if Tezos ever went to $10, you'd get this effect — though I think we're pretty far from that since we seem to be in a crypto bear for a bit.
+
+Then, with NFTs, the thing I learned trading cartoons is that it's all about the marginal dollar — it's all about liquidity. In NFTs it's liquidity, liquidity, liquidity. If there's money flowing in, price goes up. That's the simple thing. You see this every time a new collector comes over to Tezos or fx(hash) — prices just shoot up dramatically. The finance term is reflexivity, and it's really reflexive: a little bit of money starts driving the price up really dramatically.
+
+So in terms of why I feel comfortable from a finance perspective: one, I'm just not putting in an amount of money that would stress me out at all if I lost it. That's the important first thing. The second thing is I have a bet: A, can the base currency go up dramatically? I think that's a pretty decent bet. And second, is there a world where 5% of the Art Blocks collectors, the people on ETH who love some of these artists who are also on Tezos, discover Tezos and come over and start spending money? Yeah, we know they do — that happens all the time. So do I think that scenario could happen? Absolutely.
+
+All that to say, none of that might happen, and you shouldn't put your kid's college fund into Tezos NFTs. But if you really want to collect stuff, I think the risk-reward ratio is a lot better than it feels with ETH NFTs. I also think a lot about emotional risk-reward, and that feels much better with Tezos NFTs — the reward is you get to help artists who are doing really interesting stuff, building communities, doing really cool work, and you get amazing art, and the risk on a dollar basis is a tenth or a hundredth of what you'd be spending on ETH.
+
+Will: Wow, so much to unpack there — that was a great high-level explainer of how you look at everything here. I think for both of us, we never got involved in PFP stuff, and the thing that always turned me off about it was: you're investing in something that hasn't materialized yet. You're buying into the vision of someone who's often not doxxed, who has this extensive roadmap saying, "if we sell enough of these, we're gonna make something cool and return value to you." And it seems like 99% of the time that doesn't materialize. At the end of the day, if you're holding a bunch of projects that never go anywhere, what do you have? Just a bunch of derivatives — little penguins or dogs or apes or whatever — that you're not gonna look back on.
+
+Trinity: That's a Lonli hat, sure.
+
+Will: Some people authentically like that art, and I'm happy to be their exit liquidity later. But at least with this stuff, there are real artists here, interacting with the community. There's real potential for someone to rediscover this work in 10 or 20 years and for it to have meaning in art history, which I don't think you can say for a lot of PFPs.
+
+ClownVamp: I definitely think CryptoPunks are going to have a big place in art history. But that's so different from the cartoon Bored Apes and all that kind of stuff. The generous way of looking at PFPs is that they're basically Pokémon cards for millennials who grew up with them and now have disposable income—it's a fun way to relive that. But generative art is a really serious movement. It's been around since the '60s, from what people say, and it's clearly going to be a key phase in art history.
+
+If you look at traditional art, money and attention are actually really important to the canonization of art—to who we deem important. So the fact that Art Blocks generative art projects have sold for millions of dollars is genuinely important to getting people to recognize generative art as a major movement. Do I think the artists on fx(hash) are somehow less important than the ones on Art Blocks? No, that's silly. There's a really strong argument for what's going on in Tezos and fx(hash)—setting aside how beautiful and emotionally fulfilling the art is, there's a rational case for it too.
+
+Trinity: I think the first time I started seeing you in the sales feed was back in March, and this ties back to something you said earlier about reflexivity—I believe you were the person who triggered the massive run on *Astronomic Comics* by KilledByAPixel.
+
+ClownVamp: Oh yeah, maybe. They're really pretty. I have a lot of them.
+
+Trinity: It'd be interesting to dig into that, because I think it was a project that either didn't mint out or minted out over a very long period.
+
+Will: It was pretty slow.
+
+Trinity: Super slow, which tracked with some of the other big drops we saw around that time, primarily *Sedimentary Dissolution* by Landlines. We've seen this with other projects you've swept up—I sometimes call you a vacuum—where when you go after something, the floor rises massively. We saw it with *Astronomic Comics*, several Lisa Orth pieces, a couple of things from Nudoru. Floors rise hugely, then retract just as much. *Astronomic Comics* is back down to where it was when you started sweeping—not to give you any ideas.
+
+ClownVamp: I'm looking right now.
+
+Trinity: How do you feel about buying things at a higher price than you might get buying more slowly—about being someone else's exit liquidity, without necessarily seeing immediate returns?
+
+ClownVamp: Woefully unstressed by it, for a few reasons. You're seeing this right now with RGBs and Contras—I kind of feel like any of this stuff could explode at any moment. Not to FOMO myself, though I do that plenty. Those RGBs were like $900 ten days ago. I'm also such a fan of fx(hash) that I think some of these pieces are undervalued. Take *Deconstructed*—I love it, I think it's beautiful and gorgeous, the movement's really cool, and I bought a ton of them. That's an example where the price has gone up quite a bit since, because Dimitri—the Ringers guy, I can't pronounce his last name—tweeted about them and the prices shot up. There are a lot of examples where I've bought with size and scale and it's paid off: I bought a lot of Smolskull sub-$100, and now they're at like $170 to $200.
+
+My general thesis is that there's a window of time here where Tezos isn't that expensive relative to its historical high, or relative to other cryptocurrencies.
+
+Will: fx(hash).
+
+ClownVamp: —still feels like, and this isn't my phrase, the East Village galleries of digital art. Everything is still relatively affordable. So I don't really care if I'm spending 20 Tezos or 40 Tezos. If it's something I'm going to hold for a long time, and I think the upside potential is really high, and my downside is just holding it rather than selling at a loss—it doesn't really matter. I'd rather have more of things than less.
+
+Trinity: I mentioned earlier that I was crashing websites looking at your collection, and I noticed you have one or two RGBs and two Contras—obviously some of the bigger runs from this past week. A theme we often talk about on the show, and see a lot on Discord, is consolidating into grails or blue chips—which on fx(hash) would be the Contras, the RGBs, the Looms, the Dragons, what have you. Do you feel there's a balance between spending, say, 1,000 Tez going deep into *Astral Loom* by Lisa Orth versus buying 10 Contras—well, not 10 anymore, 3 or 4 Contras, 10 Looms?
+
+ClownVamp: Great question. I actually sold one of my RGBs, so I now have one—that's one of only three things I've ever sold. What I enjoy is being part of inflections; that's where I find emotional satisfaction. Practically, that means with the non-generative artists I collect, I talk to a lot of them every day—I'm behind the scenes helping them, connecting them with people. When an artist starts to take off, that's so emotionally cool to see, and I love being part of it. That's really fulfilling.
+
+Part of why I left ETH is that I don't enjoy collecting grails. It's cool, and I feel like I kind of need to have one—Zancan's work is incredible, I love my *Garden*, I love my KGMs, I'm going to get a print of my *Garden*—but it's not as emotionally fulfilling as discovering Zancan before they became literally generative-art-textbook status. So I don't find it emotionally fulfilling. Maybe that's good financial advice, but again, nothing I'm saying is financial advice—I'm just doing stuff because it's fun. I don't enjoy collecting three grails as much as 30 pieces from an artist I think has a lot of upward potential.
+
+Will: I'm curious—you've mentioned Pokémon a couple times. Have you played Magic: The Gathering?
+
+ClownVamp: I have, but not in a long time.
+
+Trinity: Will, do you want to play Magic: The Gathering?
+
+Will: One, yes, you can come play with us anytime. But the reason I asked is that the way you just spoke—Trinity, you'll know exactly what I mean—you sound like a Johnny.
+
+ClownVamp: What's a Johnny?
+
+Will: The lead designer of Magic: The Gathering writes—I think he still writes it—a weekly design column about the philosophy of making the game. Magic has been around for over 20 years; it's got an incredible legacy and is basically the pinnacle of game design. He wrote a series of articles breaking down player psychographics into three buckets: Timmies, Johnnies, and Spikes.
+
+Spikes only want to play the best deck and are completely agnostic about what the cards actually are—if it's the best on raw power level, that's all they want. That's kind of like the grail collector.
+
+Trinity: Or our flippers.
+
+Will: Or flippers—completely agnostic. They see some trees and grass, and they're just going to bot the hell out of it and try to flip it. A Johnny is someone who wants to win, but wants to win their own way—novel and unique. Kind of like what you just described: it's not fun to win with grails, you want to make your own grails, and show everyone you have taste and an opinion about what's cool—that there's real value here, and everyone else should pay attention to what you're doing. I appreciate that, because I'm kind of a Johnny too, in a lot of ways.
+
+ClownVamp: Our Johnny caucus is going strong. I definitely feel that way. With Art Blocks, I dabbled super early—bought two Squiggles at sub-0.5 ETH. When they started taking off, I thought it was really cool, and then I just lost interest because it all got so expensive. A big part of it for me is the fun and emotional enjoyment of discovery.
+
+There's a couple of non-generative artists I feel like I started collecting right at their inflection point. The one that comes to mind is C3, an amazing Iranian protest artist—I collected a bunch of his 1/1s around 800 to 900 Tez, bought an ETH piece for 0.9, and about two weeks later he started this insane run that's still going, where his last Super Rare piece, his Genesis, sold for 7 ETH—double his all-time high from the week before. I feel like that pattern's going to keep going, and that's so fun to me. I love cheering him on, love seeing what he'll do next. But I'm not a buyer anymore—I'm a collector and a holder. I'm not going to spend 7 ETH, but I love that he's getting there. That's so cool to see.
+
+Trinity: There's another psychographic framework, more from MMOs, with four key player types: explorers, killers, achievers, and collaborators—I forget what it's actually called, so let me know if anyone does. But there are people in it for the community, the experience, the multiplayer, the cooperation—and it sounds like that's really where you sit, more than anything else.
+
+ClownVamp: Yeah, I really enjoy the social dynamics, and I really enjoy finding something unexplored. I have two wishlists—an fx(hash) wishlist and a general non-generative Tezos wishlist. There's like 370 people on there I've seen but haven't had a chance to explore yet. When I'm bored, I go through them. That's why it sometimes seems random to people—like, where the heck did that purchase come from? It's because I wrote it on a list three weeks ago and finally got to it. There's just so much cool stuff.
+
+Will: Who's on the list? Who haven't you gotten to?
+
+ClownVamp: There's a lot of stuff on the list. We're not ending anytime soon.
+
+Trinity: Yeah.
+
+Will: I probably shouldn't say, since you don't want people jumping in ahead of you. I'd love to follow up on something you talked about and also dig into some of the specific artists you've collected on fx(hash). What's your philosophy on how deep you go, versus floor sweeping? You said you haven't sold yet, but you will in the future. Is it that you want 20-plus pieces so that when you sell 5, you still have a great collection for yourself, or is it more—
+
+ClownVamp: There's definitely an element of, if I'm buying in size, it's mathematically going to move the floor up. And I'm not mad about that. The main reason is, like I said, I'm not a seller right now, but I'm also not one of these people who'll never sell a single piece. If something I buy goes up 80x, 100x, I'd love to be able to sell some and buy other art, but still have a lot left. So if I own 20 or 30 of something, I can sell 5, 10, 15 and still have a collection — and I'd obviously never sell my favorites. That's the rationale.
+
+Will: Trinity, this seems like a good opportunity to start talking about some of the specific collections Clown has gone deep on.
+
+Trinity: I think it's both collections and artists.
+
+Will: Mostly artists.
+
+Trinity: There are a couple of collections I've noticed where I don't even think the project minted out, but you have 20 of them.
+
+Will: Which isn't necessarily a bad thing.
+
+Trinity: Not at all — it shows great belief. But do you want to start with artists or pieces?
+
+Will: The place I wanted to go — and I think the clearest example of someone Trinity and I both talked about and collected a lot, who then finally had that breakthrough moment Clown was describing — is Lisa Orth. The amount of her work you have in your collection is striking. I feel like she was perennially undervalued until that run that happened around the Beta to 1.0 launch. I think you were a big part of that. How did she rise to the top of your list, and how did she come to occupy so much of your collection?
+
+ClownVamp: I view fx(hash) as a community I'm a new member of. You'll sometimes see me ask really ditzy questions in the Discord because I just want to learn. I'm constantly consuming a lot of inputs, and one of the early ones was noticing which artists had their own channel in the fx(hash) Discord. I figured, if this community has decided over months that these 8 or 9 artists are worthy of their own channel, I should take a close look at all of them. So I did, and I loved her art. Something I really liked in general was that all of her collections were consistently incredible and different — even though she has a distinct style you can recognize, I was impressed by how consistently great the work was. The logic became: this is someone who's shown, multiple times, that she's incredibly talented. And there were a few of her projects I thought were just underpriced, so I went heavy on those. She seems like someone who could run the distance career-wise — in 20 or 30 years, she'll be in the generative art section of the art history books with a big section on her.
+
+The other thing I always do is look at every artist's Twitter before going deep, because I don't want to go heavy on someone who seems to have given up, or who had one great project and then disappeared. Lisa is very engaged, very communicative, doing new and interesting things. That was appealing too. It was honestly kind of shocking how underpriced some of her stuff was relative to where I thought it should be — or could be, or maybe now is.
+
+Trinity: *Astral Loom* was half of mint when you started your run — I'd picked up one or two right before that, and then it was like, whoa, this is really going.
+
+ClownVamp: They're so pretty. I'm looking at my *Astral Loom* pieces right now — just gorgeous.
+
+Trinity: I think the other thing is, Lisa Orth specifically — maybe less so some of the other artists you've gone deep on — has already proven herself with a long, storied career spanning industries: music, PR and marketing, the digital industry—
+
+Will: Tattoo artistry.
+
+Trinity: —tattoo artistry, building and running a company successfully. This is just the latest chapter. I wonder if that factored in at all — understanding whether this person has what it takes to make things happen.
+
+ClownVamp: I didn't even know that about her, which is maybe a useful data point. I'm pretty inclined to take action — with any artist, if I think the work is really stunning, I'm actually more likely to hesitate, because I'm usually looking for reasons *not* to buy. With Lisa, I didn't go that deep. It was just: wow, there's a lot of great work, she seems active and engaged and thoughtful, okay, I'm going for it.
+
+Will: Were you aware she designed the Nirvana logo?
+
+ClownVamp: No idea.
+
+Will: That's how far back she goes. It's insane that she was so undervalued on the platform for so long, overshadowed by all these flavor-of-the-week drops, when she's been putting out amazing work with consistent color palettes and collections that cohere even though they're all different. It's strange how long it took her to take off.
+
+ClownVamp: I think part of it is — there's amazing, creative, insightful people doing stuff here. You start talking to them and they've done tons of other interesting things. That all checks out. But for me, the question is: is spending $2,000 on 100 Lisa Orth pieces a good decision? I don't know, but it feels like it. I'm inclined to act because I think this is a moment in time. I might be super wrong, but if I end up with 100 pieces from Lisa, I'm still going to be super happy.
+
+Trinity: There are a few you still don't have that I'd highly recommend you go back and get.
+
+ClownVamp: Good, good — I need this. This is your cue.
+
+Trinity: You don't have any of *A Center Near the Edges*, one of my favorite pieces of hers, from earlier in her career. Not financial advice, people — I still want another one myself, so if a run happens, so be it, I'll feel good about it.
+
+Will: Only one *Between Stations*? Tsk, tsk.
+
+ClownVamp: I think those are the expensive ones.
+
+Trinity: You have 2 of *Between Stations* — that's neither here nor there, I was just going to make that one recommendation. But another artist I've noticed you've gone really deep on is almost the inverse of Lisa — much less of a storied background in arts and culture, much newer to the space, and more of a technical genius than anything else. I'm talking about Nudoru.
+
+ClownVamp: Oh, he's so talented, it's crazy. *Cold Mountain* is one of the most incredible projects — I own a lot of it. Just watching it load is so cool to see.
+
+Will: Is it "he"?
+
+Trinity: It's he.
+
+ClownVamp: I'm a big fan.
+
+Will: Purely on aesthetics — you're just drawn to the work?
+
+ClownVamp: Yeah, I just think the work's really cool. *Cold Mountain*'s definitely my favorite. I own the most of *On the Sea*, partly because I minted a lot and then bought more since the price seemed low relative to the quality. I have a couple of *Action Fields*, which I'm fine with, a few *Sand Tables*, and some *Fractured Cells*, which I think are technically really interesting. I'm not a coder, so some of this might be easier or harder than it looks to me, but I look at it and think, how do you make that with code? That's why I like *Fractured Cells*.
+
+Will: *Fractured Cells* was actually his first project to take off on secondary.
+
+Trinity: Oh, cool.
+
+ClownVamp: At the end of the day, with a lot of this stuff, I'm mostly an aesthetic buyer — I'm looking for things I'd want to hang on my metaphorical wall. Sometimes literal wall.
+
+Will: Considering how many NFTs you have, how do you display them, if at all? How do you enjoy your collection?
+
+ClownVamp: Great question — I'm working on this. I did an OnCyber gallery that was really fun, 111 pieces. The plan is to do multiple seasons of it — that was season 1, and every month or two I'll do a new season to keep curating. There's a generative art room in season 1. Later tonight I'm launching a mini gallery of really rare one-of-ones, some generative work included. I'm also getting some pieces printed, and have some already printed for my walls. The OnCyber gallery stuff is shockingly fun — you get to relive and re-experience the collection, think about how pieces fit together, what should be near what. It's the same thing I liked about Pokémon cards. I won't say that's fully past tense, I've had recent phases — you open a pack, see what you got, think about whether to get it graded. That dopamine rush is really fun.
+
+Trinity: I don't know if you've had the pleasure of putting cards into a binder—
+
+ClownVamp: Oh yeah.
+
+Trinity: —carrying it around, flipping through the pages, flipping through someone else's binder, watching them flip through yours. It's a really intense moment sometimes. Not to geek out.
+
+Will: I honestly hesitate to recommend you get back into Magic, because it would completely derail everything you're doing right now — you'd be scouring websites for graded old cards. You can go so deep on that.
+
+Trinity: Honestly, probably a really good investment. And there's a 0% chance of that blockchain getting turned off at any point. So it's already cross-chain, folks. Already cross-chain.
+
+Will: I didn't mean to derail us from the artist discussion — I just thought that was a good opportunity to ask, since it's something I'm thinking about too. So far all I've been doing is making Deca Galleries. I actually just got my first print, but it wasn't even for a piece I own. Flight404 — if you know him — he did *Growth*.
+
+Trinity: Robert Hodgins.
+
+Will: Right, Robert Hodgins, *Growth 1* and *2* on Tezos, but he also did a piece on Art Blocks recently and sold a bunch of prints that weren't actually generated as NFTs — just purely ungenerated pieces. I got one of those.
+
+ClownVamp: Dimitri, the *Ringers* guy, sold a bunch of prints that were, I think, like 30 test prints from *Ringers*. They don't actually exist as NFTs, which I thought made it more interesting. I have one in my house — I don't own a *Ringer*, so I didn't want to put up some random one, but 30 that don't exist at all? Okay, sign me up. I think they're really cool.
+
+Trinity: I see photos of those on people's walls and think, that actually looks really fantastic.
+
+ClownVamp: It looks really good.
+
+Trinity: Makes me a little jealous. I've got to figure out the framing game — printing is one thing, framing is a whole other thing.
+
+ClownVamp: I have a framer close to my house who thinks I'm totally nuts, because I keep coming in with the most colorful, random stuff. He thinks it's really cool — he's always like, "Wow, where do you get this?" And I'm like, "Oh, it's this internet thing." Like, okay.
+
+Trinity: You've got to get him into the game.
+
+ClownVamp: Yeah, exactly.
+
+Will: Not to derail the artist question further, but I'm curious — you're so deep into this, and we've asked other artists this same question. Have you had a hard time bridging this, professionally or personally? NFTs and crypto are so—
+
+Trinity: Polarizing.
+
+Will: When you talk to people about this, do they accuse you of destroying the environment, or being in on some Ponzi scheme? Or have you had good success convincing people that what you're doing is actually pretty wholesome — like, top 1% wholesome as far as crypto goes?
+
+ClownVamp: Totally. I'm lucky that my boyfriend — I'm a gay clown vampire — is also into this stuff, but not competitively. I got him an NFT as a Christmas present, and that's the only one he owns, so he's more intellectually into it than actually into it, which is kind of perfect. He's really interested in me talking about this stuff without any of the competitive energy. It's ideal. And my dad's an engineer, so he's into the blockchain side of it. The people I really care about are all down with it.
+
+With people in general, though, I'm totally that guy who will fight about this. I have zero reservations about getting into it with people, especially when someone from the traditional art world criticizes NFTs. Unless you've never bought a fine art photo in your life — unless you've only ever bought hand-painted abstract paintings — you have no credibility with me to rant about it. If you like Andy Warhol but don't understand NFTs, I'm sorry, but you're just not a particularly original thinker. I know I'm getting heated, but I think it's so dumb. I fully go at people about it, no qualms, and I think I'm pretty convincing, to be honest.
+
+Trinity: You'll have to give the rest of us some talking points to take into the world.
+
+ClownVamp: I know this is a bit cringe, but I really like Gary Vaynerchuk's explanation. He asks people if they think an Instagram verified checkmark is valuable, and they say yeah, and he goes, well, that's the same thing — it's a digital good, an NFT in its own way. People really seem to get that: it conveys all this meaning even though it's not "real." I like that as a starting place with normies.
+
+Trinity: I feel like a normie every single time someone throws that word around.
+
+Will: I think anyone 35 and older is a normie at this point.
+
+Trinity: Heck yeah.
+
+Will: You mentioned a couple of projects when we were doing interview prep — Holo and *Drippy Cube* by iRyanBell. I'm curious what drew you to those. You've collected a lot of both — you have a ton of Holos, congratulations, we're big fans of that one too. Are you going to explore those artists' other work? I don't think you have much else from Jacek — maybe a couple older pieces, but nowhere near as much as you have of Holo.
+
+ClownVamp: I have a couple *Degrowths*, and I think that's it. Holo I just think is aesthetically incredible and stunning. One of the crowns of my collection is a red vertical Holo with birds and tourists, and it makes me so happy. Every single piece in Holo is so moving — I want to stare at it all day and think about it. When I saw it, I just wanted to have one, and I really wanted a vertical one specifically. It wasn't even priced that expensively when I got it, and then I saw the big run on birds afterward and felt bad for the person who sold it to me.
+
+Ryan's *Drippy Cube* — I don't think that's the real name, I think it's just *Drip Cube*, but *Drippy Cube* sounds better—
+
+Trinity: Yeah.
+
+ClownVamp: We should just call it that. I thought it was really different — so much generative art can start to feel like *Fidenza* alts, and *Drippy Cube* just wasn't that. I liked that it was animated, colorful, full of motion. It kind of blew my mind that this was a piece of generative art. I think he does a really good job — I have a bunch of *Fragment of a Wave* too, and those are really interesting and different. Especially the tunnel ones — I don't even know what to call them — I was just like, how did he do that? My mind was kind of blown. I still think they're really cool, and kind of cute. I just want to look at them, spin them around.
+
+Trinity: It's such a nice departure from the rest of his drops. They definitely stand apart, and they were only released a few at a time — I don't really remember the drop mechanism.
+
+Will: His run has just been insane. Nudoru is prolific and has insane talent, but when it comes to pure coding, I think the person who's made the most impact in the last few months is Ryan Bell — project after project, jumping between completely different genres and executing at a level that's above expectation. Like you were just saying, things become very Fidenza-ish — flow fields, basically. If you watch a few p5 videos, you'll get there; there's a reason we see so much of that, because there's really accessible knowledge and templates out there for making that kind of project.
+
+I know we said we might talk about this with *Deconstructed* — there's a very interesting tension in generative and code-based art. On fx(hash), you can pull down anyone's code, see exactly what they did, and learn from it — or exploit it, to make a project of your own that's just different enough to sell. Not accusing anyone of that, just describing the reality of code-based art. At the same time, artists can create subtle variations across releases and turn out a lot of work really quickly, and we've seen some collectors get really upset about that.
+
+Most notably, around the time you joined, there was that incident with the project *Mountain View*, and then another piece — not actually that derivative on the code side, but viewed that way at the time — called *Mountain Moves*. People got really upset. I think we're seeing a bit of that now with *Deconstruction*, which I know you like. You have a background in trad art, and it's not weird there for an artist to do studies of things and release a series that shifts and morphs off a single concept. But in generative art, for whatever reason, that seems to be really looked down upon.
+
+ClownVamp: It is kind of weird — think about Warhol again, since he's such an accessible example. He was doing the same screen-printed thing over and over for a long time, and no one seemed to complain. His star just grew and grew. So it's strange to me. There's a term for this — sometimes you need to "hang a lantern" on something people think isn't a good thing. I almost wonder if artists just need to own that more, be more upfront about it: this is my style, this is what I'm experimenting with, this is my vibe.
+
+With *Deconstruction*, honestly, I don't like the follow-up as much — I don't think I own any. But that's fine. They have a new one coming that I actually think looks really cool. I'm generally fine with artists doing whatever they want and letting collectors and the market decide. I think *Fractal*'s floor is something like a tenth or an eighth of *Deconstruction*'s, so the market has kind of spoken on that already. Crypto is a very free market, things are liquid, and we express interest and value through price — sometimes for better, sometimes for worse. In this case, I think it's for better. If you don't like it, don't buy it. I don't think the artist is doing anything wrong, ethically.
+
+Will: That's the conundrum, right? My explanation for why *Fractura Libre* is at a lower price point—and why we might see a similarly low price point for the next one—is that it becomes dilutive. Collectors anchor on the first project and don't want to buy into the second or third because they feel the value is going to concentrate in the first. A great example is *Toxies*, *Defrag 1*, *2*, and *3*—each successive one has a lower floor. We should probably look at the trend for *Defrag 1*'s floor, but I wonder: if *2* and *3* had never come out, would *Defrag 1*'s floor be way higher, and did those subsequent projects drag it down? I'm not making a value judgment—just acknowledging that this seems to be a reality of how things play out here. Curious what you think.
+
+ClownVamp: A few thoughts. In any collection, the first of anything almost always tends to be more valuable—even token number one tends to be worth more. So I think that's always going to be true within a collection. But then look at something like *Smolskull*—I think it's a collection of, what, 1,000 or 2,000?
+
+Trinity: 2,000.
+
+ClownVamp: Pretty big collection, and it has a lot of derivatives that trade well, while *Smolskull* itself also trades well and seems to keep growing. There's a counterargument too: artists need to meme themselves—get their identity, visual, and style out there so people see it. We've talked about how some artists using consistent color palettes is itself a form of that self-meming. So this feels a bit random and arbitrary as a line to draw. I don't think it's necessarily dilutive. If you look at *Fractura* and *Deconstruction*, for example, *Deconstruction* has kept going up quite a bit since *Fractura* came out.
+
+Trinity: One thing that comes to mind, especially in generative art, is that you're creating something with code—which takes a ton of time, talent, and debugging to get right, plus a ton of work to get an algorithm expressing what you want. That said, code can still be copied, forked, and reused. In a world where you can put out an edition of 64, 300, 500, 2,000 pieces, if you're releasing something similar-sized and similar in style every week, the time horizon has to be a factor too. Crypto moves a million miles an hour compared to anything else we've experienced.
+
+ClownVamp: It's definitely a factor. But it is funny—with crypto and art, it's amazing how quickly people forget things, and I can't imagine the pressure artists are under to keep their collectors' attention. I collect a lot of non-generative art too, and I see a lot of pacing issues there—artists doing too little or too much is really common. With generative art, I'd imagine there's even more pressure, because you have all these questions to answer: How original is this algorithm? How many editions should I do? How detailed should I make it before the next one? I don't have an answer. It's a genuinely hard problem to solve as an artist.
+
+Trinity: I think artists really can't win in this scenario. Things change and move so quickly that by the time you've anchored on one thing, it's no longer the relevant truth of the moment.
+
+ClownVamp: Right—now all of a sudden fx(hash) has whitelists and allowlists. Things keep changing, staying fluid, with collabs and everything else.
+
+Trinity: And sometimes you just put 2,000 people on your allowlist and crash your drop.
+
+Will: You break it.
+
+Trinity: You've got to figure that one out too.
+
+Will: That makes me want to ask—are you going to go back and look at some of Jeres's older work? I saw you collected a bunch from today's drop.
+
+ClownVamp: Oh yeah, for sure, that's definitely on my list. I really like today's drop, *the attachment*.
+
+Will: If you're into color, you'll like their back catalog. Jeres, Lisa, and Landlines are the three artists that immediately come to mind for me on fx(hash) who do an amazing job of unifying their work through palettes while making each individual piece feel distinct.
+
+Trinity: *Vapor Trails* is really solid.
+
+Will: Yeah, *Vapor Trails* was the big breakout piece for Jeres a few months ago.
+
+Trinity: It had a big, well-deserved moment. As we casually browse the catalog while recording—
+
+Will: I'm a big fan of *Sinuosity*, *Opacity*, and some of the early stuff. I really like those more muted color palettes.
+
+ClownVamp: It's still mind-blowing to me. The two things I think blow people's minds these days about art—one is some of this AI art stuff, like DALL-E 2. And then generative art, when you explain it to normies, really does blow their mind, because at this point we're kind of used to it. But when you tell someone, "No one drew this—this is fully lines of code," it's genuinely magical for people. Even looking at *Vapor Trails*, it's wild that this was just a bunch of JavaScript. That's nuts.
+
+Trinity: Some of the longer-form abstract stuff especially—the amount of variety and cohesion is insane. It doesn't feel code-based at all. Digital, yes. Code-based, no.
+
+ClownVamp: Not at all.
+
+Trinity: We'll have to get further down the coding train first, and then we'll figure it out.
+
+Will: I'm actually surprised to hear you say you've gotten a lot of responses from people who are highly impressed or in disbelief that code can do this, only because of how the markets behave on fx(hash) sometimes. This is my segue into trees and landscapes. My explanation, as an observer, for why the more naturalistic pieces tend to sell at higher levels and develop bigger market caps and collector bases is that code literacy in the collector community is so limited that when people compare an abstract piece to a landscape—knowing both are made of code—the landscape naturally seems more impressive, because they can compare it to something they understand. Even abstract art in general can struggle with people who aren't art appreciators—the classic "my kid could paint that." Well, it's not any more special that your kid painted it with code. I know you're actually a fan of that style, so I'm curious—
+
+ClownVamp: I just feel like I got thrown under a bus.
+
+Will: No, no, no.
+
+ClownVamp: That style of art. That was a hard "T."
+
+Will: No, you know what I'm getting at. This is not an attack.
+
+ClownVamp: This is—
+
+Will: This is the most competitive Waiting to Be Signed interview yet. But yeah, if you've listened to the show, you know I'm lukewarm at best on a lot of this stuff, so I'm curious where you're at with it.
+
+ClownVamp: A bunch of thoughts. *Mediterraneo* is definitely one of my top three favorite collections—I have the rarest one, I bought a bunch more today, and I plan to buy more. Even within the context of what you're saying, I think it's different: a tree versus *Mediterraneo*, if you zoom in, is nuts—the amount of detail is why I have a few different computers, and why the big-boy computer has to come out if I want to render one at, say, 6K. It's even cool to watch the rendering process, with all the layers and details coming together.
+
+When I hear your statement, it makes a lot of sense—things that seem photorealistic, whether or not they're actually harder to make, are probably where large audiences get most excited about generative art, because they can be wowed by the fact that it was made by a computer. Talk to an engineer who works on, say, an email inbox product—the features that engineer gets excited about are very different from what the end user actually wants. That's why product managers exist: highly technical people find different things impressive than what the end consumer finds impressive. So to me, that's true of any form of art. There are plenty of technically skilled artists who are commercially unsuccessful, and they might tell you "woe is me." But there are also artists who'd say: you're creating for an audience, and if you're not considering your audience, that's a problem too.
+
+Will: As a follow-up—that's a bit of an argument toward homogeneity in the work, right? We're already starting to see that on the platform: artists release a few things without much success, then all of a sudden a tree pops up, and even if it doesn't have staying power, it often becomes that artist's most profitable, highest-market-cap piece in their whole body of work on the platform. To me, that teaches the wrong lesson twice over—one, to the artist, that you should make what sells rather than what you want to make; and two, to the community, that if you want a portfolio that's commercially impressive, you need as many trees and landscapes as possible, because that's what's valued. It's a bit self-fulfilling.
+
+ClownVamp: I think there's a balance. If an artist just made trees all the time, everyone would find that annoying. But if an artist with a distinct style brought that style to a tree, that could very well be their most commercially viable piece in the short term—people can grok it more easily, and it's a good entry point, an on-ramp into understanding what that artist does.
+
+I'm always a bit skeptical of the idea of an artist creating purely for themselves. Most of my friends who are artists would tell you they spend a lot of time thinking about what feeling a piece will evoke in the viewer—which is very much an external consideration. I think the trope of the artist creating purely for themselves is kind of a myth. It's like the joke about people running for president: we want them to have just woken up one day wanting to run, with no ambition behind it, because ambition is seen as bad. I think there's a similar trope with artists—that it's somehow bad to create for an audience. But every major artist is deeply audience-minded, and I think that's part of why they're successful. I agree with that statement wholeheartedly. Sometimes it is about finding that audience, whether it's with a tree or a building or even abstract stuff — we see things rise and fall in popularity over time. But what you said earlier about that perfect marriage of skill, which I guess is equated with talent, plus vision and eye — I think that's the magic combination that raises the cream to the crop, so to speak. You could be the most talented person on the planet, but if you don't have taste, you're not really going to go anywhere.
+
+Trinity: Especially in generative, I think technical skill and aesthetics are two distinct things. The artists we've talked about a bunch, like Ryan Bell — the ones who are able to marry those two things really successfully have found a lot of success. Deservedly.
+
+Will: And we've seen some pieces that are technically insane.
+
+ClownVamp: Oh yeah, I have a few pieces that are technically insane and worth like 7 tez. It's cool, I can see why technically it was complicated, but it's not something I'd want to put on my wall, you know?
+
+Trinity: Exactly. We've discussed that with a couple of artists here and there.
+
+Will: Or even the most recent iRyanBell collab. I don't know if you have any of those, but it's certainly the most challenging work he's put out.
+
+ClownVamp: That's interesting.
+
+Will: I love it personally, I think they're rad, but they have the lowest floors by a mile of anything he's worked on.
+
+ClownVamp: Not to flip the interview, but what do you all think about the real-time pricing thing? It's hard to talk about NFTs without talking about the price of them, versus trad art, where there's an auction once or a few times a year and the price marks aren't this real-time thing. Is that a positive or a negative, in your mind? Because we are talking a lot about price.
+
+Will: We have to — it's baked into this stuff in a way trad art isn't.
+
+Trinity: It doesn't have to be, though.
+
+Will: How else would you have a generative art platform on the blockchain where price wasn't an inherent part of it?
+
+Trinity: I think it can be an inherent part of it, but it doesn't need to be an *important* part of it. The value is intrinsic, not extrinsic to the price, or how many are listed, or how thin or thick the floor is.
+
+Will: It might just be the cohort of people who collect right now. Most gen art collectors want to see prices because they're used to tracking prices hourly with their other crypto holdings. Before you joined, a lot of these stats weren't visible on the site — they weren't built into the UI. Adding them caught a lot of criticism, especially from artists on Twitter, along the lines of what you just said: that it can detract from art and aesthetics driving things, versus just looking at the number and assuming higher equals better.
+
+ClownVamp: Right, number go up. That is interesting. The negatives are kind of obvious, but I wonder about the positives too. I guess you can see momentum more easily — as an artist starts to catch attention, more people can see that and participate, which is exciting, versus an artist who only has a few auctions a year that people don't necessarily see. So there are definitely positives. And obviously royalties are a big piece of it. I've never actually done the math on how much royalties artists are making. You're shaking your head.
+
+Trinity: More than trad art.
+
+Will: Where they make none. But do the mental exercise: if you release a piece for 10 tez, 100 editions, and it mints out, that's 1,000 tez. To make another 1,000 tez on secondary at 10%, you need 10x that in volume. So the idea that you release your work cheap and make it all back on royalties — maybe on a long enough timeline that's true, but I think it's really only true for the top 0.5%.
+
+ClownVamp: That's interesting — benefiting from it in a way that's meaningful, like the Zancans of the world. My controversial opinion, which I feel comfortable saying since I'm not really a seller so it doesn't come off as self-interested: I think royalties above 10% are precarious. I always want artists to make as much money as possible, but from talking to collectors, once you go above 10%, it becomes a pretty big factor in whether people sell, and you end up with a less liquid secondary market for yourself. I haven't done the math, but I'd bet it's to your detriment overall, because fewer people sell and things move slower. Above 10%, it starts to affect people's actions in a way that probably isn't a net positive.
+
+Trinity: Ten is the minimum on the platform, actually — the maximum is 25.
+
+ClownVamp: Like I said, I've literally sold two things ever, so I'm not exactly a big seller. But in the same way that taxes don't matter until they matter — suddenly there's a boiling point where people go "maybe I should move to Miami" — there's a number where people start to go, hmm, I don't know. I've seen some projects at 20, 25%, and I'm suspicious of that actually being a net positive for the artist.
+
+Will: Honestly, I have no idea. I've seen artists on Twitter complain that the cap is at 25, and I've also seen artists say they want to be able to go lower if they want to. It's kind of weird that there's this range, because so much of what Ciphrd has done with the platform is give people maximum choice — this is one of the few things that's constrained.
+
+Trinity: It might be something that helps prevent user error, for the most part. But I also think the royalty won't matter for 99.5% of the work released on the platform, because the prices won't get high enough for it to fundamentally matter. It'll matter for people selling RGBs or *Garden, Monoliths*, because the pie is much bigger. But if you're selling something for 5 tez, which you likely wouldn't be, it just doesn't matter.
+
+ClownVamp: The question for someone smarter than us — I mean, you guys are smarter than me, so maybe you can figure this out — is: if *Garden, Monoliths* had a lower royalty, would the gross volume sold be higher monthly? Would that mean more royalties overall for Zancan? The floor price would probably be lower, but there might be more selling, more active buys and sells. Would a 5% lower royalty rate drive more volume overall? I don't know.
+
+Trinity: I think at a certain point it works when things are constantly buying and selling. But because we're so early with fx(hash), I think we're in more of a phase of buying, selling, and then diamond-handing things for a while. Something that sold for 9,000 tez, which is around the floor of *Garden, Monoliths* right now, that person probably won't resell until they're getting a significant return. It's not going to get flipped back anytime soon.
+
+Will: The illiquidity of NFTs in general makes them really hard to speculate on. I'm sure on a long enough timeline, once we have a good mass of projects — not necessarily *Garden, Monoliths* level, but the step below, in the Contrapuntos, RGB, Dragons range — we can start comparing tranches of royalties and see where they differ in volume even with similar floors. But it's really hard to say right now.
+
+ClownVamp: There's also an issue Tezos in general seems to avoid, but ETH doesn't: with ETH PFP projects that have high royalties, people OTC them a lot. Right now, I think Tezos has early adopters who are very committed to the community and don't want to OTC — though I'm sure it still happens plenty. But once it becomes more mainstream, with people who feel less identity-level attachment to the community, if you have 20% royalties, people are just going to OTC and cut you out completely, which is obviously worse. Hard to track, but instinctually, what you saw with ETH PFPs was that any project above 5% started getting aggressively OTC'd. I think there's a there there that's worth thinking about — not that artists should make less, but how they can actually make more.
+
+Will: The way to make the most money right now seems to be Dutch auctions — get the most out of primary. That's at least how it looks with the OTC and private sales stuff. The few times we've seen people not want to list on the market because they're worried about getting sniped before completing the transaction, they'll come into price discussion and say, "I just bought this directly from someone, but don't worry, I'm sending the royalties to the artist."
+
+ClownVamp: But that's very early-adopter behavior.
+
+Will: It's so wholesome. That's awesome.
+
+ClownVamp: But in a year, once we get some of the people who are like Art Blocks speculators in, they are not going to do that. Unfortunate, but also just the reality of the dark side of crypto — incentives are baked into everything. Tezos right now has so many people who are deeply kind and caring and thoughtful, but we also want more people to find our art and adopt our artists, and some of those people aren't going to be as wholesome. They're going to live by the rules of the chain, and if the chain says there's a 20% royalty, they're going to say, "No, I'm just going to go around you."
+
+Will: More of it could be going on behind the scenes than we even know. You'd have to really dedicate yourself to tracking the blockchain to see what's happening.
+
+ClownVamp: I was just on the *Garden, Monoliths* page since we were talking about them, curious about the prices. I did not know these pink ones existed. I'm not going to spend 75,000 tez, but wow — do you all know anyone who has one? They're so pretty.
+
+Trinity: I think Roxanne has one.
+
+ClownVamp: Damn. Okay, I'm going to stop coveting. That's dangerous.
+
+Will: You'll have to sell a lot of Lisa Orth to afford that.
+
+ClownVamp: A lot, yeah. Lisa, we need you.
+
+Will: We're well past our hour, Vamp, and we really appreciate your generosity with your time here on a Sunday night. One last question to wrap it up: I'd love to know the origin of your name and profile picture.
+
+ClownVamp: This was a new alt because I decided to retire my old ETH alt. I thought maybe I'd do some ETH stuff, and I'd always wanted a punk but never owned one. There was this punk that was a clown vampire, and I thought it was really cute. I coveted it for weeks and eventually bought it. For three days I was so happy and excited, which is really dorky in retrospect. Then, four days in, I realized I didn't actually feel any happier — like, whatever, $300,000 happier. That's just not how I felt. I'd already created a Twitter for it, thinking this was going to be my new alt, that I'd buy a punk for it and build it up. Then I was like, "Shit, I don't actually want this punk," and I sold it. But I liked the name, thought it was kind of funny, and decided to keep it. Someone else owns that Clown Vampire punk now — I don't know what they think about me. So now the name is just the legacy of a momentary obsession with a CryptoPunk.
+
+Trinity: Maybe we should have led off with that, but it's okay.
+
+Will: It was up in my intro questions, but we got away from it, and I thought it'd make a nice closer. Honestly, this interview was not at all what I expected. You're such a vibrant, open, positive person — when you hear "whale on the platform," you picture some dork behind a spreadsheet running numbers. But no, it's cute, it's got good vibes, I really like it. From my perspective, this has been a great first hardcore-collector interview.
+
+ClownVamp: Thanks, I'll take it. I appreciate that. This was really fun — thanks for having me on.
+
+Will: Thank you so much. That's it, that's our interview with ClownVamp. Thanks everyone for listening, and we'll see you all in the next episode.
+
+ClownVamp: Bye!

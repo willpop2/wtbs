@@ -1,0 +1,20 @@
+# Secrets — never commit
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Editor / local tooling
+.claude/
+
+# Audio (huge, hosted on the podcast CDN — not needed in the repo)
+audio/
+audio_numbered/
+
+# Generated transcripts (large / regenerable). transcripts/final is committed.
+transcripts/raw/
+transcripts/raw_numbered/
+transcripts/clean/
+transcripts/clean_numbered/

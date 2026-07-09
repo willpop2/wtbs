@@ -1,0 +1,1906 @@
+# WTBS interview shot list
+
+Italicized works discussed in each interview, with mention count, roughly where it first comes up, context, and a paste-ready marker.
+
+
+## McLlama — Turning Pokemon Cards into fx(hash) Grails · McLlama
+- **Garden** — 4× · first ~turn 63/138 (46% in)
+  - context: "If it goes down 90% again, I'll be buying more Garden, Monoliths."
+  - marker: `[img: McLlama-garden.jpg | Garden — McLlama | ]`
+- **Monoliths** — 4× · first ~turn 63/138 (46% in)
+  - context: "If it goes down 90% again, I'll be buying more Garden, Monoliths."
+  - marker: `[img: McLlama-monoliths.jpg | Monoliths — McLlama | ]`
+- **Farbteiler** — 2× · first ~turn 11/138 (8% in)
+  - context: "Farbteiler, for example — I kept coming back to it and realized I wanted to hoard these, that it wasn't enough to just have a few."
+  - marker: `[img: McLlama-farbteiler.jpg | Farbteiler — McLlama | ]`
+- **Garden, Monoliths** — 2× · first ~turn 16/138 (12% in)
+  - context: "It's not exactly a hot take to say Garden, Monoliths is a grail — anyone could tell you that."
+  - marker: `[img: McLlama-garden-monoliths.jpg | Garden, Monoliths — McLlama | ]`
+- **Genomes** — 2× · first ~turn 30/138 (22% in)
+  - context: "Genomes, right?"
+  - marker: `[img: McLlama-genomes.jpg | Genomes — McLlama | ]`
+- **Generations** — 2× · first ~turn 31/138 (22% in)
+  - context: "This was Generations."
+  - marker: `[img: McLlama-generations.jpg | Generations — McLlama | ]`
+- **Human Resources** — 2× · first ~turn 105/138 (76% in)
+  - context: "The Human Resources project in particular has some very devoted collectors doing the full role-playing thing."
+  - marker: `[img: McLlama-human-resources.jpg | Human Resources — McLlama | ]`
+- **KGM** — 1× · first ~turn 14/138 (10% in)
+  - context: "I also have a print of one of my KGMs from Zancan and Yazid — a giant piece in my living room — and a signed Ganbrood piece too, which is rare, since he doesn't"
+  - marker: `[img: McLlama-kgm.jpg | KGM — McLlama | ]`
+
+## Remnynt — Cave Painting In The Digital Age · Remnynt
+- **Proscenium** — 9× · first ~turn 0/129 (0% in)
+  - context: "You might also know Jimmy from his work on Art Blocks with Proscenium, released toward the end of 2024, plus some projects before that, which I'm sure we'll get"
+  - marker: `[img: Remnynt-proscenium.jpg | Proscenium — Remnynt | ]`
+- **the reliquary** — 7× · first ~turn 13/129 (10% in)
+  - context: "The project I most want to ask about from your early NFT days is the reliquary, because I saw in your writing that it was connected to the Loot project."
+  - marker: `[img: Remnynt-the-reliquary.jpg | the reliquary — Remnynt | ]`
+- **Terraforms** — 6× · first ~turn 10/129 (8% in)
+  - context: "But then I saw Art Blocks, I saw Terraforms by Mathcastles, and I discovered people were making generative art on-chain."
+  - marker: `[img: Remnynt-terraforms.jpg | Terraforms — Remnynt | ]`
+- **Architectonica** — 4× · first ~turn 0/129 (0% in)
+  - context: "It's a special interview episode today, and we're joined by Remnynt — or Jimmy, as I've come to know him — who just released the Architectonica project, which I"
+  - marker: `[img: Remnynt-architectonica.jpg | Architectonica — Remnynt | ]`
+- **vibes** — 4× · first ~turn 15/129 (12% in)
+  - context: "I'd started a gradient study that eventually became vibes, and I wanted to store that on-chain, so Loot was my crash course in making that happen."
+  - marker: `[img: Remnynt-vibes.jpg | vibes — Remnynt | ]`
+- **Tales from Topographic Oceans** — 2× · first ~turn 92/129 (71% in)
+  - context: "What's the Yes album — Tales from Topographic Oceans, or something like that?"
+  - marker: `[img: Remnynt-tales-from-topographic-oceans.jpg | Tales from Topographic Oceans — Remnynt | ]`
+- **Diablo 2** — 1× · first ~turn 4/129 (3% in)
+  - context: "I was a big gamer growing up, and I loved the generative systems in games like Diablo 2 — the random level generator — or SimCity-type games with randomly gener"
+  - marker: `[img: Remnynt-diablo-2.jpg | Diablo 2 — Remnynt | ]`
+- **reliquary** — 1× · first ~turn 16/129 (12% in)
+  - context: "But I'd also been into writing and poetry early on, and wanted to do something different, so I treated the reliquary contract like a work of literature as well "
+  - marker: `[img: Remnynt-reliquary.jpg | reliquary — Remnynt | ]`
+
+## CCDDBB — Following The Line · CCDDBB (Claudio Dalla Bernardina)
+- **Power Ranges** — 4× · first ~turn 42/104 (40% in)
+  - context: "The first piece I remember collecting from you was probably from two or three years ago—2023, Power Ranges."
+  - marker: `[img: CCDDBB-power-ranges.jpg | Power Ranges — CCDDBB (Claudio Dalla Bernardina) | ]`
+- **Mount St. Helene** — 3× · first ~turn 42/104 (40% in)
+  - context: "The first piece I remember collecting from you was probably from two or three years ago—2023, Power Ranges. After that, everything you put on fx(hash) looks ver"
+  - marker: `[img: CCDDBB-mount-st-helene.jpg | Mount St. Helene — CCDDBB (Claudio Dalla Bernardina) | ]`
+- **There and Then** — 3× · first ~turn 88/104 (85% in)
+  - context: "I realized the first project of yours I collected was actually There and Then, the one you released with the wallet."
+  - marker: `[img: CCDDBB-there-and-then.jpg | There and Then — CCDDBB (Claudio Dalla Bernardina) | ]`
+- **Noisy Gardens** — 2× · first ~turn 39/104 (38% in)
+  - context: "For me, that always felt like a limitation, so I started introducing profiles in projects like Noisy Gardens or Furry Gradients."
+  - marker: `[img: CCDDBB-noisy-gardens.jpg | Noisy Gardens — CCDDBB (Claudio Dalla Bernardina) | ]`
+- **Furry Gradients** — 2× · first ~turn 39/104 (38% in)
+  - context: "For me, that always felt like a limitation, so I started introducing profiles in projects like Noisy Gardens or Furry Gradients."
+  - marker: `[img: CCDDBB-furry-gradients.jpg | Furry Gradients — CCDDBB (Claudio Dalla Bernardina) | ]`
+- **Plottable Mesh** — 2× · first ~turn 40/104 (38% in)
+  - context: "It's something I still do, and I'm doing it now with my Plottable Mesh project."
+  - marker: `[img: CCDDBB-plottable-mesh.jpg | Plottable Mesh — CCDDBB (Claudio Dalla Bernardina) | ]`
+- **Plottable Mess** — 2× · first ~turn 58/104 (56% in)
+  - context: "So, going back to Plottable Mess — at the beginning I wanted to release it on fx(hash)."
+  - marker: `[img: CCDDBB-plottable-mess.jpg | Plottable Mess — CCDDBB (Claudio Dalla Bernardina) | ]`
+- **the wallet** — 2× · first ~turn 88/104 (85% in)
+  - context: "There's one thing I wanted to ask you about that we didn't get to—I'll cut this in—about the wallet."
+  - marker: `[img: CCDDBB-the-wallet.jpg | the wallet — CCDDBB (Claudio Dalla Bernardina) | ]`
+
+## Jammasterlee — Can't Live A Normal Life · Jammasterlee
+- **Too Fast Too Furious** — 1× · first ~turn 55/179 (31% in)
+  - context: "I remember narrowly avoiding that and thinking, man, this is such a cliché moment — like straight out of Too Fast Too Furious or whatever."
+  - marker: `[img: Jammasterlee-too-fast-too-furious.jpg | Too Fast Too Furious — Jammasterlee | ]`
+- **Fast and Furious** — 1× · first ~turn 76/179 (42% in)
+  - context: "She took me to Fast and Furious Part 9."
+  - marker: `[img: Jammasterlee-fast-and-furious.jpg | Fast and Furious — Jammasterlee | ]`
+- **Day of the Tentacle** — 1× · first ~turn 135/179 (75% in)
+  - context: "They made Day of the Tentacle and Maniac Mansion."
+  - marker: `[img: Jammasterlee-day-of-the-tentacle.jpg | Day of the Tentacle — Jammasterlee | ]`
+- **Maniac Mansion** — 1× · first ~turn 135/179 (75% in)
+  - context: "They made Day of the Tentacle and Maniac Mansion."
+  - marker: `[img: Jammasterlee-maniac-mansion.jpg | Maniac Mansion — Jammasterlee | ]`
+- **Hero with a Thousand Faces** — 1× · first ~turn 152/179 (85% in)
+  - context: "I read Hero with a Thousand Faces — my friend sent me that book."
+  - marker: `[img: Jammasterlee-hero-with-a-thousand-faces.jpg | Hero with a Thousand Faces — Jammasterlee | ]`
+
+## Ciphrd_Cosimo — Navigating The New $fxh Token Protocol · Ciphrd and Cosimo
+- **Glyph** — 3× · first ~turn 119/136 (88% in)
+  - context: "One example that stands out is Punevyr's Glyph mint."
+  - marker: `[img: Ciphrd_Cosimo-glyph.jpg | Glyph — Ciphrd and Cosimo | ]`
+- **Tierra** — 2× · first ~turn 35/136 (26% in)
+  - context: "As for the code itself, a big inspiration was Tom Ray's Tierra."
+  - marker: `[img: Ciphrd_Cosimo-tierra.jpg | Tierra — Ciphrd and Cosimo | ]`
+- **Open Form** — 2× · first ~turn 41/136 (30% in)
+  - context: "Any algorithm can leverage Open Form in some way."
+  - marker: `[img: Ciphrd_Cosimo-open-form.jpg | Open Form — Ciphrd and Cosimo | ]`
+- **Ringers** — 1× · first ~turn 7/136 (5% in)
+  - context: "Some collections have enjoyed long lifespans — think of the classics everyone knows, Ringers and Fidenza, and on fx(hash), Dragons and Garden."
+  - marker: `[img: Ciphrd_Cosimo-ringers.jpg | Ringers — Ciphrd and Cosimo | ]`
+- **Fidenza** — 1× · first ~turn 7/136 (5% in)
+  - context: "Some collections have enjoyed long lifespans — think of the classics everyone knows, Ringers and Fidenza, and on fx(hash), Dragons and Garden."
+  - marker: `[img: Ciphrd_Cosimo-fidenza.jpg | Fidenza — Ciphrd and Cosimo | ]`
+- **Dragons** — 1× · first ~turn 7/136 (5% in)
+  - context: "Some collections have enjoyed long lifespans — think of the classics everyone knows, Ringers and Fidenza, and on fx(hash), Dragons and Garden."
+  - marker: `[img: Ciphrd_Cosimo-dragons.jpg | Dragons — Ciphrd and Cosimo | ]`
+- **Garden** — 1× · first ~turn 7/136 (5% in)
+  - context: "Some collections have enjoyed long lifespans — think of the classics everyone knows, Ringers and Fidenza, and on fx(hash), Dragons and Garden."
+  - marker: `[img: Ciphrd_Cosimo-garden.jpg | Garden — Ciphrd and Cosimo | ]`
+- **TENDER** — 1× · first ~turn 10/136 (7% in)
+  - context: "During this bear market, we've seen spurts of community interest — like posting a piece of art a day for a month, the kind of thing we did with TENDER — ways to"
+  - marker: `[img: Ciphrd_Cosimo-tender.jpg | TENDER — Ciphrd and Cosimo | ]`
+
+## Zancan — Beautiful Utopias · Zancan
+- **Garden, Monoliths** — 8× · first ~turn 26/105 (25% in)
+  - context: "That changed my plan—thankfully I didn't chop that plot into pieces, and I made Garden, Monoliths instead."
+  - marker: `[img: Zancan-garden-monoliths.jpg | Garden, Monoliths — Zancan | ]`
+- **Grass.js** — 7× · first ~turn 53/105 (50% in)
+  - context: "So two questions: did you ever feel like starting a new wallet, a new name, and going in a totally different direction — abandoning it because of the pressure t"
+  - marker: `[img: Zancan-grass-js.jpg | Grass.js — Zancan | ]`
+- **Apebadu** — 3× · first ~turn 52/105 (50% in)
+  - context: "When the moment was right, I could come up with a project overnight, like the Apebadu thing, because I had a vision that was very clear, which I don't have nowa"
+  - marker: `[img: Zancan-apebadu.jpg | Apebadu — Zancan | ]`
+- **A Bugged Forest** — 3× · first ~turn 56/105 (53% in)
+  - context: "To me, the two projects that deviate most from Grass.js — besides Apebadu, obviously — A Bugged Forest really comes to mind as something intentionally glitched."
+  - marker: `[img: Zancan-a-bugged-forest.jpg | A Bugged Forest — Zancan | ]`
+- **Subscape** — 1× · first ~turn 22/105 (21% in)
+  - context: "I'd heard about Art Blocks from my studio mate early on, around March 2021—I think a Subscape by Matt DesLauriers was minting at the time."
+  - marker: `[img: Zancan-subscape.jpg | Subscape — Zancan | ]`
+- **Monolith 000** — 1× · first ~turn 25/105 (24% in)
+  - context: "Then I heard an interview with Ciphrd explaining the platform, which was gaining a lot of traction, while I was making a very important plot I called Monolith 0"
+  - marker: `[img: Zancan-monolith-000.jpg | Monolith 000 — Zancan | ]`
+- **Kindergarten Monuments** — 1× · first ~turn 41/105 (39% in)
+  - context: "It must have been mid-2022 -- after Kindergarten Monuments, your collab with Yazid, which came out around April or May of '22 -- when you started tweeting about"
+  - marker: `[img: Zancan-kindergarten-monuments.jpg | Kindergarten Monuments — Zancan | ]`
+- **Landscape with Carbon Capture** — 1× · first ~turn 49/105 (47% in)
+  - context: "This was around the end of 2022, when I released Landscape with Carbon Capture with Verse, while also going to Miami."
+  - marker: `[img: Zancan-landscape-with-carbon-capture.jpg | Landscape with Carbon Capture — Zancan | ]`
+
+## NukCZ — Getting Art Focused · NukCZ
+- **Ringers** — 2× · first ~turn 8/130 (6% in)
+  - context: "Dmitri Cherniak's Ringers."
+  - marker: `[img: NukCZ-ringers.jpg | Ringers — NukCZ | ]`
+- **Blooms** — 1× · first ~turn 21/130 (16% in)
+  - context: "For the Cory Haber Blooms project, for instance, I laid it out entirely chronologically."
+  - marker: `[img: NukCZ-blooms.jpg | Blooms — NukCZ | ]`
+- **Traveler** — 1× · first ~turn 36/130 (28% in)
+  - context: "YXK, who did Traveler and Ukiyo-e In Bloom."
+  - marker: `[img: NukCZ-traveler.jpg | Traveler — NukCZ | ]`
+- **Ukiyo-e In Bloom** — 1× · first ~turn 36/130 (28% in)
+  - context: "YXK, who did Traveler and Ukiyo-e In Bloom."
+  - marker: `[img: NukCZ-ukiyo-e-in-bloom.jpg | Ukiyo-e In Bloom — NukCZ | ]`
+- **Theatergoers** — 1× · first ~turn 37/130 (28% in)
+  - context: "He's only done a few projects on fx(hash), but my favorite is Theatergoers — the black backdrop with little blobs, some with hearts."
+  - marker: `[img: NukCZ-theatergoers.jpg | Theatergoers — NukCZ | ]`
+- **Clara Story** — 1× · first ~turn 37/130 (28% in)
+  - context: "He also has a collection called Clara Story that's really, really great."
+  - marker: `[img: NukCZ-clara-story.jpg | Clara Story — NukCZ | ]`
+- **Memory Studies 006** — 1× · first ~turn 69/130 (53% in)
+  - context: "But the piece that really got me hooked on digital art — and it was expensive at the time, around 25 or even 50 tez, when tez was $4 or $5 — was called Memory S"
+  - marker: `[img: NukCZ-memory-studies-006.jpg | Memory Studies 006 — NukCZ | ]`
+- **Snow White** — 1× · first ~turn 88/130 (68% in)
+  - context: "I was listening to a podcast recently about Disney's Snow White back in the '30s — if you saw it in theaters, great, but then you couldn't watch it at home."
+  - marker: `[img: NukCZ-snow-white.jpg | Snow White — NukCZ | ]`
+
+## StevePikelny — Holistic Internet Experience · Steve Pikelny (Stevie P)
+- **FinSexy** — 5× · first ~turn 20/104 (19% in)
+  - context: "You rightly noticed that my experiences with dating apps were a big influence on FinSexy, partly because of that same reward system — has the love of your life "
+  - marker: `[img: StevePikelny-finsexy.jpg | FinSexy — Steve Pikelny (Stevie P) | ]`
+- **Dopamine Machines** — 3× · first ~turn 4/104 (4% in)
+  - context: "I remember when we first discovered you through Dopamine Machines — it was revelatory, in many respects."
+  - marker: `[img: StevePikelny-dopamine-machines.jpg | Dopamine Machines — Steve Pikelny (Stevie P) | ]`
+- **fake** — 1× · first ~turn 17/104 (16% in)
+  - context: "Similar to wrestling and kayfabe, I was interested in the idea: okay, you have a fake news website, but what does it mean to make a fake fake news website, taki"
+  - marker: `[img: StevePikelny-fake.jpg | fake — Steve Pikelny (Stevie P) | ]`
+- **fakebullshit.news** — 1× · first ~turn 18/104 (17% in)
+  - context: "With fakebullshit.news I see a lot of visual nods to things like the Drudge Report and similar sites."
+  - marker: `[img: StevePikelny-fakebullshit-news.jpg | fakebullshit.news — Steve Pikelny (Stevie P) | ]`
+- **Blaseball** — 1× · first ~turn 37/104 (36% in)
+  - context: "The example that pops into my mind is a game that came out at the beginning of COVID called Blaseball—a fantasy baseball game with its whole narrative built int"
+  - marker: `[img: StevePikelny-blaseball.jpg | Blaseball — Steve Pikelny (Stevie P) | ]`
+- **Disco Elysium** — 1× · first ~turn 50/104 (48% in)
+  - context: "I played Disco Elysium, which is sort of a TTRPG but not really, and really liked that."
+  - marker: `[img: StevePikelny-disco-elysium.jpg | Disco Elysium — Steve Pikelny (Stevie P) | ]`
+- **Rona Merch** — 1× · first ~turn 53/104 (51% in)
+  - context: "I'd just completed my fourth elaborate, stupid website, Rona Merch, which is still up—you should check it out, ronamerch.co, for all your merchandise needs."
+  - marker: `[img: StevePikelny-rona-merch.jpg | Rona Merch — Steve Pikelny (Stevie P) | ]`
+- **Instructions for Defacement** — 1× · first ~turn 58/104 (56% in)
+  - context: "With Plottables, that was the right partner for Instructions for Defacement."
+  - marker: `[img: StevePikelny-instructions-for-defacement.jpg | Instructions for Defacement — Steve Pikelny (Stevie P) | ]`
+
+## KevinEsherick — On Generative Anesthetics · Kevin Esherick
+- **The Artist Is Absent** — 4× · first ~turn 60/116 (52% in)
+  - context: "That said, I did use references in my latest work, the AI performance piece I have ongoing right now called The Artist Is Absent."
+  - marker: `[img: KevinEsherick-the-artist-is-absent.jpg | The Artist Is Absent — Kevin Esherick | ]`
+- **Generative Anesthetics** — 3× · first ~turn 0/116 (0% in)
+  - context: "We have Kevin on today to talk primarily about his recent writing on generative art — a really great critique he wrote called Generative Anesthetics."
+  - marker: `[img: KevinEsherick-generative-anesthetics.jpg | Generative Anesthetics — Kevin Esherick | ]`
+- **Material** — 3× · first ~turn 8/116 (7% in)
+  - context: "That's when I started a project called Material — a pair of jeans I thrifted, then custom-tailored and bleach-dyed in my parents' bathtub."
+  - marker: `[img: KevinEsherick-material.jpg | Material — Kevin Esherick | ]`
+- **Digitally Rare** — 2× · first ~turn 17/116 (15% in)
+  - context: "He brought me on Digitally Rare a couple of years ago to talk about it, and again about a year and a half ago."
+  - marker: `[img: KevinEsherick-digitally-rare.jpg | Digitally Rare — Kevin Esherick | ]`
+- **Catalog** — 2× · first ~turn 36/116 (31% in)
+  - context: "I had two partner generative art projects planned to release alongside the essay -- Catalog and DVD Screensaver -- generative projects that critique the generat"
+  - marker: `[img: KevinEsherick-catalog.jpg | Catalog — Kevin Esherick | ]`
+- **DVD Screensaver** — 2× · first ~turn 36/116 (31% in)
+  - context: "I had two partner generative art projects planned to release alongside the essay -- Catalog and DVD Screensaver -- generative projects that critique the generat"
+  - marker: `[img: KevinEsherick-dvd-screensaver.jpg | DVD Screensaver — Kevin Esherick | ]`
+- **In Utero** — 2× · first ~turn 37/116 (32% in)
+  - context: "Then I had a show come up with Expanded in Berlin at their physical gallery, releasing my collection In Utero, and opportunities kept crowding out the essay."
+  - marker: `[img: KevinEsherick-in-utero.jpg | In Utero — Kevin Esherick | ]`
+- **Plans for Future Forms** — 2× · first ~turn 37/116 (32% in)
+  - context: "On the writing front, I worked with Lily Iloh on an essay about her collection Plans for Future Forms, which took up my writing bandwidth for a time."
+  - marker: `[img: KevinEsherick-plans-for-future-forms.jpg | Plans for Future Forms — Kevin Esherick | ]`
+
+## MimiNguyen — How To Start A Gallery On Another Continent · Mimi Nguyen
+- **Aside** — 6× · first ~turn 38/111 (34% in)
+  - context: "We've mentioned it a couple of times already, so we should talk about Aside, which is running on Verse right now."
+  - marker: `[img: MimiNguyen-aside.jpg | Aside — Mimi Nguyen | ]`
+- **[aside]** — 3× · first ~turn 20/111 (18% in)
+  - context: "The artists you have -- I'm looking at the list of everyone presenting in [aside] right now, and we've interviewed three of them, plus one more coming out."
+  - marker: `[img: MimiNguyen-aside.jpg | [aside] — Mimi Nguyen | ]`
+- **Terraforms** — 2× · first ~turn 32/111 (29% in)
+  - context: "I remember speaking to a curator at Verse and Nina about Terraforms, and Rudxane explained it to me: "Go to the contract, click here, then here, export the text"
+  - marker: `[img: MimiNguyen-terraforms.jpg | Terraforms — Mimi Nguyen | ]`
+- **Acid** — 2× · first ~turn 37/111 (33% in)
+  - context: "We were talking about Acid, for example."
+  - marker: `[img: MimiNguyen-acid.jpg | Acid — Mimi Nguyen | ]`
+- **aside** — 2× · first ~turn 102/111 (92% in)
+  - context: "Before we wrap up — you've got aside running for at least nine more months, and your physical space coming."
+  - marker: `[img: MimiNguyen-aside.jpg | aside — Mimi Nguyen | ]`
+- **YYYSEED** — 1× · first ~turn 15/111 (14% in)
+  - context: "It eventually spiraled into YYYSEED — in total I've done four shows with him, one physical, when he came to London."
+  - marker: `[img: MimiNguyen-yyyseed.jpg | YYYSEED — Mimi Nguyen | ]`
+- **Terra Zero** — 1× · first ~turn 31/111 (28% in)
+  - context: "There have been interesting projects along these lines for a while -- Terra Zero and other work by Jan Robert Leegte -- but they're still considered niche."
+  - marker: `[img: MimiNguyen-terra-zero.jpg | Terra Zero — Mimi Nguyen | ]`
+- **Chaos Machine** — 1× · first ~turn 40/111 (36% in)
+  - context: "They also made one of my favorite artworks, Chaos Machine, where you'd put banknotes into a machine that would spectacularly burn them physically, and then give"
+  - marker: `[img: MimiNguyen-chaos-machine.jpg | Chaos Machine — Mimi Nguyen | ]`
+
+## TravessSmalley — Zoom In, Zoom Out · Travess Smalley
+- **Pixel Rug** — 8× · first ~turn 18/156 (12% in)
+  - context: "That became the place where I got to try a lot of things out through the Pixel Rug series, which had already started before this whole space existed."
+  - marker: `[img: TravessSmalley-pixel-rug.jpg | Pixel Rug — Travess Smalley | ]`
+- **Crawl** — 7× · first ~turn 17/156 (11% in)
+  - context: "Now, with the project Crawl that I'm about to release, it's all in Python — I've gotten rid of Photoshop, which is exciting in a lot of ways."
+  - marker: `[img: TravessSmalley-crawl.jpg | Crawl — Travess Smalley | ]`
+- **CRAWL** — 6× · first ~turn 27/156 (17% in)
+  - context: "I haven't done one in a long time because of CRAWL."
+  - marker: `[img: TravessSmalley-crawl.jpg | CRAWL — Travess Smalley | ]`
+- **Dwarf Fortress** — 5× · first ~turn 32/156 (21% in)
+  - context: "That led into roguelikes — Dwarf Fortress, simulation and sandbox games, NetHack, Moria, Rogue, Dungeon Crawl Stone Soup — all these top-down games where you're"
+  - marker: `[img: TravessSmalley-dwarf-fortress.jpg | Dwarf Fortress — Travess Smalley | ]`
+- **Minecraft** — 5× · first ~turn 80/156 (51% in)
+  - context: "Minecraft far supersedes everything else."
+  - marker: `[img: TravessSmalley-minecraft.jpg | Minecraft — Travess Smalley | ]`
+- **Coordinates** — 3× · first ~turn 27/156 (17% in)
+  - context: "Before CRAWL there was Coordinates, my last project, with Folia, which took a lot of time too."
+  - marker: `[img: TravessSmalley-coordinates.jpg | Coordinates — Travess Smalley | ]`
+- **Skyrim** — 3× · first ~turn 79/156 (51% in)
+  - context: "Then at one of my first jobs, someone was talking about Skyrim, and I thought, okay, this seems interesting."
+  - marker: `[img: TravessSmalley-skyrim.jpg | Skyrim — Travess Smalley | ]`
+- **Elden Ring** — 3× · first ~turn 80/156 (51% in)
+  - context: "The Elden Ring DLC has been my thing right now."
+  - marker: `[img: TravessSmalley-elden-ring.jpg | Elden Ring — Travess Smalley | ]`
+
+## JohnGerrard_WhitneyHart — Public Art & The Dance Between The Virtual and the Real · John Gerrard & Whitney Hart of Feral File
+- **Crystalline** — 10× · first ~turn 6/132 (5% in)
+  - context: "That question has stayed with me ever since, and it's really the throughline from Bitmark to Art Blocks to Feral File and now to Crystalline."
+  - marker: `[img: JohnGerrard_WhitneyHart-crystalline.jpg | Crystalline — John Gerrard & Whitney Hart of Feral File | ]`
+- **Western Flag** — 9× · first ~turn 0/132 (0% in)
+  - context: "When the opportunity came to tokenize Western Flag, it wasn't a huge conceptual leap since the work was already, at its core, a data object rendered in real tim"
+  - marker: `[img: JohnGerrard_WhitneyHart-western-flag.jpg | Western Flag — John Gerrard & Whitney Hart of Feral File | ]`
+- **crystalline work** — 3× · first ~turn 32/132 (24% in)
+  - context: "I think even crystalline work speaks to this in its own way."
+  - marker: `[img: JohnGerrard_WhitneyHart-crystalline-work.jpg | crystalline work — John Gerrard & Whitney Hart of Feral File | ]`
+- **Art.farm** — 3× · first ~turn 41/132 (31% in)
+  - context: "I'm soft-launching an endeavor for next summer called Art.farm, which addresses exactly these questions."
+  - marker: `[img: JohnGerrard_WhitneyHart-art-farm.jpg | Art.farm — John Gerrard & Whitney Hart of Feral File | ]`
+- **Crystalline Work** — 2× · first ~turn 71/132 (54% in)
+  - context: "We had a conversation with John in mid-March, then again in late March, and roughly sixteen to eighteen weeks later we launched Crystalline Work on Feral File."
+  - marker: `[img: JohnGerrard_WhitneyHart-crystalline-work.jpg | Crystalline Work — John Gerrard & Whitney Hart of Feral File | ]`
+- **Crystalline (arctic)** — 1× · first ~turn 14/132 (11% in)
+  - context: "Crystalline (arctic) is, at its heart, a simulation of ice, a data sculpture built in real time, responding to actual data."
+  - marker: `[img: JohnGerrard_WhitneyHart-crystalline-arctic.jpg | Crystalline (arctic) — John Gerrard & Whitney Hart of Feral File | ]`
+- **Petronational** — 1× · first ~turn 36/132 (27% in)
+  - context: "But then the next thing was coming into Art Blocks and doing it in a much more orderly way, with a piece called Petronational."
+  - marker: `[img: JohnGerrard_WhitneyHart-petronational.jpg | Petronational — John Gerrard & Whitney Hart of Feral File | ]`
+- **World Flag** — 1× · first ~turn 40/132 (30% in)
+  - context: "And not only that—World Flag, my last Art Blocks project, emerged from attending multiple UN climate change conferences, and asks: if we continue to gather in t"
+  - marker: `[img: JohnGerrard_WhitneyHart-world-flag.jpg | World Flag — John Gerrard & Whitney Hart of Feral File | ]`
+
+## JamesMerrill — Making Generative Art Less Random · James Merrill
+- **Fidenza** — 9× · first ~turn 10/115 (9% in)
+  - context: "Then Fidenza came out, and I thought, this is amazing, but I'm late."
+  - marker: `[img: JamesMerrill-fidenza.jpg | Fidenza — James Merrill | ]`
+- **Busy** — 3× · first ~turn 87/115 (76% in)
+  - context: "Any possibility Busy ends up there?"
+  - marker: `[img: JamesMerrill-busy.jpg | Busy — James Merrill | ]`
+- **Graph+** — 2× · first ~turn 21/115 (18% in)
+  - context: "Graph+."
+  - marker: `[img: JamesMerrill-graph.jpg | Graph+ — James Merrill | ]`
+- **Ori** — 2× · first ~turn 75/115 (65% in)
+  - context: "I did Ori, a Curated release, in November 2022, and it was a life-changing moment for me."
+  - marker: `[img: JamesMerrill-ori.jpg | Ori — James Merrill | ]`
+- **Ectogenesis** — 1× · first ~turn 12/115 (10% in)
+  - context: "I'd already been a fan of Tyler's — Ectogenesis is one of my favorite generative art projects of all time that he did, and he also did a Max Cooper CD cover I l"
+  - marker: `[img: JamesMerrill-ectogenesis.jpg | Ectogenesis — James Merrill | ]`
+- **Entanglement** — 1× · first ~turn 13/115 (11% in)
+  - context: "Look at the project you discussed with Entanglement on your last episode — Entanglement is crazy compared to what Fidenza was then."
+  - marker: `[img: JamesMerrill-entanglement.jpg | Entanglement — James Merrill | ]`
+- **Entangled** — 1× · first ~turn 14/115 (12% in)
+  - context: "And very excited for Entangled, which I think is actually opening up a few hours after we end this recording, so I'm excited to go collect that."
+  - marker: `[img: JamesMerrill-entangled.jpg | Entangled — James Merrill | ]`
+- **BAYC** — 1× · first ~turn 24/115 (21% in)
+  - context: "For my new project, BAYC, I'm trying to make drawings with ridiculous amounts of detail because I want to trick people — I love it when someone looks at a piece"
+  - marker: `[img: JamesMerrill-bayc.jpg | BAYC — James Merrill | ]`
+
+## BjrnStaal — Entangled Cities · Bjørn Staal
+- **Entangled** — 8× · first ~turn 1/119 (1% in)
+  - context: "Trinity is here as well, and we're convening to talk about the first fx(hash) Vertex release, Entangled."
+  - marker: `[img: BjrnStaal-entangled.jpg | Entangled — Bjørn Staal | ]`
+- **The Lifts of Sisyphus** — 1× · first ~turn 16/119 (13% in)
+  - context: "I did an experiment there in '21: had to line up and wait a couple of months to get reviewed, then released a project in August of that year, The Lifts of Sisyp"
+  - marker: `[img: BjrnStaal-the-lifts-of-sisyphus.jpg | The Lifts of Sisyphus — Bjørn Staal | ]`
+- **the face we had** — 1× · first ~turn 57/119 (48% in)
+  - context: "My last fx(hash) project, the face we had, was open for six months before it minted out."
+  - marker: `[img: BjrnStaal-the-face-we-had.jpg | the face we had — Bjørn Staal | ]`
+- **Fantasia** — 1× · first ~turn 66/119 (55% in)
+  - context: "He recently released a project called Fantasia on Verse."
+  - marker: `[img: BjrnStaal-fantasia.jpg | Fantasia — Bjørn Staal | ]`
+
+## ErickCalderon — Magic Is Not Real · Erick Calderon (Round 2)
+- **Chromie Squiggle** — 3× · first ~turn 0/161 (0% in)
+  - context: "We're back for round 2 with Erik Calderon, who you might better know as Snowfro, founder of Art Blocks, creator of the Chromie Squiggle, and probably the fastes"
+  - marker: `[img: ErickCalderon-chromie-squiggle.jpg | Chromie Squiggle — Erick Calderon (Round 2) | ]`
+- **Squiggle** — 2× · first ~turn 33/161 (20% in)
+  - context: "My intention with the Squiggle, and the reason it was priced at $20, was just so it wouldn't get botted—people will abuse systems if they can—but otherwise the "
+  - marker: `[img: ErickCalderon-squiggle.jpg | Squiggle — Erick Calderon (Round 2) | ]`
+- **Operators** — 2× · first ~turn 63/161 (39% in)
+  - context: "An example of something that did raise the bar: the Operators project last year."
+  - marker: `[img: ErickCalderon-operators.jpg | Operators — Erick Calderon (Round 2) | ]`
+- **Magic Is Not Real** — 1× · first ~turn 23/161 (14% in)
+  - context: "That is magic—magic in the sense of Magic Is Not Real."
+  - marker: `[img: ErickCalderon-magic-is-not-real.jpg | Magic Is Not Real — Erick Calderon (Round 2) | ]`
+- **Aux Arbes** — 1× · first ~turn 32/161 (20% in)
+  - context: "Most notably, Highlight did a release with Bright Moments plus a few others—like a five-way release—where Zancan's Aux Arbes did over 70,000 mints."
+  - marker: `[img: ErickCalderon-aux-arbes.jpg | Aux Arbes — Erick Calderon (Round 2) | ]`
+- **Glyph** — 1× · first ~turn 40/161 (25% in)
+  - context: "I think that's also widening the funnel through social minting, which is ultimately how we got to those 275,000 Glyph mints."
+  - marker: `[img: ErickCalderon-glyph.jpg | Glyph — Erick Calderon (Round 2) | ]`
+- **The Legend of Zelda** — 1× · first ~turn 95/161 (59% in)
+  - context: "I use The Legend of Zelda as an example -- I've been able to emulate it on every single computer I've ever owned since it was created."
+  - marker: `[img: ErickCalderon-the-legend-of-zelda.jpg | The Legend of Zelda — Erick Calderon (Round 2) | ]`
+- **CryptoPunks** — 1× · first ~turn 107/161 (66% in)
+  - context: "But this is the dilemma: I was on a Twitter Spaces call with Matt Hall and John Watkinson the other day for the CryptoPunks book that's being released, and John"
+  - marker: `[img: ErickCalderon-cryptopunks.jpg | CryptoPunks — Erick Calderon (Round 2) | ]`
+
+## AlejandroCampos — Generative Art is a Website · Alejandro Campos
+- **Enfantines** — 12× · first ~turn 4/135 (3% in)
+  - context: "I think fans of the show will know you from the Enfantines series on fx(hash), from Pensado a Mano, and probably from the works in progress you've been sharing "
+  - marker: `[img: AlejandroCampos-enfantines.jpg | Enfantines — Alejandro Campos | ]`
+- **Fantasia** — 9× · first ~turn 9/135 (7% in)
+  - context: "It's always been connected to websites, which is important for explaining Fantasia, because I've realized over the last few months that what we're doing is actu"
+  - marker: `[img: AlejandroCampos-fantasia.jpg | Fantasia — Alejandro Campos | ]`
+- **Pensado a Mano** — 5× · first ~turn 4/135 (3% in)
+  - context: "I think fans of the show will know you from the Enfantines series on fx(hash), from Pensado a Mano, and probably from the works in progress you've been sharing "
+  - marker: `[img: AlejandroCampos-pensado-a-mano.jpg | Pensado a Mano — Alejandro Campos | ]`
+- **Holo** — 2× · first ~turn 15/135 (11% in)
+  - context: "It was one project of his in particular, Holo —"
+  - marker: `[img: AlejandroCampos-holo.jpg | Holo — Alejandro Campos | ]`
+- **Fantasía** — 2× · first ~turn 44/135 (33% in)
+  - context: "We can call it Fantasía, though."
+  - marker: `[img: AlejandroCampos-fantas-a.jpg | Fantasía — Alejandro Campos | ]`
+- **Fuga Tientas** — 2× · first ~turn 51/135 (38% in)
+  - context: "Around then I'd also been getting suggestions and questions about Enfantines and Fuga Tientas — whether they were really generative, or whether I should try to "
+  - marker: `[img: AlejandroCampos-fuga-tientas.jpg | Fuga Tientas — Alejandro Campos | ]`
+- **Maps of Life** — 1× · first ~turn 18/135 (13% in)
+  - context: "We see that influence most clearly in your earliest works on fx(hash) — Maps of Life and Sparsely Populated Grid."
+  - marker: `[img: AlejandroCampos-maps-of-life.jpg | Maps of Life — Alejandro Campos | ]`
+- **Sparsely Populated Grid** — 1× · first ~turn 18/135 (13% in)
+  - context: "We see that influence most clearly in your earliest works on fx(hash) — Maps of Life and Sparsely Populated Grid."
+  - marker: `[img: AlejandroCampos-sparsely-populated-grid.jpg | Sparsely Populated Grid — Alejandro Campos | ]`
+
+## IskraVelitchkova — The Distance of a Bird · Iskra Velitchkova
+- **Uninhabitable** — 7× · first ~turn 26/118 (22% in)
+  - context: "Maybe you could speak to how that translates into your projects, even the first one we know you from, Uninhabitable."
+  - marker: `[img: IskraVelitchkova-uninhabitable.jpg | Uninhabitable — Iskra Velitchkova | ]`
+- **Zabriskie Point** — 3× · first ~turn 17/118 (14% in)
+  - context: "You've referenced Zabriskie Point in some recent work — what would be the syllabus of things people should check out to get to know you?"
+  - marker: `[img: IskraVelitchkova-zabriskie-point.jpg | Zabriskie Point — Iskra Velitchkova | ]`
+- **Escape** — 2× · first ~turn 26/118 (22% in)
+  - context: "It's interesting to hear you say that, because a lot of what we've seen from your work — or things I think of when I think of your work — is that influence of u"
+  - marker: `[img: IskraVelitchkova-escape.jpg | Escape — Iskra Velitchkova | ]`
+- **Nowhere** — 2× · first ~turn 27/118 (23% in)
+  - context: "I'm really looking for a Nowhere, because that's the one that speaks to my soul the most."
+  - marker: `[img: IskraVelitchkova-nowhere.jpg | Nowhere — Iskra Velitchkova | ]`
+- **Edno** — 2× · first ~turn 41/118 (35% in)
+  - context: "You're one of the few who came back, with Edno — and not just to ETH, you put that one out on Tezos."
+  - marker: `[img: IskraVelitchkova-edno.jpg | Edno — Iskra Velitchkova | ]`
+- **that** — 1× · first ~turn 8/118 (7% in)
+  - context: "I realized the algorithms interested me far more than the data itself, because I felt constrained — the data says it should look like that, so you have to repre"
+  - marker: `[img: IskraVelitchkova-that.jpg | that — Iskra Velitchkova | ]`
+- **this** — 1× · first ~turn 8/118 (7% in)
+  - context: "I realized the algorithms interested me far more than the data itself, because I felt constrained — the data says it should look like that, so you have to repre"
+  - marker: `[img: IskraVelitchkova-this.jpg | this — Iskra Velitchkova | ]`
+- **Solaris** — 1× · first ~turn 18/118 (15% in)
+  - context: "Sometimes I get inspired by movies like Solaris by Tarkovsky, or books, or Fellini for the new Bright Moments piece, or Zabriskie Point for the fx(hash) project"
+  - marker: `[img: IskraVelitchkova-solaris.jpg | Solaris — Iskra Velitchkova | ]`
+
+## RichPoole_RickCrane — Uncompromising Collaborations · Rich Poole & Rick Crane
+- **Acequia** — 46× · first ~turn 29/191 (15% in)
+  - context: "We really enjoyed working on that, and almost as soon as we finished it we were saying, right, we should do this again — and Acequia emerged off the back of tha"
+  - marker: `[img: RichPoole_RickCrane-acequia.jpg | Acequia — Rich Poole & Rick Crane | ]`
+- **Miniscapes** — 16× · first ~turn 3/191 (2% in)
+  - context: "It's been a while since we've had a dual episode, and I think you've both been collaborating together since Miniscapes came out in beta, right?"
+  - marker: `[img: RichPoole_RickCrane-miniscapes.jpg | Miniscapes — Rich Poole & Rick Crane | ]`
+- **IsoMetro** — 7× · first ~turn 82/191 (43% in)
+  - context: "I'd love to hear what you can tell us about IsoMetro — what this collaboration has been like, when you got started, what you can share."
+  - marker: `[img: RichPoole_RickCrane-isometro.jpg | IsoMetro — Rich Poole & Rick Crane | ]`
+- **Towers** — 2× · first ~turn 159/191 (83% in)
+  - context: "I ended up getting one by trading—I had a Towers piece in my collection, by Mark, with a Q I think, and we swapped so I could get an Acequia."
+  - marker: `[img: RichPoole_RickCrane-towers.jpg | Towers — Rich Poole & Rick Crane | ]`
+- **Soundscape** — 1× · first ~turn 27/191 (14% in)
+  - context: "Rick has a piece on his own foundation called Soundscape — that was the one someone had basically borrowed 99% of and then tried to pretend it was their own ide"
+  - marker: `[img: RichPoole_RickCrane-soundscape.jpg | Soundscape — Rich Poole & Rick Crane | ]`
+- **Monument Valley** — 1× · first ~turn 69/191 (36% in)
+  - context: "I'd done a vector-based illustration in a kind of Escher style — a lot of people say my work looks like Monument Valley — stairs going in all directions, doors,"
+  - marker: `[img: RichPoole_RickCrane-monument-valley.jpg | Monument Valley — Rich Poole & Rick Crane | ]`
+- **Archetypes** — 1× · first ~turn 118/191 (62% in)
+  - context: "if you took Archetypes and started putting little people in it, all of a sudden it stops being something you'd necessarily hang in your dining room or sitting a"
+  - marker: `[img: RichPoole_RickCrane-archetypes.jpg | Archetypes — Rich Poole & Rick Crane | ]`
+- **Bookends** — 1× · first ~turn 162/191 (85% in)
+  - context: "What's nice about that—purely by accident—there's a collector who does a thing called Bookends, where he takes the first and the last of a series."
+  - marker: `[img: RichPoole_RickCrane-bookends.jpg | Bookends — Rich Poole & Rick Crane | ]`
+
+## ErikSwahn — Computational Creativity · Erik Swahn
+- **Fields** — 9× · first ~turn 30/107 (28% in)
+  - context: "To continue on this progression you've done since Farbteiler, into Punktwelt and Fields—how would you describe these projects in general as they've evolved?"
+  - marker: `[img: ErikSwahn-fields.jpg | Fields — Erik Swahn | ]`
+- **Autoscope** — 9× · first ~turn 32/107 (30% in)
+  - context: "Gradually I've become more interested in the configuration of objects and place, which is what I'm exploring in the new series, Autoscope."
+  - marker: `[img: ErikSwahn-autoscope.jpg | Autoscope — Erik Swahn | ]`
+- **Farbteiler** — 8× · first ~turn 0/107 (0% in)
+  - context: "We're joined today by Erik Swahn — fx(hash) legend, Verse legend, the man who made Farbteiler, which we collected instead of Garden, Monoliths, which we can tal"
+  - marker: `[img: ErikSwahn-farbteiler.jpg | Farbteiler — Erik Swahn | ]`
+- **Punktwelt** — 8× · first ~turn 30/107 (28% in)
+  - context: "To continue on this progression you've done since Farbteiler, into Punktwelt and Fields—how would you describe these projects in general as they've evolved?"
+  - marker: `[img: ErikSwahn-punktwelt.jpg | Punktwelt — Erik Swahn | ]`
+- **Retrogrades** — 6× · first ~turn 15/107 (14% in)
+  - context: "Was that the case with Retrogrades, Disegnatori, and Farbteiler — just sitting there, and then boom, upload and see if people collect?"
+  - marker: `[img: ErikSwahn-retrogrades.jpg | Retrogrades — Erik Swahn | ]`
+- **Disegnatori** — 4× · first ~turn 15/107 (14% in)
+  - context: "Was that the case with Retrogrades, Disegnatori, and Farbteiler — just sitting there, and then boom, upload and see if people collect?"
+  - marker: `[img: ErikSwahn-disegnatori.jpg | Disegnatori — Erik Swahn | ]`
+- **Garden, Monoliths** — 1× · first ~turn 0/107 (0% in)
+  - context: "We're joined today by Erik Swahn — fx(hash) legend, Verse legend, the man who made Farbteiler, which we collected instead of Garden, Monoliths, which we can tal"
+  - marker: `[img: ErikSwahn-garden-monoliths.jpg | Garden, Monoliths — Erik Swahn | ]`
+- **Cosmic Rays** — 1× · first ~turn 54/107 (50% in)
+  - context: "That project, and Cosmic Rays by Melissa—the mechanism is still very appealing, but there was novelty to it too."
+  - marker: `[img: ErikSwahn-cosmic-rays.jpg | Cosmic Rays — Erik Swahn | ]`
+
+## JamieGourlay — Evolving Verse · Jamie Gourlay, Founder of Verse
+- **Carbon Captures** — 6× · first ~turn 109/131 (83% in)
+  - context: "The obvious play is getting Zancan to make something, then setting up a "burn five Carbon Captures to redeem" mechanism."
+  - marker: `[img: JamieGourlay-carbon-captures.jpg | Carbon Captures — Jamie Gourlay, Founder of Verse | ]`
+- **Anticyclone** — 4× · first ~turn 68/131 (52% in)
+  - context: "We've really struggled with it with art-world artists, because everyone wants to be holding Ringers, Anticyclone, and so on for the next cycle, and those are al"
+  - marker: `[img: JamieGourlay-anticyclone.jpg | Anticyclone — Jamie Gourlay, Founder of Verse | ]`
+- **Barbarians** — 3× · first ~turn 103/131 (79% in)
+  - context: "If you've logged onto Twitter at any point in the last three or four weeks, you've probably heard of Barbarians—seen it, know where it is, know what it looks li"
+  - marker: `[img: JamieGourlay-barbarians.jpg | Barbarians — Jamie Gourlay, Founder of Verse | ]`
+- **Cosmic Rays** — 2× · first ~turn 3/131 (2% in)
+  - context: "For some frame of reference—for Jamie, who may have forgotten everything that's happened in the last year because it's been such a whirlwind, and for listeners "
+  - marker: `[img: JamieGourlay-cosmic-rays.jpg | Cosmic Rays — Jamie Gourlay, Founder of Verse | ]`
+- **Broken Printer** — 1× · first ~turn 24/131 (18% in)
+  - context: "The piece is called Broken Printer."
+  - marker: `[img: JamieGourlay-broken-printer.jpg | Broken Printer — Jamie Gourlay, Founder of Verse | ]`
+- **for** — 1× · first ~turn 31/131 (24% in)
+  - context: "Whereas a lot of art world artists we've spoken to are trying to create something for this space, and you can tell."
+  - marker: `[img: JamieGourlay-for.jpg | for — Jamie Gourlay, Founder of Verse | ]`
+- **Verse** — 1× · first ~turn 67/131 (51% in)
+  - context: "Getting Verse releases seen in that light is our job, because for the artist it puts them on the map, and for collectors it means they have something that isn't"
+  - marker: `[img: JamieGourlay-verse.jpg | Verse — Jamie Gourlay, Founder of Verse | ]`
+- **Ringers** — 1× · first ~turn 68/131 (52% in)
+  - context: "We've really struggled with it with art-world artists, because everyone wants to be holding Ringers, Anticyclone, and so on for the next cycle, and those are al"
+  - marker: `[img: JamieGourlay-ringers.jpg | Ringers — Jamie Gourlay, Founder of Verse | ]`
+
+## ErickCalderon_2 — Building The Next Wave of GenArt Lovers · Erick Calderon
+- **Fidenza** — 2× · first ~turn 86/184 (47% in)
+  - context: "Sometimes that looks cheesy or commercial, but it gives me the tools to sell this — not to someone who can pull $100,000 out of their account to buy a Fidenza ("
+  - marker: `[img: ErickCalderon_2-fidenza.jpg | Fidenza — Erick Calderon | ]`
+- **Squiggles** — 2× · first ~turn 86/184 (47% in)
+  - context: "People were buying $20 Squiggles, $40 for everything else."
+  - marker: `[img: ErickCalderon_2-squiggles.jpg | Squiggles — Erick Calderon | ]`
+- **Generative Goods** — 2× · first ~turn 134/184 (73% in)
+  - context: "That's why Generative Goods exists."
+  - marker: `[img: ErickCalderon_2-generative-goods.jpg | Generative Goods — Erick Calderon | ]`
+- **Gazers** — 1× · first ~turn 13/184 (7% in)
+  - context: "I don't remember exactly when it caught my attention, but when the Gazers drop happened on Sansa, I took a hard look and was really impressed by what I was seei"
+  - marker: `[img: ErickCalderon_2-gazers.jpg | Gazers — Erick Calderon | ]`
+- **Botto** — 1× · first ~turn 93/184 (51% in)
+  - context: "I love what I'm seeing, even when the AI isn't controlled by a human — more like Botto."
+  - marker: `[img: ErickCalderon_2-botto.jpg | Botto — Erick Calderon | ]`
+- **Prohibition** — 1× · first ~turn 96/184 (52% in)
+  - context: "One thing we theorized was the inclusion of open editions or inclusive editions, like what you did with Prohibition and the Heart."
+  - marker: `[img: ErickCalderon_2-prohibition.jpg | Prohibition — Erick Calderon | ]`
+- **the Heart** — 1× · first ~turn 96/184 (52% in)
+  - context: "One thing we theorized was the inclusion of open editions or inclusive editions, like what you did with Prohibition and the Heart."
+  - marker: `[img: ErickCalderon_2-the-heart.jpg | the Heart — Erick Calderon | ]`
+- **Torrent** — 1× · first ~turn 109/184 (59% in)
+  - context: "Jeres, with Torrent, is one of my top Art Blocks Curated projects of all time —"
+  - marker: `[img: ErickCalderon_2-torrent.jpg | Torrent — Erick Calderon | ]`
+
+## NicolasStreschinsky — What Is Etherlink? · Nicolas Streschinsky
+_No italicized works found._
+
+## JacekMarkusiewicz — Baudrillard, Blockchains & Barbarians · Jacek Markusiewicz
+- **Barbarians** — 9× · first ~turn 4/121 (3% in)
+  - context: "We're super excited to have Jacek on to talk about Barbarians, his upcoming Verse Solos release, but also to talk about all of your work, because we've been col"
+  - marker: `[img: JacekMarkusiewicz-barbarians.jpg | Barbarians — Jacek Markusiewicz | ]`
+- **Hollow** — 9× · first ~turn 5/121 (4% in)
+  - context: "Not to spoil it, but the only generative art piece I've printed is Hollow."
+  - marker: `[img: JacekMarkusiewicz-hollow.jpg | Hollow — Jacek Markusiewicz | ]`
+- **Unbuilt** — 4× · first ~turn 5/121 (4% in)
+  - context: "The next thing I'm thinking about getting printed would be Unbuilt and/or Barbarians, depending."
+  - marker: `[img: JacekMarkusiewicz-unbuilt.jpg | Unbuilt — Jacek Markusiewicz | ]`
+- **Reborn** — 3× · first ~turn 39/121 (32% in)
+  - context: "Maybe this is a great segue into your other early works on fx(hash), specifically Unbuilt and Reborn."
+  - marker: `[img: JacekMarkusiewicz-reborn.jpg | Reborn — Jacek Markusiewicz | ]`
+- **Ephemeral** — 2× · first ~turn 26/121 (21% in)
+  - context: "Ephemeral is your first really significant drop there, and it's so unlike anything you'd done before."
+  - marker: `[img: JacekMarkusiewicz-ephemeral.jpg | Ephemeral — Jacek Markusiewicz | ]`
+- **Cantera** — 2× · first ~turn 64/121 (53% in)
+  - context: "We also see thematic similarities to Cantera, your project with Bright Moments — the interplay of humans and ecology, the spaces we inhabit, the aforementioned "
+  - marker: `[img: JacekMarkusiewicz-cantera.jpg | Cantera — Jacek Markusiewicz | ]`
+- **The Logic of Architecture** — 1× · first ~turn 41/121 (34% in)
+  - context: "I was always fascinated by the algorithmic approach to understanding historical architecture in works like Bill Mitchell's book The Logic of Architecture."
+  - marker: `[img: JacekMarkusiewicz-the-logic-of-architecture.jpg | The Logic of Architecture — Jacek Markusiewicz | ]`
+- **fmorld** — 1× · first ~turn 47/121 (39% in)
+  - context: "You started with fmorld, this small exploration of almost a rock or a gem."
+  - marker: `[img: JacekMarkusiewicz-fmorld.jpg | fmorld — Jacek Markusiewicz | ]`
+
+## KjetilGolid — Structural Complexity Through Visual Clarity · Kjetil Golid
+- **Archetype** — 22× · first ~turn 0/100 (0% in)
+  - context: "Of course we're also going to get into your history — I think we'll talk about Archetype, that's unavoidable."
+  - marker: `[img: KjetilGolid-archetype.jpg | Archetype — Kjetil Golid | ]`
+- **Paper Armada** — 8× · first ~turn 15/100 (15% in)
+  - context: "I also got offers to supply code for some of these generative pieces so they could be framed and turned into NFTs on a platform — that was actually a precursor "
+  - marker: `[img: KjetilGolid-paper-armada.jpg | Paper Armada — Kjetil Golid | ]`
+- **Monument** — 6× · first ~turn 0/100 (0% in)
+  - context: "We're here to talk about his upcoming release on Verse called Monument."
+  - marker: `[img: KjetilGolid-monument.jpg | Monument — Kjetil Golid | ]`
+- **Curvescape** — 4× · first ~turn 19/100 (19% in)
+  - context: "The first works you put on KnownOrigin, if I'm seeing this right, were the Curvescape series —"
+  - marker: `[img: KjetilGolid-curvescape.jpg | Curvescape — Kjetil Golid | ]`
+- **Decagon** — 2× · first ~turn 43/100 (43% in)
+  - context: "Thinking about long-form generative work -- between Archetype and the Decagon piece you made for DECA, which isn't quite long-form, more like an open edition si"
+  - marker: `[img: KjetilGolid-decagon.jpg | Decagon — Kjetil Golid | ]`
+- **Crosshatch Automata** — 1× · first ~turn 18/100 (18% in)
+  - context: "I used my algorithm Crosshatch Automata and minted some new NFTs on Super Rare, which got quite a bit of attention."
+  - marker: `[img: KjetilGolid-crosshatch-automata.jpg | Crosshatch Automata — Kjetil Golid | ]`
+- **Stock** — 1× · first ~turn 31/100 (31% in)
+  - context: "It was my latest iteration of that algorithm at the time, and I was really happy with it -- I'd made tweaks to an earlier piece called Stock that was on SuperRa"
+  - marker: `[img: KjetilGolid-stock.jpg | Stock — Kjetil Golid | ]`
+- **Chromie Squiggle** — 1× · first ~turn 36/100 (36% in)
+  - context: "I kind of wanted it to become something like Snowfro's Chromie Squiggle -- something that didn't need to mint out immediately."
+  - marker: `[img: KjetilGolid-chromie-squiggle.jpg | Chromie Squiggle — Kjetil Golid | ]`
+
+## JanRobertLeegte — Sculpting The Web · Jan Robert Leegte
+- **Broken Images** — 6× · first ~turn 72/116 (62% in)
+  - context: "Maybe we can talk about Broken Images."
+  - marker: `[img: JanRobertLeegte-broken-images.jpg | Broken Images — Jan Robert Leegte | ]`
+- **Mutant Garden Seeder** — 2× · first ~turn 31/116 (27% in)
+  - context: "In the middle of that panic, Harm van den Dorpel — you probably know him from Mutant Garden Seeder and other drops — came over."
+  - marker: `[img: JanRobertLeegte-mutant-garden-seeder.jpg | Mutant Garden Seeder — Jan Robert Leegte | ]`
+- **Ornament** — 2× · first ~turn 34/116 (29% in)
+  - context: "He took me by the hand and explained how the world worked, and we had a great time developing Ornament together."
+  - marker: `[img: JanRobertLeegte-ornament.jpg | Ornament — Jan Robert Leegte | ]`
+- **Mountains and Dropshadows** — 2× · first ~turn 47/116 (41% in)
+  - context: "I'm not sure if it was your first project using AI, but the one I found recently was Mountains and Dropshadows, which you released on Verse -- a reimagination o"
+  - marker: `[img: JanRobertLeegte-mountains-and-dropshadows.jpg | Mountains and Dropshadows — Jan Robert Leegte | ]`
+- **Web** — 2× · first ~turn 49/116 (42% in)
+  - context: "I first used AI with Web, which was a recent drop, in September, I believe."
+  - marker: `[img: JanRobertLeegte-web.jpg | Web — Jan Robert Leegte | ]`
+- **Hackers** — 1× · first ~turn 15/116 (13% in)
+  - context: "When you talk about using it as a form of installation — have you seen the movie Hackers?"
+  - marker: `[img: JanRobertLeegte-hackers.jpg | Hackers — Jan Robert Leegte | ]`
+- **Snow Crash** — 1× · first ~turn 20/116 (17% in)
+  - context: "I was a big fan of Snow Crash — similar vibe."
+  - marker: `[img: JanRobertLeegte-snow-crash.jpg | Snow Crash — Jan Robert Leegte | ]`
+- **Window** — 1× · first ~turn 35/116 (30% in)
+  - context: "Shortly after, my contact with Art Blocks became fruitful — you reach out, and two or three months later they say, "okay, we want to do something." That's when "
+  - marker: `[img: JanRobertLeegte-window.jpg | Window — Jan Robert Leegte | ]`
+
+## LoVid — Feeling Infinity · LoVid (Tali Hinkis & Kyle Lapidus)
+- **Heartsleeves** — 10× · first ~turn 45/153 (29% in)
+  - context: "You've had a few projects — Tide Predictor, Augury, and the upcoming Heartsleeves, which will be with Tonic — that incorporate aspects of the analog devices you"
+  - marker: `[img: LoVid-heartsleeves.jpg | Heartsleeves — LoVid (Tali Hinkis & Kyle Lapidus) | ]`
+- **Hugs on Tape** — 5× · first ~turn 62/153 (41% in)
+  - context: "In 2021, we slowly released Hugs on Tape, an animated series, only through select galleries — at the time there were galleries in New York and LA experimenting "
+  - marker: `[img: LoVid-hugs-on-tape.jpg | Hugs on Tape — LoVid (Tali Hinkis & Kyle Lapidus) | ]`
+- **Tide Predictor** — 4× · first ~turn 45/153 (29% in)
+  - context: "You've had a few projects — Tide Predictor, Augury, and the upcoming Heartsleeves, which will be with Tonic — that incorporate aspects of the analog devices you"
+  - marker: `[img: LoVid-tide-predictor.jpg | Tide Predictor — LoVid (Tali Hinkis & Kyle Lapidus) | ]`
+- **Hack Your Face** — 2× · first ~turn 71/153 (46% in)
+  - context: "That piece was called Hack Your Face, and it involved people plugging their bodies into the synthesizer."
+  - marker: `[img: LoVid-hack-your-face.jpg | Hack Your Face — LoVid (Tali Hinkis & Kyle Lapidus) | ]`
+- **Wireful Interventions** — 2× · first ~turn 72/153 (47% in)
+  - context: "We called those pieces Wireful Interventions — people would touch cables and affect the signals we were playing live."
+  - marker: `[img: LoVid-wireful-interventions.jpg | Wireful Interventions — LoVid (Tali Hinkis & Kyle Lapidus) | ]`
+- **Ponyo** — 2× · first ~turn 124/153 (81% in)
+  - context: "For Ponyo."
+  - marker: `[img: LoVid-ponyo.jpg | Ponyo — LoVid (Tali Hinkis & Kyle Lapidus) | ]`
+- **Arbitrarily Deterministic** — 1× · first ~turn 17/153 (11% in)
+  - context: "I listened to Ken's podcast with you from last year too, so anyone who wants even more LoVid should go check out Arbitrarily Deterministic."
+  - marker: `[img: LoVid-arbitrarily-deterministic.jpg | Arbitrarily Deterministic — LoVid (Tali Hinkis & Kyle Lapidus) | ]`
+- **Augury** — 1× · first ~turn 45/153 (29% in)
+  - context: "You've had a few projects — Tide Predictor, Augury, and the upcoming Heartsleeves, which will be with Tonic — that incorporate aspects of the analog devices you"
+  - marker: `[img: LoVid-augury.jpg | Augury — LoVid (Tali Hinkis & Kyle Lapidus) | ]`
+
+## PierreCasadebeig — Minimum Viable Mountain · Pierre Casadebeig
+- **Ridge Regressions** — 6× · first ~turn 41/118 (35% in)
+  - context: "Walk us through that journey with Ridge Regressions."
+  - marker: `[img: PierreCasadebeig-ridge-regressions.jpg | Ridge Regressions — Pierre Casadebeig | ]`
+- **Meridian** — 3× · first ~turn 22/118 (19% in)
+  - context: "It started with an idea: take a surface from elevation data, cut it, analyze it, and shape the output to resemble my early mountain pieces, which were an imitat"
+  - marker: `[img: PierreCasadebeig-meridian.jpg | Meridian — Pierre Casadebeig | ]`
+- **Despair** — 2× · first ~turn 28/118 (24% in)
+  - context: "Another way you use data — I noticed this looking at Despair and some of your other projects — is that in addition to adding noise, you're discarding data."
+  - marker: `[img: PierreCasadebeig-despair.jpg | Despair — Pierre Casadebeig | ]`
+- **Polyline Hiking** — 2× · first ~turn 36/118 (31% in)
+  - context: "Some pieces are almost photorealistic, some are very similar to Meridian, and Polyline Hiking barely reads as a mountain at all — it's pure interpretation."
+  - marker: `[img: PierreCasadebeig-polyline-hiking.jpg | Polyline Hiking — Pierre Casadebeig | ]`
+- **Yazidographia** — 1× · first ~turn 51/118 (43% in)
+  - context: "A more recent example is Golan Levin's Yazidographia drop."
+  - marker: `[img: PierreCasadebeig-yazidographia.jpg | Yazidographia — Pierre Casadebeig | ]`
+- **After the Fall** — 1× · first ~turn 83/118 (70% in)
+  - context: "And feel free to throw in any media recommendations — I actually really enjoyed a French film this year called After the Fall."
+  - marker: `[img: PierreCasadebeig-after-the-fall.jpg | After the Fall — Pierre Casadebeig | ]`
+- **Asemica** — 1× · first ~turn 90/118 (76% in)
+  - context: "The key pieces I have are from Zancan, and from Emily Edelman — she makes a series called Asemica."
+  - marker: `[img: PierreCasadebeig-asemica.jpg | Asemica — Pierre Casadebeig | ]`
+
+## FrankManzano_ArtieHandz — Perfection Isn't Interesting · Frank Manzano & Artie Handz
+- **ScheduledProgramming** — 1× · first ~turn 11/105 (10% in)
+  - context: "You've got the ScheduledProgramming exhibition coming up on the 11th or 12th?"
+  - marker: `[img: FrankManzano_ArtieHandz-scheduledprogramming.jpg | ScheduledProgramming — Frank Manzano & Artie Handz | ]`
+- **Life in West America** — 1× · first ~turn 15/105 (14% in)
+  - context: "I bought a piece — not minted, bought right after — Life in West America by Rupe."
+  - marker: `[img: FrankManzano_ArtieHandz-life-in-west-america.jpg | Life in West America — Frank Manzano & Artie Handz | ]`
+- **Forrest Gump** — 1× · first ~turn 32/105 (30% in)
+  - context: "And I would honest to God get treated like, "we don't think this work should go to you" — basically, "seat's taken," a Forrest Gump reference, super topical."
+  - marker: `[img: FrankManzano_ArtieHandz-forrest-gump.jpg | Forrest Gump — Frank Manzano & Artie Handz | ]`
+- **Riots** — 1× · first ~turn 59/105 (56% in)
+  - context: "Kevin Abosch has a cool series called Riots — he's created these riot scenes, and you're obviously not taking a camera into an actual riot to get that."
+  - marker: `[img: FrankManzano_ArtieHandz-riots.jpg | Riots — Frank Manzano & Artie Handz | ]`
+- **Pseudo-Psychodynamics** — 1× · first ~turn 78/105 (74% in)
+  - context: "The one I wasn't in love with initially was Pseudo-Psychodynamics."
+  - marker: `[img: FrankManzano_ArtieHandz-pseudo-psychodynamics.jpg | Pseudo-Psychodynamics — Frank Manzano & Artie Handz | ]`
+- **know** — 1× · first ~turn 87/105 (83% in)
+  - context: "There are about 5,000 people I know that I don't know, if that makes sense — so I'm trying to think of someone I haven't already heard speak."
+  - marker: `[img: FrankManzano_ArtieHandz-know.jpg | know — Frank Manzano & Artie Handz | ]`
+- **Formae** — 1× · first ~turn 98/105 (93% in)
+  - context: "Yeah, Formae."
+  - marker: `[img: FrankManzano_ArtieHandz-formae.jpg | Formae — Frank Manzano & Artie Handz | ]`
+- **Ordn** — 1× · first ~turn 99/105 (94% in)
+  - context: "Ordn."
+  - marker: `[img: FrankManzano_ArtieHandz-ordn.jpg | Ordn — Frank Manzano & Artie Handz | ]`
+
+## KimAsendorf — The Aesthetic of a Pixel · Kim Asendorf
+- **Cargo** — 10× · first ~turn 12/108 (11% in)
+  - context: "I know Cargo, more recently, was an Art Blocks piece."
+  - marker: `[img: KimAsendorf-cargo.jpg | Cargo — Kim Asendorf | ]`
+- **Reading a Book** — 8× · first ~turn 8/108 (7% in)
+  - context: "Punevyr, an artist we love and have had on the show before, wanted us to ask you: how did Reading a Book end up on fx(hash)?"
+  - marker: `[img: KimAsendorf-reading-a-book.jpg | Reading a Book — Kim Asendorf | ]`
+- **Monogrids** — 7× · first ~turn 16/108 (15% in)
+  - context: "We wanted to ask about your background project, Monogrids, and its connection to your later work, Blockendoos."
+  - marker: `[img: KimAsendorf-monogrids.jpg | Monogrids — Kim Asendorf | ]`
+- **Fidenza** — 4× · first ~turn 41/108 (38% in)
+  - context: "One of the most famous is Fidenza, a beautifully executed, well-made project, but not technically innovative."
+  - marker: `[img: KimAsendorf-fidenza.jpg | Fidenza — Kim Asendorf | ]`
+- **Blockendoos** — 3× · first ~turn 16/108 (15% in)
+  - context: "We wanted to ask about your background project, Monogrids, and its connection to your later work, Blockendoos."
+  - marker: `[img: KimAsendorf-blockendoos.jpg | Blockendoos — Kim Asendorf | ]`
+- **Reading A Book** — 2× · first ~turn 60/108 (56% in)
+  - context: "With that said—at least out of the projects we know and love you for, whether it's Reading A Book, Cargo, or Zoom, which is one of my personal favorites—they're"
+  - marker: `[img: KimAsendorf-reading-a-book.jpg | Reading A Book — Kim Asendorf | ]`
+- **Worms** — 2× · first ~turn 65/108 (60% in)
+  - context: "It sounds like Worms."
+  - marker: `[img: KimAsendorf-worms.jpg | Worms — Kim Asendorf | ]`
+- **SimCity 2000** — 2× · first ~turn 67/108 (62% in)
+  - context: "You did a project around SimCity 2000, right?"
+  - marker: `[img: KimAsendorf-simcity-2000.jpg | SimCity 2000 — Kim Asendorf | ]`
+
+## LukeShannon — Waiting To Sit · Luke Shannon
+- **The Opera** — 2× · first ~turn 6/114 (5% in)
+  - context: "I have a couple of projects — The Opera with Art Blocks, Orchids with Bright Moments — and some one-of-ones."
+  - marker: `[img: LukeShannon-the-opera.jpg | The Opera — Luke Shannon | ]`
+- **Orchids** — 2× · first ~turn 6/114 (5% in)
+  - context: "I have a couple of projects — The Opera with Art Blocks, Orchids with Bright Moments — and some one-of-ones."
+  - marker: `[img: LukeShannon-orchids.jpg | Orchids — Luke Shannon | ]`
+- **Seating Arrangements** — 2× · first ~turn 29/114 (25% in)
+  - context: "I'd love to hear more about that — and let's jump forward to the generative chair, the project you have coming up with Tonic, called Seating Arrangements."
+  - marker: `[img: LukeShannon-seating-arrangements.jpg | Seating Arrangements — Luke Shannon | ]`
+- **Chair for Short Visits** — 1× · first ~turn 31/114 (27% in)
+  - context: "One of my favorite chairs is by Bruno Munari — it's called Chair for Short Visits, a chair slanted at about a 60-degree angle that you can't really sit in."
+  - marker: `[img: LukeShannon-chair-for-short-visits.jpg | Chair for Short Visits — Luke Shannon | ]`
+- **A Thousand Chairs** — 1× · first ~turn 32/114 (28% in)
+  - context: "I've had a lot of fun investigating this — I've got a book called A Thousand Chairs and spend a lot of time with each one online."
+  - marker: `[img: LukeShannon-a-thousand-chairs.jpg | A Thousand Chairs — Luke Shannon | ]`
+- **because** — 1× · first ~turn 49/114 (43% in)
+  - context: "You could also argue the opposite—that well-designed objects recede because they're so well-designed they don't need to occupy any space in your mind."
+  - marker: `[img: LukeShannon-because.jpg | because — Luke Shannon | ]`
+- **Ringers** — 1× · first ~turn 58/114 (51% in)
+  - context: "It's funny contrasting this with a lot of popular generative art projects where the pieces are meant to be abstract, and collectors browse the outputs looking f"
+  - marker: `[img: LukeShannon-ringers.jpg | Ringers — Luke Shannon | ]`
+- **Stitchables** — 1× · first ~turn 63/114 (55% in)
+  - context: "With Stitchables and one of my previous works, pattern.dst, both generative embroidery fashion projects producing one-of-one instructional art, I feel like the "
+  - marker: `[img: LukeShannon-stitchables.jpg | Stitchables — Luke Shannon | ]`
+
+## MarcelSchwittlick — Cursor Lines & Drawing Machines · Marcel Schwittlick
+- **Upward Spiral** — 8× · first ~turn 21/111 (19% in)
+  - context: "In your interview with Ken, you mentioned that you don't really use randomness or noise -- you were talking about the Upward Spiral series, where each piece was"
+  - marker: `[img: MarcelSchwittlick-upward-spiral.jpg | Upward Spiral — Marcel Schwittlick | ]`
+- **Octet** — 7× · first ~turn 42/111 (38% in)
+  - context: "I noticed with the Octet series -- you posted videos of the performance -- that the machines you used there, rather than having an arm that goes around and plot"
+  - marker: `[img: MarcelSchwittlick-octet.jpg | Octet — Marcel Schwittlick | ]`
+- **luminograms** — 6× · first ~turn 64/111 (58% in)
+  - context: "This is a continuation of the luminograms series you've been working on, which I think started with It Is What It Is."
+  - marker: `[img: MarcelSchwittlick-luminograms.jpg | luminograms — Marcel Schwittlick | ]`
+- **Luminograms** — 3× · first ~turn 28/111 (25% in)
+  - context: "I'm not sure how long the Luminograms take, but with generative art and long-form work, we're primarily dealing with tokenized pieces that aren't necessarily pr"
+  - marker: `[img: MarcelSchwittlick-luminograms.jpg | Luminograms — Marcel Schwittlick | ]`
+- **Composition** — 1× · first ~turn 16/111 (14% in)
+  - context: "Today, when I do a series under a certain idea, I call them Composition number whatever — all based on cursor lines."
+  - marker: `[img: MarcelSchwittlick-composition.jpg | Composition — Marcel Schwittlick | ]`
+- **The Long Run** — 1× · first ~turn 43/111 (39% in)
+  - context: "Before we get to Octet, I wanted to ask about The Long Run, a shorter series -- five or six pieces exploring antique pens that might be 40 years old, depending "
+  - marker: `[img: MarcelSchwittlick-the-long-run.jpg | The Long Run — Marcel Schwittlick | ]`
+- **It Is What It Is** — 1× · first ~turn 64/111 (58% in)
+  - context: "This is a continuation of the luminograms series you've been working on, which I think started with It Is What It Is."
+  - marker: `[img: MarcelSchwittlick-it-is-what-it-is.jpg | It Is What It Is — Marcel Schwittlick | ]`
+- **Against Abstraction** — 1× · first ~turn 65/111 (59% in)
+  - context: "It's fascinating, and there's a lot out there for people interested in generative art specifically — there's a fantastic encyclopedia called Against Abstraction"
+  - marker: `[img: MarcelSchwittlick-against-abstraction.jpg | Against Abstraction — Marcel Schwittlick | ]`
+
+## SusannahMaybank — Physicals in a Digital Art World · Susannah Maybank, co-founder of Tonic.xyz
+- **Escape, a broken opera** — 1× · first ~turn 54/191 (28% in)
+  - context: "I have an Escape, a broken opera, and I got the physical, but it's just sitting in my closet because I haven't taken it to—"
+  - marker: `[img: SusannahMaybank-escape-a-broken-opera.jpg | Escape, a broken opera — Susannah Maybank, co-founder of Tonic.xyz | ]`
+- **the art** — 1× · first ~turn 69/191 (36% in)
+  - context: "Having an ultra-premium print in some ways makes the art the art—it does justice to the output that was generated digitally."
+  - marker: `[img: SusannahMaybank-the-art.jpg | the art — Susannah Maybank, co-founder of Tonic.xyz | ]`
+- **Nowhere** — 1× · first ~turn 146/191 (76% in)
+  - context: "Trinity owns an extremely rare, uninhabitable — one of the few red outputs from Nowhere on fx(hash)."
+  - marker: `[img: SusannahMaybank-nowhere.jpg | Nowhere — Susannah Maybank, co-founder of Tonic.xyz | ]`
+- **His Girl Friday** — 1× · first ~turn 164/191 (86% in)
+  - context: "If you've never seen His Girl Friday, it's incredible — highly recommend."
+  - marker: `[img: SusannahMaybank-his-girl-friday.jpg | His Girl Friday — Susannah Maybank, co-founder of Tonic.xyz | ]`
+
+## WilliamMapan — Translating Hand to Code · William Mapan
+- **Dragons** — 20× · first ~turn 0/128 (0% in)
+  - context: "We're joined today by William Mapan, who many of you know for his fx(hash) project Dragons, for his Art Blocks Curated work, releases on Tonic, and most recentl"
+  - marker: `[img: WilliamMapan-dragons.jpg | Dragons — William Mapan | ]`
+- **Anticyclone** — 8× · first ~turn 7/128 (5% in)
+  - context: "Pretty quickly after that you crossed over to Ethereum with Anticyclone on Art Blocks Curated."
+  - marker: `[img: WilliamMapan-anticyclone.jpg | Anticyclone — William Mapan | ]`
+- **Sketchbook A** — 7× · first ~turn 43/128 (34% in)
+  - context: "You'll be releasing a long-form project called Sketchbook A and a curated one-of-one project called Through Your Eyes."
+  - marker: `[img: WilliamMapan-sketchbook-a.jpg | Sketchbook A — William Mapan | ]`
+- **Through Your Eyes** — 5× · first ~turn 43/128 (34% in)
+  - context: "You'll be releasing a long-form project called Sketchbook A and a curated one-of-one project called Through Your Eyes."
+  - marker: `[img: WilliamMapan-through-your-eyes.jpg | Through Your Eyes — William Mapan | ]`
+- **Distance** — 3× · first ~turn 37/128 (29% in)
+  - context: "Let's get into the Verse Solos stuff, but I have one more question leading into it, on Distance."
+  - marker: `[img: WilliamMapan-distance.jpg | Distance — William Mapan | ]`
+- **Arbitrarily Deterministic** — 2× · first ~turn 35/128 (27% in)
+  - context: "You were on Ken's podcast, Arbitrarily Deterministic, recently, and we heard there's hope the Cyril Diagne collaboration might materialize next year — hopefully"
+  - marker: `[img: WilliamMapan-arbitrarily-deterministic.jpg | Arbitrarily Deterministic — William Mapan | ]`
+- **Garden, Monoliths** — 2× · first ~turn 117/128 (91% in)
+  - context: "Garden, Monoliths was released maybe a week or two after Dragons, and I meant to collect one and never did."
+  - marker: `[img: WilliamMapan-garden-monoliths.jpg | Garden, Monoliths — William Mapan | ]`
+- **Monolith** — 2× · first ~turn 117/128 (91% in)
+  - context: "For months, years, I thought I had a Monolith, and when I wanted to show it to Zancan I realized, oh shit, I don't actually have one."
+  - marker: `[img: WilliamMapan-monolith.jpg | Monolith — William Mapan | ]`
+
+## NatEmodi — Building The Generative Bazaar · Nat Emodi, founder of Highlight.xyz
+- **Heart and Craft** — 2× · first ~turn 99/118 (84% in)
+  - context: "We talked about this on the show, but the Heart and Craft drop on Prohibition probably succeeded in getting several thousand new wallets connected to that websi"
+  - marker: `[img: NatEmodi-heart-and-craft.jpg | Heart and Craft — Nat Emodi, founder of Highlight.xyz | ]`
+- **Crypto Native** — 1× · first ~turn 26/118 (22% in)
+  - context: "That was the Crypto Native project with On-Chain Summer."
+  - marker: `[img: NatEmodi-crypto-native.jpg | Crypto Native — Nat Emodi, founder of Highlight.xyz | ]`
+- **The Cathedral and the Bazaar** — 1× · first ~turn 38/118 (32% in)
+  - context: "Are you familiar, Will, with The Cathedral and the Bazaar?"
+  - marker: `[img: NatEmodi-the-cathedral-and-the-bazaar.jpg | The Cathedral and the Bazaar — Nat Emodi, founder of Highlight.xyz | ]`
+- **Arbitrarily Deterministic** — 1× · first ~turn 89/118 (75% in)
+  - context: "I don't know if you listen to Arbitrarily Deterministic, but Ken, the host of that show, had Matt on last season, and they had a really cool conversation about "
+  - marker: `[img: NatEmodi-arbitrarily-deterministic.jpg | Arbitrarily Deterministic — Nat Emodi, founder of Highlight.xyz | ]`
+
+## SimonSays — Helping Artists Achieve Their Goals · SimonSays
+- **Rebellions** — 2× · first ~turn 59/126 (47% in)
+  - context: "I don't mean to be an asshole to the new artists who've surely released amazing work in this period, but if I look at my Tezos wallet's recently received: I min"
+  - marker: `[img: SimonSays-rebellions.jpg | Rebellions — SimonSays | ]`
+- **Reunion** — 2× · first ~turn 59/126 (47% in)
+  - context: "Before that, the last fx(hash) thing I have is Reunion, the Tyler Boswell series from May."
+  - marker: `[img: SimonSays-reunion.jpg | Reunion — SimonSays | ]`
+- **Coded** — 2× · first ~turn 109/126 (87% in)
+  - context: "I would love to hear from the curator at LACMA who did the Coded show — I'm sure she was involved in accepting that big, high-profile gift from Cosimo and other"
+  - marker: `[img: SimonSays-coded.jpg | Coded — SimonSays | ]`
+- **Stoner Cats** — 1× · first ~turn 15/126 (12% in)
+  - context: "I'll admit, mea culpa, the first NFT mint I really did was Stoner Cats."
+  - marker: `[img: SimonSays-stoner-cats.jpg | Stoner Cats — SimonSays | ]`
+- **Game of Thrones** — 1× · first ~turn 32/126 (25% in)
+  - context: "I come from a brand background — I worked at HBO doing licensing for Game of Thrones — so I'm used to making deals and understanding what it means to give your "
+  - marker: `[img: SimonSays-game-of-thrones.jpg | Game of Thrones — SimonSays | ]`
+- **Take Wing** — 1× · first ~turn 40/126 (32% in)
+  - context: "But when we're talking about 10,000, 20,000-plus mints at $9 a pop, that can't exist in the same headspace as Take Wing, or Melissa's Take Root series on Verse "
+  - marker: `[img: SimonSays-take-wing.jpg | Take Wing — SimonSays | ]`
+- **Take Root** — 1× · first ~turn 40/126 (32% in)
+  - context: "But when we're talking about 10,000, 20,000-plus mints at $9 a pop, that can't exist in the same headspace as Take Wing, or Melissa's Take Root series on Verse "
+  - marker: `[img: SimonSays-take-root.jpg | Take Root — SimonSays | ]`
+- **Ori** — 1× · first ~turn 40/126 (32% in)
+  - context: "Or Ori versus James Merrill's His End on Highlight."
+  - marker: `[img: SimonSays-ori.jpg | Ori — SimonSays | ]`
+
+## MayaMan — There Is No Offline · Maya Man
+- **Fake It Till You Make It** — 13× · first ~turn 20/169 (12% in)
+  - context: "Something that underlies a lot of my work, including my previous collection Fake It Till You Make It, is that I'm obsessed with the structures we use online to "
+  - marker: `[img: MayaMan-fake-it-till-you-make-it.jpg | Fake It Till You Make It — Maya Man | ]`
+- **I'm Feeling Lucky** — 7× · first ~turn 17/169 (10% in)
+  - context: "Should we transition into some questions about your Verse Solo exhibition, I'm Feeling Lucky?"
+  - marker: `[img: MayaMan-i-m-feeling-lucky.jpg | I'm Feeling Lucky — Maya Man | ]`
+- **Read It and Weep** — 3× · first ~turn 33/169 (20% in)
+  - context: "The other piece that feels like it's in this same family is Read It and Weep—was that minted on the blockchain, or is it web-browser based?"
+  - marker: `[img: MayaMan-read-it-and-weep.jpg | Read It and Weep — Maya Man | ]`
+- **Red Scare** — 2× · first ~turn 146/169 (86% in)
+  - context: "Sometimes there's an urge to give into that because it's the internet—it's like Red Scare, the podcast."
+  - marker: `[img: MayaMan-red-scare.jpg | Red Scare — Maya Man | ]`
+- **Instant Horoscope Reader** — 1× · first ~turn 26/169 (15% in)
+  - context: "I also bought this huge book called Instant Horoscope Reader, and I'd page through it and type up a lot of the language that felt relevant."
+  - marker: `[img: MayaMan-instant-horoscope-reader.jpg | Instant Horoscope Reader — Maya Man | ]`
+- **Cyborg Manifesto** — 1× · first ~turn 40/169 (24% in)
+  - context: "I think a lot about that concept of the cyborg—Donna Haraway's Cyborg Manifesto, which was a feminist call to embrace machines as potentially an extension of se"
+  - marker: `[img: MayaMan-cyborg-manifesto.jpg | Cyborg Manifesto — Maya Man | ]`
+- **How to Do Nothing** — 1× · first ~turn 62/169 (37% in)
+  - context: "I first read about that in Jenny Odell's book How to Do Nothing."
+  - marker: `[img: MayaMan-how-to-do-nothing.jpg | How to Do Nothing — Maya Man | ]`
+- **Amour Cringe** — 1× · first ~turn 129/169 (76% in)
+  - context: "Speaking of ChatGPT, I just read Amour Cringe by Kayla Ada Shadow McDowell."
+  - marker: `[img: MayaMan-amour-cringe.jpg | Amour Cringe — Maya Man | ]`
+
+## Artnome — A Different Kind Of Nerd · Artnome (Jason Bailey)
+- **gen.art** — 1× · first ~turn 91/175 (52% in)
+  - context: "That brings to mind the recent closures of gen.art and eclipse.art."
+  - marker: `[img: Artnome-gen-art.jpg | gen.art — Artnome (Jason Bailey) | ]`
+- **eclipse.art** — 1× · first ~turn 91/175 (52% in)
+  - context: "That brings to mind the recent closures of gen.art and eclipse.art."
+  - marker: `[img: Artnome-eclipse-art.jpg | eclipse.art — Artnome (Jason Bailey) | ]`
+- **The baby cries in the background.** — 1× · first ~turn 120/175 (69% in)
+  - context: "The baby cries in the background. Normally we wrap up with a couple of rapid-fire questions."
+  - marker: `[img: Artnome-the-baby-cries-in-the-background.jpg | The baby cries in the background. — Artnome (Jason Bailey) | ]`
+
+## Ciphrd — Unlocking A Generative Future · Ciphrd
+- **Pensado a la Mano** — 1× · first ~turn 9/113 (8% in)
+  - context: "I don't know if you've seen Alejandro's project Pensado a la Mano, which basically hacked params."
+  - marker: `[img: Ciphrd-pensado-a-la-mano.jpg | Pensado a la Mano — Ciphrd | ]`
+- **Chromie Squiggle** — 1× · first ~turn 53/113 (47% in)
+  - context: "The Chromie Squiggle sweatshirt."
+  - marker: `[img: Ciphrd-chromie-squiggle.jpg | Chromie Squiggle — Ciphrd | ]`
+- **Garden, Monoliths** — 1× · first ~turn 68/113 (60% in)
+  - context: "Look at Zancan's project, Garden, Monoliths — I don't know the exact count, but it's something like ten files with at least a thousand lines each."
+  - marker: `[img: Ciphrd-garden-monoliths.jpg | Garden, Monoliths — Ciphrd | ]`
+- **next** — 1× · first ~turn 91/113 (81% in)
+  - context: "But what's the vision for the next bear market?"
+  - marker: `[img: Ciphrd-next.jpg | next — Ciphrd | ]`
+
+## ZachLieberman — Living With Images · Zach Lieberman
+- **Cone Gradient Studies** — 5× · first ~turn 19/99 (19% in)
+  - context: "For Cone Gradient Studies, which you've been sharing a lot of over the last year on social media, and which will also be part of the Verse Solos exhibition comi"
+  - marker: `[img: ZachLieberman-cone-gradient-studies.jpg | Cone Gradient Studies — Zach Lieberman | ]`
+- **Lichtrequisite: Studies in Color, Light, and Geometry** — 2× · first ~turn 24/99 (24% in)
+  - context: "Let me see if I can get the pronunciation right on the first try: Lichtrequisite: Studies in Color, Light, and Geometry."
+  - marker: `[img: ZachLieberman-lichtrequisite-studies-in-color-light-an.jpg | Lichtrequisite: Studies in Color, Light, and Geometry — Zach Lieberman | ]`
+- **Verse Solos** — 1× · first ~turn 0/99 (0% in)
+  - context: "We're joined today by Zach Lieberman, who has an upcoming show, Verse Solos, that we're really excited to talk to him about."
+  - marker: `[img: ZachLieberman-verse-solos.jpg | Verse Solos — Zach Lieberman | ]`
+- **Cone Gradient** — 1× · first ~turn 22/99 (22% in)
+  - context: "So when we're looking at Cone Gradient — both what you've posted on Twitter and what's coming up in Verse — those outputs are all a range of you twisting dials."
+  - marker: `[img: ZachLieberman-cone-gradient.jpg | Cone Gradient — Zach Lieberman | ]`
+- **Chromatics** — 1× · first ~turn 27/99 (27% in)
+  - context: "Last year I did some work with Verse — I was part of a group exhibition, I think it was called Chromatics."
+  - marker: `[img: ZachLieberman-chromatics.jpg | Chromatics — Zach Lieberman | ]`
+- **Lichtrequisite** — 1× · first ~turn 28/99 (28% in)
+  - context: "The original intention of the exhibition — which is where the name Lichtrequisite comes from — was to create work in response to another artist."
+  - marker: `[img: ZachLieberman-lichtrequisite.jpg | Lichtrequisite — Zach Lieberman | ]`
+- **Colorblind Study** — 1× · first ~turn 33/99 (33% in)
+  - context: "Let's talk about Colorblind Study — I see there are studies numbered one through five."
+  - marker: `[img: ZachLieberman-colorblind-study.jpg | Colorblind Study — Zach Lieberman | ]`
+- **Colorblind Studies** — 1× · first ~turn 34/99 (34% in)
+  - context: "The Colorblind Studies use essentially the same code as the Cone Gradient Studies, but there was a process I fell in love with — horizontally or vertically alte"
+  - marker: `[img: ZachLieberman-colorblind-studies.jpg | Colorblind Studies — Zach Lieberman | ]`
+
+## HarveyRayner — Creating Decentralized Art · Harvey Rayner
+- **Quasi Dragon Studies** — 12× · first ~turn 0/154 (0% in)
+  - context: "We're excited to talk to Harvey leading into his Verse Solos exhibit, Quasi Dragon Studies."
+  - marker: `[img: HarveyRayner-quasi-dragon-studies.jpg | Quasi Dragon Studies — Harvey Rayner | ]`
+- **Fontana** — 8× · first ~turn 2/154 (1% in)
+  - context: "We've been learning a lot about you in prep for this interview, and Fontana is now very high on my list of things I want to acquire someday — I love the colors "
+  - marker: `[img: HarveyRayner-fontana.jpg | Fontana — Harvey Rayner | ]`
+- **Quasi-Dragon Studies** — 5× · first ~turn 23/154 (15% in)
+  - context: "Maybe that's a good opportunity to talk about Quasi-Dragon Studies, because there's so much to dig into with this project."
+  - marker: `[img: HarveyRayner-quasi-dragon-studies.jpg | Quasi-Dragon Studies — Harvey Rayner | ]`
+- **Photon's Dream** — 2× · first ~turn 7/154 (5% in)
+  - context: "Fortunately that project sold — that was Photon's Dream — and then Fontana, and the rest is history."
+  - marker: `[img: HarveyRayner-photon-s-dream.jpg | Photon's Dream — Harvey Rayner | ]`
+- **Cove Hive** — 2× · first ~turn 49/154 (32% in)
+  - context: "We actually met to talk about a different project — might have been Cove Hive, the one I've got at Hampton Art Fair right now."
+  - marker: `[img: HarveyRayner-cove-hive.jpg | Cove Hive — Harvey Rayner | ]`
+- **Quasi Dragons** — 2× · first ~turn 49/154 (32% in)
+  - context: "But during that meeting I showed him Quasi Dragons."
+  - marker: `[img: HarveyRayner-quasi-dragons.jpg | Quasi Dragons — Harvey Rayner | ]`
+- **Lost** — 2× · first ~turn 58/154 (38% in)
+  - context: "There was a series in England called Lost — I don't know if it aired in America."
+  - marker: `[img: HarveyRayner-lost.jpg | Lost — Harvey Rayner | ]`
+- **is** — 1× · first ~turn 68/154 (44% in)
+  - context: "To show visually that it is a Black Dragon, the tiles get converted into a dark color space with these purples, drawing some colors from the original tiles."
+  - marker: `[img: HarveyRayner-is.jpg | is — Harvey Rayner | ]`
+
+## SashaStiles_NathanielStern — The Technology of Poetry · Sasha Stiles & Nathaniel Stern
+- **The World After Us** — 7× · first ~turn 31/173 (18% in)
+  - context: "I saw an article about The World After Us, Nathaniel's incredible show—I'll let him talk about what it actually is, but at a top level it deals with e-waste, an"
+  - marker: `[img: SashaStiles_NathanielStern-the-world-after-us.jpg | The World After Us — Sasha Stiles & Nathaniel Stern | ]`
+- **0RAL B1N4RY** — 7× · first ~turn 38/173 (22% in)
+  - context: "We did wipe one of our pieces, 0RAL B1N4RY, completely clean and started from scratch — twice — because we couldn't agree on how it looked."
+  - marker: `[img: SashaStiles_NathanielStern-0ral-b1n4ry.jpg | 0RAL B1N4RY — Sasha Stiles & Nathaniel Stern | ]`
+- **Still Moving** — 7× · first ~turn 86/173 (50% in)
+  - context: "Still Moving, for example, is our first experiment in embodying the blockchain."
+  - marker: `[img: SashaStiles_NathanielStern-still-moving.jpg | Still Moving — Sasha Stiles & Nathaniel Stern | ]`
+- **Mother Computer** — 4× · first ~turn 77/173 (45% in)
+  - context: "Sasha mentioned Mother Computer earlier—this relates to my second book, Ecological Aesthetics (my first was on interactive art)."
+  - marker: `[img: SashaStiles_NathanielStern-mother-computer.jpg | Mother Computer — Sasha Stiles & Nathaniel Stern | ]`
+- **Wired** — 2× · first ~turn 31/173 (18% in)
+  - context: "The long and short of it is that I was aware of Nathaniel's work because I'm a voracious reader of science and technology magazines—Wired is one of my bibles."
+  - marker: `[img: SashaStiles_NathanielStern-wired.jpg | Wired — Sasha Stiles & Nathaniel Stern | ]`
+- **NFT Culture Proof** — 2× · first ~turn 33/173 (19% in)
+  - context: "When I started working on that project with Scott Kildall, called NFT Culture Proof, the basic gist was this: when we started researching the blockchain, we tho"
+  - marker: `[img: SashaStiles_NathanielStern-nft-culture-proof.jpg | NFT Culture Proof — Sasha Stiles & Nathaniel Stern | ]`
+- **Cursive Binary** — 2× · first ~turn 34/173 (20% in)
+  - context: "I was immediately enamored with her work — both the well-known pieces like Cursive Binary and Analog Binary, but also her lesser-known stuff."
+  - marker: `[img: SashaStiles_NathanielStern-cursive-binary.jpg | Cursive Binary — Sasha Stiles & Nathaniel Stern | ]`
+- **444 and 44** — 2× · first ~turn 124/173 (72% in)
+  - context: "My first ever drop, my fx(hash) genesis piece, was called 444 and 44."
+  - marker: `[img: SashaStiles_NathanielStern-444-and-44.jpg | 444 and 44 — Sasha Stiles & Nathaniel Stern | ]`
+
+## AndreasGysin — Digital. Mechanical. Kinetic. Materialized · Andreas Gysin
+- **256** — 6× · first ~turn 70/135 (52% in)
+  - context: "The name we have written down right now is 256."
+  - marker: `[img: AndreasGysin-256.jpg | 256 — Andreas Gysin | ]`
+- **Towers** — 5× · first ~turn 17/135 (13% in)
+  - context: "The projects we know you for, like Towers and Device_1 from fx(hash) — were those entirely solo?"
+  - marker: `[img: AndreasGysin-towers.jpg | Towers — Andreas Gysin | ]`
+- **64 Pixels** — 3× · first ~turn 66/135 (49% in)
+  - context: "The stories these algorithms tell — and there are two algorithms across these two projects, 64 Pixels and Recursive Tiles — can also be told on a medium other t"
+  - marker: `[img: AndreasGysin-64-pixels.jpg | 64 Pixels — Andreas Gysin | ]`
+- **Device 1** — 3× · first ~turn 88/135 (65% in)
+  - context: "Related to your digital work, and Device 1 in particular: did you ever consider adding an audio component?"
+  - marker: `[img: AndreasGysin-device-1.jpg | Device 1 — Andreas Gysin | ]`
+- **Materialized** — 2× · first ~turn 0/135 (0% in)
+  - context: "We're joined today by Andreas Gysin, who is with us in advance of an exhibit coming up, the first Verse solo exhibit, called Materialized."
+  - marker: `[img: AndreasGysin-materialized.jpg | Materialized — Andreas Gysin | ]`
+- **Digits** — 2× · first ~turn 54/135 (40% in)
+  - context: "It's called Digits, a huge electromechanical piece that occupies almost the entire diagonal of the room."
+  - marker: `[img: AndreasGysin-digits.jpg | Digits — Andreas Gysin | ]`
+- **Recursive Tiles** — 2× · first ~turn 66/135 (49% in)
+  - context: "The stories these algorithms tell — and there are two algorithms across these two projects, 64 Pixels and Recursive Tiles — can also be told on a medium other t"
+  - marker: `[img: AndreasGysin-recursive-tiles.jpg | Recursive Tiles — Andreas Gysin | ]`
+- **Device_1** — 1× · first ~turn 17/135 (13% in)
+  - context: "The projects we know you for, like Towers and Device_1 from fx(hash) — were those entirely solo?"
+  - marker: `[img: AndreasGysin-device-1.jpg | Device_1 — Andreas Gysin | ]`
+
+## MonkAntony — Telling the Story of Generative Art · MonkAntony
+- **Toccata** — 3× · first ~turn 124/156 (79% in)
+  - context: "There's Toccata."
+  - marker: `[img: MonkAntony-toccata.jpg | Toccata — MonkAntony | ]`
+- **Farbteiler** — 2× · first ~turn 16/156 (10% in)
+  - context: "And that was your Farbteiler editorial, right?"
+  - marker: `[img: MonkAntony-farbteiler.jpg | Farbteiler — MonkAntony | ]`
+- **Toxy** — 2× · first ~turn 115/156 (74% in)
+  - context: "Maybe something like Toxy, Defrag -- I really like the painterly ones, the version 3s."
+  - marker: `[img: MonkAntony-toxy.jpg | Toxy — MonkAntony | ]`
+- **Defrag** — 2× · first ~turn 115/156 (74% in)
+  - context: "Maybe something like Toxy, Defrag -- I really like the painterly ones, the version 3s."
+  - marker: `[img: MonkAntony-defrag.jpg | Defrag — MonkAntony | ]`
+- **BitStreams** — 1× · first ~turn 31/156 (20% in)
+  - context: "One example is Jason Salavon, who's in the permanent collections of LACMA, MoMA, and the Met, and was part of BitStreams at the Whitney in 2001."
+  - marker: `[img: MonkAntony-bitstreams.jpg | BitStreams — MonkAntony | ]`
+- **Totem** — 1× · first ~turn 32/156 (21% in)
+  - context: "Is this Totem?"
+  - marker: `[img: MonkAntony-totem.jpg | Totem — MonkAntony | ]`
+- **Tender** — 1× · first ~turn 39/156 (25% in)
+  - context: "But maybe over time, sharing things with him — I've even shared Tender with him — since he's also disparaged the quality of work being produced as NFTs, which i"
+  - marker: `[img: MonkAntony-tender.jpg | Tender — MonkAntony | ]`
+- **Friends** — 1× · first ~turn 50/156 (32% in)
+  - context: "Can you make it like Friends?"
+  - marker: `[img: MonkAntony-friends.jpg | Friends — MonkAntony | ]`
+
+## ValrieWhitacre — A New Art Movement · Valérie Whitacre, Head of Art at TriliTech
+- **Legacy of Alligators** — 1× · first ~turn 32/123 (26% in)
+  - context: "I love that -- I can see the episode title already: Legacy of Alligators."
+  - marker: `[img: ValrieWhitacre-legacy-of-alligators.jpg | Legacy of Alligators — Valérie Whitacre, Head of Art at TriliTech | ]`
+- **executed** — 1× · first ~turn 90/123 (73% in)
+  - context: "Decisions that look quick are really just quickly executed; a lot of voices go into them."
+  - marker: `[img: ValrieWhitacre-executed.jpg | executed — Valérie Whitacre, Head of Art at TriliTech | ]`
+- **bouleversant** — 1× · first ~turn 96/123 (78% in)
+  - context: "But I do think a month off for summer vacation wouldn't be the worst thing, if it means the Tezos art community comes back in full force with amazing projects —"
+  - marker: `[img: ValrieWhitacre-bouleversant.jpg | bouleversant — Valérie Whitacre, Head of Art at TriliTech | ]`
+- **Do Your Own Research** — 1× · first ~turn 100/123 (81% in)
+  - context: "I'd also love for you to speak to Nina Roehrs at the Kunsthalle Zürich — she was responsible for the Do Your Own Research generative art exhibition there last f"
+  - marker: `[img: ValrieWhitacre-do-your-own-research.jpg | Do Your Own Research — Valérie Whitacre, Head of Art at TriliTech | ]`
+- **FX Fam** — 1× · first ~turn 107/123 (87% in)
+  - context: "It's hosted in Discord and released later as a podcast called FX Fam."
+  - marker: `[img: ValrieWhitacre-fx-fam.jpg | FX Fam — Valérie Whitacre, Head of Art at TriliTech | ]`
+- **2 Bored Apes** — 1× · first ~turn 114/123 (93% in)
+  - context: "Other shows that come to mind: 2 Bored Apes — Zeneca and Jamie both came from the PFP space but have shifted their focus toward art more recently."
+  - marker: `[img: ValrieWhitacre-2-bored-apes.jpg | 2 Bored Apes — Valérie Whitacre, Head of Art at TriliTech | ]`
+- **Proof** — 1× · first ~turn 114/123 (93% in)
+  - context: "And if you can swing it — we haven't managed to yet — getting on Proof with Kevin Rose would probably reach the biggest audience for a general message about Tez"
+  - marker: `[img: ValrieWhitacre-proof.jpg | Proof — Valérie Whitacre, Head of Art at TriliTech | ]`
+
+## CoryHaber — Every Day Obsession · Cory Haber
+- **SOL** — 20× · first ~turn 34/180 (19% in)
+  - context: "I don't know if it was technically your first long-form generative piece, but it's definitely the one that put you on our radar as members of TENDER — SOL, whic"
+  - marker: `[img: CoryHaber-sol.jpg | SOL — Cory Haber | ]`
+- **Atmospheres** — 6× · first ~turn 0/180 (0% in)
+  - context: "We are extremely fortunate to have Cory on to talk about Atmospheres right as the project releases on Verse."
+  - marker: `[img: CoryHaber-atmospheres.jpg | Atmospheres — Cory Haber | ]`
+- **Octet** — 1× · first ~turn 81/180 (45% in)
+  - context: "We had something similar recently with Octet, a plotted piece by Marcel Schwittlick — he took pieces from that performance and put up a token on OBJKT redeemabl"
+  - marker: `[img: CoryHaber-octet.jpg | Octet — Cory Haber | ]`
+- **Marinara Moments** — 1× · first ~turn 104/180 (58% in)
+  - context: "Looking through your collection right now—and I have to say, given that it's a little past lunchtime, your two pieces from Marinara Moments are looking exceedin"
+  - marker: `[img: CoryHaber-marinara-moments.jpg | Marinara Moments — Cory Haber | ]`
+
+## SethGoldstein — Peak Bright Moments · Seth Goldstein
+- **QQL** — 12× · first ~turn 48/143 (34% in)
+  - context: "I'd point to what Tyler Hobbs has done across a number of his projects on Art Blocks, especially QQL."
+  - marker: `[img: SethGoldstein-qql.jpg | QQL — Seth Goldstein | ]`
+- **CryptoVenetians** — 10× · first ~turn 30/143 (21% in)
+  - context: "That leads into how we got started with CryptoVenetians and CryptoCitizens."
+  - marker: `[img: SethGoldstein-cryptovenetians.jpg | CryptoVenetians — Seth Goldstein | ]`
+- **CryptoCitizens** — 7× · first ~turn 30/143 (21% in)
+  - context: "That leads into how we got started with CryptoVenetians and CryptoCitizens."
+  - marker: `[img: SethGoldstein-cryptocitizens.jpg | CryptoCitizens — Seth Goldstein | ]`
+- **Fidenza** — 3× · first ~turn 37/143 (26% in)
+  - context: "Then, at the end of June or July, these Art Blocks fans started seeing these weird CryptoVenetian characters show up in their feed, and they thought, "I want on"
+  - marker: `[img: SethGoldstein-fidenza.jpg | Fidenza — Seth Goldstein | ]`
+- **Einstein on the Beach** — 2× · first ~turn 16/143 (11% in)
+  - context: "I was really inspired by a theater and opera director named Robert Wilson, who's still around and famously did Einstein on the Beach in 1976 with Philip Glass."
+  - marker: `[img: SethGoldstein-einstein-on-the-beach.jpg | Einstein on the Beach — Seth Goldstein | ]`
+- **Industrial Devolution** — 2× · first ~turn 69/143 (48% in)
+  - context: "I'd seen some of his work on fx(hash), and then Adam from TENDER helped curate part of the gallery when we did Piter Pasma's Industrial Devolution drop last Sep"
+  - marker: `[img: SethGoldstein-industrial-devolution.jpg | Industrial Devolution — Seth Goldstein | ]`
+- **Reflejos** — 2× · first ~turn 72/143 (50% in)
+  - context: "More recently we had Klein Tepech from Andreas Rau, and just last week Reflejos from Juan."
+  - marker: `[img: SethGoldstein-reflejos.jpg | Reflejos — Seth Goldstein | ]`
+- **Flower Arrangement** — 2× · first ~turn 74/143 (52% in)
+  - context: "Flower Arrangement?"
+  - marker: `[img: SethGoldstein-flower-arrangement.jpg | Flower Arrangement — Seth Goldstein | ]`
+
+## Rudxane — Imperfect Perfectionism · Rudxane
+- **Rings** — 6× · first ~turn 124/169 (73% in)
+  - context: "Another early project I loved a lot was Ringers — sorry, Rings."
+  - marker: `[img: Rudxane-rings.jpg | Rings — Rudxane | ]`
+- **Bingo** — 5× · first ~turn 19/169 (11% in)
+  - context: "Things like Bingo were priced around 2 to 10 Tezos."
+  - marker: `[img: Rudxane-bingo.jpg | Bingo — Rudxane | ]`
+- **Hypnagogic** — 5× · first ~turn 37/169 (22% in)
+  - context: "I think we really saw this blank slate that pulls in doodles come to a head with Hypnagogic, your release on Verse, which was fantastic — actually the first pro"
+  - marker: `[img: Rudxane-hypnagogic.jpg | Hypnagogic — Rudxane | ]`
+- **Tick** — 4× · first ~turn 31/169 (18% in)
+  - context: "Tick was a series about how I could make a machine act like a human that would act like a machine, where it sort of doubles itself."
+  - marker: `[img: Rudxane-tick.jpg | Tick — Rudxane | ]`
+- **Glitch** — 3× · first ~turn 26/169 (15% in)
+  - context: "Your career on fx(hash) feels like it's been a cornerstone of the platform — you've been around since the start, with iconic early projects like Bingo, and also"
+  - marker: `[img: Rudxane-glitch.jpg | Glitch — Rudxane | ]`
+- **Tych** — 3× · first ~turn 26/169 (15% in)
+  - context: "And you've got multiple grails to your name too — Tych, Disrupt, Unfinished, Giant Steps."
+  - marker: `[img: Rudxane-tych.jpg | Tych — Rudxane | ]`
+- **Ordinals** — 3× · first ~turn 63/169 (37% in)
+  - context: "And then let's talk about the Ordinals project specifically."
+  - marker: `[img: Rudxane-ordinals.jpg | Ordinals — Rudxane | ]`
+- **Onda** — 2× · first ~turn 26/169 (15% in)
+  - context: "Your career on fx(hash) feels like it's been a cornerstone of the platform — you've been around since the start, with iconic early projects like Bingo, and also"
+  - marker: `[img: Rudxane-onda.jpg | Onda — Rudxane | ]`
+
+## Lonliboy — Rabbit-Hole of Passion · Lonliboy
+- **Fields** — 2× · first ~turn 43/127 (34% in)
+  - context: "When I see a piece like Fields by Erik Swahn, it makes me remember things from my childhood — a dream I hadn't thought about in years — and I just sit there thi"
+  - marker: `[img: Lonliboy-fields.jpg | Fields — Lonliboy | ]`
+- **Septembers** — 2× · first ~turn 50/127 (39% in)
+  - context: "A good example: I started collecting Septembers by Tyler Boswell."
+  - marker: `[img: Lonliboy-septembers.jpg | Septembers — Lonliboy | ]`
+- **Perpendicular Inhabitations** — 2× · first ~turn 57/127 (45% in)
+  - context: "My mind goes to Perpendicular Inhabitations, Studio Yorktown — September is dead to me, for now and forever, when it comes to that piece."
+  - marker: `[img: Lonliboy-perpendicular-inhabitations.jpg | Perpendicular Inhabitations — Lonliboy | ]`
+- **Imperfections** — 2× · first ~turn 79/127 (62% in)
+  - context: "When I first flew out, I got to see the Imperfections show."
+  - marker: `[img: Lonliboy-imperfections.jpg | Imperfections — Lonliboy | ]`
+- **Hollow** — 2× · first ~turn 103/127 (81% in)
+  - context: "I've always loved Jacek's work — I'm a huge fan of Unbuilt, of Hollow, these architectural pieces that speak to the soul and to the history of humanity."
+  - marker: `[img: Lonliboy-hollow.jpg | Hollow — Lonliboy | ]`
+- **Gumbos** — 1× · first ~turn 11/127 (9% in)
+  - context: "I found Rarible and used whatever crypto I had to buy things like Newman UK's Gumbos and Bitbirds — collectible-centered art."
+  - marker: `[img: Lonliboy-gumbos.jpg | Gumbos — Lonliboy | ]`
+- **Garden, Monoliths** — 1× · first ~turn 56/127 (44% in)
+  - context: "I'll still tweet about big news here and there — when Zancan buys a pink Garden, Monoliths for 44,000 Tezos, that's a sentence you put into the world, and it se"
+  - marker: `[img: Lonliboy-garden-monoliths.jpg | Garden, Monoliths — Lonliboy | ]`
+- **fx(params)** — 1× · first ~turn 64/127 (50% in)
+  - context: "I still bought Rev's fx(params) release."
+  - marker: `[img: Lonliboy-fx-params.jpg | fx(params) — Lonliboy | ]`
+
+## Jeres — Brute Forcing Beauty · Jeres
+- **Coronado** — 17× · first ~turn 58/179 (32% in)
+  - context: "Glossolalia and Coronado stand out, and even Hereafter — there's almost a different aura, something different."
+  - marker: `[img: Jeres-coronado.jpg | Coronado — Jeres | ]`
+- **Hereafter** — 15× · first ~turn 58/179 (32% in)
+  - context: "Glossolalia and Coronado stand out, and even Hereafter — there's almost a different aura, something different."
+  - marker: `[img: Jeres-hereafter.jpg | Hereafter — Jeres | ]`
+- **Glossolalia** — 10× · first ~turn 58/179 (32% in)
+  - context: "Glossolalia and Coronado stand out, and even Hereafter — there's almost a different aura, something different."
+  - marker: `[img: Jeres-glossolalia.jpg | Glossolalia — Jeres | ]`
+- **Vapor Trails** — 7× · first ~turn 53/179 (30% in)
+  - context: "I feel like Attachments kicked off a real banger-after-banger era for you, and Vapor Trails obviously had its big moment."
+  - marker: `[img: Jeres-vapor-trails.jpg | Vapor Trails — Jeres | ]`
+- **Attachments** — 6× · first ~turn 53/179 (30% in)
+  - context: "What distinction do you draw between your earliest work on fx(hash) — let's say up through Attachments — and everything after?"
+  - marker: `[img: Jeres-attachments.jpg | Attachments — Jeres | ]`
+- **Sinuosity** — 4× · first ~turn 10/179 (6% in)
+  - context: "I didn't know what would come of it, and that turned into Sinuosity, since it's on the blockchain, you can go see what I did first."
+  - marker: `[img: Jeres-sinuosity.jpg | Sinuosity — Jeres | ]`
+- **Nightfall Moon** — 4× · first ~turn 25/179 (14% in)
+  - context: "One thing that stood out about your earliest work — looking at that initial run from Sinuosity through Station to Station, and carrying forward into Nightfall M"
+  - marker: `[img: Jeres-nightfall-moon.jpg | Nightfall Moon — Jeres | ]`
+- **Outland** — 4× · first ~turn 66/179 (37% in)
+  - context: "Is there a connection between Hereafter and Outland thematically?"
+  - marker: `[img: Jeres-outland.jpg | Outland — Jeres | ]`
+
+## ThomasNoya — Following The Errors · Thomas Noya
+- **400 Flips** — 6× · first ~turn 79/361 (22% in)
+  - context: "The one I first collected and got excited about, and I think the one we first talked about on the show too, was 400 Flips."
+  - marker: `[img: ThomasNoya-400-flips.jpg | 400 Flips — Thomas Noya | ]`
+- **HX** — 5× · first ~turn 27/361 (7% in)
+  - context: "Is that HX?"
+  - marker: `[img: ThomasNoya-hx.jpg | HX — Thomas Noya | ]`
+- **CHX** — 5× · first ~turn 41/361 (11% in)
+  - context: "But then with MCHX and CHX, I have no idea what the underlying photographs and models are."
+  - marker: `[img: ThomasNoya-chx.jpg | CHX — Thomas Noya | ]`
+- **RTX** — 4× · first ~turn 82/361 (23% in)
+  - context: "The idea for 400 Flips -- not the name or the concept, just the art -- came when I was working on RTX, because it shares the same backbone."
+  - marker: `[img: ThomasNoya-rtx.jpg | RTX — Thomas Noya | ]`
+- **MCHX** — 3× · first ~turn 41/361 (11% in)
+  - context: "But then with MCHX and CHX, I have no idea what the underlying photographs and models are."
+  - marker: `[img: ThomasNoya-mchx.jpg | MCHX — Thomas Noya | ]`
+- **GHX** — 3× · first ~turn 43/361 (12% in)
+  - context: "So we can assume GHX is for Genesis?"
+  - marker: `[img: ThomasNoya-ghx.jpg | GHX — Thomas Noya | ]`
+- **Aftertaste** — 3× · first ~turn 102/361 (28% in)
+  - context: "For Aftertaste [A4Tore], there are probably 10,000 tests somewhere -- I haven't counted, but it's at least 11,000 or 12,000."
+  - marker: `[img: ThomasNoya-aftertaste.jpg | Aftertaste — Thomas Noya | ]`
+- **Glossolalia** — 3× · first ~turn 197/361 (55% in)
+  - context: "From the big pieces I really love recently, I have a Coronado, and a Glossolalia that I love even more than the Coronado, I think."
+  - marker: `[img: ThomasNoya-glossolalia.jpg | Glossolalia — Thomas Noya | ]`
+
+## JamieGourlay_2 — Legitimizing The Space · Jamie Gourlay
+- **Carbon Capture** — 5× · first ~turn 100/264 (38% in)
+  - context: "Michael and I were texting just before New Year's debating this, and I stand by this — it's not just because of Carbon Capture — but Warhol became Warhol partly"
+  - marker: `[img: JamieGourlay_2-carbon-capture.jpg | Carbon Capture — Jamie Gourlay | ]`
+- **Garden, Monoliths** — 3× · first ~turn 101/264 (38% in)
+  - context: "Maybe Carbon Capture will be Zancan's Warhol prints, and Garden, Monoliths will be the Marilyn canvases."
+  - marker: `[img: JamieGourlay_2-garden-monoliths.jpg | Garden, Monoliths — Jamie Gourlay | ]`
+- **Imperfections** — 3× · first ~turn 116/264 (44% in)
+  - context: "There are already a couple more exhibits on the site — I don't think all the information about the participants has been released, but the next one, the Imperfe"
+  - marker: `[img: JamieGourlay_2-imperfections.jpg | Imperfections — Jamie Gourlay | ]`
+- **Sailor Moon** — 3× · first ~turn 133/264 (50% in)
+  - context: "If I'm super into, say, Sailor Moon, I'm not taking my Sailor Moon keychain into my very corporate work environment."
+  - marker: `[img: JamieGourlay_2-sailor-moon.jpg | Sailor Moon — Jamie Gourlay | ]`
+- **Rudxane** — 2× · first ~turn 54/264 (20% in)
+  - context: "Something like Rudxane in December was very attractively priced, a lot of people picked up on it, and it sold in one second."
+  - marker: `[img: JamieGourlay_2-rudxane.jpg | Rudxane — Jamie Gourlay | ]`
+- **Cosmic Ray** — 2× · first ~turn 81/264 (31% in)
+  - context: "I wouldn't say there's one overriding "type" of Cosmic Ray—they're all pretty different."
+  - marker: `[img: JamieGourlay_2-cosmic-ray.jpg | Cosmic Ray — Jamie Gourlay | ]`
+- **Friendship Bracelets** — 2× · first ~turn 102/264 (39% in)
+  - context: "Look at another recent project that was kind of an open edition — Friendship Bracelets on Art Blocks."
+  - marker: `[img: JamieGourlay_2-friendship-bracelets.jpg | Friendship Bracelets — Jamie Gourlay | ]`
+- **Odyssey** — 2× · first ~turn 116/264 (44% in)
+  - context: "So with Odyssey ending, you're going right into Imperfections, and then soon after that, another one."
+  - marker: `[img: JamieGourlay_2-odyssey.jpg | Odyssey — Jamie Gourlay | ]`
+
+## MelissaWiederrecht — Throwing Color Around · Melissa Wiederrecht
+- **Untitled** — 6× · first ~turn 53/229 (23% in)
+  - context: "I pulled up the template, figured out how to do similar stuff there, and coded up Untitled in a couple hours and put it up."
+  - marker: `[img: MelissaWiederrecht-untitled.jpg | Untitled — Melissa Wiederrecht | ]`
+- **Spaghetti** — 6× · first ~turn 75/229 (33% in)
+  - context: "After Sudfa, and then Solitude and Spaghetti, I started getting more requests from a lot of different people for different things, and I realized I needed to sl"
+  - marker: `[img: MelissaWiederrecht-spaghetti.jpg | Spaghetti — Melissa Wiederrecht | ]`
+- **Take Wing** — 6× · first ~turn 100/229 (44% in)
+  - context: "Is that what happened with Take Wing?"
+  - marker: `[img: MelissaWiederrecht-take-wing.jpg | Take Wing — Melissa Wiederrecht | ]`
+- **Sudfa** — 5× · first ~turn 52/229 (23% in)
+  - context: "That was the first version of Sudfa."
+  - marker: `[img: MelissaWiederrecht-sudfa.jpg | Sudfa — Melissa Wiederrecht | ]`
+- **Orbs** — 4× · first ~turn 55/229 (24% in)
+  - context: "Everything I've made, I've made brand new, except Orbs — I had a previous version, but I remade it completely from scratch."
+  - marker: `[img: MelissaWiederrecht-orbs.jpg | Orbs — Melissa Wiederrecht | ]`
+- **Sandalia** — 4× · first ~turn 80/229 (35% in)
+  - context: "I can see how that'd be frustrating, but it didn't stop you from doing more with Art Blocks — you released another project as an Art Blocks Presents, non-curate"
+  - marker: `[img: MelissaWiederrecht-sandalia.jpg | Sandalia — Melissa Wiederrecht | ]`
+- **Both Be Both** — 3× · first ~turn 130/229 (57% in)
+  - context: "There's one more project I'd like to discuss — I believe your first and only one-of-one to date, on SuperRare, Both Be Both."
+  - marker: `[img: MelissaWiederrecht-both-be-both.jpg | Both Be Both — Melissa Wiederrecht | ]`
+- **Flash Math Creativity** — 2× · first ~turn 12/229 (5% in)
+  - context: "So I picked up books, and at one point I came across a book called Flash Math Creativity."
+  - marker: `[img: MelissaWiederrecht-flash-math-creativity.jpg | Flash Math Creativity — Melissa Wiederrecht | ]`
+
+## Kyloren — Information Asymmetries · Kyloren
+- **September** — 4× · first ~turn 30/142 (21% in)
+  - context: "We've noticed your collecting has slowed down, and there's a newer class of grails from the past four or five months — projects like September, Coronado, Turner"
+  - marker: `[img: Kyloren-september.jpg | September — Kyloren | ]`
+- **Repeater** — 4× · first ~turn 49/142 (35% in)
+  - context: "Things like Sequence and Repeater, to name a couple, have dropped a lot, partly because of the price of tez, but also because their floors haven't kept pace."
+  - marker: `[img: Kyloren-repeater.jpg | Repeater — Kyloren | ]`
+- **Garden, Monoliths** — 3× · first ~turn 35/142 (25% in)
+  - context: "Take Garden, Monoliths as an example — you and other collectors all own pieces of the same algorithm, and you can bond over your shared love of that art."
+  - marker: `[img: Kyloren-garden-monoliths.jpg | Garden, Monoliths — Kyloren | ]`
+- **Waiting in Afton** — 3× · first ~turn 42/142 (30% in)
+  - context: "Waiting in Afton is a classic example: less volume, less liquidity, less traction through the sales feed."
+  - marker: `[img: Kyloren-waiting-in-afton.jpg | Waiting in Afton — Kyloren | ]`
+- **Vortex** — 3× · first ~turn 90/142 (63% in)
+  - context: "Are you thinking of Vortex?"
+  - marker: `[img: Kyloren-vortex.jpg | Vortex — Kyloren | ]`
+- **Coronado** — 2× · first ~turn 30/142 (21% in)
+  - context: "We've noticed your collecting has slowed down, and there's a newer class of grails from the past four or five months — projects like September, Coronado, Turner"
+  - marker: `[img: Kyloren-coronado.jpg | Coronado — Kyloren | ]`
+- **Defrag** — 2× · first ~turn 53/142 (37% in)
+  - context: "Another example is Defrag by Toxy — one of the OG collections that did very well."
+  - marker: `[img: Kyloren-defrag.jpg | Defrag — Kyloren | ]`
+- **Shattered Moons** — 2× · first ~turn 96/142 (68% in)
+  - context: "Shattered Moons?"
+  - marker: `[img: Kyloren-shattered-moons.jpg | Shattered Moons — Kyloren | ]`
+
+## EmilCorsillo_IraGreenberg — What Is Long-Form Generative A.I. Art? · Emil Corsillo & Ira Greenberg
+- **The Oracles** — 7× · first ~turn 90/208 (43% in)
+  - context: "That's my rant about 1 tez for The Oracles, but I think it was the right price, and I'd do it again tomorrow at that price."
+  - marker: `[img: EmilCorsillo_IraGreenberg-the-oracles.jpg | The Oracles — Emil Corsillo & Ira Greenberg | ]`
+- **the oracles** — 3× · first ~turn 38/208 (18% in)
+  - context: "I had this idea in my mind of how it works — basically building libraries of words and a randomizer — but there must be something else going on that lets a set "
+  - marker: `[img: EmilCorsillo_IraGreenberg-the-oracles.jpg | the oracles — Emil Corsillo & Ira Greenberg | ]`
+- **Acequia** — 3× · first ~turn 166/208 (80% in)
+  - context: "The paper crane one, Acequia."
+  - marker: `[img: EmilCorsillo_IraGreenberg-acequia.jpg | Acequia — Emil Corsillo & Ira Greenberg | ]`
+- **the Oracles** — 2× · first ~turn 4/208 (2% in)
+  - context: "It was really exciting to see the Oracles project launch, and the launch of the platform on Tezos in general."
+  - marker: `[img: EmilCorsillo_IraGreenberg-the-oracles.jpg | the Oracles — Emil Corsillo & Ira Greenberg | ]`
+- **Chromie Squiggle** — 2× · first ~turn 73/208 (35% in)
+  - context: "That's what it felt like on the East Coast — Discord messages about something I'd never heard of, on a platform I'd never heard of, tweets from prominent collec"
+  - marker: `[img: EmilCorsillo_IraGreenberg-chromie-squiggle.jpg | Chromie Squiggle — Emil Corsillo & Ira Greenberg | ]`
+- **The Beasts** — 2× · first ~turn 102/208 (49% in)
+  - context: "It's going to be the next chapter, in a sense, of The Oracles — a project called The Beasts."
+  - marker: `[img: EmilCorsillo_IraGreenberg-the-beasts.jpg | The Beasts — Emil Corsillo & Ira Greenberg | ]`
+- **Oracle** — 2× · first ~turn 124/208 (60% in)
+  - context: "The Art Blocks of AI — except you can mint an Oracle for one tez."
+  - marker: `[img: EmilCorsillo_IraGreenberg-oracle.jpg | Oracle — Emil Corsillo & Ira Greenberg | ]`
+- **Holo** — 2× · first ~turn 169/208 (81% in)
+  - context: "My favorite project of all time is Holo."
+  - marker: `[img: EmilCorsillo_IraGreenberg-holo.jpg | Holo — Emil Corsillo & Ira Greenberg | ]`
+
+## Nudoru — Building Tools, Solving Puzzles · Nudoru
+- **Orchard** — 9× · first ~turn 46/180 (26% in)
+  - context: "I saw it more in your later work, January and February, especially Cold Mountain and Orchard, where things get more impressionistic and painterly, more refined."
+  - marker: `[img: Nudoru-orchard.jpg | Orchard — Nudoru | ]`
+- **Cold Mountain** — 8× · first ~turn 39/180 (22% in)
+  - context: "Setting aside Cold Mountain, which we can talk about in more detail later — are there any stories from that December batch that stick out to you?"
+  - marker: `[img: Nudoru-cold-mountain.jpg | Cold Mountain — Nudoru | ]`
+- **Deep Forest** — 7× · first ~turn 67/180 (37% in)
+  - context: "Like Cold Mountain and Deep Forest, I tried to have a theme or feeling behind it."
+  - marker: `[img: Nudoru-deep-forest.jpg | Deep Forest — Nudoru | ]`
+- **Grove** — 4× · first ~turn 57/180 (32% in)
+  - context: "Then Grove came after it, and there was some market backlash, some community backlash."
+  - marker: `[img: Nudoru-grove.jpg | Grove — Nudoru | ]`
+- **Crayon Attractors** — 3× · first ~turn 33/180 (18% in)
+  - context: "Does that explain the 19 projects we saw in December, from Raked Strokes on December 8th to Crayon Attractors on December 28th, and everything in between?"
+  - marker: `[img: Nudoru-crayon-attractors.jpg | Crayon Attractors — Nudoru | ]`
+- **Symbology 437** — 3× · first ~turn 76/180 (42% in)
+  - context: "Deep Forest and Symbology 437 both got me kind of stumped, locked up trying to think of everything I could possibly do to push those ideas forward."
+  - marker: `[img: Nudoru-symbology-437.jpg | Symbology 437 — Nudoru | ]`
+- **Raked Strokes** — 2× · first ~turn 33/180 (18% in)
+  - context: "Does that explain the 19 projects we saw in December, from Raked Strokes on December 8th to Crayon Attractors on December 28th, and everything in between?"
+  - marker: `[img: Nudoru-raked-strokes.jpg | Raked Strokes — Nudoru | ]`
+- **Turbulence** — 2× · first ~turn 60/180 (33% in)
+  - context: "Turbulence and Caustics are pretty similar too, but I approached launching those differently."
+  - marker: `[img: Nudoru-turbulence.jpg | Turbulence — Nudoru | ]`
+
+## Bayamese — Who's Mr. Tezos? · Bayamese
+- **Bayamese:** — 25× · first ~turn 136/276 (49% in)
+  - context: "* It was a huge thing to me to mint that — my first mint that went crazy high on secondary. I did end up selling mine. I got trolled so hard trying to see it be"
+  - marker: `[img: Bayamese-bayamese.jpg | Bayamese: — Bayamese | ]`
+- **Will:** — 24× · first ~turn 137/276 (50% in)
+  - context: "* The iRyanBell Sprocket Factory — when that came out I called it the greatest transfer of wealth in fx(hash) history. It was so cheap, like 5 tez, reserved out"
+  - marker: `[img: Bayamese-will.jpg | Will: — Bayamese | ]`
+- **Angel Fire** — 3× · first ~turn 189/276 (68% in)
+  - context: "I want to say the project was called Angel Fire."
+  - marker: `[img: Bayamese-angel-fire.jpg | Angel Fire — Bayamese | ]`
+- **Turing** — 3× · first ~turn 224/276 (81% in)
+  - context: "Check out Turing."
+  - marker: `[img: Bayamese-turing.jpg | Turing — Bayamese | ]`
+- **fx(Apes)** — 2× · first ~turn 130/276 (47% in)
+  - context: "Then there was fx(Apes)—that was such a good minting experience."
+  - marker: `[img: Bayamese-fx-apes.jpg | fx(Apes) — Bayamese | ]`
+- **Kernel** — 2× · first ~turn 224/276 (81% in)
+  - context: "Check out Kernel, their most recent one, still open for mint."
+  - marker: `[img: Bayamese-kernel.jpg | Kernel — Bayamese | ]`
+- **Bardez** — 2× · first ~turn 233/276 (84% in)
+  - context: "Nat Sarkissian, with Bardez."
+  - marker: `[img: Bayamese-bardez.jpg | Bardez — Bayamese | ]`
+- **Contra** — 2× · first ~turn 235/276 (85% in)
+  - context: "That's a project I don't have that I want most, besides maybe Contra."
+  - marker: `[img: Bayamese-contra.jpg | Contra — Bayamese | ]`
+
+## ChrisMcCully — Tuning The Frequency · Chris McCully
+- **Alias** — 7× · first ~turn 234/248 (94% in)
+  - context: "Let me pitch you a show: it's Buffy meets Alias, with what's-her-name from Alias."
+  - marker: `[img: ChrisMcCully-alias.jpg | Alias — Chris McCully | ]`
+- **Crash Euphoria** — 6× · first ~turn 121/248 (49% in)
+  - context: "I'd say your work since then — I'm going to specifically call out Crash Euphoria."
+  - marker: `[img: ChrisMcCully-crash-euphoria.jpg | Crash Euphoria — Chris McCully | ]`
+- **Protein Pelt** — 5× · first ~turn 46/248 (19% in)
+  - context: "At the time, that was probably the most respected and talked-about work of mine, aside from Protein Pelt, which had this weird second life."
+  - marker: `[img: ChrisMcCully-protein-pelt.jpg | Protein Pelt — Chris McCully | ]`
+- **Tree Rings** — 4× · first ~turn 27/248 (11% in)
+  - context: "I think it was probably Tree Rings, where I found his polar noise loop video — a hugely helpful thing if you're a generative artist and want to learn how to mak"
+  - marker: `[img: ChrisMcCully-tree-rings.jpg | Tree Rings — Chris McCully | ]`
+- **Anticyclone** — 4× · first ~turn 182/248 (73% in)
+  - context: "Is this similar to what Mapan did with Anticyclone and some of those pieces, where the image is divided into chunks and each tiny chunk has its own thing going "
+  - marker: `[img: ChrisMcCully-anticyclone.jpg | Anticyclone — Chris McCully | ]`
+- **Bézier's Four Ways** — 3× · first ~turn 23/248 (9% in)
+  - context: "My very first generative work, Bézier's Four Ways, was my first ever piece in p5 — that was just playing around, and I decided to implement it to see what happe"
+  - marker: `[img: ChrisMcCully-b-zier-s-four-ways.jpg | Bézier's Four Ways — Chris McCully | ]`
+- **September** — 3× · first ~turn 64/248 (26% in)
+  - context: "I bought a September on secondary about ten minutes after it dropped, for maybe 60 tez, and I remember thinking, I really like this, but I was slightly tez-poor"
+  - marker: `[img: ChrisMcCully-september.jpg | September — Chris McCully | ]`
+- **Bedlam** — 3× · first ~turn 82/248 (33% in)
+  - context: "One early piece that stands out — you got behind it and advocated for it hard — was Bedlam."
+  - marker: `[img: ChrisMcCully-bedlam.jpg | Bedlam — Chris McCully | ]`
+
+## LandlinesArt — What Landlines Art Is · Landlines Art
+- **Art Cards** — 7× · first ~turn 5/156 (3% in)
+  - context: "I started in April of 2021, and by October I'd released a project called Art Cards."
+  - marker: `[img: LandlinesArt-art-cards.jpg | Art Cards — Landlines Art | ]`
+- **Destruct** — 3× · first ~turn 21/156 (13% in)
+  - context: "The Destruct series, for example, is so different from what you've released on fx(hash)."
+  - marker: `[img: LandlinesArt-destruct.jpg | Destruct — Landlines Art | ]`
+- **Sedimentary Dissolution** — 3× · first ~turn 31/156 (20% in)
+  - context: "With Sedimentary Dissolution, one of the special things about that project was it was one of the first times I successfully used a shader."
+  - marker: `[img: LandlinesArt-sedimentary-dissolution.jpg | Sedimentary Dissolution — Landlines Art | ]`
+- **Textiles** — 3× · first ~turn 40/156 (26% in)
+  - context: "Looking at the generative art specifically, the project that stands out to me as your first really big departure from those traditional color palettes—and it sp"
+  - marker: `[img: LandlinesArt-textiles.jpg | Textiles — Landlines Art | ]`
+- **Anno** — 2× · first ~turn 55/156 (35% in)
+  - context: "Maybe that was the solution with Anno, your fx(hash) anniversary project — just release like 8,800 of them."
+  - marker: `[img: LandlinesArt-anno.jpg | Anno — Landlines Art | ]`
+- **Extracurricular Activities** — 2× · first ~turn 69/156 (44% in)
+  - context: "We could have a whole separate segment on the Extracurricular Activities iteration series."
+  - marker: `[img: LandlinesArt-extracurricular-activities.jpg | Extracurricular Activities — Landlines Art | ]`
+- **Anim** — 2× · first ~turn 90/156 (58% in)
+  - context: "Same with Anim — I like being able to provide lots of different outputs."
+  - marker: `[img: LandlinesArt-anim.jpg | Anim — Landlines Art | ]`
+- **QQL** — 2× · first ~turn 95/156 (61% in)
+  - context: "We have so few data points — QQL and some of the Verse releases that allowed small amounts of control over outputs."
+  - marker: `[img: LandlinesArt-qql.jpg | QQL — Landlines Art | ]`
+
+## ciphrd_2 — The First Year of fx(hash) · ciphrd
+- **Tender** — 2× · first ~turn 7/162 (4% in)
+  - context: "I think the reserve system gives a lot of options on the platform right now — I'm thinking especially of Tender and the Tender Pass."
+  - marker: `[img: ciphrd_2-tender.jpg | Tender — ciphrd | ]`
+- **Garden, Monoliths** — 2× · first ~turn 17/162 (10% in)
+  - context: "The launch of 1.0 came out with a big bang of an official collaboration between Yazid and Zancan, Garden, Monoliths."
+  - marker: `[img: ciphrd_2-garden-monoliths.jpg | Garden, Monoliths — ciphrd | ]`
+- **Emotional Shell** — 2× · first ~turn 21/162 (13% in)
+  - context: "Emotional Shell."
+  - marker: `[img: ciphrd_2-emotional-shell.jpg | Emotional Shell — ciphrd | ]`
+- **Contrapuntos** — 2× · first ~turn 55/162 (34% in)
+  - context: "If you're holding RGB, Contrapuntos, or Zancans, despite how much Tez is down and how bad the markets are, you're still up in dollar terms — which is crazy to t"
+  - marker: `[img: ciphrd_2-contrapuntos.jpg | Contrapuntos — ciphrd | ]`
+- **Reconnaissance** — 1× · first ~turn 20/162 (12% in)
+  - context: "In particular there was Reconnaissance, which used a technique I'd been exploring myself as an artist, so seeing it used that way was great; I love that piece."
+  - marker: `[img: ciphrd_2-reconnaissance.jpg | Reconnaissance — ciphrd | ]`
+- **Horizons** — 1× · first ~turn 33/162 (20% in)
+  - context: "Something happens — for example, the Horizons drop."
+  - marker: `[img: ciphrd_2-horizons.jpg | Horizons — ciphrd | ]`
+- **RGB** — 1× · first ~turn 55/162 (34% in)
+  - context: "If you're holding RGB, Contrapuntos, or Zancans, despite how much Tez is down and how bad the markets are, you're still up in dollar terms — which is crazy to t"
+  - marker: `[img: ciphrd_2-rgb.jpg | RGB — ciphrd | ]`
+- **Gentk** — 1× · first ~turn 72/162 (44% in)
+  - context: "So you can link to generative tokens, or to particular Gentk iterations you want to highlight."
+  - marker: `[img: ciphrd_2-gentk.jpg | Gentk — ciphrd | ]`
+
+## Zeneca_Jaime — Left-Brained Art · Zeneca and Jaime of the 2 Bored Apes podcast
+- **Fidenza** — 6× · first ~turn 61/216 (28% in)
+  - context: "Obviously there's the "oh yes, I'm getting a Fidenza" side of it, but you're also collecting an artist — something that comes from a human being."
+  - marker: `[img: Zeneca_Jaime-fidenza.jpg | Fidenza — Zeneca and Jaime of the 2 Bored Apes podcast | ]`
+- **QQL** — 6× · first ~turn 82/216 (38% in)
+  - context: "I don't want to open up this conversation too much, but when QQL was released, one of the things that ultimately bummed me out about it was that it could have b"
+  - marker: `[img: Zeneca_Jaime-qql.jpg | QQL — Zeneca and Jaime of the 2 Bored Apes podcast | ]`
+- **Garden, Monoliths** — 3× · first ~turn 72/216 (33% in)
+  - context: "Garden, Monoliths by Zancan is a great example — people will pay a huge premium for a pink one over one that's more black-and-white sketches."
+  - marker: `[img: Zeneca_Jaime-garden-monoliths.jpg | Garden, Monoliths — Zeneca and Jaime of the 2 Bored Apes podcast | ]`
+- **Assembling Machine** — 3× · first ~turn 161/216 (75% in)
+  - context: "Assembling Machine."
+  - marker: `[img: Zeneca_Jaime-assembling-machine.jpg | Assembling Machine — Zeneca and Jaime of the 2 Bored Apes podcast | ]`
+- **Ringers** — 2× · first ~turn 62/216 (29% in)
+  - context: "I don't know if it was a tweet or a post in the Art Blocks Discord, but Dmitry Chernyak — famous for Ringers and other things — made a point last year about how"
+  - marker: `[img: Zeneca_Jaime-ringers.jpg | Ringers — Zeneca and Jaime of the 2 Bored Apes podcast | ]`
+- **Grails** — 2× · first ~turn 95/216 (44% in)
+  - context: "His Grails piece for the Proof Grails collection—I believe he's gotten into sculpting and wants to merge generative art with sculpture."
+  - marker: `[img: Zeneca_Jaime-grails.jpg | Grails — Zeneca and Jaime of the 2 Bored Apes podcast | ]`
+- **Opera** — 2× · first ~turn 138/216 (64% in)
+  - context: "The first one that comes to mind is Luke Shannon — Opera is his collection on Art Blocks."
+  - marker: `[img: Zeneca_Jaime-opera.jpg | Opera — Zeneca and Jaime of the 2 Bored Apes podcast | ]`
+- **Chimera** — 2× · first ~turn 145/216 (67% in)
+  - context: "He did Chimera on Art Blocks, which I like a lot."
+  - marker: `[img: Zeneca_Jaime-chimera.jpg | Chimera — Zeneca and Jaime of the 2 Bored Apes podcast | ]`
+
+## LeanderHerzog — Creating Infinite Systems · Leander Herzog
+- **Very Large Array** — 9× · first ~turn 3/177 (2% in)
+  - context: "Can we get an audio cut of Very Large Array that we can just drop in here at some point?"
+  - marker: `[img: LeanderHerzog-very-large-array.jpg | Very Large Array — Leander Herzog | ]`
+- **Returns** — 8× · first ~turn 50/177 (28% in)
+  - context: "In Returns, your first release, is there something in the code that restricts colors or shapes to guarantee every single output is unique?"
+  - marker: `[img: LeanderHerzog-returns.jpg | Returns — Leander Herzog | ]`
+- **Microwave** — 2× · first ~turn 70/177 (40% in)
+  - context: "The piece is based on work I did back in 2017, called Microwave -- you can find it on my website."
+  - marker: `[img: LeanderHerzog-microwave.jpg | Microwave — Leander Herzog | ]`
+- **iGel** — 2× · first ~turn 77/177 (44% in)
+  - context: "I missed Microwave when I was looking through your past work, but the only other piece I found with a sound component was iGel."
+  - marker: `[img: LeanderHerzog-igel.jpg | iGel — Leander Herzog | ]`
+- **Aglow** — 2× · first ~turn 122/177 (69% in)
+  - context: "Visually, it's almost the opposite of something like Aglow or Returns, which I think is cool—it's a surprise, and it keeps things interesting."
+  - marker: `[img: LeanderHerzog-aglow.jpg | Aglow — Leander Herzog | ]`
+- **Imi** — 2× · first ~turn 123/177 (69% in)
+  - context: "Everything's different, but there are overlaps—not really similarities, but Imi and Returns, or Aglow and Imi, and Very Large Array and Returns feel like they'r"
+  - marker: `[img: LeanderHerzog-imi.jpg | Imi — Leander Herzog | ]`
+- **Decada** — 1× · first ~turn 92/177 (52% in)
+  - context: "Since Decada, for example, people have been paying way more attention to things with sound-based elements, realizing that can be extremely cool and extremely wo"
+  - marker: `[img: LeanderHerzog-decada.jpg | Decada — Leander Herzog | ]`
+
+## LiamEgan — Coder, Artist, Sheriff, Mod · Liam Egan
+- **Euphonic** — 5× · first ~turn 83/183 (45% in)
+  - context: "A lot of your earlier stuff, which was probably partially testing in the early days of the beta, has smaller edition sizes, but most notably Euphonic, Reisiger,"
+  - marker: `[img: LiamEgan-euphonic.jpg | Euphonic — Liam Egan | ]`
+- **Astraea's Loom** — 3× · first ~turn 55/183 (30% in)
+  - context: "I have quite a list here of some of your earliest collaborations — Astraea's Loom, Letter to Young Poets, the Stupids avatars, and of course The Conjured with G"
+  - marker: `[img: LiamEgan-astraea-s-loom.jpg | Astraea's Loom — Liam Egan | ]`
+- **Density** — 2× · first ~turn 92/183 (50% in)
+  - context: "Hevey's description of the creation of Density is almost like a book at this point — I'm about halfway through, picking it back up here and there."
+  - marker: `[img: LiamEgan-density.jpg | Density — Liam Egan | ]`
+- **Lobbies** — 1× · first ~turn 12/183 (7% in)
+  - context: "It was on my back burner for a while because I was busy with work, and then I saw Zancan's first drop, Lobbies, and it really gave me a kick — I was like, I've "
+  - marker: `[img: LiamEgan-lobbies.jpg | Lobbies — Liam Egan | ]`
+- **Particulate Hash** — 1× · first ~turn 12/183 (7% in)
+  - context: "That was when Particulate Hash came about."
+  - marker: `[img: LiamEgan-particulate-hash.jpg | Particulate Hash — Liam Egan | ]`
+- **Letter to Young Poets** — 1× · first ~turn 55/183 (30% in)
+  - context: "I have quite a list here of some of your earliest collaborations — Astraea's Loom, Letter to Young Poets, the Stupids avatars, and of course The Conjured with G"
+  - marker: `[img: LiamEgan-letter-to-young-poets.jpg | Letter to Young Poets — Liam Egan | ]`
+- **The Conjured** — 1× · first ~turn 55/183 (30% in)
+  - context: "I have quite a list here of some of your earliest collaborations — Astraea's Loom, Letter to Young Poets, the Stupids avatars, and of course The Conjured with G"
+  - marker: `[img: LiamEgan-the-conjured.jpg | The Conjured — Liam Egan | ]`
+- **Gearheart** — 1× · first ~turn 66/183 (36% in)
+  - context: "The other one that comes to mind is Gearheart, the collaboration between Richard Nadler and Leander Herzog, which I think does use a texture."
+  - marker: `[img: LiamEgan-gearheart.jpg | Gearheart — Liam Egan | ]`
+
+## AndreasRau_MarceloSoriaRodriguez — Encoding Emotion · Andreas Rau and Marcelo Soria-Rodriguez
+- **Toccata** — 28× · first ~turn 0/102 (0% in)
+  - context: "We're joined today by Marcelo Soria-Rodriguez and Andreas Rau, who both collaborated on the project Toccata recently, a project we've talked a lot about on the "
+  - marker: `[img: AndreasRau_MarceloSoriaRodriguez-toccata.jpg | Toccata — Andreas Rau and Marcelo Soria-Rodriguez | ]`
+- **The Disintegration Loops** — 2× · first ~turn 43/102 (42% in)
+  - context: "We talked about The Disintegration Loops by William Basinski, which you mentioned on the show before — it's about the exact same topic, the physical decay of a "
+  - marker: `[img: AndreasRau_MarceloSoriaRodriguez-the-disintegration-loops.jpg | The Disintegration Loops — Andreas Rau and Marcelo Soria-Rodriguez | ]`
+- **Entretiempos** — 1× · first ~turn 15/102 (15% in)
+  - context: "So I started dedicating more time to coding at night, and that's when I built my first large generative system, which became Entretiempos, my release on Art Blo"
+  - marker: `[img: AndreasRau_MarceloSoriaRodriguez-entretiempos.jpg | Entretiempos — Andreas Rau and Marcelo Soria-Rodriguez | ]`
+- **Andante con Moto** — 1× · first ~turn 54/102 (53% in)
+  - context: "I almost don't want to share our favorites after those answers, but in preparing for this conversation, I came to really appreciate the minimalism of Andante co"
+  - marker: `[img: AndreasRau_MarceloSoriaRodriguez-andante-con-moto.jpg | Andante con Moto — Andreas Rau and Marcelo Soria-Rodriguez | ]`
+- **Vivace con Grazia** — 1× · first ~turn 55/102 (54% in)
+  - context: "My favorite is Vivace con Grazia, with that deep bass note keeping you steady throughout — I could listen to it forever."
+  - marker: `[img: AndreasRau_MarceloSoriaRodriguez-vivace-con-grazia.jpg | Vivace con Grazia — Andreas Rau and Marcelo Soria-Rodriguez | ]`
+
+## LeMonde2D — Building The Museum · LeMonde2D
+- **Toccata** — 7× · first ~turn 31/246 (13% in)
+  - context: "I might like it even better than Toccata."
+  - marker: `[img: LeMonde2D-toccata.jpg | Toccata — LeMonde2D | ]`
+- **Turner Light** — 5× · first ~turn 138/246 (56% in)
+  - context: "Turner Light is one where I feel the same way — owning just one feels great."
+  - marker: `[img: LeMonde2D-turner-light.jpg | Turner Light — LeMonde2D | ]`
+- **Monoliths** — 4× · first ~turn 39/246 (16% in)
+  - context: "Take Monoliths — when I bought around 20 of them, that's one of the largest buys I've done."
+  - marker: `[img: LeMonde2D-monoliths.jpg | Monoliths — LeMonde2D | ]`
+- **Influence** — 4× · first ~turn 82/246 (33% in)
+  - context: "I actually collected Influence, which is animated."
+  - marker: `[img: LeMonde2D-influence.jpg | Influence — LeMonde2D | ]`
+- **Millefoglie** — 3× · first ~turn 94/246 (38% in)
+  - context: "In the museum, it goes so well with Millefoglie -- the transition between the two is really nice."
+  - marker: `[img: LeMonde2D-millefoglie.jpg | Millefoglie — LeMonde2D | ]`
+- **Little Trees** — 2× · first ~turn 19/246 (8% in)
+  - context: "Little Trees."
+  - marker: `[img: LeMonde2D-little-trees.jpg | Little Trees — LeMonde2D | ]`
+- **Bardez** — 2× · first ~turn 40/246 (16% in)
+  - context: "For Bardez, for example, I had the idea of printing them small, in squares, and I needed a lot of them so the display would properly represent the briefness of "
+  - marker: `[img: LeMonde2D-bardez.jpg | Bardez — LeMonde2D | ]`
+- **Dragons** — 2× · first ~turn 87/246 (35% in)
+  - context: "I don't want to make the comparison, but it brings me back to Dragons in a way."
+  - marker: `[img: LeMonde2D-dragons.jpg | Dragons — LeMonde2D | ]`
+
+## LisaOrth — Always Moving Forward · Lisa Orth
+- **Between Stations** — 3× · first ~turn 84/139 (60% in)
+  - context: "We hinted at this earlier in the episode, but there's definitely a vibe to your work that's instantly identifiable on the platform, and a big part of that is th"
+  - marker: `[img: LisaOrth-between-stations.jpg | Between Stations — Lisa Orth | ]`
+- **The Rocket** — 1× · first ~turn 8/139 (6% in)
+  - context: "I landed a job at what I thought was the coolest place to be: a music magazine here in town called The Rocket."
+  - marker: `[img: LisaOrth-the-rocket.jpg | The Rocket — Lisa Orth | ]`
+- **New York Times** — 1× · first ~turn 14/139 (10% in)
+  - context: "I remember reading an interview with Joanie Lemercier, I think in the New York Times, about the environmental impact of Ethereum and mining, where he mentioned "
+  - marker: `[img: LisaOrth-new-york-times.jpg | New York Times — Lisa Orth | ]`
+- **Riis** — 1× · first ~turn 37/139 (27% in)
+  - context: "But lately I've been on a kick collecting Riis -- R-I-I-S."
+  - marker: `[img: LisaOrth-riis.jpg | Riis — Lisa Orth | ]`
+- **The Water Peak Sewing Kit** — 1× · first ~turn 41/139 (29% in)
+  - context: "The Water Peak Sewing Kit, or whatever it's called."
+  - marker: `[img: LisaOrth-the-water-peak-sewing-kit.jpg | The Water Peak Sewing Kit — Lisa Orth | ]`
+- **A Burroughs** — 1× · first ~turn 56/139 (40% in)
+  - context: "I think you've really only had A Burroughs quote come out since beta, right?"
+  - marker: `[img: LisaOrth-a-burroughs.jpg | A Burroughs — Lisa Orth | ]`
+- **ApeBadoo** — 1× · first ~turn 59/139 (42% in)
+  - context: "So ApeBadoo came out right at that time and I was like, boom, I'm there, I'm all in."
+  - marker: `[img: LisaOrth-apebadoo.jpg | ApeBadoo — Lisa Orth | ]`
+- **Hexflex** — 1× · first ~turn 84/139 (60% in)
+  - context: "We hinted at this earlier in the episode, but there's definitely a vibe to your work that's instantly identifiable on the platform, and a big part of that is th"
+  - marker: `[img: LisaOrth-hexflex.jpg | Hexflex — Lisa Orth | ]`
+
+## AJBerni — Hooked on Art · AJBerni
+- **Love** — 5× · first ~turn 72/145 (50% in)
+  - context: "Some folks may have seen the thread I posted on my personal Twitter about the genesis of Love, the collaboration with T."
+  - marker: `[img: AJBerni-love.jpg | Love — AJBerni | ]`
+- **Reconnaissance** — 2× · first ~turn 78/145 (54% in)
+  - context: "By my count from the official Tender website, we've had six collabs, inclusive of the Tender Pass collaboration with Punevyr, and they've all been very differen"
+  - marker: `[img: AJBerni-reconnaissance.jpg | Reconnaissance — AJBerni | ]`
+- **Bound** — 2× · first ~turn 78/145 (54% in)
+  - context: "Boswell as you mentioned, and most recently Bound with a new artist to fx(hash) and maybe even to generative art, David Bryce Allen -- I'm not fully sure of his"
+  - marker: `[img: AJBerni-bound.jpg | Bound — AJBerni | ]`
+- **Recon** — 2× · first ~turn 90/145 (62% in)
+  - context: "For Recon and for Love, those were specific ideas I thought would be a perfect match."
+  - marker: `[img: AJBerni-recon.jpg | Recon — AJBerni | ]`
+- **Fragments of a Wave** — 1× · first ~turn 25/145 (17% in)
+  - context: "I notoriously did it with Fragments of a Wave—I must have sold 10 pieces and ended up with 10."
+  - marker: `[img: AJBerni-fragments-of-a-wave.jpg | Fragments of a Wave — AJBerni | ]`
+- **Smolskull** — 1× · first ~turn 36/145 (25% in)
+  - context: "We were talking to CalicoJack about writing about Smolskull—he had that passion, a perfect voice to talk about it."
+  - marker: `[img: AJBerni-smolskull.jpg | Smolskull — AJBerni | ]`
+- **Garden, Monoliths** — 1× · first ~turn 48/145 (33% in)
+  - context: "Quick question: is Garden, Monoliths still number one on the Icons list?"
+  - marker: `[img: AJBerni-garden-monoliths.jpg | Garden, Monoliths — AJBerni | ]`
+- **Abstractment: Pang** — 1× · first ~turn 74/145 (51% in)
+  - context: "My plan was to have a "TenderX" account, and every project would be named after the artist I was collaborating with -- so it'd be published from TenderX, first "
+  - marker: `[img: AJBerni-abstractment-pang.jpg | Abstractment: Pang — AJBerni | ]`
+
+## IvonaTau — Exploring In-Between States · Ivona Tau, PhD
+- **Under the Waves** — 2× · first ~turn 25/95 (26% in)
+  - context: "Looking at some of your more specifically AI-driven work that isn't on fx(hash), you see this romantic interplay—like in Under the Waves, where you have incredi"
+  - marker: `[img: IvonaTau-under-the-waves.jpg | Under the Waves — Ivona Tau, PhD | ]`
+- **Glitches** — 2× · first ~turn 37/95 (39% in)
+  - context: "That was true with both Metaclet and Glitches and City of Atom."
+  - marker: `[img: IvonaTau-glitches.jpg | Glitches — Ivona Tau, PhD | ]`
+- **Mnemonic Discontinued** — 1× · first ~turn 28/95 (29% in)
+  - context: "That's one of the things I did in my Mnemonic Discontinued project, debuting in Hong Kong this month."
+  - marker: `[img: IvonaTau-mnemonic-discontinued.jpg | Mnemonic Discontinued — Ivona Tau, PhD | ]`
+- **art** — 1× · first ~turn 30/95 (32% in)
+  - context: "It's very similar with tools like Midjourney and DALL-E: it's getting easier and easier to create, which is amazing about how democratized technology has become"
+  - marker: `[img: IvonaTau-art.jpg | art — Ivona Tau, PhD | ]`
+- **Mythic Latent Glitches** — 1× · first ~turn 32/95 (34% in)
+  - context: "That seems to relate to some of the conversation happening on fx(hash) and in the Discord shortly after Mythic Latent Glitches came out, where it was unfortunat"
+  - marker: `[img: IvonaTau-mythic-latent-glitches.jpg | Mythic Latent Glitches — Ivona Tau, PhD | ]`
+- **Metaclet** — 1× · first ~turn 37/95 (39% in)
+  - context: "That was true with both Metaclet and Glitches and City of Atom."
+  - marker: `[img: IvonaTau-metaclet.jpg | Metaclet — Ivona Tau, PhD | ]`
+- **City of Atom** — 1× · first ~turn 37/95 (39% in)
+  - context: "That was true with both Metaclet and Glitches and City of Atom."
+  - marker: `[img: IvonaTau-city-of-atom.jpg | City of Atom — Ivona Tau, PhD | ]`
+- **Moon Crescents** — 1× · first ~turn 42/95 (44% in)
+  - context: "Yes, there's one project — Moon Crescents, I think."
+  - marker: `[img: IvonaTau-moon-crescents.jpg | Moon Crescents — Ivona Tau, PhD | ]`
+
+## KRPDMDAO — Buying Through the Bear Market · KRPDM DAO
+- **Organicons** — 3× · first ~turn 59/141 (42% in)
+  - context: "Personally, I'd been collecting some of his work when HEN was in triple digits — he's one of the OGs of Tezos NFTs, and we in the DAO love Organicons."
+  - marker: `[img: KRPDMDAO-organicons.jpg | Organicons — KRPDM DAO | ]`
+- **Century** — 3× · first ~turn 101/141 (72% in)
+  - context: "We're referring to the five things he did on fx(hash), his Century series."
+  - marker: `[img: KRPDMDAO-century.jpg | Century — KRPDM DAO | ]`
+- **Ringers** — 2× · first ~turn 34/141 (24% in)
+  - context: "Was it the Ringers for a Zancan?"
+  - marker: `[img: KRPDMDAO-ringers.jpg | Ringers — KRPDM DAO | ]`
+- **Astraea's Loom** — 2× · first ~turn 58/141 (41% in)
+  - context: "One of the first big sweeps you had was Organicon Variation 1, 4W BLOOT, and then Astraea's Loom by Rose Jackson."
+  - marker: `[img: KRPDMDAO-astraea-s-loom.jpg | Astraea's Loom — KRPDM DAO | ]`
+- **Sweet Tools** — 2× · first ~turn 64/141 (45% in)
+  - context: "There've been a couple of times I've seen your name pop up and thought, "I know Trinity's got a good eye, let's give this one a good look." And then, of course,"
+  - marker: `[img: KRPDMDAO-sweet-tools.jpg | Sweet Tools — KRPDM DAO | ]`
+- **Miniscapes** — 2× · first ~turn 110/141 (78% in)
+  - context: "That piece is Miniscapes, by the way."
+  - marker: `[img: KRPDMDAO-miniscapes.jpg | Miniscapes — KRPDM DAO | ]`
+- **Entomology** — 2× · first ~turn 114/141 (81% in)
+  - context: "Same with Christopher Ulu, who did those bugs — I think it's Entomology something, I forget the exact name."
+  - marker: `[img: KRPDMDAO-entomology.jpg | Entomology — KRPDM DAO | ]`
+- **Proc Gen Entomology** — 2× · first ~turn 119/141 (84% in)
+  - context: "Proc Gen Entomology."
+  - marker: `[img: KRPDMDAO-proc-gen-entomology.jpg | Proc Gen Entomology — KRPDM DAO | ]`
+
+## AnnaLucia — The Importance of Color · Anna Lucia
+- **Perpetual Oscillations** — 9× · first ~turn 4/124 (3% in)
+  - context: "Most of your audience will probably know me from my two fx(hash) collections — one is Art for Walls and Public Spaces, and my second drop was called Perpetual O"
+  - marker: `[img: AnnaLucia-perpetual-oscillations.jpg | Perpetual Oscillations — Anna Lucia | ]`
+- **Art for Walls in Public Spaces** — 6× · first ~turn 37/124 (30% in)
+  - context: "Especially in your work, how could I get better at talking about it when I'm looking at a piece like Art for Walls in Public Spaces and vibing with it hard?"
+  - marker: `[img: AnnaLucia-art-for-walls-in-public-spaces.jpg | Art for Walls in Public Spaces — Anna Lucia | ]`
+- **Patchwork** — 4× · first ~turn 45/124 (36% in)
+  - context: "For Patchwork, I pulled out all my colors and assembled completely new palettes from them, adding a few new colors here and there."
+  - marker: `[img: AnnaLucia-patchwork.jpg | Patchwork — Anna Lucia | ]`
+- **Art For Walls In Public Spaces** — 3× · first ~turn 43/124 (35% in)
+  - context: "In Art For Walls In Public Spaces, there's a group of different palettes, and each palette has colors that recur in the others, but each one has its own probabi"
+  - marker: `[img: AnnaLucia-art-for-walls-in-public-spaces.jpg | Art For Walls In Public Spaces — Anna Lucia | ]`
+- **Secret Garden** — 2× · first ~turn 45/124 (36% in)
+  - context: "That's partly because I created Secret Garden for the Blind Gallery, ItsGalo's project where the idea was to release a set of NFTs that people collect without k"
+  - marker: `[img: AnnaLucia-secret-garden.jpg | Secret Garden — Anna Lucia | ]`
+- **Art for Walls and Public Spaces** — 1× · first ~turn 4/124 (3% in)
+  - context: "Most of your audience will probably know me from my two fx(hash) collections — one is Art for Walls and Public Spaces, and my second drop was called Perpetual O"
+  - marker: `[img: AnnaLucia-art-for-walls-and-public-spaces.jpg | Art for Walls and Public Spaces — Anna Lucia | ]`
+- **Loom** — 1× · first ~turn 4/124 (3% in)
+  - context: "I also have an Art Blocks collection called Loom, and I experimented a bit on Hic Et Nunc when that was still up and running, and minted some things on Foundati"
+  - marker: `[img: AnnaLucia-loom.jpg | Loom — Anna Lucia | ]`
+- **Art for Walls** — 1× · first ~turn 41/124 (33% in)
+  - context: "There's much more consistent refinement in Art for Walls."
+  - marker: `[img: AnnaLucia-art-for-walls.jpg | Art for Walls — Anna Lucia | ]`
+
+## PiterPasma — Playing Code Golf · Piter Pasma
+- **Hypergiraffe** — 17× · first ~turn 26/172 (15% in)
+  - context: "That's what you did with Hypergiraffe, right -- generated titles."
+  - marker: `[img: PiterPasma-hypergiraffe.jpg | Hypergiraffe — Piter Pasma | ]`
+- **Skulptuur** — 16× · first ~turn 30/172 (17% in)
+  - context: "It's not that I set out to make Skulptuur with that in mind exactly -- there were just two possible programs, and I never even really released the other one."
+  - marker: `[img: PiterPasma-skulptuur.jpg | Skulptuur — Piter Pasma | ]`
+- **Gonzion** — 9× · first ~turn 82/172 (48% in)
+  - context: "One right before the end of beta, Angry Noise, and one shortly after, Gonzion, I think — is that how you pronounce it?"
+  - marker: `[img: PiterPasma-gonzion.jpg | Gonzion — Piter Pasma | ]`
+- **Angry Noise** — 8× · first ~turn 82/172 (48% in)
+  - context: "One right before the end of beta, Angry Noise, and one shortly after, Gonzion, I think — is that how you pronounce it?"
+  - marker: `[img: PiterPasma-angry-noise.jpg | Angry Noise — Piter Pasma | ]`
+- **Ringers** — 4× · first ~turn 8/172 (5% in)
+  - context: "I believe it was in December 2020 when Ringers was released."
+  - marker: `[img: PiterPasma-ringers.jpg | Ringers — Piter Pasma | ]`
+- **Never Bored** — 2× · first ~turn 51/172 (30% in)
+  - context: "That struck me because one of the demoscene videos you'd posted is called Never Bored, from 1999."
+  - marker: `[img: PiterPasma-never-bored.jpg | Never Bored — Piter Pasma | ]`
+- **Dot Produkt** — 2× · first ~turn 73/172 (42% in)
+  - context: "Going back to fx(hash) — we've talked about Hypergiraffe, but not much about Dot Produkt, which was one of the pieces you released before we were on the platfor"
+  - marker: `[img: PiterPasma-dot-produkt.jpg | Dot Produkt — Piter Pasma | ]`
+- **Amulet** — 2× · first ~turn 164/172 (95% in)
+  - context: "I noticed you minted Amulet from Stranger in the Queue this week."
+  - marker: `[img: PiterPasma-amulet.jpg | Amulet — Piter Pasma | ]`
+
+## AmyGoodchild — Interview with Amy Goodchild! · Amy Goodchild!
+- **Maplands** — 6× · first ~turn 54/162 (33% in)
+  - context: "You wrote a really great blog post about Maplands that came out in early January, is that right?"
+  - marker: `[img: AmyGoodchild-maplands.jpg | Maplands — Amy Goodchild! | ]`
+- **Space Tunnel** — 1× · first ~turn 25/162 (15% in)
+  - context: "Definitely the Space Tunnel — my favorite installation I ever made."
+  - marker: `[img: AmyGoodchild-space-tunnel.jpg | Space Tunnel — Amy Goodchild! | ]`
+- **Passage** — 1× · first ~turn 37/162 (23% in)
+  - context: "Have you seen the thing called Passage, or maybe it's Journey?"
+  - marker: `[img: AmyGoodchild-passage.jpg | Passage — Amy Goodchild! | ]`
+- **Journey** — 1× · first ~turn 37/162 (23% in)
+  - context: "Have you seen the thing called Passage, or maybe it's Journey?"
+  - marker: `[img: AmyGoodchild-journey.jpg | Journey — Amy Goodchild! | ]`
+
+## abstractment — Investigating Clews · abstractment
+- **Clew** — 28× · first ~turn 25/143 (17% in)
+  - context: "Were you working on other projects before Clew?"
+  - marker: `[img: abstractment-clew.jpg | Clew — abstractment | ]`
+- **Glass** — 4× · first ~turn 101/143 (71% in)
+  - context: "I minted several Glass pieces that I really like, and I like the Smolskulls too."
+  - marker: `[img: abstractment-glass.jpg | Glass — abstractment | ]`
+- **Sequence** — 2× · first ~turn 121/143 (85% in)
+  - context: "One of my favorite moments — I think it was the same day Sequence dropped."
+  - marker: `[img: abstractment-sequence.jpg | Sequence — abstractment | ]`
+- **Farbteiler** — 2× · first ~turn 121/143 (85% in)
+  - context: "Farbteiler came out — I'd seen some Twitter previews and thought, this is just beautiful."
+  - marker: `[img: abstractment-farbteiler.jpg | Farbteiler — abstractment | ]`
+- **Symmetric Clew** — 1× · first ~turn 69/143 (48% in)
+  - context: "I think I'll call it Symmetric Clew, since the vast majority of the collection will be symmetrical in some way."
+  - marker: `[img: abstractment-symmetric-clew.jpg | Symmetric Clew — abstractment | ]`
+- **Mountain View** — 1× · first ~turn 101/143 (71% in)
+  - context: "The other day, during the Mountain View drama, I took advantage of the opportunity and picked one up—was really excited to add that to my collection."
+  - marker: `[img: abstractment-mountain-view.jpg | Mountain View — abstractment | ]`
+- **Stitch** — 1× · first ~turn 101/143 (71% in)
+  - context: "I'd also been wanting to get a Stitch but missed the mint window, which is one of my recent regrets."
+  - marker: `[img: abstractment-stitch.jpg | Stitch — abstractment | ]`
+- **Smolskulls** — 1× · first ~turn 101/143 (71% in)
+  - context: "I minted several Glass pieces that I really like, and I like the Smolskulls too."
+  - marker: `[img: abstractment-smolskulls.jpg | Smolskulls — abstractment | ]`
+
+## KenConsumer — Breaking G L A S S · KenConsumer
+- **Glass** — 4× · first ~turn 61/122 (50% in)
+  - context: "One of my favorite projects on fx(hash) is Glass."
+  - marker: `[img: KenConsumer-glass.jpg | Glass — KenConsumer | ]`
+- **Palimpsest** — 4× · first ~turn 83/122 (68% in)
+  - context: "From this year, from 2022, I've found that Palimpsest is fantastic."
+  - marker: `[img: KenConsumer-palimpsest.jpg | Palimpsest — KenConsumer | ]`
+- **Defrag** — 2× · first ~turn 34/122 (28% in)
+  - context: "Defrag is fantastic — Defrag V2 is amazing on the TV."
+  - marker: `[img: KenConsumer-defrag.jpg | Defrag — KenConsumer | ]`
+- **Clue** — 2× · first ~turn 86/122 (70% in)
+  - context: "I like Clue—I think it's great."
+  - marker: `[img: KenConsumer-clue.jpg | Clue — KenConsumer | ]`
+- **Stitched Trauma** — 2× · first ~turn 87/122 (71% in)
+  - context: "Stitched Trauma is great because it's wild and chaotic, and I like it so much."
+  - marker: `[img: KenConsumer-stitched-trauma.jpg | Stitched Trauma — KenConsumer | ]`
+- **First Ignition** — 2× · first ~turn 87/122 (71% in)
+  - context: "First Ignition was quite good."
+  - marker: `[img: KenConsumer-first-ignition.jpg | First Ignition — KenConsumer | ]`
+- **Fidenza** — 2× · first ~turn 103/122 (84% in)
+  - context: "They'll say, "I don't want to buy ETH, but I want that Fidenza." And I have to tell them, well, you need ETH to get that Fidenza — and that might mean 100 ETH, "
+  - marker: `[img: KenConsumer-fidenza.jpg | Fidenza — KenConsumer | ]`
+- **Chromatic Dazzle** — 2× · first ~turn 110/122 (90% in)
+  - context: "I've already mentioned Clue, Palimpsest, and Chromatic Dazzle — I still think Chromatic Dazzle plays into that nostalgia idea, where the first thing that gets y"
+  - marker: `[img: KenConsumer-chromatic-dazzle.jpg | Chromatic Dazzle — KenConsumer | ]`
+
+## BrePettis — The Cult of Generative Art · Bre Pettis
+- **Luminous Echoes** — 3× · first ~turn 61/123 (50% in)
+  - context: "Then when fx(hash) 2.0 went live, his Luminous Echoes project launched—the previous one was called Mini Dahlias, such a great set."
+  - marker: `[img: BrePettis-luminous-echoes.jpg | Luminous Echoes — Bre Pettis | ]`
+- **Industrial Devolution** — 3× · first ~turn 72/123 (59% in)
+  - context: "Something about it just didn't connect for me compared to some of his other work, like Industrial Devolution."
+  - marker: `[img: BrePettis-industrial-devolution.jpg | Industrial Devolution — Bre Pettis | ]`
+- **Mazes** — 2× · first ~turn 14/123 (11% in)
+  - context: "One is called Mazes — line artwork from a program originally written in 1972."
+  - marker: `[img: BrePettis-mazes.jpg | Mazes — Bre Pettis | ]`
+- **Mini Dahlias** — 2× · first ~turn 61/123 (50% in)
+  - context: "Then when fx(hash) 2.0 went live, his Luminous Echoes project launched—the previous one was called Mini Dahlias, such a great set."
+  - marker: `[img: BrePettis-mini-dahlias.jpg | Mini Dahlias — Bre Pettis | ]`
+- **Universal Ray Hatcher** — 2× · first ~turn 73/123 (59% in)
+  - context: "The other piece I love of his is Geomorphism—I've got a bunch of those, plus one of the Nano Panoramas, one Industrial Devolution, and several from Universal Ra"
+  - marker: `[img: BrePettis-universal-ray-hatcher.jpg | Universal Ray Hatcher — Bre Pettis | ]`
+- **Clown Vamp** — 2× · first ~turn 84/123 (68% in)
+  - context: "Must have been Clown Vamp, right?"
+  - marker: `[img: BrePettis-clown-vamp.jpg | Clown Vamp — Bre Pettis | ]`
+- **Pinocchio** — 1× · first ~turn 5/123 (4% in)
+  - context: "My first job, I said yes to being a floor runner in the film industry — turned out that job was in Prague, working on Pinocchio with Martin Landau and Jonathan "
+  - marker: `[img: BrePettis-pinocchio.jpg | Pinocchio — Bre Pettis | ]`
+- **Make** — 1× · first ~turn 7/123 (6% in)
+  - context: "That led to a job at Make magazine, making a video every week on how to make things, and then a similar role at Etsy for a year."
+  - marker: `[img: BrePettis-make.jpg | Make — Bre Pettis | ]`
+
+## Ozzie — No Experts · Ozzie
+- **Reiziger** — 4× · first ~turn 64/187 (34% in)
+  - context: "With Reiziger, it started with a good friend of mine in the Netherlands who wanted to travel from the Netherlands to China by bike — 10,000 kilometers, I think "
+  - marker: `[img: Ozzie-reiziger.jpg | Reiziger — Ozzie | ]`
+- **Magic: The Gathering** — 2× · first ~turn 8/187 (4% in)
+  - context: "Not Magic: The Gathering — we need to ask you that."
+  - marker: `[img: Ozzie-magic-the-gathering.jpg | Magic: The Gathering — Ozzie | ]`
+- **Here and Now** — 2× · first ~turn 98/187 (52% in)
+  - context: "We've seen a bit of that: the Blind Gallery dropped art on fx(hash) for their latest release, and Here and Now uses fx(hash) to power its generative experience."
+  - marker: `[img: Ozzie-here-and-now.jpg | Here and Now — Ozzie | ]`
+- **Grand Theft Auto** — 1× · first ~turn 9/187 (5% in)
+  - context: "I was a big fan growing up — I know you guys are too — but it was mostly the classic PlayStation stuff, Grand Theft Auto, FIFA."
+  - marker: `[img: Ozzie-grand-theft-auto.jpg | Grand Theft Auto — Ozzie | ]`
+- **Landlines** — 1× · first ~turn 42/187 (22% in)
+  - context: "I love the idea of letting projects build momentum with people minting from home, but I was bummed I didn't get to mint Landlines live — that was the one I was "
+  - marker: `[img: Ozzie-landlines.jpg | Landlines — Ozzie | ]`
+- **Diablo IV** — 1× · first ~turn 60/187 (32% in)
+  - context: "My cat loves Diablo IV, so."
+  - marker: `[img: Ozzie-diablo-iv.jpg | Diablo IV — Ozzie | ]`
+- **Kittens to Cairo** — 1× · first ~turn 61/187 (33% in)
+  - context: "Semi-recently you released Kittens to Cairo for Turkey Quake Aid, and you've got a history of philanthropic work in crypto — you mentioned one of the first thin"
+  - marker: `[img: Ozzie-kittens-to-cairo.jpg | Kittens to Cairo — Ozzie | ]`
+- **Reissiger** — 1× · first ~turn 61/187 (33% in)
+  - context: "You also worked with fellow fx(hash) team member Liam Egan on the Reissiger project."
+  - marker: `[img: Ozzie-reissiger.jpg | Reissiger — Ozzie | ]`
+
+## ClownVamp — Interview with ClownVamp · ClownVamp
+- **Deconstruction** — 5× · first ~turn 131/210 (62% in)
+  - context: "I think we're seeing a bit of that now with Deconstruction, which I know you like."
+  - marker: `[img: ClownVamp-deconstruction.jpg | Deconstruction — ClownVamp | ]`
+- **Garden, Monoliths** — 5× · first ~turn 188/210 (90% in)
+  - context: "It'll matter for people selling RGBs or Garden, Monoliths, because the pie is much bigger."
+  - marker: `[img: ClownVamp-garden-monoliths.jpg | Garden, Monoliths — ClownVamp | ]`
+- **Drippy Cube** — 4× · first ~turn 123/210 (59% in)
+  - context: "You mentioned a couple of projects when we were doing interview prep — Holo and Drippy Cube by iRyanBell."
+  - marker: `[img: ClownVamp-drippy-cube.jpg | Drippy Cube — ClownVamp | ]`
+- **Astronomic Comics** — 3× · first ~turn 30/210 (14% in)
+  - context: "I think the first time I started seeing you in the sales feed was back in March, and this ties back to something you said earlier about reflexivity—I believe yo"
+  - marker: `[img: ClownVamp-astronomic-comics.jpg | Astronomic Comics — ClownVamp | ]`
+- **Astral Loom** — 3× · first ~turn 41/210 (20% in)
+  - context: "Do you feel there's a balance between spending, say, 1,000 Tez going deep into Astral Loom by Lisa Orth versus buying 10 Contras—well, not 10 anymore, 3 or 4 Co"
+  - marker: `[img: ClownVamp-astral-loom.jpg | Astral Loom — ClownVamp | ]`
+- **Fractured Cells** — 3× · first ~turn 92/210 (44% in)
+  - context: "I have a couple of Action Fields, which I'm fine with, a few Sand Tables, and some Fractured Cells, which I think are technically really interesting."
+  - marker: `[img: ClownVamp-fractured-cells.jpg | Fractured Cells — ClownVamp | ]`
+- **Ringers** — 3× · first ~turn 106/210 (50% in)
+  - context: "Dimitri, the Ringers guy, sold a bunch of prints that were, I think, like 30 test prints from Ringers."
+  - marker: `[img: ClownVamp-ringers.jpg | Ringers — ClownVamp | ]`
+- **Defrag 1** — 3× · first ~turn 134/210 (64% in)
+  - context: "A great example is Toxies, Defrag 1, 2, and 3—each successive one has a lower floor."
+  - marker: `[img: ClownVamp-defrag-1.jpg | Defrag 1 — ClownVamp | ]`
+
+## Ciphrd_EndOfBeta — Ciphrd End of Beta · Ciphrd
+- **RGB** — 1× · first ~turn 26/130 (20% in)
+  - context: "That really shows up in something like RGB, for example — a very elegant system that produces so much."
+  - marker: `[img: Ciphrd_EndOfBeta-rgb.jpg | RGB — Ciphrd | ]`
+- **Bridge** — 1× · first ~turn 38/130 (29% in)
+  - context: "I'm sure you're familiar with the Camille Roux Bridge project — around 20 different contributors, and they had to manage payouts manually to make sure everyone "
+  - marker: `[img: Ciphrd_EndOfBeta-bridge.jpg | Bridge — Ciphrd | ]`
+- **Ethereal Microcosm** — 1× · first ~turn 75/130 (58% in)
+  - context: "Side note: congratulations on Ethereal Microcosm selling out at 100 Tez."
+  - marker: `[img: Ciphrd_EndOfBeta-ethereal-microcosm.jpg | Ethereal Microcosm — Ciphrd | ]`
+
+## Kaloh — Interview with Kaloh · Kaloh
+- **Disegnatori** — 2× · first ~turn 51/86 (59% in)
+  - context: "For me, one artist who's done so well despite not releasing much is Erik Swahn — Disegnatori, Farbteiler, and Retrogrades."
+  - marker: `[img: Kaloh-disegnatori.jpg | Disegnatori — Kaloh | ]`
+- **Impossible Sneakers** — 1× · first ~turn 11/86 (13% in)
+  - context: "Then I made Impossible Sneakers, which I released a couple of weeks ago."
+  - marker: `[img: Kaloh-impossible-sneakers.jpg | Impossible Sneakers — Kaloh | ]`
+- **Fidenza** — 1× · first ~turn 23/86 (27% in)
+  - context: "They were expecting that from one month to the next we'd see a new Fidenza on Tezos that everybody wants to collect, don't miss out."
+  - marker: `[img: Kaloh-fidenza.jpg | Fidenza — Kaloh | ]`
+- **the garden, monoliths** — 1× · first ~turn 30/86 (35% in)
+  - context: "At the beginning that was unique -- when Zancan created his piece, the garden, monoliths, that was amazing, still very unique."
+  - marker: `[img: Kaloh-the-garden-monoliths.jpg | the garden, monoliths — Kaloh | ]`
+- **Contrapuntos** — 1× · first ~turn 42/86 (49% in)
+  - context: "Marcelo Soria-Rodriguez, for example — with Contrapuntos and Entretiempos — built huge hype on fx(hash) and moved on to Art Blocks with his curated series."
+  - marker: `[img: Kaloh-contrapuntos.jpg | Contrapuntos — Kaloh | ]`
+- **Entretiempos** — 1× · first ~turn 42/86 (49% in)
+  - context: "Marcelo Soria-Rodriguez, for example — with Contrapuntos and Entretiempos — built huge hype on fx(hash) and moved on to Art Blocks with his curated series."
+  - marker: `[img: Kaloh-entretiempos.jpg | Entretiempos — Kaloh | ]`
+- **Smolskull** — 1× · first ~turn 45/86 (52% in)
+  - context: "He has a solid community, a real brand with Smolskull, and he's released many collections — not just two or three, probably over ten — while experimenting with "
+  - marker: `[img: Kaloh-smolskull.jpg | Smolskull — Kaloh | ]`
+- **Farbteiler** — 1× · first ~turn 51/86 (59% in)
+  - context: "For me, one artist who's done so well despite not releasing much is Erik Swahn — Disegnatori, Farbteiler, and Retrogrades."
+  - marker: `[img: Kaloh-farbteiler.jpg | Farbteiler — Kaloh | ]`
+
+## MJLindow — Interview with MJLindow · MJLindow
+- **Waiting in Afton** — 8× · first ~turn 19/118 (16% in)
+  - context: "We've all seen Waiting in Afton and that landscape, that amount of beauty in there."
+  - marker: `[img: MJLindow-waiting-in-afton.jpg | Waiting in Afton — MJLindow | ]`
+- **Caught in a Void** — 8× · first ~turn 37/118 (31% in)
+  - context: "Not to put words in your mouth, but obviously Waiting in Afton, which we've already talked about, and also Caught in a Void."
+  - marker: `[img: MJLindow-caught-in-a-void.jpg | Caught in a Void — MJLindow | ]`
+- **Kunza** — 6× · first ~turn 38/118 (32% in)
+  - context: "There's kind of a demarcation between everything that came before Caught in a Void, then Caught in a Void itself, and then Kunza after."
+  - marker: `[img: MJLindow-kunza.jpg | Kunza — MJLindow | ]`
+- **Jardin** — 2× · first ~turn 10/118 (8% in)
+  - context: "I found out about fx(hash) in November and was super excited — I dove in and, the day after I stumbled across it, launched Jardin, my first project there."
+  - marker: `[img: MJLindow-jardin.jpg | Jardin — MJLindow | ]`
+- **Afton** — 2× · first ~turn 91/118 (77% in)
+  - context: "Even in the work we've seen from you — obviously Afton is the original and, as far as anybody's concerned, the best landscape piece — you also do a lot of more "
+  - marker: `[img: MJLindow-afton.jpg | Afton — MJLindow | ]`
+- **Fidenza** — 1× · first ~turn 14/118 (12% in)
+  - context: "Pretty quickly after finding Art Blocks, I saw a few projects — Fidenza, Chromie Squiggle, Meridian — and I guess you could say I was inspired by those."
+  - marker: `[img: MJLindow-fidenza.jpg | Fidenza — MJLindow | ]`
+- **Chromie Squiggle** — 1× · first ~turn 14/118 (12% in)
+  - context: "Pretty quickly after finding Art Blocks, I saw a few projects — Fidenza, Chromie Squiggle, Meridian — and I guess you could say I was inspired by those."
+  - marker: `[img: MJLindow-chromie-squiggle.jpg | Chromie Squiggle — MJLindow | ]`
+- **Meridian** — 1× · first ~turn 14/118 (12% in)
+  - context: "Pretty quickly after finding Art Blocks, I saw a few projects — Fidenza, Chromie Squiggle, Meridian — and I guess you could say I was inspired by those."
+  - marker: `[img: MJLindow-meridian.jpg | Meridian — MJLindow | ]`

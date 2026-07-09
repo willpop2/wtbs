@@ -1,0 +1,337 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Trinity, of course, and Maya Man, who's joining us for an interview. How's it going, everyone?
+
+Maya Man: Hi, it's great.
+
+Will: Trinity, live from Canada.
+
+Trinity: Live from Canada, CBC 2.
+
+Will: Ironically, maybe your internet will be better there. We'll see how the episode plays out.
+
+Trinity: It's better here already. I can tell you that. It's a shame. New York, come on, get it together.
+
+Will: Maya, we're super excited to have you on the show to talk about your work in general and about the Verse Solos exhibit that just went up last night. It was great seeing all the photos and videos across social media of the installation and the opening. But before we get into your art and your practice, maybe you can give everyone some of your background in art and coding, and how you discovered blockchain and NFTs.
+
+Maya Man: My background initially was in computer science. Growing up, I was really into being on the computer — in middle school I loved using my parents' computer in the kitchen, spending hours on Photo Booth and iMovie just messing around. That was my first introduction to making digital art of any kind. I grew up in a small town in Pennsylvania, and I always tell people that back then I didn't understand there was this expansive definition of what an artist could be. I wasn't a kid who was good at drawing and painting. I was into math, and before I decided to study computer science in college, I actually thought I'd study physics, because I liked the problem-solving aspect. But I did a two-week coding camp for high school students right after I graduated, right before starting college, and I loved it. That's how I ended up pursuing computer science, which was really the only path at my school if you wanted to do any programming.
+
+After my first year, I met Lauren Lee McCarthy, the founder of p5.js, which is part of the Processing Foundation. She was incredibly welcoming and invited me to a p5.js conference in Pittsburgh. That was the first time I met people who were using code and technology to make artwork, or working in education or design — things beyond the purely technical sphere. That was my gateway to understanding that being an artist was possible for someone with my specific interests. It's a much longer story, but that's the start of it.
+
+Will: What about crossing over into blockchain and NFTs? There's so much negative sentiment out there, especially among younger people and artists in general. We obviously have artists on this show making code-based art and releasing it as NFTs, because it makes a lot of sense — but in the broader ecosystem, it doesn't seem very accepted. Was it just a natural inclination toward coding and technology that pulled you in, or were there points of friction along the way?
+
+Maya Man: I was super hesitant at the beginning. It was so divisive in the media art community, which I'd felt part of for years before NFTs became popular. I'm excited about making the type of work I make with the medium I work with, which is most often software — but it was really challenging to see how divisive blockchain and NFTs were in that community, and I understood both sides of the conversation. As an artist, you want to be able to create, share, and sell work, and historically there was never really a great market in the traditional gallery system for work made with software. So this was an exciting potential path for artists working in this medium. But at the same time, it introduced a whole different system and mindset into the process of art-making, and created this extremely intense market around the work that I was hesitant about, even afraid of, at the beginning. Maybe I'm still afraid of it.
+
+Trinity: What's so scary about it?
+
+Maya Man: It all happened so fast, and it's all very out in the open. I just felt unsure of how I personally wanted to engage with the space. The way I first engaged was really just responding to an invitation — the first NFT piece I ever did was when Casey Reas invited me to be part of the first show on Feral File, showing a group of generative artists. I really admire Casey and the way he curated that show, and the whole platform resonated with me, so it felt comfortable as an entry point. Since then, I've worked on projects when it makes sense for them to be on the blockchain.
+
+Will: In researching this interview, I found one of the very first interviews you gave, back when you were maybe in college — with p5 or the Processing organization, I think. This predates blockchain, or at least this modern NFT movement, but you were talking about getting involved with technology, being a maker, and having a voice. That seems like such a challenging thing in this space, because there's a rightful perception that it's very male-dominated, very white-dominated — crypto in general. I know from talking to people on the gaming side who don't want to enter the space because they feel it's too white and too male. But at the same time, if you're not willing to cross over and have a voice in the space, it's never going to change. There's a chicken-and-egg aspect to it. I'm not sure exactly where I'm going with this, but I was thinking about that while listening to your old interview, and trying to connect it to your willingness to embrace the technology and the work you make — which speaks to femininity and the internet and things like that, which we'll get into. So I don't know if it's a comment or a question, but there's that difficulty of going into a place where you don't feel represented, while also wanting to create that representation.
+
+Maya Man: I feel like I've just made work in the only way I know how, from the beginning. That's why I use software, and it's also why I make work about the internet — often about hyperfemininity and subcultures related to women or girls online. It comes naturally from my identity and what I consume online. But once it's placed in a context where the space is super male-dominated — and the generative art space especially is very male-dominated, with work that tends to be more visually abstract and less feminine-looking than a lot of mine — I actually find it entertaining to share the work and watch people's reactions. That's part of the piece for me: this audience is confronted with themes that aren't necessarily embedded in the online subcultures I'm drawing from. Watching them work through and parse what the work is about, conceptually, is exciting to me. I'm frustrated that the space is so male-dominated, and it is intimidating to put work out there — people are quick to judge, very openly, in spaces like Discord. It's an intimidating environment to make and share work in, especially if you don't feel like you're part of the dominant culture.
+
+Trinity: It's like a total cross-wiring of internet subcultures — you're predominantly focused on and consuming one side of it while catering to the other. This weird Venn diagram of where you find the overlap. But it seems like people are really responding to it well. Maybe they don't get it as natively as you do, but we're all part of the internet.
+
+Maya Man: Totally. And the best part has been how open people are about the difference between their initial reaction to something — seeing it for the first time — and then thinking more about it, coming back to it. I've loved the way people share their response to the work with me, and their journey with it, and how their perspective changes over time.
+
+Will: Should we transition into some questions about your Verse Solo exhibition, *I'm Feeling Lucky*? It speaks to this current cultural moment — not just online but broadly — of a turn toward non-religious systems of belief and explanation of the world.
+
+Maya Man: Totally.
+
+Will: Millennials and Gen Z increasingly are looking for things beyond religious institutions. I'll stop there — maybe you can give us the backstory of the project, and how you linked up with Verse for the exhibition.
+
+Maya Man: The collection is called *I'm Feeling Lucky*. I usually start by saying that I moved to Los Angeles in 2021 to do my MFA — it sounds like a meme of the city, but I was genuinely surprised by how often I was suddenly confronted with questions about my chart or my sign. Something that underlies a lot of my work, including my previous collection *Fake It Till You Make It*, is that I'm obsessed with the structures we use online to understand who we are and filter our identity through. Astrology has become more and more popular over the past ten years — there are apps like Co-Star or The Pattern, or people follow certain accounts on Twitter or Instagram, constantly collecting information about who they are based on their sign and trying to figure out whether they identify with it or not.
+
+I've always been a bit skeptical of astrology, felt like maybe it's all random. But the longer I've thought about that — and while making generative art, which is often built on this version of randomness — I've been thinking a lot about finding meaning in randomness, and about my tendency when I was younger not to let myself indulge in finding meaning in random encounters. I think I wanted my thinking to feel more logical or scientific; I was very anti-organized-religion growing up, and skeptical of systems that claimed to tell me who I was or how I should be. But over the past couple of years in LA, I've found there's a real joy — a harmless joy — in engaging with something like astrology, finding meaning in it, letting it affect you in a way that lets you get deeper into how you think about yourself.
+
+With this collection, I wanted to link the mechanics of generative art — where you have an algorithm and a seed that produces something within certain bounds, but you don't know what — to the concept of astrology, because conceptually there are a lot of parallels in how we use both. The title, *I'm Feeling Lucky*, comes from the button on Google's homepage next to the search button, which has an interesting story I won't get into right now. But it really captures that desire for the system to give you what you want to hear.
+
+Trinity: Also, in the piece, you don't see it in every output, but you're also seeing the lucky numbers. So it's not just that means of reflection, which I think is maybe what you're talking to—you're able to use some sort of truism, some sort of tarot reading, or whatever your local astrologer is telling you, to reflect on your life, past, present, future. I did a tarot reading with my in-laws yesterday, so it's top of mind.
+
+Maya Man: It was very helpful. I had a reading recently too.
+
+Trinity: Astrology can be very similar, especially when it comes to your local chart. But you're also incorporating these other elements—the lucky numbers, which don't necessarily leave as much room for interpretation or reflection. I'm really curious about all the different elements that go into this piece—not just the symbols, but the different modalities around the verbiage, the numbers. Can you tell us how it was constructed, and what you incorporated and why?
+
+Maya Man: The piece is primarily driven by the language structure I built out, which shares a lot of similarities with what I used in my last collection, *Fake It Till You Make It*. It's a sort of collaged algorithm. I spent a lot of time on apps like Co-Star and The Pattern, looking at my own readings and observing the sentence structures they use to deliver your daily reading or your chart, along with the specific vocabulary they use. There's a whole library in the code that defines, grammatically, nouns, verbs, adjectives, adverbs—all pulled from those applications or horoscope readings from different websites. I also bought this huge book called *Instant Horoscope Reader*, and I'd page through it and type up a lot of the language that felt relevant.
+
+That's the primary engine driving the piece, but the language shows up in other ways too. Sometimes there's a paragraph or a sentence generated using that system, but other times there's something that says "you are," followed by an adjective like honest, genuine, or angry, with a large focus on that specific word—or a different adjective with four smaller ones surrounding it. Or there's something like the lucky numbers, and there are actually two different versions of that: a list of lucky numbers, or these numerology-based numbers, where it'll say your inner dream number is 5, or your personality number is 7. There are different systems for finding these numbers, and they correlate with different things.
+
+Conceptually, the piece is primarily focused on astrology, but in my mind it's closely related to things like lucky numbers, fortunes, readings, and even personality quizzes. The way we say "I'm a Leo," people also use Myers-Briggs or other systems to identify aspects of their personality and label them. That general practice is at the core of how I'm thinking about the whole project, which is why I bring in these other, smaller elements as well.
+
+Will: Was this built in a similar way to *Fake It Till You Make It*? You did that great video after that release walking through all the code and the libraries and the ad-lib structure. Did you roughly follow the same process here? And is this something you'll keep pursuing every couple of years, as the meta of the internet changes and shifts?
+
+Maya Man: I see the two projects as very much linked—this feels like the natural follow-up to *Fake It Till You Make It*. I don't know if I'd call it a sequel, but both are about using language found on the internet to understand yourself and how you should live. Both are fixated on specific subcultures that are very different from each other but still feel like the same realm to me. I wanted to test out how it felt to mimic that kind of language system again, but visually this collection is completely different.
+
+A big challenge with *Fake It Till You Make It* was making it look so simple. It seems effortless, but it was actually really hard to pull off—I talked about this in that video. When you're working with text, any error is glaringly obvious. If a word is cut off, it immediately looks poorly designed, whereas with something more abstract you have more flexibility in how things generate. With *Fake It Till You Make It*, the challenge was tuning the algorithm so finely that every output looked nicely designed regardless of the language or layout.
+
+With this one, I wanted it to feel much more chaotic in its layout and in the way the little symbol elements—I call them decorations—appear. But I kept it black and white to stay in a visual world that reads as astrology, the design language a lot of these apps use to signal they belong to that subculture. It feels very different for that reason, and it was freeing, because *Fake It Till You Make It* very clearly mimics one specific visual structure on Instagram, whereas this gave me more flexibility to invent the look myself rather than mirror one specific thing.
+
+Trinity: Honestly, I think *I'm Feeling Lucky* feels typographically even more challenging, with the different layouts and font structures. But I understand what you mean about the clean perfection *Fake It Till You Make It* required versus the messiness this one allows. The other piece that feels like it's in this same family is *Read It and Weep*—was that minted on the blockchain, or is it web-browser based? I wasn't quite clear on that.
+
+Maya Man: It was minted on the blockchain.
+
+Trinity: If we're thinking sequels, prequels, trilogies, it feels very much part of the family, but with the added benefit of linking out to the broader World Wide Web, which is a really cool addition. I immediately resonate with what *Read It and Weep* is doing, and it continues this conversation about what the internet is telling us, what society is telling us about what we should do or think. I'd love to hear more about the links, and the why behind them.
+
+Maya Man: One major contrast between that piece and the other two collections is that *Read It and Weep* is very personal. It's actually difficult for me to look at for too long, especially when I see other people looking at it. There are three different styles of text. The hot pink text, underlined, are the links you're referring to—pulled from articles, books, and essays I've read. I have a practice of reading and noting down anything I want to save or think might be useful in writing later. For this piece, I went back through all the quotes I'd pulled from different pieces of media and put them into the piece, which links out to those sources.
+
+The light pink text is what I call internet trash—not really attributable to a specific writer the way the hot pink text is. It's things like transcribed TikTok sounds or Tumblr quotes I've encountered online, including a lot of the sparkly Unicode characters that feel internet-native to me. The white text are excerpts from my journals from the past ten years—that's the part that feels most personal. I went back through what I'd written since the end of elementary school, middle school, all the way up to more recently, and included that too.
+
+I wanted it to feel like there was a heavy presence of both interiority and exteriority—interiority being how I'm thinking about myself when journaling and processing what's happening around me, and exteriority being those quotes, many of which comment on femininity online or the performance of self on the internet, themes very related to my work. Seeing that juxtaposed with my personal experience creates this chaotic layering. It feels like the inside of my mind on the internet, with the different pieces interacting with each other. But yeah, it's very personal because of those journal excerpts.
+
+Trinity: Pieces of your mind on the internet—I think at this point we're all cyborgs to a certain extent. With so many pieces of yourself, like saved quotes and saved articles, you can access them through digital means at any point. It's not ephemeral, like "I read that once and can only reference it from memory." It's "I read this, it was important enough that I captured and stored it," so in a very cyborg way, you can go back to it again and again. It's a fascinating part of our relationship with technology and the internet. I don't know if there's a question there, but I love your story around this connection to internet culture and the personal side of it.
+
+Maya Man: Thank you. I think a lot about that concept of the cyborg—Donna Haraway's *Cyborg Manifesto*, which was a feminist call to embrace machines as potentially an extension of self, in a way that embraces harmony and multiplicity. That resonates with me, because the way I'm intertwined with the internet feels inescapable and also very multiplied. It's hard to define in a singular way, and that's what feels special about being online—I'm able to produce all these different types of selves and versions of my own experience at once.
+
+Trinity: Our relationship with the internet also changes so often. Back when you were using Photo Booth and iMovie—I don't even know if Photo Booth ships on Mac laptops anymore.
+
+Maya Man: It does. Don't worry.
+
+Will: Oh.
+
+Maya Man: I have it, at least.
+
+Trinity: Oh, I see it—it is here. Oh my gosh.
+
+Maya Man: It's gone out of style, though. Not the same.
+
+Trinity: But our relationship with the internet does change as platforms and sites change. I assume you're a TikTok user now, but you weren't three years ago, and you probably won't be three years from now.
+
+Maya Man: Who knows? But yeah, I think I felt that a lot. I love spending time online, thinking about the internet — not just what it means to consume content, but specifically to post. For me, it's been a really challenging but important act to understand the way I'm thinking about myself. My own identity is constantly putting out this performance online, and I'm able to look back on it. When I look back on what I was posting in 2014, it's so different from what I'd post now, but that's who I was at the time. It leaves this legacy, this breadcrumb trail of who I was through all these different posts. The act of posting has helped me understand how I want to appear, but I think a lot of people villainize posting as a negative thing.
+
+Will: Everyone lives in fear of posting cringe at some point, you know?
+
+Maya Man: You have to embrace it.
+
+Will: I mean, that's how you mature. You have to post a certain amount of cringe in order to really grow and get good at the internet. I feel like this is going to play well into what we were just talking about before we jump back into the work again. We all grew up on the internet. I think Trinity and I are probably a little older than you, but not by much. We came of age during the internet era — that exposure to being online from 8 to 10 years old through adulthood is a key part of growing up for us, and for everyone younger than us. There was that Wild West aspect of the internet, especially when we were young and our parents didn't really understand what was going on, and there wasn't much content moderation. You could be exposed to some pretty crazy things at a very young age. You think so deeply about this, and you've made the internet such a part of your artistic practice — you basically study it in a way a lot of us don't. What do you think of it now, its impact on your maturation as a person, and its broader impact on kids now? Trinity and I both have kids who are about a year, year and a half old. They're not engaging with the internet yet, but they will be, even with a strict household policy — once they're out of the house, you'll have no control over how they interact with this stuff.
+
+Maya Man: Homeschool.
+
+Trinity: Let's go.
+
+Will: Maybe you'll just stay in Canada and homeschool. But I'm curious — what's your read on it now? What were the pros and cons of growing up so online, and what should we be looking out for with our kids?
+
+Maya Man: I'm not qualified to give that advice. It's changed so much. I grew up in the later years of middle school and into high school with Facebook, and then Instagram a little bit, but the culture has changed so drastically since I started using it in the early 2010s — not many people I know are actively on Facebook anymore.
+
+Something I mentally had to overcome with the internet: a lot of people talk about this dichotomy between the online world and the "real world." People use the acronym IRL all the time, and it's something I try to avoid, because I think it's dangerous to minimize the internet by implying it's not real in some way. I think it's one of the realest, most emotionally intense spaces to be in, in the world we live in now — physical or otherwise. Especially thinking about kids growing up, there's a tendency to say "it's online, it's not real," or to tell people they shouldn't feel impacted by it because it's not real. But some of the most emotional, meaningful things that have happened in my life are intertwined with the internet in some way. So much of what I've learned and the way I think is shaped by being online. I almost feel like there is no offline mindset anymore — the internet is so ubiquitous that there's never really the ability to fully unplug in the world we're in now.
+
+Another thing that was important for me was getting over the guilt and shame I felt around posting online when I was younger. Every time I posted something, I felt like I was looking over my shoulder, thinking, do people think I'm being fake? Can people tell I'm being fake? I felt like I was performing every time I posted. I have a background in dance — growing up, I spent a lot of time on stage performing for an audience, and that's basically what being on the internet felt like to me. But people romanticized it as "just be yourself, show your true self online," and that felt truly impossible given the way social media platforms are structured. It always felt like performance to me. Once I freed myself from the mindset that I needed to be authentic online, I stopped believing there's any such thing as being authentic online. That was very freeing, because I realized posting is about performing, and you can perform in any way you want for an audience. Once I stopped chasing that sense of realness people talk about colloquially online, it became much easier for me to post and to form a relationship with my audience in a way that felt more comfortable.
+
+My true love-hate relationship with the internet comes from how addictive it is. That's the piece I have no advice on — it's been an ongoing challenge for years, as it is for everybody.
+
+Will: You can always turn it into an art career, I guess. For our kids, we'll just tell them: learn to code.
+
+Trinity: I love what you're saying about authenticity and performance, because when I grew up with the internet — through what we'd call Web 1.0 transitioning into Web 2.0 — it was a lot about putting things out there: everybody posting on LiveJournal, early Facebook, creating GeoCities websites. At that stage, posting was considered a real boon, and I feel like it was maybe a little more authentic then. What do you think about that transition to now, where the attitude is "don't post, and if you do, we'll shame you for it," and if you do post, it's performance? I don't know if you experienced the earlier internet, back in the days of AOL and dial-up — do you know the dial-up tone? Where do you think we're going — back toward authenticity, or somewhere else?
+
+Maya Man: I wouldn't say the early internet was necessarily more authentic — I think it was just smaller. If I'm speaking to a room of 100 people, I'll be a version of myself that performs in a way I feel is palatable to that whole audience, versus when I'm hanging out with two of my closest friends, I become a completely different person. I wouldn't say I'm being more authentic with those friends — I'm just being the person that situation calls for.
+
+What's been so challenging about where we are now is that online has become this super public sphere — it's the concept of context collapse. I first read about that in Jenny Odell's book *How to Do Nothing*. She talks about how online, your professor follows you, your friend's brother follows you, your teacher from high school follows you, and your closest friends and family do too. You have to post something all of those people can see and think is okay, versus being a different person with each of them individually. So you become this cleansed version of yourself online.
+
+I think where things are going, there's an increasing focus on the commodification of self online — for a lot of individuals, that's through something like Substack or Patreon, or the influencer economy, building careers off having an individual identity online. That feels like the logical conclusion of where things have been heading. But I feel a little nervous about that being the direction we're moving, because it's an exhausting lifestyle to keep up.
+
+Will: I wanted to jump back to *I'm Feeling Lucky* and the aesthetic of that piece. Trinity, does it remind you of being on the subway, seeing those little flyers people stick up in front of the ads — for palm readers, psychics, stuff like that? The aesthetic really nailed and evoked that for me. Maya, you got exposed to all this stuff in California, which makes sense — I think we're all from California.
+
+Maya Man: This stuff in California, yeah.
+
+Will: The crystal-mommy culture, if I'm allowed to say that — we have a lot of friends in that area. Trinity and I both have mutual friends who fall into that category.
+
+Trinity: Wives.
+
+Will: Yes, or wives, exactly. As someone who works with code — I'm sure you've seen how astrology, for some people, gets taken to an almost scientific level with charting. If it's not enough to just say "this is your sun sign, this is your rising sign," you go to where the planets were in each house when you were born. If that's not enough, you look at where those planets are in relation to each other, measuring the angles between them. And if that's still not enough, it goes beyond the nine planets now — people track different stars, trying to assign more significance. In your exposure to all this, did you ever come to accept or embrace it beyond the meme, beyond just the occasional resonance that explains something that felt random in your life?
+
+I also wanted to relate it to generative art, because so much of what generative artists talk about is the beauty of a system that feels random and its ability to surprise you — that serendipity, finding an output because of a bug you didn't anticipate that takes you somewhere you didn't know you wanted to go, but it is. There feels like a lot of overlap between that and astrology being this sufficiently complex system that it can spit out any result that feels meaningful to you, depending on how deep you want to go. What's your take on it now? Did it color your interpretation of generative art in general?
+
+Maya Man: Definitely. When you're making generative work in this specific way, realistically as an artist, you're sitting in front of your computer with one window open running the live code and your text editor open beside it -- two screens, looking between them. I spend a lot of time refreshing, just Command+R, Command+R, seeing what comes up. What's continually surprised me about this collection, which is also true for *Fake It Till You Make It*, is that I'll be refreshing and refreshing, and then I'll hit something that really resonates with me in that moment, something that sounds slightly absurd or slightly off -- like something a human wouldn't write. But because of that, it actually says something more specific, more in-depth about what I'm thinking about, or a situation I'm in, than I could have ever come up with myself. That moment is so special to me. The feeling of hitting Command+R, that split second where you're waiting for the new thing to appear and have no idea what you're going to see -- it's such a unique feeling to the process of making generative work.
+
+It relates so much to my mornings since I've been on this project: I check Co-Star pretty actively, and there are a few seconds where I'm waiting for the reading to load. I don't know what it'll say, but sometimes it says something so specific to my day, so truly what I needed to hear in that moment, that it catches me off guard. The parallel between those two experiences has been crystal clear to me while working on this project.
+
+Even the way the community talks about generative work touches on faith. There's a trend on the Art Blocks Discord where people will pull up a random *Fake It Till You Make It* mint, and it's become almost like an oracle, because of how often it relates to whatever conversation is happening in the chat at that moment. I'm continually fascinated by how this generative art community engages with and collects the work -- there's almost a sense of prayer in how people interact with these pieces.
+
+Trinity: Part of the discourse goes even beyond that -- Will, is it weird if I call them brospheres? Are you offended by that?
+
+Will: I'm not offended.
+
+Trinity: Okay. So the brospheres -- within the crypto space rather than NFTs, there's this whole thing of drawing lines on your crypto chart to predict what the cryptocurrency will do.
+
+Will: Crypto charting is astrology for men. 100%. Every time the line doesn't do what you wanted, you just go back and redraw the lines you used to predict it, and suddenly it explains the current moment you're in. There's a whole culture of this.
+
+Trinity: It's such a crazy analog. Maybe that's a future piece -- the brosphere side of things.
+
+Will: I can share some great YouTube channels with you, Maya, if you want to go down that path.
+
+Maya Man: I'm curious about the brosphere.
+
+Trinity: We're one foot in.
+
+Will: The big astrology crossover into at least the media I'm served on TikTok is basically: every guy who knows a lot about his astrology is, for lack of a better term, a fuckboy. It's a big red flag if the guy knows not just his sun sign but his rising and all that. It's like—
+
+Maya Man: His birthday.
+
+Will: Yeah, that's someone who gets around.
+
+Trinity: Will, what's your true node?
+
+Will: I don't know that one. See, even I don't know.
+
+Maya Man: What are your signs? I feel like we need to say.
+
+Trinity: I'm an Aquarius sun. The other two are Taurus and Capricorn -- I get them mixed up sometimes.
+
+Maya Man: I get my last two mixed up too.
+
+Will: I'm a Pisces sun, Leo rising, and I think a Pisces moon too. So a double Pisces.
+
+Trinity: Wow, that's so emotional.
+
+Will: My Venus regression this year was supposed to be really good for me -- I was supposed to lose a lot of weight, get in shape, and have a lot of sex. I'm zero for three right now. But I guess we still have a little time.
+
+Maya Man: You have to trust the stars.
+
+Will: I'm trusting.
+
+Trinity: Do the stars help those who help themselves?
+
+Will: I think that's kind of the idea -- you hear these things and it's supposed to motivate you or resonate with you enough to actually go do it. I did the best in January, right after I heard that prediction for the end of summer, but then life happens -- everything's just too hard.
+
+Trinity: Apparently the North Node and South Node thing is the next big trend to look at. Your South Node is what you're natively comfortable with, what you already have a lot of. Your North Node is where you're going -- what you'll spend your life replenishing, what cup you're meant to fill. My South Node is Taurus, so very earthy and stable, and my North Node is Aries -- the complete opposite.
+
+Maya Man: Oh, so they're related to the zodiac?
+
+Trinity: Yeah, diametric opposites.
+
+Maya Man: Interesting.
+
+Trinity: So I'm going to be a fiery hellcat by the time I'm in my eighties. Can't wait.
+
+Maya Man: Hell yeah.
+
+Will: Maya, listening to all this -- do you have a kind of life philosophy? I ask because we had a friend who got so into astrology that he basically believed everything was deterministic, that there was no free will, that the stars explained it all perfectly. As someone with a math and physics background, do you have a take on free will versus determinism? My brother, who's a neuroscientist, doesn't think we have free will either -- he gets down to the molecular level, everything just molecules reacting. Even though we can't perceive or predict it, his belief is that we're not truly free, because it all comes down to the random movement of particles. Curious what you think.
+
+Maya Man: It's a good question. I actually find a lot of comfort in Nick Bostrom's philosophy -- probability-wise, we're all living in a computer simulation. That's unsettling to some, but it's a relief to me, because I find the concept of free will pretty intimidating. So I find comfort in believing maybe we don't fully have it. Part of why I've been working on this piece is that I find it easy to tip toward nihilism when I overthink not having free will. Because of that, I've found a lot of joy and momentary relief in something like astrology, or in meaning-making for the sake of meaning-making.
+
+Going back to lucky numbers -- also in the Verse show there's a clock I made in collaboration with my boyfriend, Isaac Blankensmith. Are you familiar with angel numbers? 11:11 is the classic one, everyone makes a wish. But angel numbers are any repeating digits -- three 2s, three 3s, four 4s in a row. We built a clock that only displays angel number time: it only shows the time at 1:11, 2:22, 3:33, and so on. When I catch the clock at an angel number time, and I let myself find that meaningful, it gives me a level of comfort and joy, and I don't see a reason not to let myself have that. Scientifically, if you overthink something like free will or angel numbers, it's easy to get so literal about it that you kill the fun. I used to be more that way, but now I think, that's not as fun -- so maybe I'll believe a little in these small instances, because it feels good to believe something.
+
+Will: I think that's a huge part of internet culture right now, especially for millennials and Gen Z -- this intersection where it has to be fun, kind of sarcastic or satirical, but also very serious. A lot of how we comment on things becomes hard to understand without an element of humor. Parody is in, in a way. There's a levity to your work, even though you're commenting on something that's core is serious -- the belief systems people have, the way people communicate, often communicating struggle. For both these projects, but maybe more so *Fake It Till You Make It*, there's this serious underlying theme of perseverance, of "you can do it." Being online right now is like: how do I make it through the day?
+
+Maya Man: So much of content online operates on humor -- meme culture completely runs on it, and humor's a huge part of my work, very present in a lot of my pieces over the past few years. I find it invites people into the work in a special way. I love watching people look at a piece and laugh because something sounds slightly off, or so absurd it's funny. That's in line with a lot of current post-cringe content online -- there's a lot of humor, but it's often eye-roll humor, funny because it refuses to take anything too seriously.
+
+With my work, I really like there to be an element of absurdity, which often comes through as humor, because being on the internet is, at this point, completely absurd. The way we all engage with this kind of content -- the pace at which we consume this media -- is so heightened, and honestly kind of insane for humanity to think about. So I like having that element.
+
+Trinity: I have a question that touches on the fatalism -- the humoristic fatalism -- and also that joy you get hitting refresh. Do you use GPT-2 text models to seed any of the work? Maybe not in every project, but some. We did a project recently based on text models fed transcripts of our episodes, seeing what came out. Some of it was so funny and ludicrous, but also so true at the same time -- it felt like a horoscope, especially when we were curating which outputs to include. I was wondering if you'd had that experience training models on the kind of content you're working with in *Fake It Till You Make It* or *I'm Feeling Lucky*.
+
+Maya Man: I don't use any machine learning, or AI, in either project -- it's all a collage-based language system. I haven't jumped into using it in a piece specifically yet, though I've played around with having it write a statement about a project, just to see what comes out. But I think that element of humor -- it happens when the output is recognizable and coherent enough that you generally understand what it's saying and how it relates, but it becomes funny when it says something recognizable that's just not totally there. Or it's funny even when it's recognizable and right, just because knowing it came from a machine makes it funny in itself.
+
+Trinity: The fact that all of what you have comes from the real world, and the off-the-wall outputs coming from that collaging—it seems so out there, but it's also really familiar. It's very cool.
+
+Will: Trinity, what do you think? Should we do a few rapid fire and start wrapping up, or is there anything else you want to talk about?
+
+Trinity: I'm down for that. I do have a first rapid fire—cut this if it's too personal—but what small town in Pennsylvania are you from?
+
+Maya Man: I'm from Mechanicsburg.
+
+Trinity: I went to school around there.
+
+Maya Man: Wait, where did you go to school?
+
+Trinity: Mercersburg, which is around the corner.
+
+Maya Man: Whoa, really? Oh my God, that's crazy. Did you grow up in Pennsylvania?
+
+Trinity: I grew up in Pittsburgh, but my family's from that area, more like Bedford.
+
+Maya Man: Oh yeah, Carlisle. My mom used to work in Carlisle. That's so funny.
+
+Will: Both Trinity and I are from—well, I wasn't born there, but my family's in the Pittsburgh area, and West Virginia.
+
+Maya Man: No way. Is that how you know each other?
+
+Will: No, we went to Sarah Lawrence College together, and we met through Magic: The Gathering, the card game.
+
+Maya Man: I have some friends who play that in LA.
+
+Will: Okay, that's a rapid fire we'll cut. Do you want to queue up another one, Trinity?
+
+Trinity: Let me look through. You can go.
+
+Will: Here's one we always like to ask: what do you listen to while you code, and do you have any recommendations for us? I'd like to extend that beyond music to general media too—any meme accounts we should be following that are Maya Man approved?
+
+Maya Man: I wasn't thinking about meme accounts. Truly, so many times I've wanted to be the cool programmer who listens to fun music while they code, but I can't let anything get between my brainwaves—I get too distracted. There was a period of my life where I listened to the song "Level Up" over and over while coding. Caroline Polachek has this album of sine waves she created, no words, just sounds, which is sometimes nice to listen to. But truly, I don't really listen to anything. If I try to start listening to something, I always end up turning it off because I can't think.
+
+Will: Any recommendations you want to throw out in general—music, media, anything you're liking right now for our audience to check out?
+
+Maya Man: Speaking of ChatGPT, I just read *Amour Cringe* by Kayla Ada Shadow McDowell. It's a book about a TikTok hype house, co-written with ChatGPT—one of the first true novels I've read that's co-written with AI. I found the whole reading experience really strange because I was constantly trying to guess where the AI came in. That might be exciting to some people listening who are into that.
+
+Will: And that's like "amor" as in love, right?
+
+Maya Man: A-M-O-R.
+
+Will: Gotcha, sick. All right, everyone check that out.
+
+Trinity: Rapid fire number two: what types of art by other people do you love and appreciate?
+
+Maya Man: I love a lot of work that focuses on the internet. I pay attention to artists making work about the performance of hyperfemininity online, especially on social media. Recently I've been interested in tracing the lineage of artists who've made work involving performing online—all the way back to Lynn Hershman Leeson, who was pioneering in working with technology and did performance work as a character, Roberta Breitmore, collecting documentation of her acting as a character meant to represent a single woman in San Francisco in the '70s.
+
+I also think about people doing performance work online, like Ann Hirsch, who I collaborated with on *Ugly Bitches*, a project released earlier this year. She has a performance called *Scandalicious* that was on YouTube in 2008, where she performs as a character named Caroline, dancing and talking to the camera. It's a really early example of interrogating the performance of femininity on the internet, specifically on a social media platform where you can have an audience in a way you never could in a more traditional space. Artists doing that kind of work are really interesting to me—Arvida Byström, Molly Soda, artists interrogating self-portraiture in relationship to the internet and technology.
+
+Will: Right on. Here's another one, maybe with some overlap: who would you like to hear as an interview guest in the future?
+
+Maya Man: I think it'd be interesting to talk to Miles Peyton. He's my friend, he recently put out a project called *OBA*, and he works with the online gallery Gateway. They're doing really unique, exciting work thinking about online exhibitions, NFTs, and art's relationship to the internet.
+
+Will: Send us a link to that later so we can check it out.
+
+Maya Man: I will.
+
+Will: The last one usually is: is there anything you want to ask us? Turn the tables.
+
+Maya Man: How do you feel like you perform your identities when you're doing the podcast? When people are going to hear your voice, do you become a certain exaggerated piece of yourself? What's the experience of podcasting like? I've never had a podcast, so I'm curious what that entails mentally.
+
+Will: Trinity, do you want to go first?
+
+Trinity: I might need a moment.
+
+Will: I'll start. Because this is a piece of media where you don't know where someone's listening or who's around them—maybe they're driving with kids in the car—I always temper my language at the very least, swear a lot less than I would in casual conversation, keep it more PG-13. Which isn't that hard when you're talking about art most of the time.
+
+Since we edit the show, sometimes between recording and when it goes live, I'll think, "maybe that wasn't so fair, what I said," and I'll post-modify things I've said to make them more palatable or fair. Like, "that could be a fun take, but is it really a nice take? Is it on brand for the show?"
+
+Maybe Trinity will agree or disagree, but I don't think we're here to stir controversy. We give our honest takes, and if there's something we don't like, we're usually pretty clear about it. But we're not seeking out things to hate on. The show could be really different if we tried to make it about finding projects, platforms, or people we didn't like and tearing them down. Sometimes there's an urge to give into that because it's the internet—it's like *Red Scare*, the podcast. I don't think we want to be the *Red Scare* of NFTs. Dasha's probably Trinity's neighbor. But yeah, there is that. Trinity, jump in whenever you're ready.
+
+Trinity: There is that performance aspect, because we do have conversations about why people are doing certain things, or what a platform is doing, or "I really don't like this," in our personal lives when we're not recording—just chatting on Discord, before a show, or in person. So it's not like that's not there; that tempered version is definitely part of the performance. It's business-nice in some respects, which is a place I feel comfortable in. Will, I don't want to put words in your mouth, but I'm sure you feel a certain comfort there too, coming from a corporate background, where it's always about spinning things in a mostly positive light with some honesty. I think that's the big thing.
+
+Maya Man: That is very fascinating.
+
+Will: Maybe I'll cut this part out, we'll see. But sometimes when I have a hot take I want to say but don't necessarily want to own, I'll try to work it into an interview to get the guest to give the opinion I have. Then it's their thing, it got out there as part of the show canon, but it's not Will's opinion or Trinity's opinion—it's the guest's opinion, and we don't fully own it because it came from a guest. I don't think we did that with you, Maya, since this is a more art-focused show, but sometimes we have market-focused episodes, and that kind of thing happens—right, Trinity? When we're talking about guests we want on, it's like, here's a thing we know we want to talk about, and then we look for people we think will speak to that in one way or another.
+
+Trinity: Yeah, sometimes, definitely.
+
+Maya Man: That's smart. I'm so impressed you edited this yourselves.
+
+Trinity: Will does all the editing. I've only edited three episodes. He likes to control the narrative.
+
+Maya Man: Totally necessary. But I find it so challenging—after saying something, thinking, "should I say that again?"
+
+Will: It doesn't come up that often that we're editing content itself. Especially in interviews like this one, I'm not going to sit here and think, "I don't know if Maya should have said that." For this episode, it's really just about cleaning up the language—the ums and ers, the pauses. We'll lose a good ten to fifteen minutes off the episode just from taking all that out, which is great for the listener. A lot of podcasts don't do it. I don't know how many other crypto podcasts you listen to, but there tends to be a ton of dead air and fumbling around. I get it, though—editing is a lot of work. For every minute of episode, you're doing three to five minutes of editing, so it takes a long time.
+
+For us, I think we also think of ourselves as, despite not charging for it, trying to be a more premium show experience. Hopefully that's one of the reasons we're able to get guests on the show—we're going to put out a product that's polished and sounds really good. But that's also a performance, right? Because it's still not true to what actually happened in the episode, in a sense, since we soft-cut ourselves.
+
+Maya Man: Cutting out all the secrets.
+
+Yeah, really cool to hear more about that—I'm always curious what it's like for you both.
+
+Trinity: I love this question around authenticity between work and podcast. I think there's a definite blurring of what makes an authentic self versus what's more performance, and where that overlap is—when does your true sense of self start to blur or disappear because you're living in this other realm for so much of your life?
+
+Maya Man: Oh, for sure.
+
+Will: That was a great question.
+
+Maya Man: Thanks for answering.
+
+Will: Let's wrap it up here. Maya, before we conclude, is there anything you want to plug — any upcoming projects or things we should be looking out for?
+
+Maya Man: *I'm Feeling Lucky* releases on Thursday, September 14th at 1:00 PM Eastern, 6:00 PM BST — this episode will come out before then, so that's the first thing. Second, I'm working on a physical book focused on *Fake It Till You Make It*, the project and the collection. That'll be coming out early 2024. I'm really excited about creating a physical object to represent the collection — it's been really special.
+
+Will: Thank you so much, Maya, for coming on the show. It's been amazing to talk to you — we covered territory we haven't touched on before. This was a really fun interview.
+
+Maya Man: We picked you for this interview so that you would cover those.
+
+Will: Yeah, we got you to say everything about astrology we've been wanting to hear.
+
+Maya Man: I really appreciate your questions — they were super thoughtful and well-prepared. Thank you for taking the time. It means a lot.
+
+Will: I hope everyone enjoyed the episode. That was Maya Man — check out the Verse Solo's exhibition, and check out the book coming next year. That's it for this one. Thanks everyone for listening. We'll be back soon with another episode. So long, bye-bye.

@@ -1,0 +1,353 @@
+Will: Hello and welcome, everyone, to another episode of Waiting to Be Signed, a special interview episode. I'm here with Trinity, of course, and we have our guest, Leander "Lenny" Herzog, in the virtual studio. Lenny, how's it going?
+
+Leander Herzog: Hey, hi there. Thank you for having me. It's a huge honor to be on the show. Longtime listener, first-time caller.
+
+Trinity: So what song requests do you have for us today? That's our first question.
+
+Will: Can we get an audio cut of *Very Large Array* that we can just drop in here at some point? The tones and drones.
+
+Leander Herzog: That would be nice. Always with a disclaimer -- some people don't like it, some do. I always love to hear it. Sometimes it goes horribly wrong, sometimes it works out.
+
+Trinity: Did you read Will's editorial on *Very Large Array*? I think it's one of his favorite pieces of all time.
+
+Will: We had to get the site updated to accommodate the YouTube links I insisted be in there, to contrast against the sound and the vague point I was trying to make.
+
+Leander Herzog: It's a difficult piece. It can be quite noisy, and it has surprised a lot of people. This might be a good place to apologize to everyone for ruining their speakers, waking up their kids, or irritating their dogs. I'm very sorry about that.
+
+Will: We're definitely going to talk about that piece, among other work you've put out on fx(hash). But first, give us a quick intro about yourself -- your history in art and coding, what brought you to the greater crypto world, NFTs, blockchain, Tezos, fx(hash). What's your journey to get here?
+
+Trinity: Starting from childhood, preferably.
+
+Leander Herzog: Oh my God.
+
+Will: It doesn't have to be that deep.
+
+Trinity: You can truncate it. It's okay.
+
+Leander Herzog: I spent my youth as a graffiti writer -- hip-hop culture and graffiti were super important to me. I was born in '84, so that was when graffiti was in full swing in the States, and it always takes a while for culture to cross over to Europe, especially before the internet. So I spent my youth and teenage years with graffiti completely without computers, running around outside and painting. That was pretty much the only thing I cared about.
+
+At some point all my cool friends decided that graffiti wasn't a career, so we had to become designers -- graphic designers, something like that. So that's what I tried to become. I made it to design school, and there I had my first contact with coding and computers. I really got lost in it, because I hadn't grown up with computers -- I had a lot to learn, but I was really into it. And I quickly realized we were destined for a future full of screens and digital platforms, so it made more sense to become someone really good with code who could design and create in the digital space, rather than someone who designs books.
+
+I had the luck of attending a workshop on Processing with Marius Watz back in 2006 or so. He basically said, "Look, this is generative art, this is how it works, this is how you use Processing, here you go." It was maybe a week long, but I completely fell in love with generative art -- and with the idea that this could actually be a career, however vaguely at the time. I got really deeply into it and neglected everything else, just focused on coding with Processing. I had a bunch of cool clients -- companies, agencies, on a fairly international scale for that time.
+
+Sadly, I graduated in 2008, right when the financial crisis hit, and all my clients disappeared quickly. I had to reorient and became a web designer/developer in Switzerland, working mostly for local clients for a while, then freelanced for a few years and had various jobs at bigger and smaller agencies -- until the NFT thing happened. I was pretty frustrated with my so-called career in digital design by then: making digital products, doing online marketing, designing websites. Sometimes it was cool, but mostly it wasn't. So it was an easy decision when I realized the NFT thing really made sense, that generative art was something people finally understood -- it made sense to quit and focus on generative art full time.
+
+Trinity: Thanks for that background. Sorry about 2008 -- I know you weren't the only one affected.
+
+Will: I think we're all around the same age here.
+
+Leander Herzog: It was actually a good lesson to experience 2008, because it helped me keep a realistic perspective last year when everything was going up and everyone was extremely hyped about everything. You just know the market is going to tank sooner or later -- that's real, a lot of people are going to get "wrecked," as they say. It helps not to be 18 and just hyped about everything, without considering that things will also go down eventually.
+
+Trinity: That's the one thing about aging -- I feel like I'm getting smarter all the time. Wisdom is real.
+
+Will: As a follow-up to the intro -- once you got into NFTs, did you start on the ETH side, making a play for Art Blocks or publishing your own stuff, or did you come straight to Tezos and fx(hash)?
+
+Leander Herzog: I started with Tezos, actually, because of the discussion around the eco-friendliness of NFTs. Initially I was completely against the whole thing and ignored it -- I wasn't into crypto at all before that. I'd looked at Bitcoin a few years back and decided that didn't make sense, I didn't like it. What it took for me to get into NFTs was my entire timeline talking about them until I couldn't ignore it anymore. Everyone from the generative art and creative coding scenes started talking about NFTs, so I had to at least look into it.
+
+Then people like Mario Klingemann and Joanie Lemercier, who were really vocal about Tezos, got me to try it. I took a bunch of old interactive work and minted it on Hic Et Nunc, and joined that short, magical time in art history when we were all on HEN making cool stuff on Tezos for the first time. It worked well -- it was magic to see stuff sell, get money for it, and have people actually understand what it was about and why it made sense. Before NFTs, it wasn't just hard to get paid for this work -- people didn't understand why generative art made sense in the first place, why you'd pay for JPEGs or interactive JavaScript. So for someone who'd waited almost a decade for this, it was a magical moment to see that the education had happened -- that we'd all collectively chosen to embrace the JPEGs and believe in this market. And a lot of new things became possible from there.
+
+Will: It's kind of like the invention of the printing press, but digital.
+
+Trinity: And money.
+
+Will: Well, yeah, a money-printing press, but also a way to memorialize code in an exchangeable way -- that didn't really exist before, at least not for art. People were buying and selling code through software before, but that came bundled with DRM and all that. Did you encounter any resistance from other people, though? Some artists have told us it was really uncomfortable for them socially when they moved into NFTs.
+
+Leander Herzog: I've heard some people got death threats and really negative feedback. Luckily, I didn't get any of that -- only positive experiences. Everyone I know was completely hyped about it. Occasionally there'd be one or two people who are just grumpy in general and don't like new things, but that's always the case. Otherwise it was super smooth. Everyone was extremely helpful and welcoming, and the vibe from the scene at the time was extremely good.
+
+Trinity: Why the death threats -- was it the whole confusion between proof of work, proof of stake, and environmental concerns?
+
+Leander Herzog: People were super angry about ETH, Bitcoin, proof of work, and the waste of energy -- there was a very dramatic narrative around it. That was a big thing for me too, honestly. We were all discussing: okay, maybe minting one NFT right now isn't going to kill the world instantly, but if this is actually bad, and we all keep doing it, it could escalate quickly into something we can't stop. Most artists care about the world and the environment and don't want to do something inherently evil or destructive. So it was a real discussion, and we were genuinely worried about how much of the fear and hype was real. To this day, I don't think most people are 100% sure how bad proof-of-work actually was, or how big their individual contribution was.
+
+I'm super happy we now have something more sustainable, with a much lower impact and a good brand because of it. Tezos is awesome, and most other chains are proof of stake by now too, or moving there. But before that, there was a dramatic moment where people were extremely angry and agitated about everything. And as with everything else on the internet -- people love to fight, people love to make threats, some people are grumpy, some are very sensitive, and it can escalate really easily.
+
+Trinity: That begs an interesting follow-up -- now that Ethereum is proof of stake too, do you think you or your environmentally conscious friends and peers would explore ETH again? Or is Tezos your ride-or-die?
+
+Leander Herzog: No, I've done some stuff on ETH to test the waters. It actually worked out great, because a lot of collectors are only on other chains, and I'm very open to that -- even more so now than before. I think most people are too. It's undeniable that the heart of the culture right now is with Tezos -- that's where fx(hash) is, which I think is hugely important for culture and art history. But we're open to ETH. Most people I talk to are open to minting on Manifold, Foundation, Super Rare, whatever -- it's all still there, and people are exploring it. It makes sense to diversify where you are and where you sell your work. So I love Tezos, but only doing everything there is certainly not a good long-term idea -- feels kind of risky. My plan is to explore other chains too, though people are still pretty opinionated about it.
+
+Trinity: Can we get a joke about Solana in here?
+
+Leander Herzog: I was like, okay, let me try Solana. I asked someone for money to mint, and very friendly people showed up on Twitter instantly and gave me some coins. I still haven't done it, though. I asked two very good collectors of mine, "Hey, should I try Solana? What do you think?" And without thinking for a second, they both just looked at me and said, "No." So, okay.
+
+Trinity: Interesting.
+
+Leander Herzog: I'm obviously more open than that -- but if two very important collectors who really know their stuff tell me not to even try it, I'll listen to them. So it's still sort of controversial.
+
+Will: There was a brief moment—maybe February or March of this year—when things were in a slump on fx(hash). We saw people who were used to their art minting out suddenly not minting, and then on Twitter you'd see them posting the same work to Solana. I don't think it sold there either. They seemed to think something was wrong with the chain, but it was really a general slump across all chains, not a Tezos-specific thing.
+
+I think this is a good moment to transition into your work, since you've released a lot of great pieces on fx(hash), which we're very thankful for.
+
+Leander Herzog: Thank you.
+
+Will: Even if you go do stuff on Ethereum, we're happy to have what we have from you here. Tying this into the broader conversation about NFTs: so much of your work is about movement, shifting, resetting, interactivity—it seems even more suited to NFTs than typical generative art, since you don't get the full experience from a printed still image. So what's the underlying philosophy that puts those elements into your work? It's distinct—a lot of fx(hash) drops don't incorporate interactivity like that, and honestly, we've observed that it's not always the best strategy for the market, because people tend to shop on thumbnails. So presenting work that says "sit with this, watch it slowly change, or suddenly change and then hold still for a minute"—what's at the core of that approach?
+
+Leander Herzog: That's a very interesting question—I don't know if I can put it into words, but I'll try. The fx(hash) story started for me when Ciphrd messaged me about his new platform before it was even released, in a DM. I said, sounds cool, I'd love to try it sometime. But I didn't make a release initially, partly because I was busy minting on Hic Et Nunc, and partly because I was struggling with the idea of collectors minting something without knowing what they'd get. Traditionally, what I did was make a generative piece, render tons of frames, hand-curate the output, and upload or sell only the best ones.
+
+I also had a bit of a crisis with generative art in general, because it was unclear how it made sense. People would say, "You can create this image, and when you click, you get another variation, and you can do that a hundred times." Okay, I get it technically—but why does that make sense? Can't you just make a decision? You're deferring the decision of what artwork you get to the viewer, which can be a fun interactive experience, but mostly it felt pointless. Most of the context for generative design—not just art—was like, "we make a poster and print 10,000, all different," or business cards, all different. But people still only ever see one or two; they never see the whole variation. So it was a design strategy that was sort of half-assed and didn't really make sense for most applications, if you're honest. From a nerd perspective, it's genuinely fascinating that a computer can generate something different every time—but applying that usefully in the world was difficult, and hard to explain to people.
+
+Combine that with fx(hash), where you have something interactive with infinite potential, but you're limited to selling off single JPEGs, plus the lottery aspect—you mint something and don't know what comes out. That's risky and nerve-wracking for collectors. I saw that mostly as a problem, not as the fun that it is today. There are always two perspectives on it. My breakthrough came when I realized: all these variations aren't individual prints to sell—they're actually frames of an animation,
+
+Trinity: Right.
+
+Leander Herzog: or states of a system. The challenge for me as a designer is to find transitions between those states and create a cool interactive experience that moves you from one state to another in some fun way. It can be interactive, it should be animated—the medium allows that, so why ignore it? It feels strange to take something generative that can evolve forever, that can move and even make sound, and limit it to static JPEGs sold off individually. It feels extremely capitalistic, and extremely limiting toward the medium. That's why it was so hard for me to enter the fx(hash) world initially—I didn't want the risk of someone minting something they didn't like, and I didn't want to regress to static JPEGs.
+
+Trinity: So the idea is that eventually it'll animate into something somebody likes—just have some patience.
+
+Leander Herzog: Exactly. My breakthrough was realizing I could do a drop where every piece is different and deterministic—reproducible—but also endless on a timescale, endlessly interactive and evolving. That's the compromise: I make 200 or 500 tokens, each different, but each containing the infinite potential of the whole system. So when a collector mints one, it's not just about the first image—they're buying an experience with endless potential. Certainly not the same as the other tokens, but it contains the whole potential of the system.
+
+Will: They're endlessly different, but also endlessly the same, in that on a long enough timeline they'd all theoretically cycle through the same images—not that anyone would experience that.
+
+Leander Herzog: No, that will actually never happen.
+
+Will: In *Returns*, your first release, is there something in the code that restricts colors or shapes to guarantee every single output is unique? You don't surface parameters on any of your work, which is another interesting decision.
+
+Leander Herzog: Yes—it's a combination of enough parameters and randomization that it's, quote unquote, cryptographically guaranteed you'll never see the same *Returns* twice. Even if you stared at your token for a million years, it's mathematically impossible for it to regenerate what someone else saw in theirs. There are enough colors, enough resolution in the shapes, enough variables—even in something minimalistic, it will never repeat.
+
+I'm also trying to explore different temporal layers. The first layer is the thumbnail—obviously extremely important, that's just how the game works. The next layer is what the token does when you run it interactively—what sound it makes, what it looks like within the attention span most people have on the internet, a few seconds to at most a minute. Then there's another layer: when people run it in their homes for minutes, hours, or days, what does it do on that timescale? That's actually what interests me most, though it's difficult because not many people have that kind of time and attention. It's a long game, but I'm trying to explore these different temporal scales with all my tokens, combined with the endless potential contained in them. It's hard to understand, and as a collector you usually only experience one perspective at a time.
+
+Will: I think it makes sense, and it's interesting. I want to avoid talking too much about the market—in an artist interview we prefer to talk about the art—but it is interesting, because you're acknowledging the importance of thumbnails alongside animated work. We theorize that animated work tends to underperform on the market because people don't have the patience to click through and see the depth.
+
+Leander Herzog: That's exactly right.
+
+Will: Since your tokens essentially run infinitely and you don't surface parameters, how do you decide edition sizes—like for *Returns* or *Very Large Array*?
+
+Leander Herzog: Honestly, I make random guesses based on what I see. I have no idea what I'm doing with editions, pricing, any of it. I look at what other people do, I talk to people, I ask collectors and curators what they think, and I try to find a way—but it's very random in the end. I've been lucky that all my drops have minted out, which probably means I could have gone higher with the editions—flippers make a lot of money that way, and a lot of people didn't get a piece on primary. But who knows. Honestly, it's just random guesses on my side.
+
+Trinity: And I think that's something impossible to predict—we talk about this a lot on the market side of the show. We don't begrudge you that job, because it changes over 24 or 48 hours, long after you've already set the mechanisms and price points for a drop, especially with collaborations. Ultimately you just have to go with your gut about what feels right.
+
+Leander Herzog: I try to understand the consequences of it. Listening to your podcast helps me understand what it means to have so many sales on secondary, what it means if everyone holds, what it means if the floor goes up or down—is this normal, extreme, good, bad? Obviously subjective, but if you watch all the collections every day, you learn how people behave, what's a good indicator of quality versus a problem with the art or the market. It's extremely hard for artists to tell those things apart, or to understand why something works or how a collection develops over time. Just monitoring all that data and keeping tabs on the numbers is incredible—I really respect how much you know about this and how you keep track of it all. As an artist, I can't do that even for my own work, let alone everyone else's. That kind of situational awareness of all the numeric things going on is crazy to me.
+
+Trinity: That's a great reason to listen to the show, quite honestly.
+
+Leander Herzog: Yeah, absolutely.
+
+Trinity: Thank you for plugging the show while on our show. Hugely appreciated.
+
+Will: Big appreciation.
+
+Trinity: Just one question in line with that -- obviously quantity is one part of it, price is another, and the mechanics behind the drop, whether you're doing a Dutch auction or not, are all really critical. One thing we've seen with some artists is this idea of diluting your brand. Is that something that comes to mind when you think about how frequently you release, or at what price points? Casey Reas is a great example -- on fx(hash), he's only done very large quantity, very low price projects, as a way of dispersing work to a wider audience without diluting the rest of his output. Is that a consideration for you?
+
+Leander Herzog: Yes, actually, and it's become even more important as the market has cooled. I think it's important to experiment with pricing and edition sizes, but I get more and more feedback from curators, gallerists, and people from the traditional art world telling me not to flood the market -- not to mint too much or too frequently. Those people clearly understand better than I do how art markets work, and what it takes to have a healthy, sustainable approach to editions and pricing -- managing your own brand, basically.
+
+I can see how it would backfire if you mint too much in a short amount of time, or price things way off -- too low, too high, whatever. It makes me nervous, honestly, because I'm very experimental -- I'm just out here making random guesses. People tell me, "No, you need to be careful, you need a strategy, a good plan, don't do this, don't do that, it's risky." And I start worrying: hopefully I'm not too expensive, hopefully my edition isn't too big or too small. It's a lot of anxiety and uncertainty in a field that's already impossible to fully understand.
+
+But it's definitely something I need a strategy for, short-term and long-term: what do I offer collectors, what's the right interval between mints, how much can I actually do, how much should I do? Should I be extra careful and only release something every three months, or drop something every week? My time is limited, so a good drop every week isn't realistic. I could probably do less, and I could also do more. Finding the right rhythm is hard.
+
+Trinity: There's also the question of staying relevant. The web3 world moves exponentially faster than the traditional art market -- I don't even know what's bigger than exponential. So how do you stay remembered? How do you make sure every drop is hard-hitting and people look forward to the next one? Sometimes we see people drop too infrequently, and it's like, "Oh, Lenny -- who's that guy again?"
+
+Leander Herzog: Honestly, I could have done a lot more when the market was in better shape. I'm not sure I've done the right thing overall -- I'm pretty sure I've missed some good opportunities. Let's see how it turns out in the long run. I think gallerists, curators, collectors, and flippers look at this from a very analytical, numerical standpoint: how much have you released, what's your floor on this or that collection, what's your total volume, what's everyone else doing -- it's basically Moneyball. But as an artist, I still believe what matters most is the quality and originality of your art. If you can produce a lot of really good art faster than everyone else, go for it. If the art is good, drop it whenever it's ready, and people will do the rest.
+
+Will: Speaking of good art, let's talk about *Very Large Array*, my favorite piece of yours -- the one I wrote a little editorial on for TENDER. Your description is pretty brief: you simply state that the code creates one very large array to generate both visuals and audio, made with JavaScript and WebGL. Can you expand on what's going on with this piece, and the somewhat polarizing choice to add audio to it? You've talked about making tokens that move and shift and evolve so people can find the moments they like -- but the audio maybe makes that harder for some people. I personally like the noisiness and abrasiveness of it, but tell us more.
+
+Leander Herzog: The piece is based on work I did back in 2017, called *Microwave* -- you can find it on my website. Same principle as *Very Large Array*, but very minimalistic, just black and white. It's the simplest thing you can do with WebGL without any libraries, and the simplest thing you can do to create sound with the Web Audio API without any libraries -- very close to the metal, very brutalist, very simple. I created it on my phone while walking around in the woods. I had a nice smartphone at the time and wanted to see if I could do creative coding while walking, since sitting at home all the time isn't good for you. Coding on a phone while walking is extremely hard, and that forces you -- brutally -- to keep things simple, both in the tech stack and in general.
+
+For my first fx(hash) drop, I looked back at that work and decided to remaster and remix it into something more colorful and louder. That's how *Very Large Array* came about -- same colors I used for *Returns*, but with a more extreme, dramatic visual component and more dramatic sound. It's still the same method: one very large array of data, with a bit of randomness, first sent to the graphics card to render lines. With the Web Audio API you can generate sound directly in the browser -- it's quite difficult, and when I discovered it, I was extremely excited, because making generative music is amazing. My problem is I'm not a musician -- I don't know much about music or composition. So the knowledge you'd technically and theoretically need to create music in a browser is hardcore, and I'm just an idiot engineer with an array of data. The simplest thing you can do is stuff a buffer full of data and play it back -- it creates, let's not say music, let's say an audio signal. From there I explored how tweaking the arrays in different ways could create an audible signal, and if there's an interesting rhythm in the pattern, you can actually hear it. Sometimes it works, sometimes it doesn't -- it's like working with a synthesizer, plugging a cable in somewhere and seeing what happens, connecting data streams and signals in ways that may or may not end up interesting.
+
+It's very chaotic and emergent -- I didn't compose the music or have a bigger plan, I just generated more or less random data and output it as audio. Sometimes it's just noisy and annoying, and sometimes it generates surprisingly interesting rhythms and patterns. Some people have told me they've run it for hours, even played it at parties as a sound experience -- which is honestly my holy grail, the ultimate compliment as an artist: people buying your work and showing it to others, or even using it as entertainment at a social gathering. Obviously it's also difficult, because people aren't used to audio in the browser -- some are completely surprised and annoyed. It's not a mastered pop song, it's raw audio data -- crazy high tones, very low bass. If you run into that without warning with your subwoofer turned up, it's very disruptive. So, sorry to anyone who was irritated by it, but it's art.
+
+Trinity: I think we've just found a new method of torture -- put headphones on somebody, crank the volume, play this, and don't let them take it off. Not in a bad way -- just an unexpected surprise.
+
+Will: Or maybe transcendence. Someone could have that experience.
+
+Trinity: You just roll the die.
+
+Leander Herzog: And it changes over time, like the visuals. Sometimes it creates surprisingly interesting rhythms and patterns that emerge, which is what I love about generative art -- I can still engage with it and be surprised by my own work. It's still fun to click on it and spend time with it, which is different from just painting or working with a more direct artistic strategy. With these complex code-based systems, there's still exploration, still distance -- there's a chance you open it and think, "meh, not as good as I remember," or you look at it years later and think, "this is really good, this goes hard, I love it." I get to keep being surprised by what comes out of it. That piece really shows the fun of generative art for me.
+
+Will: I missed *Microwave* when I was looking through your past work, but the only other piece I found with a sound component was *iGel*. So how do you decide which pieces get noise or sound? Looking at your fx(hash) collection, I don't see a lot of other generative sound projects -- is that something you actively seek out or explore much?
+
+Leander Herzog: When I discovered the Web Audio API, I thought, "This is the coolest thing ever -- from now on, all my work will have sound." But that's very hard to do, since I'm not a musician -- it takes time, it's complicated. If it were possible, I'd love to make music for every piece. But the strategy I used for *Very Large Array* -- pumping an array into a buffer and playing it back -- isn't something you can repeat every time; it gets boring. Composing genuinely interesting music is very difficult.
+
+Right now I'm working with a composer on a new piece with generative audio. He's creating real musical rhythms and patterns -- clicks, beats, kicks, snares, patterns of different lengths that change and mutate over time, drone sounds that shift slowly, all mastered. It's complex: composing music in general is hard enough, and then doing it in the browser with the Web Audio API is extremely challenging. I set him on this path to do it in JavaScript, and I hear from him almost every day -- he's been at it for weeks, and it's really tough. The only thing I can manage myself is fun little noises, like in *iGel*. I definitely want to keep making work that combines interactivity with music, because it's an extremely fun thing to engage in -- but making real music is still extremely hard for me.
+
+Trinity: Especially in a generative sense -- curating is one thing, but making something that sounds consistently good, objectively good, is another.
+
+Leander Herzog: There are some things that are easy to do -- you can create drone sounds, ambient-ish music, that sort of thing is doable. But that's using a lot of strategies we've seen over the last 10, 20 years that I just don't find exciting. I don't think it adds much to an artwork if it's too basic.
+
+Trinity: It's been solved to an extent -- people have been doing it for 50, 60 years, going back to work from the '60s and '70s.
+
+Leander Herzog: Exactly. So if I can produce a really good beat or a really good piece of generative music together with someone else, I'll do that. But I try to avoid stuff that's too obvious and basic just for the sake of having audio, because it's still very challenging to get people to actually listen to it and experience it. I think for *Very Large Array*, most people who hold one still don't know that it makes music.
+
+Trinity: I didn't know until Will wrote his editorial.
+
+Leander Herzog: That's something I learned from being a web developer for a long time. It's extremely hard to get people to engage with audio in the browser. You can promote a piece as an audio project in the description, but if the experience depends on the music being good, you're going to struggle. And financially, right now, working on a piece focused only on generative audio probably doesn't pay off if it takes too much time to make happen -- it's a risky thing to sink that much time into. The composer I'm working with right now has been wrestling with garbage collection and other technical issues for weeks. He's like, "Man, this is really cool, but I've put so much time into this -- we'll need this drop to sell for a ton of money to make it worth it." And I'm like, dude, yeah, it's going to be difficult. We need to do a couple of drops and maybe wait for the market to be in a better position. If you have audio and depend on people actually experiencing the quality of it, good luck -- that's naturally a very difficult thing to achieve on the web.
+
+Will: Is that one destined for Ethereum, then, maybe?
+
+Leander Herzog: We haven't decided yet. Honestly, I tend to go for fx(hash). I think that audience is more open to experimental stuff in general. I see more people -- you, for example -- with the interest and passion to engage with experimental work on Tezos and fx(hash) compared to Art Blocks or other platforms. In the long term, that matters more for us as artists: having the right collectors who are curious about new or different stuff, not just thumbnails or big prints.
+
+Will: I have to credit a friend of mine -- I guess you'd call him a retired artist at this point, he's not really making art anymore. I showed him a bunch of tokens I'd put into a Deca Gallery and asked what he thought. The only one he found interesting was my Kim Asendorf -- this was before I'd even collected any of your work. I asked what was wrong with all the others, and he said, "I just don't think they're leveraging the potential of the technology very well. Why would you make a code-based flat image like this when you can do so much more?" If you listen to the early episodes of the show, there was a real dismissiveness from me toward anything animated, mostly from a market standpoint -- like, why would we even look at this, clearly the market doesn't care about it. Hearing that from him made me take a longer view: just because the market is ignoring this stuff now doesn't mean that in five, ten, twenty years there won't be a reckoning, where people realize there were artists really pushing and trying to do as much as they could with the tools available at the time. That's not to diminish the artists whose work I do collect, but it made me think more inclusively about work I hadn't been paying attention to. I think that's why we talk about it on the show sometimes -- trying to help more people get into that stuff instead of just looking at the pretty abstracts or landscapes.
+
+Trinity: And there's nothing wrong with pretty abstracts or landscapes -- we love them. I think part of the reason we see different types of work do better on fx(hash) is that we've been so well trained by sheer volume. We're over 20,000 projects at this point, coming up on 21,000.
+
+Will: Wow.
+
+Leander Herzog: Really? Incredible.
+
+Trinity: It's insane. Just through that alone, we've had so much variety in the types of work possible to experience in a short, fast period of time. Since *Decada*, for example, people have been paying way more attention to things with sound-based elements, realizing that can be extremely cool and extremely worthy. Same with animated pieces. I think we're maturing as a market -- we're getting better at talking about the art in more tangible ways. And especially going through this bear market, it's more about what art you love and what speaks to you rather than pure speculation.
+
+Leander Herzog: I'm very big on animated pieces, on audio, obviously. I think the most important thing is to have work that's responsive and runs in real time at 60 frames per second or whatever we can manage. Dropping JPEGs in general just isn't interesting to me. That sounds dismissive and a bit extreme, but my position is really to make interactive, real-time art. I've been doing this since 2006 -- I spent years just rendering out static JPEGs. For me, that's the past. We don't need to do this anymore. Obviously, I still see a lot of cool static work that's very good, but that's not what excites me about interactive digital art, and it's not where I think we're going. Whenever I click on a JPEG drop and it doesn't do anything other than look a bit different from the next JPEG, I feel ripped off, as a collector and as an artist. There are exceptions when the art is really, really good. But in general, I think the future is interactive, real-time, responsive -- the combination of everything this technology gives us. Otherwise, honestly, we could just paint.
+
+Trinity: We could go a couple of directions from here -- we could talk about your other pieces with big interactive elements, since we've only covered two of your five drops on fx(hash). But what you just said reminds me of something I wanted to ask earlier, about the intersection between your generative art, your experience with Processing, and your experience in web design and development, because I think it's a lot of the same thing. I work in the web space too, and there's this concept where, sure, ADA compliance is huge, usability is huge, but at the end of the day most websites are just boring pieces of crap that enable people to sell a product. And yet we see your website, which is super awesome, even though it's so simple. What do you see for the space of actually creating non-financialized, interactive websites -- as ways for people to experience the web in wholly different ways?
+
+Leander Herzog: Are you referring to generative art or web design in general?
+
+Trinity: The intersection -- the web as an interactive playground versus an arena for utility.
+
+Leander Herzog: I have a lot to say about that. First, I think good contemporary digital art is, in most cases, a website. Because of my background as a web designer and developer, I strongly believe most of this should be responsive, interactive, and built to the technical standard you'd expect from a contemporary website. If you know just enough JavaScript to create a JPEG and drop it, fine, good for you, and if the art is cool, even better. But in the end, all the good experiences are basically websites.
+
+I worked at various agencies, as a freelancer, with quite creative people, in the design industry, on digital products, doing creative coding. I tried for a long time to find the intersection of generative art and web design, and tried to sell it to regular clients -- and it's extremely hard, almost impossible. Before NFTs, people didn't really understand generative art. It was hard to sell to clients, and hard for them to sell to their own customers. Difficult on the communication level and the technical level. And people don't really care about websites anymore -- social media has kind of killed that. If you're in the industry, you can still sell design that's established and safe: you deliver your Figma file and someone else implements it. But doing genuinely creative work on the web -- I'm not sure where that goes anymore. A few years back you'd see a lot of really creative websites, mostly made by people like me who've since quit their jobs to do "real" art and go for NFTs instead. That's died down quite a bit. These days I don't see many websites at all -- everything's on social media -- and I don't see much cool branding or design work that includes generative art or feels progressive or interesting. Not because the technology can't support it -- I've been there and tried to make it work, and it completely didn't.
+
+Honestly, that's one of the reasons I thought, okay, forget this job, I'm going to quit and just make NFTs and art, because there's an audience now that actually gets it. I don't need to explain why an NFT is fun or worth buying. Whereas if you work at a large design agency with clients who have good budgets and keep asking for the most creative, coolest stuff but are afraid to actually do anything interesting, it's just frustrating -- you're wasting your time as a developer or designer. So I see most of these people leaving the industry to do art instead, because it makes more sense now that there's an actual market for digital and creative work on the web. Maybe that's a very personal perspective, but most designers I know still in the industry seem frustrated. And I don't know how you see the internet, but the fun, open internet full of small creative websites that used to exist -- it really isn't doing too well anymore, I'd say.
+
+Trinity: I think a lot of that comes down to concerns around usability and accessibility, which are both really important depending on what you're trying to do. If it's a smaller, cooler brand, maybe you have the ability to be more experimental, and the people making decisions are probably less risk-averse. It's an interesting conjunction in the design space. You also have all these brands that were like, "Oh, NFTs, let's do this, let's do that." I think perhaps the next level would be generative experiences that let people really have a one-of-one. There's something there — I just don't know if we're there yet. Give it a couple of years, or six months, depending on how fast things move. But thanks for your perspective on that; I know it was a bit of a departure from talking about the art. Art is culture, and we spend so much time online, so when it comes to creating beautiful, fun, engaging experiences, that whimsy of interactivity is something I feel is horrendously missing.
+
+Leander Herzog: One last comment on this: you have to admit that creating a cool, artsy, interactive experience on a big company's website is extremely hard from an engineering perspective. If you want 60-frames-per-second WebGL stuff on a big website where people show up with all sorts of devices, form factors, disabilities, and limitations, getting that right for everyone — not turning it into a usability disaster — is extremely challenging technically. You need ten-plus years of experience to actually pull that off. It's not easy.
+
+Trinity: That's you — you have the ten-plus years of experience.
+
+Leander Herzog: Yeah, but still, I couldn't make it happen, because it doesn't only take design or art skills plus engineering experience — it needs more than that. It's also a very difficult exercise in selling this to a client, doing it for bigger organizations. It's just very hard. If you want to explore it, go for it. But actually seeing it through, getting it out there, and making it a good experience that works for millions of people over more than just a couple weeks for a campaign — that's very, very hard and super challenging. I completely understand every project that fails, because it is hard.
+
+Will: We're off book on this interview right now, but I wonder if you've ever thought about gaming — not mobile gaming, but games as an art form, which is itself a kind of cottage industry. You were remarking that a lot of people are leaving websites because they can't find or execute creativity there in a way that works. We're seeing both sides of that: the homogenization of games through mobile, user-acquisition models, advertising, how samey everything feels — but also a resurgence, or renewed examination, of games that emphasize experimentation, meta-analysis, critique, and storytelling. There's a lot of weird, cool stuff out there. Even an artist like Mitchell F. Chan is apparently working on a game as his next project, one that I think will intersect with NFTs — hopefully not in a land-ownership-feudalism way, but something more interesting. Has that ever occurred to you?
+
+Leander Herzog: I've always had an eye on small, independent, cool gaming experiences. Overall, it's safe to say the mainstream game development industry is a shitshow and a complete nightmare for most people who work there — you only ever hear bad stuff about these big studios, the crunch, the actual work-life balance. That doesn't seem too attractive. Then again, being completely independent as a game developer is also extremely challenging. But it's a beautiful medium and the possibilities are endless — really, really cool. It's just that distribution is very hard, and making a business model that works out for you is also very hard.
+
+Will: I can point you to a publisher who's very up for taking risks and funding people, if you ever do want to go down that route.
+
+Leander Herzog: I think I won't, because my medium is really the web and web browsers. That's already too hard, but still cool — I can make a drop and people all over the world can see it instantly on their phones, on their laptops, whatever. That's so beautiful, it's amazing. Still, plenty of challenges around it. If you go to a game where you need to log into Steam or download something and run an .exe, there's an audience for that too, for sure, but it's much smaller. And there's the market expectation of how little you want to pay for a game — that's a real struggle. I'm pretty sure I'm not going to go there, but I have massive respect for people who dare to try.
+
+Will: Charging like 1 ETH for a game would be pretty sick, though.
+
+Leander Herzog: I could see myself buying a game for 1 ETH if it's a long, interesting interactive experience. Absolutely. But I think most people aren't ready to do that. You'd better have some really, really good funding if you're going to go there, or you're just going to ruin yourself and end up with a lot of debt and no customers.
+
+Trinity: That could also be the intersection of art and gaming from a collection standpoint — you're purchasing art that also happens to have this intensely immersive, interactive experience.
+
+Leander Herzog: I spent quite a bit of time with VR. I bought an HTC Vive back when the first giant hype happened, 2017 I think, and spent a lot of time developing experiences with WebVR, gaming, having fun with it. But it completely went nowhere. Nobody cares, no clients want to pay for it, there's no good distribution mechanism, nobody has the hardware. Personally, I think anything that goes beyond a website you can buy on fx(hash) is just way too hard — you limit your audience to a fraction of what it could be otherwise, which is too risky. Unless you have unlimited funds and basically don't care about money, and you just decide, "I want to go for this medium" — then that's very cool. But financially, I wouldn't be able to justify going into such a niche again, because the audience just isn't there.
+
+Trinity: I agree that in the emerging technology space, large companies are focusing too much on AR/VR and not necessarily seeing the applications and reach of web3 specifically. As we move forward, web3 is probably the place to be across almost every dynamic other than perhaps gaming — nobody wants an interactive whiskey experience.
+
+Leander Herzog: The other problem is that VR experiences nowadays have a branding problem. Every day you see some completely ridiculous, absolute shit news from Zuckerberg and his team. They don't even get the basics right, they have zero creative ideas — it's basically a big trash fire. That won't help us reach an audience anytime soon. In the short term, it just makes it harder for everyone else to do something in this space, because people will hate it. That will probably persist for a couple of years before it gets better. Long term — ten, twenty years — there will be a bright future of cool, interactive, artsy gaming experiences in VR with NFTs and everything. But that's way too far away right now.
+
+Will: Kind of hard to segue off of that, but let's go back to the art. You're working with one collaborator now on music, and you've worked with another collaborator we know of — Richard Nadler, on the piece tagged "image comp." I don't know if you have an opinion on that image comp controversy — I guess it's not really controversial. But tell us how that collaboration came about. From the description, it sounded like you both worked very independently, up until the last moment. What was the idea behind the structure of that collaboration?
+
+Leander Herzog: First off, the image composition label — I don't really care about it. Someone from the fx(hash) team explained it to me: it's a piece that loads different JPEGs with textures, so it does have a component of image composition, though I don't think it's traditionally what's understood as image composition. Either way, people liked it, so it doesn't really matter — I don't think the label had a negative impact on the work or the market. I see the struggle of having two sales feeds, one for generative art and one for PFP-type stuff, so I understand where they're coming from. People label you anyway, so I guess it's fine.
+
+I was on Twitter one day and saw a tweet by Richard Nadler saying he was looking for someone able to animate his work. That seemed like a very low-hanging fruit. I looked at some of his work, which was mostly pixel sorting, I think, and figured: you just give me a bunch of your images and I'll try to make something with it, and we'll see if it makes sense. I actually tried it and worked on it for a long time, surprisingly, mostly because I kept getting distracted by other stuff. In the end we produced something we both think is really cool.
+
+The background here is that working with someone else at the code level is very hard. If you have two developers doing something complex — graphics programming, especially shader coding, is pretty complex — it's a very personal, deep, often messy thing, especially if you've worked on it for a while and you're maybe not the very best developer in the world. If you share that code with someone else who's also trying to be clever, you can easily get lost, and it's very hard to coordinate. For some people that's maybe easy; I find it very intimidating and challenging. I'd tried that with a couple of people before and it didn't really work out, mostly because I was overwhelmed by the complexity someone else was bringing.
+
+So I thought: doing a collab and working with someone else's input or data is really cool, but I don't want to get too cozy and sit with someone writing code together — that's too much for me at the moment. But I could take Richard's images and try to make something based on that. That worked out well as a one-time collaboration experience. It's very contained: he delivers the images and textures, I write the shader code. We each have a component the other doesn't really understand — Richard can't read my GLSL code and understand what's going on, and I wasn't in the room when he created his textures, so I have no idea how he made them. Looks like there's some pixel sorting involved, maybe some A.I. work, I don't know. In a way, I think it's cool to have that cut, that interface between who contributes what. In this case, it really worked out for us.
+
+Will: That was a pretty big hit when it came out — instant mint-out, got some good secondary action. That was right before things really slowed down in a big way. When did that one drop — June, I think?
+
+Leander Herzog: I think so, yes, around that time.
+
+Will: That was also right when Tender was forming, and we were talking about that project a lot in that particular Discord.
+
+Leander Herzog: I was also trying to make something very different from *Returns*, which is extremely minimalistic and geometric—an SVG-based project. This one's a shader, and it operates very much on the level of the pixel. It's animated, colorful, full of gradients. Visually, it's almost the opposite of something like *Aglow* or *Returns*, which I think is cool—it's a surprise, and it keeps things interesting. I'm trying not to get stuck in one visual style, and to remind collectors that they can expect very different drops over time.
+
+Trinity: All of your work still feels cohesive, though. Everything's different, but there are overlaps—not really similarities, but *Imi* and *Returns*, or *Aglow* and *Imi*, and *Very Large Array* and *Returns* feel like they're in the same family. You're definitely creating a signature style when it comes to the animations and everything.
+
+Leander Herzog: It's nice to hear there are still threads you can recognize. Last year, some artists really bet on one specific visual brand and style—you'd instantly recognize all their drops on fx(hash) or Twitter. A lot of people had success directly owed to that consistency, to focusing on just one thing. Financially, I'd probably have done much better doing exactly one thing and really going for that. But in the long run, I think it makes more sense not to depend on one style, and to do very different things. It's more of a mid- to long-term strategy—though it has confused some people, since things look so different from one drop to the next.
+
+Trinity: Is this where we ask what you have coming up?
+
+Will: I think it is. We've talked so much about your work with the interactive element, about being deliberate and not trying to flood the market, but also about wanting to be experimental and put cool stuff out there. So where's the alpha, Lenny? What's coming up? What should we be saving our Tez for?
+
+Leander Herzog: More of the same, in the sense of responsive, interactive, real-time work that's very generative, has audio, and is visually interesting—on fx(hash), I'd guess, because it's still the most exciting platform regardless of the market. Other than that, I'm working on physical stuff—print, and physical sculptures, which is what I'm most excited about right now. I'm not sure yet where or how I'll sell those; I'm talking to various people about opportunities. It's a hard step to leave the browser and get physical again. But the idea is to have a generative process based in the browser that also creates NFTs, but manifests in physical sculptures you can buy, have at home, and live with—something that isn't screen-based, unlike most other things these days.
+
+Trinity: How are we supposed to collect that, though?
+
+Leander Herzog: Honestly, I have no idea what edition size is practical. I'm looking into production and distribution right now. Maybe it's something you can order somewhere; maybe it's more traditional, something you buy at an art fair or gallery. Ideally, I'd love it to be affordable enough that a lot of the fx(hash) audience can actually buy it, get it shipped home, and maybe even assemble it themselves. But that's all very experimental for now—I'm still figuring out what's practical, how to finance production, and how the whole thing works, from writing the code to actually delivering a product to your home, which is obviously more difficult than just doing a regular fx(hash) drop.
+
+Will: Have you heard of these things called PFPs? I hear you can sell those to finance roadmapped projects like this. Maybe that's your big foray into Ethereum—a PFP project to fund the sculptures.
+
+Leander Herzog: Maybe. I hear the market's difficult everywhere now.
+
+Will: I was joking.
+
+Leander Herzog: I think it's important to only do stuff you'll still like in the future, that has the level of quality people expect. I try to avoid anything that looks like a cash grab, or just showing up on another chain for the money. But I still need to pay rent, and producing physical stuff costs money and is a logistical nightmare. So I need to find a way to make it happen, which is what keeps me busy right now. A couple of people are helping me—it's not just a solo thing. But I can't promise any dates, prices, or edition sizes. I hope you like physical stuff.
+
+Will: We've seen people on fx(hash) experimenting with that—either promising a print if you mint at the highest price tier, or physical outputs of some kind.
+
+Trinity: The Sean Kemp woodcuts.
+
+Will: Or just this week, a laser-engraved metal card someone did as a collaboration. So people are out there doing stuff like that. I don't know what your sculptures look like or how big they are, but I guess it depends.
+
+Leander Herzog: I don't know either.
+
+Will: We'll see. I think to wrap up—we've gone a little long, and it's been a great discussion—I wanted to ask about a tweet you put out recently about our show. You're a self-professed fan, but we're not immune to critique. You said that when you first heard us, you thought, "Who are these people? They're kind of crazy."
+
+Trinity: What is wrong with them?
+
+Will: Yeah, what is wrong with them? So if you have any constructive feedback, on behalf of the artist community or just in general—since we're obviously more collectors than artists—what is wrong with us?
+
+Leander Herzog: To be very clear, there's absolutely nothing wrong with you. It's more that the audience, artists, and people in general are still adjusting to this very specific type of content, platform, and market. You're doing great. Talking about the market and the art together is a challenge, but I think it's the right thing to do, and I can hear you getting better with each episode—discussing and critiquing art is genuinely hard.
+
+The first time I heard your podcast was quite extreme for me, because it's just not common to talk about the money and the art together at this level. It's also very specific to fx(hash) culture—it becomes clear that fx(hash) is basically a lifestyle for you, that you're deeply into this. Honestly, so am I. I have a lot of questions. I don't have many peers to discuss the fx(hash) market with. Why are people buying more than one of my editions? Why are people flipping it? What does it mean if my secondary market looks a certain way, or if my floor holds or doesn't? How does any of it work? It's extremely complicated. I can't spend all day on fx(hash), I'm not on Discord constantly, so it's hard for me to see what's going on and understand what it even means.
+
+I'm a full-time artist now, and fx(hash) is by far the most important thing for me in terms of art, collectors, and money. So I need to understand what's going on—it's very hard to figure out just from the outside. What you're doing is extremely valuable, for me and I think for most artists listening: understanding where people went, what's up with the market this week, why everyone bought the other drop and not mine.
+
+Will: I wish we always knew the why. We only speculate and try to connect the dots week to week.
+
+Leander Herzog: Fellow artists and I sometimes discuss how the market's doing in general, or what the hottest drop is that someone just bought. But we don't have hours-long deep discussions about exactly how the market is behaving, or whose floor prices are rising or falling. That depth of discussion is really interesting, and it's not something you can get elsewhere. I hope you keep doing this, and keep getting even better at explaining what's happening with the market—where the flippers went, where the money is coming from and going to—because it's super hard to understand from the outside.
+
+Will: Thank you—I wasn't fishing for a compliment, but I guess there's—
+
+Trinity: We'll take it.
+
+Will: Hearing that we're improving at talking about the art is good. I think we've just learned by doing, wouldn't you say, Trinity? It's not like we sit down every week with art books for ten hours.
+
+Trinity: I tried at one point, but it was just too much time.
+
+Will: We also work, have families, baby stuff—it's really just through osmosis, and from our artist interviews and talking to people in the community, that we get better at understanding where things come from.
+
+Leander Herzog: It would be cool if you covered more of the regular art market, made some connections to that—and dug into discussions like how often an artist should drop, how to avoid saturating the market, what's a good pricing and edition-size strategy. These aren't new topics; they didn't appear with fx(hash). People have had opinions on this for a long time, and there's a lot of other people outside the fx(hash) bubble you could speak to that would make it even more interesting. That said, you're collectors and fans of fx(hash), so it's not like you need to advise artists on their careers—but at least in part, these are old topics also happening elsewhere that you could connect to.
+
+Will: I definitely think it would be interesting to have more traditional art-world people on the show, for an open discussion about the differences between the markets. Going back to our first interview with Ken and his work in the traditional art world, being a gallerist now—his stories about how different it is with NFTs, the accessibility, but then that accessibility coming with this whole other side of management.
+
+When we talk about the market, we try to be general and not prescriptive, because we'd hate to specifically tell someone "do this price, this edition size" with no basis for it beyond a holistic evaluation and gut feeling. If it didn't work out the way they wanted—if it got flipped hard because the price was off—we don't have the authority to prescribe that, even if we have a gut instinct. Sometimes we nail our predictions pretty well—like the MJLindow piece that dropped this week, right where we called it in the Dutch auction at $250,000. But those little wins don't mean we're gurus.
+
+Leander Herzog: True, true.
+
+Trinity: A couple of weeks ago, when things were really bad and nothing was selling, we were saying, "Folks, hold your drops, it's going to be rough." Then everything turned around and exploded less than a week later. That's just the volatility.
+
+Leander Herzog: These are very vague feelings that we sense somehow, and it's really nice to have someone articulate what's happening and why. It's not the final truth, of course, and you're not advising anyone or giving definite advice, but you still have more insight than most others. That's extremely valuable, because for me as an artist, the most stressful part of this whole game is still deciding, for a new work, what my edition size and price should be. What makes sense right now? I'm still out here making random guesses. I'm okay with that as a generative artist, but it's probably not the ideal approach to designing your market or building your career -- just guessing and not really knowing what's going on.
+
+Will: Well, you've got our DMs now, so for the next one... I feel like that's maybe a good place to wrap it. What do you think, Trinity? We've gone for quite a while, and Lenny's been very generous with his time.
+
+Trinity: I need to make one more cup of coffee before my standup.
+
+Will: I need to check and make sure I haven't missed a meeting, too.
+
+Trinity: But it's all worth it. This is the most important meeting of the day.
+
+Will: Easily.
+
+Leander Herzog: Cool. Likewise.
+
+Will: Well, thank you so much. That's Leander Herzog, generative artist, fx(hash) pillar, maker of cool, interesting stuff.
+
+Leander Herzog: Very kind. Thank you.
+
+Trinity: If you had to pass the baton to an artist we should interview next, now's your chance to tell us who.
+
+Will: That's not how it works, but okay.
+
+Leander Herzog: Some people I've been really impressed with recently -- I'd say Kim Asendorf, Andreas Gysi, and William Mapan.
+
+Trinity: We would love to have all three of those people on the show. If you can give us some connections, we'll try to make it happen.
+
+Leander Herzog: For sure.
+
+Will: As long as we can confirm they even know who we are -- that would be helpful.
+
+Leander Herzog: I think everyone knows who you are. Don't worry.
+
+Will: I don't know about that. All right, thank you, Lenny. It's been a real pleasure having you on the show. We appreciate the time you've given us.
+
+Leander Herzog: Thank you. Likewise.
+
+Will: Hope everyone enjoyed this one. We'll be back again soon with another interview. Later, everyone.
+
+Leander Herzog: Thanks.
+
+Will: Bye-bye.

@@ -1,0 +1,4 @@
+Episode: Playing Code Golf: Interview with Piter Pasma
+Guest(s): Piter Pasma
+
+Special bonus interview with Piter Pasma! Piter has been making art with code for decades, but you may know him best for the work he has released on fxhash ( Hypergiraffe , Dot Produkt , Angry Noise , Gonzion ) and Art Blocks ( Skulptuur ). In this episode we learn about about Piter's history in code and code-based art, the origins of his long-form generative works, the beauty of code optimization, and the challenges of releasing art as NFTs. Please enjoy! https://piterpasma.nl/ The Essence of Linear Algebra Youtube Series Follow Piter on twitter @piterpasma Follow us on twitter @waitingtosign Follow us on instagram @waitingtobesigned Support the show via donations to our tez wallet, waitingtosign.tez

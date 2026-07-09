@@ -1,0 +1,277 @@
+Lisa Orth: Needing to connect to energy and the energy of something. Oh, I have an airplane going—can you guys hear that? I'll wait for a second. Okay. We have this weird thing called the Blue Angels that fly over one weekend a month, and they're doing that today.
+
+Will: Hello and welcome everyone to another episode of Waiting to Be Signed. This is a very special interview episode—longtime listeners will be breathing a sigh of relief right now as we introduce Lisa Orth, who's here today. This is a big day, Trinity, and I have both been really big fans for a long time. We've talked about your work a lot on the show, so it's really amazing to have you here. What's going on, Lisa?
+
+Lisa Orth: Hey, thank you so much for having me, you guys. It feels really special to be asked.
+
+Trinity: We feel like it's more special that you agreed to do this. In our minds, you're one of the most OG OGs of the platform—you've been such a consistent person releasing art here, and it's amazing.
+
+Will: We'll ask you more about this later, but you're often an artist we cite as having instant recognizability across your drops, even as they differ—there's always this ability to say, "Oh, that's a Lisa Orth piece." We'll get to that for sure. But first, for people who may not be as familiar with you personally, could you give us a little of your background, leaning toward art and your journey to—
+
+Trinity: Or not.
+
+Will: Or not, whatever you want to say. Tell us a little about your journey through art to NFTs, fx(hash), crypto—just catch us up on who you are.
+
+Lisa Orth: I grew up in Washington State, one of those people who, when you ask "have you always been an artist," says "oh yeah." I've always drawn, always known I was going into a creative field—that seemed to be my destiny from early on. I wanted to go to art school and become a painter, but my family was working class and we never had enough money for anything, certainly not enough to put me through art school. So I decided to investigate graphic design, because I thought if I became a graphic designer, I could design record covers for all my favorite bands—I was obsessed with music—and I could do graphic design during the day and be a fine artist at night.
+
+I went to school for graphic design, and immediately after, here in Seattle, I looked up all the people I thought were the coolest graphic designers in the music world, because I knew I had to be in this field. I landed a job at what I thought was the coolest place to be: a music magazine here in town called *The Rocket*. I was their graphic designer and eventually became their art director. Through that, I got asked to do work for local record labels—the biggest being Sub Pop Records. I ended up being their first art director, designing all their early releases, including Nirvana's first couple of releases and their logo, which everybody still knows today.
+
+I did design work here in Seattle for a long time, worked for a lot of people, and eventually started my own design firm—around 1998, right when everybody suddenly needed a website but nobody had one yet. A friend of mine had just taken a course on HTML and needed help with her final project, so I did some design for it. We ended up starting a design firm together specializing in websites. That's where I dipped my toes into code—I helped her write some HTML and early JavaScript and CGI.
+
+I had a successful graphic design career for a long time, until I realized something was off. I couldn't pinpoint it for the longest time, and then I realized: I'm sitting in front of a computer eight hours a day, every day, and I felt a crazy disconnect—like I wasn't part of the real world anymore. Once I realized that was what was making me feel so weird, I told my friend, "I have to quit this. I don't know what I'm going to do, but I'll find something. I can't just sit in front of a computer and be a creative director anymore." So I walked away, not knowing what was next, and started DJing.
+
+Throughout all of this I was always making art and music—painting, drawing, illustration, playing in a bunch of bands, touring, running my own record label. Art and music were always prominent in my life. I supported myself DJing for a while, and then I discovered tattooing. When I discovered it, a light bulb went off: this was artistic, but connected to a real person, very permanent—interesting to compare now to generative art, which is also very real and very permanent. I became obsessed with tattooing and did it up until COVID hit, super focused on that career. I'd moved from Seattle to LA by then.
+
+When COVID shut down tattooing like it did for every other tattooer, I suddenly had all this time. At first it was joyous—I was making digital music, doing paintings. Then I got sad about how much fun I was having while people started dying. My sister here in Seattle is a respiratory therapist at a major hospital, and talking to her really brought home how real COVID was. It felt unfair to be having so much fun during a time of so much sorrow. Eventually I moved back to Seattle, and that's when I discovered NFTs.
+
+It was another joyous discovery, like tattooing had been. I've always loved making art and always loved technology—I remember getting my first computer in the early '90s, an Apple Mac Plus Two or something, which cost me three thousand dollars used, and I couldn't believe how cool it was. I've always loved new things; if I can wake up and discover something new every day, that's a great day for me. So when I discovered that digital art could hold value, be traded, and that people could support artists through secondary sales, it was a no-brainer—I wanted to dive as deep into that as I could.
+
+I remember reading an interview with Joanie Lemercier, I think in the *New York Times*, about the environmental impact of Ethereum and mining, where he mentioned Hic Et Nunc. I immediately looked it up, and that became the thing I felt most excited and passionate about. That's just who I am—if somebody mentions something new, I want to jump in and mess around with it. That's also how I discovered fx(hash) early on. So I think that's a decent overview.
+
+Will: There's a great documentary about you on YouTube that focuses more on the music side—we'll link it in the notes. There's this great scene where you sit there for ten minutes naming every music project you've been part of, chronologically.
+
+Lisa Orth: I couldn't remember them all! "What about this one?" "Oh yeah, that band."
+
+Will: I'm curious about the NFT side, because crypto and NFTs are so polarizing—it's a conversation we have a lot within this community, since Tezos doesn't have those ecological problems and feels so much more wholesome. But when a lot of people hear "crypto" and "NFTs," they think animal pictures on Ethereum and scams. As you transitioned into putting your work out as NFTs, did you get resistance or friction from your social circle? Have you had success bringing people around, or is it still a challenge?
+
+Lisa Orth: The struggle is real. When I first started minting on Hic Et Nunc, I was so excited, and I didn't know anybody else into NFTs, so I tried to get my friends in. I'd say, "Hey, I just minted my first NFT, do you want a copy?" And they'd say, "Why would I want that?" I'd explain it's something I can give them, and they'd say, "Okay, send it to my phone." So I'd end up making them a wallet with their Gmail and Kukai. There are people out there right now holding pieces I gave them who will never do anything with them.
+
+I kept trying to get people excited, and nobody cared. My friends stopped even asking what I was up to—they didn't want to hear it. My girlfriend started off that way too, but then I showed her photographers on Hic Et Nunc—she's a film photographer—and she got into it, started minting and putting her own photography out there. She's into other stuff now, but she understands and supports what I do.
+
+I took my sister to an opening at the Seattle NFT Museum recently. She doesn't like me talking about NFTs, though she's a little into crypto. She fell in love with one of the artists' work there, started asking questions, and even got to meet him. I asked her, "If you saw this piece on canvas instead of on this screen, do you think you'd feel differently about it?" She said, "No, not at all." That was a nice breakthrough—being able to show her it's not all stupid cartoon characters, that there's art you can genuinely fall in love with. Now I'm thinking maybe I'll buy her a piece from that artist sometime.
+
+So yes, it's a real struggle to find connection around what I'm so passionate about, even with my own close friends.
+
+Trinity: That resonates. And it's so cool that you're able to convert somebody just on the basis of the art alone.
+
+Lisa Orth: One at a time—I'll get them all.
+
+Trinity: Anytime somebody comes into town, we take them to the Seattle NFT Museum, make a sale, whatever. One of the things you were talking about earlier -- specifically around the ecological angle, people not really being into NFTs, but also the royalties side and being able to support an artist over the long term -- one of the things you're known for is your connection to the music scene, very much in that vein of punk, grunge, riot grrrl. And that comes with a certain ethos.
+
+Lisa Orth: Yeah.
+
+Trinity: The blockchain world can be hyper-capitalistic and corporatist, but it also enables other arenas of collectivist thinking. How does that ethos inform what you're doing today, and your excitement about Tezos? That was a long question.
+
+Lisa Orth: That was a great question though. Something I really love about the Tezos community -- a weekend ago I was speaking at the Seattle Art Fair, on a panel put on by the Seattle NFT Museum, and beforehand I was talking with a bunch of people at the Seattle NFT booth. The question everyone kept asking me was, "So why Tezos and not Ethereum?" And I found myself saying over and over that it's really about the community. It's so strong, and the amount of experimentation I see on this blockchain -- where it doesn't cost you $200 to try something new, to mint or whatever -- gives the Tezos NFT community more of that punk-rock feel. Like, let's just do some weird shit and see what happens.
+
+Whatever I end up doing has that vibe as an impetus. I don't need to sell NFTs to pay my rent -- I do other things for that -- and I really try not to look at the NFTs I put out as a commercial, money-making thing. I don't know if that comes across. But once you start having that capitalistic perspective -- I'm doing this for money, I have to make this or that from it -- there's nothing wrong with it, but for me, I'm viewing this as art. I want my art to come from a place of finding joy in discovery and experimentation, trying new things, and connecting with people who my art resonates with. The Tezos community really seems to be a place that fits all of that for me.
+
+Trinity: I think that's a great answer. I think one of the other things we've wanted to talk to you about is that we kind of see you as an early adopter. You were one of the first artists on fx(hash). I think you were one of the first people to really make 8-bit a thing, and even typed work, which is something neither of us has experimented with. You find all of these things before anyone else does. Why is that, and how?
+
+Lisa Orth: I really don't know. I try not to spend all day on Twitter, but if there's something somebody's talking about that I follow, I'll be like, what's that? Even if someone's talking about writing Michelson contracts -- anything I don't know about, I want to know. And I'm not afraid to dive in, as long as I feel like whatever platform it is has a positivity behind it. There have been things I've looked into, some new platforms, where I'm like, "Ooh, this seems scammy," or "this seems to be all about commercializing blah blah blah" -- no thank you. But if I explore something and it seems fun and new and coming from a good place, and the people putting it on are good people -- oh my god, I'm jumping in for sure.
+
+Will: I think that's what makes fx(hash) such an outlier. Even people who flip NFTs, which Trinity and I both have done -- sometimes in order to keep collecting, you have to sell stuff, that's just part of it. Everyone here, for the most part, just feels genuinely interested in the growth of the platform, in what the artists are up to, in meeting them. And the artists too -- the fact that you and all these other artists have come on our show wanting to share and be part of the community is really special. Both of us totally avoided NFTs in our crypto journey until fx(hash) -- none of it appealed to us until this. So our journey is kind of similar to yours in that something about this resonates in a way the ETH stuff doesn't. The ETH stuff might be great for making money, but that's not everyone's objective all the time.
+
+Trinity: The price points, especially on fx(hash) back in November and December -- you could explore, experiment, put $10 or $20 in, and get so much awesome work.
+
+Lisa Orth: Even right now, with 100 Tezos or $100, whatever you can get, there's so much amazing art on there that costs next to nothing. I don't want this to be how we live our lives in a totally virtual way, but I feel like you can figure out what the future is going to be like by looking at people in their teens or early twenties. Your passport to the world is your phone -- why would we not start having art collections on our phones? That's how it's going to be. The digital is going to be as important, or more important, than the physical. There will always be someone who wants to put on that old 180-gram vinyl record and have that experience -- I never want to give that up either -- but there's so much to embrace in this world that has yet to be defined. I dare anyone to try to define it moving forward. It's exciting to be part of it this early.
+
+Will: You've talked about how good the art is here. Is there anyone you collect that you want to shout out? Who does Lisa Orth like on the platform?
+
+Lisa Orth: Oh my God, I like so many people.
+
+Will: Not financial advice, of course, as we always say.
+
+Lisa Orth: It's hard for me, because there are people whose work I'll buy whenever they put it out. But lately I've been on a kick collecting *Riis* -- R-I-I-S. That's been my latest thing, wanting to get everything they have, because something about it is just super appealing to me. It's weird, because the very first time I saw it, I thought, nope, don't like that. I've found that in my entire life, if I see something and have an immediate feeling like, ooh, I really don't like that, it actually means I love it -- I just haven't discovered how much yet, because my negative reaction was so intense. That's what happened with their work. Right away I thought I didn't like it, then thought, hmm, you probably love it. And it turned out I did. So that's been my recent thing.
+
+Trinity: I also like that you can't figure out what anything is called because it's just emoji, emoji, emoji -- which is also the most Gen Z thing on the planet. I really love the one that's like water embroidered with patches.
+
+Lisa Orth: Right.
+
+Trinity: The preview image for it is really blue.
+
+Lisa Orth: *The Water Peak Sewing Kit*, or whatever it's called.
+
+Trinity: Yeah. We've seen a lot of really cool new people coming in over the last few months, and there's so much momentum behind this.
+
+Lisa Orth: I follow so many people on Twitter, and anytime I happen to catch a drop by somebody I follow -- because everyone I follow, I genuinely think their work is cool -- I go all in and get what I can. But these days I'm trying to stop having that FOMO thing. I'm telling myself: if I catch the drop, great; if I don't, it's okay, I don't need to collect everything I like, I can go with the flow.
+
+I think one thing that's really positive for me as a creative person -- and I'm sure a lot of other creative people have this same trait -- is an ability to hyperfocus, to get pretty obsessed by things once something catches my attention. That can be great, especially when you're hyperfocused on creating something. But I'll reach a point where I realize I need to back off and find more balance. Collecting NFTs -- finding that balance has been a real challenge, and I'm still working on it.
+
+Trinity: I think Will and I both experienced that. The first few months fx(hash) was out, we were afraid to go to sleep at night. I know you felt this too, Will, because we've talked about it.
+
+Will: I always set alarms, because the cycles would rotate -- they still do now, but sometimes you'd have a cycle that was just eight hours, entirely while you were sleeping. You'd know from Twitter that someone was dropping something at 3:00 AM. Having a baby helped me get over that.
+
+Lisa Orth: Having a girlfriend who I'd wake up by being on my phone at 2:00 AM, 4:00 AM, 5:00 AM -- I'd try to be quiet, make sure the light didn't wake her, but I was there on fx(hash) on my phone collecting pieces, because I'd go to sleep dreaming about someone dropping something I wanted to get. She'd wake up and say, "Babe, what are you doing?"
+
+Trinity: Were you on your phone?
+
+Lisa Orth: I was so embarrassed about my behavior. She'd say, "What were you doing last night?" And I'd say, "Oh, Jerome Harer was dropping something. I really wanted to get his piece -- he's in Germany, and 4:00 AM was the only time I knew he'd be dropping." She'd just say, "You're obsessed." Yes, I'm obsessed. That was hard too, those first couple months. Who got sleep?
+
+Trinity: Definitely not me.
+
+Will: Trinity, do you feel like doing the podcast has helped you work through some of that? I feel like creating something in the space helps exert that energy.
+
+Trinity: I definitely feel a lot more balanced with it than I used to. Before, it was this crazy, manic energy of, if I'm not looking at the release feed or Discord at the same time, I'm going to die -- that level of supreme anxiety around missing things. It's changed a lot, I don't know if it's just more exposure, it's less intense now. Maybe it's since beta came out and you were able to put projects behind a time lock, so nobody just releases something spontaneously anymore.
+
+Lisa Orth: Yeah.
+
+Trinity: Which I really miss sometimes. That was kind of the magic of the platform -- just being there and seeing, oh my gosh, this happened, rather than knowing this is going to happen in exactly one hour and thirteen minutes, I'll set an alarm, it'll be fine.
+
+Will: It's still exciting, but a different kind of excitement.
+
+Trinity: The creative energy -- do you still feel that flowing within fx(hash)? I think you've really only had *A Burroughs* quote come out since beta, right?
+
+Lisa Orth: Yeah, for sure. When the site went offline because they were updating and getting ready to go into beta, that was so horrible for me. I was just like, oh my God, what am I going to do?
+
+Trinity: 8-bit!
+
+Lisa Orth: 8BitDo came out and I was like—I always, always need something to channel my creative energy into. Those times when I don't have it, when I'm forced to go camping and I didn't manage to bring things to draw, I'm like, what do I do? So *ApeBadoo* came out right at that time and I was like, boom, I'm there, I'm all in.
+
+I think that time off was also a time for me to be thoughtful. My journey learning code started a little bit back in the late '90s, when I was doing a business with a friend and learning HTML and some JavaScript and CGI. Getting back into that, I didn't just look at p5 and go, "Oh, I know this." It's been me obsessively learning new things every day, going to bed and dreaming about writing code, trying to get something to work and not being able to. There's so much to know.
+
+So the break with fx(hash)—I was doing art that wasn't code-based, which felt like a relief, because I'm really hard on myself about needing to be really good at things even when I first start out, and you just can't be. So I took a break, did some other stuff, tried to be more lighthearted. Then when other people started releasing on fx(hash) again, I felt like I really needed to put more time into things. I probably had 10 or 15 different sketches that could have been released back then, but I told myself, no, I'm just going to keep learning more. It was a good time to be reflective about what I was doing and to keep learning.
+
+Will: We went down that journey at the beginning of the podcast too. We thought about doing monthly or pseudo-monthly token drops as a way for people to support us, and part of that meant learning p5. I definitely had at least one dream about restructuring code for a project that wasn't even complex. For us, the tokens were just a way for people to support us—they're not meant to be high art, just an expression of appreciation for the show. But it's such a different skill set. Even if you're mathematically inclined, it helps, but it's still a completely different way to wrap your brain around it. Having the baby has made it hard to keep up with, but luckily we've had other folks come in and donate time to the coding side, in collaboration. Trinity, I know for you too—it's really, really hard to pick up something new like this.
+
+Trinity: Definitely, especially on top of podcasting and everything else. You want to be able to express what's in your brain in a way that's really awesome, and when you don't have the literal language skills to do it, it's incredibly frustrating. I work adjacent to code—within the digital agency space—so I can make CSS edits to a website, the most basic thing on the planet, but that's about it.
+
+Lisa Orth: That makes me realize something. I feel like I've always been used to being able to do anything artistically pretty easily, so when I find something I really like and dive in, it's usually easy. But learning generative art, I have the same challenges I had when I started tattooing. I anticipated being really great at it right away—I know I have an artistic eye and can do things creatively—but actually getting what's in your head onto the medium is a whole other skill. Both tattooing and generative art have been so challenging in that way. And whenever I find something that challenges me like that, that's when I get hooked. That's when I know I've found something I'll be doing for a while, because it's special to be that challenged.
+
+Trinity: You're not going to be defeated.
+
+Lisa Orth: I will not be defeated. If I can draw something easily, who cares? But if something might defeat me, I'm going to hook onto that and tell myself: you're going to kick this thing's ass. You'll figure it out somehow. This won't defeat you. I love that attitude when I get it from something.
+
+Trinity: That's very punk rock, in a way—any adversity, and it's like, yes, we're going to lean into that.
+
+Lisa Orth: Totally.
+
+Trinity: And love it and enjoy it.
+
+Lisa Orth: Don't tell me what I can't do, because I'll prove you wrong. That kind of thing.
+
+Trinity: It's funny—my wife was very much in the punk rock scene as a teenager, and that's 100% her energy. She does jewelry, and if she can't make something out of metal in our tiny apartment, she'll find some way to get the exact same effect somewhere else—late nights experimenting with silicone molds, pouring low-heat metals, or working with clay. Just constant time and energy to achieve exactly what she's after. I'm more the type who's all about flow state—being in that zone where it's a little challenging but not too challenging, where you know you're going to succeed. I have to admit yours is a much better way of being.
+
+Lisa Orth: If something isn't driving me a little crazy to figure out, it's almost not worth it. I don't want things to be too easy.
+
+Trinity: There's a related, slightly tangential question. Last month we were talking a lot on the show, and with people in the community, about the idea of creating things that look like they were done with paint—like a really great landscape painting made with code. You had a tweet about the need to create new things with our new technologies, leaning into what they can actually do. Has the type of art you've tried to create through code differed from what you'd normally do? I'd love if you could talk about that philosophy.
+
+Lisa Orth: I've been making art for a long time—I'm 55 now, and I've done a lot of different things. Something I always think is important, in whatever medium I'm working in, is that as an artist, in order to remain relevant, you need to contribute something in a voice that's authentically yours. That's the first thing. The second is connecting with the energy around you. Looking back at the art movements that inspire me, it's always people taking in the energy surrounding them and channeling it through themselves into their work.
+
+Right now, the energy is digital, metaverse, blockchain. This is what's new, what's exciting, what's literally changing every single thing about everyone's life, whether they know it or not. If, as an artist, you're not taking that energy and the tools available to you—often for free, right on your phone—why would you look to the past to change the future? I don't know—that assumes you want to change the future or change something as an artist. But I think embracing the tools of now, the energy of now, is how you make something that has meaning now.
+
+I understand it can take a lot of skill to recreate an 1800s impressionistic landscape in code. That's cool. But I'm not impressed by a band that can play Beatles songs and sound just like the Beatles. I don't care that you have the technical skill to recreate something that's already been done—I want to see what I can do that hasn't been done. Not that my work is breaking boundaries, but I'm looking forward. I'm channeling decades of art and design and music through my work, but I'm looking forward and using tools that are relevant. I think that's important.
+
+Will: Lisa Orth, welcome to the lumberjack club. I call myself the lumberjack on the show because I'm often semi-critical—or in disbelief—of how many naturalistic flowers and woods pieces we see, trading 10x above mint, and I'm just like, why is this the hundredth time we've seen this style? It's a bit tongue-in-cheek, of course, but—
+
+Trinity: Not entirely.
+
+Will: I was browsing your collection and didn't see too many trees in there. Some bugged forests, but that was about it.
+
+Lisa Orth: I do have a couple Zancans, and I love their work—it's beautiful, and it appeals to me aesthetically. But here's the funny thing: if you look at the work I do in my tattooing career, the majority of it is landscapes, nature scenes, trees, animals—all executed in a style like etching or woodcut. Very similar to that generative work, actually. But in my digital, generative art, I don't want to recreate that same style in another medium. That's the last thing I want to do. So it's not for me.
+
+Trinity: Is there anything specific you're trying to convey through code-based art?
+
+Lisa Orth: It's more about experimentation—what can happen. I'll usually start by asking myself, what don't I know how to do very well? I'll watch some Coding Train, or go to a reference page on p5, and find something I don't know much about, and say, okay, today we're going to learn this. I'll write some really basic stuff, and once I've got my head wrapped around the concept, I'll ask: how can we really break this? What happens if we add weird things, mess it up, throw in random values—make this parameter insanely large and that one insanely tiny? What happens if we just throw random things in and see what happens?
+
+To me, that's the magic of generative art—not having something set in my brain that I'm trying to execute, but going on an exploration, an adventure of what I can discover, what can show up. Sometimes you change one parameter in generative code and suddenly—whoa, what just happened? It looks nothing like the 500 iterations before it. Something changed that. I know it's not actually magic, but it seems like magic. That's what I love about code—those surprises. I'm just trying to learn and be surprised, and when I find something that gives me that visceral reaction, that's how I know it's the direction I'm exploring right now.
+
+Will: We hinted at this earlier in the episode, but there's definitely a vibe to your work that's instantly identifiable on the platform, and a big part of that is the palettes you use — all the way back to *Between Stations* and *Hexflex*, carrying forward to *Aether Astral Loom*. There's this uniqueness to the colors you use — they're so yours. I'd love to hear how you first developed those palettes, and clearly you love them, since you've carried them through so many works.
+
+Even as your style has ebbed and flowed, what is color to you? How did you arrive at those palettes? And are we going to see a departure from them? I noticed the Burroughs quote really deviates. There's also new work coming from you in your sketchbook wallet that we have no idea what to expect from.
+
+Lisa Orth: That signature palette came about when I was doing *Between Stations*. I always love to listen to music while I'm doing anything creative, and I've found that music without vocals is really helpful — weird electronic drones, that kind of thing. I also love old jazz, and I remember listening to it while coding *Between Stations*. I realized that what I was coming up with felt really musical to me — there was a real connection. That jazz playlist probably ran for 40 hours on Spotify, and I thought, wow, there's something here. I don't know if I was subconsciously translating it into the coding, but once I recognized that connection, I felt inspired to go look at a lot of old album covers.
+
+I hadn't come up with the palettes yet — I was just messing around with random colors. Looking at those album covers, I thought: I'm going to craft a palette that has the feel of these old records. I spent a lot of time narrowing down exactly which colors went together, which gave me the vibe I wanted — like the perfect off-white that reminded me of my first car, a '64 Ford Fairlane. I was trying to find combinations that gave me the feeling I wanted when I looked at them. Once I got it, I loved it — you could put any of those colors together and I'd love all of it. It just felt good to use.
+
+I like to keep around things I've created that make me feel good, that I can keep using. And having worked in graphic design and advertising, I understand that people subconsciously look for familiarity in an artist's work if they like it. I try not to focus on the marketing and branding side of that, but it's in my brain, and it's never going to not be there. So I think it's nice to keep utilizing those palettes going forward — but with the Burroughs quote, I wanted to make some palettes that are weird and dayglow-y. I have a lot of different color ideas I really like, and you're going to see more of that variety in the future.
+
+When I made the sketchbook account, I wanted to create an avenue that felt a little freer — maybe you'll see my usual palettes at the start of a project, maybe you won't, maybe you'll see things you don't recognize as mine. With that account, I've decided I'm not going to care whether things "go together" or connect to each other. Artists can create limitations for themselves based on reactions to their work — when people tell you over and over, "I love this palette," you might feel a subconscious need to keep including it because people like it. You want to make people happy, you want to keep that resonance going. But you don't want to end up second-guessing your choices based on what you think people liked in the past.
+
+Trinity: So it sounds like the sketchbook account might be the way to get to the most authentic you.
+
+Lisa Orth: Maybe. There are so many versions of all of us — it's a question of what you choose to present to the world on a given day. Maybe that's the version of me that cares a little less about what the viewer thinks. One thing about getting older: I'm starting to value caring less and less what other people think about my choices. I want to embrace that more, but it's always difficult.
+
+Trinity: I love that. It makes me wonder what will end up being the criteria that separates your "regular" account from the sketchbook.
+
+Lisa Orth: With the main account, I think you'll find concepts I've spent more time really figuring out — a leap forward in what I'm doing, connected to my aesthetic in the past, but also showing something a little different, a bigger leap, something that feels more important to me.
+
+The sketchbook thing I want to keep as low editions — maybe continuing Dutch auctions where the ending price is super affordable. I respect artists who charge $200 for their work, and that's great, but I also want something where you can pick up an edition for 5 or 3 tez. I think that's important, especially as an artist's work gets more in demand — wouldn't it be nice to always have something you can offer people? I'm not going to announce exact drop times, and I won't do reserve lists. If you sign up for the email list, I'll let you know 10 minutes before it drops if you need to check your email. Otherwise, I just want to get back to a vibe where I take a concept, tweak a couple of parameters in a slightly new direction, and if something weird happens, I share it with you under that sketchbook account.
+
+Will: For someone who may hold an edition of *Physical Culture 1*, the first project you put out on the sketchbook — you mentioned some TBD utility for the first 10 minters. Suppose one of the hosts has one of those, without any promises, of course — are there any ideas floating around for what that utility might be?
+
+Lisa Orth: For sure. Something that'll probably happen is that for future releases, you'll automatically get airdropped one that matches your number from the first 10. I want people who got in on that Dutch auction when it was high to feel like they got something special, and that they'll continue to get something special — because that told me, "I'm in this." So: airdrops of future releases, special projects even outside of fx(hash) that you automatically get. I was thinking about making physical prints and sending them to people. I just want to reward the people who are basically saying, "I love your work and I believe in you." I'm not promising anybody anything, but I want to give things to the people who took that stance.
+
+Will: That's exciting, and it makes a lot of sense. I think Trinity was sleeping when this dropped — your tweet about it was pretty cryptic, something like "in the next window, in the next cycle, it will be dropping." I happened to tab over right as it opened, watched our friend Danielle get one, and went in myself — got number five. It's exciting to see you experimenting like this, and it's a theme we've seen elsewhere on the show too: other artists doing things like, if you mint at the top tier, you get a signed print, or a reserve list — not always promised, but sometimes. Ippsketch did something similar with their *Sketch A*, *B*, and *C* series.
+
+It's interesting to see artists bringing some of the positive aspects of utility associated with the Ethereum PFP side over here — finding ways to reward collectors, but not in a way that's extractive or pushes people toward flipping and generating volume. You can buy it, or not; you can get it at a lower price. That's up to you.
+
+Lisa Orth: That embraces an idea I like — that between artists on the platform, within the whole Tezos ecosystem, and with collectors, there's a feeling of trust between those two sides. I specifically didn't say what the utility was going to be — just that there would be one, no promises. But if I put something like that out there, you can pretty much guarantee I'm going to deliver a lot more than if I'd promised something specific. I like the idea of people just trusting the artist as a person, establishing relationships with people whether you meet them or not, just through your actions and always delivering. I think the space already has that built in — I feel it from people who collect my work, or people I've never met but chat with on Twitter. It feels really positive and good to me, and this felt like another way to foster that.
+
+Trinity: It's all about how we bring our real-world ethics and values into these digital communities. You can get away with so much more when you're never going to see the people involved, never face to face, no accountability. I love that you're bringing that here and experimenting with it — it's something we've seen you do a lot, trying different things that feel right to you. It's part ethics, but it also comes across as a kind of savviness on your end. I think you were one of the first people we saw use the burn mechanic — posting a thousand of something, people can do whatever they want for three hours, and then they get burned.
+
+You just seem to be on the cutting edge of "what can we do, let's try it." Even the way you used the allowlist for the Burroughs quote — very matter-of-fact: this is what we're doing, this is how we're doing it, it's going to be fair, do not ask me for reserve lists on Twitter.
+
+Lisa Orth: What you're saying makes a lot of sense to me. In my life, I've always done art. I had one job as a waitress for two weeks that was disastrous, but otherwise I've never done anything except art and graphic design, and in most cases I've run my own businesses. I'm also an overthinker of everything, and something that's been really important to me across all the different careers I've had is finding a way to treat the people I'm working with really well — doing things the way I'd want them done to me. There's rarely a time in my life where I'm going to do something I consider important without having tried to find the best way to do it, or a way that makes sense to me, or a way that gets a better outcome for the people I'm working with. It's a wild world out there in terms of what you can and can't do. There are no rules I can find about how you have to run your drops or allowlists. I just want to do stuff that would seem fair to me, or that I'd want done to me. That's how I try to approach everything.
+
+Trinity: Do you think more artists should be doing this? Or is it more important for you to do it for yourself?
+
+Lisa Orth: What you put out into any situation, you end up getting back. It's important to me how I navigate the artistic worlds I'm inhabiting, but whatever anybody else does is their thing — I'd never want to say, "Hey, you should do it this way." I really enjoy seeing how other people handle things, though. I don't talk about it much, but I'll notice what different artists I follow or collect are doing. I'll make mental notes — like, okay, this person is dropping four projects a day on OBJKT, so how's that affecting the secondary sales of their last piece on fx(hash)? Or someone says anybody who drops their wallet address on Twitter will automatically be on the allowlist, and I think, okay, you're going to end up with 700 people on that list — how's that going to pan out? What's your mint price going to be? Are you doing a Dutch auction? Are you building an allowlist of 700 people with a mint price of $100? I sift through it and watch what happens when other people try things.
+
+Trinity: I think that latter piece is the logical business owner in you coming out — like, what is this actually going to get you?
+
+Will: We talk about this so much on the show. It seems like a lot of artists announce first and think about what they announced second. That open-allowlist example — we've seen it so many times, an artist says, "Send me your wallet address," and ten minutes later they're like, whoa, way more people replied than I planned to have editions for. Now people who replied in good faith probably aren't getting a spot. It just takes an extra level of consideration — if I do this, what are the possible outcomes? It's funny, because when you're making code-based art, you'd think you'd already have a brain wired for "if this, then that" thinking. But we see it backfire spectacularly on a weekly basis in this space.
+
+Trinity: They only got to the "if this" part — they haven't figured out the "then that."
+
+Lisa Orth: Any decision I make artistically, or share in public, I've thought through — I've done the whole "what are the five chess moves that come after this?" Even something as simple as "sign up on a Google Form" — I already know I'll have to export those responses, put them into an email program, and so on. I've thought about how much extra work that's going to be. I think people get so excited about an idea that they just put it out there, and then think, oh shit, now I have to deal with the repercussions.
+
+Will: I don't think it's malicious. More often than not it's just a bummer — because sometimes people do things that really warp the perception of their release, and by putting yourself in that position you're inviting criticism. You're inviting people to analyze the price of your work versus what the work itself is. But that's the reality of releasing work as an NFT — it's financialized, tied to a baked-in marketplace, whether that's fx(hash) or whatever platform. We often say we don't envy artists at all, because there's so much to think about and plan for. It's a minefield of optics.
+
+Lisa Orth: If you're an artist working on the blockchain, you already know that what you put out is there permanently for everyone to see. Maybe take that extra step and tell yourself that anything you write on Twitter should be just as permanent. Anything you tell the world you're going to do — treat that as permanent too, and follow through.
+
+Trinity: Is this the tattoo artist in you speaking?
+
+Lisa Orth: Oh my God, yes — this is absolutely the tattoo artist speaking. It's all permanent. Our word is all we have, so if you say you're going to do something, you have to follow through with it.
+
+Will: This is such a pseudo-philosophical "guys talking podcast" question, but I think it really applies to you: what's the secret to success? Throughout your many careers — and not even just careers, but hobbies, community building, everything you've been part of — you always seem to find success, or end up being a cornerstone of it. Watching the documentary, I kept wondering: have you failed at things? Did that just end up on the cutting room floor? It feels like you're just good at doing things authentically and succeeding. Can you distill that at all? I know it's a tough question.
+
+Lisa Orth: There are things I'm really bad at — I can't cut hair, I can't work in clay, I'm a terrible beader. But I think what brings me success is that I don't try to do things I'm not really, really passionate about, and I say no to things I have no interest in. The people closest to me — my girlfriend, my sister — would be the first to admit I'm a very selfish person. But I'm selfish in the sense that I know what will make me happy and what won't, and I don't invest my time and energy into things I don't love. Being passionate about what you're about to undertake is extremely important.
+
+I also think not being afraid to try something new is key — my personality loves that. When you learn something new, you have to look at what's been done before to figure out how to do what you want to do. But once you've reached that point, it's very important to find your own authentic voice. It's fine to look at people doing great work and try to copy it to learn how — but once you know how, stop doing what everyone else is doing. If you're not contributing something authentic, there's no way you can give back anything of value with your art. That's so important for every artist to keep in mind: be yourself, even if you think no one else will like who you are or what you put out there. What you put out is your reputation — how you act, how thoughtful you are about what you share — and ultimately you have to feel good about what you've done and what you've brought into the world. That's what I'd share about that.
+
+Trinity: We get to the best content an hour in, apparently. That really resonates with a lot of the current rhetoric people are finally coming around to — the importance of boundaries, of knowing who you are, of not being a merciless people-pleaser, and really living by your own values while trusting that others will respect that. Is that something you've had to work hard at, or is it innate to who you are?
+
+Lisa Orth: I feel like I'm an innately self-sufficient person — a self-centered person, honestly. But being self-centered in this way means the people around me know that what they're getting from me is genuine and truthful. I'd rather say outright, "I'm going to do what I want to do," without a lot of compromise, and I think people who want to be in your life ultimately reciprocate that.
+
+With this journey into NFTs and generative art, I had so much learning to do starting out, and I knew it, and I was eager to do everything all at once. Now, for the first time in this journey — short as it's been, only a couple years — I've started saying no to things I'd otherwise consider important, once I realize I don't actually get excited thinking about them. That's a big step for me: this project might be really cool, it might be great, but right now I want to take time and only do things for me — things where I don't have to meet anyone else's deadline or expectation. Maybe it's because I'm older, and the older I get, the more I realize how valuable my time is. Artistically, I have to focus on bringing joy into the creation and having less stress about meeting others' expectations. That's really hard to balance in the whole crypto/NFT world — it's such a struggle — but putting what makes you happy first is a good way to start finding that balance.
+
+Trinity: My follow-up is that you need to write a book — or a Twitter thread — on "how to quit your desk job in three easy steps."
+
+Lisa Orth: I can tell you how to do that. If you want to make any change at all, take the situation you're thinking about leaving — a job, a relationship, a place you're living, doesn't matter — sit for a moment and imagine doing that very same thing for the rest of your life. Imagine just staying with it forever. If that thought fills you with depression and desperation, that's all the motivation you need. Just imagine your life doing the same thing over and over again. That's how I've made a lot of career changes — by following the path that makes me most excited.
+
+Will: I see a tear coming to Trinity's eye.
+
+Trinity: There is hope.
+
+Will: Well, Lisa, this has been amazing. Thank you so much for coming on the show and sharing so much of yourself with the community. It's been a pleasure to listen to everything. Before we go, I'd love for you to get off some plugs — get us excited about what's coming up. We know the sketchbook series, maybe some more stuff on the primary account. Will there be more apparel coming? You dropped a t-shirt recently.
+
+Lisa Orth: I'm really excited about those t-shirts. Generative art looks so cool, and you see it everywhere even when it isn't generative art — you're like, "Oh, look at the tiles on that building, do-do-do, generative art." People had a great response to the pre-sale, and they're being printed right now — I ordered a dozen extra in different sizes. I love making merch, and I do a lot of that with my tattooing career, so it's super fun for me. I'll definitely be making more generative apparel.
+
+I've also been working on some larger pen-and-ink pieces on really nice handmade paper, generative work from algorithms I've made up for myself while sketching. If I ever stop putting out work in a variety of mediums, something's happened to me. So expect a lot more from my main account on OBJKT. I do have an email list if anyone wants advance notice on drops — it's at lisaorth.xyz/email. If anyone cares to know what I'm up to in advance, I'll give them the information.
+
+Trinity: One last follow-up question I've been meaning to ask: is there an intersection between plotter art and plotting on skin for tattoos?
+
+Lisa Orth: I got so excited about that handmade generative work — the bigger pen-and-ink pieces, the t-shirts — that my sister, who's always up for getting tattooed whenever I have an idea, agreed to get the first generative tattoo. We're building a grid where we'll figure out the number of lines, the number of grids, and the size generatively, using a little random-number generator I put together on my phone. I'll be doing the actual tattooing, but we'll hit the random number generator each time to determine the design. She's making me wait a week because she wants to go swimming first, but it's happening soon.
+
+I'd love to do more of this. I'm so passionate about generative art, and I still love tattooing so much — I want those two worlds to really shake hands and see what happens.
+
+Will: That's dangerous — if you ever come to New York for the two of us, let me tell you. Neither of us has gotten a tattoo, but the idea of getting a Lisa Orth tattoo is extremely intriguing.
+
+Trinity: A generative tattoo.
+
+Will: Especially a generative one — that would be wild.
+
+Lisa Orth: New York is one of the places I've done guest spots before, so that's definitely not out of the question.
+
+Will: Well, you've got our DMs.
+
+Lisa Orth: Oh, I love it. So good.
+
+Will: Thank you so much, Lisa. This has been a dream of ours since the earliest days of the show — to have on an artist we've been following for the longest time on the platform and truly enjoy. Like many of the things you pursue in your life, I hope coming on this show has made you happy.
+
+Lisa Orth: It definitely has. It feels very special to have been asked — that's really nice. I've had a lovely time chatting with the both of you. Thank you so much.
+
+Will: That was Lisa Orth. Check her out on fx(hash), and check all the links in the show notes to find her documentary, her website, and where to get her merch and see all her drops. That's it for this one. Later everyone. Bye.
+
+Lisa Orth: Woo-hoo!

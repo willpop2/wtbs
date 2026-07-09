@@ -1,0 +1,225 @@
+Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today for the third time on the program by Ciphrd, the founder of fx(hash). It's great to have you back. How's it going, everyone?
+
+Ciphrd: Great. Thank you, Will, Trinity. Thanks for having me. It's always a pleasure.
+
+Trinity: Every time you come on, we learn new things about the platform and everything that's coming up. Very excited to see what you have to share today.
+
+Will: It's been about six months, maybe more, since we last had you on. There's been a lot of new features pushed on fx(hash), and I know you have some news to share with us as well. But before we jump into that, in case anyone hasn't listened to those other interviews, maybe you can give everyone a brief reminder of the origin of fx(hash) and your vision behind it.
+
+Ciphrd: Sure. fx(hash) is a generative art platform built on the Tezos blockchain that's fully open—anyone can publish a project, anyone can participate in the ecosystem. The idea itself isn't unique; it was inspired by Art Blocks and other platforms following similar principles. But I wanted an open ecosystem, which didn't really exist in the generative art landscape before. I wanted a similar experience to platforms I'd used before in a more Web2 context, like Shadertoy, and to create something similar for posting my own work. It got a bit out of hand very quickly, but now I'm very happy to be building this super IDE.
+
+Will: We're still excited about it. Every week we find projects we're excited to talk about and happy to mint, and we share them with everyone on the show. You've created so many new tools in the last eighteen months. What features that have come out recently have you personally been most excited about, and most looking forward to seeing develop further?
+
+Ciphrd: I don't know if the last time I came on the show I talked about fx(params) at all.
+
+Will: You did. You surprised us with it, actually—it wasn't in the pre-interview notes.
+
+Ciphrd: Oh, true, true. Well, we released it, and I wasn't 100% happy with how it came out. It's a genuinely complex feature to implement and deploy at this scale. The UI wasn't ideal for collectors, some stuff was a bit too complex, and the API accessible to artists was too constrained, giving them little control over what they could do with the tool. I still think it was great—it opened the door to new kinds of projects. But we listened to the community a lot and tried to iterate to make it more artist-friendly.
+
+I don't know if you've seen Alejandro's project *Pensado a la Mano*, which basically hacked params. The idea was that you'd draw a shape on a canvas, then copy data back into params on the minting interface, and mint your piece from there. It was a hack—the piece itself was the interface to mint, but you had to manually input and manipulate certain data to finally mint what you had in mind. Looking at that project got us thinking, and Alejandro made an actual request: give artists the ability to control params from within their code—how params are defined and manipulated.
+
+That's going to open up a new wave of projects, which we tried to highlight with the hackathon we announced last week. The goal is to invite artists to leverage what we describe as code-driven params—the ability to build custom minting interfaces with full control over how params are defined. I think it'll open up a new range of generative art projects we haven't seen so far. Until now we've only seen projects that turn some data into a fixed output; we haven't had projects where you can build a truly custom experience with collectors at mint time and have it translated into a token with particular data. I'm very excited to see how it plays out, and we should hopefully see some projects in the upcoming weeks leveraging this new paradigm.
+
+We also released Redeemables a few days ago, with Joanie Lemercier's project. I'm very excited about this too—we tried to build it as a modular framework for connecting digital items with real-life events and objects. So far we've seen a few artists use it to build phygitals, but it could become something that powers wider generative algorithm ecosystems.
+
+Trinity: We were really excited to talk about Redeemables last week. It's completely unique compared to anything else we've seen in the generative art space—apologies for the baby in the background—but it was great to see that come out, and we're looking forward to seeing how artists leverage it going forward.
+
+Will: We'd heard whispers that there might be fx(hash) merch coming through Redeemables. Is that something you can talk about? Any progress there?
+
+Ciphrd: The initial idea was to release an fx(hash) token with Redeemables, as the first Redeemables project. But we were so busy building the feature itself and handling other things that it stalled. When Joanie and some other artists reached out wanting this kind of system for their own projects, we decided to use that as the opportunity to release the feature, since the merch project had been on standby for months. It may still come down the line—everything's almost ready, truth be told—but I don't want to make any promises.
+
+Trinity: We'll hold you to that next week, then?
+
+Ciphrd: Just for you, next week, for sure.
+
+Trinity: I love it. Are there other features you'd like to discuss, or should we talk about the future vision for the platform? We've seen a ton of tools come out for artists recently, and more tools for collectors too. Is the original vision of an open platform for artists still in place, or is there a shift?
+
+Ciphrd: There are a few things planned, but so far we've released the basis of the tools we wanted and tried to iterate on them. Redeemables is the only true addition we've made to the platform in the last six months after params. In the meantime we've refined and improved what already existed, and we've been busy hiring new people. Previously, we were great at pushing new features and finding what artists might leverage creatively, but we struggled to polish those features afterward and make sure they were released properly. Part of that was being understaffed—three developers, no one managing the product. It was always difficult to balance ongoing platform development, bug fixes, and shipping the basic features needed to keep the platform alive.
+
+We did our best given the vision, but we had to accommodate not having a proper product manager or people dedicated full-time to UI/UX. Last time I was on, I mentioned this issue and said we wanted to focus on improving the existing product rather than shipping new features. That's still an ongoing process internally, and we'll keep working on it over the next six months. We've been thinking a lot about improving the UI and UX. I personally love the current aesthetic—it's very close to what I like in terms of UI—but I know some people find it off-putting at first. We want to smooth out the UI while keeping the brand identity, to help onboard users unfamiliar with our ecosystem, since we've met people who had that first impression problem with our interface. So the goal is to improve the overall quality of the platform without changing the features much.
+
+On that note—by the time this airs it'll already be announced, so you may already know—we also want to expand to other blockchains. Our next integration will be Ethereum. The idea is for fx(hash) to be a chain-agnostic tool: any blockchain that brings advantages for some artists, we want to have in our ecosystem. We've had a lot of feedback from artists who wanted to release on Ethereum but didn't have a platform that suited their needs or matched the quality of tooling we offer. So we're expanding our offering to support Ethereum. I don't want to put a date on it, but call it six months or so. We want to make sure we have the same quality and feature set on Ethereum that we have on Tezos, and eventually other blockchains too, if they answer the needs of our community. That's the medium-term roadmap. There's a lot planned longer-term as well, but that would take another thirty minutes to go through—we'll share more soon, though it's still in the specification stage.
+
+Will: That's huge news, obviously.
+
+Trinity: Bombshell.
+
+Will: I wasn't sure we'd get to that today. I want to pin the Ethereum news for a second, though, because a lot of what you've talked about—expanding to other chains, hiring more people, continuing to polish and change the site's UI—costs money. And it's no secret we've been in a bear market for all of 2023, and retroactively a good chunk of 2022 too. Tezos is way down in value, prices are down across the board, and I'd have to assume fees aren't what they used to be either. So how are we affording all of this? I know there's an announcement associated here too—I guess I'm teeing it up.
+
+Ciphrd: Sure, happy to build on that. We've had pretty limited costs in terms of people working on the project and infrastructure—most of last year it cost between $40,000 and $60,000 a month. Platform fees were either compensating for that or generating more, which let us build up a treasury so that in bad times we could still afford to pay the team and cover services. So on that front, we were fine. As for the announcement—maybe I can introduce it this way: about eight months ago, something like that—
+
+Trinity: Yeah.
+
+Ciphrd: It was a long time ago, about eight months ago. We sat down and tried to think about it: okay, we have this sustainable product with a small team, and we like it this way, but should we think about what we could be improving? What kind of other markets could we be reaching? What kind of new features? How big can fx(hash) grow, and do we want to grow it bigger? We had a lot of discussions with the team, and we talked with the community too — lots of talk in #price-discussion and other channels. We ended up with the statement that generative art is the art movement of our era, and that we're only at the beginning of what generative algorithms can unlock, both for human creativity and for utility.
+
+With that in mind, we tried to explore what was actually going to be unlocked, and we realized there was a big opportunity to build more tooling — to create a bigger generative protocol that could fit the needs of the generative space in the years to come. So we were at an inflection point. We could have continued to iterate on the product as we had before, but it always felt like a knife under the throat, knowing that if the market went down for six months, we'd be in real trouble because we relied on it so heavily. Tezos was great for experimenting, but we didn't get rich from it — we didn't have millions in the treasury to ensure three years of development.
+
+We weren't stressed at the time, because we still had plenty of treasury left and could keep running operations for months without any income. But in the spirit of wanting to grow the team — we had a lot of ideas we wanted to iterate on — we thought maybe it was time to find people who could help us both financially and in growing the company, because we're all new to this. We're pretty young, and we don't have much experience growing a team or a business, or making sure we don't take the wrong turns at the important moments. That's why we ended up deciding to raise money.
+
+Trinity: That is absolutely huge news, and something that's been talked about on and off in the community for a long time, but to hear it confirmed is outstanding. When you talk about a six-month down market putting things in trouble — well, obviously we're in more than a six-month lull right now. I don't know if it's fully "down," but it does feel risky, and a lot of people have been moving away from crypto into other endeavors. In such a challenging market, how has fx(hash) been able to stand out and actually achieve this funding? I'd love to hear that story.
+
+Ciphrd: We didn't go into the funding process in the middle of the bear market thinking, "we need money to keep the business running, let's pull a few things from the roadmap." We came with a pretty solid plan, one we refined along the way, but we came in without needing the money to survive — because we could have survived without it. We were really looking for meaningful partners. It wasn't just a game of getting people to like our project; it was about finding investors who genuinely shared the vision and could help us achieve what we wanted.
+
+It wasn't easy to find those people. A lot of people who invested in generative art during the last bull run did so because it was hyped, without really understanding the long-term vision of what generative algorithms can become for society in maybe ten years. That was always a useful filter for us — a fairly easy way to tell who really understood and shared our vision, and who we wanted on board. This is a long-term partnership we're building, not just an injection of money. The money is important for growth, but we also wanted the ability to unlock things through networking, advisory, and experienced people who share our long-term vision.
+
+Will: Can you speak to who those partners are? I ask because I think it was in our very first interview that we talked about the prospect of funding, and at the time you were pretty adamant that you didn't want to take funding and be beholden to other people. Obviously, here we are almost two years later, a lot has changed, the platform has grown a lot, and you want to build out a team. How did you go about finding the right people — ones who'd support the vision without creating roadblocks or pressuring you into things you don't want to do with the platform? And who are they?
+
+Ciphrd: Sure. Before getting to that, I want to address being reluctant about funding two years ago and being open to it now. A lot of things changed, but I think it also comes from the fact that for more than a year and a half, the whole team was overworked maintaining the community, maintaining the tools, and shipping features for artists on the platform. We loved it, so it was fine — but it also got really, really tiring.
+
+When we sat down to look at the future and realized how much more there was left to build, we knew we needed to grow the team. For what we have in mind, we need maybe five or six developers, plus people to support that team in a more sustainable way. I didn't want to keep building everything with the small team we had in that unsustainable way — and honestly, if any of us had gotten sick, we wouldn't have been able to ship the product at all.
+
+With that in mind, and after about a year of experience running a company and a community, my resistance to funding changed — not the vision, but the resistance — because I realized what funding could unlock. It was under the condition that we'd meet meaningful partners. If at any point I'd felt that the people who wanted to invest didn't share the vision, I would have walked away from the relationship. We talked to a few people we didn't feel we could have a great relationship with, given what we have in mind. But eventually we found some very interesting funds and collaborators.
+
+Our lead investor is 1kx, and as soon as we talked, there was a good energy. We were looking for people who understood that we didn't want guidelines imposed on what we do — we wanted to keep building freely in some aspects while maintaining a clear vision. 1kx was very open to that. They shared the principle of letting the company grow by itself while giving advice from time to time, with a long-term vision that makes sense.
+
+We met Peter from 1kx, who's been amazing — he has a deep vision about generative manufacturing and what it can unlock long-term for humans. Very few investors in this space have that interest in generative algorithms applied to basically anything; it's still very niche. Most investors understand generative art but don't look much further. That's why we clicked so well with Peter and the rest of 1kx — they see generative art as only a step, one that's going to become more and more exciting for various reasons.
+
+We also met Fabric, who follow a similar ideology to 1kx, which is why we wanted them on board too. There are a lot of names I'm sure we'll have the opportunity to share later, but to give an idea of who we brought into the round: we looked for creative technologists — people interested in what the technology can unlock, but in creative ways — to build an advisory group that could help us create the tools we have in mind for the future.
+
+Trinity: Wow. So not just funding from one group of people, but lots of interested parties. That's amazing.
+
+Ciphrd: I don't know if there's a "right" way to get funding, but this felt like the right way for us. It wasn't really a question — this is how we wanted to do it. I don't think we're the first to raise this way, but it felt right for us.
+
+Trinity: You've talked about wanting these funds to grow the team and move faster and more responsively. Are there specific milestones or goals tied to the investment, either ones you've set yourselves or ones your new partners expect you to hit?
+
+Ciphrd: We were very careful about not taking on partners who'd impose milestones on us. At the same time, we understand we're an early-stage company — we have a product that artists and people use, but we don't have a strict, fixed direction for where we're taking it. That's part of why we picked 1kx to lead: they understood that there was an opening here, but that getting there would involve trial and error. We needed people who were like-minded and could help us get where we want to go.
+
+Internally, we do have a few milestones. The first, for me personally, is finally building a team so I'm not the one doing all the dev work and getting overworked. We need smart contract engineers who can take on implementation across various blockchains while continuing to build on Tezos, plus other engineers to help us handle everything we have planned. That's the first milestone — a more distributed team with the capacity to take on more.
+
+After that, the next milestones are what I touched on earlier: getting the product into a state that's easier to interact with, and integrating Ethereum. Long-term, we're planning to build a fully featured generative protocol — I'll keep some of the details secret for now, but in six to ten months we'll start talking about it publicly and gathering community feedback. That's what excites me most: once we've achieved this open, modular protocol, it unlocks so many use cases that it's hard to even enumerate them all. It's also a good sign that we're onto something that can genuinely help the generative ecosystem, giving other builders the freedom to build on top of us.
+
+Will: The generative ecosystem has grown a lot this year despite the bear market, particularly on Ethereum. As fx(hash) heads toward Ethereum too, I imagine you're aware of the other platforms that have launched — 256, Alba, Ciphrd... not Ciphrd, sorry — Eclipse, and soon another one called Prohibition, which looks like it'll also use Art Blocks contracts and has some big Ethereum players behind it. How do you think about integrating into this broader ecosystem and, for lack of a better word, having to compete? On Tezos, it's really just fx(hash) — a few other platforms have launched, but they've mostly competed with OBJKT rather than doing long-form generative art the way fx(hash) has enabled. So what's the plan for inserting the platform into this wider ecosystem, making a statement, and continuing to lead in long-form generative art?
+
+Ciphrd: I think we'll keep following what we've been doing: shipping features that unlock creativity for artists. Sometimes these features won't be liked because, like params, they change what long-form generative art is a little bit. It's not the same with params, but it's about giving artists more options.
+
+I was very excited to see these Ethereum platforms emerging, mainly because it's a good way for us to understand what the Ethereum community expects from tools like ours. We already had some sense of that, but having actual fx(hash)-like platforms launch on ETH helps us understand what we'll need to provide on that blockchain.
+
+That said, I was a bit disappointed to see the same pattern — basically the Art Blocks formula — replicated on every generative art platform. Very few people are experimenting outside the box of an on-chain seed randomized as input to a token. We've seen this pattern replicated on pretty much every platform that's launched. On Tezos, we've actually seen more creativity on that front, from the platform by p1xelfool —
+
+Will: Alba.art.
+
+Ciphrd: Alba.art, yes, apologies, I forgot the name. It has a similar concept to params, more simplified, but it's new — leveraging emergent properties, trying to leverage A.I., which I find very interesting, exploring different ideas. That's what we tried with params, what we tried with redeemables, and what we'll try with other ideas going forward — always adding these as optional, modular features for artists.
+
+I think if we keep improving, listening to artist feedback about the tools they need, and incorporating those tools elegantly — optional, modular, with as little constraint as possible — we should be fine releasing on ETH in its current state. We don't have any plan to destroy the competition or anything like that. We're just answering our artists' requests — a lot of them wanted the ability to release on fx(hash) on ETH. We're just answering that, a few months later than we'd have liked.
+
+Trinity: And obviously launching on ETH means you'll capture higher platform fees, at least in real dollar terms. How do you feel about the future of this large group of open generative art platforms? Do you think there will be a consolidation? Will fx(hash) just stand out by being the most innovative? Will some of them close rapidly? Any thoughts on where the space is headed?
+
+Ciphrd: I can't really speak for the other platforms, truth be told. I know we have a few things planned outside of generative art per se — I've talked a bit about generative algorithms applied to other fields, mainly fashion, but other industries too. We've seen it with the collaboration — was it Tribute Labs? The *Chromie Squiggle* sweatshirt. I always forget the names, but that project applying generativity to sweatshirts is an interesting use case beyond art itself, and I think it's super interesting.
+
+The way we want to build the protocol is for it to be fully open and accessible, easy to build on top of for other companies or builders who want custom experiences leveraging generativity in novel ways. We want to help them achieve their ideas. So I don't really know how the competitive landscape will evolve — I'm not that interested in it, honestly. I'm more interested in the novel use cases we'll see emerge.
+
+Will: On that same theme, from a different angle — something we've covered a lot recently is these different platforms and where they're succeeding or not, and why. One thing we've landed on is that on ETH, the expectations for the artwork seem much higher. Take Alba: everything they're releasing right now is a curated set of drops for their launch, not an open platform yet. The art is really good — a lot of them are fx(hash) artists, unsurprisingly. But it doesn't feel like there's been a demonstrated appetite on the Ethereum side for an open playground the way there is on Tezos.
+
+You'd imagine there are artists out there who've been waiting for exactly that — a way to release on ETH without going through the Art Blocks application process or another curated platform. But it just doesn't seem to be happening without the marketing, the buildup, a hyped artist name attached. I'm curious for your take, because we see the contrast on fx(hash): anyone can release, it's basically free since Tezos is so cheap to transact on.
+
+If you release a project and it doesn't work out, you're not really punished for it financially. The ones that do hit, hit, and they build an organic following. But even artists with a following who try moving to ETH aren't finding that same success. Having run your own platform for so long, how do you think about that difference between the two chains? Is there a real difference, and what do you think is going on?
+
+Ciphrd: First of all, we've never actually seen an open gen art platform on ETH before, so it's hard to predict how the chain itself will react — it's never existed. I'm curious to see how it plays out once Alba opens up.
+
+But you raised an important point: the cost of access on Ethereum is very, very high — to the point of being unhealthy. It's hard to participate as an artist because you have to pay so much. That said, it also unlocks possibilities: access to a more established collector base, and more mature marketplace tooling, just because the ecosystem itself is more developed. Tezos and Ethereum serve different purposes.
+
+I think it's important for an open protocol to give artists as much potential as possible. Right now, we've seen lots of amazing artists publish on fx(hash) and grow quite big. But eventually, as a logical next step in their careers, they want to earn more from a project or reach a wider audience — which Ethereum can enable. We've seen plenty of artists who published on fx(hash) move to ETH releasing through curated collections. And I'm sure there are also artists who haven't had huge success or made crazy money on fx(hash), but have built a name for themselves, who could still benefit from reaching a new collector base on Ethereum.
+
+It's hard to speak to this in the middle of a bear market like the one we're in — maybe it's not the bottom yet, but if it's not, we're pretty damn close, because volume is lower than it's ever been and things are slow. My guess is it'll slowly pick back up. Some people call it "the enlightenment slop" — basically people finding a more sustainable pace, rewarding projects that are more meaningful and built to leave a mark. As we move into that, having the ability to launch on a more established blockchain will unlock options for artists — but it won't be for everyone, because it's a lot of risk. If you don't have an existing collector base, releasing on ETH is difficult. If it's a miss, you may have spent a couple thousand dollars just to release the project and have nothing happen — that's substantial.
+
+So I think both chains matter: one for building a name for yourself, and we can also be the playground for more experienced artists who want to reach a wider collector base while staying within the ecosystem where they grew.
+
+Trinity: There's also been continued conversation around the value of on-chain versus off-chain art. Is that something you're looking to explore?
+
+Ciphrd: Yes, very much. It's already implemented in the Tezos smart contract — just not on the UI yet, but we'll push that in the upcoming months, before we release the Ethereum integration on Tezos. When we release the ETH integration, on-chain storage will be an option there as well.
+
+This is another example of where having a bigger team matters. We have open editions, on-chain code, a new marketplace contract with more features already developed on the smart-contract side — but we're lacking the resources to ship it on the API and frontend. So on-chain code is definitely on the roadmap, and it's half-implemented already, let's put it that way.
+
+Will: I can't remember if we talked about this in our first episode with you, but when you released fx(hash), you made the decision not to go fully on-chain and to use IPFS for hosting instead. Interestingly, every one of these Ethereum platforms that's launched leans heavily into on-chain storage — that ecosystem feels very maximalist in that way, even if the ETH developer community itself might not want people storing such large amounts of data on-chain that way. There could be potential vulnerabilities there that I'm starting to hear about. It's interesting that you're moving Tezos toward on-chain, and I assume it'll be an option when you expand to ETH. But what do you feel about it personally, and why bring it to Tezos? What do you think artists stand to gain, or what do you think that move signifies?
+
+Ciphrd: First, we have to understand that even in a maximalist view, being on-chain makes the code permanent, but it doesn't guarantee we'll be able to run that code in 10,000 years. We'd still need CPUs and interpreters capable of executing it, or at least whatever computing environments are available in the future. So even on-chain code isn't guaranteed to be executable in a hundred years. Let's put that aside, though.
+
+Being on-chain also comes with real constraints, which is why I didn't want to release on-chain code at first. Lots of artists write code with thousands of lines. Look at Zancan's project, *Garden, Monoliths* — I don't know the exact count, but it's something like ten files with at least a thousand lines each. Getting all of that on-chain is a lot, both for artists and for the chain to maintain. If we have an open ecosystem with 27,000 published projects and all of them are on-chain, that's a huge amount of data to store, and it's not very practical for artists.
+
+And that's just talking about code. Projects that leverage images and video and iterate over them with code basically can't go fully on-chain — well, they can, but it would cost thousands of ETH, maybe thousands of Tezos, to store megabytes of data. So on-chain unlocks something valuable, but at a real cost.
+
+Early on I was opinionated about this myself, but the platform and the open ecosystem we stand for shouldn't be opinionated about what it provides to artists. It should give them the option to decide whether they want their work on-chain — if that fits their vision, great, that should be available. And if they don't care and want full creative freedom with IPFS, that's fine too. My view hasn't really changed since the beginning; I just think it's finally the right time to release on-chain code. But supporting both on-chain and IPFS at the infrastructure level adds a lot of development work — they're different, there are edge cases, extra work to make everything function. That's part of why we've been pushing this down the road.
+
+Trinity: There's a lot of talk about modularity — on-chain versus IPFS, redeemables, params projects, and so on, especially as new features roll out. Having all of this available in a clean UI is paramount, but it adds real complexity from an artist's perspective. Do you have plans to simplify the process, to guide artists toward the right choice for them? We're a long way from November 2021, when it was just "implement fxRand and you're good to go."
+
+Ciphrd: I'm 100% with you there — I get lost in the UI myself sometimes, not to mention the codebase we maintain to support all these modules. The team and I have some ideas we'd like to implement. Some people don't care about all the features and just want the basic fxRand approach — there should be a way for them to go through four steps in project setup instead of the eleven we have now to cover every case.
+
+In the same spirit of refining the UI/UX that I mentioned earlier, we want modularity in the interface itself, so newcomers get a simpler experience. We don't want someone new to see "fx, redeemables, iteration numbers, code-driven parameters" and think it's a mess. We want them to feel it's easy to get into this ecosystem while still being able to unlock much more creative potential later. But that requires a lot of resources, which is why we've pushed it back and why the UI is as complex as it is right now — it's the most we could implement with the time we had. Smoothing all of this out will be our work over the coming months and years.
+
+Will: Can you imagine fx(hash) ever publishing basic guidelines for artists — how to put their work out and optimize for success? I know there's no curation on fx(hash), no forcing anyone to do things a certain way. But there must be real learnings from the last eighteen months. When artists reach out to us for advice, there are things we tell them to help structure their drops. Is there a future where fx(hash) publishes a broad list of best practices — nobody bound to follow them, but useful for someone releasing for the first time who doesn't know the community and falls into pitfalls? Things like Dutch auctions with too many reserves that bottom out without selling, or params projects with fifty different levers where you can accidentally create a duplicate and collectors just give up. Is that something we could see?
+
+Ciphrd: There are two levers here, two colliding aspects of the platform that have been there since the beginning: the artistic side and the financial side. On the technical side, we do want to put guidelines in place — if an issue arises from artists using features improperly, we should guide them better and put measures in place so it doesn't happen again.
+
+But when it comes to artists being new to the market and making mistakes we all made in the beginning, it's harder to put guidelines there, because that starts tapping into artistic freedom. As an open platform, we shouldn't be the ones dictating how artists express themselves. The one place on the site where we do give advice is around reserves — we suggest keeping some slots open so the whole edition doesn't close off entirely to reserve lists. That's been in place since we released the feature. There's also a pricing guide, because at some point we saw real gas wars — projects priced at 5 Tezos where people would pay 50 Tezos in gas just to get a spot. We put that guide in place so newcomers understand what can happen in the market, and so collectors don't get shut out on primary because a piece was mispriced. Pricing is genuinely tricky, so we try to just give people a few questions to ask themselves rather than hard rules.
+
+That's the path we try to follow — don't give so much advice that it restrains artistic creativity. It's a fine line. Maybe at some point we'll find it's best to help more with certain things for the overall well-being of the community, but you can easily fall into a pitfall: advice you give people about how to release their work can become the norm, and maybe it wasn't the right way to do it — maybe you end up shaping the ecosystem in a way it shouldn't have been shaped. So it's a line we navigate constantly, but we try to stay as unopinionated as possible.
+
+Trinity: That's made harder by the fact that the ecosystem keeps changing — what's "correct" one month can be completely different the next, so it's hard to nail down a single best practice. I understand the reluctance to codify guidance. fx(hash) has really been the cornerstone of market activity on Tezos overall. Any concerns about how moving to Ethereum, with much more traffic there, might affect Tezos financially?
+
+Ciphrd: We've thought about this a lot. If anything, having pieces on Tezos and Ethereum side by side will highlight the pros and cons of each blockchain. We've been in touch with plenty of Ethereum collectors — I can't give you an exact number — who don't want to collect on Tezos but vaguely recognize the quality of the work, without really understanding the technology or features Tezos provides. Bringing more collectors on board through Ethereum support means they'll see Tezos pieces right next to the Ethereum pieces they're used to collecting, and maybe realize: wait, this is faster, this is easier, and for the price of one piece on Ethereum I can collect twenty on Tezos.
+
+Our goal is to raise the tide for the whole community. The quality of work on our platform is equal to, if not better than, what you see on Ethereum, partly because more creativity is possible here. At some point there should be a reflection not just about price but about the esteem and prestige that artists who've succeeded on Tezos deserve more widely. So we're not scared about this — on the contrary, we're excited. I'm very confident that integrating Ethereum will be positive for Tezos pieces. I understand the opposite argument, I just don't believe it. We'll see, but I have a good feeling about it.
+
+Will: I'd actually forgotten that we already have Ethereum payments as an option on fx(hash), alongside credit card. So it's already fairly simple to put Tezos work next to Ethereum work and mix and match currencies and payment methods, as long as the collector makes a Tezos wallet and connects it.
+
+Ciphrd: Exactly. We got good feedback from the Ethereum payment integration. We already had it in mind that we'd integrate Ethereum more fully, but that was also a way to test the waters before going further. Ideally, whether you're an ETH collector or a Tezos collector, you should be able to buy on any chain the same way. I don't see how bringing in more Ethereum collectors and letting them collect on Tezos alongside what they already collect on ETH could damage Tezos pieces — I think it'll be the opposite.
+
+Trinity: Everybody buy your RGBs and Contrapuntos now — is that the tip right there?
+
+Will: Yeah, while you still can.
+
+Ciphrd: Maybe on the homepage we'll only feature Tezos pieces. Who knows?
+
+Trinity: Sure, let's do it. Thanks for answering that so well — it can go either way when it comes to Tezos's future, but it sounds like a wait-and-see approach with an active roadmap. Will, anything else you want to get into, or should we start wrapping up?
+
+Will: Let's wrap up, but a couple more things. You mentioned earlier, Ciphrd, that the market contract is ready to go but not yet implemented — it just needs that additional developer push to get out. Are we finally going to see things like rebates on auctions, Dutch auctions, and a lot of the features we've seen on other platforms come to fx(hash)?
+
+Ciphrd: Yes.
+
+Will: I feel like we've seen in the bear market especially the value of those methods of selling art really work to help bring prices up in some cases, or to encourage minting out, which has been an issue for a lot of artists in the last six months.
+
+Ciphrd: Totally agree. The Dutch auction format we have right now isn't optimized for that, especially in a bear market. It just doesn't work.
+
+Will: Related to the downturn we've had, and the funding, and the future — this is kind of an awkward question, but an important one. You're getting this influx of funding, you're going to bring more people on, grow, move into Ethereum. There's probably an 18-month or longer plan we're going to learn about slowly over the rest of the year. But what's the vision for the *next* bear market? We're getting through this one, we're getting the funding, fees will hopefully come back, you'll build a treasury. But it seems inevitable in crypto that things turn down again — we've never had a permanent up moment in the history of it. So how do you build the platform out to prevent a similar situation? Is it about marketing and getting more people interested in generative art in general? Is it about strategizing and saving money to get through the inevitable bad times? Or does it mean another round of funding in three or four years?
+
+Ciphrd: I'd say it comes first and foremost from unlocking new use cases and getting new people on board — and I think those two things go hand in hand. That's why I've been talking a lot about applying generative algorithms to other fields, because I think that's how we get other people interested in this.
+
+The way I see the future, maybe you have a platform built on top of us where people can move a few sliders and change how their items or their furniture is designed — maybe even their clothes. On the website, they can co-create with an artist and the engineers who designed the algorithm, design the product of their dreams, and get it shipped to their house in a few weeks. That's one of the use cases we have in mind long term, maybe one of the biggest. It provides value outside of digital art and speculation, where — when the blockchain is tanking — it's hard to maintain value because everyone gets scared. Investors get worried, collectors have more trouble investing.
+
+But if there are side businesses built on top of us, leveraging our tooling to unlock use cases in the real world, then when the next bear market comes — in crypto or in the real world — we'd have the ability to generate revenue from utility streams, which can help support the artistic side, which is the core of the platform and what we want to keep building. We're trying to diversify in the right way: keep iterating on our tools for artists, but also make sure we can support them more sustainably and create better experiences for them.
+
+One of the reasons we wanted to raise money is that we've put on a lot of live shows, and every time, we've had to partner with people because we didn't have the money, or take big cuts just to make it work — and that cut into the quality of the presentations for the artist. That's not what we want. We want to build state-of-the-art digital experiences where code is leveraged in novel ways, not necessarily through our tools specifically, but that's what we do now, and it requires money too. So the long-term goal is to have various revenue streams to support the artistic community in the best possible way.
+
+Will: I love it, I'm excited for that. Trinity, any quick questions that come to mind to help us wrap the episode?
+
+Trinity: You've already given us a wealth of information — so many things to unpack as we move into the next six to ten months. Is there anything left to be said, honestly? Anything you'd want to say to someone who's lost engagement during the bear market — ways they might get re-interested, opportunities to get re-engaged and excited about moving forward, that you haven't already put on the table?
+
+Ciphrd: I already touched on this — the code-driven params, the hackathon we ran around artists having custom minting interfaces. I'm so excited about it, because we've never seen anything like it anywhere, at least not in the blockchain space. I'm still waiting for one of these projects to pop up in the feed, but I'm pretty sure a few of them will leave a mark — people saying, "okay, this was really a new way of creating." It can get collectors and community members excited about exploring this new wave of projects. It's unlocking maybe 25% of what can be done with generative art that wasn't accessible before. That's a big chunk, and I'm genuinely excited about it. I wish I had time to build a project with it myself.
+
+Will: Maybe you will, once you get some of these new developers on board.
+
+Ciphrd: Yeah, man, I'll have time in a few years.
+
+Will: Everyone would love a new Ciphrd release. It feels like it's been a very long time now — almost a year, right?
+
+Ciphrd: More. A year and four months, I think.
+
+Trinity: Wow.
+
+Ciphrd: I think I've created for maybe three days total in this past year and a half. It's exhausting sometimes.
+
+Will: That feels like a good place to end the episode, if you're good with it, Ciphrd — on a note of optimism and things to look forward to. It's going to be exciting covering this params hackathon over the next few weeks too.
+
+Ciphrd: Yeah, let's see. Hopefully some amazing projects come out of it.
+
+Will: Really looking forward to everything you've outlined for us today — for me particularly, some of the market stuff, I'd love to see more of those features come out. But the ETH move, the on-chain stuff — there's so much to look forward to, and I think we need that excitement right now. Really looking forward to getting this episode out to everybody.
+
+Ciphrd: Thanks a lot for inviting me — it was a tough episode, we covered a lot of stuff.
+
+Will: But it's good. I think this transparency is really appreciated by the community — to know what's going on, and to hear it from you directly. I know your time is valuable, so we really appreciate it.
+
+Ciphrd: Thank you guys for the support and for doing what you're doing. I know it's been hard for us to support you beyond giving some time once in a while, but we want to build up more financial power to help support ecosystems like yours too — we'll get on that soon. Thanks for all the effort you've been putting in. It's been great having your support.
+
+Will: We still love fx(hash). All right, that's it for this one. That was Ciphrd, our first three-time interview guest, and I'm sure a future four-time guest — maybe by the end of the year, who knows. Always a pleasure to have you on, to talk more about fx(hash), where we are, where we're going, and to get your candid thoughts on the ecosystem in general. Hope y'all enjoyed this episode. We'll be back soon with another one. Later, everyone.
+
+Ciphrd: Bye.

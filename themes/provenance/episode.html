@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}{{ ep.display_title }} · Waiting To Be Signed{% endblock %}
+{% block content %}
+<div class="ep-wrap">
+  <div class="ep-head">
+    <a class="back" href="index.html#ledger">← The Ledger</a>
+    <div class="ep-num">#{{ ep.num }} · Signed ✓</div>
+    <h1>{{ ep.display_title }}</h1>
+    <div class="ep-sub">
+      {% if ep.guest %}<span>{{ ep.guest }}</span><span>·</span>{% endif %}
+      <span>{{ ep.role }}</span>
+      {% if ep.platform %}<span>·</span><span class="plat">{{ ep.platform }}</span>{% endif %}
+      <span>·</span><span>{{ ep.date_str }}</span>
+      {% if ep.duration %}<span>·</span><span>{{ ep.duration }}</span>{% endif %}
+    </div>
+  </div>
+
+  <div class="player">
+    <audio controls preload="none" src="{{ ep.audio_src }}"></audio>
+    <div class="player-row">
+      <span class="hint">Listen, or read the transcript below.</span>
+      <a class="download" href="{{ ep.audio_src }}" download>↓ Download MP3</a>
+    </div>
+  </div>
+
+  {% if ep.summary %}<p class="summary">{{ ep.summary }}</p>{% endif %}
+
+  <p class="suggest-hint">Spot an error? Highlight the words or lines you want to fix — an “edit” button appears, and the panel opens with your selection ready to edit.</p>
+  <div class="transcript">
+    {{ ep.transcript_html }}
+  </div>
+
+  <section class="changelog">
+    <h3>Change log{% if ep.edit_count %} · {{ ep.edit_count }} edit{{ 's' if ep.edit_count != 1 }}{% endif %}</h3>
+    <ul>
+      {% for c in ep.changelog %}
+      <li><span class="cl-date">{{ c.date or '—' }}</span><span class="cl-sum">{{ c.summary }}{% if c.credit %} <span class="cl-credit">— {{ c.credit }}</span>{% endif %}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  window.WTBS = {
+    episode: {{ ep.slug|tojson }},
+    title: {{ ep.display_title|tojson }},
+    endpoint: {{ suggest_endpoint|tojson }}
+  };
+</script>
+<script src="suggest.js"></script>
+{% endblock %}

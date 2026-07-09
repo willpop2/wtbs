@@ -1,0 +1,311 @@
+Will: Hello and welcome, everyone, to another episode of Waiting to Be Signed — a very special interview episode, one that's been a long time in the making, and one we're super excited about. We're always excited about our interviews, but longtime listeners will probably see this one on the feed and go, "Wow, finally they got him." That's right, it's Landlines interview time. Trinity's here, of course. How's it going, everyone?
+
+Landlines Art: Good, good. Glad to be here finally. I was apprehended and forcibly removed from my home. It was a very intense process.
+
+Trinity: You were apprehended.
+
+Will: Well, wherever you are, you're safe — I can guarantee that. We're super excited to have Landlines on the show, an artist we've talked about a lot and someone who isn't very public-facing aside from the art you share on social media. So we're really thankful you've chosen us to break the silence. Huge deal for us. I guess the best place to start would be: who is Landlines? How'd you become an artist, and what was your journey into crypto, Tezos, and NFTs?
+
+Landlines Art: Sure. Maybe a good place to start is where the name comes from, because it's kind of unusual. A lot of people think of landline phones, but that's actually not where it came from — it wasn't even my intention. It was my wife's idea. The first thing I ever worked on, which I'll never show pictures of because it's embarrassing, had to do with land and geography — topological maps, that kind of thing. I was doing stuff with lines and land data, and we put those two together, and that's where the name came from. It has almost nothing to do with what I'm doing now, I guess — although I am still using lines. Kind of a weird origin story, but it has a special place in my heart now. Same with the incidental development of my profile picture, the little yellow blob — it just came about one day when I was playing around, and I haven't changed it since. Now it feels like an extension of me.
+
+In terms of how I came to crypto — it was through Plotter Twitter, seeing other people talking about Tezos. I thought it might be a good idea; there was a very low barrier to entry, so why not see how things go? To my surprise, things took off relatively quickly — right time, right place, I guess. I started in April of 2021, and by October I'd released a project called *Art Cards*. That got a lot of traction, was a ton of work, and taught me so many unexpected things — not just about the art, but about managing a project, interfacing with people, solving problems, and having a lot of positive interactions along the way. It was great.
+
+I started out doing a lot of 3D stuff in Blender — all generative. Once fx(hash) came out, I figured I had to really learn JavaScript. Since then I've focused on what I can do with the toolset available through the common libraries on fx(hash). At first that was frustrating, because I was used to the luxury of letting things render for 30 minutes or an hour, and you just can't do that on fx(hash) — things need to run quick. In the early days the time limit was even shorter, if I recall. It was a big transition, but one I'm really happy I made, because imposing restrictions on yourself like that leads to interesting, unexpected results — which has kind of been the theme of my whole crypto adventure.
+
+I also want to give a huge shout-out to the 3,698 people who've collected my work over the last year. It's completely incredible — I'm so thankful you all collect my work and support me having fun with this artistic exploration. It's amazing.
+
+Trinity: I think it's great from our perspective too, and major kudos to you for putting yourself out there — not just coming onto the show, but putting the work out there in the first place. You were one of the first artists on fx(hash) — *Acromat* was project number 61. Everything you've put out has been spectacular, and we've loved talking about it and watching people collect it. We were chatting a bit before this and learned that you're into coding first and foremost, and the creative expression through code emerged a little later. Can you talk about that crossover into self-expression?
+
+Landlines Art: These two themes have been interwoven throughout my whole life. I did an undergrad in music composition — a creative domain — and then figured if I wanted a steadier job, I should do a science degree. So I'm just finishing up a PhD in AI and computer science. And now, in the last year, I've turned back to the creative side and I'm able to produce all this art. Things have come full circle.
+
+There's always been this dichotomy for me: I really like art for art's sake, and I really like writing code and thinking analytically and solving problems. Generative art is one of those perfect areas where you can put both together and have them work with each other — that's exciting because I appreciate both things. It's like using both sides of the brain — it challenges both and forces a kind of dialogue between them. Very satisfying.
+
+I still always think code first — how can I solve this problem? — and I understand the limitations that puts on what I can accomplish creatively. But then the other side pulls back and says, "What if I could challenge you to figure out how to do this?" So there's a back and forth. To me it seems obvious that you need both skills to be successful. If you don't have a visual sense or vocabulary, or an idea of what you want to communicate, you could be the best coder in the world and still not produce interesting generative art. And you also need to be a fairly strong coder to accomplish certain things — even if you don't know much code, you can still make cool generative art, but you'll have more limitations. The more coding ability you have, the more flexibility and the more things you can try to produce.
+
+Will: So it's a very left-brained take on art — one of the things we talked about in an interview with Zancan and Jeres. Jeres was the one who coined that term, "left-brained art," and I think it's fitting for this genre. Not just you, but a lot of artists we've talked to describe coding coming first, with creativity following — not necessarily something they knew they wanted to do or could do. Some people just have innate taste, a knack for it.
+
+And tying that together with problem-solving ability — we've both tried to learn some p5, and it's one thing to conceptualize a problem, to say, "I just need to measure the distance between these three points, find the midpoint, draw another thing, do this and that." You can have a very good order of operations in your head, but actually executing it through the keyboard is a whole other thing. You can map out the math but still need to really know what you're doing to get the computer to do it for you.
+
+Landlines Art: And there are so many ways of accomplishing the same thing. Part of what you learn from a computer science background is thinking about how efficient a particular approach is, and whether there's a way to make it even more efficient — cut corners, that kind of thing. That makes a big difference for the types of things I want to do. If I want to draw thousands of things on screen, I need to be at least somewhat efficient. Not that I claim to be the king of efficiency — I know some of my pieces take a while to load — but if they were done poorly, it could take a really, really long time.
+
+Trinity: I just assume that if anybody puts out something that crashes my browser, that *is* the art — a statement about how far behind we are societally and how we need to be more present and less online. That's a free idea, you can take that.
+
+Will: Isn't that kind of what Ciphrd was going for with *iframes* — a project designed to eventually stop working in browsers, intentionally?
+
+Landlines Art: That's an interesting thing to think about, because that's the one thing we don't really have control over. Browsers keep upgrading, but our code stays static, stored on IPFS. What does that look like ten years from now? I'm interested to see. You'd think most things would be fairly robust, but what if we end up having to use older browsers to view certain things, because browsers have moved on in ways no longer compatible with how we previously wrote code?
+
+Will: Those are the things we don't like to think about in the NFT space. It's hard enough to get people to acknowledge this stuff is real and not a scam — and then to say, "Okay, it's not a scam, but also in fifty years it may not work, who knows?"
+
+Trinity: So the PNG file format is forever. We hope.
+
+Landlines Art: I don't foresee big problems, because a lot of the stuff that's done is pretty basic. Some projects may have difficulties in the future, but I think artists can address that — I'd be happy to patch code, change something, or instruct people on how to make things work. But it's out of my control, really — out of all of our control. So we can only hope for the best. I wouldn't be too worried about it, though.
+
+Trinity: Not to shift topics entirely, but you mentioned your history of creating NFT art cards and then moving into fully generative work on fx(hash). I know you have a couple of different profiles on OBJKT, and I see very different styles depending on the platform. The *Destruct* series, for example, is so different from what you've released on fx(hash). What's your process like—speaking of the technology—for creating the work, and how does it differ across the curated side versus the one-of-one side versus the "balls to the wall, 8,400 editions" fx(hash) side?
+
+Landlines Art: I'd break it into two categories. One side is stuff where I'm using Blender to render things, which is what I used for the *Destruct* project and lots of things I've done in the past. That whole creation pipeline is quite different—I'm usually coding in Python, and I can automate different actions in Blender using Python. So I can automate the whole process, from a single Python script, going from the shapes or colors being used all the way to a final render.
+
+With *Destruct*, I wanted to put that code on-chain the same way fx(hash) does. I stored it on IPFS and put the IPFS link in a custom smart contract. The contract itself isn't complicated—it just sits there and stores a pointer, even simpler than an FA2 contract. But if you're not familiar with smart contracts, it might seem a little alienating.
+
+So one side is this Python stack, and the other is the fx(hash) stuff, which relies primarily on JavaScript. I don't really have libraries or dependencies in common between those two workflows—different tools for the JavaScript stuff, different tools for the Python stuff. The whole process is different, and my understanding of what's possible with each is completely different, so it results in very different artwork, which I think is interesting.
+
+About six months ago I put out a poll on Twitter to get a sense of what people liked, and—maybe just because there's more of a community around fx(hash)—it seemed like more people liked the 2D stuff versus the 3D stuff I was producing with Blender. And now, with the amount of time I've spent on the fx(hash) stack, I'm able to produce much more interesting things, in my opinion, than I would with Blender—I'd have to spend a lot more time building up the tools and thinking of new ways in. I have a nice codebase now in JavaScript and I've solved a lot of the problems I continually run into, which makes it a lot quicker to get somewhere, to get traction, to try a new idea out even if the idea is horrible. At least I can do that quickly, and that's an important part of my process: get something quickly so I can see it, then figure out if it's good or bad, whether I want to refine it or throw it out completely.
+
+In the past I've perhaps focused too much on trying to plan everything out beforehand, and then I'm either sorely disappointed or happily surprised once the code is finally written and producing something. So an important thing for me is being able to quickly prototype and filter the good ideas from the bad ones—especially since some of the approaches I use involve a lot of small manipulations or lots of shapes, things you can't necessarily readily imagine. I try to imagine it before I create it, but it always comes out a little differently. Having a way to rapidly prototype helps guide the process.
+
+Trinity: When you're talking about this constant prototyping, throwing things out, experimenting across different levels of complexity—are there any projects that come to mind that you could share a story about?
+
+Landlines Art: In terms of being really complex, or—
+
+Will: The surprise of arriving at a final piece you liked and published—a happy-accident type of thing.
+
+Landlines Art: It's hard to pin down, because happy accidents happen literally every day. That's part of my process—the more I code, the more I prototype, the more times I'll make a mistake, and sometimes those mistakes end up being really interesting. So I can't necessarily think of one particular moment, probably because they happen so often, and each one just changes what I'm aware the algorithm can accomplish or generate. A lot of that comes from just spending time playing with parameters—you go one order of magnitude outside of what you were thinking when you designed the algorithm, and suddenly you're in a different space entirely, like, whoa, what could I do to enhance that?
+
+With *Sedimentary Dissolution*, one of the special things about that project was it was one of the first times I successfully used a shader. I'd experimented with them before but never produced anything interesting. That project starts out with a 2D grid-like shape—I use recursion, with the same seed at several points in the recursion so you get internal repetition. Then the shader runs processes on top of that to distort it in different ways.
+
+This was almost a year ago now, back in December or January. I recall playing many times with different ways of transforming and manipulating that input image, that grid—which already looked good by itself, in my opinion—but playing with the shader parameters produced such varying results. You can do such dramatic things; you can see that in the project, where you can turn things on and off. Several times, changing half a line of code made a huge difference in the visual appearance, which was very exciting because it was something new I hadn't been able to use successfully before, and it ended up producing a lot of interesting things. A lot of it didn't make it into the final project—different ways of manipulating that image within the shader—I had to pare it down, but I remember a lot of fun experimentation there. It sticks out to me as perhaps the most drastic example. In other projects, the happy surprises are a little more subtle—they still define the project in some way and inform how I move forward, but they're not as dramatic. That's my best shot at a story.
+
+Will: I think almost every artist where this subject has come up says the same thing—it's a collaborative process with the computer, discoveries along the way through prototyping. Seems to be a common theme with fx(hash) artists in particular, so it makes sense that it happens every day and it's hard to pinpoint just one.
+
+Landlines Art: Actually, I have another one. It just came to mind—working on *Negative Space*. I don't remember what the parameter or feature is called that produces this, but it has these curvy lines in the background and then straight lines with polygons creating shapes. That was totally a glitch when I produced it. I was hoping to make just little squiggly curves, but the way I coded it, it suddenly filled half of it in—straight jagged lines on one side, curvy things on the other. Just a few changes, and suddenly I thought, whoa, this is a whole other style. That kind of became something that almost defined the project. Zero anticipation of it happening, but it's the same idea—it surprises you sometimes.
+
+Will: One of the things we talk about a lot when discussing your work is the colors. We often reference you, alongside someone like Lisa Orth, as an artist who really owns a look on the platform. Your work isn't necessarily defined only by color, but there's always something about what you produce that's instantly identifiable as Landlines. Can you talk about the origin of that color palette? It dates back to the earliest days of your fx(hash) work—I didn't go back and check the final outputs from *Art Cards*, but I know it goes back that far—and then the evolution of it, since we've definitely seen new palettes introduced and iterated on.
+
+Landlines Art: One of the main inspirations at the start was definitely *Fidenza* and Tyler Hobbs—that shows in the color selections of *Art Cards*. I admired the color palettes he employed in a lot of his work, so I can't take any credit for those colors whatsoever. Over time I've built off that palette. It's always the case that I see something someone else has created, or see something in real life, and those color combinations appear stunning or interesting to me in some way, and then I try to incorporate them.
+
+I look at color-palette-generator sites—I find those really helpful as a starting point. And at some point I developed my own tool to quickly swap extra colors in and out, a kind of color-palette builder. I could combine a few palettes I liked, weed out the colors I didn't, and produce something that was a subset of a few palettes mixed together. I found that a really productive way to create color palettes.
+
+I've long been interested in a purely generative approach to color palettes versus hand selection, which is really what this is—I sit there, play with the tool I've built, combine different things, and figure it out. I think a purely generative approach is a pretty big challenge, and something I'd like to continue looking at in future work, because I think it'd be quite rewarding. But it's difficult to avoid some hand-picked selection.
+
+I also think the geometry, the structure, the appearance of my work really lends itself to letting the palette come through. In some styles or projects, the palette is less apparent than the structure, the shapes, the strokes—it doesn't come through in the same way. Whereas in a lot of my projects you can see polygons in some form, and those polygons usually have a fill, a color, so the palette comes through clearly in a way you might not get with different styles. I think that's part of why my work gives that feeling—I like to use color that way, irrespective of what the palette is.
+
+Trinity: Looking at the generative art specifically, the project that stands out to me as your first really big departure from those traditional color palettes—and it speaks to how you fill things, the different gradients, particulates, particles—is *Textiles*. From a color perspective it's such a huge departure from your previous work, and not just in that one way, but across many. It's so textured compared to what you were saying before, more of— —flat 2D shapes on top of each other.
+
+Landlines Art: It was definitely a big change. The whole project was based on this one shader experiment where I wanted to recreate a textile — that texture, that feel. I don't even remember how I achieved it; it was some really strange method. But I'm really pleased with the result, and I always appreciate the depth you can get from layering. If you look at textiles and strip off that texture, you're back to flat polygons with a particular color. But you put the texturing on, and then there's another layer that does shadows or something, and suddenly it creates a completely different feel. In a lot of ways, I think in this layered way — I approach one layer at a time. *Textiles* is a great example of putting several layers together to achieve an interesting composite effect.
+
+Will: That's maybe the only one that's not instantly identifiable as one of yours. If I remember correctly, was this the one where you did reserves based on how many pieces someone held in their wallet — weighted reserves?
+
+Landlines Art: Did I? I honestly don't know. I'd have to check.
+
+Trinity: I think it's this one.
+
+Will: You had to connect to a website that read your wallet and gave you a certain number of lottery entries. It must not have been fully reserved out, because I doubt you'd have done a Dutch auction if all the pieces had been reserved.
+
+Landlines Art: I don't think that's true, but I'd have to look. I think it was just a surprise, if I recall.
+
+Trinity: Maybe it was *Influence* that had that.
+
+Landlines Art: I don't know.
+
+Trinity: It was one of those two projects.
+
+Will: I think it was *Textiles*.
+
+Trinity: I remember it being a very different project. I mostly just remember Will being very—
+
+Will: I was salty! I had like 20 projects, I thought, "I'm probably going to get a reserve, this is sick" — and then I didn't get one.
+
+Landlines Art: Oh, yes, I recall now. I don't remember the exact process I used. Honestly, that's one of my least favorite parts about being an artist — distributing the work. No matter how I construct the formula to determine who's in or out, there's always going to be a bias, an implicit advantage to some group. I try to make it as fair as possible, but clearly in Will's case, it wasn't fair enough.
+
+I take that very seriously. It was a big concern when I released the *Art Cards* project — things were getting snapped up really quickly, there were issues with bots, and I had to figure out how to fix that. I spent a lot of time implementing allowlists and had to write a smart contract within a day to accommodate them, to make sure people who really wanted the *Art Cards* could get them rather than people just sniping them with bots. I take it seriously because, when it comes down to it, I want the people who get the art to be the ones who are genuinely looking for it and appreciate it. It's a stressful thing, because it's almost always a no-win situation, no matter how hard you try — someone will always be a little disappointed.
+
+Trinity: Maybe that was the solution with *Anno*, your fx(hash) anniversary project — just release like 8,800 of them. Nobody's going to be mad about it, except me, for rolling the 90% for missing thirty-something times.
+
+Will: Yeah, but you fixed it, so we're good.
+
+Landlines Art: That was exactly one of the motivations for that decision. I thought, one tez, 365 editions — that's going to go very quickly. You can do one of two things: release it without telling anyone, which just introduces a bias toward whatever time zone you happen to release it in, or announce beforehand, and then people start planning and conspiring, and it becomes equally hard to get one of the 365 editions.
+
+So I thought, I've always wanted to do a really big project — maybe this is the opportunity. If we're looking at days, why not switch it to hours in a year? That's how I came up with the number. There was no way someone who wanted one wouldn't be able to get one, and everyone could get several different ones. The secondary motivation was just to see what the algorithm could produce — those one-in-8,000 possibilities you don't see very often. It was exciting to see those come out and see people post them. So those were the two motivations: make sure no one is unhappy and everyone can get something, and see what happens when you go well beyond the usual 500 or 250 or maybe 1,000 editions. Though it does cause problems too — like crashing fx(hash) and things like that.
+
+Trinity: But that's their problem, not yours.
+
+Will: When we spoke before this interview, you mentioned you think about the market a lot, and you're showing some of that here. What are some things you've tried that you think didn't work well? *Anno* is a weird case — it's an anniversary piece, a callback to *Achromat* and some of the work you did with *Sedimentary Dissolution*. Is this the kind of thing you might do more of going forward, but with a different execution? Say, a 10,000-piece project at a flat 40 tez to mint, then burning it after a certain time — are these things you're considering? We talk about this so much on the show: the struggle for artists isn't just making good art. You can get 99% of the way there, and if you mess up the release, the whole project can be derailed.
+
+Landlines Art: That's a loaded question — there's so much I could say, so I hope I touch on everything. Am I thinking about different, unique release strategies? Yes. I'm always thinking about what can push the envelope in terms of dialogue between the collector and me as an artist, or just fun, creative ways of doing things.
+
+I know, though I haven't acted on it, that reserve lists can be allocated entirely to a smart contract, letting that contract impose whatever rules it likes. For instance — just off the top of my head — say we create one project with 10,000 pieces, and another with a reserve list controlled by a smart contract where you'd need to burn ten pieces from the first project to mint one of the second. That's not necessarily something I'm going to do, but it's the type of mechanism I think about. There's so much that could be done. If anyone listening has an idea, or thinks something would be really cool, feel free to contact me — I'm always interested to hear what people think, because sometimes what I find interesting might not land, but I'm definitely interested in exploring these different release styles and mechanisms.
+
+I'm also really excited about fx(params), for the reason that I did the *Art Cards* project. The idea there, if you're not familiar, is you collect a set of cards, and each card corresponds to an algorithm — a manipulation of incoming shapes that produces something else once applied. You can stack those on top of each other and get a preview of what happens, then mint your artwork by combining the cards. That's very similar to what you could accomplish with fx(params). It's exciting because sometimes people have great ideas I wouldn't think of myself, and they could be realized through the algorithm I created. That was one of the exciting things about *Art Cards* to me — giving people that power can lead to something really cool. That's something I'm definitely interested in pursuing further.
+
+Back to your question about the marketplace — I think a lot about what the right edition size is. That, to me, comes before price; the edition size determines so much. I've done a bit of research, looked at one metric of marketplace success: the ratio of secondary sales to primary sales. Did a project do twice its primary volume in secondary, or three times, ten times, a hundred times? If you calculate that across projects, you can see what edition sizes are most effective at achieving a good ratio — the higher the better, for collectors especially. I think everyone really likes a collection that has a strong secondary market. I plotted those out, and it looks like it starts at 200, ends at about 600 — that's your gold range. If you go too far above that, the ratio starts falling, and too far below, it starts falling too, which kind of makes sense intuitively if you were to guess it. But it was interesting to see it in actual numbers, and that informs what I do. I like to be within that range.
+
+In addition to that, there's accessibility — I want people to get it. That's how I often end up around the $500 mark: it's the sweet spot according to my own quantitative analysis of fx(hash) projects, but also, as you increase editions, you increase accessibility. That's usually how I arrive at those numbers.
+
+It's been a learning process. I've released projects as small as 25 editions, which was interesting because those have very low liquidity — few people are selling, and it's pretty hard to get one. The strange thing is, after doing that 25-edition project, I felt within a few weeks like I could never release another 25-edition piece again — it would compete with what that project was. So that's pushed me away from doing too much low-edition work, because the low edition count was part of what made those early projects special.
+
+The reality is it's a multifaceted decision. You have to weigh reserves too — do you reserve half of it, do you not? That was explored with the final iteration, which was completely reserved for iteration holders, so it was interesting to see how that played out. And then, of course, there's the macro environment and the economy, which impacts people's appetite for spending on NFTs. You have to think about all of this if you want to make a living from it, because it's not just about the money made — it's also about the satisfaction of the people collecting my work. It's rare that everything lines up and points clearly to one decision; you have to reconcile all these things.
+
+Once I can wrap my head around how many editions to put out, the price usually follows pretty easily. But editions is always the big choice, because it also shapes the scope of the algorithm, the rarity, all of that. Figuring that out early rather than late really matters — the artistic side of a 50-edition project is very different from a 500-edition project, and very different again from an 8,000-edition one. It's a challenge, maybe not my favorite aspect of doing this, but it is how things are. It's an interesting challenge, and I hope people who collect my work understand I'm trying my best to reconcile all of it.
+
+Trinity: We could have a whole separate segment on the *Extracurricular Activities* iteration series. For me, the interesting thing is finding the balance between primary success — seeing the most go to you, since royalties mean secondary is good but nets you significantly less — and the fact that you've seen a ton of success on primary. As someone who's tried to mint your work, it's usually gone in five or six blocks, two to three minutes. How does it feel, personally, professionally, financially, to be someone who sees that sort of success?
+
+Will: Perpetually flipped.
+
+Trinity: And perpetually flipped, which is a whole other thing altogether.
+
+Landlines Art: It's a very strange feeling — honestly stressful, and I don't want to sound ungrateful. To each of my over 3,600 collectors, I'm very thankful, because what I get to do is amazing. But there's a flip side to projects that go like this. Think about someone with an ordinary job — they're paid hourly. I can work on a project for weeks and then get paid on a three-minute basis. I'm being compensated for all those hours of work, but all the pressure — did I do that work for nothing? — comes down to those three minutes. It's very strange.
+
+It's a mix of the terror of hitting the mint button, never knowing exactly what's going to happen, and then the amazement of realizing this many people wanted to collect something I created. You're whiplashing between those two feelings within two and a half or three minutes. It's quite something.
+
+It's also been a big learning curve with the volatility of crypto, and taxes, and the way you sell some of that crypto to pay for taxes — that wasn't front of mind when I started, and I don't think it's been front of mind for a lot of other people either. That's made things tricky and surprising in some ways.
+
+I didn't fully realize what taxes I'd be liable for. I try to do things the honest way — I'm not trying to hide my activity from the government. So, like I said, I'm extremely grateful, but I'd be lying if I said it isn't a very overwhelming experience. I don't think people are meant to make that kind of money in such a short period of time — the psychology of it isn't natural, even though it is compensation for a long period of work. The reality is there was no compensation coming in until the moment that project minted, and then all of a sudden it all came in at once. It's very weird.
+
+Will: I have a statement and a question. Statement first: I'm excited about what you're going to do with fx(params). Looking at your work, especially from *Sedimentary Dissolution* forward, I think a lot of these projects probably could have gone higher in edition count. From your answers, it sounds like you're very conscious of finding product-market fit with what you release, which makes sense — it's kind of a necessary evil of releasing art this way. I'm optimistic, as someone who loves when projects shoot for 1,000 or 2,000 editions and really let the algorithm flex, that fx(params) will upend that paradigm a bit and move that window of "what's optimal" outward. So take that as encouragement to experiment a little when that feature finally releases next year — step on the gas and be ambitious with it.
+
+Now the question, which might seem unrelated but I think actually is: what's your postmortem on the *Extracurricular Activities* iteration series and how it all played out — the collect-'em-all aspect, the work itself? Did you start with one piece that had a lot of different options behind it and couldn't settle on one, which is why you did the iterations? Do you consider each a sketch, with the final one released as the true project? The only thing we've been able to compare it to is the Ippsketch sketch series, which has a similar mechanism for collecting and occasionally getting reserves or airdrops. So where does it sit in your mind — what was the idea, and how do you think it worked out?
+
+Landlines Art: The idea was for it to be more of a sketch — that's how it started. The algorithm itself, if you explain it in words, is quite straightforward, but I found it produced very interesting results depending on recursion depth and things like that. I was happy with it, and it came together quickly.
+
+To preface: it's something I think about constantly — I create a lot of things I just don't end up releasing. I'll post them on Twitter, people say "oh, that looks great," and then I'll try something else. There's a lot I still like to look at that never becomes a project. Part of the motivation here was to release more of that, for a particular theme, rather than having to pick just one favorite. If you think of the whole four-iteration arc as a single project, that's what it let me do.
+
+The first one came together quickly, and I didn't have exceedingly high expectations for it. Then, maybe because of how it was priced, or just the moment, it really took off — and I felt a lot of pressure to make the following three iterations really, really good. That pressure is always there, but at that point I didn't even know there would be four. I expected the later ones to be a little more sketch-like — the first one feels sketch-like to me, even if it doesn't look that way to people, just in terms of how it was implemented and what the algorithm supports.
+
+Once I saw the reception, my ideas evolved — I decided to push harder and create a lot more diversity than I'd planned. Originally I imagined a more linear, clear path from the first iteration to the last. There are obviously similarities across all of them, but I expected the diversity across the whole four-iteration project to be smaller than it ended up being. Given the response to the first one, I opened the project up more and tried to be more experimental, to accomplish more than I'd originally planned.
+
+It started out as something simpler in my mind and quickly became a lot more. I'd thought I would carry elements from iteration one more directly into iteration two, but that didn't really happen — aside from some color palettes and high-level ideas, the code itself was almost completely different for each iteration. It ended up being more of a thematic iteration than a code iteration, even though a code iteration was the original intention.
+
+That's how it always is, and it's why this is a fun kind of work to do — things turn into other things. I owe that partly to the community too. I hear what people say about my work, I see the feedback, and I take it into account. In a way, I can't take full credit for how some of these things turn out — it's a complex system involving a community of people. I obviously have a big role in the art I create, but it's not just me; it's this whole ecosystem that informs what I'm doing.
+
+It's fun that we have a Discord where artists and collectors can chat so readily — my impression is that doesn't exist as much in other spaces, like on Ethereum. I try to keep a short loop between collectors and me, so that communication can move fast and a lot of information can pass through. That matters to me because I don't think I'm the smartest person — I think a lot of people have interesting ideas. There have definitely been times when someone suggested something, or just the way they picked up on a particular aspect, that made me rethink what I was doing and realize maybe I'd underestimated that, or should lean more into it.
+
+Trinity: Is that in response to a work in progress, or something in response to a project that's already been released?
+
+Landlines Art: I think both. With a project, you don't typically have that kind of feedback loop. Only in the iteration series did I really have it, where if someone had feedback on a release, I could think about incorporating it in iteration 2 or 3. Whereas with standalone projects, it's harder to do that. It's just interesting to see what people pick up on, what they like.
+
+Trinity: Not to keep harping on the iteration series, but it's fascinating how it started as one idea — the code iterations — and evolved into more thematic iterations. When it began, everybody was wondering how many there would be. After iteration 1 came out, we were speculating on the show: could be 3, could be 5, could go on for dozens. Do you think you'll do another series like that again? Would you extend it further, or is it more wait-and-see?
+
+Landlines Art: I don't know. There's always so many things I think of — I could do this, I could do that, so it's hard to say. There's a lot I like about it, and having done it once, I might approach it differently next time. Just off the top of my head — don't hold me to this — people suggested at some points during the iteration process that there could be some kind of burning element, where you burn iteration 1 to get iteration 2, giving people the option to pick which one they want to have. That could be an interesting dynamic to add.
+
+Even if you really think through how a release mechanic might play out, there are always little things you can't anticipate, because it's a complex ecosystem and everyone has their own motivations for being here. It's always interesting to try a release mechanic and see what happens. If I could be a dictator and not care what people think — which I don't think is a good way to go — I'd be quite amenable to this iteration-style release. It's fun because you can give people a lot more of the algorithm; I don't have to take so much away.
+
+The things people connect with are always different — some people loved iteration 1, some liked iteration 2, others liked one aspect of the final one. Had I wrapped all those iterations into a single project, I would have had to cut a lot of the variation in that series, which would've been less fun for people. Part of what I'm looking forward to with fx(params) is that I can give people that same freedom and let them make the choice themselves. Same with *Anim* — I like being able to provide lots of different outputs. It's fun, and I think people think it's fun too.
+
+Trinity: Top of mind this weekend — and for anyone listening to this months or years in the future, because we're very cool and will have that kind of longevity — this is the weekend Zancan released an open-edition generative project on Verse. Thinking about that connection to fx(params), where people can get what they want, and the idea of infinite editions for a set period — 10 days, 10 hours, whatever — there's something there that lines up with what you're talking about: giving people the ability to explore and take what they want, without being so worried about that immediate first two or three minutes of minting and speculation.
+
+Landlines Art: In a way, I already think of *Anim* as an open edition — for most intents and purposes, it basically was. I believe the limit on fx(hash) is 10,000 anyway, so I wouldn't be able to get much beyond that in terms of edition size regardless. It's definitely something to think about with fx(params).
+
+But one of the most interesting aspects we haven't touched on is picking rarities — why should we pick rarities at all? Sometimes I ask myself: shouldn't everything just be uniformly probable? Why make this one rare and this one common? There's not always a clear-cut reason, and sometimes it evolves over time with particular colors or whatever. What's interesting about fx is that if you come in with a project that has uniform distributions and let people gravitate toward what they like, the collectors end up defining the rarities themselves. The community at large might have a different opinion than me about what they want to see more of, and that gives more autonomy to the collector to shape the project.
+
+If you want to get into game theory territory, there's that dynamic too — "no one else has minted one with a red background, I'm going to stake my claim on that." That's interesting for a different type of collector. Part of the interest in some of these projects, beyond the art itself, is the social dynamics: what people choose to do, why they make those decisions, and how those decisions impact the outcome.
+
+Will: We interviewed Ciphrd a couple weeks back and talked about that as part of the params feature announcement, and we've covered it in thought-experiment territory since — that's all we can really do until the feature releases. It's so interesting, and impossible to predict what will happen when it launches. We have so few data points — *QQL* and some of the Verse releases that allowed small amounts of control over outputs. Pretty exciting.
+
+Landlines Art: I do think the idea of selling a seed is interesting too — under the assumption that there's no randomness in the project, and it's purely determined by the parameters you select. As I understand fx, that would be possible, but I think it'd violate the ethos of what fx(hash) is trying to do. Still, it seems technically possible. The idea of selling a hash, with people spending hours curating a very particular look, and other collectors who just want something that looks good — I think it'd be interesting to see that kind of market develop. Maybe not, but it's another possibility, and we definitely saw a bit of that with *QQL*.
+
+Will: Right, they built it into the contract in a way. We have a bunch of rapid-fire wrap-up questions, but before we move on — Trinity, anything else on the project level?
+
+Trinity: Just one thing I noticed this week: your first two projects, *Akramat* and *Aberration*, are currently broken because of the external libraries issue. Is there a chance they'll be reissued?
+
+Landlines Art: I'd be happy to reissue them — it was entirely my mistake. I didn't understand what I was doing; I had an external dependency in those first two projects, and that's what caused the issue. Something I obviously know not to do now. I hate that people who spent a lot of Tez on a particular one have no way to get that same piece back — unless we have fx(params). If you had a smart contract talking to fx(params), you could enforce it so that a particular person would have to own a particular trait in order to mint it. That might be possible. I don't know.
+
+Trinity: Sounds like a lot of work for *Akramat*. Not something you can just do a thousand-plus airdrop for.
+
+Landlines Art: No, it's definitely something I'm going to rectify one way or another — I just want to do it the best way possible, which requires seeing the lay of the land. Now I'm actually curious to follow up on the idea I just spouted and see if it'd be possible to enforce that through fx and a smart contract, because that'd be pretty cool. Might be a ton of work, but either way, at minimum, if there's no other solution, re-releasing them is certainly a great way to go.
+
+Will: Next rapid-fire question: prints, plots, physical editions. You've released some plottable work — at least one plottable project on Extracurricular Activities. Any plans to enable printing for your projects through Tender, or are you looking at your own services to provide prints, or just leaving it up to everyone else to use whatever they want? Have you thought about this?
+
+Landlines Art: I've definitely thought about this, and it's been more challenging and tricky than I anticipated. I want to provide prints and plots to people — I'm still figuring out the logistics, and have been for a few months now. So I don't want to say too much more since nothing's solidified, but it's an area of active investigation.
+
+Trinity: So, not Tender, is what we're hearing?
+
+Landlines Art: I mean, I'd like to do it myself. It's valid.
+
+Trinity: Always.
+
+Will: Always. Okay, another rapid-fire one — this speaks to my favorite project of yours, *Additive Synthesis*. The current meta, for lack of a better term — one of the successful styles right now — is very painted, realistic, paintbrush-style work. You were kind of on that a minute, but like a year too early, almost.
+
+Trinity: Yeah.
+
+Will: Have you ever considered going back down that path? In my opinion, that project executed it so well.
+
+Landlines Art: Definitely. This is something we haven't touched on at all, but I'm always bashing my head against: how do I create generative art that renders in the browser, on most devices — pretty much never on mobile — in a relatively short time frame? I can think of ways to enhance or build on what I did in that project, but the challenge is always fitting it into a "renders pretty quick" time frame. So yes, I'm definitely interested in exploring that technique more thoroughly. Knowing what I know now, there'd be different, maybe more efficient ways to accomplish that aesthetic — using shaders, whereas what I did for that project was just a bunch of lines, which was obviously very intensive with thousands and thousands of lines involved. So it's something I'm looking into, but I don't want to do something just because everyone else is doing it. That's not a good enough reason on its own.
+
+Trinity: I'll take one rapid-fire too. When you collect work, what do you look for? You have pieces like *Dragons*, *Urban Flora*, and *Grian*, which were huge at the time.
+
+Landlines Art: When *Dragons* was coming out, I knew I wanted many of them. Unfortunately, being an effective collector — able to get mints when there's high demand — is quite difficult, and I just wasn't able to pull off getting more than one. I don't remember why, but I definitely wanted more. For a lot of projects, it takes a lot of time to stay on top of what everyone is releasing while also doing your own thing, so it seems like I'm always one step behind. That kind of makes sense, since my primary role isn't collecting — it's creating art. By the time I catch up, the pieces I really want are already at the top of the secondary market and a little less accessible.
+
+As for what I like, it's hard to say, because it's project by project. Some things just strike you and others don't. Sometimes an artist puts out something I wouldn't have expected to like, and there it is. I also have anonymous accounts that I use for collecting and that sort of stuff.
+
+Will: We should have asked you for that ahead of time so we could see what you liked.
+
+Landlines Art: Well, I like for it to be anonymous.
+
+Will: Yeah, but for us, come on.
+
+Trinity: We're basically anonymous.
+
+Will: Another one here — you mentioned music, but you haven't released any music stuff. Is that something you've considered? Are you keen on any of the generative music projects on fx(hash)? And do you have any music recommendations for us? We always forget to ask people this, so I'm remembering this time.
+
+Landlines Art: I've had one longstanding project that has music, but I don't know that it will ever come out, because I have a really high bar for what I want that project to be. I think I'm also a little more self-conscious releasing something musical. Having done an undergrad in music composition, I have a very particular sense of what I think is good and bad music, so putting something with music to my name seems really stressful. If I were a betting person, I don't think it will ever come out. As for music recommendations, I like to keep those to myself.
+
+Will: Wow, okay.
+
+Landlines Art: It's kind of a personal thing. It tells you a lot about a person, what music they like.
+
+Will: Limp Bizkit, Kitty.
+
+Landlines Art: Oh no, no, no.
+
+Will: Sevendust, Linkin Park.
+
+Trinity: Nickelback, you know. There we go.
+
+Will: All right, I think we've filled it out.
+
+Landlines Art: Okay, middle school Linkin Park — I'll give you that.
+
+Will: When you don't give answers, people fill in their own blanks. So that's just our imaginations at work.
+
+Trinity: And I also like that your own blank, Will, is the shameful music I know you listen to.
+
+Will: No one knew that until you just said it.
+
+Trinity: We talked about it before.
+
+Will: That's true. It's like my pizza diet of music — not healthy, but delicious.
+
+Landlines Art: Okay, I'll give you one I really enjoy: Snarky Puppy. I don't know what you'd call them, but they're like a 13- or 15-person ensemble doing jazz stuff. Look them up on YouTube. I like a very wide variety of music, but within each category there are things I despise and things I really like. So it's hard to say "I just like jazz" or whatever genre, because there are great examples and not-so-great examples in every category. It's subjective — everyone has their own preferences, and that's totally fine. I don't want to impose my strong views on other people about what's worthy of listening to.
+
+Will: I've heard of Snarky Puppy but never listened to them. I'm kind of into jammy, jazzy stuff right now, so I'll check them out.
+
+Landlines Art: Fun fact — they have a song called "Trinity," I believe. Listen to that one. I think it's phenomenal. Maybe you'll hate it, that's fine.
+
+Trinity: I have a playlist for dinner tonight, and it's going to be perfect: best of Snarky Puppy.
+
+Landlines Art: Let me know how it turns out.
+
+Will: Alexa, play Snarky Puppy.
+
+Trinity: It's Google, but yeah.
+
+Will: Hey Google, play Snarky Puppy.
+
+Trinity: Thank you.
+
+Will: One last question, kind of a final wrap-up — you've been really generous with your time. Thank you for hanging around and talking to us. Why now? Why was this the moment to break the silence, come on the show, and open up a little?
+
+Landlines Art: It's always something I've wanted to do and knew I'd do eventually — I think I communicated that to you earlier, that it was a matter of when, not if. But after I said that, it still took a while to work up the strength.
+
+Here's my speculation: when you have an anonymous personality — I have about 14,000 people following Landlines Art on Twitter — everyone builds up some image of what I am or what that entity is. There's a bit of pressure not to disappoint people, and I know people wouldn't be disappointed if they just looked at the art. So keeping it to just the art feels safe. Maybe that's thinking too little of people, who knows. But the longer things carried on anonymously, the easier it felt to keep going that way. There's also fun in the mystery — people have tried to figure out if I'm a woman or a man. I'm in fact a man. So there are positive aspects to it too. But in the long run, I want to be part of this community, and that means pulling back the veil a little.
+
+Will: Consider the veil lifted.
+
+Landlines Art: Wow, it's like a marriage ceremony now.
+
+Will: This was excellent. I hope everyone enjoyed listening. For Trinity and me, getting Landlines on the show was kind of a 2022 goal.
+
+Landlines Art: Perfect timing, then.
+
+Will: It really was. Right at the beginning of December — the timing worked out great. It's been a pleasure getting to know you, talking with you, and hopefully helping introduce you to the public a bit more. I think people want to know the person behind the art. I get what you're saying, because sometimes I've listened to an interview with a musician I really like and thought, "Oh, they don't vibe the way I expected." It's not necessarily bad, just different — the stuff they make is still the stuff they make, and I still like it. So, thank you.
+
+Landlines Art: It's been great. And once again, to anyone listening: you are also great, and I really appreciate it. I'm happy to answer questions — I love having conversations with people in Twitter DMs or on Discord about my art, why I chose a particular approach, what my ideas are, or "hey, it'd be crazy if you tried this thing out." I love that kind of conversation, it's very interesting to me. And I greatly appreciate everything that's been given to me. Speaking of Thanksgiving weekend, I'm very thankful. I guess we should leave it at that.
+
+Will: That was Landlines. Thank you again so much for coming on the show, and thank you everyone for listening as always. Thank you, Trinity, for two days in a row of recording.
+
+Trinity: And thank you, Will, for two days in a row of editing and recording.
+
+Will: I love it.
+
+Trinity: I know you do.
+
+Will: That's it for this one, everyone. We'll be back soon with another episode. Until then — later.
