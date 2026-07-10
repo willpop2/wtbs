@@ -1,0 +1,423 @@
+Speaker A: All right. Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Susannah Maybank. Maybank of Tonic. And of course, Trinity is here. Happy to have her on for an interview during this busy time in her life. Susannah, Trinity, how's it going, everyone?
+
+Speaker B: Great. Very excited to be here. Thank you guys for staying up late to get on with me.
+
+Speaker C: We're here for it. Thank you for joining and staying up late to talk with us. You know, it's an absolute pleasure and we've been looking forward to this interview for a really long time.
+
+Speaker B: Me too. I'm excited that it's finally happening.
+
+Speaker A: It's been a few months in the making, but we got it figured out. We're super excited to talk to you. about Tonic and just your background in art, which I think is a great place to start, actually, to ask you to introduce yourself and give us your background in art and collecting and how you found crypto and NFTs.
+
+Speaker B: Sure. So I have been around art for my entire life. I have many family members who've worked sort of across all the different sectors of art, from academia to museums to auction houses and galleries. So I definitely grew up looking at a lot of art my entire life and hearing from people who dedicate their lives to it. So it was a pretty easy decision. I studied art history undergrad and then pursued a master's and then went to a large gallery in New York, Gagosian, where I started as a receptionist and sort of worked my way up. That was a pretty incredible experience being so close to so many incredible icons of art, both the artists and then also the dealers there.
+
+Speaker A: Well, when you say worked your way up, I mean, Kagoshian is a big name. Even we who are not in the traditional or legacy art world are familiar with that name. So like, maybe you can tell us a little bit more about what you did at Kagoshian. And then also, how did you bridge from that art career into this current one, co-founder of Tonic, right? And like, where'd you discover NFTs and blockchain in that process?
+
+Speaker B: Sure. So I was incredibly lucky at Kagoshian. There are some of the most brilliant minds there. So I worked with an incredible team building out online sales first, and then it sort of expanded into other areas, some market work, customer development, business development, things of that nature. And ultimately, I left Gagosian to go back to school to get an MBA. I moved to California for that. And while I was there, it was late summer, fall of 2020. And I don't know exactly What spurred this change other than maybe just the media hype cycle definitely started, definitely was in full force at that point. This was post-Beeple sale and I was the very obvious art girl on campus. So I just started having conversations about NFTs. I've always been really passionate about art markets and building market datasets and the blockchain provided sort of the perfect footing for a bigger and better dataset than I'd ever been able to make in the traditional market. And so it sounds a bit bloodless, but I really did first fall into it from an analytics perspective. And then while I was doing that research, I discovered artists like William Mapan, Iskra Velitchkova, Dmitri Cherniak, Tyler Hobbs, I mean, some of the usual figures, and I fell in love. And I realized not only is this a much more highly efficient market, but that solves a lot of the issues that I saw in the traditional market, but also the art was really good. That was it. That was the clincher that made it really easy to take this leap. And then while I was there, I met my co-founder, Maryam Nefizi. She was a lecturer. And so we met, we started talking about the art market, and then we just really hit it off. And she encouraged me. She said, now, let's do it now. And so when someone with the experience and the gravitas and the brilliance of Mariam tells you that you're ready, you really believe her.
+
+Speaker C: So how did you really land on the idea of Tonic then? Or maybe let's take a step back before that. You know, I think that we are learning about like market efficiencies, you know, that's something that we both absolutely enjoy about the NFT market space, you know, especially coming from more of a digitally native world. What was your introduction to generative art then? You know, I think coming into NFTs is one thing, but landing on generative art, like, how did you discover these Mapans, these Iskras?
+
+Speaker B: I think in a common story to many, it was Art Blocks. Art Blocks is an absolute inspiration point. The way that they defined a set of rules that an entire community could form around, it was really inspiring. So, Probably similar to many people listening, it was really through Art Blocks that I fell in love with generative art. And I would say specifically that when I fell in love with digitally native art, it was generative art that was the first real passion for me. But I love artists working in other mediums as well. I think Helena Sarin is amazing, Sofia Crespo, and Tangled Others. There's so many artists producing really interesting artworks across different modes of production. But generative was the clincher. And Mariam had already been an Art Blocks collector at that point, so she also came in with a love of generative art as well.
+
+Speaker C: And it's like also one that is so inherently native to blockchain technology in a way. Out of all art forms, it's the one that is best enabled and it really lives through hashes, transactions. There's so much that you can do with what's inherently there. It's really beautiful that to see it come into its own as like a blockchain-native art style, although obviously it has its own very, very long history, but there's just something that works.
+
+Speaker B: It was the first thing that felt incredibly native, as you said, but internally consistent. I understood every part of it, why it was being stored on-chain, why an NFT made sense outside of the hype cycle that we were experiencing at the time. So that purity of concept and execution was really gratifying and exciting to see.
+
+Speaker A: And super encouraging to hear coming from a, not necessarily from a digital art background, being like, oh yeah, the art's good. 'Cause I think that's a big question we always ask ourselves. Like, we like this stuff and we know the collectors here like this stuff, but it seems to be a struggle getting it acknowledged and accepted more widely. But let's put a pin in that 'cause I think we're, we'll come back to that later in the interview. I don't, I don't wanna derail the history of Tonic here. So—
+
+Speaker B: I have so many things to say on that front. So—
+
+Speaker A: Let's come back to it 'cause I think that's gonna be a good half hour. So 2021 or 2020, you're learning about NFTs, you're getting Art Blocks, you find this partner who's gonna start this platform with you. So what were the early days of Tonic like? Did you have a different vision from where it is now? Like, how did it kind of evolve throughout? Like, what's it like to get funding and even start a platform like Tonic?
+
+Speaker B: So the Merium magic didn't happen until 2022. So I had a 2-year master's program where I was sort of steeped in, had a lot of freedom to explore new things like generative art. And then in 2022, I met Mariam really right around graduation, and Mariam had started an incubator, a venture studio called Heretic Ventures. As we were getting to know each other, we were talking about ideas that she had in the generative art space and in the NFT space more broadly. And so that was sort of the beginning of us really spending a lot of time together, but I didn't necessarily plan to join. I was supposed to go back to the traditional art world. And then through that process of working together and sort of consulting on this idea that she had been working on, that's when eventually I said, okay, let's do it. I'll join. So it was a bit of a long, not long, but a longer sell. And then the original concept was definitely very organized around the idea of interior design, I would say. And it shifted when I joined to more of a gallery model. That would be probably the biggest pivot. And then in terms of funding, luckily, because it was an incubated company, we had the initial seed funding to sort of get off the ground, which I think was hugely valuable because we didn't start raising until 2023, at which point the market had obviously changed and you weren't seeing really high valuations. You weren't seeing people raise money overnight. So I think that the fact that we could get to At least our first collection had a product on the market when we went to raise, that was hugely valuable. And then we raised in early 2023, we closed in March, I believe. I'm really happy with that timing because it meant that we already knew that we were in a downswing. And so we could be really thoughtful and strategic about our cash spend and the realities of keeping that investment going for a long time. So the raise was not perfectly timed for an easy raise, but well-timed for a durable company in a bear market.
+
+Speaker C: That's a really fascinating story. You know, it's also been such a long time coming. I'm interested to understand more about the opportunity space that you saw when you were specifically founding Tonic. You know, we're seeing a lot of platforms coming out over the summer, over the spring that are just trying to be copies of fx hash, of Art Blocks, doing things of that nature. And so how did you come up with the idea of Tonic and how it operates? And perhaps for people who may be less familiar, why don't you just give an overview of how it operates within the market today?
+
+Speaker B: Sure. So Tonic, really, it's meant to be a bridge between the digital and physical worlds, both in terms of the artwork, in that with every piece that we sell and every digital asset we sell, you have the option for a physical counterpart. But also in terms of community, really, we're here to be that bridge and sort of a helping hand for new participants to enter the market. It can be really intimidating. I know, we all know we were novices at one point. And so our real reason to exist is to help bring on that new generation of digital collector. And in terms of the opportunity, that's what we saw and that's why we're here. We did a lot of research. Again, everything is on-chain. It's a wonderful asset when you're trying to figure out what's needed. On-chain, you can see how many active wallets are participating on a regular basis, all of these things. And moving that needle slightly could result in massive rewards. And so It's not a huge number of people compared to other markets that are driving a lot of this. And so we really saw that as the key element here. The unlock was if we can find a really good way to educate people and to introduce them to this new art form. I think the art itself is, we have not yet seen a digital art form that has taken hold of the collective psyche so quickly and with such strength. And so it has the potential to become this massive movement in the global market. But if we don't find a way to reach out across the aisle and to bring new people on board, we're dead in the water. And so that's really why we're here. Art Blocks already does Art Blocks incredibly well. You know, fxhash does fxhash really well. That's not why we're here. We're here to just bring more people to the party.
+
+Speaker A: I think we all want to see the space grow. And, you know, for Trinity and I who have been collecting now for Almost 2 years, which is crazy to think about. And doing this show and like talking to a lot of artists and founders like yourself, it seems like we all expect and want more people to come in. We saw fx hash doing all the various Art Basels and doing the roadshow and places like, you know, you know, Tonic, obviously you do openings, like Bright Moments does openings at big events. Verse does openings in London. A lot of people out there trying to make the effort. To cross over more people who might not be familiar with NFTs, might not be familiar with generative art. In your experience now with Tonic, what do you feel like are the major challenges? Where have you had successes? Where are you still having failures? Because it feels like there's so many people out there trying to do this. And it, from our side, the collector side, the observers, it doesn't feel like we're getting a ton of crossover, but maybe we're wrong. Like maybe we're just not seeing it at the level that we're kind of existing at.
+
+Speaker B: Yeah, so a few really easy points. One was the mechanical difficulties, not having a wallet, not having any crypto. And so the first thing that we did was made sure that from our first sale, we had wallet provisioning available that you just have to use an email account and you can still participate in auction day of. And then 2 was credit card purchasing. So that was like the lowest hanging fruit.
+
+Speaker C: Yeah.
+
+Speaker B: And was sort of a no-brainer. Let's remove the mechanical impediments. And then 2 was a strong preference for display. A lot of people are still struggling to understand what the value is in having something that sits on their phone or on their computer. And so if someone is going to spend hundreds to thousands of dollars, they really do want that utility of display. And so again, making sure that everyone who owns a Tonic piece can have that piece hanging in their home or displayed in their home in some fashion. That was really important. And then the third part was education. And that's the part that has taken the most massaging and learning and iterations because there's so much to communicate in such a short period of time that getting that balance right has, again, just taken a lot of testing. And I would say the most important thing right off the bat is just to get people excited by it. And some of that means reading your audience. And if you can't, if it's too big of a crowd, then you have to get creative there. But it's really explaining the value of the art being produced and getting them excited about the art punked before you get into the specifics of the market or the wallets or the technology.
+
+Speaker A: So on the education side, so like, what does that look like? Because I feel like there's kind of 2 levels to it. Like, on the one hand, I think A lot of people who collect generative art and have been doing it for years, like us included, still love to learn more. We love to hear like, this is referencing a piece from the '60s or '70s and like these relationships and like learning about that first wave of computer generative artists and stuff. Like there's always more to learn as someone who's engaged in collecting. But for someone who's not doing NFTs at all, who's not familiar with generative art, is maybe skeptical, someone who maybe only buys paintings or photography, Are you literally like pulling out your old Gagosian Rolodex or calling up friends that still work and be like, give me the names of like 50 kind of cool collectors in New York. I'm going to try to talk like, what, what is that education like with people who aren't already here? Right. Like, and how are you getting to them and crossing them over? And if you have an anecdote of crossing someone over, that would be like great to hear also, like just to share.
+
+Speaker B: I have an anecdote that I just thought about, but I don't know if they would love if I told that story. So let me think for a second. We can keep it anonymous.
+
+Speaker C: You don't, you don't name names.
+
+Speaker A: Yeah. Just don't name names.
+
+Speaker B: No, it's just, it's so cute. If you know what it is, but I guess I can tell the story and then I'll ask her if she's okay with it. So I'm gonna say this again, the art is good. So the art is a really great first sales tool. But one thing that we've done is lectures. I give a lot of lectures and if it's an arts-focused crowd, I give a really deep cut historical backdrop to the generative art movement. And so then by the time we're talking about algorithmic art, They see the entire chain and they understand how this fits into the historical narrative. And then we're immediately talking about it in terms of quote unquote real art. That's the context that it's given in. And then after those events, it's been amazing. People after, they stay, they chat, and they talk about the art that we talked about. You know, it's sharing a collection that you're particularly excited about and watch people feed off of that excitement. But a really thorough art historical backdrop can be really effective. And then sometimes, again, it's really as easy as just The art is stunning. And so people see it in person. We did a Lars Wander opening in LA and someone walked off of the street while we were doing the install. He came in, the works were half on the walls, half on the floor, and we started talking. I explained to him what was happening. And then he came back for the actual opening. He brought a friend. He said, this is so cool. I just wanted to show people what is happening right now in the art world. And he was truly just impressed by the beauty of the art and the physical manifestations. In terms of education, we also do live bidding parties. Those calls are online so you can join from wherever. And on our first live bidding call, we had a woman in her 80s join and raise her hand to ask a question. And she said she's never even considered purchasing an NFT before or anything of that nature, but she just thought that this looked fun. And so she asked a very simple question about how to process the provisional wallet. And she showed up just to learn and experience and you keep it a friendly, open environment. And yeah, you really never know who you'll catch.
+
+Speaker A: That's awesome. I love the idea of someone's grandma like outbidding me on a Lars Wander, you know.
+
+Speaker C: Seems plausible. Yeah. I'm ready for that.
+
+Speaker B: Yeah. I mean, practically speaking, Lars Wander's work is just, it's beautiful. There's very few people who you show that to and they go, oh, that's not art. It's beautiful. It's stunning. It's impressive. And so just showing that to people at all of these lectures, I have the physical art. I try to bring as much physical art as possible so then they can look at that before they even hear us talking and people get it.
+
+Speaker C: I think that with generative art, you know, it takes 10 minutes of education. Um, and more than 10 minutes of education. Okay. Sorry, people listening. You can't see the face that was just made. But, you know, I've given lunch and learns at work about generative art overall, because people are not into NFTs. People think they're a scam. People think they're like ugly apes, whatever. But then you start going into detail and you're showing them outputs. And it's like the story that you were just saying about getting people on board and like explaining how it works and like.
+
+Speaker B: Yeah.
+
+Speaker C: the elegant technological wonder that it can be. And all of a sudden you're turning heads, you know, people who haven't even considered it before. It is such an amazing experience and it's converting people like 1 or 10 or 20 at a time.
+
+Speaker B: Exactly. I can go to a 100-person lecture. If I can convert 1 person, if I really plant that seed of interest, it's worth it. I'll keep traveling. I'll do it.
+
+Speaker A: On the flip side, I mean, how often are you hosting events like that or reaching out to people who aren't really aware of the NFT side? And maybe they think it's art, and then they hear NFT. Like, do you find a lot of people are just instantly turned off? They shut down? They don't want to hear it? Because I kind of feel like with PFPs, like, I get the aversion. They look bad. Maybe you don't really like the people who have them, right? Like, there's a lot of problems with PFPs. Like, we hate PFPs on this show generally. So it's not like Where— don't make that face, Trinity. You hate apes too. I know.
+
+Speaker C: No, I was just thinking about, you know, the beauty of capturing people in a lecture hall is they can't leave.
+
+Speaker A: That's true. So we are not like hardcore NFT in every form maxis, right? Like, this is like an art-focused show. So, but it is difficult. It's like, I've talked to people who assume like politically, because I'm left-leaning, that I just think NFTs are a scam and I hate them. And it's kind of hard to be like, no, it's like nuanced. Like, there's this thing, there's this art and it's code. And like, this technology actually does have like Maybe it's only one legitimate use, but it has it, right? So like, I guess the question there is like, how frequently are you running into that friction with people who are outside the community?
+
+Speaker B: I hate to say it, but I think probably sensing at least a small aversion to NFTs is the majority of my conversations. And so I do try to delay that element, even just referring to them as the digital counterpart or the digital asset instead of using the word NFT explicitly. But I do think that I mean, we began this conversation by talking about how the blockchain unlocked a much more efficient market. And so I do talk about it, especially in those terms. But if you just say NFT and you don't explain the why, that internal consistency of generative art that we just spoke of before, the efficiency of assets stored on the blockchain, it's really intimidating. So even in the explanation, I try to put the NFT word is late. Even in talking about the blockchain, I will intentionally delay saying the word NFT a bit. But I think if we never use it, it's never going to get laundered.
+
+Speaker A: True. I doubt we're going to come up with a new acronym or name, right? We're kind of stuck.
+
+Speaker B: My hope is that eventually the media cycle improves somewhat and we move on from villainizing that technology. And maybe in 10 years it won't be such a dirty word, but I'm living in 2023 and I'm gonna be careful.
+
+Speaker C: When we're talking about like onboarding people who are not necessarily native to the NFT space and then tying that back in with your history and deep love of analytics and how this all got started being, you know, this is a great source where everything is transparent. You can just scrape all the data in the world and apply it. You know, it seems to me that the primary KPI to understand if your mission is succeeding would be, at least from a measurability standpoint, number of non-custodial wallets being made versus MetaMask or other sorts of wallets being connected. I don't know if you want to talk about this, but what sorts of trends are you seeing?
+
+Speaker B: Sure. It is trending up. The one thing that I will caveat here is that we onboard a lot of people directly to MetaMask or other hot wallets. So if you come to an event and you've never participated in the crypto markets of any kind before, there will always be someone there who can show you a QR code, let you scan it, and walk you through that process. So the provisional to non-provisional wallet is not the metric that we use. We focus more on the wallets themselves. And also because we do enable credit card payment, that's another useful metric to track. But we are moving towards 50/50. We're not quite there yet. And that's just in the primary auctions. I hope to be even further along soon, but that's just in primary auctions, which is already a self-selecting group because many people who are physical art motivated balk at the idea of a blind Dutch auction. That is very intimidating for people whose primary motivation is display. But even with that reality, we're still seeing that number grow collection to collection, which is really encouraging.
+
+Speaker A: For clarification, so that's like 50/50 people that you think are new collecting their first NFT versus existing degens? Is that kind of the breakdown?
+
+Speaker B: Yes, that's kind of the breakdown. As I said, we're not quite to 50/50. I think we're closer to 40/60. But It's a substantial number, which is the goal. And again, the trend is more heavily towards new buyers, which is again what we're aiming for.
+
+Speaker A: I mean, that's really encouraging. I had assumed it would be a lot less just because it feels like it's just a really difficult thing to do. And also the auctions play out quickly. So it's hard to— it's hard enough for someone who's in the space to know this auction's happening now and be there and make time.
+
+Speaker B: Yeah, well, there's a few things that help us out there. One, we enabled pre-bids. So you can preregister your bids up to a week before the auction, and that helps us a lot with the non-degen crowd. And then also we do have presales where if your priority is selecting the work that you want, you can select the work in that presale window, but you do have to pay a slight premium for that privilege.
+
+Speaker A: I want to actually go a little off script and talk about something that we've been discussing a lot this week. Within the Tender generative art community, we've been talking a lot about the idea of like getting a random mint versus a curated mint. Is that something that you've ever considered? I mean, right now, the way I understand it, Tonic, you pre-curate outputs with the artist and then those are randomly distributed at time of mint or presale.
+
+Speaker B: Mm-hmm.
+
+Speaker A: Have you considered or looked at doing anything else that might be more akin to some of the stuff that like Verse is doing or what fxhash is doing with params? So like allowing people to have even more control over the output they're getting, especially at higher price points, right?
+
+Speaker B: Yeah, I would say nothing's off the table. From the beginning, really, we've looked at blind versus not blind. I think that especially as our community widens to include more and more new entrants, they have different preferences and different appetites, and we have to be cognizant of that. I can tell you for the immediate future, we're not going to shift over to a fully non-blind anytime soon. And in terms of curation, that's something that is pretty core to the business, I would say, to the company. The ability to ensure that every work is of a really high quality, that it would print extremely well or would manifest physically extremely well, because we don't just offer prints. That's very important. And also it just allows a different, a different work to mint.
+
+Speaker A: Yeah.
+
+Speaker B: Because if you have to constrain an algorithm to work within those fully uncontrolled parameters, it means that you have to cut out a lot of the outliers. And so I think it's a good thing for the broader art that's being produced that there is an alternative where you can do some slightly different things.
+
+Speaker C: Will, did you have a follow-up to that?
+
+Speaker A: Not that's pressing, no. So, Yeah, go ahead.
+
+Speaker C: No, I just wanted to maybe like talk about that physical side. The fact that everything comes with a physical piece. Will, I know that you are probably still waiting on the framers? Unsure?
+
+Speaker A: This is embarrassing. Don't make me pull out my still unopened Iskra print that's hanging up.
+
+Speaker C: It's waiting on the framers.
+
+Speaker A: Uh, no, it's waiting on other people to fulfill their prints to me so I can take a batch to the framer. Yes, I have an Escape, a broken opera. Yeah. And I got the physical, but it's just sitting in my closet because I haven't taken it to—
+
+Speaker B: I cannot tell you how common that story is. We almost did effectively a PSA when we realized that one of my teammates had, I think, 6 works unframed sitting right next to their closet and not hung. It is very common.
+
+Speaker A: It's an efficiency and time thing with a baby and a job and a podcast. It's really just about like, I'm trying to get 5 or 6 things in at once and I'm just waiting for other stuff and that's it. It's all coming though. It's all finally coming, but—
+
+Speaker C: It's in your backlog, Will.
+
+Speaker A: But let's not divert. Trinity had a—
+
+Speaker B: I will follow up on this.
+
+Speaker A: I don't think you, I don't think you were going down, down that line just to shame me, Trinity. So what was your real question?
+
+Speaker C: No, my question was about, you know, okay, we're in the realm of the physical. Having every piece have a physical alternative is a big part of the differentiator between Tonic and other systems. But the additional value layers, the availability of these extremely premium, high-quality prints, how do you figure out what print technique is going to align with what project? And I think everyone has been different so far. Like, I don't know how many more high-end printing techniques we have. How did that idea come out, first of all, as it being like a super Great value add.
+
+Speaker B: The unique printing alternatives that actually was born with Iskra, which is why it's really appropriate that we were just talking about her. The work is so stunning and we really wanted people to be able to have something that was unique and really special. That collection will forever be near and dear to my heart. And so with Iskra, we said, let's try something really different that's not on the market right now. The colors are so strong, the architectures are so bold that let's try something different. And it was a black and white collection. And so that widened the gamut of possibilities hugely. And then I would say it differs from collection to collection in terms of deciding how to manifest it. Sometimes the artist comes with a really firm opinion, like Faust and riso printing. They said, I have an idea, and it was our job to execute. Sometimes it's more of a collaboration with the artist. And in that respect, I basically have tried almost every kind of art production in existence at one point in my life. I always knew that I was going to be involved in the art world in some way. And so having a really thorough understanding of materiality was really important to me. So I've welded, I've made wood furniture, I've carved marble, I've woodblock printed, basically everything. I've tried it at least once, probably 5 times. And so It's funny, Tonic has become this wonderful experience of plumbing my entire memory on a nearly daily basis. All of the art history that I've ever studied, all of the art that I've ever practiced, and working with artists to find the exact right offering.
+
+Speaker A: Hell yeah. And now you're podcasting. So the circle of mediums is complete. So this is kind of an annoying question, and if you don't want to answer it, that's fine. But what is the conversion like on those really premium prints? Because for me, when I was watching, say, the Iskra, some of those prints cost $1,000, $2,000, $3,000 to get those super premium prints. But then when you look at the floor price or the mint price that the auctions settle at, that delta can be huge. So I'm just kind of curious, like intellectually, like, are people actually going out there and paying $300 for an NFT and then paying $3,000 to get a print? Or is it more of a— Like, hey, we believe in this. And if people aren't converting now, that's okay. Because we know, like, long term, this is kind of where the business needs to be. And this is what people want.
+
+Speaker B: People are definitely converting. The price point is definitely a factor. The Faust unique physicals, for instance, were about $500 framed. So that deal was pretty competitive with standard digital printing, but it's just a much different experience and a much different feel. So that had a lot of uptake. It really does depend physical to physical. And some of them, like an upcoming project that we're having, the project really becomes complete with the physical manifestation. And so even if the price point is a little bit higher, people get very excited about that unique experience, especially when there's nothing like it on the market, like Iskra, those silver gelatins mounted on dye bond. Yeah. I wish you could see from this camera angle, but they are meaty. They're impressive. They're so beautiful. They look so differentiated from digital prints. And so even just being able to give people the opportunity to mix up what's on their walls, my biggest fear is that digital art collectors will have a room that is entirely digital prints framed in the exact same way. And even if the art is really different, it's still going to become homogenous after a certain point. Textures and treatments matter.
+
+Speaker A: I was pulling my collar in shame, but I actually have some plots. I've got some variety in here. They're not all just the same exact print style with the same exact frames.
+
+Speaker C: You have like a woodcut too, right?
+
+Speaker A: This one right here that you all can see is actually printed on cloth. The artist handmade the frame and printed the piece on cloth at their home. So there's actually a diversity of mediums here.
+
+Speaker B: I love that. But even having things that aren't framed, The silver gelatin you didn't have to frame, that immediately mixes it up. There's a lot that can still be done. We've tried a lot of things, but there's a lot more in the hopper, so don't worry.
+
+Speaker C: One of the things that we've talked about on the show before with other interviews is the idea of divorcing the art from the token in some respects. Like the token in some respects can be the art, but it's mostly the certificate of authenticity on the blockchain for the art. And in some ways, You know, having this ultra premium print, you know, it is making the art the art. It's something that is doing justice to the output that was generated digitally. There's no real question there. It's mostly just an observation around an interpretation for how we can start to see some of this.
+
+Speaker B: I'll give an observation of my own. I think that there's something very inherent to generative art where the collector is invited to collaborate in a more direct way than the average art market transaction. And so I think for a collector being able to decide for themselves whether to have that physical manifestation, whether to value that physical manifestation more than they value that on-chain asset, that's all part of the magic here.
+
+Speaker A: We've talked a ton about the economic side and the logistics of prints and stuff.
+
+Speaker C: We could talk about the economics forever.
+
+Speaker A: I mean, we honestly, we could, we're such dorks, but—
+
+Speaker B: Same.
+
+Speaker C: The fluidity.
+
+Speaker B: All right.
+
+Speaker A: Well, we can also come back to it.
+
+Speaker C: Okay.
+
+Speaker A: Let's divert into talking a little bit about like the Tonic process of, well, first of all, I'd love to hear how you landed such like premium partners from the get-go. What is it like going out there and pitching a William and an Iskra and a Lars? How do you pick? How are you recruiting? What's that process like? And then what's it like working with these artists and like what level of influence does Tonic have They're like, are you kind of hand in hand working with them to curate? Do you have input on the pricing and quantity? Are you telling them like, hey, that sucks, do another 6 months on it? You know, what is that kind of start to finish process? And how have you succeeded so far in getting such amazing partners?
+
+Speaker B: I would say that the first few, maybe even the first 6 months, we didn't have any track record. William, I think we first approached almost a full year, if not more, before he did that collection. So I think the key there was persistence and honesty and just really understanding what his goals were and trying to meet him there. It's just listening and being reliable. I will be forever grateful for all of those early releases because they took a leap of faith on someone that they didn't know and on a platform that didn't exist yet. And then I would say talking about art a lot definitely helps, sort of making sure that they understand that, you know, that art production, the making process is its own bear and that timing can be flexible, that you understand that they're not a machine and that they have a creative process and that you respect that and that you can engage with them on that. And a lot of follow-ups. Definitely a lot of outreach. And then at some point, once we did have a track record and we had been around the block for a little bit longer, now it started to shift a bit in terms of, one, we do accept artist applications. So now we have inbound as well. And then we still reach out to artists that we think are really talented and have a bright future. And then again, there's a lot of patience because people have schedules that you have to work around. People have the realities of their commitments and their personal lives because these are humans like us. And so again, it's sort of being able to roll with the punches and not being stressed out by missed deadlines and by shifting plans at the last minute and just being patient and understanding and a, and a real ally. I think that they take a risk on us. And so it's our duty to be as supportive and as helpful as possible. And then in terms of the process itself, it's a long process. These collections don't come about overnight. We usually are in conversation for at least 6 months before a collection is released. And there's a lot of conversations back and forth. I have a lot of meetings personally with each artist as they're developing the algorithm just to check in, to be a ally, someone that they can rely on, since it can be a pretty lonely endeavor. In the month, say, before it gets a bit more intense, there's very regular meetings and very regular correspondence, and we do curate together. There's a few people involved in curation, but we will go through sometimes 15,000, 20,000 outputs. And so it takes a village, and then we all decide on the final collection together. And again, usually very many phone calls, messages while that's being wrapped up. We really decide all of the final elements together. I think it's just, again, being a sounding board and being a support system and an ally. Many artists find it very hard to price their own work. It's not something that they're necessarily focused on most of the time. Their primary objective is to storytell and to create. And I'm an art dealer, so. They can leave that stuff to me.
+
+Speaker C: Match made in heaven.
+
+Speaker A: Yeah. So does that mean Tonic is actually, for the most part, taking the lead on those key Dutch auction starts here, ends here, refunding, it's going to be X number of pieces. Is that like 80% Tonic then with then 20% of the artists agreeing, or is it more 50/50?
+
+Speaker B: It depends on the artist, honestly. Sometimes they don't want to make those decisions and sometimes they want to have a more active part. And as I've said before, we're just lucky that we get the opportunity to tell those stories. So you sort of lean into their preferences. And if they wanna say, Susannah, you just do it all, fine, I'll do it all.
+
+Speaker A: Anecdotally, without naming names, has there ever been any disagreement?
+
+Speaker B: Yeah, there's definitely been kibitzing. There's never been strong disagreement, like people digging their heels in, fights happening. It's always been. congenial, but there's definitely been differences of opinion. Sometimes also internally with the team, like we sort of talk out a lot of these mechanics before they're presented.
+
+Speaker C: We've definitely run that gamut a little bit just within the Tender Discord as well. Thinking about some of the collaborations that come out and just seeing things a little bit ahead of time. It's, there are so many opinions and then none of them are right or wrong. It's just figuring out What can happen?
+
+Speaker B: And the reality is this market is so dynamic that decision that you made 3 weeks ago or an opinion that you held 3 weeks ago might no longer be sound. And so it's about not being too ego-driven and reevaluating constantly.
+
+Speaker C: I mean, that was especially difficult in, I think, early 2022. The metagame, so to speak, was shifting every few weeks. It's slowed down a little bit now, which is Thankful, to be honest.
+
+Speaker B: Now we have our own shifting sands that might be slightly slower, but are tricky nonetheless. They have their own potholes and sinkholes.
+
+Speaker C: Definitely.
+
+Speaker A: How does that compare to the gallery world, the traditional art world?
+
+Speaker C: We've segued back to economics.
+
+Speaker A: This is in the notes. So this is a question that we want to ask, which is like, what's the same and what's different between working in a Gagosian Gallery and their digital platform, right? When you're pricing art in the traditional art world and you're working to price these NFTs that you think are maybe equivalent in quality, but of course, like, it's new and—
+
+Speaker C: And you're not creating 400 of them.
+
+Speaker A: Right, exactly. So like, what crosses over? Like, what skills from that past life kind of translate? What are some of the big differences? And maybe even as a corollary, like, Do you think that we're kind of heading towards a collision course with like behaving more like the trad art world? Or do you think we're going to stay divergent, or maybe even influence them to behave more like the way that we are?
+
+Speaker B: Well, I think one very main difference here is the speed. In the traditional art market, flipping happens over the course of years, not seconds. And so in terms of real-time feedback, That is a really fundamental shift. It also means just despite the relatively short time period that we're talking about here, a huge amount of transaction record. So not only does the secondary market kick in much faster, but also artists release more work, yes, in each series, but also in a single calendar year. There's just more being put out onto the market. And so the price fluctuations happen more dynamically, and you have to be really cognizant of that. You have to reevaluate pricing on a nearly daily basis. That's a huge fundamental shift. Other than that, there's a lot of similarities. Practically speaking, you have to take in market considerations, but individual artist markets are usually the highest indicator for price by far. One difference is you have size and material. In the trad market, where you don't necessarily have to take that into consideration. Here, we're talking about digital assets that are effectively size agnostic. So there are more variables in the trad market, but the action is still the same. I'm still a data-driven person. I still scrape tons of information and look at a lot of transaction records and additional inputs like major museum shows or. Major literary pieces or coverage. Less books in this market, but still a lot of press to consider. So a lot of the levers are relatively consistent. You just have to do it more frequently, I would say.
+
+Speaker C: I think the crypto market has the additional wrinkle, the cryptocurrency itself, right?
+
+Speaker B: Yeah.
+
+Speaker C: Because Tonic, you price things in ETH, which is obviously something that shifts in price. And as you go through and prepare for a release, I'm sure that that has to be considered. Do you think about things like in terms of ETH? Is it in terms of USD? If the price changes on a day-to-day basis, do you reprice the work accordingly? I mean, I guess the auction start and end points accordingly.
+
+Speaker B: I do look at ETH conversion on a daily basis, and that factors in. If I'm looking at past sales, I'll look at the ETH and the USD value. So I am looking at both of those variables dynamically. Because it does have an impact. It's not necessarily one-to-one, but it does have an impact. I think they're correlated markets 100%. And also, since so many of our buyers are coming in from the trad side, even if they were all degens, that correlation still stands. But because we have these novice buyers, it's even more important.
+
+Speaker A: Did you ever think about pricing in fiat, making it feel more Accessible to people who aren't crypto native?
+
+Speaker B: On our site, we include both fiat and crypto pricing. So you can participate in the secondary market directly from our site. You can go buy works that are listed and you can still pay with a credit card using your provisional wallet. So they have access to that secondary market as well. And again, we list both the ETH price and the USD price, and that it does fluctuate constantly.
+
+Speaker C: Catering towards both markets. I guess at that point where you're not cutting anybody out.
+
+Speaker A: Something that we've kind of talked about off and on is like, yeah, that the difficulty of also managing the secondary market when there's price fluctuations in cryptocurrency and like I put something up on the secondary, you know, I minted 5 pieces and I want to sell one and I put it up for an ETH and then ETH goes down by 30% or up by 30%, having to babysit, right? Like obviously there's like a lot of logistical issues, but I just think like from a layperson standpoint, being able to say like, I'm going to sell this for $2,000. And just knowing that that $2,000 amount is like constant regardless of the fluctuation of the underlying currency. It's a hard problem to solve, but I'm just like curious because that feels like the most user-friendly thing to do is to not make them constantly do this accounting in their head of like, I bought this at this price and like now the crypto is moving around.
+
+Speaker C: That's gonna be more of an issue on fx hash than Tonic for sure. But yeah.
+
+Speaker B: Yeah. It's definitely something that I would like to do. It's not going to be in our immediate roadmap just because, for one, the Web2 buyers, they don't sell as quickly. And so it'll take a bit of time for that to be like a substantial roadblock. They're the real diamond hands. I mean, they just put it on their wall and then keep it there.
+
+Speaker A: Yeah, they're actually like real art collectors.
+
+Speaker C: Yeah. So taking it back to the art, And we're gonna tie back in, I'm sure, some of the market dynamics as well. When you approach an artist, do they often come with, to you with an idea or with a concept, or is it something that you co-create or is it something that's made from scratch?
+
+Speaker B: It depends. In the beginning, it was more something that was made from scratch because again, we started approaching artists well before we were close to launch. And that meant a really long, I mean, sometimes a year collaboration. And so then we would see more of that development process. Still today, there's some moments where we are introduced to an artist or we get in touch with an artist and we're excited about working together, but there's no immediate collection. And in that case, sometimes it'll evolve while we're in contact. For the most part now, it's They at least have a seed, a kernel that we get to watch grow. But usually there is at least an initial concept or an initial experiment. Each artist works differently. So sometimes it's concept-driven and sometimes it's texture-driven or color-driven. And so usually there's at least something.
+
+Speaker C: Bringing back to then, to the conversation we were just having, you know, there's often the talk of What can a piece support in a way? How broad is the algorithm? You know, does this really only create 100 unique-ish outputs? Does it support 400? Could it go as big as 1,000? You know, on some of like the most broadest ones, a lot of works by Kim Asendorf really come to mind there. Is the strength of the algorithm a factor or are you really measuring against the size of your perceived audience?
+
+Speaker B: One caveat I'll make is strength. I don't know if I agree with that word because I think some very strong collections are better in a smaller size. But yes, the algorithm definitely drives collection size frequently, much to the chagrin of our collector base. But usually we're almost finalized, if not completely finalized with curation when we announce collection size, just to make sure that we are not selling any work that can't stand on its own.
+
+Speaker A: What would be an example of a robust algorithm that might be capable of 1,000, but you'd want to constrain to 100? What are some of the factors when you say like, sometimes it needs to be smaller or it's better to be smaller? Like, I'm, I'm curious cuz this is a thing I think about constantly balancing all of this.
+
+Speaker C: So like, when can you see the breadth of what it can produce?
+
+Speaker A: Like if, if it can do 1,000, but it's like actually better to do 100, like what is that nuance?
+
+Speaker B: There's a few factors here. One is the audience. And not just Tonic's audience, but that specific artist market, how recently they've released works in the past, whether the narrative works better with a smaller collection size where we think that we can get people more excited about a slightly smaller size. And I would say again, the visual variety makes a large difference. So just making sure that Sometimes when algorithms are really far-reaching and have a huge range of outputs or some outliers, not all of those outliers will turn out very good. Sometimes when you let an algorithm get a little wilder, there's risk there and sort of those outliers are less successful than others. And so that makes a difference. Really, it's truly artist by artist and collection by collection. If the narrative makes more sense for a smaller collection or a larger collection, If the themes of the work make sense for something more concise. There's a million reasons that could tell you to go larger or smaller at any given time, and it's really a judgment call there.
+
+Speaker C: I think you might think about this more than we do.
+
+Speaker A: I think we all wish that every artist could just do the maximal amount at all times and not be punished for it, but we've certainly seen great collections struggle to mint out or flounder on the secondary because just timing, opportunity, Like you said, like it's their 3rd release in 3 weeks and just happened to be the way that things shook out because of alignment. So yeah, I think that makes a lot of sense.
+
+Speaker C: We've talked a lot about the NFT ecosystem overall. I think specifically within the generative art space, you know, I think it would be really cool to get a sense of what your long-term vision is for the role of generative art and NFTs. I think it's always hard to kind of keep a sense of optimism or perspective in some of these relatively extended bear markets. But what role does this particular corner of the art world have to play moving forward?
+
+Speaker B: As a digital native myself, I have been waiting what seems like my whole life for a digitally native art movement to catch fire, and we finally saw it happen. I am still very much bullish on the long-term perspective here. I think that what I want to see personally is more robust dialogue with critics, with historians, with institutions, museums, a more robust integration into the sort of powers that be. I think that criticism, art criticism, can help make the art even better. It can help push the artists forward. I think it would have really far-reaching benefits outside of just exposure to new audiences. I think that there is a danger in the current narrative that you see in arts and mass media publications where the conversation is still really market-based. And so I would love to see that shift, and I'm actively working to build that bridge and shift that narrative. I was a medievalist, just to give a tiny bit of background here. So I studied the period of art between the proliferation of the bound book and the printing press. And I can tell you that every time there's a major technological advancement in how information is shared and stored and disseminated, there's been a corresponding shift in art and what became the dominant art form. And we, I think, all agree that we've had a massive transformation in the digital age. Now we're using the internet, everyone is more connected than ever. As I said, I was just waiting for that corresponding art movement to emerge, and I'm just really happy that it's finally here.
+
+Speaker A: All right, one more kind of non sequitur question, I think, at least for me, before we move into the rapid-fire portion. Definitely as the man on the show and as the father of a daughter, it's my responsibility to ask. When you look at the Tonic page and you look at the people who work there, there's a lot of women, which is amazing, right? Because Web3, crypto, NFTs is a very male-dominated space. So I would love to hear a little bit from you, Susannah, about like, was that an intentional aspect of building the company and just kind of like trying to bring more of those voices into the space? Was it something that just happened accidentally because you're like, these were just folks I knew and wanted to hire? Like, how did you come to build the company to be broadly women-run?
+
+Speaker B: I think that there is intention. For one thing, having 2 female founders, even if you don't intend it to be, is a statement in this space. I also fully believe that we were the best people for the job. So, I can't say that in that moment, I was thinking critically about that. I will never avoid the fact that I'm a woman. I'm incredibly proud to be a woman. But anytime I do anything. I mean, we're still the marked gender. I'm a female founder. I can't tell you how many times people ask about doing female founder articles or things of that nature. So, any company I lead by default will be a female-led company. But I do think that it's incredibly important to foster that and to continue to give the many incredibly talented women opportunities. There was a really great panel at Marfa last weekend, the FemGen panel, that talked about this, and they asked the question, do you— specifically the artists— do you want to be considered a female artist? And they said that they are artists. It's the reality that they're female artists, but we don't refer to male artists as male artists. My thesis has always been I do think that women are undervalued in the art market. And so I think that they're in general just good buys. And I think that if you're in a male-dominated space, there's a pretty high likelihood that there are some really talented women who might be available. So why not go after them? It's been interesting. I mean, practically speaking, the art world is predominantly female and coming into the space that's predominantly male was a transition, but it's such a welcoming community that I think there have been very few times when I've been hyper-aware of that fact. And I'm really grateful for everyone for that.
+
+Speaker C: Going to start a movement where every episode we're now going to call out all of the male artists.
+
+Speaker A: Yeah, I'm on board with that.
+
+Speaker B: Deal. I think one thing I will say is that there's a lot of evidence that female artists are undervalued. So if you're here for purely economic terms, Probably not a bad buy.
+
+Speaker C: Will has his, uh, escape sitting in a roll in his office.
+
+Speaker A: I got my Lisa Orth. I got my Leah somethings, you know, um, I'm— my bags are packed when it comes to the ladies. So.
+
+Speaker B: There's incredibly talented female artists, so that's a good thing. Good taste.
+
+Speaker A: All right, Trinity, do you wanna start doing rapid fires? Do you have anything else that you wanna touch on before we move to conclude the episode?
+
+Speaker C: Can we have a segue? It's kind of real.
+
+Speaker A: A medium fire. Kind of rapid fire.
+
+Speaker C: It's a medium fire. And I think there's another Medium fire on this question list as well. But what is upcoming in the roadmap for Tonic that you can talk about in terms of expanding the vision of NFTs or the blockchain or art or any potential innovations?
+
+Speaker B: Something that I'm really excited about that will, depending on when this episode comes out, be live is bundled sales for physical and digital assets. As we really double down on onboarding new people, reducing that friction even further where they can participate on the secondary market and buy the digital asset at the same time as the physical that they hope to display in their home. I think that's going to be a huge unlock, and I'm extremely excited for that feature to be rolled out. I think it's going to be a huge benefit to the new buyers that we're onboarding and also hopefully to the space at large. So let's just lower that barrier and help as many people catch the bug as possible. And then the other thing that I'm really excited about is ongoing innovation in how digital art can come to the physical world. We're working on one project that we'll release in November that will be chairs, physical chairs that you can sit in, that can live in your home. They're really fantastical carved and painted wooden structures. They're just so visually captivating that they'll appeal to a really broad range of buyers, but also show what is possible with algorithms, that you can have these unique objects that are otherworldly and impossibly exciting to look at and that sit on your floor and really interact with your life on a daily basis. I just love the idea. I can't tell you how many chairs I have in my apartment and how often I sit in them without thinking about them whatsoever. giving people that punctum, that moment in time where they're reminded constantly that they're living with beauty. I'm very excited about that.
+
+Speaker C: A print so premium you can sit in it.
+
+Speaker B: Exactly.
+
+Speaker C: I can't wait to hear more, see what that actually kind of comes to life as. It sounds so supremely next level.
+
+Speaker B: It's wild. The level of engineering on these things, it just blows my mind. Luke is unbelievably talented, and talk about an artist that I see going the distance. I think he's an icon.
+
+Speaker C: This is Luke Shannon. I don't know if you spilled the full beans on that. Oh yeah.
+
+Speaker B: Luke Shannon. The one and only Luke Shannon.
+
+Speaker C: Famous male artist?
+
+Speaker B: Famous male artist, Luke Shannon.
+
+Speaker A: Don't be afraid to send Luke our way as that project is getting closer.
+
+Speaker B: Deal.
+
+Speaker A: It would be really fascinating to talk to Luke about just the process of building a generative chair from start to finish.
+
+Speaker B: It has been months and months in the making, so I'm sure he could do 4 podcasts worth of discussing this project.
+
+Speaker A: Everyone knows that one Waiting to Be Signed interview is worth 4 of any other interviews, so we'll get through all of it.
+
+Speaker B: Okay.
+
+Speaker A: On that note, another rapid fire here. Who would you like to hear us interview in general? People from the gallery world, traditional art world, people who are skeptical of NFTs that you think would be willing to come on the show? Those would be really great to hear too.
+
+Speaker B: I think that there are There are a lot of curators that are starting to become increasingly interested, and I think that would be great to have. I know LACMA, Whitney, Centre Pompidou, SFMOMA. There's a lot of really great institutions with curators who are now starting to at least be open to conversations. I think that would be great. There's some artists who have participated in the NFT market before, some traditional artists, Chai A. Lee, Urs Fischer. Takashi Murakami, Loïe Hollowell. There's so many. I think it would be fun to talk to someone who has a very established art practice but who is branching out and experimenting here. Iskra Velitchkova, I will talk about to the day I die. She's great in a podcast. She's incredibly thoughtful and brilliant. I think she thinks about the future of generative art in a really unique and special way.
+
+Speaker C: Iskra's definitely on our list as people who are more of the NFT natives.
+
+Speaker B: Good.
+
+Speaker A: Trinity owns an extremely rare uninhabitable, one of the few red outputs on FX Hash.
+
+Speaker B: So.
+
+Speaker C: I would trade it for Nowhere any day. It's such a beautiful collection. It just speaks to me on so many levels. It's just—
+
+Speaker B: 100%.
+
+Speaker C: So good.
+
+Speaker B: Maya Man too, speaking of things that speak to me on so many levels. Yeah.
+
+Speaker A: We just had her on a couple weeks ago.
+
+Speaker B: You did?
+
+Speaker A: Check out that interview.
+
+Speaker B: Okay. I need to go listen to that. I think she's amazing.
+
+Speaker A: One of our recent favorites. It was really fun. All right, back to the not cut out portion of the episode. Trinity, tee us up with another rapid fire here.
+
+Speaker C: All right. What is your favorite piece of art in your collection, physical and/or digital and/or chair? And what is the story between acquiring it or just making it your favorite?
+
+Speaker B: Okay, this is a very, very long story, but I will give you the Cliff Notes version. My favorite piece, I have so many, but the one that came to mind immediately was, it's not an NFT, it's trad, as you say, but it was tangentially involved in the Indigo Filbrick scandal, which if you have not heard of it, I would highly recommend going online and searching that name because there's 100 trashy articles about it. But He was a swindler who set up an art Ponzi scheme and was caught, I think around 2020, 2021, something like that. He was on the lam for a period of time. The FBI was looking for him. It's a very juicy story. And I have a work that was purchased by a friend of his. It's an Eric Döringer miniature copy of the painting that sold at Christie's that brought down his scheme. And it was purchased 3 days before the sale. So on so many levels, it's such a fun, interesting, juicy, scandalous piece of history.
+
+Speaker A: Definitely send us a picture of that so it can be the COVID art for this episode. That's perfect.
+
+Speaker B: It might actually be a copyright infringement because it's a replica of a Gerhard Richter painting that's a replica of a picture of Picasso. So you might be in trouble there by 4 different people. But I'll send it to you.
+
+Speaker A: Also, it's a relief to hear that there were Ponzi schemes outside of NFTs. So, oh yeah.
+
+Speaker B: I think the painting that finally brought him down was sold to 3 people at the same time. So it was held in custody.
+
+Speaker C: I mean, that's just good business. Come on.
+
+Speaker B: That's close to 300% equity. Yeah.
+
+Speaker A: That's a great story.
+
+Speaker B: Yeah.
+
+Speaker C: I'm going to read so much about this right now.
+
+Speaker B: There is so much to read.
+
+Speaker A: On media then, any media recommendations other than looking up the story of this scammer? Any media recommendations you can share? Music, movies, books? Doesn't have to be art-related, just things that you love and appreciate that you want to share with the audience.
+
+Speaker B: If you've never seen His Girl Friday, it's incredible. Highly recommend. That's the only one that's coming to me. I had a very odd pop culture education. I watched pretty much exclusively black and white movies in my youth, so my cultural references are about 80 years behind.
+
+Speaker A: It doesn't extend to modern black and white movies?
+
+Speaker B: It does on occasion. Now I've branched out. Now I'll watch anything, but I do have a slightly abbreviated cultural reference.
+
+Speaker A: All right, fair enough.
+
+Speaker C: Okay, this is a 2-parter. One, what is the origin of the name tonic? Part 2, if tonic were a cocktail, what would be in it?
+
+Speaker B: Part 2 is so easy to answer. Gin.
+
+Speaker C: Good answer.
+
+Speaker A: It's one of my favorites. Gin tonic. It's a Classic.
+
+Speaker B: Same. I did live in London for a year, so couldn't avoid it. Gin. And to answer part one, my co-founder Miriam came up with Tonic. And one, it's a balm. Tonic is a multi-word meaning, but it's a balm. And we wanted something to be sort of soothing and healing to a relatively stressful market. And then two, it's also fizzy and exciting, depending on which version of Tonic you're talking about. And this market is fun.
+
+Speaker C: Gin and tonic answers both of those needs.
+
+Speaker B: A gin and tonic answers both of those needs. It's a great balm. Exactly. It's a great— I feel better when I have one.
+
+Speaker A: Many a gin and tonic has been consumed while we record this show, for sure.
+
+Speaker B: Good.
+
+Speaker A: I think last thing here, if you wanna recap and maybe talk more about some other things that are coming up, do some plugs, Tonic. We talked about the chair, but you also recently announced Dean Black as one of your next pieces that are coming out. Is there anything else that you wanna talk about? Things that you wanna get us excited for on the platform?
+
+Speaker B: Yeah, Dean Black. I don't know if this will be before or after, but I'm incredibly excited about this collection. This is the part that really amazes me about generative art. Making a realistic watercolor in generative art, which he did in this collection, he basically has to rebuild the paintbrush, the hand that moves the paintbrush, the water, the ink. There is so much that goes into that, and I love the virtuosity of that execution, but also sort of highlights the reality of we're working in digital means and there's these 2 big strains that are emerging. One is constructing realistic materiality and sort of familiar materiality of the physical world. And 2 is making art that is only possible in digital means and is very visually distinct. I think that's a really relevant and timely conversation. And I think that watercolor is a really wonderful topic Or entry point for that conversation because it's just so hard to recreate. And it reminds us of that. What seems really minor is actually a chasm between the digital and physical worlds at times. And so I'm really excited for that project to release.
+
+Speaker A: Any interesting premium offering, like using Artmatr or something to do an actual, like, watercolor plotting of it?
+
+Speaker B: We haven't released anything yet, so you will just have to wait and see.
+
+Speaker C: Okay. All right.
+
+Speaker A: It sounds like I guessed.
+
+Speaker B: Hell yeah. No, I'm kidding.
+
+Speaker A: Awesome. All right. Well, Susannah, that was amazing. Thank you so much for taking the time to come on the show. I think we killed it. I hope you had a lot of fun.
+
+Speaker B: Definitely.
+
+Speaker A: Getting grilled.
+
+Speaker B: You're the friendliest grillers I've seen in a while.
+
+Speaker C: And that's how we get you.
+
+Speaker A: That's how we get them. Exactly.
+
+Speaker B: You're smiling while—
+
+Speaker A: Wait till you hear the edit.
+
+Speaker C: You're going to hate it.
+
+Speaker B: Okay, perfect. I can't wait.
+
+Speaker C: Yeah.
+
+Speaker A: All right, everyone. Well, that was Susannah Maybank from Tonic. Hope you all enjoyed that episode. It was amazing to learn more about her background, about the platform, optimism for crossing people over. Amazing episode. Thanks again to Susannah. We'll be back again soon with another episode.
+
+Speaker C: Bye.
+
+Speaker B: Always lit. We're waiting to be nice tonight. The rail of the week.

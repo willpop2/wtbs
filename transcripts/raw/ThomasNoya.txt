@@ -1,0 +1,765 @@
+Speaker A: All right. Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined this evening by Thomas Noya, artist who comes up often on the show. We've been collecting his work and talking about him for a long time. Trinity is here, of course, as well. How's it going, everyone?
+
+Speaker B: Hi, Trinity. Hi, Will. Thanks for having me. Sorry, Trinity, I think I stole your spot.
+
+Speaker C: No, there's no spots to steal. You're the guest. Guests are always first.
+
+Speaker A: Exactly.
+
+Speaker B: Well, thanks for having me, guys. Yeah, let's do this. It's gonna be fun.
+
+Speaker A: It's super exciting because You've had a bunch of releases recently, which we're gonna get into. You're kind of on a roll right now. And we have, of course, you know, I guess this will be the official-ish announcement. We have the collaboration that we've been working on for a while with the podcast, so we'll definitely wanna talk about that later as well. But before we get into all of your work, maybe you can give us an introduction about you, your history in art and coding, how you first discovered NFTs, and what brought you to fxhash.
+
+Speaker B: I would say my background, I have an arts background. Like both my parents were artists or are artists. So I never really had a chance of becoming anything else, sadly. Should have been a banker, maybe that would have been better. So I did a degree first in media production and I worked in filmmaking and advertising for a few years back in Venezuela. Then I moved to London and I went to art school and that's when I discovered, or at least like I found out about creative coding. And then that's when I got into coding because before that, I Never really coded anything, so it's only been like four years of me writing some JavaScript code. Crypto, I heard about Bitcoin early on. I want to say somewhere like 2012 or 13, just because I used to go into the dark web every night and just like browse through weirdness. And I knew about it, but I never really bought any sadly. Then NFTs, I think maybe the first time I heard the term was in like the bull market of 2017. I think maybe in some of the articles like oh. This is like some use case for this, but I didn't really pay attention, to be honest. It was just like maybe I heard it mentioned and I just forgot about it. And then I guess in 2021, it was like the other bull market for NFTs, at least crypto art. There were a lot of headlines of like, oh, this, I don't know, Fidenza sold for this much, or these Ringers sold for this much. And my dad kept saying like, oh, have you looked into like making NFTs with Your art, and I was like, "I think it's stupid." I'm pretty sure I said that at some point. I am at the beginning because I only knew about OpenSea, and I didn't know about anything else. So I kept going to OpenSea. It was like oh so much noise, and I was like, "I have nothing to do here." And it wasn't until like a few months later, I stumbled across Hic Et Nunc, and I saw that it was on Tezos, and it was like much cheaper to mint there, and it didn't carry like the same morals of like using so much energy as Ethereum used to. I started collecting there and I even minted a few AI works there, something really rudimentary, but just for the fun of it. From HEN, I discovered Loackme. When HEN closed, he released, I think it's Sticky Circles in FXHash, and that was probably on week 1 maybe, or week 2. It was pretty early on. I went into FXHash, it all looked very beta, but I kind of liked the energy of it. Sadly, I didn't collect anything. I regret that every day of my life. But I did see the documentation and I noticed that, oh, this is different because you can actually like upload your generative sketches. So I made a note to like come back to it as a platform eventually and just mint something. And by the time I got back to fxhash, there were already, I don't know, like 5,000 projects or something like that. So even though I knew about it from the beginning, I didn't really interact with it that much or at all, which is probably in hindsight an error.
+
+Speaker C: So does your dad release NFTs?
+
+Speaker B: No, but I do have like, um, 3 short video pieces on Foundation that have his music as like, so it's like a collaboration, I would say.
+
+Speaker C: That's so beautiful. He was really flipping the script.
+
+Speaker B: Yeah.
+
+Speaker C: You gotta appreciate that.
+
+Speaker B: You could blame it on me being a contrarian of like, I'm not gonna do what you're telling me to do. He should have done the other thing. It's like, do not get into NFTs. And maybe I would've bought like a Ringer for like 1 ETH.
+
+Speaker C: NFTs, they're dumb as hell.
+
+Speaker A: Yeah.
+
+Speaker B: Yep. NFTs are evil. Yeah.
+
+Speaker A: It's so funny that that's how you got into it. It feels like outside of our small circle, you know, NFTs have such a bad reputation. So many artists seem so resistant to get into the space, I think.
+
+Speaker B: Yeah.
+
+Speaker A: You obviously overcame it with the environmental side and finding Tezos and finding the community. Do you still have a circle of art friends that you're embarrassed to tell them that you do NFTs or that have really like bad opinions of it?
+
+Speaker B: I don't think I've ever been embarrassed about it since I started making or releasing art as NFTs because I just see NFTs as like a— it's a medium, it's a way to distribute my work. I don't really care about anything else. It just facilitates something that I couldn't do before. To go back, I think if ETH didn't have the gas prices that it has, I think I would have minted something on OpenSea back then because yeah, it was the environmental thing, but I guess at least I would have minted something just to try it. But when I saw the gas prices, I was like, this is This is fucking stupid. And yeah, in terms of friends, like outside our space, I don't think I know anyone else from my previous friends who's doing this, even though they're artists. I have a couple who've asked me about like fxhash and how to like start there, and I offered to give them my help, but they've been very busy or not interested enough to actually put in the time. But I don't think I've ever encountered someone that actually criticized me for it, at least in person. Maybe on Twitter someone said that, but who cares about Twitter?
+
+Speaker A: Good point. How did you get into the AI aspect of your art? You mentioned that you've been coding for about 4 years now, but when you were in art school, were you there for painting? Were you there for design? Like, because about half or more of the work that you've released uses AI-trained models.
+
+Speaker B: So my initial idea was to go do fine art degree, but then when I was applying, I decided to change to this newish kind of program called digital arts computing, which was like half arts, half computer science. So that's why I was introduced by uni into coding. In my last year, we had a machine learning course, but the summer before that year, I don't remember exactly why, but I got interested into AI and I started training my own models on this platform called Runway ML. They're still going on nowadays, but I think they've rebranded themselves to cater more to like video editors. Like you can do like special effects and things like that. I've never done that with them. used to use them just to train models because I didn't want to deal with setting up like a virtual machine somewhere. Eventually I moved and started doing my own virtual machines and my own models on my own. I remember the first model I trained, it was kind of funny because I had these ideas like, what if I gather, I don't know, thousands of photos from Vogue runway from like different designers and I just trained like a model on this and tried to make some sort of crazy AI clothes or modeling happening. So I did that with like so many collections. And by the time I was done with it, I was like really happy. And then I read an article that Robbie Barat had done pretty much the same, like a year before me. And I was like, oh, guess I'm late.
+
+Speaker C: Yeah, but still a genius.
+
+Speaker B: He is a genius. I wouldn't call myself a genius. It's so magical to me that you have these models that can generate images. It's magical. It's beautiful that you can have all this weird craziness happening. Although I tend to like more the errors and the imperfections than the ultra-realistic stuff. I can appreciate that for how technically incredible it is, but it's kind of boring. I prefer to go into the Twilight Zone of creepiness.
+
+Speaker C: Like, what's like the creepiness that you would typically be leaning into?
+
+Speaker B: I don't know. Whenever you get like a third eye or like a face that's too long. be a face. The thing is that I don't really work that much with humans or any other sort of animal or creature. Training a model on like clouds that have done that before, but then within the model you start seeing all these, you know, crazy patterns emerge that don't really look like clouds but kind of do if you turn the image somehow. I really like StyleGAN for that reason because you get some really nice textures that you don't really get with like, uh, the diffusion models that are really popular nowadays, like Stable Diffusion or DALL-E. To go back to the question about like how I got into AI, I don't remember exactly what drove me to do it, but I just did it on Runway ML, which was the easiest way for someone who didn't really want to deal with Python back then.
+
+Speaker A: One of the things that stood out the first time I encountered your work, and I'm pretty sure at least I gave it a kind of bad review on the show because I didn't understand it. I was like, because I just didn't know, I really didn't know what it was, right? And I just remember at the time there were like other digital photography projects and people were saying this is photography. I was like, wait, I don't understand. Like, it doesn't look like anything.
+
+Speaker B: Is that DHX?
+
+Speaker A: Maybe the one right after it. It was the one that had a pretty big moment on the secondary. Obviously now I've come around on this stuff quite a bit. What are you using to train those models? What are the underlying images? Because then you're applying all this After Effects stuff too, right? Like you're doing a p5 dithering and I'm sure other effects on top of it. So like, can you kind of walk us through? one of your HX projects, like start to finish, what goes into it?
+
+Speaker B: It's funny because you mentioned that you gave it a bad review, but to be honest, I don't think I listened to Waiting to Be Signed on those first couple projects. I was aware of it because I saw the tweets about it and I thought it was a great name because, you know, back then you had to wait days for waiting to be signed. So I thought that was a clever name. Now I'm curious to hear the review though. I will do that tomorrow. I don't remember the name, but there was There was this like photography collection that did like multiple exposure, black and white. I think even Matt Tessel or Tyler Hobbs tweeted about it.
+
+Speaker C: Was it Metamorphosis?
+
+Speaker B: I don't know the name, but I think it was like pretty big back then. And that's when I thought, I was like, why didn't I think of this before? Of course I can do like multiple exposure kind of things in p5 and add a little bit more magic to it. And that's how I had the idea of like starting the HX series. So in terms of what goes into it, I think every model that I've used in FXHash, I've trained with my own datasets. Usually it's just me taking photos with my phone of a particular subject. I think for the very first one, I used a model of trees and I was going on runs in winter in Brooklyn in Prospect Park. And I kept seeing the trees, they had no leaves and the sky was gray or pure blue and there were no clouds. So the silhouettes of the trees against the sky kind of looked kind of cool. And I thought, oh, I bet like I could make a really cool looking model out of this. So every time I went on a run, I would take like, you know, 100 photos of trees. And then eventually I had enough that I could just train my own model. I did some sketches in Photoshop first, like what kind of blend mode do I need? What kind of dither do I need? What does look good? What doesn't look good? And then I just went into p5 and I made it happen in p5.
+
+Speaker C: So you train a model with thousands of pictures that you took, and then you just have it kind of spit out images based off of the images that were, it was trained on, like?
+
+Speaker B: Yeah. So usually it will give me a bunch of tree-looking things. With the hands, you have the crazy hands or the crazy fingers. With the trees, because I didn't train for a month or I didn't have a dataset that was huge, you get like these crazy twigs that don't make any sense or these crazy branches that make no sense as a tree. So as a visual image, they are interesting. So then what I do is like I train the model, I pick which model I want to use, I generate a bunch of seeds from it, and then I curate the seeds and I see, okay, these are the ones that I want to use. And then I write my script on my sketch on p5, which basically takes a random selection of seeds from the ones I've preloaded into the sketch and it combines them. Back then, I think I was using between 3 to 5.
+
+Speaker C: Wow.
+
+Speaker B: Seeds per output. Each layer that it picks also processes with an array of dithers that are based off the Floyd-Steinberg dithering, but I modify it to be broken air quotes so it doesn't work as it's intended to do to work. I apply a bunch of other image processing tricks like contrast and a bunch of saturation, hue, blend modes. And when all is said and done, all it's combined in like a chain kind of reaction, it creates those outputs.
+
+Speaker C: And just to be clear, when you're uploading seeds, they're image files that are part of the code. They're not being generated within the code that's being uploaded to fxhash.
+
+Speaker B: Yeah. If you could actually host a GAN model in fxhash, you could do it all online. But right now with the 20 megabytes or 30 megabytes limit, that's not really possible. You can do it with like a tiny model like Cyril did with the Moon project, which is beautiful and it's amazing. I think that's why he took that approach of having the grid of like tiny moons, because if you make that image big, it's just probably not gonna look that good. I mean, it might look good if you go into like some kind of glitch aesthetics.
+
+Speaker A: PixelFiller is the other artist who we've known to do that, and I think the way they get around it is by using ASCII or pixel art as their output. So they're not going for something that's very high fidelity, but that whole model is contained within the code.
+
+Speaker B: Yeah, that is the way as of now, unless something occurs in the next couple years where you can have this amazing model and it just weighs like 2 megabytes. And that's where like emerging properties— sorry to take a little bit of a deviation right now— it's kind of interesting platform because you can actually do these things all online.
+
+Speaker A: Looking at your earliest projects here in the HX series, the AI stuff, like I can see GHX-1, you can pretty easily tell the tree influence here. But then after that, moving into MCHX and CHX, it's like I have no idea what the underlying photographs and models are.
+
+Speaker B: So for MCHX, it's a dataset that I built in the Catskill Mountains. So it's a bunch of close-up photos of like rocks and trees and ground and just like all the textures that you find in like a wet environment. So you have all the green colors and all the grays It's rocks. That's what's giving those like oval shapes. For SketchX, I think I only used one model and that one was trained on like close-ups of paint, dry paint from walls or streets or paintings in museums, but like really close. So you can't really tell a figure, you just see like a line or a particular texture or depth. That was the first one where I actually used color in an inherent way like that. That's why it's called SketchX. The other 2, the first letter doesn't really mean anything. The HX came from fxhash. I wanted a short name that could be brandable and it could also represent a potential series. That's how I came up with like HX1. So potentially there could be HX2, but it was never going to happen as a CHX2, but it was like, you know, have the possibility there.
+
+Speaker C: So we can assume that GHX is for Genesis, right?
+
+Speaker B: Oh, there you go.
+
+Speaker C: There we go. It was there the entire time.
+
+Speaker B: Yeah, I absolutely thought of that. Yeah.
+
+Speaker C: So CHX was really, I would say, your first really big breakout. It was one that people saw and jumped on. And I feel like Galaxy has, I don't know, half the collection and Flood has the other half. Not entirely sure of those numbers. We might need to do some fact checking.
+
+Speaker B: Flood has the most for sure. I don't know how many he has, but he has a lot of them. I think probably Galaxy is second, but I don't think he has more than 5%.
+
+Speaker A: Flood was going in— it was at a time that project had a signing issue and it wasn't clear that it was going to be resolved. And I remember Flood was buying—
+
+Speaker B: The ones that were white. Yeah.
+
+Speaker A: I can't remember if it was with 1.0 launch or prior to that, the end of beta, but then it was like all of them got revealed and Pretty good moment for him, I have to imagine.
+
+Speaker B: Yeah, that was a crazy day. That was the first one that I released that I—it was so many editions. I want to say one of the ones before I probably minted it with like 100 or something like that in mind, but then I burned it at some point.
+
+Speaker C: They're all 24 or 32.
+
+Speaker B: Yeah, UHX and MHX were on purpose. I don't think I burned any there, but I think yeah, interlinked. I think it might have been like 100, and then I burned it too. Yeah, CHX was funny because it was the first one where I thought like, oh, 256 makes sense because, you know, 256 bits and it's color. And I put the price at 2.5556 test to make it like symmetric. And I was like, well, if I sell like 20, I'll be happy. So I just minted it and I just let my laptop and I went to do something else. And when I came back, it was gone. I Went into Discord and everything. Everyone was talking about it and didn't know anything. It was like someone's like, oh, Galaxy just bought one for like 100 Tezos. I was like, wait, why is he buying 100 Tezos for this? And who is Galaxy? Because I didn't even know who Galaxy was. Yeah, so it was a crazy morning.
+
+Speaker C: It's so unique and different. It's very differentiated from GHX and MCHX. When you were creating this, what was your thought process? Was it like, Oh yeah, this is like bonkers cool. It's like the best thing I've ever made. Or the way that you're talking about it, it's like, oh, this is pretty pedestrian. You know, I'm just gonna put it out there, whatever.
+
+Speaker B: I had the idea when I did the other 2 that I eventually wanted to do. The first one was gonna be mostly white. The second one was gonna be mostly black, like the inverse. And then the third one was gonna be color. I didn't know exactly how, but it was gonna be color. And then when I was developing it, I was like, oh, there's so many good outputs. Why just limit it to like 32. I'm just gonna make it 256 and it is what it is. But that one took a while because I started making it and I kind of lost interest in it. I guess this is cancelable nowadays, but I watched that like around the time the Kanye West documentary came out on Netflix. Seeing him like being a young kid, I was like, oh, I'm just gonna do my own thing. I was like, actually, I'm just gonna finish this thing on my own time, like at night, because back then I was also having like a normal job during the day, so I didn't have time. Normal hours. So I spent like 2 weeks working every night from like 9 PM till 3 in the morning till I finished it. So as bad of a person as Kanye West is, he did have some positive influence on that project specifically before he was canceled. So please don't hate me.
+
+Speaker C: No, you're gonna have to AirDrop him a couple.
+
+Speaker B: Yeah.
+
+Speaker A: Yeah. I don't think anyone's gonna get mad at you for watching the documentary.
+
+Speaker C: KHX, let's go.
+
+Speaker B: Yeah. Missed opportunity there once again.
+
+Speaker A: The HX series is done, right? You just kind of finished it with Verse. You had a few more on FX Hash around the start of the year that came out, but you finished it with THX on Verse. So what does this mean, I guess, for you and your AI work? Is there gonna be a break? Are you going to find a whole new— are you gonna move away from the dithering look, or is there gonna be like—
+
+Speaker B: I'm not gonna stop making AI work because as of now, because I just love it. I'm not gonna stop making dithering work because I just love it. And it's like, I think it's definitely like the style that I've developed that is like easy to recognize, but it's not going to be the same, exactly the same as the one in HX. And whatever I release in that sort of field, it's not going to be called HX anything. But I do have some ideas I would like to eventually finalize this year. Like, I have this model that I've been working on since like last summer that eventually I would like to finish and do something with it. I don't know if it's going to be released in any sort of like commercial way, but at least I would like to finish the piece. And yeah, THX, um, I was thinking about culminating the HX series this year at some point, and then Verse came along and they offered me the opportunity to be part of Imperfections, and I, I just thought this is a perfect time to finish it because one of my ideas to finish the HX series was to do it around the time or either the anniversary of, um, the first one GHX or CHX. So it was going to happen around this time anyway. So it just happened to be that it's on Verse instead of fx hash. Most of the collectors are from fx hash, so it doesn't really matter.
+
+Speaker C: I mean, as long as your next series isn't the AB series and only exists on Art Blocks, I think we're fine.
+
+Speaker B: I don't think I'm close to Art Blocks, but it's in my mind to apply at some point this year, even for the sake of just applying.
+
+Speaker C: If you need a reference, we're here for you.
+
+Speaker A: Yeah. On the Verse drop, why did you decide to curate it? Obviously you've done some curated work on OBJKT, right? You have a series there, the Some Kind of series, which is really great. Why curate 400 different outputs? It was 400, right?
+
+Speaker B: Yeah, it was 400. The first idea was to curate like 100, 150. I wanted to curate because I wanted to have control on what the collection was gonna be, 'cause all of the other ones were not curated. So for the ending, I wanted to have control on like what I wanted to see as a collection. Take away the money, just as a series that exists as pure art. I wanted to have control of which outputs were there, which pieces were there. At some point I sent Verse around like 500 consecutive artworks random so they could evaluate the algorithm. And then we were like, why don't we make it 400? There were so many good ones. Why limit ourselves to 150 or 100? I'm not gonna lie, it was kind of scary because I think it's probably the only one or the first one that was 400 curated on that platform. I don't even know if any other platform has like 400 curated. It's like a lot of editions. So I didn't know how that was going to play with the market because I know that if you make like 400 generative, people don't really think about it that much because generative carries some sort of premium. But if it's curated generative, I didn't know how people were gonna behave.
+
+Speaker C: Watching it play out on Verse now, I think it's played out pretty darn well. I wouldn't know that it wasn't generative based off of market dynamics, so that's very cool. You've created such a style for yourself with this HX series that it's probably an honor to have one that's been specifically handpicked by you to grace their wallets.
+
+Speaker B: Thanks to everyone who collected. And regards of like the OBJKT series, some kind of, I started that while I was working for Art Fur Theory last summer. Because Afrocherry was taking most of my hours every day and I needed a break from that particular sketch. So what I would do is like I would wake up in like at 7 or 8 in the morning and I would go straight to my computer before anything else, before phone, before breakfast, before coffee, just go straight to the computer and make something glitch. So it started as like a daily series as I was looking for inspiration. And the name just comes from like being playful into like, what does this image look like? So some kind of Whatever I minted on that collection back then, it was minted the same day that I made it.
+
+Speaker A: I enjoy those in particular. I collected a bunch of them.
+
+Speaker B: You have a lot, yeah.
+
+Speaker A: Yeah, just when I was working on the AI gallery in particular. I really like the Rapture. I really liked the way the rainbows played out and like that, the black and white there. Those were super cool.
+
+Speaker B: Yeah, that one was a nice surprise. That one I was not expecting to make that. That series is also coming to an end soon. There's only 5 left, but But the 5 left are not going to be sold. They're just going to be airdropped to collectors of the series.
+
+Speaker C: That's alpha, folks.
+
+Speaker A: Fingers crossed.
+
+Speaker C: If there are any left after we go and collect more of these.
+
+Speaker B: Yeah, I'll go in order of like importance. Like whoever has the most will get, you know, more.
+
+Speaker A: All right. Well, that bodes well for me. What do you think, Trinity, since we opened up for Teori, should we talk a little bit about the P5 work then? Technically your genesis is P5 and then you've had a lot of really standout projects As far as your p5 works go, the one that I first collected and got super excited about, and I think the one that we first talked about on the show too, was 400 Flips.
+
+Speaker B: Yes.
+
+Speaker A: In particular, the beauty of the randomness and noisiness of it, but also somehow feeling orderly and like having these nice little surprises to it. When KenConsumer was on the show around the end of the year, he had this in his top 10 drops of 2022. So For all of us, let's hear a little bit about that one because that one was such a fun release.
+
+Speaker B: Yeah, when I heard Ken say that, I was like, oh wow, that's amazing, like unbelievable. So the idea for the 400 Flips, that's not the name or the concept but just the art, came when I was working on RTX because it's the same backbone. It's instead of seeing the sphere that you get from rotating all those figures in 3D space, it's like a really close-up of that. So it's like the nucleus of the sphere what forms 400 Flips. Of course, it's not the same exact code, but it stems from the same idea. My visual references for that was I wanted to do something inspired or referencing, of course, Jackson Pollock, but also Jonathan Horowitz. Specifically, he has a series called Leftover Paint Abstractions. So if you Google that, you'll see. That one's done with like paint drips, so it's more like circular pointillism kind of thing. So my initial idea was to make something in pointillism style, but when I discovered that mistake with RTX, I was like, oh, I should go this direction instead. I think that was early days of fxhash 1.0, and there was a lot of discussion on Discord about a new wave of quick flippers that maybe weren't there in the same amount in beta days. I don't know if maybe because new people came in or because new tools were around that they could just mint more. So I wanted to make a piece that was supposed to induce flipping. And by inducing flipping and everyone trying to flip, collapse itself on the secondary, which didn't really work that well in that regard because it did kind of well in the secondary for whoever got those royalties. Initially, I wanted to give like 100% to whoever minted, but that wasn't possible. I thought maybe I could do like a Dutch auction, but for royalties too. So like the sooner you mint, the more royalties you'll get, you know, like first 50 will get like 99, then 75 or something like that. I was like, oh, there's no easy way to implement this, it's kind of messy. I'll just go back to my initial idea and I'll just give 99.9 to whoever mints. I would have loved to give 100% because one, it's stronger as a number, and two, all those royalties that I kept getting were so annoying. Fractions of fractions of a test. I didn't even know you could go that low.
+
+Speaker A: That's really funny. Have you heard of this, Trinity? Someone trying to kill the secondary and their drop intentionally?
+
+Speaker C: The closest thing that comes to mind would be RevDanCatt's Art for Bots.
+
+Speaker A: Oh, right.
+
+Speaker C: Which was like 64 editions at 0.16 $TEZ. Happened right after he released a semi-big project earlier in the day and just like all the bots were queued to his wallet.
+
+Speaker B: That's funny. Um, one of my pieces on like my early days on HEN with a different Tezos account, at some point I tried to release like some work for like really cheap and I didn't know that there were bots and I realized that there was a lot of bots and they just took it all. So the next thing I did was like I made like these 10 pixels by 10 pixels black square with like some text that read, for the bots. And I made it like super cheap and I released 100, 1,000 of them, just seeing how many bots would buy it. I guess some other people have done the same thing of like trying to cater for the bots.
+
+Speaker A: Dan is a weirdo like that.
+
+Speaker B: Yeah. How did that project do actually? I haven't seen that one.
+
+Speaker C: It's still largely held by bots, but it has a pretty Beautiful. I hope it stays there.
+
+Speaker B: Do not give the bots the pleasure.
+
+Speaker C: Floor of 111.
+
+Speaker A: So that's pretty good returns, but I think most of the bots got out of it, at least the first, first round of bots got out of it way under that. You know, there were just hardcore Dan Cat fans out there who were like coming up with ideas of which were the best and picking them out because they were all instantly listed, right? So that moment when everything hits the market is like the time to get the one that you like best if you're At least you were nice and you put out 400 editions.
+
+Speaker C: That's something where you can really get yourself to be heavily flipped. 64, you know, there's only so much you can do.
+
+Speaker B: Yeah, the 400 flips, the name comes from, um, the movie, uh, The 400 Blows.
+
+Speaker A: I was always curious if that's where it was a reference to.
+
+Speaker B: Yeah, it came from there. Even though, to admit it, I've never seen the movie. I just knew about the title and I thought that was a great title. So it's a reference to something I haven't even watched.
+
+Speaker A: Anything else that you can say about that one though, about how it kind of all came together? Because it really does have such like an amazing mix of color and composition and like somehow finds a way to be interesting while also feeling random, which is such a hard balance to strike with abstract work.
+
+Speaker B: Most of the time developing that particular piece was spent on like coming up with like different color combinations and patterns within the chaos of what's happening, because there's like a very fine line between just looking like something completely random that maybe looks good to something completely random that just doesn't do anything to something that has some sort of sense, which hopefully the 400 flips to, maybe not all of them, but most of them.
+
+Speaker C: How much tweaking do you usually do to a project, AI or otherwise, to really get to the point where you can look at 1,000 and be like, most of these are pretty all right?
+
+Speaker B: It's been exponential. Like nowadays I do way more tweaking than before. Like, I don't remember how many tests I made for CHX, but I would say less than 1,000. Whereas for like A4Tore, there's probably like 10,000 tests somewhere. I haven't counted, but I'm sure it's at least 11,000 or 12,000. For 100 Flips, I would need to see my hard drive, but there's probably like 4,000, 5,000 tests for 100 Flips.
+
+Speaker A: Well, should we talk about A4Tore then? Finally, that's the kind of the big collab you did with Tender, and It's interesting that you say that it was, uh, you know, so many test outputs, cuz I think a piece like that can be so deceptively complicated, even though it might appear, for lack of a better term, like kind of simple, right? It's like this thing that goes across the screen and draws and leaves these streaks. And so what was that process like?
+
+Speaker C: And how was it working with AJ? And you can drag him through the mud if you need.
+
+Speaker B: No, no, no. I would never do that with him or anyone, to be honest. If we go from the beginning, yeah, so like I was very surprised when like AJ and Flo approached me to do something with them, and I was like, okay, let's do it. So from the beginning, we were like going over ideas. It's like, should we do something like a collaboration from scratch, or should we do like the other sort of collaboration that Tender has done in the past, where it's like you take like an almost finished project and there's some sort of like final— I forgot the right language for it, but I think, um, Tidally Disrupt the Star did one like that.
+
+Speaker A: An advisory.
+
+Speaker B: Advisory. That's it. That's the word I was trying to remember. So I was like, no, if we're going to collaborate, let's do something from scratch, whatever it is. I presented them with like a couple of ideas that I had in mind around the same time, and then we took it from there. We talked about like some of my current references in art and anything that influences me. Alan is so good at like bringing the best out of artists, at least. I don't know if he brings the best out of anyone because I don't know how he does with any other people, but for artists, he's such a good influence. I don't know if Afrochore would exist in that way if it wasn't for him, because even though I had some core idea related to Afrochore, it wasn't even close to what it ended up being. So I'm super happy that happened as it happened. I think it took us like in total like 6 months, and most of that time was making sure that the movement looked correct, because the backbone of that sketch was done in like 2 months. Of course, a lot of attention was put into color, but most of the time was into like the movement of the animation where when it's rendering, because we wanted to make it look human. We were not looking into like making it look like, oh, the lights look like the real lights, or the ones that look like paint, that it's like looks like real paint. We're not trying to fool people into thinking that it was something that it wasn't. It was more about the movement was the important thing. It needed to be playful. It needed to be like human-like gestural from a hand, and finding that right balance between speed and movement and direction and little imperfections in the path that it follows for the patterns that it forms and the shapes. That was a big challenge. That was so many hours every day of just like doing render after render after render. I was like, no, not here, not here. I ordered a print last week and I was seeing them render again. I was like, they just make me so happy every time I see them.
+
+Speaker C: How do you even go into the process of creating something that feels human and feels lifelike? It's not like you can just watch video after video and kind of superimpose it. Gone with code, you can't really see how human it is until after you've implemented it and trial and errored.
+
+Speaker B: If I were good at math, I would have probably done it way sooner. But because I'm not good at math or coding, it was a lot of trial and error. My approach to generative art when it comes to the technical part is a lot of brute force, trial and error, hours and hours of just plowing through it. Because a lot of the times I do have a clear idea visually of what I want, but executing that in a way that makes sense or it's sustainable across X and many editions, for me it's trial and error. If I were really good at coding, it would be way easier, but that's not me.
+
+Speaker A: That's rough.
+
+Speaker B: Well, it is fun because in that trial and error you get surprised, and in surprises I always find new directions or new ideas that I didn't even know were possible at the beginning. So I've made that a part of my process. I have a seed idea and then I start executing it in a generative way or environment and I end up somewhere maybe not fully different from the concept of it, but visually I end up somewhere different that I didn't even know it was possible. And that's what I really like about automation and generative art is like, even though I'm not great at coding, it just allows me to do things that I wouldn't do any other way, or at least it would take me much longer to do because I can automate the process. What I really like about generative art or AI or machine learning is that surprise of finding the unknown that was there but you didn't know was there. That feeling is the best thing. Exploring those avenues are what I've come to accept as my practice, just to like follow the errors.
+
+Speaker C: Or just the thing that looks really cool.
+
+Speaker B: Usually the error looks cool. Yeah, yeah, yeah. At the end of the day, if it doesn't look cool, then what's the point?
+
+Speaker A: Not to plug the, uh, Logo with Fractals project, but the coolest ones are the ones that kind of bleed.
+
+Speaker C: The ones that crashed almost.
+
+Speaker A: Yeah. That was the thing was like when I first found that effect by accident, it's kind of like a broken recursion in the loop and it creates this like really cool, like bleeding ink effect on some of those fractal outputs. And then the trick was figuring out how to like keep that effect in the code, but create a stopping point so that way it wouldn't actually like go on forever and the token wouldn't sign. I think actually maybe there was like one or two that didn't sign or something. I remember someone messaging about, about it, but, um, it's fine.
+
+Speaker C: That's the best one.
+
+Speaker A: Yeah, that's probably the best one. I kind of want to talk about our collab. Do you want to talk about Ciudad Central first? Is there any cool story to that one before we move on?
+
+Speaker B: So Blind approached me to do something with them, and I had this idea in mind that I wanted to try at some point. I wanted to pay homage to like some of my favorite artists growing up and still nowadays, like Jesus Soto Cruz-Diez and James Terrell. And I also had this idea at some point. I made this particle system that used part of my DNA data in the particle system, like the genomic markers in it. Just pure numbers. It's not like a scientific implementation of the code. It's just like a symbolic gesture. And I wanted to try to do something like that for fx hash. And $fxh has a few lines of my DNA in it. Not doing anything scientific, but there's a literal piece of me in there somewhere. I got that through these like ancestry tests that you get. You can actually ask them to send you the raw data. It's like a massive text file that crashes your computer with millions and millions of numbers and letters. It's like a new direction that I want to keep exploring at some point this year. I'm looking into making it more of like physical pieces, so I'm going to start making some experiments with different printing methods with it, and it'll keep growing into a series eventually. But for now, I'm really happy with just being Ciudad Central and fxhash. And then we're gonna go to the collaboration. I mean, you wanna talk about like how it started or?
+
+Speaker A: I think it started kind of with Trinity when she met you back at NFT NYC, which at this point was almost a year ago.
+
+Speaker B: I guess, yeah.
+
+Speaker C: Oh yes, we said hello and then we listened to a mariachi band and then got kicked out.
+
+Speaker B: Kicked out, yeah. Good times. And then we thought about making This collaboration.
+
+Speaker C: It's everybody's local. Let's do something.
+
+Speaker A: That was the big realization was Trinity, we talked later that week and you were like, oh yeah, I met Thomas Noya and he like actually lives in Brooklyn.
+
+Speaker C: And we're like, does he play Magic?
+
+Speaker B: I think the last time I played Magic, I must have been like 13 or so.
+
+Speaker C: So that's a yes, you do play Magic.
+
+Speaker B: In a different lifetime. Yes.
+
+Speaker A: There's apps for that. You can get reacclimated pretty quickly.
+
+Speaker B: Yeah. I'm scared to do that with like a bunch of things.
+
+Speaker A: You can, you know what, after the collab is done, then jump in.
+
+Speaker B: Okay.
+
+Speaker A: Devote as much time as you want. At that point, we had figured out that it wasn't sustainable for us to make our own projects anymore. And we were trying to work with collaborators. We had some success, you know, a few successes. And then we started thinking about what can we do that would be a little more meta, right? Like a little bit more big picture than, you know, all of the collabs are great, but we wanted to move away from just doing a logo necessarily, or some of the earlier stuff. So just kind of like, let's do something with AI. And where we settled was we're gonna train a model on the show, uh, on text transcripts. And that's kind of where we're at now, right? Like we have the model basically done. That's where you come in, Thomas, and tell us a bit about like, from your perspective, like what's interesting or exciting about this project to you and like what's the difference using text and—
+
+Speaker B: From the very first moment that you said, let's do something together with AI, my first thought was like, What kind of image do you want to make? And then you said like, oh, let's train a model on all the episodes. Like, oh, now we're talking. I had done some basic stuff with language models, but I had never done anything serious with it. So this was the perfect opportunity to do something fun and different for a change. Also, I don't know if any— I mean, I'm sure someone has done it, but I don't know how many of those there are in fx hash going around.
+
+Speaker C: Sasha Stiles. There's some other stuff. Poetry.
+
+Speaker B: Yeah. But by metrics, it's less than 20. Definitely. It's fun to do something slightly different. And there's also so fun about language models that are trained on not that much data because they're so weird in a fun way. GPT is amazing, but it's so good, you know, it's a different kind of amazing. Though the model that we have, it's so— I guess everyone will see whenever we release it, but, you know, some of the outputs are just hilarious.
+
+Speaker C: So that was trained on what? 45, 46 episodes, something like that?
+
+Speaker B: I think at least 44.
+
+Speaker C: So that's, let's say, 50, 60 hours of audio worth of transcripts. What would be better?
+
+Speaker B: Millions and millions of pages.
+
+Speaker C: Okay.
+
+Speaker A: That was the biggest surprise to me, was like when you said, oh yeah, well, you know, we don't have very much data here. And I was like, what? We have an entire year of episodes.
+
+Speaker B: Yeah, but I mean, I'm used to working with little data whenever I train my own SAM models, by professional scientific standards, I'm using nothing. If I use like 500, 1,000 images, that's like 0.1% of whatever they use to train their faces. Like the famous, this is not a human, that was probably millions of billions of photos. So by like computing standards, it's nothing. But for art standards, you get the really fun outputs from, from the imperfections of the models. The major challenge so far for me is that because it's a text-centric piece, it's more like graphic designy, not in a bad way, but it's like you have to take a different approach because it has to remain understandable to a point. Because we don't want to abstract the text to a point where you— it just becomes like a building block, but you can't really read what the model is saying. So it's a fine balance between making some cool looking compositions, but still having the output spirit of all that. So people can enjoy the craziness of the Waiting to Be Signed model.
+
+Speaker C: You can't just dither it, which would probably look really cool.
+
+Speaker B: I tried, but it didn't work.
+
+Speaker A: We could have a key, right? We could have a toggle, dither on, dither off.
+
+Speaker B: That could be an option. Let's see what happens. Yeah. I think it's better just to keep it like, um, waiting to be signed model-centric and just make it its own style.
+
+Speaker C: I love that it's kind of a mash between the AI work because, you know, that's like the source and then also Finding something cool to do with it with JavaScript. And so it's kind of the best of and worst of both worlds in many respects.
+
+Speaker A: It's also kind of cool because, you know, within the past we had very little input. Like Trinity, I would say by far had the most input on most of the collabs we did in the past and, and helping to like—
+
+Speaker C: I provided fonts.
+
+Speaker A: Yeah. Font, pick fonts and, and do a little bit of like art directing. I mean, in particular, I wouldn't say art directing, but you were like, I like posters with Jeres. Like both of you just jumped over the Olympic posters.
+
+Speaker C: Looking at stuff from like the '80s, it's just so on point. Who was ever doing the graphic design back then is just—
+
+Speaker B: Yeah, like whatever happened to humanity after that?
+
+Speaker C: Both of their time and ahead of their time, or things just come full circle.
+
+Speaker B: What's the word for that? Like anachronistic? Like it doesn't belong anywhere, like it's out of time.
+
+Speaker A: But the cool thing here is like, since, you know, we're not wrapping this model into the code, right? Like just like your image-based stuff, we have to pre-curate all of this text strings. And so that's something that we can all participate in. participated now that the model's trained. And like, we've been tweeting some of them, but I don't think anyone has guessed what those—
+
+Speaker B: What's happening?
+
+Speaker A: Weird tweets are yet. A couple people have messaged me saying, what is this?
+
+Speaker C: Were you hacked?
+
+Speaker A: Were you hacked? Or like, something happened.
+
+Speaker B: So this last week we both tweeted around the same time, the one about it's all about the gas or something like that. Yeah. And Trinity, you mentioned that in Discord too, and people were like, what is this? What is happening? It's really Yeah, it's a very interesting process to just like— I mean, there was a way that we could have trained a model and have it run inside fxhash, but it would have been a different technology and the model would have sucked.
+
+Speaker C: Mm-hmm.
+
+Speaker B: I guess it would have sucked to a point where it wasn't even funny. So the compromise was like, oh, let's try a GPT-2 model that's gonna make better outputs, but it's not gonna fit within fxhash. So let's just do all the outputs outside of fxhash. We can still have the awesomeness of the model, but it'll not be running live. I mean, maybe one day you could have a website and host it there and people just can go there and prompt it things.
+
+Speaker A: Ooh.
+
+Speaker B: That's a really good idea, actually.
+
+Speaker C: WTBS.
+
+Speaker B: That's always possible.
+
+Speaker C: Let's go. Yeah.
+
+Speaker A: Wait, does that actually work as a URL though?
+
+Speaker C: Yeah, you can. Yes.
+
+Speaker A: Sick. Well, we have to, let's launch the project first.
+
+Speaker B: Yeah.
+
+Speaker C: That's what you two have been mostly doing a lot of the lifting on string creation. I don't think I've. figured out how to do that quite yet.
+
+Speaker B: There's still time.
+
+Speaker A: I've been coming at it not as frequently as I had hoped to, but I've been working on like the ones that start with multiple words in that document. But we need a lot more, so Trinity, figure it out. It's actually pretty fun. It's because you get to craft it and kind of figure out like what prompts will create a fun string and what won't, and play with the discipline of the output too, like how creative it gets or how close it sticks to the script.
+
+Speaker C: I'll have to take a look. Yeah.
+
+Speaker B: It's interesting that the more niche the word is, the more it doesn't know what to do with it. So a lot of times if you put something really specific that's not that common, it'll think the word is the name of an artwork. So it'll be like, AirPods, it's an amazing piece, instead of like, AirPods are headphones that you use, blah blah blah. Recently I included that quote from a couple episodes ago Where you said like, NFTs are evil. Your therapist said that. And I was like, that is gonna make an amazing seed. And that's the seed that created the thing about gas. Like, don't spend it all on gas. Don't spend it all on gas.
+
+Speaker A: I think it was like, don't spend all your tears on gas.
+
+Speaker B: Yeah, it was. It's beautiful. Like, yeah.
+
+Speaker A: Never do that.
+
+Speaker B: Yeah.
+
+Speaker A: That one will be in there, hopefully. You know, if—
+
+Speaker B: That should be a t-shirt. Like, yeah, it should be a t-shirt and a hat and everything.
+
+Speaker C: God. And I feel like it's so appropriate for this whole blur time because people will be crying.
+
+Speaker A: Yeah.
+
+Speaker B: Yeah.
+
+Speaker C: Yeah.
+
+Speaker B: Yeah. I'm not looking forward to that day in like 6 months.
+
+Speaker A: I guess this is kind of— I mean, it's on topic, it's off topic for your work, but is that something that you think about now moving forward? Which is like, sure, on Tezos we're all being very good about enforcing royalties, but you've put some work on Ethereum now, and I imagine, you know, if you want to do Art Blocks someday or do more stuff with Verse, Is this now top of mind for you? Like, are you thinking strategically about how you might do releases with royalties not a guarantee?
+
+Speaker B: Not really. Not because I don't think it's important, just because I haven't had the time to worry about that. I think I'm just postponing my worrying moments to after I'm not that busy, because I don't know what solution I can actually implement to do that. I mean, I liked the previous episode, Trinity, you were mentioning that OpenSea should do the UX Solution of like by default you are opting to paying royalties because most people will even forget about tickling that. That's just data. People do not like unticking boxes. I really don't know what the solution is. It doesn't matter if I do any platform eth unless Tezos disappears, and I don't even know if that's going to happen, and I'm not even worrying about that. I'm always going to release work in Tezos and FX hash. I don't think it's going to be as many projects as last year just because. I cannot keep that rhythm, and also because I want to continually increase my quality of work. In order for me to do that, I need more time in between series. If I was a really fast coder, maybe I could pull it off, but I'm not. So for me, it doesn't matter if I release on Verse, OpenSea, Art Blocks, fxhash, OBJKT. I'm always going to be playing everywhere. For me, the platform is not the main thing. The art is the main thing. So whatever infrastructure supports That I'll be there. Not on Solana though. Not on Solana, not on Cardano or any of those weird things because why?
+
+Speaker A: Hey, I have some Cardano from way back in the day.
+
+Speaker B: I used to have Cardano back in the day. I don't think I sold at the top, but I'm pretty sure I made some money from it.
+
+Speaker A: Yeah, I didn't sell at the top either, so I'm just holding still.
+
+Speaker B: I did sell Ripple at the top back in the day.
+
+Speaker C: I think I'm still holding Ripple in a lost wallet.
+
+Speaker A: So in a lost wallet?
+
+Speaker C: Well, not a wallet, is on like some exchange that went down. Oh yeah.
+
+Speaker B: Oh, that's even worse.
+
+Speaker C: Or it's like, just sorry if you're a US customer.
+
+Speaker A: You have 30 days to move your money or—
+
+Speaker C: And we're like, yeah, I got that email like 5 years ago. More than that.
+
+Speaker B: Never did. Let's see.
+
+Speaker A: Do you wanna talk about your collection a little bit? Are you an active collector? Do you like seek out a lot of AI stuff or are your tastes really eclectic? And who do you like? Who do you think is like maybe a little bit undervalued or underexplored?
+
+Speaker B: This year I haven't been that good at collecting. I think last year I collected way more, not because of any economic reasons. It's more because I've been so busy working that when I'm working I forget about drops, and then secondary is, you know, crazy, so I have to wait and things like that. But if there's something that I really like and I missed during the mint, I would probably go back for it at some point. Recently I remember from like the big pieces that I really love, I have a Coronale, And a Glossolalia that I absolutely love even more than Coronado, I think.
+
+Speaker C: Oh, I love Glossolalia too. What do you love about Glossolalia? Let's talk about that.
+
+Speaker B: I don't know, there's like the blocks, there's more depth, the story behind it, it's so powerful. And I'm not an expert on Coronado, but I think there's more colors going around in Glossolalia.
+
+Speaker C: Definitely way more vibrant.
+
+Speaker B: Yeah, such a strong piece. I don't think the market loves it as much, but Who cares about the market?
+
+Speaker C: 60% below mint right now.
+
+Speaker B: Yeah, that's it, perfect time. Sadly, the one I want is not for sale, which is the one you have.
+
+Speaker C: It is a very nice one.
+
+Speaker B: I think it's like a light purple. Yeah, that palette is so beautiful. That's one of the few drops where I actually minted the palette that I wanted. I wanted a black background. Usually I always want something and I never get it, and I have to go to secondary and try to sell what I minted and try to buy something Which is a little bit friction, but it's all part of the game.
+
+Speaker C: The danger of long-form generative art.
+
+Speaker B: A couple hours ago, I just collected this one. I think it's still available to mint. I didn't know the artist, but I do like the art a lot. Recursive Realms by Salviado. I should mint a couple more. It's so good. I'm a very eclectic collector. I collect usually if it's not expensive, I'll either collect anything that I like or anything from any artist that I want to support. If it's expensive, then I really have to like it. But either way, I always collect with the idea that, you know, that money is gone, so I don't really pay too much importance to it. I think the only piece that I've ever minted that I was like, okay, most likely I could make something, some return from this, was KGM.
+
+Speaker A: And did you flip it?
+
+Speaker B: No, but I listed it like a week ago. It's way above floor, so I'm not expecting it to sell any, like, any day soon, but I just listed it for the fun of it. I think that's the only piece that I've minted that I was like, okay, I could probably make money out of this if I wanted to. It's like a risograph background with colors.
+
+Speaker C: It's one of the rare ones. It's beautiful.
+
+Speaker B: I got lucky. It's a nice one. I should have bought 2 that day. I was— that was the same day I dropped RTX. Like, half the test from RTX went into that KGM. I was tempted to mint a second, but I was on my phone. on a car and it wasn't working and I gave up. I do remember that I minted for 666 tests, I think, which I thought was kind of funny.
+
+Speaker A: Yeah.
+
+Speaker C: Hey, it worked out. You got a good one.
+
+Speaker B: All about the numbers. In terms of artists that I think they're undervalued for whatever reason, I do have a little list here. In advance, I want to apologize to all of them because I am going to butcher all your names. So with that said, Kusamehewa, 3DT, PaperCut, Polymorph, Boro, all amazing projects by them. Elaut the Cock, Chatori, Dashine the Shade, so good. I mean, I collect everything he releases, it doesn't matter what it is.
+
+Speaker A: He's a very active Discord user as well.
+
+Speaker B: Also, yeah, like there's something so like old school digital about it. I don't know, like net art kind of vibes.
+
+Speaker A: I chatted with him once in price discussion And he has, I think, a long career in making digital objects. A dozen or so years ago, making stuff for Second Life and selling it. And I'm sure even before that. So—
+
+Speaker B: It does have that vibe that people nowadays, every now and then, like younger people like us, try to replicate. But he is the real thing. It's like pure. It's so good. Sam Tsao is definitely not unknown, but I think they are undervalued. Look up Ish Gorej. Or Protocell Labs with like Obscurum. I think that's definitely undervalued. Gorilla Sun, for sure. He's such a treasure. His blog is like an amazing learning resource. So everyone who's trying to learn something from generative coding or anything technical and JavaScript related that relates to art, go to Gorilla Sun's blog. Antonio Verley. He's kind of new to the platform, but he has 2 releases and I really like them both. Actually, that's one of the most recent pieces that I bought from Second Diet, the same I was like, I like this one too much. I don't care what happens. I'm gonna get it.
+
+Speaker C: Which one? The first one, Debyte, or the—
+
+Speaker B: The second one. Um, Umbra Money. Yeah, that one. There's too many, but the last one that I had written down is Harry Isaac. I don't think they've done anything lately, but I do remember that Chromantix was like one of my first mints on FXHash. I think I minted 2. I flipped them both for like the top, and I actually want to go and buy some more because I like that project so much. I still have one of their blobs things.
+
+Speaker C: That's Will's favorite.
+
+Speaker A: I always liked Blots more than Chromatics. I liked the movement of it.
+
+Speaker B: It looks like a skin. It's so weird, but I love it. It will look amazing like in a big projection or on a big screen somewhere. I also have his last drop on fxhash. What was the name of that one? It's like very like cyberpunk kind of thing.
+
+Speaker C: Oh, Cybernetics.
+
+Speaker B: Cybernetics. Yeah.
+
+Speaker C: Still available to mint.
+
+Speaker B: Yeah, I don't think that one did well market-wise. Anything he's made, I like it. I hope he comes back at some point.
+
+Speaker A: Harry's also in New York.
+
+Speaker B: Oh really? I thought they were from the UK.
+
+Speaker A: No, I met them actually right before I moved to Jersey City.
+
+Speaker B: Oh cool.
+
+Speaker A: We met up in Brooklyn and I think they just have career stuff going on.
+
+Speaker C: So I did not know that Cybernetics was audio. I forgot about that part.
+
+Speaker B: At least my laptop, that piece kills my computer. So maybe, I don't know if that played a part on not being that popular.
+
+Speaker C: Uh, the visuals don't load for me, but the sound does.
+
+Speaker B: So it takes a while to load on me, if I remember it correctly.
+
+Speaker A: Let's see, I don't know if this qualifies as a rapid-fire question. We asked Ivona this question, we asked the Emprops duo this question.
+
+Speaker B: I think I know what it is.
+
+Speaker A: Yeah, so considering that you've trained your own models, do you have a strong opinion either way on AI usage and like the difference between training your own model versus just using prompts with a model trained on just public whatever, like the Midjourneys of the world. Like, yeah, now this is so publicly available and evolving, what's your feeling on it?
+
+Speaker B: I don't have any strong opinions about it. I do see both ways of the argument. I train my models on my own data, not just to avoid this sort of like gray area, but just because I want to have control on what I want, and I want it to feel more like artisanal in a way, more personal than just using data that's available online, whatever that is. I do see the point that a lot of people are making nowadays, especially people that are not into digital art or coding art or whatever, which is like you're using data without permission. I don't think it's right, but at the same time it's like so complicated because if they scraped the paintings or photos or whatever images they are from your own personal website and there is some copyright in it and they didn't ask and there's some legal basis for it, then I think you should definitely pursue a legal action against them if you're an against. But if it's from like Facebook or Instagram or Twitter, I mean, I think you pretty much gave up all those the moment you signed up for it. So I think if we're going to complain about data being used for training AI models, I think there's bigger, more important things, more personal things. Like everything you do in a phone or a computer, it's tracked. So why aren't we outraged about that? Which I think it's more personal than an image. It depends, I guess, also how you use the model. Like if you're using the model to make a copy of a particular artist and claim it as the artist, but it's not, just to like make a copy of it and try to sell it as is, then that's of course not cool, amoral, and probably illegal too. But if you're just using the artist in a prompt to arrive somewhere new, then how different is that from referencing someone else? Like, we all do that consciously or unconsciously. Like, the only way to avoid that is to grow up in a vacuum. And even then you would still be influenced by what the vacuum is. If it's 4 white walls, you're going to be influenced by the 4 white walls. So I don't think there's a way to avoid any sort of influence. The problem is that because it's automated or like there's machines involved, it's much faster. So you could make more of them quicker than before. If the problem is the art subject, like, then you're paying more attention to something that's not the art. If the art is good, it's gonna remain. If the art isn't good, it doesn't matter how it was made. It's going to be forgotten, or it's not going to have any impact on any person or any market or anyone, or whatever metric you want to use. Idea, concept, and intention are more important than whatever tools you use to make it.
+
+Speaker C: Mm-hmm.
+
+Speaker B: I mean, you go to an ad agency and whenever there's someone like, oh, let's make this commercial, they're always like, oh, let's try to copy this style. Everyone always tries to copy everyone else's. So I think as long as you don't try to pass it as their I think it's sort of like a gray area that maybe we could live with. I'm not gonna deny it's like an annoying move by the part of these tech companies, but at the end of the day, they're tech companies. They always gonna— what's the saying? Like, it's better to do it and ask forgiveness than to ask permission. I don't know, you have to change the world before you can actually fix this problem because it doesn't happen there. It happens in any sort of industry.
+
+Speaker C: And I can tell you, just as somebody who is working in the professional services world, that AI is literally the only thing that people are talking about right now.
+
+Speaker B: Yeah, it's kind of annoying because the conversation in the public is so superficial and misinformed to a point. It's like talking about aliens or talking about the chupacabra. It's like that kind of like sensationalist thing. There's bigger problems in the world than this. Also, like, I'm influenced by the place I grew up in. So these kind of like super niche problems of the developed world, I find them kind of funny. I grew up in Venezuela and I was like, that's a different kind of problems that you get there. So it's like, it's fun to see them, but like, I don't really care.
+
+Speaker C: Mm-hmm.
+
+Speaker B: If someone's getting hurt, then for sure pursue whatever avenue you can. But if it's just for the sake of creating argument, then it's kind of irrelevant. I would be more worried about the AI taking actual jobs, like, you know, driving jobs or construction jobs or like things that are more like easier to take away. Driving is objective, like you just need to go from point A to point B, whereas like art is completely subjective. So even if it's made by a machine or not a machine, it doesn't matter. It's about the art. But like driving is something like once you take that away, like there's no going back. If that ever happens, I'm not saying it's gonna happen, but like that's like something way more important to worry about.
+
+Speaker A: According to Elon, we've been 1 year away from solving the self-driving now for 6 or 7 years.
+
+Speaker B: So 10 years. Clearly not. Eventually it'll happen one day. Yeah.
+
+Speaker C: I mean, they're self-driving already. Come on. It's just if the government would let him, just let them go.
+
+Speaker B: I mean, I hope it does not because I want the jobs to be lost, just because I want to see more cool tech or whatever. It doesn't have to be him. It could be any company. I don't care. It's just, I wanna see other things happening.
+
+Speaker C: Mm-hmm. So just a quick question going back to the outputs from AI-generated art, and I know that this is the conversation that people had when cameras were invented or became very widely well known. How will we know if something like that is AI generated is qualitatively good or not? And what makes it good art? Sorry, big question.
+
+Speaker B: I mean, it's totally subjective. For me, it's like if I see something that I connect with or it moves me, I like it. When I'm evaluating an art piece, my first point of data is not the tools that it was used to make it, it's just the final version of it. Because it's visual art. Then if I'm curious about it, I was like, oh, I wonder how they made this. Like, oh, it's actually like they drove these little holes through the canvas and then they put gold in there, whatever it might be. Or if it's like generative art, it's like, oh, I wonder how they actually wrote this code because it's like I can't even fathom how this is possible with code. If we wanted to evaluate like what makes art good or not, I guess we would need to do some sort of like blind test where like you put a bunch of artworks and some sort of control group comes and they're not told anything about the artworks. They're just told like which ones you like. And it has to be a lot of different styles because if you just go for the like realism style, then AI will probably get a lot of those. But if you start mixing things up with like some abstract expressionism or some like surrealism or other kind of things, then we're gonna get interesting results. Why is it so crazy to think that a machine can make a good piece of art? Like, why couldn't I mean, at the end of the day, the machine exists because someone wrote it, so you can trace it back to a human.
+
+Speaker C: Mm-hmm.
+
+Speaker B: Even if the dataset is not from other artists, because if the dataset is from other artists, then the art you can argue is coming to a degree from another human. But then if it's like a dataset created with only like generative digital images, then it's still coming from a human. It's always going to trace back to a human because even if an AI develops another AI on its own, the first AI was from humans. So I don't know, like, we could keep going down this hole forever. Um, I don't know if I'm like too idealistic, but I think we sometimes in public conversation, too much importance is paid to the tools and not the actual piece. And if we were only guided by only that metric, then the best camera and the best lighting equipment will always translate to the best movie. And that's not always the case in my view. I mean, but I'm pretty sure a lot of people disagree, but that's how I see it.
+
+Speaker A: I think a lot of people probably do agree. It sounds like a pretty well-thought-out take, if I have to say.
+
+Speaker B: It's easy to get lost in the technicalities, but at the end of the day, if we're evaluating art, then we should pay more attention to the actual art and not— of course, the process is important, but at the end, who cares if that thing on your wall is a digital photo or analog photo, or if it's a painting, or if it's like an impression, a print of like something digital? If you like it and like it, then what's the problem?
+
+Speaker A: Hell yeah. For the sake of time, I think we need to move on to the rapid fires here. You told us in advance, Thomas, that you are well prepared for this one. I'm kind of excited to hear.
+
+Speaker B: Yes.
+
+Speaker A: What do you listen to while you code, and do you have any music recommendations for us?
+
+Speaker B: Okay. Brooks and Dunn.
+
+Speaker A: Country music?
+
+Speaker B: Country music. Yes.
+
+Speaker A: Really? Wow.
+
+Speaker B: Great to code to. Yeah. Alan Jackson, Glen Campbell. Beautiful. I'm joking, but I do listen to country music when I'm coding. It depends on the stage I'm at. Like, if I'm at the beginning and I need like inspiration, I might go for something like Arca or Björk or like the soundtrack to Blade Runner. If I'm like in the middle and I need some energy or just some background, something that keeps me going, you know, like The Killers, Arcade Fire, Four Tet, The XX, Springsteen. Venezuelan bands that I like, like La Vida Bohème. And then there's a podcast by Bloomberg that is like the most middle-aged white financial New York person there is. And I am not a finance person, but it's called Masters in Business. And I know nothing about finance, but there is something about that podcast. It has the right balance of like enough information to keep me interested in it. But because I don't know so much about it, I don't get distracted. So it's like perfect background noise. So if you want to maybe subconsciously learn something about business and finance, Masters in Business is the one.
+
+Speaker A: Middle-aged white from New York talking about something that you know a little bit about. I'm trying to think of what other podcast this could be.
+
+Speaker B: No, no, no, it's not. It's a different kind of vibe. It's like a Wall Street vibe.
+
+Speaker A: This is how people will be talking about us.
+
+Speaker C: That's us. Yeah. Not financial advice.
+
+Speaker B: Imagine people who were like 30 when Wall Street the movie came out, you know, that kind of people, like. You play like 10 minutes and you'll understand my sentiment. I do love it, like, I'm not criticizing, it's just like a very specific target that I'm not really at, but I do like it as a background noise. If I'm like towards the end of a piece, or for example if I'm writing things that require my attention, then something without lyrics is better because my capacities to like listen to music in English and also write things in English at the same time is not very good.
+
+Speaker A: Makes sense. It's interesting though that you do like country. Even though you were kind of joking.
+
+Speaker B: I like it. I shield myself behind, like, it's in an ironic way I like it, but I do like country. It's like, it's so fun.
+
+Speaker C: New country or old country?
+
+Speaker B: Classic. The new one is kind of like, if I'm feeling like really trashy, then sure, I can play like 10 minutes of new country. But the old country from like the '80s and '70s, it's so good. Or the '60s even.
+
+Speaker C: Is Neil Young country?
+
+Speaker B: Folk.
+
+Speaker C: Folk?
+
+Speaker B: Yeah.
+
+Speaker C: Adjacent.
+
+Speaker B: Yeah, not too far.
+
+Speaker A: Crosby, Stills, Nash.
+
+Speaker B: I mean, Bob Dylan, you could, you know.
+
+Speaker A: Well, thank you for those. Definitely send us in writing some of the Venezuelan names too, assuming we can find them on Spotify.
+
+Speaker B: Yeah, they're definitely on Spotify. It's just, it's in Spanish, so you might not understand, but the energy is there, or you can practice.
+
+Speaker C: At this point, we have to ask, and I know it's my question to ask, which is who, preferably in the fxhash world, but it could be the entire world, do you think we should have on next or in the future to I have a few names.
+
+Speaker B: I'm pretty sure you haven't interviewed them yet, but at the risk of having done so, I'm still gonna do that. Iskra, for sure.
+
+Speaker A: Yeah, not yet.
+
+Speaker B: Lisa Orth.
+
+Speaker C: We've had her.
+
+Speaker B: Okay, I haven't heard that episode.
+
+Speaker C: It was great. It was life lessons.
+
+Speaker A: Yeah, lots of life lessons.
+
+Speaker B: Sarah Reachley.
+
+Speaker C: Stay tuned.
+
+Speaker A: Yeah, stay tuned.
+
+Speaker B: I'm curious about Anna Lucia.
+
+Speaker C: We've had her on as well.
+
+Speaker A: We had her on a while ago.
+
+Speaker B: How long ago was it? Because now I'm curious because she's so mysterious to me.
+
+Speaker C: A year ago. A long time ago.
+
+Speaker B: Okay, okay.
+
+Speaker A: She came out pretty early.
+
+Speaker B: And then Lars would be cool too. I love Lars. I know he was in Arbitrarily Deterministic, but I don't think you interviewed him, so that would be cool. Another artist and one collector would be like artist Pepe XYZ.
+
+Speaker C: Who goes by his real name now.
+
+Speaker B: Yeah, I guess. Eric? Yeah, something.
+
+Speaker C: He's the next Art Blocks curated.
+
+Speaker B: Yeah, that project is so cool. I didn't know when I was reading the Art Blocks thing that like he's like a serious physicist. It's like crazy. So that would be interesting. And then maybe Pronoia and Lonely will be interesting.
+
+Speaker A: Stay tuned. Yeah, stay tuned. We have a lot cooking right now.
+
+Speaker B: So that's a lot of names, but half of them you already have in mind, and then the other 2 already are in So I have to go back and do those.
+
+Speaker C: You already gave us a lot.
+
+Speaker A: It shows that also where we're going is we're on the right track. If you're bringing up names that we've already kind of gotten on the schedule, that's good. I guess let's round this out with, so other than our collab, which we don't have an official release date for at the time of this recording, but like, what else do you wanna talk about that's coming up? Like anything else that is on the horizon for you?
+
+Speaker B: I think the only thing on the horizon right now is waiting to be signed, app, which hopefully will be done and released next month. That's the plan, at least. Other than that, I mean, at some point this year there will be something on Emprops. There's a couple ideas floating around, but there's nothing like concrete yet, and there's no timeline for it. So it'll happen hopefully this year, but there's nothing on the books yet. Other than that, I don't think I have any plans yet to drop anything in particular. I do have some plans to work on some projects along the year, but No clear ideas in terms of when they're going to be ready or released. I'm looking into doing more physical pieces this year, or like at least doing like hand in hand, like doing something digital but having like the counterpart in physical. Um, so I'm looking into like different types of printing and researching into like making some tapestries, hand-woven tapestries, like European style or something in particular. That could be a cool idea, although expensive to produce, but it could be really cool.
+
+Speaker C: Interesting. You're doing art full-time, right?
+
+Speaker B: I am at the moment, and hopefully I can do it for the rest of the year. Uh, we'll see. I was working the past 4 years in an AI startup, and last year I like kind of tried art full-time right now because it's now or never. So let's see how far I can go doing that. I also have to go back to office life and do half and half.
+
+Speaker A: We'll see.
+
+Speaker C: Sounds great.
+
+Speaker A: I mean, this collab could blow up, you know, so this could be big.
+
+Speaker B: I'm expecting $1 million of it.
+
+Speaker C: This is the Garden Monoliths of the year.
+
+Speaker B: I guess it would be impossible to know, but it would be fun to see like Garden Monoliths dropping this year instead of last year.
+
+Speaker A: Oh, like what would have happened, you mean?
+
+Speaker B: Yeah.
+
+Speaker A: If it dropped right now, who's to say if it would even mint out? It feels like so hard right now for—
+
+Speaker B: I was checking the market earlier and there's like, there's so many cool projects already out and they're not minted. I'm so surprised about it.
+
+Speaker C: It's tough.
+
+Speaker B: Even cheap ones.
+
+Speaker A: Yeah. One last one that occurred to me. Since you're local, what's the best Venezuelan food in New York, or is there any that you've found?
+
+Speaker B: I've only been to like 3 of them a couple times because I just make it myself. If you want cachapas, which are like these corn kind of like pancakes kind of things with like cheese, there's one really good place, but it's like really far in Brooklyn. I could send you the address. I don't even know the name of the neighborhood, but it takes a while to get there. In a more like centric place, there's this place called There's 2 locations, one in Bushwick and one in Bed-Stuy, maybe, I think. Yeah, they make good arepas, really good arepas. And then there's another one in Williamsburg called Caracas Arepa Bar. That's also good. They cannot beat me, so if you want real Venezuelan food, you should come to my house.
+
+Speaker A: Okay, we'll figure that out.
+
+Speaker B: Whenever we release, we should do it from my, like, somewhere.
+
+Speaker A: Yeah, that'll be really fun.
+
+Speaker B: Have some food and drinks.
+
+Speaker A: Well, anything that we missed? Trinity, Thomas. Is there anything that you would like to ask us?
+
+Speaker B: Yeah, what are your plans for this year for the podcast?
+
+Speaker C: We're gonna flip Proof.
+
+Speaker B: Yeah, I don't think that will be hard.
+
+Speaker A: Oh, sentiment on Proof there. Okay, I'm joking.
+
+Speaker B: It's been like 1 year and 1 month. How do you feel after that time numbers-wise? I guess it's like very different.
+
+Speaker A: Yeah, yeah, we have a bigger audience obviously, like going into this year. The show is growing.
+
+Speaker C: Will, I think you've only missed one week.
+
+Speaker A: I've only ever missed the one week, which is great. Trinity, you've only missed 2, so it's not like, you know, we've been pretty good at getting it done. We kind of talked about some of our goals in that episode that went out around the beginning of January. So far so good, I would say. I mean, we're nailing it on the interviews. Obviously we've got you here, so checking that off. We've got a collab coming up.
+
+Speaker B: One of our goals was to continue to get I mean, after the latest array of guests that you've had, I feel like in, in the wrong place. Like you have Melissa, Jamie, and, um, Kylo, one after the other. That was pretty surreal.
+
+Speaker A: That's a good run. But hey, you just released on Verse too, you know, like, so—
+
+Speaker C: We're a Verse podcast now.
+
+Speaker A: Yeah, we might just become a Verse podcast.
+
+Speaker B: Yeah. What's the equivalent of waiting to be signed on Verse? Like waiting to be transferred?
+
+Speaker C: Waiting for gas to go down so that they can execute the transaction.
+
+Speaker B: Yeah, gas is ridiculous. You're getting like amazing guests and you can probably get anywhere— anyone that you approach, I would assume.
+
+Speaker A: Mostly, yeah.
+
+Speaker B: Maybe not from the traditional art world, from what I heard. But yeah, have you thought about being involved in more like live events, like live minting events somehow? You should become the Supreme of fxhash. Just put your logo on everything.
+
+Speaker C: I think it'd be fun for us to go to live events, mostly for panels and stuff rather than the mingling. I was watching a video yesterday of Bright Moments Berlin, which was held in like a giant industrial club type of thing. And of course it was. I just don't think I can do that particular part of the scene. But the talking and the intellectualizing and the enthusiasm part, I think you could probably sign us both up for that. And nice dinners with nice people.
+
+Speaker A: Oh yeah, we love nice dinners.
+
+Speaker B: Yeah, every time I see one of those, I'm like, LeMonde, there's like a Lucky you.
+
+Speaker A: Yeah, he somehow did an around-the-world trip and didn't stop in New York. It's like, come on, man.
+
+Speaker C: We don't really have art here.
+
+Speaker B: No one comes here. It's like, yeah, Art Basel Miami, like all those bright moments in every, every amazing place but New York. And yeah, we got NFT whatever last year, but that was mostly hype fest. It was really annoying. It was just PFPs.
+
+Speaker C: But yeah, I think from an art scene perspective, there's a lot with Armory Show, Freeze, what have you. I guess it's the generative art communities and other NFT art communities coming and making this big scene there. So if they would come to Freeze or the Armory Show, we would be all about that.
+
+Speaker A: And I'd be down to travel if it just makes sense from a cost perspective. Yeah, we're not big ETH whales. Like, it doesn't make sense for us to go to these things to where we can't even afford to mint the shit. So it's, it's like, why? Yeah, why Why would I ever go to a Bright Moments event? Yeah, it's like, um, have $20 grand lying around to buy the project.
+
+Speaker B: So it's like the new jet-setter lifestyle. You travel, but you only travel to the Bright Moments locations. Same for these events.
+
+Speaker A: Like, we, we talked about going to Miami, but we had no idea what we could do for Miami, and it's just like hard to justify spending unless we get invitations to do stuff and we have a good reason to be there.
+
+Speaker B: So yeah, that makes sense.
+
+Speaker A: It's on our list. We want to travel to something this year. We got to start figuring that out.
+
+Speaker B: It's not even half the year, so there's still time.
+
+Speaker A: Yeah, well, it's getting late for us new parents over here.
+
+Speaker B: I appreciate the effort. Thank you.
+
+Speaker A: Thank you for making this happen, Thomas. We're super excited to be working with you on the collab. It was great to have you on the show. Obviously big fans of your work. We've been collecting it and talking about you for a year now on the show. Go back and listen to my poor review of your project.
+
+Speaker B: I need to go back into the project and see when it was released and then find like the corresponding Now I'm curious, but it's all good. It doesn't matter.
+
+Speaker C: We made up for it since.
+
+Speaker A: Yeah, we have well made up for it.
+
+Speaker B: This was all for the sake of apology. Well, thanks for having me. Really appreciate this.
+
+Speaker A: Well, thank you for coming on, Thomas. It's been great. Thank you, Trinity, for recording late into the evening with us.
+
+Speaker B: Outro music.
+
+Speaker A: Outro music. That was Thomas Noya. Thanks again. Hope everyone enjoyed. We'll be back again soon with another one. Later.
+
+Speaker C: Later.
+
+Speaker B: We're waiting to be signed.
+
+Speaker A: Always blessed.
+
+Speaker B: We're waiting to be signed. The rail of the week. To be signed. We're waiting. Always lit.

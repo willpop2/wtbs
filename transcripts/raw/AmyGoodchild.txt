@@ -1,0 +1,385 @@
+Speaker A: Hello and welcome everyone to another episode of Waiting to Be Signed, a special bonus interview with Amy Goodchild. The brief disclaimer is Since we were talking about NFTs, none of this is financial advice. We're here to talk about art, FXHash, generative art. We're going to be talking about the markets and prices and stuff potentially, but please don't act upon any of that. This is just for fun and information, having a fun conversation. So disclaimer out of the way, not financial advice. We're really excited to have Amy on. We kind of have a— well, first we're going to talk about Amy and then we have maybe a special topic that we're going to get into, which we haven't really had an agenda in interviews before. So.
+
+Speaker B: Yeah.
+
+Speaker A: We'll see how that works out. But yeah, Amy, why don't you go ahead and introduce yourself to everyone here who may be familiar with some of your art in fxhash, but might not know your background in art in general and coding?
+
+Speaker C: Hi, and thanks for having me on. My name's Amy Goodchild, and I've got quite a varied background, I would say, as an artist. I actually studied photography at university, so that's my undergraduate degree. And then I started to get into interactive art. Kind of when I started going to sort of— I haven't been to actual Burning Man, but there are burns like in the UK or in Europe, I should say. So I've been to a few of those and those are really hot and like interactive art. So I really started getting into that and I already had a background in like coding from sort of web design and stuff like that. So the idea of like using code to make art kind of came up with that and making that sort of interactive like installation art. And then so 2 years ago, like pandemic happened. There wasn't really much point making interactive like installations art anymore. So I sort of started to focus more on the screen-based digital art, and I made a few web-based projects. And sort of from there, I started to get into the generative art side of things. And I remember thinking like, oh, I bet I could use loads of randomness to create art and see what happens with that. And then I started doing it, and then obviously I realized it's a whole thing and people have been doing it since the '60s. So yeah, that was really great to kind of plug into that community. And then obviously Kind of serendipity-wise, like, NFTs have started to explode at the same time, and there's been a real combination of those things, like the generative art and the NFTs have just kind of taken off together, which has, yeah, been great.
+
+Speaker B: It's like this serendipitous world of all of these things coming together, and like, who knew? Who really knew? I think that just going into this, I mean, as you said, like this post or mid-pandemic NFT space where I think everybody's had the time to sit and create. It's really been astonishing to see all of the amazing work that's been coming out. It's crazy cool.
+
+Speaker A: I mean, I don't think we would've started the show if it weren't for the pandemic. We would never have really gotten into crypto, I think, in the first place, cuz we would've been too off of our computers doing real life stuff.
+
+Speaker B: Shame that, really.
+
+Speaker A: So, so Amy, is, you know, your background in coding kind of over COVID, is that Did you kind of take your background and learn Processing or p5 in that time, or did you have a lot of background in JavaScript coming into it?
+
+Speaker C: Yeah, so I'd used mostly Processing before for my installation work. I use these little chips called Fade Candies, which will drive LEDs. So I use a lot of LEDs in my work. I'm really into light in general, like with the background photography as well. So yeah, I was using Processing and Fade Candy to drive a lot of my installations. So I did have that background, but like, I need to go back and look at some of that code now because it was all very like, I mean, Yeah, spaghetti code is kind of the word, but it was very much like just getting things done so they work. And I didn't understand a lot of the things that I was doing. No, I mean, that's probably still true now, I guess, but I've definitely had more time to like focus on the coding side of things and develop and move into p5.js, which is, um, yeah, JavaScript based. Um, and yeah, really developed that side of things since the pandemic.
+
+Speaker B: What about some of your early years? I always find that's a topic that's just fascinating. Like, what were people like before they became adults and their interests? And whether it's like the art thing, or you see like a ton of people like who originally got into code to make GeoCities websites back in the '90s and early 2000s. How did you get to even the desire to get into photography in the first place?
+
+Speaker C: Yeah, it's interesting because I like, I wasn't into art really in high school. Like, I didn't do art GCSE, which like GCSEs are like the qualification you have here when you're like 16. So I didn't even do art past the age of like 14 or 15 in high school. And I think that for me, like, I think that speaks a lot more to like our education in high schools more than it says anything about me necessarily. I think it's not done in a way that gives a lot of opportunities to people to experiment and so on. So it just didn't really— I didn't click with it in high school. And then like I started to use Photoshop to make like memes and stuff. I mean, it was kind of pre— like meme wasn't a word back then, but like I was making like jokey stuff in Photoshop.
+
+Speaker B: Yeah.
+
+Speaker C: And I used a website called Worth 1000. I dunno if you're familiar with it. It's kind of like mid-2000s. It was a, it was a big thing where we would use Photoshop to create these kind of crazy, like imagined things. And there would, there was competitions and there'd always be a theme, like make some food that looks like it's going to eat you instead of you eating the food. So you'd kind of Photoshop together like a stack of pancakes with a mouth coming out of it and stuff. So I was kind of doing that sort of like funny, weird Photoshop type stuff. And then they opened up, like Worth 1000 opened up a photography section to the site. And that was when I bought my first camera and got into photography. And that was— I was actually at university at the time studying computer science. And then a year later, I quit my computer science degree and went to study photography instead.
+
+Speaker B: The internet, who knew? It's so powerful.
+
+Speaker C: Yeah, absolutely.
+
+Speaker B: Changing minds everywhere. I love it.
+
+Speaker C: I think, again, it was such a community-based thing, that as well. Like, Worth 1000 had such good community about it. Like, we did meetups. I went over to the States to meet people and it was such a strong community around it. And I think that's similar to what's happening now with generative art. Like, a huge part of it for me is the community and the other artists that are involved and kind of supporting each other and so on.
+
+Speaker B: I think that's one of the things that's really struck us as well getting into this is, I don't know, if it hadn't been the pandemic, would we be here? We don't know. I think it's similarly like if the community hadn't been here and we didn't have the chance to get to know people by their various screen aliases and talk literally all day on Discord, would we be here? Maybe, we don't know, but it's insane.
+
+Speaker C: I think the support that you get from the community, like, especially, uh, like we have a Slack, like a generative artist Slack and the, the support on, on 2 different levels. Like one on a technical side, like we'll help each other with problems. Like if I'm struggling with something in code, there's always somebody who's willing to like take a look and help me out. But then also on an emotional side as well, like we literally have like a mental health channel where people can post saying, you know, what's going on or what they're struggling with and celebrate like wins as well. Like a lot of people will post positive stuff in there as well, like when they're having a good day. And so there's that support kind of on both levels, which I think, yeah, I don't know, it would definitely be a very different experience without that. I don't know whether to say like I wouldn't be doing it or whatever, but it would definitely be very different.
+
+Speaker B: It's all the little things that add up. 100%.
+
+Speaker A: So at this point, are you doing art and NFTs more or less full-time, either between fx hash or HEN or any of the other platforms? Like, has that been your last 2 years?
+
+Speaker C: It's been my last year. Yeah, I have done a bit of teaching in that time. But otherwise, I haven't done any of my kind of old sort of day job, which was UX design.
+
+Speaker A: Wow. There's some overlap. Maybe we can turn this into a UX design, uh, we can do that podcast, Trinity.
+
+Speaker C: Is that what you do as well, Trinity?
+
+Speaker B: Adjacent. I'm very adjacent to all of that stuff.
+
+Speaker C: Okay.
+
+Speaker B: So I love it. Nice. It's just, it's a happy place.
+
+Speaker C: Yeah.
+
+Speaker B: I mean, I, I, I did enjoy it as well, but yes, like that itch of problem solving. I love it. And I think you get that with code as well. You know, you've been quoted, you know, in relation to your work in user experience design. About the desire to create work that is interactive and engaging. And obviously your earlier work in the installation space is a great example of all of that. What are some of the favorite installations that you've made?
+
+Speaker C: Definitely would say the Space Tunnel is like my favorite installation I ever made, which was a, it was a tunnel that you could walk inside. It was like 3 meters wide and 7.5 meters long and like tall enough to stand in. And it was filled with like these archways of LEDs. So there was plenty of space to kind of lie down on the floor, sit on the floor and watch them. And then there was also at one end of the tunnel, like a unit that I actually converted from like an old desk and it had a touchscreen sort of mounted into the desk at an angle. So people could come in and anyone could like walk up to the touchscreen and use it and they could draw on the touchscreen and it would draw on the lights. like in real time. So it felt like you were drawing directly on the lights. And then it also had this like space mode where it looked like there were stars flying past on the, on the lights and you could control like the speed and the direction and the color and yeah, a few, few other settings as well. And yeah, I mean, that was the first like big installation that I ever made. And it's hard to imagine making something that I would love as much as I love the space tunnel because it was just, I had no idea what I was doing. And just the fact that I made such a huge thing happen, like in a desert as well, like at a festival in Spain. Like, I'm just really proud of myself that I managed to do that and that people really loved it. And it will always be one of the crowning experiences of my life is like being inside the space tunnel, sitting amongst people who are enjoying it, and just like soaking up that atmosphere of like, I made a thing and other people—
+
+Speaker B: Yeah.
+
+Speaker C: are having a nice time enjoying that thing. Like, it's my favorite thing in the world.
+
+Speaker A: And there are some great pictures of that up on your website as well.
+
+Speaker C: Yeah. Yeah.
+
+Speaker A: I'm curious, you know, as you've transitioned now into making more digital art, NFTs, do you kind of feel like you struggle to bring that aspect of your previous work into it? Because so, so, so much of the way that people interact with these things is just as not even in full screen necessarily, but as just thumbnails. Right? Like as a much smaller version of what they're even intended to be, be it on the marketplace or just because they don't have devices that can really properly display this stuff. Like, is that something that you've kind of been contemplating, how to bring more of that interactivity and grandness of your previous work into the space? Or is it just something you have to kind of accept and kind of change the way that you create?
+
+Speaker C: Yeah, it's definitely something that I miss from like Making the installation art is like actually being able to to sort of be with people as they're experiencing the work. Like that just doesn't really happen anymore. I did and I did make a couple of pieces that were multi-user browser-based projects, and they were just they were like kind of aesthetic toys where you could move your mouse around and it would like shoot little kind of bubbly circles out. But you would get paired up with another person like randomly. So when you visit the site. It joins people up. So as you're chucking out these bubbles, like other people are chucking out bubbles as well, and your bubbles kind of interact with each other. And I posted that to Reddit sort of summer of 2020, I think. And the feedback that I got, like, I think it got like 80,000 visits across like 3 days or something, which is like, you know, it's pretty good. I think I was like happy with that. But the comments that I was getting in the thread gave me some of that like experience of being with people. Like, people— I think because, you know, it was that early kind of pandemic time, like, everyone was— we were still in the kind of early shock of being cut off from everyone socially and not being around our friends and so on. I think it gave people a sense of connection to be, like, paired up with somebody randomly. And, like, people posted comments kind of talking about what that experience had meant to them. And there was somebody who posted saying that they and their partner had Spent ages like refreshing the page to get paired up with each other. And then they'd like had this moment of like interacting with the bubbles together and just like kind of hearing that feedback about the, what the thing that I'd made meant to them. It's like really meaningful to me. So yeah, I think that, you know, there is a bit of that does still happen with the digital art. And yeah, I do miss it a little bit with the generative art because, you know, you get like feedback and comments on social media and so on, but it's not quite to the same degree. Like people don't, like you say, People don't engage with the work necessarily so deeply as they do with something interactive. And yeah, it's definitely something that I would like to bring into the work more.
+
+Speaker B: It's so interesting. Once something becomes financialized, it suddenly becomes less of a source of joy or play. It would be really fun to find a world where it's both. But, you know, I was gonna say, is non-NFT digital art dead? But like within the confines of what art can possibly be, it's obviously not. And like that type of interactivity, it's, as far as I can tell, it's not going to be possible within this space right now. NFTs can be a part of something that is fun and interactive, but I don't think that it's going to be it yet.
+
+Speaker C: Okay. I mean, I have made some NFTs that are interactive, like some of my stuff on HEN is interactive, like kind of little browser toys.
+
+Speaker B: But not necessarily multiplayer in that sense.
+
+Speaker C: No, exactly. Yeah. The multi-user interaction. Absolutely. Yeah, that is currently— I'm not sure if that is possible within NFT art. I think it is, but I know that on fx hash it's not because of the requirements for sort of making calls to a remote server that is locked down within fx hash, I believe. But I'm not sure if that's an actual technical limitation or if it's like a decision that's been made, you know? So it has the potential, I think, to happen in the future.
+
+Speaker A: Have you seen this thing called, I think it's called Passage or Journey. I, it's a Tezos thing, but you have to go through a 3D space before you can claim and mint your token at the end.
+
+Speaker B: Okay.
+
+Speaker A: So they do this, and I know that a couple of fx hash artists were on it, and every time a new one comes up, it's like 15 tez and you get, first you get an NFT that's like your ticket, and then you can go in and you have to go through this basically installation before you can mint your takeaway piece at the end. And people seem to really like it. I'll dig up the link and put it in Discord later.
+
+Speaker C: So it's like a requirement that you engage with it a bit more.
+
+Speaker A: You know, I hate to use that term, but like forcing you to go through the experience so you can get the prize at the end, which is the thing that you can sell, right? But then like, it kind of does create a sense of people like actually do the experience and they come into our Discord and they go like, that was really cool. It was like actually really the coolest minting experience I've ever had. Even though that part of it's not something you take with you, right? That's like not the token that you take away, was the experience. It was like the thing that brought you to the takeaway piece.
+
+Speaker C: Yeah.
+
+Speaker A: People are trying, I guess. They're doing weird stuff, right?
+
+Speaker C: Yeah. There's so much experimentation going on. I think more and more this stuff is going to come up. And I think that kind of thing you're talking about, like that experience of having to go through an experience to get the I think that's really interesting because it's— so I did a master's in design for performance and interaction. It was actually cool, but it was like installation art and interactive art, basically. And something that we talked about a lot in that is that you come up with this idea for an installation and there's some kind of key part to the installation that's like the interaction that happens or, you know, whatever it is. Outside of that, you have to think about like, how are people feeling as they approach your installation? Like, how does it look from the outside? Like, where is it placed? Like, what's the context of what's going on? And like, how do they feel about it?
+
+Speaker A: Yeah.
+
+Speaker C: when they leave and so on. So this, it's like thinking about all that context that sits around the actual artwork or the thing that you intended to be the artwork, you know? And it sounds like some of that think, that same kind of thinking is, is going on with that sort of thing, like setting up something in advance of the, the actual artwork.
+
+Speaker B: Yeah.
+
+Speaker A: Like a ritual or something that really adds to the experience. Well, I'm curious, you know, I think that this is actually a great way to segue, I guess, probably into like the topic of code and art and how these things all intertwined. So maybe we should take that opportunity, especially considering your background creating physical art installations and now creating generative art and code-based art. There's just been a lot of discussion, I think, in the FX Hash community over the past couple months as collectors have become more educated. Well, it's easier to become more educated on, I'd say, art because you can develop your own taste. You can decide what you like. You can learn about artist history and like their pedigree and their influences and kind of get a holistic context for what the final aesthetic outputs of a project are and whether you like them and whether you think they're good. But evaluating the code and understanding like actually how it's made— is the code original? Is it novel? Is it entirely code-based? Is it partially code-based with like layered PNGs going in there and all of that? So where do these 2 things intersect? How much of it, in terms of weighting as a collector, as someone who's trying to evaluate generative art, like how much should we ascribe to the code, to the final output? Does it really matter? Like, you know, at the end of the day, like, are we overthinking it? Like, I'm just curious, as you've kind of moved into making code-based art, like, how do you regard your own code versus the actual final outputs?
+
+Speaker C: Yeah, I think it, I mean, I think it definitely does matter to think about that, like, relationship between the code and the output. And I think, like, for me, it's a very, like, process-led thing. Making the artwork is not kind of a one-step thing. Like, I don't have an idea and then produce the artwork. that is that idea exactly. Like, I have an idea that's something very small or minimal, and then I create that thing and then I see it and maybe it turns out different to how I thought it would. And just from seeing that output, it gives me another idea and then I create that. And it's a very iterative process. And I think coding lends itself to that really well. Like, you can't really iterate a painting in exactly that same way because, you know, you're painting over what you've already done. You're starting new ones. Like, it's a very different thing. And especially within a digital space, like, you can iterate without sort of cost, like there's no wastage to starting again or to trying something new. Yeah, that process really lends itself well. And then I think also like talking about the audience and like how the collectors and the viewers and so on see it, I would love it if there was more kind of understanding of like what kind of code is being used to produce a certain result. And I know like there is a sort of challenge or a tension there in that, I mean, you can't expect everyone to learn to code, like just to look at the artwork.
+
+Speaker A: Yeah.
+
+Speaker C: Like, that's unreasonable. But it's definitely something that I try and do is to educate the audience about what I'm doing. And I always write, not always, but often I write a blog article about like a major project that I've done. So I'll kind of talk through the different like layers in the code and like the different techniques that I've used. And I really try and do that in a way that somebody who has absolutely no coding background could at least get something out of the article and could like read through and like follow along with what I'm saying.
+
+Speaker B: Yeah.
+
+Speaker C: And I think because I didn't really come from a technical background, like I quit my computer science degree because I didn't like it. So I do remember what it's like to not understand code. And I think that helps me speak to people that don't know how to code because I'm trying to talk about things in a way that they'll understand and trying to educate people in that way. And I do think that's a really valuable thing. And I think it helps people appreciate the work on a different level. I mean, that is the same as with traditional art as well. Like somebody who understands A bit more about painting techniques is gonna appreciate an artwork in a different way, um, to somebody that doesn't. And I think that applies to, to code as well.
+
+Speaker B: On your works in progress on like Instagram and Twitter, you, a lot of artists, they kind of show like, this is the whole thing.
+
+Speaker A: This is it.
+
+Speaker B: This is what I'm working on. And I really appreciate that you actually show individual parts of it. This is the background that I've been working on for this thing that may come out sooner or later. And this is how I've been approaching like this one component. And I think that's something that's incredibly approachable and like very different than what I've seen other people do within this space.
+
+Speaker C: It's something that I really enjoy doing is sharing the works in progress. And I like to share, like, I mean, I get excited about the things that I'm making. So like, you know, halfway through the day when like a cool output comes out, even though it's like a work in progress, I want to share like, look where I'm at, or like, look what's going on today or whatever. I do worry about it sometimes because I feel like I'm kind of 'Cause I'm letting people like peek behind the curtain or whatever, like I worry that it like takes some of the like shine off the overall impression of the work or something. But ultimately, I guess like I've come to the conclusion that it's worth it to share, like partly because I enjoy it and partly because I think the education is important. And like you say, like, you know, I get that feedback that people really enjoy seeing those things as well. And I think it is worthwhile for people to look at that. Yeah.
+
+Speaker A: I think the education is so important. Generative art, I know it's been around for longer than fx hash or longer than NFTs, but for many of us, it feels really new. I mean, I've even started reading like a book of essays on digital art that covers generative art. And an analogy in one of the essays is that painting as a practice or sculpting as a practice, like this tactile thing has been around for so many thousands of years that like culturally, even though some of us may not be like fine oil painters, like we all kind of understand How much skill, like we've all maybe at some point as a kid in kindergarten, like held a paintbrush and done some watercolor and you, you kind of know intellectually what I'm capable of now versus like what that painter made, right? That what I see in the museum and like how difficult it would be for me to do that. But with like code as a medium, so few people even get to the point of like writing a simple if statement in code that it's hard to really calibrate how much of that is the machine versus how much of that is the person. And especially I think it becomes further obscured in generative art when you're making something that's like deliberately randomized to a degree and really handing over, or there's like a perception that maybe you're handing over some of the autonomy to the code, but you're the artist making that choice, right? And so when we did this interview with Ciphrd, he was like very adamant. I feel like he regards the code equal or even higher artistic, you know, meaning in his mind, right? Whereas definitely people in Discord and even some of the artists we've talked to are like, really what matters is does it look good at the end of the day? So it's just such this dichotomy of the way that people are approaching it.
+
+Speaker C: Like what you were saying as well about that kind of understanding that people have of like what it is to paint something, like every, like pretty much everyone has tried to paint something at some time, so we have a sense of how difficult it is. And people don't have that same relationship with code. And I think that leads to 2 things that are almost opposites. And one is that sometimes I'm trying to talk to somebody about something that I've done, and I really do feel like I'm explaining it in a way that anyone can understand. And I get that feedback a lot, but some people will just immediately shut down and they're like, I don't understand. Don't talk to me about that. I don't understand maths. I don't understand computers. And so people are afraid to even try because they've kind of decided that it's not something that they get or whatever. And then on the other end of the scale, you get people who think, oh, well, the computer made it. So it's just like you click a button and the computer does it. So it's not difficult or it's not worthwhile in that way. And like, obviously both of those perceptions is frustrating because, you know, it is difficult, the stuff that we're doing. But I do think that people can understand it.
+
+Speaker A: Yeah.
+
+Speaker C: If they try, or at least like understand it enough that we can have an interesting conversation about it, you know? So yeah, sorry, you went on, you said some other things as well. I can't remember what I was going to say.
+
+Speaker A: No, it's okay. So you wrote a really great blog post about Maplands that came out in early January. Is that about right?
+
+Speaker C: Yeah, January, I think.
+
+Speaker A: Yeah. So that was like right when the both of us were starting to learn a little bit of JavaScript for the sake of like making tokens to support the podcast and stuff. I will 100% own that, like, when I first saw Mapland, I didn't have enough intellectual understanding of code to differentiate it from like a simple circle packing where all you have to do is like do the sum of radius, right, is less than the distance between the center points. And like, you can kind of do it. And it wasn't until like I started playing with p5 and trying to do like anything with a triangle, right, at all. And like the order of magnitude of difficulty of just going from circle to triangle in code and like starting to account for corners. And now not everything is equidistant from a center point. And like, so it was like the combination of like learning and then also reading your post, which details all the ways that you account for the dependencies of the way all these different shapes can interact with and potentially overlap to make sure that they're spaced. And like on top of that, of course, like the aesthetic consideration of how to do the coloring. Is it coloring by shape? Is it coloring by region? Is it accounting for size? So it was just really informative for me as someone who was learning. I'll give you a lot of credit for that. It was a really, really well-made post. So we'll link to it in the show notes for sure.
+
+Speaker B: Thanks. Yeah.
+
+Speaker C: I think it's true of so many things that you can kind of look at something that somebody's made and you can think, oh yeah, I can see this sculptor cut here and here or whatever. But that as soon as you actually try and do a thing, you're like, oh, I have to even decide what kind of knife I'm going to use and all these, how do I hold it? And there's so many things that just don't occur to you at first glance, I think, until you, yeah, just like take a bit of time or think about it. And yeah, I think that creating those blog posts is a big part of what I want to do and be as an artist is to— I guess it's about creating more connection with the audience again, as well as like sort of building up that education and that connection.
+
+Speaker B: The next interactive NFT will be teaching people how to make NFTs.
+
+Speaker C: Yeah, Meta.
+
+Speaker B: That, that one's free right there. Okay. No, but I think it's interesting because as you see things, and I think there's like that, that classic learning curve where you start out with high confidence when you know nothing, and then at some point you just like, you're the lowest confidence cuz you know enough that I know nothing, uh, before it starts to climb up into more of a higher confidence area again.
+
+Speaker C: Yeah, I think, I think that bit of the, like, I've just learned enough that I know nothing is actually like the majority of the time as well. Like, as soon as you understand a little bit, you're like, oh God, there's loads. Like, I'm never gonna get all this. And then you're like, yeah, constantly learning. So, sorry, Carrie.
+
+Speaker B: No, but when you're looking at other people's work and you're, because you have this background and you know enough that you actually know a lot, but also there's some things that you may have not fully explored, how do you evaluate or look at something that somebody's come out? Do you think about it in terms of both the art? Do you think about it in the code, the intersection of the two?
+
+Speaker C: Yeah, I definitely find myself thinking about like how things were made. Yeah, absolutely. And like part of that is purely like appreciating their artwork and thinking like, how, like what kind of work did they put into this? And where does this piece come from? And how did they develop it? And what did it mean to them and so on? And part of it is also, I'm like looking at other artwork and thinking, Is there something inspiring in this? Like, could I create something? Like, does it make me think of something that I could create? And then I'm thinking, how did they make this? And sometimes, sometimes it is very clear. Like, I can look at work, you know, there are a lot of techniques that a lot of artists are using, like flow fields and like, yeah, packing algorithms and things like that, that, you know, we see these things come up time and time again. And you can look at a work and think, okay, they've done like this and this and this. And then sometimes I see a work And I think, okay, I just have no—
+
+Speaker B: Any examples of that work?
+
+Speaker C: Uh, yeah, I mean, anything with shaders, uh, Will Staal, his work specifically I'm thinking of, and Piter Pasma, like all those people like working with shaders and stuff. Like I've, I've dipped my toe in shaders a little bit and it's something that I really want to get into more, but it honestly, like, it blows my mind to like look at the kind of stuff that they're creating and try and think about how you get from an idea to an output with that, because it's just a completely different way of coding, working with shaders.
+
+Speaker B: See, and that's where we don't know enough to know how complicated that is.
+
+Speaker C: Super complicated. Just take my word for it. I think I saw dark magic. Yeah.
+
+Speaker B: I think I saw somebody talking about a blog post where it was somebody like live streaming on Twitch, like for 36 hours.
+
+Speaker C: Oh my God.
+
+Speaker B: Like something that they made with shaders, but that's about the extent Of my knowledge, which is not knowledge, it's thirdhand.
+
+Speaker A: I was gonna read this quote that we had pulled from you, Amy, because I think it kind of also plays into the conversation. And I think this is taken from one of your blogs, that the biggest challenge currently is responding to the changeability in the market and social media. It can be hard to take the ebb and flow personally, and that has an effect on my mental health and motivation. So I think that speaks a little bit to like the artist Slack and stuff that you talked about, right? It's hard enough to create like great art and come up with something novel and something that you're happy with. And then you have to cope with this market side of it that maybe it wasn't something that was like this constant presence, I feel like for a lot of artists until they jumped into the NFT space. So what is that kind of like for you in terms of like the amount of factors that go into the success of a work, you know, the day that it's like, and I, and I'm saying purely like the financial and like critical receptive success, right? 'Cause that's how so many collectors really regard success. Unfortunately, is like, did I mint, did the price go up? Or did I buy it and the price is still going up? What has that kind of been like? I have to imagine it's very different from your work in art previous to NFTs.
+
+Speaker C: Yeah, it's interesting actually, because I think in some ways it's not that different. Like, it's all of those thoughts have always been there. Like, it was, to me, it feels very similar to posting anything on social media and then counting like the likes and thinking about Like, how many people have commented on this? And like, do those comments feel like— how sort of genuine do they feel? Or like, how excited do people seem about this? And then, you know, in person as well, like, trying to see what people's reactions are to the work. And I think when it comes to the monetary side of things with NFTs, like, to me, it feels very similar. Like, obviously there's a different aspect to it as well, because like, this is what I'm doing full-time now. So it has kind of that side to it as well. But In terms of thinking about my artwork and thinking all those kind of existential questions of, like, am I good enough? And why am I doing this? And should I just quit? And is this thing I've made garbage? Or is it amazing? Is it the best thing in the world? All of those questions and those feelings and worries and wonderings and so on, they apply without the financial side as well. And they've always applied, like, from the first time you draw a drawing in school and Somebody says they like it or they don't like it. Like, that so much of making art is about that for me. Like, and maybe that's not healthy, I don't know, but it is about the connection with the audience and making things for other people. So people's reaction really does matter to me a lot. And that's, that's always been the case with, you know, when you create or when you add in that aspect of social media, that already had like leveled that up 1,000%. That you create these like literal metrics that you can count and you can see a graph of like this post versus that post. But then you actually, you have to take a step back from that and think it's not, it doesn't mean that this artwork is better than that artwork. It just means like you posted it at 2 AM instead of at 4 PM, you know, and like, or the first 10 people that looked at it didn't like it and therefore Instagram decided not to show it to anybody else. Like there's all these other variables that are coming into play. And I get a sense as well that What happens is there's like an ebb and flow with it. Like I mentioned in that quote, that you get pushed by the algorithm for a bit and then it holds off. Like, it feels like that's what happens. And it is very difficult not to think, well, my art sucks this week, or my art's great this week, or whatever. And to try and separate those things and try and be my own critic instead and look at the work myself and think, well, do I like this better than that other piece? And which do I think is more worthwhile and which should I develop further and so on and take the, take the feedback from social media and from the NFT market as well. Like take it on board. Absolutely. But not see it as like the gospel and the be-all and end-all of what I should be doing as an artist. And it's difficult.
+
+Speaker B: I think that we've talked about it a couple of times on the podcast already in the past where we don't envy artists at all because—
+
+Speaker C: Yeah, me neither.
+
+Speaker B: In this space, there's so much Like variability and so much is changing. The rules, quote unquote, are always shifting, whether it's an up market, it's a down market. The price of Tezos is high, or of Tez is high, it's low. How are flippers out today or have they been out this week? There's so many things to take into account that impact the quote unquote performance of a piece, and it's impossible to keep up because everything is shifting on a day by day, week by week basis. How does that impact the way that you think about releasing, or does it?
+
+Speaker C: Yeah, I mean, it definitely does affect the way that I think about it. Like, it's on my mind and, you know, and I think I'm like quite engaged with the NFT market. Like, I don't know, I think there's like a gradient of like how much artists do sort of engage with that. I'm often like on the fx hash Discord and like kind of checking out what's happening there and keeping my finger on the pulse sort of thing. So it definitely does affect my thinking. I try and just take it as like information and take all the other information as well and put those things together and like make my decisions based on that rather than being like completely led by just sort of the market thinking. Like it's just one piece of the puzzle, I think.
+
+Speaker B: And then how does it feel when you actually let something go and it's like you're pressing that mint button and it's out there? How does it feel to actually release either on fxhash or anywhere else?
+
+Speaker C: It feels like, oh, it's incredibly nerve-wracking for one, especially with the way that fx hash works with the kind of long-form generative art. So you don't know exactly what the pieces are gonna look like and you're wondering like if, you know, maybe it's gonna produce ones that you didn't expect and like, how are they gonna look? And like, did I do enough testing and all that kind of stuff? So yeah, it's really nerve-wracking from that perspective. It's incredibly exciting as well, obviously. Like I wanna see the the pieces that get produced, like just as much as anyone else does. And I really want to see like how it's going to go and like, are people going to like the pieces? Are they going to kind of jump on and go for it? And certainly, like, I mean, when I released Maplands, it sold out in like, I think it was bang on 2 minutes. Like I went to look at like the transactions history or whatever. And yeah, it was pretty much exactly 2 minutes flat. It sold out 256 pieces, which like, you know, I was hopeful that it would sell out. My piece before that had sold out in a few hours. So I was hoping that it would be kind of a similar thing. And when it sold out in 2 minutes flat, like, yeah, that I think I would put that up there with that moment that I was talking about earlier of like being in the space tunnel and like being around people that are enjoying the work. Like, it kind of hit that same level of excitement for me. And especially because I was in the fx hash Discord as well. And I think I was maybe like 5 or 10 minutes late with posting it. So I'd been kind of posting updates in the Discord and saying like, oh, you know, I can't remember what the issue was, but, you know, it was uploading slow or something. So I was letting people know and people were kind of replying to me with that. So there was that feeling of like community and connection with the audience. And then when it sold out, like immediately, it's, I mean, it's a huge rush, obviously, to think that people like what you've made. Like, it's all I want.
+
+Speaker B: It's awesome. It's truly, truly awesome. I know that Will has picked up more than a few, I think. On the secondary, just the last few weeks, not out of excitement for the interview, but just because I think looking at it, you were really amazed, right?
+
+Speaker A: Yeah. Actually revisiting the piece, this was part of preparation for the interview, 'cause I reread the Maplands blog and I've had this time now, this extra few months studying p5 and like by studying, I mean learning from YouTube and stuff like that.
+
+Speaker C: That's the only way as far as I'm aware.
+
+Speaker A: Yeah. Yeah. Well, there's a, there's a book that's The Dan Shefflin one. There's, there's a book that's a little out of date because it still has some of like, it, you know, recommends that use var instead of let and some stuff like that. But it's, it's, it's written by Casey Reas and someone else. So it's like a few years old.
+
+Speaker C: Oh, okay. That one. Yeah.
+
+Speaker A: But yeah, you know, I was looking at Maplance. I was like, okay, I really, I really understand now the complexity of this and like, was always really liked the colors. And so I went into the secondary market just the way it has been the last month, actually, like a trend has been like, we've just seen A lot of great work at a pretty solid discount, you know, and there's been this kind of a month, months-long accumulation phase on FX Hash. And so I found 2 really, really, really good pieces that had the skew toward a direction in terms of the size that I was just like, oh, like, this is great. I'll get 2 different palette, different kind of densities. And there's one more that I'm looking at as well to kind of have like 3, cuz I'm, I'm really into like building galleries and stuff right now.
+
+Speaker C: Mm-hmm.
+
+Speaker A: So I don't know if you're familiar with that. platform, DECA.
+
+Speaker C: I think I've seen some links with people who have posted like galleries of them. Yeah.
+
+Speaker A: Yeah. It really makes you want to own multiples of something so you can kind of show off the variety in a particular algorithm. Yeah. Not financial advice, but there's, there's a lot of great pieces that are, you know, very high rarity and stuff that can still be had.
+
+Speaker C: Yeah. That, um, that feature with the skew from one size, uh, from one side to the other in terms of the size, like that is It was one of my favorite parts of the project. And I think maybe that was the delay actually, because I started coding that about 4 hours before I was due to release it. It was like an idea that I'd had in the back of my mind and I duplicated all the code. So I had my kind of safe version and I was like, I'm gonna go for it and try and make that idea that I'd had. And then as soon as I saw it, I was like, I have to include this. If it's not ready in time, then we're gonna delay the whole thing.
+
+Speaker A: Yeah.
+
+Speaker C: Yeah, luckily I managed to figure it out.
+
+Speaker B: Like last-minute additions. I love that.
+
+Speaker C: Definitely.
+
+Speaker B: What prompted that? You just thought of it and you were like, this is going to be amazing. I want to do it?
+
+Speaker C: No, I think, I think the idea had actually come to me like before, and I always have like, you can't see, but I have like a bunch of Post-it notes on the wall here. So I'm a very like Post-it note kind of person. So I always have like heaps of ideas written down and it was definitely like a Post-it note that had sort of been hanging around and And I think I'd been thinking like, should I do that or should I not? And it was just the kind of last minute, like, oh, let's try it out and kind of see how it looks. And yeah, as soon as I saw it, I was like, yeah, this is going in for sure.
+
+Speaker A: Well, speaking of the Post-it notes, is there anything that you want to kind of preview or talk about, like ideas you have percolating that maybe we'll be seeing in the coming weeks or months as the new platform releases? Or is there any work in progress out there that we're not aware of?
+
+Speaker C: Yeah, I mean, there's, there's loads of work in progress. There's, um, There was something that I was hoping to get ready for the launch of the new version of FX hash, which is like definitely not going to be ready by this weekend, but hopefully in the in the next week or so, I guess maybe. I don't know. It's it's it's I find it so hard to predict because sometimes things just go off in one direction, and either I realize that there's a bunch more stuff that I want to explore, and I think okay, I need like more time to really do this idea justice. Like I don't want to just put stuff out so that the work is out there for the sake of it. Like, I want each piece to be the best thing it can be. Or, you know, I realize that actually, like, there isn't enough variety in the thing that I'm doing, or it's not quite right, or, you know, whatever. So there's a lot of unknowns in the process for me. But yeah, there's definitely stuff that I'm working on. I mean, I've been posting it on social media. So there's one piece that's— it's actually an animated piece, and it's kind of— it's starts with these irregular polygons, and then the idea is that there's a line that kind of slices through the polygon and moves half of it over, and then another line comes through and slices it. If you look at my Twitter or Instagram, it's all there. So yeah, I'm just trying to find ways to create the variety that I'd like to see in a full collection of pieces like that without creating some outputs that don't work because there's so much That's happening in that process that sometimes it creates shapes that I'm not happy with. So I'm just still working on like developing the algorithm to make sure that it does what I want it to do.
+
+Speaker A: You know, I'll say as an amateur coder and like I've been working on a project and I get those little moments of inspiration of like, oh, like I could try doing this. I think I know how to do it. And sometimes the thing that gets me is the grunt work of actually implementing it. Oh, now I have to go back and refactor everything. To do it. I have to change the way I'm populating my array. I have to like change the way my class is now, like, or add another element that's going into the class. And like, sometimes I'll just like have this idea and I'll be like, I don't want to do that. It's going to take me, take me like hours.
+
+Speaker B: Post-it note. Post-it note for later.
+
+Speaker C: Yeah. Just write it down. Future use problem. Yeah.
+
+Speaker A: It is one of those weird things, right? I guess it's kind of like if you were a painter and you had a great idea for a color, it might take you a long time to to mix it. So it's not like that instantly be available to you. And so there is that element of, it is work. You actually have to sit down and do it. It's not enough to have the idea. You actually have to execute it and then make sure it works the way you thought it would.
+
+Speaker C: Yeah, definitely. It's a lot of work. Yeah.
+
+Speaker B: Yeah.
+
+Speaker C: I think as well, cuz there are certain things that I use over and over again. So like the more projects that I do, I'm able to like reuse code. Like I have a geometry, like a collection of geometry functions that I just use over and over again now. So it's nice. To kind of, yeah, just to be able to do that and to, to reuse my own code.
+
+Speaker B: I think that was really interesting to see with Mapland specifically because it was for January 2021, I think, that you learned how to do the triangle packing.
+
+Speaker C: Yes.
+
+Speaker B: Specifically. And then to see you use that like literally a year later with obviously like a ton of other work implemented, it did, it did really feel like it was coming full circle. Pun not intended.
+
+Speaker C: Yeah, full triangle.
+
+Speaker B: Yeah, exactly.
+
+Speaker C: Yeah, definitely. I mean, that happens like loads. Actually, the thing that I was just talking about with the lines kind of slicing through the shapes, that is something that came up when I was working on— so I have an Art Blocks project that I've been working on for actually months and months, and I— yeah, it's been a journey, that one. But it was an idea that I had for that, and I don't think it's going to fit into the Art Blocks project, but that idea of like slicing through shapes in that way came up from that. And then I, as soon as I did it, I realized that maybe it didn't really fit within that project, but it could be a whole project of its own. So there's like this kind of branching and things like arching over from, like you say, like a year ago, like something I did a year ago kind of coming up a full year later and different ideas from different projects and like reusing different bits. Like, yeah, it happens all the time.
+
+Speaker B: I was listening to KenConsumer's podcast earlier this week. He interviewed Punevyr. Who is another fx hash favorite. And he was talking about how he just has loads and loads of folders on his computer of just half-finished work because he'll get to a certain point in a project, have an aha moment, and then just start sprinting in another direction. And when you have enough of that over time, he's like, I have just hundreds of things that I could probably pick up and work on, but I wanna work on what's exciting to me now. And so it's part of the, the ability to go back and re-explore and reinvent and reinvigorate.
+
+Speaker C: Yeah.
+
+Speaker B: some of the older ideas. That's really interesting. And I think, as you said earlier, it's not something that's as possible in the traditional art space because you would have to literally just paint over on your painting.
+
+Speaker C: Yeah, that's definitely something I relate to. I also have folders and folders of like half-finished things that are kind of demos or yeah, things that didn't quite do what I expected them to do, or things that I got halfway through and it gave me a different idea. So I I went and did that thing and yeah, definitely very relatable.
+
+Speaker A: Well, I have a random question, so I was just looking through your Twitter for that work in progress and I have not been able to talk to someone about this yet, so I'm super curious. You are in that AI thing.
+
+Speaker C: Oh yeah. Midjourney.
+
+Speaker A: How afraid of Midjourney should we all be? Like, this stuff looks so crazy. Like a bunch of artists from FX Hash are in it and they're posting a phenomenal number of images and then they're, they're caveating it saying these are like really curated and you have to work with it. But like, how crazy is that thing?
+
+Speaker C: Yeah, it's really cool. Yeah, I feel like my initial thing as well is like, oh no, like, there's no point in making art anymore. The computers are on it. Like, you have that, you do have that kind of thought or that fear or whatever. But I don't really think it's a thing, certainly not yet. I think the thing that I'm finding Midjourney to be really good for is like, as an inspiration machine. And I think a few other artists have mentioned this as well. I think— I don't know if you know Dan Catt, he's gonna do a video about using it as an inspiration thing, he said. And yeah, so I've been kind of typing in like geometric glowing circles in the style of Hilma af Klint and then like collecting all those images up and kind of— and I've created this like Figma board that I can look at and it's so inspirational, I think. Yeah, I generally feel like it Is something to worry about as an artist, because I, I do think that the work is very recognizable as Midjourney. Like, I, I've been seeing people posting it as well on Twitter, and I, as soon as a picture comes up that's from Midjourney, my brain goes, oh, Midjourney. So, and I don't mean that to kind of dismiss it or whatever. I just mean, I think it is recognizable.
+
+Speaker B: It just means that Midjourney as an artist has a style, right?
+
+Speaker C: It's a style. Yeah, exactly.
+
+Speaker B: It's something that we can all recognize and appreciate.
+
+Speaker C: And I think it is kind of that same like DeepDream style where like, I don't know what it is, it's like the edges are kind of curvy or like there's this like waviness to it or something. So there's that. And then also I think it's, it's that thing that we were talking about before of like, how important is the code and how does the code relate to the output? And for me, it's, it's all about the process. And I think that the process that the artist has gone through to make a piece is actually incredibly important. to the output of the work, I think. And so as soon as you know that a Midjourney piece is created by Midjourney, it creates a completely different context from that. And I'm not even saying that it's like worse or better or whatever. I just— it is a different thing, I think. So there's still a place for human-created art, certainly.
+
+Speaker A: Yeah, if you have a moment, you should make a Waiting to Be Signed logo in the style of something through Midjourney for us.
+
+Speaker C: Oh yeah, I'll do it. I'll do it. I don't know what it's going to come up with. But that's the beauty of it.
+
+Speaker A: They probably don't have a lot to scrape for that. Yeah.
+
+Speaker C: No, you can, you can use images as an input though. So I could feed it that and tell it to do it in a different style. I'll, I will, I'll try it.
+
+Speaker A: Yeah. The first NFT project we did is just like a very basic cheesy take on the logo. So that could be a starting point. I think I brought it up because, you know, we were talking about code and how already it's so difficult. Like at least, at least with gen art, right? Intellectually, I know like someone sat down and coded it, presumably, unless they like copy minted it, which is a whole other thing, right? So someone sat down intentionally, wrote these loops, and even if you want to take the position that it's still the code generating the art and it's like a different skill, you don't have to physically paint the straight line. There's certain types of lines that are impossible to make with paint or with drawing that like the computer can make so easily, right? So you might want to make that argument to take away from the output. But then with something like Midjourney, the artist just kind of makes it sound like, oh, I just typed in this string of words and it gave me this output. And it kind of Further divorces, I think, the amount of work that goes in versus the output, right? And it, I guess I get worried that it's gonna become kind of like further ammunition for detractors to say, detractors from digital art in general, not just from generative art or anything, to kind of just say like, well, look, like, look at how trivialized it is to make something so beautiful. Like all you have to do is like give it the instructions. And then I kind of think of like Sol LeWitt and like the idea of like the instruction actually being the art in a sense for like some of the murals that he did, right? Where he didn't actually make them. Like, he wrote the instructions and someone else, like a draftsman, would make it. So there is like some history there, but it's all— again, like everyone has their own different level of knowledge and like what they understand about art or like their own opinions, right or wrong. And I always just get overly concerned about how, how confused people are gonna get.
+
+Speaker C: Yeah, I guess I could see it being a concern, like people mixing up kind of generative art and things like Midjourney. Like, I can see if If somebody doesn't— like, if they haven't been educated about what the difference is and kind of what's going on there, I guess you could kind of lump it all in one thing. I just kind of feel like, does it matter? Like, if some people don't know what they're talking about, you know? Like, it's— that is like an education thing. And like, so only somebody would make that mistake if they, if they aren't educated. And it's kind of like saying, well, I mean, people walk into art galleries and say, oh, you know, my 5-year-old could have done this or whatever. Like, there's always going to be people who aren't interested in art and aren't educated about it that are going to dismiss things. And, you know, that's a shame, I guess, but maybe it's not a problem to fix.
+
+Speaker A: It certainly hasn't stopped us from having this podcast, I'll tell you that.
+
+Speaker B: Yeah, I think it's something, you know, and we've talked about it a couple times already, it's that education piece. People can look at like a great work of literature and be like, oh damn, that a fine work of literature, whether or not I like it or not, I can recognize that because everybody's taken English courses for, you know, the first 18 years of their life or whatever. But I know very few people who've studied computer science or coding at all, especially as a part of like a broad-based education. People don't necessarily have access to that when elementary school or middle school, high school, whatever. It's something that you really have to opt into more than anything else. And it's something that you have to have a driven interest in. And so just the lack of overall exposure, nobody's gonna— until that changes and we need to become a little bit more fluent in it, nobody's gonna have that level of appreciation.
+
+Speaker C: Yeah, I think that's true. And I think, you know, when I'm kind of saying like flippantly, like, oh, you know, there's always gonna be people that dismiss things. And, you know, I wish that wasn't the case. And it is absolutely something that I'm trying to do to bring people into understanding and to speak to people on a an accessible level. And I've kind of— I have always felt that about kind of, I don't know, more traditional art, or, um, like, I want art to be accessible to people in, in that kind of— like, I don't want to have my art feel like snobby or like you're not welcome to it, you know? Like, I— that was always something big for me with the, with the installations, was that they not be so— I don't know what the word is— like highbrow or something. Like, I want them to feel like this is for anybody and that You know, you can come in and enjoy it and it's, it's to be enjoyed. It's not to be like dissected in, in that kind of way. Like, it's, it's a very, yeah, accessible and sort of human thing to try and give people something to enjoy. And I, and I feel the same way about the education stuff as well. Like, I want to educate people about it because I think it's really interesting. And I think that the more people that can learn about it and also find it interesting, you know, the better.
+
+Speaker B: I think it's also being empowered to actually Try it. And I think that's something that might be missing across all of the art spaces in general. People don't sit down and try to write a short story for fun. It's honestly a shame. I think that maybe the world would be a better place if— and this is broad-based conjecture here— if people actually took time out of their day to create rather than consume in a way. Consumption is obviously a really important part of culture, and that's how we learn how to share things and have these shared experiences.
+
+Speaker A: Yeah.
+
+Speaker B: But taking the time to actually invent things for yourself and to play and to come up with all these fun interactive or non-interactive works, I think it's something that we could all stand to do a little bit more of and just let little pieces of ourselves out there for others to enjoy.
+
+Speaker C: Yeah, definitely. Yeah, it's interesting how you ended it with saying like putting ourselves out there for others to enjoy it, because I think there's such a Uh, kind of balance or like there's multiple reasons to create things. Like there's creating something because the process of creating it is enjoyable and you wanna, you know, spend an afternoon making something and, and that's nice. Like I, I paint sometimes with watercolors and I do, like, I have coloring in books and things like that. And that kind of level of creating is very much just like, for me, I'm just having a nice time. Like I'm listening to music, I'm sitting down, I'm not sharing it with anyone. And then there is like, obviously the art that I make usually is so much about the audience and so on. And yeah, I think it's really interesting, like when you think about the different reasons to create stuff and like, why are you creating this? And like you're talking about, yeah, it would be great if more people created things. And then within that, is it that they're creating it so that they can have a nice time with themselves? Like they can express themselves, they can enjoy the process. And then is it also about so that they can share it with somebody else? And that they can put more creativity out into the world and so on. Like, I don't know, it, it just operates on a lot of levels, I think.
+
+Speaker B: When I think about sitting down to write a short story, I, I do not get warm fuzzy feelings. I think it would be a lot of unfun work, but I still also like appreciate the exercise in and of itself of doing something that might feel uncomfortable or feel unnatural and trying it out because that's some of the reason why we should be doing some of these things, just to explore parts of ourselves and see what's actually in there, so to speak. Yeah.
+
+Speaker C: And I think within the challenge as well, there's a lot to be— there's a lot of worthwhile things in challenging yourself to do something. Like certainly the blog posts, like I enjoy parts of it, but it's definitely like way more of a slog than writing the code is, you know? And I love when I'm done with them. Like, I love that they exist, but I don't love the process of making them in the same way that I love actually making the art, just because I don't have that same relationship with writing that I do with making like visual things.
+
+Speaker B: Yeah.
+
+Speaker C: But at the same time, like, there's definitely so much that I'm getting out of making them, not just for putting them out there, but for my own understanding of what I'm doing and like thinking through things. Um, and the article that I— I think it's the most recent one that I wrote, um, which is just titled What Is Generative Art? Like, I absolutely didn't know all of the things that I was going to say when I started that article, you know? And just the process of like writing the article and doing the research for it and figuring out all of the things that I wanted to talk about definitely deepened my own understanding of what generative art is. You know, like, I'm pretty new to this as well. It's only really been since like 2020 that I've kind of engaged with generative art specifically. Like, I definitely think some of the things that I made before that could have been called generative art, but it wasn't a conscious thing until, yeah, sort of 2 years ago. But I definitely in the last 2 years have spent a lot of time thinking about it. And part of that has been, yeah, writing those articles. And just the process of writing them has definitely deepened the appreciation for me as well.
+
+Speaker A: That was definitely the blog post that I think inspired us to have you on in the first place. That was like—
+
+Speaker B: Cool. No, I think that we wanted to have Amy on the show because she's, she's great.
+
+Speaker A: No, no, but I mean, but, but no, no, don't twist my words.
+
+Speaker C: There can be more than one reason why I should be here.
+
+Speaker A: So we've had other artists on and we kind of just talk more holistically about like their art and their background stuff, but like to have you on to talk more specifically, right, about a topic. This is the first time we've had someone on in that context of, this is something that we've been talking about a lot, or a little bit on the show and talking about a lot privately on Discord and stuff, code, art, the education gap and all of that. And I think seeing that blog post was what kind of inspired us to think of you as like a really good candidate to, to have that discussion.
+
+Speaker C: Yeah.
+
+Speaker A: So like that work is like so invaluable, I think. So even though you don't like doing it, tough, you gotta keep doing it. Yeah.
+
+Speaker C: It's not that I don't like it, it's just so much harder. It's so much harder, I think. Or it's hard in a different way that, yeah. But no, I definitely will keep doing it. I like, I like, I like that they exist more than I hate making them.
+
+Speaker B: It's like running a marathon. Nobody actually enjoys the process, but you have a sense of accomplishment.
+
+Speaker C: I want to have run a marathon.
+
+Speaker B: Exactly. Exactly.
+
+Speaker A: Well, this has been really great. I know it's early. I know the workday's about to start soon. For Trinity, at least.
+
+Speaker B: It's already started. Sorry, people, I'm late for my call. Worth it.
+
+Speaker A: Amy, thank you so much. I mean, is there anything else you kind of wanna get out before we wrap the interview? Any, anything that you think we missed? Any little fortune cookie bits of knowledge, something you wanna drop on us that'll like be like a profound ending to the interview?
+
+Speaker C: Well, I'm looking at my Post-it notes to see if I could, there's, there's a bunch of like quotes from other people, so I can say one of those. Oh, I have this one. The brain is no place for serious thinking. If you're thinking about something important and complicated, write it down. I think, like, that's so— it's so unrelated to everything we've been talking about, but I think it's really important. I can't think in my head. Like, everything gets written down.
+
+Speaker B: Ironically written down on a Post-it note.
+
+Speaker C: Yeah, fittingly written down. Oh, this is a Tyler Hobbs one, actually. He said, programs don't have to be complex to be beautiful. And I think that really helps me a lot because I think Sometimes I, because my background isn't so technical, you know, I worry that I'm not like writing the most like technical code. I think, you know, I'm developing on that, but actually I think you can make something incredibly beautiful with very simple code. And I think, yeah, I guess I also would encourage people to give it a try. Have a look at Coding Train on YouTube and you can pick up some p5.js like really quickly and start making stuff. Give it a try. Yeah.
+
+Speaker A: Schiffman is like the most charming educator I've ever— he has like, like your favorite teacher in high school vibes. Just amazingly entertaining videos that actually teach you how to code. It's insane.
+
+Speaker C: Yeah, he's amazing.
+
+Speaker A: We'll link to all that in the show notes too.
+
+Speaker B: Future best friend, right?
+
+Speaker A: Yeah. Yeah.
+
+Speaker C: I'm trying. I'm trying.
+
+Speaker A: I actually would really, I mean, I know some people at NYU and I need to like hit them up and see if I can get introduced, cuz I would love to have him on the show.
+
+Speaker B: Oh, that would be awesome.
+
+Speaker A: But I don't actually know if he makes Like, I don't know if he privately like makes anything. Like, I know he spends all this time teaching p5 and enabling people to do this, but I've never, I'm not familiar with him like as an artist, I guess I should say.
+
+Speaker C: Yeah. I don't know that he releases work in that way.
+
+Speaker B: No.
+
+Speaker A: But yeah, that's, that would be like another, you know, maybe that should be a goal for 2022 is to get Dan on the show. That would be amazing. Amy, thank you so much. It's really been a pleasure having you on and I'm glad we got, we're able to do this. Trinity, I know you have to go to work. I'm sorry.
+
+Speaker B: It's okay. This is so much better.
+
+Speaker A: I'm gonna go take care of my baby.
+
+Speaker C: I'm gonna go enjoy the sun. It's sunny in London for once, so.
+
+Speaker B: Take advantage of that.
+
+Speaker C: Thank you so much for having me on. This has been great.
+
+Speaker A: Thank you. And thanks again everyone for listening, and we'll be back soon with another episode. Later, everyone. Yeah, well, it was, it was in part partially in preparation for this, you know, going back and looking at the Maplens blog posts again. And like I said, like reintegrate, you know, I'm going to wait. Can everyone hear the baby screaming? All right, let's wait a minute. I think she's being changed. She's 3 weeks old tomorrow, so she's still figuring things out.
+
+Speaker C: Brand new.
+
+Speaker A: Yeah.
+
+Speaker B: Oh, I thought it was a month, but damn, 3 weeks.
+
+Speaker A: No, I know, time is moving weirdly.
+
+Speaker B: What time did you wake up today? Um, what time did you go to bed?
+
+Speaker A: It's a spectrum. The sleeping and waking up is a spectrum. I mean, you kind of are

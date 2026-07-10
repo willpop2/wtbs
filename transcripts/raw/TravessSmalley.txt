@@ -1,0 +1,345 @@
+Speaker A: All right. Hello and welcome to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Travess Smalley of PixelRug fame. Trinity is not here today, unfortunately, but that's okay. We've got Travess ready to chop it up with us about his new project coming to Feral File. Travess, how's it going, man?
+
+Speaker B: It's going well. I'm back in Rhode Island after being in Berlin for the week for the Generative Art Summit. So I've basically been socializing for the last week straight, getting to talk to other artists who are kind of in this space. And it was invigorating, it was centering. It was like kind of seeing how other people are living their life and kind of being part of this system and kind of this ecosystem that we're in. It was great.
+
+Speaker A: It looked fantastic. I didn't even learn about that summit until like a week before it was happening. It seemed like it was kind of under the radar. Except I think probably all the artists knew about it and ended up going there. And a lot of locals in Berlin, there's just a lot of GenArt locals who ended up there. And all the pictures I saw look great, but we can get to that later in the episode. So Travess, as you know, our first question always is to ask about your background in art and coding. So why don't you go ahead and introduce yourself to our audience that way?
+
+Speaker B: Yeah, I'm Travess Smalley. I like art and code. My background is kind of in art and technology. In undergrad, I was in New York City at Cooper Union, and I collaborated with a lot of my classmates and peer group through surf clubs. So from like 2006 to 2010, this was like a way that I would kind of share digital work online. It would happen on Delicious and on Flickr, and then a lot of us made like WordPresses or blogs where we'd share it. So The one I was part of was called Leshadka, and it was with Petra Courtwright, Dan Wickerham, Ilya Vechkin, Billy Rinnekamp from Folia, and Will Simpson, Eric Mack, Aviva Silverman, all who are like artists and part of the art world now. But it was like our way to kind of work through digital things and physical things, like have these kind of shows in the city. And from that kind of community, there's this one moment at Eyebeam in 2007 called the Great Internet Sleepover.
+
+Speaker A: Oh, yeah.
+
+Speaker B: where all of these surf clubs came together. And so I met Marissa Olson, I met Travis Hallenbeck, I met Guthrie Longren, Charles Bierkowski, who runs Arena. Corey Archangel was there too. Like, it was— I got to meet all these people from the kind of scene and see the kind of network that was at play. And so it was like a way to kind of share the digital composite Photoshop kind of work that I was thinking about and doing that was reactive to, at the time, Google Image Search.
+
+Speaker A: Yeah.
+
+Speaker B: All of a sudden we had this new tool where you could search metal band and just get back 10,000 pictures of metal bands and make work out of that or something. Whatever you posted, it was on WordPress or it'd be on some kind of blog format. So like the way you communicated was through commenting on all the work that everyone else was posting. So it was a lot of memes and kind of feedback loops where someone would make something and then you would make work that responded to it. And that scene kind of transitioned into this thing where we were making all this stuff online and it was like, How do we share it physically? How do we share it in spaces? And so trying out different exhibition opportunities and venues. And yeah, that's what I've done. Most of the things I make start digitally and at some point I want to see it physically. When you're working on a screen, you can only zoom in so much and zoom out so much. And that kind of zoom in, zoom out in real space, it has like a whole different feel to it. Yeah. Trying to think of some of the early, other earlier things that kind of brought me to the space.
+
+Speaker A: Well, I have a follow-up because I'm not familiar with this term, but for our audience and myself, what is a surf club?
+
+Speaker B: Yeah. So surf clubs were these blogs basically where groups of artists would share digital-based work. And there's a really nice write-up on Rhizome that's kind of the history of surf clubs that looks at all the different groups who did it. Nasty Nets for me was kind of like the big one. Tom Moody was on there. Petra was also on that one, John Michael Bowling. And it was just, it was a kind of these little communities, these clusters of communities that were making digital work. And then we were communicating to each other too. Rhizome in a way was kind of a hub for all this too. Like Rhizome was sharing a lot of the work that was going on there. Well, I actually ended up interning for John Michael Bowling at Rhizome. Lauren Cornell was there at the same time, CC Moss. And it was a kind of social network of being able to share digital work. It was kind of my first realization of, I wouldn't even say code-based work, but just like work with technology. Like some of the work that people were doing on there was code-based, but it was way more reflexive and responding to technology than anything else. And Delicious, which was this thing, this website where you could share links and things you were researching. was the kind of conceptual hub of it, maybe, where everyone was sharing all these things they were finding. And Arena really kind of took over for what Delicious was, but that was also a way that connected me to a lot of artists. It was like a hotbed for artists in a sense that we were all trying to one-up each other and it breded like a lot of amazing work and artists. And that was all you did.
+
+Speaker A: Yes.
+
+Speaker B: And that kind of network kind of just kept growing. And pushing out. And so I remember Chris Wood, who at the time was doing a post-doctorate in some form of biology at Yale, started what's called Computers Club. And Computers Club was another kind of outgrowth of surf clubs. And the extent of that wasn't like East Coast-centric the way that all these things that I'd been part of from just where I was in art school. And it started to connect me to a much larger world of artists that were working digitally. I also think of like Dump.fm from around this time too, as like a place where I was getting to communicate with a lot more digital artists. And there was like a lot of symmetries and mirroring from that moment. And I think like Hic Et Nunc, like when that happened, like in terms of the energy and like just like how much work was being shared. And it was really exciting.
+
+Speaker A: So, you know, you're educated in art, you've been making digital art, some with code, some not.
+
+Speaker B: Not really code. It was like, it was also like—
+
+Speaker A: Not really code. It was mostly probably Photoshop and stuff like that, right?
+
+Speaker B: Yes, exactly. It was just like creative software with maybe like the littlest bit of automation, but that was like it.
+
+Speaker A: So then when did coding enter the scene? And actually I heard, I heard we, this is kind of a fast forward to when we, when we talk about the rugs project, but that's not really like a coded, coded project like we might think of, right? That there's like Photoshop and other things being used in that. And your upcoming one is actually like maybe your first like long-form-ish true code-based project. I'm not— we'll get to it. But when did like NFTs, blockchain and stuff come into it? Because for so many artists, like my friend, like he hates that stuff and I was trying to encourage him to get into it and be like, hey, you should check this out because of things like Hic Et Nunc, right? Like the vibe is there. There's cool weird stuff. There's people here experimenting, finding an audience. You got in and you enjoyed it and found the fun.
+
+Speaker B: Yeah.
+
+Speaker A: and now finding like success too. Was it just like the fact that you found HEN and you were like, this is just so cool, this blockchain thing's not that bad? How did you come to it?
+
+Speaker B: There was 2 questions to that, right? Like the first question was kind of about like, how did I come to coding? And then the second was like, how did I come to the NFT space, right?
+
+Speaker A: Yeah.
+
+Speaker B: Yeah. So the coding one was a very like, yeah, I used Photoshop for most everything. And my early work, my early exhibited work was a lot of things that were things made in Photoshop that were printed out. And I'd take that printout and scan it back into the computer so I I could work on it more on the computer and then print it out and then scan it out. So I was making these kind of feedback loops to then make kind of textures and colors that were really exciting to me. And when you're doing kind of feedback loop or iterative processes, sometimes it gets boring. And this like idea of like, there has to be a way of automating this, there has to be a way of scripting this. And so it was just this like kind of continuing path into scripting where at first I was using Photoshop actions, then I was using Image Processor to synchronize different actions or sequence actions. Then I was using JavaScript to control image processor to sequence actions. And so by the end of it, I was like coding, but it all happened out of just, I went backwards or something. And so yeah, to now where it's like the project Crawl that I'm doing, about to do, come out, is all in Python. I've gotten rid of Photoshop now, which is exciting in a lot of ways. Like, yeah, so it came out of automation. Automation led to scripting in software, then it led to scripting in the operating system using AppleScript.
+
+Speaker A: Yeah.
+
+Speaker B: Which is like the first 5 years of coding were in AppleScript. I learned about the basics of coding, functions, variables, for loops, arrays in AppleScript. And it's because it's kind of natural language. And so it was like a really, uh, it was easier for me to grasp. And then later taking a computer science course kind of really made a lot of that knowledge that I just hit my head against really fall into place and allow me to do other things. Hic Et Nunc was actually kind of the second thing in the space. The first thing was Billy Rinnekamp, who I mentioned, who was part of La Shadka, the surf club I was in. He had been in Berlin for the last decade and done a lot of projects in crypto, and he had some really early ones. And him and Everett and Dan were starting up Folia in Berlin, and they had seen the kind of recent generative work that I'd been doing, which was this AppleScript-based Photoshop scripting. I had made this generative emoji maker, and as one of their first projects, they were like, I think this would be like a really great kind of generative piece to put up. So we released it with the script, and that was like the first thing I had done in the space. That was on ETH, which like the minting costs and gas and everything made it feel very like the stakes were a lot higher. And so Hic Et Nunc, the stakes were very low. And it felt very experimental because of that. And so that became like the place that I got to just try a lot of things out through the Pixel Rug series, which had already started before this whole space had gone. And it was just kind of my daily digital painting practice. And what I mean by that is that I would start with 128 by 128 pixel grid. I had different patterns, dither patterns that would be randomly selected and then overlaid on top of each other using different blending modes. And from just that rule right there, there was a lot of kind of cool emergent things that could happen, like kinds of images that I didn't expect. And so that whole project has been a growing list of functions and scripts that can do different things to this pattern. And it goes from like 128 by 128 pixels up to 2560 by 2560 pixels, always with pure RGB values. And so this is the kind of framework of which to explore in. Before this project, I had been doing this with ink and paper where I had a kind of script and I was the one processing the script with my hand. Like I have these simple rules. I'm going to start from this space and then move outwards on the page. Nothing can be more than a right angle. Everything has to curve depending on what colors are used. The next color needs to be this. And so having these kinds of daily projects has been a way to keep working and to keep, uh, keep moving forward.
+
+Speaker A: I feel like that's a really good way to transition more into talking about like pixel rugs, which I think a lot of people will know you from because that's how we first heard about you in FXHash Discord. You know, a lot of people would go over there and they would collect art on OBJKT. And for a while this felt like they were coming out almost, yeah, you know, like you said, they were coming out daily, almost every day. And they became such like a hot commodity. It was like, I remember I set up my crypto noises so that way whenever your wallet was active, it would like ping me in Discord. And so I would know that you were about to publish it.
+
+Speaker B: Wow.
+
+Speaker A: So that was like the big tool that people used back when NFTs were hot and you actually had to compete to get in to get a release.
+
+Speaker B: Yeah.
+
+Speaker A: It's not so much the case anymore. I mean, you've already talked a little bit about the creation of them, but please, you know, say more if you'd like. But also, what was it like to be posting these dailies and have them all of a sudden become like this thing that these crazy generative art and just digital art collectors started racing to get and trading and drooling over? And then prominent collectors, you know, putting them in their big collections? Like, I know Le Random has a bunch and other really big collectors are really keen on them. So like, yeah, what was that arc kind of like for you?
+
+Speaker B: Well, first, thanks for collecting. To any people who are listening who have collected the project, thank you. This kind of form of patronage is amazing and very different from anything else I've experienced outside of this space. And so it's really awesome. Thanks a lot. And I've been very lucky with some collectors, like TheFunnyGuys, Le Random have over 200 of them. The kind of support that I've received from so many people has been awesome. Like I said, I was— before this daily practice, I had this kind of physical scripted practice. And at different points I've had these kind of imaging calisthenics or something, like where you're just kind of trying to make things daily. And they're always growing on each other. They're growing off of each other. There's this painter I really love, Terry Winters. And when you look at his drawings and paintings over time, you can just see that There's so many similar ideas that he's just trying to work through in a different way. I also think about like how musicians do this, where they might have a song and when they perform it, there's always emphasis on different parts and you're trying out different things to kind of see where it lands. And so the art isn't maybe necessarily in the individual image, but it is in this kind of coming back to the performance and the kind of repetition of it. And the stakes have been low too, in a sense that I feel very open to, because it's not long form, if I need to change something or if I wanna just do it again, I just do it again. And I'm really just looking for images and textures that feel special and like gimme goosebumps. I grew up in coastal area of Virginia, like around surf shops and like from my age, 38. So like surf gear from the '80s and '90s has had like a kind of outweighed impact on how I think of color and texture. I feel like a lot of the rugs I make are kind of responding to this shirt that I wanted when I was 6 years old at the surf shop. That was like a combination of like aqua blues, neon greens, and like a vibrant orange or something.
+
+Speaker A: Mm-hmm.
+
+Speaker B: With kind of lines and textures. That is like a feeling more than an actual image. And so bringing that kind of feeling to a daily digital imaging practice is kind of where it goes. And then over time, the work starts to respond to itself. Like if you look at the early rugs, they're a lot simpler in terms of what's going on in them. And now it's just like so many different kind of functions layered on top of each other. And it's my place to kind of experiment and explore. And you know, it's been periods of daily, like I take breaks, I get less inspired or more inspired at times. I haven't done one in a really long time just because of Crawl. Before Crawl, I had Coordinates, which was the last project before this, which was with Folia. And that took a lot of time before that. So this last year, a lot of the time that I would have put into releasing Pixel Rugs has been put into these much larger projects. That being said, I feel like I have a whole new arsenal of like functions and things in Python that I kind of wanna bring to it. And so I'm hoping that this fall I could jump back in again.
+
+Speaker A: Yeah, I, I noticed, um, I saw your Coordinates project and, you know, hearing your background, it now makes so much more sense too, because the first thing I thought of when I saw them was like deep fried memes. Yeah, for sure. And just like a lot of the way the coloring and like the textures worked and there was like a photography element to those as well. Right. So. Some of them you really see the photography and some of them it's like so obscured by the effects that you put on top of it. So there's very few for sale. I looked to see what the deal was on OpenSea, so it's a pretty tightly held project over there. But yeah, let's talk about Crawl. You were kind enough to share with us, you know, a website where you can kind of play with these things. It's this huge animated piece. It hits so many nostalgic reference points for me. You know, this obvious like video game stuff, but it also has like aesthetically it does feel very in the same zone.
+
+Speaker B: Yeah.
+
+Speaker A: as a lot of what you were doing with the Pixel Rugs series. So I think fans of that project are going to really like this. So maybe the best place to start would be to just like have you introduce the project and tell us a bit about your ideas behind it and how it came to be.
+
+Speaker B: In some ways it started with Pixel Rugs and this issue that I have where there's a lot of things that go on in the Pixel Rug images at an up-close zoom, right? If you zoom all the way in on it and you're looking at maybe an area of 100 pixels by 100 pixels, there's still interactions of color Right? Because it's only 8 pure RGB values, there's ways that colors are mixing and lines and textures are mixing that depending on what view you're at completely changes how you read it and kind of makes these like different kinds of dither patterns. And also to your screen, like what your screen, uh, what resolution your screen is, if it's HDR or not, you know, there's like all these different things that are kind of controlling it. And so the original idea for Crawl was like, what if I forced people to kind of be At that level. Coordinates also kind of played with this. Like, when you open the Coordinates project, it starts you out at these kind of incremental zoom levels before you can kind of zoom back to kind of possibly see the whole picture. And that project too, uh, yeah, those are all— that's all from my iPhoto collection. That project was specifically kind of in reference to Gerhard Richter's overpainted photographs, which were just all of his family photos that he would then apply his painting gesture to. And I was thinking about the kind of squeegee mark across, and I was thinking about, well, what are my painting gestures? There's like scripts and functions for Photoshop that I could then apply to them. But anyway, so the zoom, the zoom mechanic is kind of where it started. And then the idea was, well, what if you were a pixel inside one of these images? So kind of thinking about that story Flatland, where it was just like a 2-dimensional world and you're this 2-dimensional thing moving through a 2-dimensional world. And so yeah, the idea started from there that you're this one pixel and you're trying to explore the whole image.
+
+Speaker A: Yeah.
+
+Speaker B: Which then led into roguelikes. It led into Dwarf Fortress. It led into simulation and sandbox. It led into NetHack, Moria, Rogue, Dungeon Crawl Stone Soup, all of these kind of roguelike games that are top-down. You're moving through a procedurally generated space. So my research kind of started there and looking at like procedural generation in games, the way that levels are generated and Thinking about how I can apply those, those ideas from game design to an image-making practice. So how can you use wave function collapse not to necessarily make a level, but to make a painting? And the form of a maze and a labyrinth were interesting because I love the idea of images that you can play without doing anything.
+
+Speaker A: Mm-hmm.
+
+Speaker B: This is a very backwards kind of way of thinking about it, but I remember when I lived in New York, this was maybe 2016, 2017, I lived in New York and I was sitting on the train and across from me There was a kid reading a book of chess and it was like individual games, like chess games. And it was like, oh, they're watching a Twitch stream. Like they're watching this game being played, but in book form. Right. And there have been like lots of kind of takes on this idea of a game that you can look at as a still image. There are these 2 role-playing books, White Knight, Black Baron.
+
+Speaker A: Mm-hmm.
+
+Speaker B: I might have messed up on the name on that, but they are kind of like choose-your-own-adventure dungeon crawlers where you're flipping through the book page by page and every page is a different area of the dungeon. So images that you can play led to looking at the history of mazes and labyrinths, which are ancient in a lot of ways, just the way that like dice have been around for thousands of years and like humans divining randomness and chance for thousands of years. So have there been mazes and labyrinths? And so that became a simple form that I could kind of then start to build these images that you could play or look through. And yeah, and that's where it started. And so I started building labyrinths with JavaScript and it wasn't really working the way I wanted to. I found some different open source maze and labyrinth libraries for Python, and that was a really nice kind of taking off point. And then to build my own. From there, then it's like I start with a maze and then I start corroding it. So I have like plants and animals and fossils that can kind of deteriorate it. There are different pathways that can form through it. Then there are all kinds of objects that can form on top of it. There are these red circles that kind of function like watchtowers that when you land on them, they change your zoom level. There are teleporting blue spirals that will warp you around. There are doors that unlock worms. So yeah, lots of references to different gaming experiences maybe. And really from the viewpoint of somewhere between play and viewing.
+
+Speaker A: Right.
+
+Speaker B: And so like when I've been talking to people about it, I talk about the experience of going to a museum's website or to Sotheby's website and like wanting to see the high resolution image of a work. And then you're kind of given that viewer where you can zoom in, zoom out, and move around, that this is kind of my slightly gamified version of that that kind of feels more in the language of the way the images are being composed.
+
+Speaker A: In some of what you shared, you showed the Python loading screen. I'm not sure if this is actually going to be part of the final piece, but kind of like the Python script running, generating these mazes, generating all of the variables that are going to be applied into the maze that you just described. And that was the thing when I saw that and I was like, oh, this must have some Dwarf Fortress influence on it because it looks— not that I've played Dwarf Fortress because it's such a behemoth of a game to get into, but I've seen so much and heard so much of it and learned so much about it from YouTube and stuff.
+
+Speaker B: Yeah.
+
+Speaker A: And just like that aesthetic, like you just nailed it so well there. What you shared with me was like a website of the thing playing. And so I imagine like when you mint one. You know, you're gonna get your NFT and then the NFT, when you just like run it on the Feral File site or wherever you're running it, it's gonna do a similar kind of like take over the webpage kind of experience.
+
+Speaker B: Mm-hmm.
+
+Speaker A: What's the logic to the exploring dot? 'Cause it doesn't feel like it's necessarily following the logic of the maze itself. It's just kind of doing its own random walk, like on a layer on top of it. So is that something that's also random? Like, are there some that are gonna be better at exploring than others, or is it like just a, um, Just like a true random walk type of thing.
+
+Speaker B: Uh, that's a really great idea. Um, yeah, so to the log question, right? Yes. So the log file is included with each work. And so that kind of tells like the whole history of how it was made. So you get this kind of the ASCII version of the maze at top and then all the steps that happen to it in there. There's lots of kind of weighted possibilities of what can go on in there. Some of them using different types of quantized color palettes that reference game consoles and handheld gaming consoles and old like Amiga palettes and things. Like, there's lots of different possibilities in there. And so the log file that comes with each one kind of acts as that kind of receipt of what happened in there. The movement is based on the minimap. The minimap is basically trying to fill in all cells. So there is like a random walk component, but it's also just trying to explore the whole image. And so at any point, it's responding to that. There are also spawn that can happen where you, when you go over like a pure green, RGB green, it starts creating these red creatures that can go out in lots of different ways and explore the map. The same with the worm. So they are also kind of filling in the cells and kind of filling in the explored area. In the process, I experimented with quite a few different ways of interacting with borders, interacting with walls, from making it just hardcore. If it is a black pixel, you can't move through it. To having no flow at all, that you're literally just freely moving around the space. So there are some kind of unlockable hidden things in there that I'll leave it for people to find in terms of like how you can kind of break those rules pretty easily. But I wanted to have some kind of limit in place that kind of kept changing the pace of how it auto-explored. It works with touch, it works with mouse, and, but I really, I think keyboard is kind of the best way to experience it in terms of the different controls and the things you can do there. When it comes to the individual viewers though, and kind of different ways of auto-exploring, I love that idea. I think that it would be great. So maybe there is time to do that. I mean, also there's this thing that I've had to deal with this project in ways that I have never had to deal with in exhibiting and doing shows before, which is just scope. Of what is doable in the time I have. Right. There was like multiple times I was like, well, no, I need to redo this in WebAssembly and make this in like, like, you know, just all the things that is like, there's so many possibilities in there for it. But yeah, that's, uh, that's actually a really good one. Yeah.
+
+Speaker A: Well, this project is gonna be on Feral File and then it's been like curated by Casey.
+
+Speaker B: Yeah.
+
+Speaker A: What's the story like? How did you kind of link up with Casey? What's it like working with Feral File like this? And like, can they pitch in on things like that when you need like tech help of like, oh, we have to, in order to make it work for the show, we have to write this new module or something. Like, do they jump in and help there? And do they give feedback on the actual like art and all of that? Like, 'cause I know that's what happens with Art Blocks Curated, but I have no idea what the Feral File process is like. So to the extent that you can say, I don't know what you're— Yeah, yeah, sure. Yeah, please let us know.
+
+Speaker B: They didn't say it, couldn't say it.
+
+Speaker A: Okay, go for it.
+
+Speaker B: Working with Casey has been amazing. He's one of my favorite artists and To get to work with him is, uh, kind of beyond. And I feel very honored. Like, I can't believe that I get to do it. And I've been talking to him for almost a year about this project now. He also has collected a lot of the pixel rugs too. And so that was kind of how we first connected. And so he's been involved since the beginning. It was a lot of, I have this idea where you're a pixel in an image and you're exploring it.
+
+Speaker A: Yeah.
+
+Speaker B: And him kind of basically being there like, yeah, that's great. Let's go with that. And kind of always being supportive and pushing me to take the next step. And so I think there are many points along this project where I could have possibly stopped and been like, that's it. We're done there. And he was like, ah, I think you like, keep going. Like, just see where else this can go. And him and Whitney Hart were both in that role, being encouraging, asking questions, kind of trying to help. And so it was very dialogue heavy, very collaborative in a lot of ways, and incredibly supportive. The coding part for the majority of it was just me trying to figure out what I wanted it to be and how to work. But yeah, then in the, as we kind of get closer to the show, more people from Feral File are involved and we're trying to kind of figure out how this works in place, how it'll look. You know, up until this point I had just been doing it on my side, but seeing how it looked in their interface all of a sudden changes things, right? Like.
+
+Speaker A: Yeah.
+
+Speaker B: The work in the studio looks different than in the gallery, right? And trying to figure out what that experience is going to be like. And so highly collaborative is what I would say, and lots of communication. It's been great.
+
+Speaker A: Sounds awesome. And is there, you know, I think we should definitely plug, it says it's going to be 16th of July.
+
+Speaker B: The show opens on the 16th and then minting happens the following Tuesday, the 23rd.
+
+Speaker A: 23rd. Okay. So people have like kind of a week to play with it and explore.
+
+Speaker B: Exactly.
+
+Speaker A: Gotcha. And is this going to be like random? Is it going to be like, you know, do you know this, you know, this term like collector curated, right? So like what's kind of the release mechanism going to be? How many of these are there going to be? Have you guys decided on all of that?
+
+Speaker B: Yeah. So this is like the really exciting thing. So there are 512 maps and you get them individually, but they can then be combined into a multi-level dungeon. You pick the order, you pick the sequence and everything. So it's going to be this thing where you're taking, once they're all out there, you can see what there are and try to build your own. You can even take 2 multi-level dungeons and kind of combine them together. So it becomes this larger kind of network and system that you can explore. And yeah, it'll be 512, but they can be merged as much as you want. And when you merge it, it burns the original.
+
+Speaker A: Oh, I see. So I could like mint 4 of them. Lasso them all together, burn them, and it'll remint not one bigger one, but like a multi-level thing where one gets solved and then you kind of descend down. Okay. That's super cool.
+
+Speaker B: And you get to pick your order too of how you want that sequence to be.
+
+Speaker A: That's interesting. I feel like that has so many cool implications for, you know, the future of live displays and stuff like that as those become more and more accessible in households where, yeah, it's cool to have an ongoing piece, right? Like a, like a Kim Asendorf or Leander Herzog beats, like going and just kind of like forever going. But it would also be cool to have like, oh, I've got these like 4 things and they complete and then it moves on to the next one. You can kind of just follow it.
+
+Speaker B: Yeah, I have a 16-map one that just kind of continuously runs. And the longest it ran for was 2 and a half days and it had explored most of the 16 levels, but it hadn't gotten to the final floor yet. Just because of like how the tracking worked and then it would go back and look at something from a previous and yeah.
+
+Speaker A: That's so fun. That's so exciting. I feel like it kind of gives like an extra level of gamification, right? For people who really want to like build their perfect stack of dungeons. Like if they only want certain palettes or they're only looking for certain features, or they're looking for like a diversity of features where you want to start off like where it's green and lush, like you're on ground level and then you descend down right into like lava and ice and different levels of things. So are we going to see some of that stuff like expressed in the palettes?
+
+Speaker B: Yes. One of my favorite palettes is this brown and white palette that when you look at it from far away, it's kind of like, ah, what's going on here? But when you look at it up close, it feels like soil, like sand and soil mixing in a really wonderful way. And so yeah, once again, it's this thing of like how scale affects everything that really changes how you perceive it. And that was like a big thing when we were talking about it before, of like, what all do we share of it? Do we just share these little tiny pieces of it with people and not let them see the whole map? But in terms of thinking about building it, it felt important that people could see like the whole map, that they could see what all those elements were.
+
+Speaker A: Yeah. And there's another component to this too, which we haven't even discussed, which is the woodblock prints, the quote unquote screenshots. They're kind of like smaller little screen grabs, like you might take from a level. What's the idea behind those? How are those going to be distributed? Is it going to be like to lucky minters? Are they going to be kind of sold Separately editioned.
+
+Speaker B: Let me get one for you. This is one of the woodblock prints, right? And so it's on this thin Japanese mulberry paper and, oh yeah, you can still smell the ink on them.
+
+Speaker A: Yeah, I saw the video in with your drop of like the print being made.
+
+Speaker B: Oh, great.
+
+Speaker A: Yeah.
+
+Speaker B: Yeah. I just got really excited and I wanted to show you and I forgot what your question was.
+
+Speaker A: So what was the idea behind doing a physical for this piece, which is like so natively digital in so many ways? And is there going to be like a gimmick to being able to qualify for one, or they're just going to kind of be sold as like edition prints?
+
+Speaker B: The idea behind it was, as I was working on this project, I was coming across all of these amazing kind of map generations and screenshotting them as I went. And one of the big things that happens, for instance, in pixel rugs is there's this moment where things get too complex and I need to like push them back down to just being pure black and white. Like I use like a threshold and it just takes out all the color, all gradient, all nuance, and it's just Very graphic. Boom. So these are screenshots from maps that I was working on through the process that I really liked, thresholded down to just black and white, that was then laser engraved on wood and then ran through the etching press to make these prints. They're prints on this thin Japanese mulberry paper, so you can see a bit of the fiber in the paper. You can see a little bit of this kind of very organic texture. It's not like the kind of crisp BFK Hahnemühle, like white paper. It's like, it has like a kind of texture to it, which fits really nicely with the kind of hard edges that are in the piece. I think that there's often this feeling of what other forms can this exist in? How does this exist off of a screen? With the Pixel Rugs, I made a series of hand-woven rugs, right? There's a good chance that those will outlast everything else I make just because of, it's like hand-knotted wool. Like I think it's a lot harder to destroy than a hard drive, right? And so I love to kind of always experiment with it. And that's, you know, and as a teacher, that's kind of what I'm always doing. I teach programming images and like how to program, but I also very much am interested in my students kind of exploring different printing techniques and scanning techniques, like using the risograph, using pen plotters, using the laser cutter, 3D printers, all kinds of things to try to see how these ideas that they're doing on the screen can exist in real space. Because then every time you do that, it then informs future work, right? It's, uh, seeing what the woodblock print looks like then shows me new textures that I might want to apply to the code, might want to apply to something else.
+
+Speaker A: So is it like just one print that you're going to edition, or is it—
+
+Speaker B: No. Oh no, no, there's, there's 10. There's 10 prints. It's one of one, one pool of each. I had a couple of like tests to make sure everything was right, but those were all destroyed. So there are 10 different woodblocks. Each one has one pool. It's also kind of because of the scale, every successive pull, a little bit more detail is lost with the kind of up-close dithering textures. So they'll be sold individually. There's no unlocking mechanism or anything. It's been my experience too that, you know, different collectors are interested in different things. And a lot of the people that I thought would maybe be interested in a physical have no interest at all. So it's like, I never know where that interest is, but they're quite special.
+
+Speaker A: Yeah, they look great. If they're one of one, I'm probably less likely to be able to get one, but Still, I'll enjoy them from afar. But yeah, I mean, speaking of collectors, you know, you mentioned at the beginning of the show you were just out in Berlin for the big like generative art conference thing. I saw some people on Discord talking about meeting you and seeing some of your— I wasn't really sure like where this was exhibited because I know a lot of different artists were showing stuff there, but one person thought they were plotter drawings, one person thought maybe not because it was like a green foil kind of ink.
+
+Speaker B: Yeah.
+
+Speaker A: Here, the one I'm looking at looks kind of like circuit board-ish, but also maybe kind of related to the pixel rugs. So maybe you can tell us a little bit about that project and also just what was the vibe like in Berlin? Did you show anyone stuff from Crawl? Like, what was the reaction like? And go ahead, just riff on that.
+
+Speaker B: Oh yeah. So first about the plots that were done with green foil, that comes from the scrapbooking community, the crafting community, who have lots of really cool tools. And one of them was a kind of a foil embossing attachment for plotters. So those are foil embossed drawings on paper based off of patterns and scripts that function a lot like the pixel rugs do. And there were 2 drawings that weren't foil drawings but were with pen on paper at Expanded Art for the show that's up right now. I did get to show Crawl to a couple of people and Berlin, and it was really exciting to kind of get to share this like outside of just a very small group of people, to kind of see what other artists in the space, like how they interact with it and the questions they have about it. I think that there's sometimes when you're making things, it's just you can be so in the zone and, and not knowing how— what is going to be legible and what's not going to be legible by other people. And really being in Berlin though was Uh, I could have talked to Sarah Ridgely for as long as she would have let me about like risograph printing, because that's something we've both been doing. And it's just like, I have so many questions. So it was like a really nice time to kind of talk to people about technical things, but also about life and like, what is it like to be an artist in this space? And for the Generative Arts Summit, it was such an ecosystem because it wasn't just artists, it was also collectors and it was curators and it was art historians. And everyone there was interested in everyone else for different reasons. And so it made this really fascinating web of kind of continual conversation. There was not a break. I was there for a week from 8 in the morning until midnight every day. I was just talking the whole time basically, and it was wonderful. I really hope that— it was organized by Susanne, the partner of Herbert W. Franke, and she put so much into this event. And It really just was wonderful. And so I'm looking forward to another event like this where I can get to meet more artists from the space, 'cause it was, I keep thinking of the word centering. It was just, it made me feel like, oh, there's a place for this kind of work. There are other people that share a lot of the interests and ideas that I have and are making really fascinating things. And it was just nice to communicate with them.
+
+Speaker A: Yeah, I mean, I feel like that's so important right now too, as The market has cooled down so much, you know, something we talk about a lot on the show, just vibes not feeling as good, just to see everyone going out there. And, you know, so many of the remaining originators of what we now know, right, as generative art, like they're too talking, doing panels. I don't know if they were doing meet and greets or how socialized, how much socializing they were doing, but a lot of people that we know ended up out there. And if they ever run it back, I'll definitely try to go.
+
+Speaker B: I'm sure there'll be other events like this and it's just like, it's, I'm gonna have it more on my radar to try to make it so that I can go, cuz this was wonderful.
+
+Speaker A: I'm glad it was a good time. Is there anything else that we should cover from Crawl? If not, or I mean, I guess I have kind of a, a Crawl-related question actually, which is to ask, so what is exactly your background in gaming?
+
+Speaker B: Oh yeah.
+
+Speaker A: Did you play a lot of these old roguelike games, like, you know, 8-bit, 16-bit, like pixel art games or? Is it something that you've kind of come to in your adulthood, as many of us have through like YouTube and emulation? And, um, do you play Magic? Of course, we have to ask everyone who has any kind of gaming adjacent interest that question.
+
+Speaker B: Well, to start, I don't play Magic, but Magic possesses something that I really do love. And Magic is like Turing complete in the sense that you can do computation with the rules of Magic. And a lot of the games I love, turns out, are Minecraft, RollerCoaster Tycoon, these kind of sandbox games where the rule structure kind of supports emergent play. Those are my favorites. So I have a channel on Arena called Creativity and Gameplay that is kind of my collection of when players are able to create something that kind of exists in parallel or outside of what the creators may have intended. And I understand that for game programmers, they're aiming for emergence, right? They're like a lot of Breath of the Wild, Tears of the Kingdom, they're aiming for to create these kinds of experiences. I'm fascinated by this. And I think it comes out of the place that I've used creative software designed by others for so long. And so it's like, what does it mean? Like if you're— if all of your work happens within a piece of creative software, you're just kind of playing within that person's rules or the programmer's rules. And, and so I think that's kind of maybe where it started from. And then just being fascinated by all the kinds of ways that people can kind of create inside of systems. Like you have people that mod games, you have people that maybe just make house rules for how they play it. Like, they might play it in different ways. You have people that treat the game as something to uncover and explore every inch of. Like, I remember that YouTube channel where the person would just walk across the map, like just walking from one side to the other. People that treat it as a place for photography, right, for performances. And then there's a kind of virtuosic play of games— speedrunners, um, trick shot— like people in Grand Theft Auto that take their BMX bike and are able to ramp off a certain hill to go through a donut hole to land in a car, like that they're are all these kinds of gestures that are in different ways creative. Then also you have artists that use games as a material of which to make things from. So I find all of these kind of gestures to be fascinating and exciting. I would say that's probably my biggest area of research probably is this idea of emergent play and how people create inside of systems. But I also love to play games. I would say that from the period of when I was 16 until I was 26, I hardly touched any games. I may have played, I played the Wii like a little bit when I was at friends' houses, but that was it. It was like, you know, I was into music and going to school, and so I just didn't touch it. And then there was a moment at like one of my first jobs where someone was talking about Skyrim, and I was just like, oh, okay, this seems interesting. I want to check this out. And that kind of launched me back into it. And the thing that I liked about Skyrim, right, was this emergent play, this kind of— I could play it however I wanted to. I could focus on whatever I wanted to. I could make all kinds of interesting things happen that were basically happening because of the generative systems at play, not because it was a railroaded kind of story that I needed to hit. So I would say for the last decade, I'm always playing at least one or two things. In that period, Minecraft far supersedes anything else. Starting out as vanilla, but going into modded Minecraft, I've been playing this one mod pack for the last 2 years called GregTech New Horizons, which is engineering and chemistry based. It led to Factorio. The people who made Factorio kind of based it off of this mod pack, and apparently it takes more than 10,000 hours to beat, so I don't think I ever will. Yeah, the hour count I have in Minecraft is, um, I don't know if it's something to be proud of or not. Elden Ring DLC right now has been my kind of thing. But then, yeah, so then it comes to like roguelikes and all these other games. Those happened later. Like, I remember Minecraft and Conway's Game of Life Cellular Automata, like those 2 ideas were introduced to me in like 2013, 2014 of this kind of never-ending 2D grid. And Minecraft isn't never-ending, but it like, it might as well be as far as I was concerned in terms of like, I could just keep walking out and new land was generated. And that idea of procedural generation in games and this kind of how we can use math to make these kinds of systems that might start to simulate life or, or something made me start to look backwards to Dwarf Fortress first, which you had mentioned earlier about being— there's never been a better time to get into Dwarf Fortress.
+
+Speaker A: Mm-hmm.
+
+Speaker B: They have worked so hard since 0.5, and now that it's on Steam, I think it's a great time to play. If you can set aside an evening, you'll have a lot of fun. But yeah, like going back, uh, Infiniminer, Dwarf Fortress, but then going backwards to Brogue, uh, Spelunky as like this procedurally generated game into the top-downs, the NetHacks, Morias, Adam. Dungeon Crawl: Stow Soup is probably the biggest influence on Crawl.
+
+Speaker A: Mm-hmm.
+
+Speaker B: And it's a free game you can play online.
+
+Speaker A: It's a web-based game or is it like a game that's been emulated?
+
+Speaker B: It's a web-based game that's been in development for about 20 years. And so it's kind of continuously been polished and refined and it's a dungeon crawler. Also at the same time, like 2014, 2015, I had started playing Dungeons and Dragons with a group of people, 5th edition. So it's like the same group that I still play with. So a lot of the ideas around map design, world design, emergent play that can happen through making drawings of maps also kind of impacted this in a lot of Separate of that, over to my left right now, I'm looking at my MiSTer FPGA. So I have like hardware emulated consoles. I have my RetroTINK 4K. I can nerd out about like old hardware emulation in games. And Jet Set Willy has been one recently that I've been looking at as like a game from the '80s that kind of the way that it was building maps and kind of levels and the community around modding for that. It seems like the roguelike genre just kind of encapsulates a lot of ideas that hit for a lot of people right now in terms of randomness and skill. Yeah. And then just like the thing separate of that, like all the things that are happening with like Zelda: Tears of the Kingdom and Elden Ring are fascinating. I find Elden Ring to be, it's probably like one of the best games I've ever played just in terms of visual storytelling, how much happens in the environment. Yeah.
+
+Speaker A: Yeah. I mean, Working in gaming, it's really interesting to hear you talk about. I mean, I agree, like, I love the emergent aspect of games. I actually don't particularly care for like those styles of games because I'm such a— I always want to kind of have an opponent. I want to be playing against someone. Like, I feel like that's how I get better versus like playing against the system. But I totally like love and respect what those games are doing. And it's always kind of like the thing that whenever you hear a game pitch, it's Open world, what you do matters, like play the way that you want to play, like you're never— but then it's always the first thing that gets scaled out of games when the reality of budgets, talent, you know, other restrictions start to enter the picture. And you end up with so many big budget games that try to hit that mark and then they just kind of like, it's flat. And then you hear, you hear the criticism. It's like, well, I wanted to play it like this. They told me I could play stealth and I couldn't play stealth. Like it forced me into combat here and here and here. And like, I hear that and I'm like, I know exactly why that is. It's either because they, it was too expensive to figure out or yeah, it was actually almost always that it's always just too expensive to do it and they scaled it out, but then it never scaled its way out of the marketing materials because it's like such a key aspect of selling these AAA games now.
+
+Speaker B: Do you think that'll change over time?
+
+Speaker A: My hope is that we're about to hit like a AA games Renaissance where, especially now that this is like so like industry and that we never talk about on this show, but like, you know, Microsoft just like sold or not sold even, they just basically like laid off a bunch of their studios that they had gone through this big expansion trying to do first-party stuff. It kind of feels like they're giving up on the console game and just giving it to Sony at this point. But now there's all these studios that have been cut loose. A lot of them are probably going to scale down as some of their People go to other companies, but a lot of them are gonna kind of like reconstitute as indie studios, I think. And there's so much that you can do with exactly what you're talking about with emergent games, roguelikes, just like games that have really, really strong hooks to them that don't need to be $100 million games. Like, yeah, I feel like the industry is about to kind of prove to itself that you don't have to have insane Graphics, like Elden Ring is actually not as expensive as a lot of these other games because they allow it to be kind of janky. Mm-hmm. I mean, it, it looks good, but it doesn't look like what other games in, in that genre typically look like. And Nintendo's the same thing. They're kind of like, you know, their games have to fit this, the hardware that they create, which is so much slighter compared to like a PC or the other consoles. But they work with that constraint and they figure it out. And like, I'm really hopeful. What are some of the games I played recently?
+
+Speaker B: I can name some. Balatro this year was amazing.
+
+Speaker A: Yeah, Balatro. I played a ton. I think we talked about it on the show actually really briefly.
+
+Speaker B: Animal Well is also amazing. One person studio, like.
+
+Speaker A: Yeah. I started playing Stardew Valley again this year with the new update. There's a cool roguelike called Cobalt Core. Ooh. That's kind of like spaceship themed. So if you are looking for a new one, it's pretty cute. It's got a cute story. But there was one game that I'm thinking of from last year or 2 years ago that you should definitely check out if you missed it. You must've seen it because it was on a lot of people's like game of the year list.
+
+Speaker B: Citizen Sleeper?
+
+Speaker A: Oh, obviously Disco Elysium. If you haven't played that.
+
+Speaker B: Oh yeah.
+
+Speaker A: Oh, have you played Baba Is You?
+
+Speaker B: Oh yeah, of course. Okay. All right.
+
+Speaker A: So you're a gamer. Okay. You're like a gamer gamer.
+
+Speaker B: Okay. So Baba Is You, one of the developers of Baba Is You made one of my other favorite games of all time, Noita, which was also a really big inspiration for Crawl where every pixel is simulated and you're this witch that kind of descends down into this cave system and you're programming wands. So your wand is this thing that you can kind of continuously Restructure the functions in it to program it to be more powerful. It's an amazing clockwork game, emergent sandbox, yada, yada, yada. But Baba Is You is great, of course.
+
+Speaker A: Um, so hard though. I tried to play it and I got stuck so fast. I was like, okay, this is beyond me. But the game I was looking for is called Inscryption.
+
+Speaker B: Yeah. Oh yeah.
+
+Speaker A: With a Y. Yeah.
+
+Speaker B: Yeah.
+
+Speaker A: That game was, it was good. All right. We got to get off games because people are, people are checking out now. Don't worry. When I edit that down, that segment will be a little Quicker. So I guess to relate this back to your project, what was something that you had to scale out that you were super disappointed of? Like, you know, was there something originally you were like, oh, I definitely am going to do this, this is going to be so cool, and then you hit the reality of like just like development? Yeah, what, what didn't make it?
+
+Speaker B: It's the kind of simulation aspect. The kind of premise, right, was what if I used level generation to make images? That was kind of where I started from. And I hit that. But in the process, I got really excited about if things could be more reactive, like if my walls could start to grow and moss could form or things could be eaten away or you could fall floors. And so like all the kind of reactive systems-based things that I want to do with it, that's kind of where I would love to go next.
+
+Speaker A: Crawl 2.
+
+Speaker B: Yeah. Yeah, exactly right. Yeah.
+
+Speaker A: Okay. Something to look forward to. Well, we, we've gone for a bit and as you know, we'd like to do rapid fire at the end of the show here. I wanna make sure you've got time. Mm-hmm. 'Cause I think we're gonna chat a lot more about some of this stuff. Let's do a couple of these. And we kind of started this conversation at the beginning of the episode before we were recording. But what do you like to listen to when you work, when you code, just in general, like throw out some music recommendations for everyone?
+
+Speaker B: Yeah, of course. Imahoy Sige Mariam Gabru. Uh, piano player. Uh, H. Hunt Having a Bath is another album that I listen to a lot.
+
+Speaker A: Playing Piano with Dad. Yeah.
+
+Speaker B: Playing Piano with Dad. Yeah.
+
+Speaker A: That's so sick.
+
+Speaker B: Uh, for a very long time, Rodaleius, Hans-Joachim Rodaleius, was like probably my number one. And now it's like, I would say specifically when coding, there's a Skyrim ambience that I listen to at night, which is just like the ambient music from night. Um, Animal Crossing at night music sometimes too. The Comfy Synth Archives, the Dungeon Synth Archives, like all these kind of more dirge-based things. Cat Apple and Bob Stoll, Emerald Web, kind of like a lot of new, new agey synthesizer music. But also, also, it's when I'm in it, it's like music very quickly fades away and I might just be listening to nothing for a while. There is a kind of in-between flow state where music can be nice.
+
+Speaker A: Mm-hmm.
+
+Speaker B: But it's, it's definitely a certain type For sure.
+
+Speaker A: The number of times we've ended an episode and I've like sent the Spotify link to AGH1 to someone. I found that record 2 years ago.
+
+Speaker B: Yeah.
+
+Speaker A: And I was just like, holy crap, like I didn't even know music like this existed, you know? And on its surface, it's not even that special, right? It's not like complex, it's not like avant-garde or anything. It's just like the simplest little piano music album, but it's so tasteful and hooky and just listening to it on repeat all the time.
+
+Speaker B: I agree. One older one that I would highly recommend is Bill Evans playing the Fender Rhodes piano. Bill Evans, From Left to Right, that album, it's very good.
+
+Speaker A: I mean, I'm looking for anything that's like that, so—
+
+Speaker B: Yes. Yeah, yeah, yeah. And also like in the game space, right, there's like a lot of soundtracks that do this. Like all of C418's music from Minecraft is, uh, hits that too. Software records from the '80s, like all theirs, uh, Evangelist's like Blade Runner soundtrack, but then also the Antarctica soundtrack and Opera Sauvage, like all these like mid-'80s kind of synth soundtracks too.
+
+Speaker A: Definitely send over a bunch of links so I can put them in the show notes too.
+
+Speaker B: Sure, sure.
+
+Speaker A: Great recommendations for everyone there. Another one that we always ask, who would you like to hear us interview?
+
+Speaker B: Hmm. Has Sarah been on yet?
+
+Speaker A: No, we've chatted with her a little bit, but We've never actually fully locked in and had her on.
+
+Speaker B: It was so awesome to get to meet her. I love her work. Waiting to Be Signed is how I found out about Grapheme. Oh cool. And I was so excited, like, you know, when I saw that project and getting to meet her was awesome. So I'd say Sarah.
+
+Speaker A: All right. Sarah Ridgely. This is it. We got, we gotta finally lock it in with her. All right. Here's one that we don't normally ask everyone, but since I know you have a child, I, have you started gaming? With them?
+
+Speaker B: Yeah, I have 2. I have a 2-year-old, uh, Lucy, and a 6-year-old, Alice. And it's funny because I was an only child to teenage parents, and so my mom always joked that the Game Boy was my babysitter growing up. So I spent a lot of time playing games as a kid, and, um, way less with them, and it's way more deliberate. So the Nintendo Switch is really the only thing we play games on. The first game that Alice played was Breath of the Wild. And it really kind of ruined games for her because she's like, why doesn't every game look like a Studio Ghibli film?
+
+Speaker A: Right.
+
+Speaker B: And, and so that was like a kind of a weird thing with that. She's been playing Pokémon Scarlet along with me. And that's been really fun to do with her. And then all 3 of us, even with my 2-year-old, we've been playing Super Mario Wonder, which is like the newest side-scrolling platform one. And so it's all family time. I bought them these 8BitDo controllers that are like really small that like fit their hands better.
+
+Speaker A: Mm-hmm.
+
+Speaker B: And, oh, it's awesome. We do reading time and then there's like a little bit of game time before bed. And then after my younger daughter goes to bed, then usually my older daughter and I will like play a little bit more. I remember those experiences with my mom playing Mario Brothers, the original Mario Brothers when I was their age. And I see like kids can be creative in different ways. My older one, for instance, she like thinks about apparel and clothing and costume in a way that I never have. So as soon as we finished playing Pokémon— sorry, I may have said Scarlet— Pokémon Violet, as soon as we finished playing it for the first time, she immediately grabs her scarves and starts wrapping around them to try to be that character, like the main character. And just to see how kids respond to those things and what they make. Uh, my earliest drawings were Sonic the Hedgehog levels. So it— I, I think of games as this thing That has kind of informed a lot of how I think about world building and fantasy and making narrative and drawing and art. And, and so it's cool to get to share it with 'em. I think that maybe there's this idea early on, it's like, oh, I gotta have them play all like the Nintendo and go through all the systems and everything. Yeah. But I mean, I don't know. I kind of gave that up and I'm just kind of interested in playing the new ones with 'em in a lot of ways.
+
+Speaker A: The new ones are like way more, especially the Nintendo games. I feel like they're really good at making games that have like adjustable difficulty. With that very thing in mind where there's like, oh, you can just like play Mario where the other, like 3-player and no one can die, like type of thing. And you can just get through the level and you can carry your kids with you basically. And they can feel like they're playing. You know, both Trinity and I have kids in, in the younger age. They're like 2-ish. So we haven't gotten there yet. 'Cause I imagine for you, like when the 6-year-old wanted to play, then the 2-year-old wants to be included, right?
+
+Speaker B: Yeah, yeah, totally.
+
+Speaker A: What, uh, advice do you have from 2 to 6? What are some of the big perils that we're in for?
+
+Speaker B: I don't know. Having kids is just like this new source of love in your life, you know? Like, you love your partner, and then all of a sudden there's this like new, just new source of love, right? And I think the hard thing always is this is time management. And like, whenever you're doing something, that usually means that something else is suffering because you're doing That thing. And so like how we all navigate time and communicate it is really the big thing. And so I try— teaching really helps, right? Because it really means that I get to spend like a lot of time with them because the summers and winter you get off. But I don't know, it's just like kind of one amazing thing after the next in terms of what they do and how they surprise you. Oh, I, I gotta— I actually have a really great thing.
+
+Speaker A: Okay.
+
+Speaker B: Buy them as much Scotch tape as they want. Just let them have as much of that, like, packing tape. You will be amazed at the stuff they will make if you just give them a never-ending supply of Scotch tape.
+
+Speaker A: That's what I'm going to take from you. I'm going to load up Amazon after this because like, yeah, we kind of like co-parent with some neighbors of ours. And so, you know, the kids get to play collaboratively all the time. So giving them something kind of like cheap and fun to play with like that, that's a big win.
+
+Speaker B: Yeah, it's awesome. They just, they come up with so many wild uses.
+
+Speaker A: Nice. All right, well, let's round it out here by asking you what's next? What else are you working on? You know, you said you've been working on this Feral File thing now for like a year and it's kind of consumed you. Have you had time to even get any projects started on the side? Like, are you looking at Art Blocks and their changes? Are you looking at coming back to Tezos and doing more rugs? Just like, what can we expect from Travis?
+
+Speaker B: I'm looking at all those. Yeah, definitely wanna make more rugs. I feel like I need to put in some time this summer to at least get a few out. The next project is through the Aside Protocol and Distributed Gallery.
+
+Speaker A: Right.
+
+Speaker B: So that's in September and there's like interesting, like unlocking mechanisms. And my unlocking mechanism is going to be fog in a certain location. And it's based off of a train ride I took from London to Glasgow and it was in the Lake District. This area was so foggy and moody and it's left like a really big impact on me. So I'm kind of, I'm making a piece that's kind of about that experience. There's some other things in the pipeline that haven't been completely fleshed out yet, but I also really wanna make some more rugs. Um, just because it's like I have like a lot of new paints, like I have a lot of new kind of tools and functions and I'd like to kind of bring them back to this project and just kind of share like, hey, this is what's happened and developed there.
+
+Speaker A: Nice. I think we're actually gonna record with Mimi next week.
+
+Speaker B: Oh, awesome.
+
+Speaker A: To talk all about that. Aside stuff and, and her gallery. So I had forgotten that you were like, cuz you're towards the end of the list, so I'd kind of forgotten that you're one of the participants in that.
+
+Speaker B: Yeah. September. I have to, I have to finish soon. Yeah.
+
+Speaker A: Yeah. Right on. Well, Travis, it's been so great having you on. It was awesome to chop it up about games and definitely by the time this episode goes up, people will be able to play with Crawl. I know that a lot of people in the Tender Discord have been like asking me about it and I'm like, I think people are gonna Really, really enjoy it. And we should remind everyone that that's going to be out on the 16th and for sale on the 23rd. So everyone go check it out on Feral File. Yeah.
+
+Speaker B: Can I add one more thing too?
+
+Speaker A: Yeah.
+
+Speaker B: You mentioned Tinder. Um, Paris Photo. I'm working on something with Tinder for Paris Photo too.
+
+Speaker A: So, oh, nice.
+
+Speaker B: That's another thing that's coming up for this fall.
+
+Speaker A: When is Paris Photo? In November?
+
+Speaker B: November. Yeah.
+
+Speaker A: Okay. November. Cool. So people will be able to see that there at the Tinder booth in Paris Photo, or maybe, I don't know if they're like co-exhibiting with Verse or what they're doing, but cool. Well, that was Travis Smalley, everyone. I hope you all enjoyed. Look forward to some rugs. Look forward to some dungeons to explore. I think we're done. Thanks a lot, Travis.
+
+Speaker B: Thanks. All right.
+
+Speaker A: Bye everyone.

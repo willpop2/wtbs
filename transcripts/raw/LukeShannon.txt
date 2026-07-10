@@ -1,0 +1,277 @@
+Speaker A: All right. Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Luke Shannon. And Trinity is here as well. We're really excited to talk to Luke about furniture, about generative chairs, and we're gonna get into all that and Luke's project first. But before we do, how's it going everyone?
+
+Speaker B: Great. I'm super excited. It's fun to hear the classic intro.
+
+Speaker C: Hello and welcome everybody. Yeah. Thank you so much for joining us, Luke. We're so excited to talk to you. Susannah was really Chatting you up a little bit or hyping you up.
+
+Speaker B: That's true.
+
+Speaker C: And your work speaks for itself. Your work is hyping you up too.
+
+Speaker A: We definitely want to talk all about that work, but Luke, before we do, why don't you introduce yourself to everyone here in case there's some folks listening who maybe don't really know that much about you and tell us a bit about your background in art and coding and how you first discovered the blockchain NFTs.
+
+Speaker B: So I'm Luke, Luke Shannon. I've been coding generative art for maybe 6 years. I have a couple projects, The Opera with Art Blocks, Orchids with Bright Moments, and some one-of-ones. I focus on making physical algorithmic art, making physical pieces with code. I've been painting and drawing for my whole life, but, um, I always thought I'd be a writer, and then I found that writing code, like, scratched the same itch of describing something with a tight syntax, but also incorporated the visual and mathematical elements that I like. So when I found generative art, I just went all in on that. And so I've been doing that for about 6 years, and I focus on making physical pieces with generative art. My introduction to the NFT space is probably one of the more unusual ones. My parents sent me an article on NFTs. They were like, You do digital art things. So they sent me an article which I read and didn't do anything with, and they sent me another one, and then I followed up on it and like found Art Blocks early 2021. Had a great conversation with Snowfro and was blown away by the like community that was already there. Immediately started working on a project with them, released Opera in 2021, and then followed up with Orchids with Bright Moments. kind of next year. And now I'm focusing more on producing physical generative art and making tangible pieces from code.
+
+Speaker C: I'm really fascinated to understand how that part works. You know, getting the code to the art in a 2D way, maybe sometimes in like a pseudo 3D way, I get it. But what is the process for making something that is long form or generative physical, like physical sculptures? other types of mediums?
+
+Speaker B: There's a different set of constraints, which is why I like generative art, is because I think the constraints of code can give a lot of creativity. And so sometimes it's a lot of work to figure out how to make that translation, but a lot of the machines that I like to work with actually on some level speak code. So it's just a matter of maybe going to a lower level or understanding the machine a little better.
+
+Speaker C: What machines are those? Plotters? CNC machines?
+
+Speaker B: Like the plotter, like laser cutters, embroidery machines, CNC machines. There's like a whole range. And it's interesting to deal with those machines too, because the way that those systems work inform a lot of our day-to-day. The kind of preferences of a CNC machine informs how a lot of physical things around us are designed and the way that that we interact with those. Like, it prefers pieces that don't have undercuts, and that'll change a lot of the way things around us are designed.
+
+Speaker A: So what was your background like in coding then? I mean, if you're able to approach all these different machines and kind of get into their native languages and scripting that's needed to control them, but then I imagine you're also probably using something like Processing or JavaScript or maybe Python depending on the process to build your actual algorithms that are coming up with like the generativeness of the process? So when you were in school, were you studying like computer science, computer science and art, or have you just been picking this stuff up off YouTube like along the way as you need to?
+
+Speaker B: It's been a lot of YouTube. I still am in school studying computer science and visual art, kind of the closest I can get to generative art. And I think I tend to start very hacky, just like see what I can get working and connected, and then refine that process over time and try to learn more about what's intrinsic to the material of the machine or the medium and focus on pushing that and like teasing something interesting out of that. I'm tremendously indebted to p5.js and Processing and the work of Casey Reas and Loren McCarthy and like early Tyler Hobbs videos and Daniel Schiffman and like the sharing and open source nature of the community I've benefited a lot from, and I try to open source as much as I can too.
+
+Speaker A: That's awesome. What's the vibe like, you know, being a student? Because I think our impression as, um, just people in crypto, millennials in crypto, is that like the younger generation doesn't like NFTs. They seem to have been really turned off by blockchain, the technology in general, and it's pretty deserved, I think, in a lot of cases, right? Like you can either Dislike the environmental issues, especially when it comes to proof of work. You can dislike the attitudes of people who collect things like Bored Ape Yacht Club, but you somehow, you know, you pushed yourself into, I guess, embracing it, or at least accepting it and understanding it. So like, what's it kind of like? Do people know that you sell stuff as NFTs? Like, first of all, and like, does anyone ever come at you in a seminar and try to undermine something you're saying because you're a sellout who uses blockchain?
+
+Speaker B: Um, I'm definitely critical of NFTs where I think it's fair to be critical, and some of the situations you're describing— like, I try to take a big break before the merge, and I think there are reasons that NFTs make, I think, a lot of sense for what I'm doing, for generative art, for this idea of a co-creative act when a piece is minted. I find people are pretty, you know, people know about it. It's not too big of a deal. Like, people are interested in it kind of idly. I have found people are open to it. Some misconceptions, that's fine.
+
+Speaker C: So you're saying you're not the most famous person on campus? No, no, not yet. Okay, it's fine. After this interview, I'm sure.
+
+Speaker B: Yeah, this will be the one.
+
+Speaker C: So we have NFTs. generative art, it's the chocolate peanut butter banana of the art world in some respects, like things that were just made for each other.
+
+Speaker B: Mm-hmm.
+
+Speaker C: And you talk about working with these physical machines as well. And I love what you were talking about with the space of generative art, bringing it into the physical world. Is it curated work? Is it long form? What are some of the other value adds that you think that generative art brings to that versus just, you know, I'm using a CNC machine to make something 1,000 times, the same thing 1,000 times, and slotting it together versus the infinite space that's created within long-form generative art or even just curated generative art. You know, I think even if you're just making one of something that is code-based with the algorithmic element, there's still that desire and there's still that possibility for the infinite.
+
+Speaker B: Yeah. I think it is a paradigm shift to be able to produce these unique bespoke things, I think it's really interesting from that curator-creator-viewer perspective because the piece doesn't exist in the same way. It basically exists by that act of viewing, so it's kind of created in that moment, which I think is really interesting and like aligns more with performance in my view. One of the reasons that I really like to make physical algorithmic art is that I don't see the systems that I'm producing as like digital abstractions. Like the code that I'm trying to write isn't something that I think is constrained to a computer. I think we're surrounded by these systems, and generative art is the best way to describe these kinds of complex interacting things for me because it describes them from multiple perspectives. And doesn't privilege any one point of view. Like, there's no canonical way, like canonical point to view the work. Each output is distinct and equally kind of important and valid to the algorithm. And I think the physical world is full of those same systems, and those are the things that I am trying to understand by writing code and try to capture in some sense. So it makes sense for me intrinsically, I think, to produce physical things. Like, these systems are something to really live with and interact with and try to compare to the other systems in the world around you.
+
+Speaker C: That's kind of humanity at practice. We are all special, unique algorithms of the universe. No one is better than the other. We are not the same.
+
+Speaker B: There's also like a very, I think, non-human perspective on it too. Like, there's these really amazing systems. I mean, a classic example is maybe life and DNA being a kind of code and randomness. There's like an attempt to follow that code and randomness that really changes that trajectory and produces such amazing variety all around us.
+
+Speaker C: We're living in a hologram, guys.
+
+Speaker A: Save it for the Maya Man interview.
+
+Speaker C: Okay, we'll avoid that.
+
+Speaker B: That was a great one, by the way.
+
+Speaker A: Well, I want to piggyback on some of the stuff that you just said. You did an interview, it might've been last year with ArtXCode. I don't know if it was around a particular project that you were being interviewed, but in that piece you said that automating systems and building algorithms helps you understand mediums better. And I think in particular there you were talking about like doing generative works with clay and with embroidery and things and like trying to get closer, I guess, at a mathematical level to some of the core concepts of like working with these things. I'm curious to know some more about that. And let's kind of like jump forward now, cuz we're going to be talking about this generative chair. And this is like the project that you have coming up with Tonic soon. It's called Seating Arrangements. It's as far as I think we know, the first piece of generative furniture that's gonna be out there, if that's not too, um, trivializing of a way to put it. What did you learn then about wood and chairs and more particularly chairs, right? Cuz you're, if you're writing code that's going to make a thing that we know as chair, like, in that process of sitting down and starting to author that, what were some surprising things that you learned in the process about chairs and chairness that creating these algorithms taught you?
+
+Speaker B: Yeah, I will say I'm wary of firsts. Like, I've seen some projects I think that are very similar, but it was really great to work on this project specifically because I did feel like I learned a lot about chairs, which I love. I think it's really interesting to interface this well-defined set of chairs, this algorithm to produce chairs, with a not well-defined problem of what is sittable for a chair. It's a much more human problem, and it's, it's not clear what's sittable to even different people. So investigating that has been really interesting to me. Like, what are our— what are my biases when I look at something and think Is that's a chair and look at something else and think that's not a chair. There's a great example. One of my favorite chairs is by Bruno Munari. It's called a Chair for Short Visits, and it's like a slanted chair at kind of like a 60-degree angle that you can't really even sit in. And so it clearly reads as chair. I think it's called a chair, but it's not actually meant for sitting. It's meant to like get your guest out of the door a little bit. And so challenging some of those conceptions is really interesting. There's also kind of, there's some more mathematical ways to interpret this. Like, what are the odds of getting a wobbly chair? Like, is a wobbly chair a chair? What are the odds of getting a wobbly chair from this algorithm? Does the algorithm produce truly chairs if a lot of them aren't sittable? And I've had a lot of fun investigating chairs. I've Got a book called A Thousand Chairs and like spend time with each one of those a lot more online. It's kind of the quintessential design project and for, for a good reason, I think.
+
+Speaker C: So that kind of speaks to some of like the research behind it and defining when you're creating your little microcosm of a code-based world for defining a chair. This is long-form generative art, right?
+
+Speaker B: Yeah.
+
+Speaker C: How are you incorporating the chairness into an algorithm? How does that translate? a rules perspective?
+
+Speaker B: There's some things you can do. I will say Tonic is curated hashes too. So it's like a long-form project, but they pick some of the hashes and that can help the process for sure and kind of fine-tune into interesting sections of randomness. But there's also some stuff to do with graph theory, like connecting all of the components of the chair and searching for connected components in that to see if it's one structure, that helps. There's an interesting area of math and computer science called percolation and percolation theory. And basically, once you reach a certain probability of pieces connecting, there's this turning point where something goes from quite likely to be disconnected to quite likely to be entirely connected. And that's kind of an interesting area. Kind of some of the most interesting chairs are right on the boundary of that between what is really obviously well-connected and what is really obviously not a chair. There's also like a whole set of chair operations that I've been kind of developing where I kind of take existing chairs and can do comparisons or Boolean operations between those and other chairs to see What the structure there in a generated one is like. It's really interesting. I think it's changed my perspective a lot on how to think about these things that I've just used without thinking too deeply about before.
+
+Speaker A: I love hearing all the different math disciplines that you're touching on in creating this, um, holistic approach to like what a chair is through code. So what was it then that got you interested in doing this project in the first place? And how did it end up being released through Tonic here?
+
+Speaker B: It started with a printmaking process. I was really interested in comparisons between traditional printmaking with editions and matrices, because if you, if you talk to a printmaker, they always talk about how like every print is different, and you can see that if you really examine them. And I think of algorithmic art as very parallel to that, but dealing with kind of large-scale randomness and big variations in composition. And so algorithmic art— I don't mean this in like a value judgment kind of way— but can kind of produce many matrices. I think of it as kind of up a level, like producing one algorithm producing many unique matrices. And so I wanted to make that matrix become the art. So I was dealing at that time with woodblock matrices, so I was thinking about how I could turn the woodblocks into the center of the art piece. And I also, again, think of these systems as something to really live with. And combining those and trying to think like, what do you do with wood? I think make furniture. That feels kind of like a fundamental human direction. And in doing that and coming at it from this algorithmic perspective, the objects kind of take on— they have their own entity. They kind of take on their own selfhood or objecthood. Because they're created kind of outside of what I'm predicting or what the viewer is expecting. That's a joint of that, and they're constrained by some rules apart from our comfort. And Tonic was great to work with because they focus on making physical pieces, and this is a very physical piece intensive project. The team has been amazing. They're A pleasure to work with.
+
+Speaker C: That actually brings up a really interesting point around the production and distribution of the chairs. And maybe I missed this, if the information is out there, in which case I apologize, but will every NFT come with a chair?
+
+Speaker B: So every NFT is the instructions to produce a chair.
+
+Speaker C: Okay.
+
+Speaker B: So it does make a unique chair. You can have just those instructions and an instruction manual that I'm also working on with unique prints in there. Or you can ask us to execute those instructions, or if you have the abilities and the machinery, you can execute them yourself and make a chair, make multiple chairs directly from that NFT. Most people maybe don't have access to a large format CNC machine, and the redeemable physical is an actual chair you can sit in.
+
+Speaker A: It's guaranteed to be sittable?
+
+Speaker B: Well, we could make them all sittable, but I think it's kind of fun. I would say no, it's not guaranteed to be sittable.
+
+Speaker C: Do you have to define sitting? You know, is a lean a sit? Is a slouch a sit?
+
+Speaker B: Yeah, and it's different for different people. It's like, that's exactly what I mean. It's really hard to define, but I think defining the chairs really well and then interfacing them with that problem Brings out a lot of interesting constraints in that, a lot of interesting ideas, brings a lot of interesting insights to that problem of what is sittable, what is a chair.
+
+Speaker A: And also from the, um, artist statement, like the PDF that you shared with us going into this interview, one of the aspects of the project you pointed out that I thought was interesting was how well-designed objects tend to recede from memory and kind of lose prominence in like day-to-day life. So do you think that we need more friction in our day-to-day life? Because I think you can also think about it the other way, like well-designed objects that recede. It's like they're so well-designed that they don't have to occupy any time in your mind. So where does this idea of like objects and agency and like objects inserting themselves and being present— I guess I'm just inviting you to, to talk about that a little bit more to people like us who don't have a hardcore art background and design background.
+
+Speaker B: Yeah, I don't think necessarily there should be more friction in our day-to-day lives. I think it's important to just be intentional maybe about what is and isn't frictionless. It's generally a tenet of good design that something should be easy to use, and that makes sense. I should say too, these chairs aren't adversarial. Like, they're not antagonizing the body. They're just kind of somewhat indifferent. Not totally indifferent. There's This isn't about like finding the ideal form of a chair and appealing to like a perfect but very uncomfortable geometry to do that, like something super cube-based. In fact, on some level it's saying that ideal form doesn't exist. But the chairs have their own autonomy in a way, and they're constrained to these other systems, like to some of the constraints of the algorithm, and That does mean that they're not perfectly comfortable. I don't see that as a bad thing. I think it's, for one, like a good reminder to be present, to be conscious when you're sitting in a chair. Think, I am sitting in a chair. To me, that's a good thing. And a lot of modern design, like really good UI/UX, isn't designed to be pain-free— is the word that's used a lot. It's not designed to be pain-free, just to help us. Like, it has its own reasons, its own constraints for being pain-free. Keep us on the app, keep whatever for the company. It's like, has its own reasons for being that way. Or like a modern office chair— great, super comfortable, I love them, I sit in them and work all day— but that's one of the reasons they were designed, is because they're great for sitting in and working all day. There's a really good app That I use and I recommend called OneSec, which intentionally adds friction to opening a new app. So you like try to open an app and it makes you wait 5 seconds or whatever. And that's intentionally making the UI worse, but it's really helpful for me when I want to consider, do I actually want to open this thing or is it just really easy to open that thing right now? And so I guess there's some parallels there in my mind.
+
+Speaker A: Seating arrangements.
+
+Speaker B: There's a series of chairs defined entirely by words, entirely by code, but it's also very much a chair produced by technology. And should a chair produced entirely by technology be like perfectly comfortable? Is that a good thing? Some would say yes, some would say no. I don't know. I'm just, yeah.
+
+Speaker C: I think it's beautiful. You know, maybe the chairs might not be the platonic ideal of what beauty is. You know, when you're talking, it makes me think of kind of that transition from, Statues being like David, for example, like here is the Platonic perfection of the human body versus the messy messes that we can be today and what's depicted in more modern art. I think that there's something really interesting to be said there about the suggestion of a chair in an unbiased way. I think that's the number one thing that I'm really taking away from that.
+
+Speaker B: The idea of Platonic forms is really interesting and kind of important to this project because It's like kind of the question, what is a chair, intrinsically asks or intrinsically assumes that there is a Platonic form of a chair, that there's like an ideal version of a chair that all other chairs are aspiring to be like, and they all share somehow this quality of chairness. This project is directly trying to question that. One of the most important things about this design, about this algorithm, is that there's no piece that every chair needs to have in order to be considered a chair. The mathematical way to phrase it would be, if you took the intersection of all the chairs, the result would be null. If you overlapped all of the chairs, there'd be no piece that every chair has, and therefore is like a very important structural component that the chair can't exist without. So on some level, that idea of the like platonic form of a chair doesn't really apply to this project, or this project is trying to investigate that a little bit. Yeah.
+
+Speaker C: I think that there's an interesting tension because even as you said, when you're referencing materials and sources and inspirations in order to understand what is a chair, I mean, it is within like the constraints of things that are considered beautiful, comfortable, desirable. You know, the definition of desirability can be contingent. If you want somebody to leave your house in 30 seconds because their chair is at such an extreme angle, you know, that is one purpose. But I think there's that interesting tension because you're referencing what is a chair so that you can define what is sitting. I don't know.
+
+Speaker B: Yeah, totally. Some of the outputs from the algorithm, you're just immediately like, that's a chair. Totally has all the language of classic chair design. And I've been really surprised at the number of chairs that I feel like I can kind of somewhat recreate, like the Cesca chair, or maybe some of the Eames chair, or the, like, the Judd— Donald Judd chairs for sure, because they're like very orthogonal. But there's also this whole range underneath that percolation threshold where it's not visible as a chair, or it's like really looks more like letters or something like that. You can order the chairs in terms of kind of their number of components, and a totally valid output from the algorithm— there's exactly one empty chair, like literally nothing. And at the other end, you have like the totally full chair, the superset chair. And playing with that, like taking away an element and being like, is this still a chair? Minus one more element, is this still a chair? I think, I don't know, it's been really fun for me to kind of work in that space.
+
+Speaker A: I think it's also funny contrasting to a lot of popular generative art projects where the pieces are meant to be abstract, and then as collectors browse the algorithms or look through the final set of outputs, they're looking for those emergent forms, you know, like the Goose Ringer, for example, right, being a famous one. Or with the more recent, like, collector-curated projects on Verse where people are finding faces or different animals depending on which project they're looking at. Like, this is kind of the opposite. You're starting with the chair, you're going to get a chair, but maybe what you get is a chair that actually kind of looks like something that's not a chair. And so it's kind of flipping that a little bit on its head and whether it's intentional or not, I think that's, that's pretty funny.
+
+Speaker B: I feel like the serendipity of those kinds of algorithms, which I love when you're running this unrelated algorithm and you, you see something that reminds you of something else. To me, that very much is involved with ideas of interdependence between things and seeing in one system, you know, something from this other one. And I feel like that is still there, but yeah, it's starting from like this very constrained view of chairs and then moving to more letters and words and names or—
+
+Speaker A: Yeah.
+
+Speaker B: images. Like, I have a lot of fun just seeing what kind of chairs I can design to mimic something else. Like, there's a chair that just says hi all over it, like the letters hi. Um, I don't know why that kind of makes me laugh.
+
+Speaker C: And that's within the form of the chair?
+
+Speaker B: Yeah, the structural form is like the letters H-I repeated, which it's not super comfortable to sit in, but I think it's Really interesting to me.
+
+Speaker A: Aside from understanding chairs better and work just in general, working with generative processes to create things, do you find yourself thinking a lot about the generative future of household objects and where that might lead in terms of like, um, the possibility that someday manufacturing processes might catch up? You know, maybe it's in-home 3D printers or maybe it's just like at-scale industrial facilities where it all of a sudden becomes possible where everyone has their own like one-of-one unique this or that, or one-of-one of X in the case of generative What have you kind of learned in making this project? Because I assume you'll probably be doing a lot of the fabrication like out of your studio, or maybe you're a studio that's nearby that has the necessary machines. And like, how far off do you think we are? Or like, is there the potential for that future? Or do you think it's like, oh, that's too difficult?
+
+Speaker B: Yeah, we're working with a studio to help manufacture all of the chairs, but I've made all the prototypes myself. For the future of these kinds of generative processes, generative making, yeah, I don't know. I'm excited about it. I'm obviously interested in it. Like, it's— that's where I spend most of my time thinking about. With Stitchables and one of my previous works, pattern.dst, are both generative embroidery fashion projects and producing one-of-one-of-X instructional kind of art. I do kind of feel that the future in fashion involves people making their own clothes or like being involved in the process of their own clothes. I think that's really interesting to me as a form of self-expression, and I think instructional art and algorithmic art are going to be really important to that. I think that sharing of instructions and knowledge and uniqueness— I think you'd like develop a different and special relationship with pieces that are created by you by minting, or in collaboration with something, or by, you know, a friend or an artist that you support, like, on a personal level. I'm also really excited about the possibilities of upcycling things and executing instructions, like embroidering old clothes to restylize them, or mending clothes, because these instructions can be repeated and run again. I hope too that it's fundamentally inclusive on some level. Like, I think there's great opportunity to make these algorithmic works have variety and function as each person needs them to function. With seating arrangements, you can rescale outputs to any size in any dimension, so it can be like arbitrarily wider or skinnier, taller or shorter, more or less deep. Like, the wood can be made thinner or thicker.
+
+Speaker C: So it's kind of like a, like a generative blueprint that can mold to fit the needs of the person. Here is code that produces an idea that you can then take forward as you need to a certain extent. I think with what you were just describing about the scalability of a chair, it's not a fixed size, it's not a fixed ratio, but we're giving you something that you can take.
+
+Speaker A: Mm-hmm.
+
+Speaker C: And, you know, I think within the physical aspect of that itself, there's still that level of custom. The owner of the chair can further customize it. They can sticker it, they can paint it red, they can put little marks of Sharpie on it for every single time, I don't know, they, they win the lottery. There's still like that human element that obviously chair as art, but also chair as functional art, you know, chair gets dropped, chair gets banged into the wall, you know, it's about the life it lives to a certain extent.
+
+Speaker A: Yeah.
+
+Speaker C: And, you know, speaking to like that upcycling piece. If you're using fabric that existed before, that fabric had its own life, it had its own trials and tribulations, and then you're kind of bringing something new to it. All incredibly fascinating. Question for you, because it's like this physical side and like this generative exploration, obviously does not need to be tied to an NFT or tied to the blockchain at all. It's something that can exist upon its own merits. How do you feel about that close connection between object and NFT? Is that something that we should keep moving forward, or do you see opportunities for how that might be divorced? Like, how do you see NFTs and physicals kind of working together or not working together within the generative space?
+
+Speaker B: I think they work together really well because I don't think of the objects that I'm trying to create as either intrinsically digital or intrinsically physical. It's kind of both and in between. And I think NFTs make a lot of sense for this work and for generative art in general because there is this moment of a kind of co-creation where I don't know what's going to come out of the algorithm and the viewer doesn't know, and you can experience it together. And the instructions are a huge part of this too. And those are intrinsically digital things. And I want those to be shareable and live online. And I think NFTs tie a lot of those together. You can have the minting experience for one, and you can have the instructions in a kind of secure way with a history while also knowing the history of that piece. I think all of these kind of corner the same idea. With generative art, there's the question of what's the actual art? Is it the code or the final outputs or the outputs that never came to be or some other secret fourth thing?
+
+Speaker C: Or is it the NFT?
+
+Speaker B: The NFT.
+
+Speaker C: Some people would say that.
+
+Speaker B: Yeah, the NFT, exactly. I think the answer is somewhere in the middle there. I think like these are all kind of cornering what the art in generative art is. None of them fully capture it themselves, but I think it's somewhere in the middle and, and tied to all of those. Like, in my opinion, it's kind of the core idea behind the algorithm, even if it's not written in code, if it's like a natural language kind of instructional thing. And that's a really broad view to take. My friends will definitely make fun of me for like saying that's generative to like random things. But yeah, I'm interested in trying to describe the ideas foremost.
+
+Speaker A: So continue on the question of like NFTs and like merging the physical with the digital. This is a bit of a hypothetical question, but we just asked it in an interview that we released today. So I want to ask you as well. If I have a chair or a piece of embroidery by you or some future project you have where it's a physical piece that comes with an NFT, where do you kind of draw the line, I guess, between— or not maybe draw the line, but like, how do you think about like the long-term preservation of these works?
+
+Speaker C: Yeah.
+
+Speaker A: On the one hand, like blockchain stability. Yeah, I think you've released pretty much all your work on Ethereum so far and not on any other blockchains. So if there's like a reason for that, because you believe it's the most stable or the most long-term viable, then what role does that NFT play kind of as like proof of ownership or receipt for someone who, you know, suppose I get a chair from you and then I move and it gets like destroyed by the movers. That NFT has the hash, like it could be reproduced. Do you kind of think about like long-term, like, well, as long as that NFT like persists, that person should have the right to a physical if it gets lost or destroyed, or is it kind of like a one and done? You know, the physical is just part of it, but as long as you have the NFT, like you still kind of own the art, even if we're not gonna reproduce the physical for you. So I guess this is kind of like a convoluted question of like, how do you think about the preservation of your work over 50, Or 100 years or longer between these 2 different mediums that are kind of intersecting, like the digital and the physical.
+
+Speaker B: Yeah, I think make it again. In my opinion, in that example, if the chair gets destroyed in moving and you have the NFT, I think make it again. I think that's part of the beauty of having the instructions in this way is it kind of makes that totally feasible. I don't think they should be You know, like maybe there's some questions if, you know, you were gonna produce thousands and thousands, like that's not super unique, but even, you know, I'm open to kind of experiments like that too. I'm not sure I caught the entire question cuz I, I, I think I was missing you a little bit, but.
+
+Speaker C: Uh, looks like we're gonna have to continue on without Will. He's having some technical issues. Um, capital T technical. But thanks, Will, for joining in editing. We'll wrap this up without you. We got it. I love that idea of the physical being reproducible in a way. It's maintaining that longevity. Obviously, that doesn't necessarily work with the Mona Lisa, which is, I think, is always the de facto piece of work that people talk about when they talk about NFTs.
+
+Speaker B: It is canonical in that way. It's kind of nice that You don't have to be so precious with the work. Like, I feel like it can quickly become a source of stress for me if I'm maintaining a one-of-one that I really care about. Like, you know, I want to make sure that it will continue to exist and be enjoyed in the state that I like, in the state that I am able to enjoy it. I think that can produce some anxiety.
+
+Speaker C: How so?
+
+Speaker B: It's kind of a responsibility maybe to the artist for preservation. I think in general, preserving digital work is, is really hard. Um, preserving work is really hard. Preserving digital work, ironically, can be even harder because, you know, code even just from, you know, a decade or two ago doesn't run anymore. And who knows what things will look like in 20 years. So Mm-hmm. I think blockchain is a great way to handle some of that preservation, especially when the code is on-chain. I think that's another reason that NFTs for generative art make a special sense, because they can be reproduced from on-chain assets. I think there's a more complicated conversation maybe there that I'm not fully involved in, but I think that objects take on a nice and new quality too when they're lived with and negotiated with a little bit. Like, for the chairs, for example, the act of sitting in one of these chairs is more of a negotiation because it's, it's an object subject to some other constraints, and there are more comfortable positions. Surprising sometimes, there's like weird handles you can hold on to in unique places, those kinds of things.
+
+Speaker C: Really good for throwing that chair around, put it where you need to be.
+
+Speaker B: Yeah, and like That negotiation, I think, is really interesting to me, and I think produces an appreciation of the work too. Like, one of my personal philosophies also is I try to make a lot of the things that I use, like make a lot of my own clothes or furniture. I've done some spoon carving and stuff for utensils. And when I'm using those objects, you know, I'm not great at making the spoons, for example. But there's a different experience where I'm aware I'm using a spoon that I made. You know, there's a little bump over there, so I hold it this kind of way. And that interaction, I think, is valuable in a way that very mass-produced things, you don't really have that interaction with. If you've—
+
+Speaker C: Mm-hmm.
+
+Speaker B: a dozen spoons in your drawer, you never know which spoon you're gonna— you're using, like, of those dozen because they all look kind of the same. And that's its own kind of experience. But I think it's interesting too, if you, you know, I like having a favorite spoon kind of thing.
+
+Speaker C: Yeah. Each spoon in your drawer is a 1 of 1 of X where your hands are the algorithm. The wood is the algorithm. Your mood on that day was part of the algorithm.
+
+Speaker B: It's generative.
+
+Speaker C: Yes. The human connection to everyday objects or just anything I think that's such an interesting counterpoint or important counterpoint to art on the blockchain for the most part, because so often it lives on the blockchain or it's pointing to code on the blockchain, but it isn't necessarily something that you live with. You know, as we start to live in virtual worlds almost exclusively, perhaps it becomes more tied into what it means to be human.
+
+Speaker B: Mm-hmm.
+
+Speaker C: You know, I think there's also some things that ties back to what we were talking about before in regards to friction. You know, not just the friction of using a chair, but the friction that has to do with blockchain, NFT marketplaces versus literal marketplaces in the real world and how NFTs, they, I think they were able to reach extreme popularity very quickly because of the frictionless nature of most markets. You buy on Art Blocks, you can sell on Art Blocks, you can sell on OpenSea, you just connect a wallet and you list a price, you hit enter and you go. But it's not necessarily geared towards that longer-term love and appreciation that comes with the friction of getting your chair made or making your spoon and having that become a part of your life.
+
+Speaker B: I think that's a really interesting point and question. For the marketplaces, I think the openness of those is great. It's great to have that kind of frictionless interaction there when it should be frictionless. I also think that like when an artist releases something on a contract that they produced and you can only kind of interact with it through their site that they made, I also think that that's great. And I think that that's like maybe important in their opinion. It was an important friction. Just being intentional about those ways to involve friction, I think is, is great. And I also, I love the earlier part you were talking about where as we kind of move to a more digital time, it— these digital things become a part of the human experience more.
+
+Speaker C: Mm-hmm.
+
+Speaker B: I think like another thing that's talked a lot about in generative art is skeuomorphism and the idea that digital things will imitate physical things to make more clear what the digital thing does. The Notes app is the classic example, but I think there's also this really interesting thing happening in the reverse where the physical world is imitating the digital world to make what the physical world does more obvious. Or it's like the physical world is being informed by the digital world first. And things like Instagram, for example, the way we interact with Instagram has totally changed how all of these physical, maybe hotels or resort locations or restaurants think about the way they design themselves. They, you know, want some Instagrammable moments. Like, very tangibly, Instagram has changed physical spaces for us. And so dealing with skeuomorphic tendencies in that direction, I think, is another reason why I'm interested in producing physical work. with generative art is these machines are a lot of the things— their tendencies, their biases— focusing on those directly, bringing those into the physical world is an interesting artistic practice for me.
+
+Speaker C: It's bringing the code to life in a very tangible way.
+
+Speaker B: Yeah, I think of them as like they're so separated in a lot of our minds, digital things and physical things, and I think that's kind of useful. It's easier, like, but a computer is at the end of the day a physical thing. It's really complicated. I've looked into it a lot, but it's— you can't— no one person can really fully understand everything about how even a simple action on the computer is happening physically. So the tendency is to think of them as very separate, but I think that distinction is not really fundamentally true. Like, they are the same medium on some level. So—
+
+Speaker C: Are we now going to be saying that the blockchain is physical? It's a physical representation?
+
+Speaker A: It is.
+
+Speaker B: It's— there's got to be some server somewhere running stuff, you know. There's like computers maintaining it. And remembering that it is this community of physical places and people, like, maybe it's better to think of it Abstraction is really useful in computer science too, but questioning a little bit how much we should separate those things.
+
+Speaker C: I think it speaks to what we were saying before about the preservation of pieces as technologies shift and change. And Flash is always the great example of something that everything was done in Flash 15 years ago. Flash doesn't really exist anymore. It's so hard to reproduce.
+
+Speaker B: Yeah.
+
+Speaker C: Thanks, Apple. But, you know, if we think about the blockchain as a, as a physical reality, we think about a physical chair as another physical item. You know, as we look on the life, on the span of decades, you know, maybe a, a century even, I wonder what's more likely to be still around from the preservation side of things.
+
+Speaker B: It's a good point, honestly.
+
+Speaker C: Ethereum or a physical chair that's well maintained and taken care of.
+
+Speaker B: See you in 100 years. We'll figure it out.
+
+Speaker C: Hell yeah. We'll have part 2. Let's maybe stick for, you know, 2100. We won't get to the full centennial of this episode, but we should definitely plan time to sync back to see how the blockchain is going.
+
+Speaker B: I'll put it on my calendar and we'll see if that calendar is still around too in 100 years.
+
+Speaker C: That's true. It feels like everything is somewhat permanent these days and that often it's the physical things that we tote around with us that really stick, physical photographs from the '90s versus digital photographs I took 5 years ago. I think that with Will gone, maybe we can start to wrap up a little bit, bringing it back to the blockchain. I would absolutely not be doing my job as an art on the blockchain podcaster. Here's where we instead input disclaimers around financial advice, but for better or for worse, releasing a project and pricing a project is something that it is very important for within the NFT art space. How do you think about the structure for a release, the sizing, the pricing, the distribution? How do you approach it? And then is that a part of the art for you?
+
+Speaker B: I think edition size is something that— I don't know, I think I've never been particularly good at this or like had a real understanding of it. Edition size is probably the most important one to me, and I want to make sure that the work supports an edition size, like not doing too many, but also shows a lot of the variety that is possible. And that's a balance. And I think any generative project for me is a constant process of widening the output space and then winnowing it to an interesting section of randomness and then widening it again. And like, it is a push and pull kind of process. Addition size plays into that a little bit in terms of how to expose those outputs that most people will see. For pricing the actual value, I think it's a really difficult question. I mostly leave it to Dutch auction or like whatever, you know. I don't know, there isn't really— the ideal is of course to get your work into the hands of the people who will appreciate it the most and And auction is typically seen as the way to do that. It's not exactly right because it also privileges people with more money.
+
+Speaker C: They're able to acquire things more accessibly perhaps, or in multiples. Imagine having a full dining set of chairs to sit at your table. 4 seats, 6 seats, 12-seater, who knows?
+
+Speaker B: 12-seater. I am excited to see a bunch of chairs together. There'll be a show as well. That's where I'm excited to see the chairs together.
+
+Speaker C: If there's anything else that you can tell us about what to expect from the release on Tonic on the 19th, which is about 2 weeks from the date of this recording, anything that you can let us know about that show, quantity, sizing, pricing, you know, just as we, uh, start to wrap things up a bit. I know that I want to know. People want to know. If you can't, that's okay too. We understand that things are always on a tight schedule.
+
+Speaker B: I think the most up-to-date information at the time of release will be on tonic.xyz. So I would say go there and that'll be the, the source of truth. And maybe the chairs will be up by then too, so check them out.
+
+Speaker C: If there's nothing else on chairs, I think If there is something, find it. This is your time.
+
+Speaker B: No, I think, yeah, we've talked a lot about 'em. I just love talking about 'em.
+
+Speaker C: I love listening about them. They're so fun and I think so new and unique and special within the space. I haven't seen anything quite like this on this scale. So hats off to you and everybody that you've been working with on Tonic.
+
+Speaker B: Thank you. It's very much an experiment, I think, at this scale, and it's exciting to put it out there and see how it does. I've been thinking a lot about chairs for the past months and months. A lot of the artists that I've been inspired by, like Bruno Munari and Enzo Mari, and like Bruno Munari specifically has like a very playful and fun attitude to his work. And I like that you are saying that you think they're fun because that's a goal too, is for this to be kind of lighthearted too. It's a little bit of an outlandish idea.
+
+Speaker C: If things aren't outlandish, where's the fun in that? I have to say.
+
+Speaker B: Yeah, I want people to sit in them. I'm excited to see that.
+
+Speaker C: Same. I will— we will reconvene in 77 years to talk about both the longevity of the furniture and also how chair-like they are. And, you know, about platonic ideals. We'll revisit that as well. But anyway, thank you, Luke, so much for taking the time to sit down with us to talk about your art, your process, your inspiration, you know, CNC machines, plotting, fashion, ceramics, sculpture, everything.
+
+Speaker A: Yeah.
+
+Speaker C: Cheers. Of course. We appreciate it. And for everybody who's listening, hope you enjoyed it as well. We'll see you next time.
+
+Speaker B: Thanks.
+
+Speaker C: Bye.
+
+Speaker B: Always. We're waiting.
+
+Speaker C: But you stay online while we wait for this to upload.
+
+Speaker B: Okay. All right. Thank you. Thank you so much.
+
+Speaker C: It went a little bit longer. Yeah. Apologies for all the technical issues. Usually I'm the one with the technical issues.
+
+Speaker B: No worries. Yeah, thank you so much. It's, it's been really great to be a part of this conversation. I had a lot of fun.
+
+Speaker C: I think we're still both uploading. Uh, yeah.
+
+Speaker B: Yeah.
+
+Speaker C: Oh, I need to stop the recording. That's— I can't stop the recording.
+
+Speaker B: Oh, Will Nisu?
+
+Speaker C: Yeah. Um, let me just ping him real fast.
+
+Speaker B: I noticed there was a, there was a question too about, um, theatergoers in there. I'm a huge fan of Michael, and I have one right here.
+
+Speaker C: I wish that we had gotten to actually talk about that. That would have been fun.
+
+Speaker B: And Claire's story too.
+
+Speaker C: Oh yeah, wait, so do you know Michael?
+
+Speaker B: We've met. He's great. I got his hat too over here.
+
+Speaker C: Hell yeah.
+
+Speaker B: Yeah, we've met once or twice. Big fan.
+
+Speaker C: All right, sorry, one sec. I'm trying to log in as Will.
+
+Speaker B: Let me know if there's anything I can do.
+
+Speaker C: Just stay on the line until we can get everything, um, we get the recording stopped. We should be okay.

@@ -1,0 +1,541 @@
+Speaker A: Hello and welcome everyone to another episode of Waiting to Be Signed, another special interview episode. We are here with Chris McCully, fxhash, legend, prolific generative artist and coder. And of course, Trinity is here also, as always. What's going on, everyone?
+
+Speaker B: Hello. Good morning or afternoon.
+
+Speaker C: It's good morning somewhere.
+
+Speaker A: Chris, did you get some bouldering in this morning before the recording?
+
+Speaker B: No, not yet. I still, uh, I think today or tomorrow might be the first day that I go back in a good while.
+
+Speaker A: Well, we'll get to that later in the episode. Obviously, we've done our research on Chris. We know what his hobbies are. But we're here to talk about the art and get his story. So Chris, why don't you introduce yourselves to everyone here? Let us know a little bit more about you, how you became an artist, your path to creative coding, Tezos, crypto, fxhash, and all that.
+
+Speaker B: I'm Chris. I'm a generative artist. I release primarily on fxhash and really love the community there. I have been in a lot of industries. At this point, I was starting out of high school into the film industry where I did like grip and I was a second AC for a while. I was an editor for a while. I, for a very, very short period of time, was a director of photography for some small projects. And then I switched to photography and worked in fashion and like fashion marketing and editorial. I have recently, a few months ago, left that industry and I'm doing generative art full-time. That's the speed round. That's where I am now.
+
+Speaker A: Okay. Crypto, Tezos, like all that stuff. Have you always been a crypto guy or, or how'd you get here?
+
+Speaker B: No. So I actually, for the first time, I think in 2020, probably I had money to invest, actually was making enough money to not live paycheck to paycheck. And I had dipped my toe into crypto and then I started to go full force and I was actually day trading for a while. Which I was not incredible at. I was okay enough to be profitable for a good while, but I was not rich. I joined a few groups of traders. And we would just kind of send each other like analysis and like trading calls and things like that. And I remember someone in one of those trading groups messaged in the hobbies thing, we just had like a channel for random stuff. that we all did, and he was like messing around with— I don't remember what it was, but some AI text prompt thing, which was actually the first thing that made me go like, oh, well, let me play around with AI, because I'd never seen it at that point. That was like my introduction to a method that's really blowing up right now and was just kind of becoming known at the time. It wasn't really in like the public eye.
+
+Speaker A: Yeah.
+
+Speaker B: And then he showed me Hic Et Nunc, and he showed me the NFT Biker minting and sales feed. And going from like a trading group, I started buying and reselling art. All I was really doing was just buying art that I liked. And I kind of had a good strategy because I felt like I had an okay eye to where if I bought something that I liked, it would probably resell later for at least like— A few dollars more, a few tez more. And then I messed around with AI for a long while. I did digital art. I had an iPad and Procreate and would do like digital paintings and modify— I don't know, I went down so many different roads of like— because AI is so much better now than it used to be. And when I started, it really just like takes a lot of computing power to do not that much. And so I used to do like mixed AI processing going from anywhere from like 5 or 10 steps up through 1,000 steps of GAN processing to digital paintings, which was really fun. And I had never really messed as much with painting as I did in that 6-month stint, probably around like August of 2020 or 2021.
+
+Speaker C: '21, the same year as FX hash.
+
+Speaker B: Yeah. This is a few months before I ended up getting into generative art. And I think the first person that I found was, I think, Generate Coal.
+
+Speaker A: Celestial Collisions. They haven't dropped in a long time.
+
+Speaker B: Yeah, it's been a minute. And I saw like a lot of stuff that they were doing on Hic Et Nunc, which was really cool to me. Not anything that I'd seen before. And I started hearing a lot more about generative art in like Twitter Spaces and things like that because I was listening to stuff at the time. People kind of talking about the industry and collectors talking about what they're interested in. And I dipped my toe in with like a Domestika course on creative coding where you just kind of follow along. And I hadn't done anything with code except for Frankensteining notebooks together with different like GAN models to try and make them work in Python. Python's pretty easy to understand. Like it's as close to English as you can get. Maybe other than some of the very, very starter languages. Then moving to JavaScript, I just followed along and I learned from like context clues, I guess. I was just coding at the same time he would code. I would pause, I would type out the same line that he would. If it messed up, I would see why. And then Coding Train, obviously. I just got very interested in what could be done. I saw a lot of the stuff that was coming out at Art Blocks at the time. I don't have— there's one particular thing. It was like an isometric grid. Which I thought was just like gorgeous.
+
+Speaker A: Archetype is what it's called.
+
+Speaker B: Archetype? I think it was this. Yeah.
+
+Speaker A: This is like one of like the top 5 Art Blocks grails, so it's gotta be this.
+
+Speaker B: Yeah, just seeing like all the different possibilities and like, oh wow, they wrote this and then it just consistently put out this. And like, I kind of had some quote-unquote generative experience with AI in that I could give prompts, which were sort of like defining rules. In the middle of all that, I did Generations, which was an AI generative hand-drawn mixture. I don't know. I had like, uh, PNG layers that I drew that were all like just different scribbles and pieces of composition. And I would stack those layers generatively, used somebody else's model, cuz I still didn't know JavaScript at the time. And it would output all unique compositions. And then I would just run that composition through a GAN notebook and give it the prompt of like painting or something really simple to give it like texture. And all the color would remain intact and the composition would stay intact and it would kind of blend or give texture to it. And then I would release those in like groups of 10 or 25 or something like that, which was tedious minting one thing at a time. on Hic Et Nunc, and I don't think there was like a batch minter at the time, but that was really cool and I really enjoyed that process.
+
+Speaker C: It was kind of like your first step into actually releasing your own work. And were you profitable, more profitable than day trading?
+
+Speaker B: I'm pretty sure that all of Generations is sold out, and I think I did 100 or like 200 in total.
+
+Speaker C: If it's not sold out, it will shortly be after we— Yeah.
+
+Speaker B: Oh yeah. There's still a few hanging around. All of the original phases, like pretty much sold. The later ones are where it started to struggle because I think then I was reaching the limits of like, maybe it's starting to, uh, repeat similar compositions that aren't as, as interesting. Which is how I learned about the limits of generative art and that you really can hit like a wall with an algorithm where it is just, you know, this is what it's capable of and that's fine and that's the amount of variation you get from it. Everything from then on is pretty much public history, most of the projects that I've worked on are all in fxhash. My very first generative work, which is Fezzié's Four Ways, was my first ever work in p5. Like, that was just playing around and I just decided to implement it to see.
+
+Speaker A: When you first started working in p5 and thinking about putting work on fxhash versus, I guess, you know, the HEN derivatives that were out at the time, right? There was like HEN 2000 and Theia and stuff like after HEN went down. Were you just Making stuff as part of an exercise, like you're, you're going to go check out this or that coding train video. Okay. I'm gonna learn something new here. And whatever kind of sketch or exercise came outta that is what just got put up on fx hash, or was it kind of the opposite of like, I have this idea, now I'm going to go find what I need to learn in order to execute it?
+
+Speaker B: It was a bit of both, mostly in the beginning. It's all, I have a question about how this generative system works. I'm going to go look into it. And then I would find out, I guess, the best method through like Coding Train videos or other coding channels and things like that that work in p5 or Processing.
+
+Speaker C: Is that how this, your first project came about?
+
+Speaker B: Bézier's 4 Ways was, I want to find something that isn't just putting boxes of different colors on screen that kind of makes curves that look like potentially shapes or brushstrokes. And I was just looking at the documentation for p5. I probably looked at like other sketches that people have to make sure that I was structuring everything correctly, but I didn't find Coding Train until a few projects in. I think it was probably Tree Rings because Tree Rings is where I found his polar noise loop video, which is a crazy helpful thing if you are a generative artist and you want to learn how to make very organic shapes. Learning polar noise loops is really, really helpful also for like making animations that loop. Pulled in noise loops. It's really cool.
+
+Speaker C: That's insane that you're basically just kind of dabbling here and there. We were coding train enthusiasts from our first day trying to learn for the most part. And the fact that you successfully released and probably minted out 4 projects before that is just—
+
+Speaker B: I was very happy about it. I don't think that you need to do anything terribly complex to make a good piece of generative art. I think going in with like some level of design knowledge is what maybe helped me in the beginning, along with being extremely lucky that I had like good friends in the space with like followings that like shared it at the time and like that it just happened to get the visibility that it got. And I think that fxhash was still really young. And so like the quality of project that you needed at the time was not, the bar wasn't as high, especially selling for like 10 cents.
+
+Speaker A: You weren't selling for 10 cents, were you? Were you really selling for like 0.1? At that time, that would've been even less than 0.1.
+
+Speaker C: It was 0.1.
+
+Speaker B: Oh yeah, yeah, yeah.
+
+Speaker A: Well, that would've been like 50 cents, you know, back when that was $5.
+
+Speaker C: So that's pretty true. Yeah, it was like $200 or so for your first project. Not bad.
+
+Speaker B: Yeah. Yeah, absolutely not bad.
+
+Speaker A: Looking at your early work, you have the Bezier 4 Ways, What Does It Take to Be Successful, Jelly Bean Singularity, Floating Bookshelves, Tree Rings, Coastal Waves, Multibiome, and then Creta Circulum also released on the same day as Multibiome. So that's a 2 and a half week stretch. And you had a job while you were doing this?
+
+Speaker C: Is this like—
+
+Speaker B: I was day trading. actually full-time at that point.
+
+Speaker A: So you were like just not doing any of your film stuff because I, the reason I'm kind of going, so the one thing that's super interesting is like, so you're learning to code, but also you're finding success. I don't think anyone who was collecting your work at that time thought, oh, Chris, this is like just some guy who's like just learning to code in real time. I wonder if a part of that is taking some of your skillset in design and on the arts, right, through film, because you've done a really good job even looking at the earliest projects, like making sure things are very cohesive, coming up with color schemes that work. So like, Is there any part of your previous career that you feel like really helped you make this transition? You know, basically being someone who had no coding experience, like what do you think is the link that helped you find that early success?
+
+Speaker B: Really, that design knowledge is like such a big deal to me and like, that's what I would attribute it to. Because a lot of the work early on, people would be extremely talented coders and be extremely knowledgeable in like math and like this crazy complex function that people make in whatever work, but then their color schemes would just be RGB, or they would be like, I don't know, some crazy bright neon color that's like a little bit of an eyesore. And I think, yeah, the only thing that like made a difference to me was that I wasn't seeing a lot that was like, I don't know, a tasteful palette. And like, that tastefulness is obviously just like my own taste, but wasn't something that I was crazy into. But you look at, like you mentioned, Archetype is very nice, soft, dull palettes with like little pops of color here and there. And I think that that's really it. And then a lot of times when I started working in 3D, which I haven't really stuck with for a lot of projects, but when I do work in 3D, I do feel like the fact that I worked especially as a grip for such a long time, which is like in the lighting department on film sets, that is extremely important. So learning light is a Really big thing if you want to work in like 3D. And it kind of goes the same if you're working in 3D, creating things in like Blender, like learning light is a big thing. So, light, color, composition are all things that are nice to study and learn some— I don't want to call them rules because there's not rules, but like tips and suggestions that kind of help make your art more pleasing. Because in the end, like it doesn't matter whether it's an extremely complicated algorithm As long as it looks good and it looks interesting and you're conveying the feelings, making somebody feel the way that you want them to feel when they see the piece, that's what catches people's eye.
+
+Speaker C: I think that's something that we've seen a lot within like the growth of artists on this platform. You know, there are the people who are design first and then like learn how to convey their aesthetic choices and decisions through code. And we've seen that group of people like yourself. get so much more proficient over time. And I, I bet it's very, I don't know, satisfying perhaps to see the visions that you have actually come forth in all these different outputs. And then we also have the coders who are, as you said, they're learning how to bring more aesthetic choices into their work. And you're, you're absolutely right that the caliber over time has grown significantly. What were some of the turning points as you were going through and releasing projects where you just like were, aha, I'm now able to like do this really cool thing I didn't know before other than And, you know, you already mentioned tree rings and the loops that I forget their name.
+
+Speaker B: Everything that I've done taught me something, and that was kind of like how it was going for such a long time. Every project that I've worked on was me experimenting in some way or me trying to learn something new. And then I ended up finding a path in the learning process where I could fork off and make something that was kind of intelligible art or like an algorithm that kind of worked. Floating bookshelves was me. Attempting to learn nested loops. And then Tree Rings, Polar Noise, Coastal Waves was like figuring out this effect with noise to create these like overlapping lines to try and make some sort of wave effect. Multi-Biome was learning in 3D. Major turning points were probably like Fleur de Sinus, where I was really, really focusing on composition where you're breaking the frame and you're really trying to build this idea that there's like a world outside of the frame. And then very much focusing on color. I think that was where a lot of my color palettes came from in those days. I built them during Flor de Sinus.
+
+Speaker A: I thought that one was going to break through. I was like minting that one heavy. I was like, this is going to be Chris's big breakthrough.
+
+Speaker B: In a lot of ways, I think it was. I think at the time that was like the most respected or like talked about work aside from Protein Pelt got this weird second life. It happened. It was popular, and then it suddenly popped up on Tender, the icons tab. And I was like, what? Why am I on here? Wait, hold on. Nobody talked about this. Like, the project happens and it was forgot about a couple days later, and then suddenly it's there. And I can probably attribute a lot of that to Flood, who is one of the original community members within Tender. They were very, very into Protein Pill, and I think They own like 50 editions or something like that.
+
+Speaker A: Protein Pelt, I think, was such a price discussion favorite from the moment it was minted to even weeks and months after. People were like talking about that project a lot. I don't know if you have the same memories, Trinity, but I feel like that was one that perennially came up as like an undervalued gem. Go get this piece, like it's going to be a grail someday. Like it got talked about fairly frequently from a lot of the original price discussion fiends. Yeah.
+
+Speaker C: And you know, I think it's maybe what my recollection is kind of like the intersection of those 2 where it was on Tender and the initial ICONs list, like early days. And when people were looking for like, oh, what are some things that I could buy? What are some of the best things? I only have so much Tez. It'd be like, here's the ICONs list sorted from lowest floor to highest floor. And then like Protein Pelt was one of the ones that was like, if you wanted to like potential grail project type of thing or something that people really believed in. It was going to be one of the first ones that people saw when they sorted that way. So a lot of projects at that point really did see a lot of movement until they were no longer like lowest floor because the floor had been bought up, which is pretty cool.
+
+Speaker A: What is the story of that piece? I mean, I think it is an important piece in your collection. It would be great to hear what were you learning or what was the idea behind it? And also like, how do you feel about it now?
+
+Speaker B: This is a testament, I think, to 2 big things. One is that if you just keep throwing stuff at a wall, Eventually something will stick. This was towards the end of like a big sprint that I was on of like learning generative art, and I just kept releasing projects, not really with the intention of like always selling out or always making money or anything like that, but like still just learning how to do this. And it's a far cry from what I set out to do. So the other testament is that happy accidents are such a big part of the process of generative art, which is why I love it that If I were just painting a painting and I made a mistake, sometimes that can make like something interesting, but I wouldn't be accidentally making the mistake all the way across the canvas, creating a whole new piece of art. If you make a small change in the rules, it can affect the final output in a major way. And a lot of times little bugs and glitches look incredible and you didn't intend to do that in any way and you just stumble upon it. This was supposed to be— have you seen like those truchet tiles?
+
+Speaker C: It's a classic.
+
+Speaker B: Yeah, it was supposed to be something kind of reminiscent of that where you had a rake essentially moving vertically or horizontally and it would hit a certain point and change direction in like 90-degree intervals. And you would send a few of those out at the same time and they would kind of draw over each other and interlace. And that I thought would be very Interesting. And I'd seen a few similar things done, but always in that tile formation, and I wanted it to feel a little more irregular. I literally just made a decimal error in like how often that turning would happen, and I accidentally added— or like was one zero short of like the noise scale that would guide it and tell it when to turn. So it just was constantly turning and spinning around and wandering and pointing whichever direction it wanted to. And it just kind of wandered out from a central point like that. And as I did at all times, which is how I break everybody's computer, especially in the beginning through the middle of what I have, is I just put that effect in a nested loop and I just told it to go 100 times and see what happens when you layer a bunch of them and find this kind of complexity and see if that sort of melds into something that's one central mass. And That is essentially the story. And I played with a bunch of different compositions, and like the thing that stood out the most to me was just leaving it as like a central mass to spread in this sort of like lifelike amoeba-ish shape. And I let the palette picker just pull from every palette, so it really felt natural and it really felt lifelike. And I have a friend, uh, Santiago— probably a lot of people know him. On Twitter, if I recall correctly from our conversations, he used to study biology and dairy biology at a certain point. I don't think he was doing specifically that as a career, but that was one lesson that he was going through. And he sent me pictures of proteins that looked really similar to the outputs that I was sharing on Twitter at the time, along with the fact that all of these look like they have little tiger stripes or leopard print in them and like all these little nooks and crannies of like lights and darks. They felt really natural. And so the name was pretty fitting from there. And that was it. It was maybe 12 to 15 hours of work to make this piece, which is where I really feel like you don't have to have this like crazy complex algorithm to make good art that like people like. And you really can just keep throwing things at the wall. It's like when you have artists who record like 500 songs and then only 10 songs end up on the album. Keep doing that. Just keep making things that interest you. And if you're not interested anymore, you can revisit it later.
+
+Speaker C: But you are really right though. It is the palettes and like the, the color combinations that even if it is random, they all work together so well in like these really delightful organic ways. I don't necessarily see this as just being like random in the application. It looks so good. You know, it, it feels that there's a lot of intention there, even if there might not be. So. You hid that very well.
+
+Speaker B: Yeah, I really appreciate that.
+
+Speaker C: If this were contrasting and conflicting, you know, neons of various shades, you know, maybe it would be less impactful for the project. So I think that's where the design taste really comes through.
+
+Speaker B: I'm really glad it hits like that.
+
+Speaker A: I think we have some questions about specific releases, but I want to ask you before we get there, you know, hearing your story from day trading crypto to then day trading on HEN and getting into art through like a trader's mentality. In what way, like, do you think about the market now as you are an artist releasing work? And how conscious are you of that? I mean, maybe not so much in the early days when you were just releasing sketches and things that you were using to learn, but more so now. You kind of have like 2 phases, right? Like you had this like really hard run from November through February maybe, and then took some time off and then you've come back and like now you're releasing again. So I don't know, this is kind of like 2 questions, I guess. Like, do you kind of consider these like eras, 2 different eras in terms of your career as an artist? And then how does a lot of that day trading mind that you developed play into how you design and think about your releases?
+
+Speaker B: As far as the eras go, which is a simpler question to answer, I definitely feel like there were at least 2. I mean, I left for a while. I just had a lot of personal stuff come up and I was Kind of taking some time off to work on myself for a while, and then kind of slowly got back into it because I think a little bit of it was that I was starting to burn out working at that kind of pace and not really filling my head with life experiences to pull inspiration from and make art about what I experienced. I was just experiencing sit at home, make code, watch Netflix, go to sleep, wake up, make code. And then that second bit, which was kind of like starting with Resicolor, which was my first like, man, I really am just warming up again. I'm like, have not dipped my toe in code in 3 or 4 months. I feel like there is a third era. I don't know how to self-define an era, but like where I really did switch up my workflow and how I would build things. That kind of starts with Kinjo and Immuur, where I really sat down and I was like, if I'm making something, I want it to be able to look good on my wall. I want to be confident that I want this in my space as a piece of art and not just, oh, this is cool that he did it with code, but like, oh, this is actually really pretty. This is really something that moves me or something that feels nice, not just is technically interesting. And then on the second question, I try not to think about the market as much as I can, and I will sometimes kind of like buy a project early on with like maybe the hopes to resell it later, but I always end up loving the piece too much to let go of it. I bought a September on secondary like 10 minutes after it dropped for like 60 tez or something, and I remember thinking, uh, I really like this, but like I was slightly Tez poor at the time and was like, I don't know if I should be like spending the money on this. I'm— maybe I'll resell it in the future. And then like September climbed to 700, 800 Tez, wherever it was at its peak. And I was like, oh man, cool. I could really resell this. I just, I don't think about it that way anymore. And I think of supporting the artists and I think of the collectors and I, I'm happy that there is a secondary market.
+
+Speaker A: Yeah.
+
+Speaker B: and like a secondary life, partially because royalty payments are cool. They're great. I think that's like a wonderful part of blockchain-based art. And I love that people own a piece, experience it, love it for a while, and then pass it on to somebody who will love it more in that time. And, you know, that cycle continues. But I don't think that art is always an investment. I think you buy the art and you spend the money to own it, and experience it. And, you know, there's a lot of reasons why you would pay money for it. I don't think I personally invest in art anymore, but I do see the appeal for a lot of people, and I know the market still definitely demands it. It's just my own personal interest.
+
+Speaker C: And by invest, are you talking more about the, the speculation phase of things? I know that you're still collecting. So what is your philosophy on collecting?
+
+Speaker B: Not to swap topics here, we can go back to the wonderful work that you've been doing, I still collect is because there's still a lot of amazing art. And I've recently, in the last few months, started printing a lot of the art that I've collected. And it is in my space around me as I create, as I live. And I really enjoy that. And honestly, the first piece that I printed, which was just of my own work, was wild. This is kind of a sidebar, but where you have this like world that only exists in my computer. There's all these people in my computer and this money that I've made in my computer. And then there's like this crazy surreal thing when I first sold Tez and like transferred it to my bank account. I'm like, whoa, this is like not just this game I'm playing, not just this hobby that I have, but this is something that affects my real life. And then I have prints and I hang the print up and it's like, whoa, like this art that was This little box on my screen is now in my space. It's hanging above my TV when I'm like watching a movie. When I'm in the kitchen, there's generative art on the wall. Like, and it is something that I think pushed me to think about the actual art quality of it and how I feel when I look in it, because it's in my space and I want it to make me feel good or think about certain things. That is like one of the main reasons I still collect it is because I want art. I love seeing people express themselves and seeing these new takes and ways that people can communicate their feelings through color and composition, and I want that around me. I've always been that way. When I was more heavily into photography, I have lots and lots of photography prints in my apartment, and I just want to feel the way that those make me feel. And then secondly, I want to support artists because I feel supported, like incredibly supported, by anybody who's ever collected anything from me, whether it was through appreciation for the art or speculation or like anything. If they've seen something in me that's worth supporting me so that I can pay my rent and I can afford to pay for internet to access the blockchain. I really appreciate it. And I feel like it's a duty to give back to those who make me feel that way. They're not just like valuable as artists, but that they are valuable in my life. The fact that they exist is valuable to me. And I want to see art succeed and I want to see people make new things that make me feel new things in new ways. So it really is just investing in the continuation of this industry, not just from like an economical standpoint, but from new art.
+
+Speaker A: Any artists you want to call out or praise in particular that you like to collect or who you're always excited to see releasing?
+
+Speaker B: Oh my God, that's a lot. That's very tough. One of the major ones I love seeing work from Wouter, Wouter Misler or Wootskoot. I also talk with him a lot of the time, but he's like very, very impressive generative artist to me and always surprising me. Landlines is wonderful. I've been seeing a lot of really cool work come from Exalted recently, especially like the works in progress that I see on Twitter right now. Sarah Ridgely has been doing great stuff. Tyler Boswell, obviously. Jeres or Heres?
+
+Speaker A: Jeres.
+
+Speaker B: Jeres.
+
+Speaker C: There we go.
+
+Speaker A: We know them well.
+
+Speaker B: Wonderful, wonderful work. Something about their eye for color has always blown me away, especially with Verse and Hereafter. Those palettes feel so otherworldly to me. It's not moody and dark, and it's not bright and colorful. It still makes me feel like there's this completely other world that I'm looking into. I don't know how to explain it, but it makes me feel incredible.
+
+Speaker A: I know exactly what you mean. There's something about the Jeres' colors that it's just like No one else hits it the way that they do. It's indescribable. Like there's this unsettling but also optimistic aspect to them that's like, yes. I don't know what it is that they do. And we will have them on probably in like the first quarter of 2023, but nice. Yeah, that's definitely something we're gonna get to the bottom of.
+
+Speaker B: Yeah, absolutely. Yeah. It's, and I think one thing about the color from like a technical aspect that I, that I really appreciate is all of these hues. If you took them and you put them on a big square with no detail or texture or anything but it, and you just put it on a wall, it would look like art. Like, it looks like fine art. All of these colors are so wonderfully selected. I think that's part of, like, one of their major strengths is using those colors to even just by themselves make me feel like I'm in, uh, some crazy industrial world.
+
+Speaker C: It's still bright and cheery.
+
+Speaker B: Yeah, absolutely.
+
+Speaker C: Exactly.
+
+Speaker B: And I'm sure there's like 1,000 other artists that I'm forgetting at this moment. Uh, but if I've ever collected anything from you, I really hope that you keep creating art. Anybody who's like— and if I haven't collected something from you, I hope you keep creating art if it makes you feel good.
+
+Speaker A: Yeah, no offense if Chris hasn't collected your work. It's not a judgment on your work, Chris. We've actually touched on a few that we wanted to talk about already, but you know, you've been active on the platform basically for as long as it's been around. But one of the pieces that stands out as an early piece that you in particular got behind and really advocated for was Bedlam. If I remember right, I think you, you even, you tweeted or you were in Discord talking about how you thought this was your best work to date or your most important project. And I don't know that it even necessarily minted out immediately. I think it kind of took some time and people maybe were not as warm to it as you hoped or expected. So.
+
+Speaker B: Yeah.
+
+Speaker A: What was it about that project that you loved so much at the time? Because this was also the last project before you took a break. Were you a little disenchanted after it didn't hit the way that you expected, or did it hit exactly as you expected? I'm, you know, my memory is not perfect. It's a cool project and it seemed like a really big, important one for you in the moment.
+
+Speaker B: Yeah, I appreciate that. Not getting like too in-depth about my life around that time, but I was going through a lot of big changes and a lot of emotional turmoil. And it was part of learning to balance life with my hobbies and my work. And it's not that healthy for me to just sit there and work continuously and not go out and enjoy my life and engage with others and things like that. And so as a very ironic twist on dealing with my emotions at the time, I just dove into work. And I spent probably like 60 to 80 hours working on that algorithm. Which was a lot for me. Like, there was a lot of learning going on in that. There was a lot of tweaking and a lot of just throwing myself into focusing on how to make this better. And I really did feel at the time when it released that it was as close as I could get to like my magnum opus. I guess from the beginning, the most interesting thing to me was to create generative work which feels like traditional art. Not that it like has to feel like something that's been made before, But that it feels organic and that it feels like something a human was involved in and really just used the code as a tool and not a crutch to make some simple design with instruction. And I think that a self-painting painting was a really big idea to me because I'd never really seen it done well in the generative space. That was really the first big step, or many big steps. towards what I wanted out of my own art was in Bedlam. And it was the first time where I made something where I was like, I would print this and put it on my wall. I want to look at this every day.
+
+Speaker A: And have you printed it?
+
+Speaker B: I have not printed Bedlam, surprisingly, because I think that when I took time away from it— and that's part of why I took such a long break after— was I just put so much into it, and I think I burned myself out, and I wanted to take time away from it because I knew I really I knew it was missing something. And though I absolutely love it and I am like proud of the work that I did and I think it's a great piece of art, I think to me it didn't do what I wanted it to do for me. And I wanted to kind of take time away and work on those things that I was missing, which I feel like I'm closer to these days. But I do think there are outputs of it which I've wanted to print. I just haven't gotten around to it because I always get excited to print other people's work, which is newer and fresher to me. Or newer things that I've made which feel more in line with how I've been feeling. Because I think Bedlam, I didn't want it to feel bright, and there are a few which feel playful, but I wanted Bedlam to be like art that you would hang on your wall if you lived in a cave. Very moody, very elemental and textural. And my personal living space, it's not the kind of art that I want to surround myself with.
+
+Speaker C: It sounds like it was kind of reflective of your emotional state at the time as well, if I'm reading through these lines correctly.
+
+Speaker B: Oh yeah, absolutely. It was something where I felt like it did express how I was feeling, even as somebody who like could not tell how I was feeling at the time. It kind of felt like, uh, bare at that time in life. I was just kind of overwhelmed. And if you've gone through like big, big changes in your life and lots of turmoil, it is very easy to go numb. And I think that that is where I was at this point, and I was not dealing with it head-on, and I was dealing with it through art and trying to figure out how I felt through tuning and tweaking images until they looked like what I felt like. Until I like, uh, what's that thing where you, um, resonant frequencies, where you can like hit the perfect frequency for some material and it like cracks?
+
+Speaker C: Well, it hums back at you. That's what I think the resonant frequency is.
+
+Speaker B: Yeah, absolutely. I wanted to find something. I wanted to tune that frequency of what I was looking at Until it interacted with what I was feeling and really helped me look into myself.
+
+Speaker C: It sounds like it was a really good tool for the time. And I also understand why you might not actually want to have that printed and resonating back at you in what seems to be a pretty good state right now.
+
+Speaker B: Yeah, no, I think my life right now is, is good. It's life and it will always be complicated and topsy-turvy and that's fine. That's perfect by me.
+
+Speaker C: Fast forwarding. So you took a couple of months off and your pace at the start of fx hash, as Will said, was tremendously fast. It's still really quite quick, you know, looking at what you've been doing since May. It's like my back of the napkin math estimates that you've been putting out almost 3 projects a month averaged out. How has the process of being that prolific in this amount of time, how's that been?
+
+Speaker B: I don't know if prolific's the word. I've been busy. Absolutely. I think that— I don't know, I think that I'm just stuck in this, like, I have so much going through my head right now and I want to, like, grab on and, like, ride the wave as much as I can. And I have kind of, like, mostly felt that way in any creative endeavor I've been in most of my life. I've always felt like I'm in that mode except for maybe 1 or 2 months a year where I really hit, like, a writer's block.
+
+Speaker A: Yeah.
+
+Speaker B: And those portions of time make me feel like when I do have it, I really need to like embrace it and not take it for granted that I am feeling creative right now, that I'm feeling like clarity on what I want to make and what I want to express. Other than that, like, I am just making it, making work, partially because I've kind of set myself to a standard. I have this schedule now and I work on art and Thankfully, I'm living in a world and in a situation right now where I can, if I'm not feeling like making art that day, I can do something else productive with my day that I do feel like doing, which is really lucky that I'm in this position and not completely obligated to work for somebody other than myself. And that I know the best way that I can work for collectors and work for people that appreciate me is to do whatever feels right for myself. in the moment and to not be stressing myself out and not be worrying about what they think and not be worrying about like money that I'm gonna make from X or Y or whatever. I set a plan and I don't think about it. I just, I work according to my plan. And at this point, I just enjoy being able to make something mostly every day. And if I'm not coding something, I've got my notebook in my bag wherever I go. And if I think of something or I see something, My phone is filled with like pictures of like, here's a marble wall. I went to this diner and the table has these little boomerangy things all over it. I wonder if I could make that in p5. Like, it's something that's always going in the back of my mind. And so working just feels fulfilling, getting it out of my head and getting it somewhere to where I can share it with other people.
+
+Speaker A: You're kind of the master of your own practice now. You are a full-time artist, I think, or that's kind of what you told us before we got on the interview, right? So being a full-time artist now, especially in this bear market, what does that entail? Balancing like Tezos that comes in, timing when you're going to take Tezos out to cash and thinking about taxes. This is kind of like a boring question, but I think also an interesting question of like, especially living in the United States where you live, we don't need to get more specific than that, but Uh-huh. What does it mean to live day to day as a full-time artist functioning primarily on FX Hash like this in this market too? Like, how has it changed in the last few months, or has it changed at all? Have you adapted?
+
+Speaker B: Money in this industry is like so hard to think about. I think it was Landlines who mentioned something along the lines of like, people aren't meant to make this much money at one time, and like it messes with your brain, like especially after working like paycheck to paycheck most of my life. How do I handle this? How do I take this amount of money and spread it out? How do I actually gauge like how much money I'm making yearly based on like whatever pace I'm working. Like, it's so hard to actually figure that out. And so at this point now, I just pull out especially whatever I make in primary sales, and then every week or two I'll pull out if I have any like royalty payments that are sitting there. Or I— most of the time I'll use my royalty payments to buy art. The royalty ends up usually being about 25% of what the project makes overall than I make back in royalties in the next month or two, which is like never something that I can actually predict either, because I never know how much interest the public will have in the project a week or two after it releases or anything like that. But at this point, just pull it out as soon as I can while we're in a bear market, because I don't know when it's going down. When I had that first sprint, I had not pulled out any Tezos. It just sat in my wallet, and I would reinvest in art, and I would buy a lot of art on fxhash at the time, not really thinking about speculative prices or anything like that. I just, I bought it because I had the Tezos sitting there and I was still making money from like other sources at the time from like a day job. So it wasn't a big problem to me. And then I still kept it in there and then Tezos plummeted and then it's the US and taxes are way more difficult than they should be. And so now as like a safe thing to do, and I think like As an artist, if you're in this platform and you're suddenly making whatever lump sums of money from a project, my best advice would be to take out at least 25% of what you made, or like whatever your tax rate's gonna be, and like put it away so you can pay your taxes. And you can let the rest sit in Tezos and let it either like gain or lose value, but just make sure that you watch out for yourself and you watch your back. Because it is very easy to like lose track of yourself and accounting is hard and that's the big thing. And it makes everything much, much easier on you.
+
+Speaker C: I guess unless you're in France.
+
+Speaker B: Oh yeah.
+
+Speaker C: And other crypto laws.
+
+Speaker B: Portugal, I think, is doing—
+
+Speaker A: Yeah, there's a couple places that don't have crypto taxes yet.
+
+Speaker B: Yeah. I know that there's also like those people who like, not to inspire anybody, there's people who like do not claim their wallet to be their own or owned by them at all. But I don't think that that is safe to do because I think one day it's going to catch up to you.
+
+Speaker A: And this is not tax advice. This is not financial advice of any kind. But I involved an accountant last year. And their advice to me was, do your best and just establish a track record of trying to be as honest and above board as possible. Like, it's so difficult with NFTs, especially because when you start using some of the tracking software, it's not necessarily good at capturing the buy price. And like, again, severely not tax advice. But this is just what I was told was like, The idea is to establish a record of trying to be attempting to comply as you can.
+
+Speaker B: Yeah, absolutely.
+
+Speaker A: You want to have that record if and when you ever do hit that like million dollar, my RGB just went to a million, like I'm cashing out. Like you don't want that to be the point where you start now honestly accounting for your taxes. You want to have a record in a system.
+
+Speaker C: I mean, at that point, that'd be, I would not want to start being honest then.
+
+Speaker A: Right. That's when you're going to, that's when you move to Portugal maybe. But for you, Chris, you know, for someone who's like maybe paying their rent every month off of Tezos withdrawals, like, yeah, it's very important, right, to have a system in place that's consistent and you can back up with receipts.
+
+Speaker B: Yeah, absolutely. I think early on I tried to look into like, oh, do I set up a payroll for myself? Do I build an LLC? And like, does the LLC own my Tezos wallet? Do they have the gains taxed or losses whenever I'm paid? And then I'm double taxed. It's such a complicated situation that like Really, I think just like finding an accountant is the best, the best case if you live in the US. I think if you live in other countries where taxes are not— we're not going to have that conversation about lobbying right now, but taxes are a bit easier in other countries and not in the US. Just be above board, try to track everything that you can and like do your best. And if it really comes down to it, the IRS knows how much you owe them, so just ask them.
+
+Speaker C: Cool.
+
+Speaker B: All right.
+
+Speaker A: So again, not tax advice. So, not tax advice. Trinity, do you feel like we should move on to rapid fire? We've been going for a bit now. Is there anything else you wanna cover before we jump over?
+
+Speaker C: I think your last 4 projects, uh, 60-pound, I don't know how you would say the name of that project.
+
+Speaker B: 60-pound for the type of paper that would be used in like, uh, comics or like graphic novels. Yeah.
+
+Speaker C: So like, I would say your project since, I'm gonna specifically call out Crash Euphoria. In my somewhat trained and diligent eye, after a year of doing nothing but look at generative art, it really represents, I think, a step forward. I think Will made the point earlier on that this may have been when you started leveraging shaders and integrating them into your work. But I would love to hear just a rapid-fire answer to, um, what these projects like kind of mean to you and how you feel about them in the context of the work that you've put up until that date. Crash Euphoria is sick, by the way.
+
+Speaker B: Thank you very much. I feel like Crash Euphoria was a big jump aesthetically. And I never want to have a particular style, but it made me feel like I could if I wanted to find a particular style. I think that shaders are incredibly helpful in finding texture and unlocking this like extra capability, because like one of the things in gen art is you're always limited by compute, like how much power does a system have. And shaders kind of unlock this new level of complexity that you can add. And it is difficult to like explain it all, but instead of using your CPU, which is very slow and very accurate, you're using your GPU to process every pixel all at once in parallel. And so it's taking the image that you generated in p5 and like putting it through a list of rules by pixel really fast and really efficiently. But I think like recent work, I'm having a lot of fun exploring what I can make and doing a lot of aesthetic studies. in like really pushing the limits technically. And I'm really starting to dig in and start looking inward and finding concepts and ideals and intention in the work that I want to start pursuing and what kind of things I want to communicate. What things am I experiencing that I want to share through art?
+
+Speaker A: It sounds like we're going to see the first bouldering-related, uh, fx hash project coming from you maybe in the next few months as you pick it up again.
+
+Speaker B: Oh man.
+
+Speaker A: That could be a good transition into rapid fire. I think that for Trinity and I both, the obvious first rapid fire question is, what kind of climber are you? Are you like a crimpy static? Are you a dynamic, just jumping around, throwing yourself against the wall or slab? Like, are you more of a slab guy? Like, and also no one can fact check you. So generously, like, what do you climb? Are you like a V5, V6+ person? Are you kind of just in the, in the V2, V3? Plateau like so many of us hobbyists.
+
+Speaker B: So I have like friends who are very, very talented. And so they'll be climbing, let's see, what is it? Uh, what, V7 through 8? At my gym, those are like the, the whites and pinks, which are very, very, very difficult, tiny little crypts positioned way too far away from each other for me to handle. Because I am such a tall and lanky person, typically my beta is like trying to skip over things that I see other people struggle with. And that is actually what hurt me originally. That's how I got an injury was because I was trying to go too far. But I really enjoy trying to maintain my balance because I have a very high center of gravity. It makes a lot of these courses difficult. And like, I have an advantage in my height and length of my limbs that I can bypass a lot of things except for controlling my weight. So that's like a big thing that I want to focus on currently is these, um, Oh, there's a word for it. What is it called? Where you're, uh, kind of just on your feet, you don't have much to hold you against the wall. Is that slab?
+
+Speaker C: Okay. Yeah, that's slab. It's like you're slightly leaning forward a little bit.
+
+Speaker B: Yes.
+
+Speaker C: And it's just all about that intricate shift of weight between your feet.
+
+Speaker B: And yes, those little, uh, essentially like pistol squats that you have to do on so many of those, and you're just like holding your chest against the wall and you've basically just got your fingertips on just straight wall, no holds to like kind of hold you there.
+
+Speaker C: And then you slip off and then you lose all of the skin on your knees and elbows.
+
+Speaker B: Yes, absolutely. And then one of the other things that like has always interested me is like, I don't know, swinging like a monkey is nice and like big wide endurance runs where you are starting from here, you're moving up, you're moving horizontally, moving vertical, horizontally.
+
+Speaker A: Traversals. Yeah.
+
+Speaker B: There we go, thank you. My terminology is completely lost, it's been that long, I guess. Those are extremely fun. Also answering your earlier question, tend to like climb like, I think this is V5s at my local gym. Those are challenging enough for me, and I think that I need to do a lot of like strength training and things like that to move any further, because then you really hit like the limits of your body at that point. Especially when you're trying something multiple times and then you move on to another problem and you're already exhausted from problem 1, 2, and 3 for that session of climbing. Endurance is something that I really want to build and something that I really want to be good at. So it is typically what I force myself into. So traversals and then managing my body weight on slab.
+
+Speaker C: For endurance, and we can stop the climbing-related part of this show soon. I know it's very interesting to everybody, but honestly, anybody who hasn't tried climbing, definitely do it, especially if you are into technology.
+
+Speaker A: Again, Especially if you're under 30.
+
+Speaker B: So yeah, and if you're over 30, still get— What do you guys typically climb on?
+
+Speaker C: I'm typically a boulderer.
+
+Speaker A: Yeah, indoor.
+
+Speaker C: And I'll climb anything that's new and fresh before it gets too gross and sticky because of people's sweat, chalk, rubber. But for endurance, one of the things that I've done on and off, usually when I'm in a much more motivated zone, is, uh, get my harness, go to the auto belay, and Climb up, climb down the auto belay for 10 minutes, take 10 minutes off and then do it again. And so even on something that's super simple, by the time you're done with that first 10 minutes or that second 10 minutes, the pain is real. The pump is real. It could be like as easy as a V0, you know, it definitely helps get that lactic acid training. I don't know. There's technical sciencey terms for it. It sucks, but it's awesome.
+
+Speaker A: I have not really climbed much in the last year. Instead, I've just been sedentary and gained a bunch of weight, so But even in my middle 30s when I was climbing, still a good deal. I kind of prided myself at being like the fattest guy at the gym who was crushing V3s and V4s. So that was kind of like my pocket was, maybe I'm closer to your build, probably not your weight, but like 6'1, 6'2, good reach, sequence breaking. I can sometimes get through difficult sections because of my height.
+
+Speaker B: Yeah.
+
+Speaker A: But at the same time, there are some problems I just can't start. Because it's so, so low and I'm so heavy that it's like I can't get myself up off the starting holds. Basically any of the problems that were set by people who are in my height range, certainly I could do. And the only V5s I've ever done in my life were like slab style problems that where the height advantage helped. But, um, yeah, I think I'm usually pretty good at figuring out beta on stuff, but the execution's not always there. Being older, it's harder with the conditioning. So.
+
+Speaker C: That's, that's a state of mind. You just gotta—
+
+Speaker A: It's a state of mind and a state of time, you know, it's a, it's a state of both.
+
+Speaker B: Yeah.
+
+Speaker C: I mean, I think that slab is fun just because it is one of those things where it's not super sapping because it's more about the mental game. It's about the problem solving, the figuring things out. You can just throw yourself at it time and time again, as long as, you know, the skin on your elbows, as I said before, Uh, remains intact. I've left quite a bit of blood on the wall at my, my new gym, which is very scratchy. At one point I just was bleeding from my forehead all the way down. I just, I thought I would scar forever, but thankfully that healed up.
+
+Speaker B: At my gym, the, uh, the wall is like fairly smooth, but the volumes are just like straight grip tape. Like it can be such a pain to like, you know, even just graze a little bit of my knee on it on the way down.
+
+Speaker A: And also like those scrapes, they last because like they're so dirty, those walls. And like, I— some of the scrapes that I've had, they just like— it's like a month later and they're still healing because your body is just fighting all the bacteria and stuff that's like on those walls. It's, it's hazardous.
+
+Speaker B: Yeah.
+
+Speaker A: All right, enough climbing. That was the climbing corner. Back to art, rapid fire. Of all of your projects, of which there are many, do you have a concrete favorite and least favorite. You have a year of stuff on fx hash. So looking back, are there any projects that you're maybe not so proud of? And also, are there any projects that you're especially proud of at this point?
+
+Speaker B: The least favorite is pretty easy for me to call out, to be honest. It would be ResoColor, which was the first project back after like such a long period of time. And I was like struggling with myself on how to get something to work and really getting Back the muscle memory and things that I felt like were so natural to me when I was in that first sprint. And then I was like, oh, how do I make a for loop? How do I do this very simple thing? And I was just like stuttering my whole way through and just to get through it and like create what I did have in mind and what I really wanted, it took so much. And I think looking back on it, I was really proud of it that I got through shaking off the rust.
+
+Speaker C: Yeah.
+
+Speaker B: But it's nothing that I'm incredibly proud of aesthetically. It was definitely a step backwards for me at the time. And then best project, I'm stuck between Immuur and Crash Euphoria feel the most complete to me of things that I had released. And then an extra shout out to things that like somebody else might not care about at all, but Distant Skies was a Big deal to me. It was the first time that I really had like a concrete image in mind when I started. I had it planned out from the beginning. I knew what I wanted to make. I spent the time to make it. I worked on each individual system. I used to be, when I was working doing photography, I was also a producer. So essentially project managing. I have a ClickUp workflow that I just like, it was so nice just to like say that I have the skills to get through each of these steps. I know what I'm doing before I even get in. I don't have to figure it out.
+
+Speaker C: Yeah.
+
+Speaker B: As I go, let me make a landscape because everybody's made a landscape and I've never made one. I've made ocean and the sun, but I've never made like mountains and terrain and things like that. So it was just, uh, something I feel proud of technically as like a coder. I feel very, very happy with it.
+
+Speaker A: Still available to mint.
+
+Speaker B: Oh, really? Are there still? Oh my God. Yeah, I guess there are still some. I like forget that there are projects that aren't sold out. Well, if you want a Distant Skies, yeah, there you go.
+
+Speaker C: We'll get this minted out for you stat. That is not a guarantee. How about this? Any, uh, well, what are you working on? How about that? That's, that's a nice, good question.
+
+Speaker B: I have shared a lot on Twitter recently. I have a huge mood board right now full of inspiration, either like photos from my phone or from Pinterest or from art that I've seen at museums and like some techniques I like to try, some ideas I want to explore. little notes and stuff. I have been kind of like we talked about, the writing 500 songs and only 10 end up on the, the album. I have been essentially trying to tackle at least one new project every week, and I don't have to finish it, and I just want to play with it and see if it goes somewhere that I like. But I'm really enjoying this algorithm that I'm making. Just before I went to bed the other night, I had like this epiphany and went and like wrote it down in my notebook. And it was kind of going down the lines of I wanted to make the same self-painting painting that I've always wanted to make, something that feels organic and really conveys emotion and doesn't just feel digital, doesn't feel computer generated. The approach that I've always wanted, I finally found it. And so I'm really excited about what I can do with it, and I'm definitely exploring what it can be because it can do a lot. I built an engine And now I have to figure out what I want to do with it from an artistic standpoint. But I'm really, really happy with that. And then there's a lot of other little things behind the scenes that I don't totally feel comfortable bringing up without knowing that I'm going to follow up and like finish them and put them out there. So maybe you'll just see.
+
+Speaker A: So Bedlam 2 confirmed. That's good. That's some alpha for the podcast for sure.
+
+Speaker B: It's perfect.
+
+Speaker A: Here's another one. This is kind of following up on something you said earlier. So you mentioned that you got into crypto art through day trading. What was it like day trading on HEN? I mean, I got into Tezos through HEN, but I never once sold a project because I feel like the stuff I was collecting was so random and like the idea that even listing it and someone finding it just felt so beyond me. I don't even know if I had an exit strategy for a lot of the earliest stuff I collected. So like, who were you collecting? How are you flipping it? Like, what was it like being a flipper in the HEN days? I I have no idea what this is like, so I need to hear this.
+
+Speaker B: So like my biggest tool was sometimes Twitter. So okay, the biggest thing was NFT Biker's tool, because you had a live feed of everything that was minted, everything that was listed for sale, and everything that sold. So you had immediate access, a few-second delay from the actual blockchain. And I've seen if some artist drops this one thing, The sales feed fills with that one piece. Like they released 50 editions of it and now the sales feed is all the same JPEG, like all the same thumbnail filling all of it. And so now I can flag that artist, I can write it down, I can start following them on OBJKT or following them on Twitter. Here's now an artist that I can follow and I know that if I catch something that they drop, that I can expect this kind of return or something, which now I realize how broken that was and how like. I was never exactly right. There's still always like speculative that is just assuming that people are going to like this art as much as the other art because the past art was valuable, which in some ways that can be true. So I was collecting— one of my favorites was Esoteros, who did these animations that looked like little sketchbook animations, and they were super chaotic. They were like these monsters with gnashing teeth, but they felt playful. And they looked like— did you ever play SSX Untold for like the PS2? And they had these animations that were like paper cutouts of like notebook paper, like something that you would look like you would, um, just doodle in class. And that's the kind of like feeling that I got from it. Only it was like way more high quality art. They were definitely one of my favorite pickups. And then there was like The Myth who did like the banana head things. Does that ring a bell to anybody? I think their name is like Daniel.
+
+Speaker C: Daniel. Haven't heard that name before.
+
+Speaker A: Hmm.
+
+Speaker B: Interesting.
+
+Speaker C: Which, Daniel?
+
+Speaker B: Oh, uh, let's see, it's @clockedhd on, uh, Twitter. But they make all of these like crazy over-the-top, sometimes very jarring art. And I was very into art that would like catch your attention. And the thing that would get your attention on these sales feeds are whatever was the most extreme, or like obviously the GIFs that Esoteros made were very attention-grabbing. They were bright and colorful and unconventional. And then stuff that The Myth would make were very raw, just these like crazy scenes and these characters that were— their heads were bananas. Not just that they were crazy, but they were just like weird bananas. And then let's see, what's the other one that— ItsGloomTube was like a big creator that I was really, really into for a long time, who also drew these scenes and had like this subtle humor to all of the pieces. And always had these big like emoji smiley face characters, but they're just an incredibly talented digital artist. The textures and like shading that they use feels really nice, especially some of their like pieces around that time were kind of using, um, did you ever watch that show Chowder and how it seemed like they shaded and they had all these different like materials and colors were like mapped over textures? It felt really nice. But those were things that like I was collecting and then like reselling at the time. And I still have a lot of art from them that either didn't sell or I decided not to sell because I really like it.
+
+Speaker C: Now I have a couple of new artists to watch. The GloomTube stuff is— it's wacky.
+
+Speaker A: You weren't like flipping, uh, John Windows or anything like that back in the day?
+
+Speaker B: Oh yeah. Well, here's the thing. I think if somebody was already like so well established, I didn't want to like jump into it too heavily, if that makes sense. I didn't want to jump in at the top of somebody's value. I would have rather found inexpensive artists that were starting out that I liked. And again, that kind of just went along the lines of like, I saw art that I liked and I wanted to support the artist and I wanted to see more from them and I wanted them to succeed. John's gonna make it whether I buy his art or not. His, his art is wonderful and he's very obviously got his style down and he's got a very solid base of people who appreciate his work.
+
+Speaker C: Oh, whoa.
+
+Speaker B: Actually, speaking of a name I recognize, an artist I forgot to call out was Volatile Moods. Oh my God.
+
+Speaker A: From back in the HEN days?
+
+Speaker B: Uh, no, no, not from back in the HEN days. Uh, from fxhash.
+
+Speaker C: Yeah. Yeah. Yeah.
+
+Speaker A: 'Cause you guys were both like, Volatile Moods was active back in November, December of last year too, with some of their earliest work.
+
+Speaker B: Yeah. They had not rough cuts. Oh, let's see. What was it?
+
+Speaker A: Patches.
+
+Speaker B: Patches.
+
+Speaker A: Patches and Protein Pelt were like 2 of the price discussion darlings.
+
+Speaker B: And then X-Burls too were like really big projects for me because I had still this idea that like I was going to make a painting. How do I make a painting? I can't ever get the texture right. And then I see like Vault of Lutes, it's like, oh, here's a painting. I just, yeah, I just threw something together real quick and here's another one.
+
+Speaker C: You're definitely ahead of your time. Yeah. Because like the whole painting thing is everybody's doing that right now, I feel.
+
+Speaker A: dmarchi also is like one of the people who really broke through and got it like executed in a way that works with—
+
+Speaker C: Oh, Aspergo?
+
+Speaker A: Aspergo and Bravura, both like as like digital paintings. Those were like systems that painted.
+
+Speaker C: Yeah, that and also Pittore. All 3 of those.
+
+Speaker A: Yeah.
+
+Speaker C: Like really building upon each other.
+
+Speaker B: Another big trend I've seen aside from the painting recently, sorry to divert like this, but I've noticed that over the last like 2 months or so, and Crash Euphoria actually falls into this category, and I think that might have been why. Why it seems like it worked out and people like it is, speaking of like shaders, you can set something to where you have like black and white values where you define zones. So like this pixel turns this color or it turns this pattern. And so you draw a pattern in black and white and then you draw a bunch of other patterns and then you tell an area to turn this pattern, an area to turn this pattern. So Crash Euphoria uses something like that. There's like some work that I've seen from Melissa— I'm forgetting her last name right now.
+
+Speaker C: Wiederrecht.
+
+Speaker B: Yes, thank you. Um, partially because I was struggling to pronounce it. Her work is fantastic and she has like a wonderful application of it. Landlines Art, the whole iteration project, looked like it might have used something similar to that. And there's a lot of that just like going on where people are really discovering these like little approaches and like turning it their own way. And I think that that's really cool to see.
+
+Speaker A: Is this kind of like similar to what Mapan did with like Anticyclone and some of those pieces where it's like divided into chunks and cut up and then each little tiny chunk has its own thing going on? Is that kind of what you're talking about?
+
+Speaker B: Yeah, I actually don't know if Anticyclone uses— I don't know if it uses shaders. I believe that it does use shaders, but I don't know if it uses that to change the colors.
+
+Speaker A: I feel like we see it a lot in projects since Anticyclone, or maybe even around that same time of like images that are then like sliced and diced and rotated and moved around, and then each little carved up piece has its own little sub-effect applied to it, like a pattern or a gradient, like, or a change in color. Like Tyler Boswell does it a lot too with, um, September. September, and then the most recent one too, the, uh, Stepping Stones.
+
+Speaker B: Absolutely. Yeah, it's just a very cool effect and it's such a dynamic thing and you can do so much with it. You can apply so many different types of patterns or just like change it so that you aren't drawing a color, you're drawing from a marbled texture of this color, and it really just adds like something dynamic to everything. But yeah, I actually believe that like on Anticyclones, that may be in play. I'm not entirely sure.
+
+Speaker A: We won't hold you to it.
+
+Speaker B: I can't claim to break down his genius. I think his pieces are, are wonderful, especially like the most recent paintings that he's done.
+
+Speaker A: I think we have one more extreme softball Rapid fire for you, Chris. Trinity, do you wanna let it rip and then we'll wrap the episode?
+
+Speaker C: I think we had this question maybe off air with Landlines, you know, really took the heat off, but we'll, we'll give it to you full blast.
+
+Speaker A: Oh no, it made the cut. It made the cut.
+
+Speaker C: Oh, made the cut? Yeah. Okay.
+
+Speaker B: Oh, okay.
+
+Speaker C: Do you have any music recommendations or anything that you like to listen to while you're hard at work?
+
+Speaker B: Oh my God. So music-wise, I am all over the place. I very strongly have a sense of identity. In what I listen to, although what I listen to is never like genre specific. But when I'm working, I listen to a lot of hardcore and punk when I'm really—
+
+Speaker C: Name names.
+
+Speaker B: Buckling down. Uh, Turnstile is a big one.
+
+Speaker A: Oh yeah.
+
+Speaker B: Angel Dust is fun. Suburban Scum is a fun one. And then Anxious, they're like a pop punk band, but they have some songs that kind of like bleed into hardcore. Obviously listen to a lot of pop punk in addition to that, but that's not usually as driving or like really pushing me to work. Um, Oso Oso is a really, really big band for me, and I think that they have a lot of like fun catchy music that's very relatable, really good lyricism, really, really fun guitar work. Pinegrove. It's getting colder out if you're in the northern hemisphere. If you want some good fall music that's like indie with a little bit of like Americana, It's really nice. It's better than you think it is if you don't like that kind of style.
+
+Speaker A: 2 follow-ups for you then on that. One, on the hardcore side, have you ever listened to Carnist?
+
+Speaker B: Carnist? No.
+
+Speaker A: It's a band, C-A-R-N-I-S-T, as in someone who eats meat. They're a vegan hardcore punk band. I found it on YouTube and I think it's phenomenal. So check out Carnist. And have you heard of the pop punk band Chumped?
+
+Speaker C: No.
+
+Speaker A: One of my really good friends was the bassist in that band and, uh, They got reviewed on Pitchfork and stuff, so I'm gonna, I'm gonna give you Chumped too if you're a pop punk person.
+
+Speaker B: Oh, really cool. Hell yeah. The ones from Brooklyn?
+
+Speaker A: I assume so.
+
+Speaker C: I don't know.
+
+Speaker B: I'm just making sure for the fact that like sometimes simple names, there can be like 10 bands with the same name.
+
+Speaker A: Hell yeah, throw those on the list.
+
+Speaker B: Those are on my list. Thank you for that.
+
+Speaker A: Hell yeah. No Netflix? Anything you want to add or should we wrap it up?
+
+Speaker B: Oh, what have I watched recently? That's the biggest question. Well, I had been watching the first season of Yellowjackets, and I think Yellowjackets is a fantastic show.
+
+Speaker C: Not Netflix, but yes. Not Netflix.
+
+Speaker A: Trinity's nodding. What is Yellowjackets? Wait, what is this?
+
+Speaker C: Wait, you haven't watched it?
+
+Speaker A: No, it's HBO. I should watch it if it's on HBO.
+
+Speaker C: Oh, it's on Showtime.
+
+Speaker B: It was on HBO for like 2 weeks, and I watched all except the last episode of season 1 on HBO, and then it mysteriously disappeared, and now it's only on Showtime again.
+
+Speaker C: Recap for you, Will. It is a story that takes place in current day. And then also in the early to mid-'90s, a team of championship soccer players, it's a high school team of girls, they're flying to championships and their plane crashes in the middle of the Ontario wilderness. They somehow survive the winter and it involves ritual sacrifice and cannibalism and lots of really weird fucked up shit and lots of trauma for the people who made it out.
+
+Speaker A: It sounds like it has shades of Battle Royale in it.
+
+Speaker B: Ooh.
+
+Speaker C: Probably slightly creepier and it's not a dystopia. Like a dystopic show.
+
+Speaker B: All right, that's great. And I feel like I need to go back and watch Battle Royale. I think I watched that a few years ago. You're talking about the— with the Japanese movie?
+
+Speaker C: Mm-hmm.
+
+Speaker A: Yeah, such a classic.
+
+Speaker C: It is a classic.
+
+Speaker A: We're one episode behind, but we're finally catching up on the new season of White Lotus, which is like, oh, so different and so much, in my opinion, better than the first one. And I loved the first season, but man, like, the new season is opening it up into like mystery territory in a way that really Works. It's, it's good.
+
+Speaker B: Very nice. I just watched the second episode of season 1 last night, so I'm like just—
+
+Speaker A: Season 1's really good.
+
+Speaker B: Getting on the, the White Lotus train.
+
+Speaker C: The theme song is just— it kicks.
+
+Speaker A: Are you up to date on White Lotus, Trinity?
+
+Speaker C: No, I've been watching Claire watch it. I haven't really been paying attention, but I, I need to catch up.
+
+Speaker A: It's really good. You know, I'm a big Aubrey Plaza fan for a lot of reasons, so, you know, I'm loving it. I like this new kind of like, uh, rapid-fire end to the interviews. I feel like it's a little more personable. I feel like it shows a little more character. It's a little looser. It's pretty good. Um, Chris, do you feel good wrapping it here? Do you feel like we got everything we needed?
+
+Speaker B: No, I feel good. I feel like despite rambling, well, at least I got to answer every question with a lot of words, so at least I said all I need to say.
+
+Speaker A: Perfect. Trinity, anything else from you? Any parting comments? Yellowjackets, big recommend?
+
+Speaker C: Uh, Warrior Nun. Watch it.
+
+Speaker A: Warrior Nun.
+
+Speaker C: Okay.
+
+Speaker B: I heard something about that recently.
+
+Speaker A: That was really good.
+
+Speaker C: It is. A new Buffy, but with tactical combat nuns.
+
+Speaker B: Oh, okay.
+
+Speaker C: Cool.
+
+Speaker A: All right. This is way off the rails. That was Chris McCully, the definitive Waiting to Be Signed interview. Thank you, Chris, for joining us and taking the time outta your day. I hope you had fun, man.
+
+Speaker B: Yeah, absolutely. Thank you for having me. It's always great to talk about yourself and get to know you too.
+
+Speaker A: Hell yeah. That's why we do the show.
+
+Speaker B: We love it.
+
+Speaker A: Cool. Thank you, Trinity, as always. Thank you everyone for listening. That's it for this one. We hope you all enjoyed. We'll be back again soon. Until then, later.
+
+Speaker C: Later.
+
+Speaker A: Okay, let me pitch you a show. It's Buffy meets Alias.
+
+Speaker C: Uh-huh.
+
+Speaker A: With what's-her-name from Alias.
+
+Speaker C: Uh-huh.
+
+Speaker A: What level of interested are you just on that?
+
+Speaker C: Is it Alias?
+
+Speaker A: Yes, it's Alias. Trinity's favorite show. I think one summer we binge-watched 5 or 6 seasons of Alias.
+
+Speaker B: Oh my god. I don't think I've ever watched Alias. I'm looking it up right now.
+
+Speaker A: It's the J.J. Abrams show from before Lost. It's got, uh...
+
+Speaker C: Jennifer Garner in her first big role ever.
+
+Speaker A: Huh.
+
+Speaker C: Um, that guy...
+
+Speaker B: Bradley Cooper?
+
+Speaker C: Bradley Cooper in his first big role ever.
+
+Speaker A: Yeah.
+
+Speaker C: Yeah.
+
+Speaker B: Interesting. No, I'll definitely have to check this out.
+
+Speaker A: If you like double agents, triple agents, and quadruple agents, then Alias is the show for you.
+
+Speaker C: Perfect. Yeah. OK, but what's the show?
+
+Speaker B: That's it.
+
+Speaker A: That's the show. Let's just have them— let's just do another season of Alias.
+
+Speaker C: Yeah, OK.

@@ -1,0 +1,351 @@
+Speaker A: Hi everyone, a quick note before we start the episode. We are extremely fortunate to have Cory on to talk about Atmospheres right as the project releases on Verse. We are posting this episode on May 9th so it can go live to all of you on the 10th, one day before the auction starts. As of today, the details of Atmosphere have not been locked in, and as you might be able to sense from the episode, the choices around quantity and curation are extremely challenging for an artist to weigh. We agreed it would be best to preserve the original interview and give everyone a chance to hear Cory's thoughts in the moment. and give all of you the most candid look at the process of releasing a project from the artist's perspective. We hope you enjoy. Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're here with Artist Cory Haber today with another fortunately timed interview. Cory's joining us just as a project of his drops on Verse this week. Super exciting to see that and great to talk to Cory and hopefully dig into that project a bit. Trinity's here as well, of course, a brief break from baby duty. How's it going, everyone?
+
+Speaker B: It's going great. Glad to have you, Cory. This is like very fortuitous timing. I love it when people fall into our proverbial laps.
+
+Speaker C: Beautiful.
+
+Speaker A: Yeah.
+
+Speaker C: Yeah. I'm super, super excited to be here.
+
+Speaker A: And we also just met not too long ago at NFT NYC. I'm not sure how you got wrangled into that group of 18 or so that we ended up taking to the pizza place in Red Hook, but I know the burning question at the top of my mind was, as a New Yorker, how did the pizza rate?
+
+Speaker C: I think the pizza was good. It was more about the conversation. I don't really remember the pizza. So as a New Yorker, you know, There's so much pizza to go around. So, ouch.
+
+Speaker B: It wasn't a bad pizza, right?
+
+Speaker C: It wasn't a bad pizza.
+
+Speaker B: Not memorably bad.
+
+Speaker C: Hard to find bad pizza.
+
+Speaker B: Oh, you'd be surprised.
+
+Speaker A: Baby Luke's, which is like the offshoot from La Colle, the famous pizza place. I just went there for the first time a few weeks ago.
+
+Speaker B: And it was bad?
+
+Speaker A: Yeah, it was like a $6 square slice that felt like it was— we went there right when it opened. And it felt like it was stale. It's like, how could this be the business? All right. Well, Cory, thank you again for joining us. Before we jump into your projects and learn more about what's going on at this first drop, for anyone who doesn't know you, let's get your background. What is your history in art and coding? How did you first discover blockchain, NFTs, and not fxhash? 'Cause you haven't dropped an fxhash yet.
+
+Speaker C: So my background, you know, really Just goes back to my childhood. I was always, I always loved art. I always loved making art. My grandfather was actually an art collector, so I grew up with these incredible, beautiful, sort of impressionistic, post-impressionistic paintings that he had collected. And I really fell in love with that style. And I always had this desire to make art. I was mostly an oil painter growing up. High school, college, graduating college, I continued. I just always continued to paint. It was always just a hobby, something that I just did. I made paintings and gave them away to family and friends. In college, I was actually an art major for one semester before dropping. I realized I'm never going to have a career in art. What a silly thing to think I could do. Really unfortunate that people have to make those decisions, but went down a more practical route. route, but continued to make art in my spare time. Later on, I guess this would be many years after college, I was in the technology field, but I wasn't a software developer. I was mostly self-taught up to a certain point, and I had really this desire to go back to school and learn software development. I had all these ideas in my head, and I was always hiring developers to build them, so I really wanted to build those things myself. I'm always making and creating. Taught myself electronics, taught myself how to solder, built my own 3D printer back in 2010, 2011. Had an opportunity when I was about 33 to go back to school to what I guess we would call a boot camp, a software development boot camp in New York City. And I was the oldest person in the class, which was really fun, and came out the other end sort of an entry-level software developer. And I honestly think The day I graduated, I somehow found Processing. Then I found Dan Schiffman and the Coding Train on YouTube. It literally like just rocked my world and changed my life. I had no idea that you could use code to make art. So I had this art background, this creative background, and just became a quote unquote software developer and realized I could merge the two together. So this was around 2013, early 2014. And I just started working in Processing and creating sketches. I didn't share a lot online. I had Twitter for a very long time, but I never posted. Very, very infrequent. Social media was just not my thing. I'm much more of an in-person type of personality. I find social media very, very difficult. But anyway, maybe a year or two later, I found Evil Mad Scientist and the Axie Draw, and then that really changed things for me. Since I grew up painting and making physical art, the idea that I could now write code, create art, but then turn it back into something physical—that was just the path I knew I wanted to follow. So that was maybe 2016, experimenting with plotters. But I had this burning desire to use a plotter to make a painting. I don't know why. Obviously, my background—you know—I didn't want to use pens as much as just. New materials. So I finally made my first painting by 3D printing this very rudimentary tube and dripped paint, basically sort of the first version, and it worked. And I just kept going bigger and bigger and bigger. And then I realized I need to build my own plotters because at the time the AxiDraw, in terms of traditional canvases that you might buy, 11 by 14 was the largest size I could use and I really wanted to go bigger. So again, my background, just sort of not being afraid of soldering and electronics. I built V1 of a custom plotter that was a complete and total failure, extremely unstable, did not really work. So then I retooled, and this is now during COVID built the first plotter that could do 30 by 30 inches square, raised it up on some 3D-printed legs and slid a canvas under it. It worked. Over that time, I had also developed my own paintbrush. that was better than just dripping paint. So I can 3D print the paintbrush and put a nib inside of it that you might find in a pump marker. Again, very rudimentary, but I hadn't seen it done before. Was able to control the paint flow by thinning it to sort of very approximate consistencies. And the paint did not just sort of drip and pour out, but rather I was able to make strokes. It just sort of evolved from there. And all of this Literally all of this was before I even heard of NFTs. I didn't even know what NFT was the first time I heard it. I had to Google like, what does NFT stand for? And I couldn't find an answer. It was really funny. I was reading Artnome a lot at the time. And even reading these articles, I still didn't understand really what was going on. That's sort of my journey from childhood to 2019, I would say.
+
+Speaker B: Wow. That is actually impressive. And I'm coming into this at least not having known any of this about you. It sounds insane. You must have had so much fun at Artmatr also, looking at the work that they're doing. It was so cool. Hopefully there's not too much overlap and you still have a sense of, you know, I did this first.
+
+Speaker C: It's interesting. I think they've been around actually for a lot longer than people realize. And I think they're now focusing more on generative art and NFTs and things like that. It's really cool to connect with people that have a deep history with plotters and with this idea of using digital code to make physical One-of-one objects, not very many of those people around. And so I think being in New York and having access to a lot of those people, just love engaging with people who think about things the same way.
+
+Speaker B: It must've been incredibly rewarding. Yeah. I've heard other people who are really into plotting speak about this, but it's about the idea of creating art, like while you sleep, right? That's the classic thing. When you've been creating art with these like painter plotters, Are they like fully generative? Are they in a pseudo long-form sense where you can just get it to run 10 times and you'll get 10 different outputs? Or are you tightly controlling the parameters?
+
+Speaker C: The way I started with generative art at the time, I was doing a lot of photography. Always loved photography. Just another artistic medium that I engaged in. I also love astrophotography. I studied a little bit of cosmology in college, the study of the universe. Nature and the universe is an overriding theme. of my work and what I like to create. So to answer your question, I started by taking my own photography and using it in my code to create painterly versions of the photograph. But every time you ran the program, you would get different color combinations, different contrast levels, and I would sort of select an output from that and break it down into, let's say, 10 to 15 colors, export out a file one color at a time for those strokes. preprocess them before sending it to the plotter one color at a time, and then building up the painting in that fashion over a week or 2.
+
+Speaker A: Cory, how do you think about the relationship between digitals and physicals? And I think for a lot of artists, digital artists, maybe it didn't occur to them, or they just didn't have the ability to do things like build their own custom painting plotter to output their work like that. You're so used to seeing it on screens, challenges displaying Do you think that if you had encountered NFTs around the same time that you started in this art practice, like if NFTs existed as a technology in the early 2010s, I feel like for a lot of people that's the substitute. And only just now here, almost 2 years into this gen art NFT journey, are we starting to see this trend back towards physicals. So what pushed you initially into like, oh, I really wanna make this a physical thing. I'm gonna build the machine. Like, I don't want to just live on my computer. And how do you think about the NFTs now?
+
+Speaker C: It's kind of a mind-boggling question. I don't know if I have a great answer. The desire to create physicals just sort of stems from my prehistory before NFTs of painting on canvas. That desire was there. Then there's this concept of NFTs and digital art, and I think in the earlier days, people didn't want physicals. In fact, people would say to me, I'm not interested. They would buy something of mine on Foundation, a one-of-one, would come with a physical that I would ship to you. And some people rejected the physical. They didn't want it. It was really interesting. And now you're right, it has sort of swung a bit the other way where so much digital art is being printed and so much is going into print size and resolution and how would this look printed and blown up. And of course you see Artmatr and big name artists working with Artmatr to create physical one-of-ones. So it's fascinating, the very quick evolution of this question, what do you do with an NFT? Which is something I hear from people who are not in the space, you know, friends and family, like, what am I supposed to do with this digital art on my phone? And obviously we know it's more than that, but people do want to live with art and they want to live with art maybe on a digital screen, maybe on a print, maybe a painting on canvas. And I think they can all exist at the same time. And that's what's so beautiful about this is there's something new, something different that we haven't yet fully defined and maybe never will, but we're all sort of working towards this common goal of more art globally in our lives. And I think that's a great thing.
+
+Speaker B: And again, when you're collecting so much as so many of us do, especially on the Tezos side, I think we're all a little bit of digital hoarders, but being able to display the things that are the most valuable and the most important to us, I think that's something that people are realizing more and more. time goes on, that this push to the digital side has been huge. And Will, you've been collecting a ton of different Plotter pieces. Maybe you'll have to go in and see what Cory has on offer. Will, will you do that?
+
+Speaker A: I bet a lot of the one-of-ones are way outside of my price range at this point.
+
+Speaker B: I mean, just stick with your computer. Don't get a new computer. Get one next year.
+
+Speaker A: You know, that's one of the great things about Tezos is like you can get something for $120. shipped from Europe, like a really cool plotter piece from someone, probably on an AxiDraw or some similar thing. And it's amazing what people are able to accomplish with the traditional pen plotter. It's like really cool.
+
+Speaker C: Oh yeah.
+
+Speaker B: Shifting gears just a little bit, because so much of your early plotter work was really to create this style that was familiar to you as someone with a painting background and to be able to really generate that effect physically, but through code. We see this come through in your non-plotter work as well. You know, it all really falls within like this quote unquote painterly style that people have been clamoring for, especially the last year or so. So was that purposeful when it comes to the interpretation of your artistic style into the digital space?
+
+Speaker C: Purposeful in a sense. Early on trying to figure out what is my style. And I think it's easy to look around and see what others are doing and where are others finding success. But for me, it ends up being what's the art that I would be happy with collecting myself. And I think you have to be true to yourself as an artist and not try to follow trends and not try to look at what others are doing and how it's selling. And I'm just going to create what I like. And if people want to buy it, then that's incredible. And if they don't, that's okay too. But I have to do what feels right to me. And what feels right is this painterly style. So intentional, yes, but also I feel like it's just part of this journey from childhood through to today that impressionism, pointillism, representing nature through code is my path. And that's just what I'll continue to follow.
+
+Speaker A: That feels like a really good transition into the big piece that I think probably a lot of people listening know you for. I don't know if it was your, technically your first like long-form generative piece, but definitely the one that popped up on all of our radars being members of TENDER and stuff, was Seoul, which came out towards the end of last year, right? On Foundation.
+
+Speaker B: Yeah.
+
+Speaker A: 365 amazing pieces that were themed around different locations and times of day across the world. So to talk a little bit about the process of like, what was the inspiration for that piece? And then one of the most interesting things about it is that incorporation of real-world data. So like, where in that process did you decide to include that? What was it like bringing that into the on-chain aspect of it? And it's just so rare that you see someone working with data. So I'd love to hear the story.
+
+Speaker C: Maybe June, July, around that timeframe of last year, I think I had put 4 digital works up on Foundation. And all 4 had sold. And I'm like, wow, in 24 hours. And it was really wild. I'd spent a lot of time on them, and then I had yet to make any of the physical paintings, but they all sold. So now I have to make these physicals. And I was going to take a sort of a break from creating new work and just work on these paintings. You know, each painting taking up to 2 weeks and hand mixing every single color, 3D printing all the paintbrushes, buying all the supplies. It's just a a huge amount of work, which I love. But then while I was creating these paintings, Foundation reached out to me and I think they maybe had seen some of these sales and they said, hey, we're working on a new feature called Drops. You're a generative artist on Foundation. It's really unique. Are you interested in helping us launch this feature? Oh, and by the way, do you have anything nearly ready to go? So the answer was yes, I'd love to. And no, I have absolutely nothing. I had about 3 months, I think, to work on it. Maybe a little less. So sure, I had to come up with some new idea. I think I've said this before in an article I wrote. I came across Andy Warhol. I think it was a sunset photograph that he silkscreened 632 times, and each one was a different color combination. So he made 632 one-of-ones from a single photograph. And I thought, wow, that's something a generative artist would do. It's incredible. And I worked with photography. I just felt like a kinship there with what he had done. And I had done some landscapes and I had done a lot of flowers and I wanted to do something a little bit different. So I thought, how about a study of the sun, its relationship to sort of the horizon, and do a sunrise series? So it started out that way. It was very crude at first and it started evolving. And along the way, maybe a month and a half in, I think I was nearly done, but it just felt a little hollow. Something about it, I just, I needed it to represent something more than just a pretty picture. It wasn't even 365 pieces at that point, it was maybe 400 or 200. However much I felt it could produce was going to be the number. I honestly don't know how I came across the idea or how I came up with the idea. I must have just sort of messaged my brother one day who is Someone I rely on very heavily to sort of provide critical feedback. I was like, hey, what do you think about what if these were real sunrises? Like, it just felt very natural to say something like that to someone. Like, what if this was a real sunrise? I bet there's APIs where I could say, if this was New York tomorrow, where would the sun be when it's 7:06 AM? Or what time does the sun rise? And then what angle will the sun be 2 minutes after? It was just like those questions. And then could I find that data and could I pull it into the code and have it actually influence the piece? That's how it came about. The answer obviously is yes, there are those APIs. I think I had to use 3 different APIs though. And then I had to use it, I think a separate API just to calculate daylight savings around the world because every country either does observe or doesn't and It could be different times of creating a list of cities, getting their latitudes and longitudes. And then obviously it felt natural to say this should be 365 pieces, one for every day of the year. And let's do 2023 because it wasn't yet 2023. So every sunrise would be a future moment in time captured that someone could collect, hopefully, and then reference later on. The project could sort of live on for a little bit longer. And maybe people would find it interesting if they minted something and it was the city they were born in and haven't been to in a long time, or a date that was meaningful to them in some way. That was my hope and my intention, but I didn't know if others would connect with it. I don't think I put it out there that this was my intent. I think I promoted it starting only 2 or 3 days before it released. I'm very bad at promotion. So yeah, it just naturally took on a life of its own and it was an incredible experience for me.
+
+Speaker B: And one that people really resonated with. You know, you didn't talk about that aspect as part of your promotion, but it does seem to be one of the big things that people really glommed onto. It's the personalization and the found personalization of something. And you're right, it's across time, it's across space, and that's a beautiful thing.
+
+Speaker C: I'll tell you, I have several DMs where people were quite emotional. One person who actually minted a date that was very special to them. Lots of people trading for location and date that were very emotional. Some people saying, you know, I haven't been to see my family and they live in this city. I haven't been there in 20 years, you know, or something like that. Or this is the day that someone close to me passed away. To me, that's the point of art. To evoke some sort of emotional response, positive or negative, but to have some sort of emotional connection or emotional response to something that an artist puts out there. I think that's maybe what it's all about, or a large part of it.
+
+Speaker B: From an intentionality point of view, was there a reason you went with the sunrise instead of the sunset? Obviously sunrise is hugely impactful, but I just wanted to see if there was a reason.
+
+Speaker C: There wasn't an intentional reason. There wasn't really even a debate that I had with myself about should I do a sunrise or a sunset. I think sunrise is maybe more akin to rebirth and something new versus sort of the obvious duality of a sunset, something ending. Maybe that played into it. I'm not 100% sure.
+
+Speaker B: I think you have a sequel there then. Maybe. And then you can do one for moonrise as well. Just keep the, keep the party train going. Yeah, these ideas are free.
+
+Speaker A: Yeah. So in what way is the data influencing the piece? Like, I see so much diversity in terms of like just even the shape, the size of the sun as it appears, the palettes. Like, there's even like, you know, little bits of distortion in there. I see some of the traits, right? Like, obviously you have the location and date and time, but also angle and things like that. Where is it manifesting in the work itself?
+
+Speaker C: The city being selected first. It's been a while since I've looked at it, but I believe calculating for that city when is the sunrise and then randomly picking an angle of the sun. So that would be, you know, where is it going to be above the horizon and then at what time. I mean, that was hard, calculating the exact time that it would be at that angle and then trying to replicate that Visually. So all that would happen first, and then it would influence where everything gets drawn. I didn't do anything around palettes and time of day. Didn't have enough time to get that kind of a connection done. I think it makes sense, but I ended up not going down that road. And then the variety, like you said, the size of the sun, which is really— the size of the sun is actually the same in the code. The sun never changes size. It's more of like a zoom or a scale. I approached it much like a photographer would. When you look at pictures of sunrises and you see people, sometimes you have this, you know, big horizon and a small sun that's really far away. And if you were to take a camera lens and zoom in, the sun doesn't change size. So it seemed sort of strange originally. That's how I had it in the code, you know, this orb changing size, but it felt unnatural. So what if I kept the size the same and sort of scaled the zoom level? you were viewing it at like a photographer would. That's how a lot of that was, uh, was influenced.
+
+Speaker A: Looking through the pieces in preparation for the interview, just seeing all the amazing palettes, maybe that's something that you don't want the data to influence because you want to make sure that some of that stuff comes out. Like, you picked some really amazing combinations there. Looking at the pieces up close, the brush, like, the strokes are actually quite fine, almost looking like they could be done on a pen plotter with a lot of work in some simplified way. There's also a lot of blend there too. So is that why you kind of chose to go through like a printer route with Tender using their print service?
+
+Speaker C: So this is actually a really great question because my original intention for Soul was that each piece would be plottable and I would turn them into physical one-of-one large plotter paintings. It didn't end up happening. I hadn't yet figured out how to make paint strokes that small. And whenever I would make the paint strokes match sort of my capability at the time, it lost a lot of emotion, it lost a lot of feeling. So I went with finer and finer strokes, not super fine, but it's still possible. I mean, technically every single soul is plottable. I think all of my work, the way I approach it is it's plottable. Whether it's practical or not is a different story, but it's all plottable. So I think there was a Tender member who has been very kind to me and offers lots of assistance, someone who I've become very friendly with, and he introduced me to Adam at Tender. I had decided to go a print route, but I didn't know how I could fulfill orders. So I got hooked up with Adam and he set up a Tender print shop basically for me through his printing service, and that's how that all started.
+
+Speaker A: I have a good guess as to who that patron is.
+
+Speaker B: Is there any consideration to do commissioned works of this in the future if people are planning to get married on a specific date or, you know, a celebration of a birth or whatever?
+
+Speaker C: I actually have 2 already, people who have reached out. Commissions may be the wrong word. It's, uh, people who have collected and have some new date coming up that is meaningful to them and have said, hey, is there a generator? Is this hosted somewhere with the code where I could generate a soul for my location and date and pick a soul that I could print? I don't have that, but I offered to these 2 individuals, I will take care of this for you. You know, it's not going to be minted, and I don't think it needs to be. I think it's just something they want for themselves to hang. privately that has meaning to them. So I'm happy to do it. But yeah, the thought has crossed my mind. What if people could generate their own souls? What would that look like? And what would that be? Would people find that interesting if it took all this sort of mystery out of it? So I don't know, these are open questions at the moment.
+
+Speaker A: Special request only kind of thing. Gotcha. That is a pretty good end cap for Soul there. Let's talk about Atmospheres with Verse, which definitely feels, from what we've seen of it, we've gotten a very small preview of the project, connected to SOL, a bit of the other side of the coin maybe. So can you introduce us and everyone to the project before we jump into our questions?
+
+Speaker C: So Atmospheres is definitely an evolution of some of the concepts of SOL. While SOL is sort of exclusively a sunrise series and there's a horizon and reflections and all kinds of things, I wanted to go a bit deeper and maybe a little even more abstract. Atmospheres is more of skyscapes and definitely more emotional, I would call it, color palettes. And time of day is maybe more represented with this. So, you know, there's a lot of familiarity to Seoul, but more painterly and slightly different emotion from it.
+
+Speaker A: I'm definitely seeing some slightly darker vibes, although not all of them. Again, only looking at a small set of outputs, not all of them feel distinctly nighttime or moon. But also, I guess you can say the same for soul, right? Not all of them feel— some of them can be on very dark backgrounds. The sun is not necessarily a yellow color. What is kind of the story then, the origin story of the collaboration with Verse? Like, how did this project end up on the platform? What was it like working with the team?
+
+Speaker C: The way it sort of came about is, uh, Jamie reached out to me, it must have been last year after Seoul. I started getting a couple of people reaching out to me interested in doing things. And what was interesting about Jamie was he was very interested in doing a physical gallery show of physical plotter paintings along with digital-only work. And for me, that was, you know, that's like sort of the ultimate, to be able to do both in a single show. So as I was saying with Seoul, the sort of technical details of how to pull it off were not quite there. Over December, I had built this quite enormous plotter that is behind me. Quite ridiculous and seemingly impractical, but also not. It can do paintings 50 by 50 inches square and anything in between. So the goal was I was going to use this plotter to make paintings and digital. So the paintings are still a work in progress, unfortunately, and hopefully there'll be a part 2. to this show, which is still to be determined, but that's sort of how it all came about.
+
+Speaker B: I mean, is there anything else that we should know about this particular piece? I mean, obviously SOL has that very big connection with the time of day, the date.
+
+Speaker A: Data. Yeah.
+
+Speaker B: Data. Is there anything or any Easter eggs that collectors or appreciators should be aware of as they go into this piece, or anything that you can talk about?
+
+Speaker C: That is still a work in progress. Coming down to the wire, but working on a few things and we'll see.
+
+Speaker A: Given that this is gonna be edited, if you wanna hazard a guess as to what it's gonna be, we can always take it out later.
+
+Speaker C: It's been such a struggle to like not do the same thing. And then it's obviously similar sun. Trying to figure it out. I'm not sure if it's gonna have any connection to time or, or location. Is there other data? I don't know. It's gonna be a real down to the wire thing for this. It feels like it's important to do, but yeah, it's been a little bit of a struggle to like not do the same thing. Part of me just wants to be like nothing, but I don't know if that's gonna like be a disappointment.
+
+Speaker A: It's about expectation, right? Like, do you feel like because the piece does feel so connected to Seoul, do you think there might be a collector expectation there that there's going to be that something?
+
+Speaker C: There's like different ideas that I'm playing with where could the collector add something almost along the lines of fx and Collector Curated and how the collector plays a role, but is there like a simplified something that the collector can do before minting that isn't too onerous to influence something?
+
+Speaker B: And something that could be implemented on Verse relatively quickly.
+
+Speaker A: Yeah, they're good at that.
+
+Speaker B: With that point, will this be fully long-form generative or will it be artist-curated set of outputs that we've seen so often from Verse?
+
+Speaker C: This is long form, not collector curated. I almost, I'm afraid to say this out loud, but it's, this is actually my first. This will be my first long form where no one knows ahead of time. I think everything I've done so far has been curated, which I love to do. A little terrifying, to be honest.
+
+Speaker B: Let's talk about that because, you know, I think that's something that a lot of artists have discussed, especially over the rise of long form generative art as being the pinnacle of generative art within the last couple of years, you know, talking to other artists who've been doing this for, you know, at least as long as you have, there was no opportunity for like that long-form creativity until really like the blockchain came along and it was such a natural fit. Obviously things could be long-form before, but always with an angle towards the curation. How has it been transitioning into that side of things other than terrifying?
+
+Speaker C: It's not that it's maybe hard. to transition into it. It's more with the way I work, there's just so much more randomness, I feel like. And I don't even mean like noise functions or things like that. I find it comforting letting things run wild. That's where you find these outliers that would never have happened if you had to narrow your parameter space in such a way to make everything look good or a certain way. That's been hard for me. Like, how do I achieve that same level while also not letting things run wild? So that's definitely been a challenge.
+
+Speaker B: And it also takes away a little bit of the beauty of that algorithmic space.
+
+Speaker C: Yeah.
+
+Speaker B: There's the happenstance where you can be surprised. And I guess if you're doing a long-form generative project, if you're getting surprised when it comes time to mint, that can be a bit of an oops, right?
+
+Speaker C: Yeah. I mean, with Soul, I didn't even have a defined palette. I wanted to see how these colors would just sort of mix on their own. I had a single defined palette of X number of colors. I forget how many were in there, probably less than 100. And then allowing some random number of those colors to form a palette and then to use those colors in a certain order and the way it sort of randomly assigns color to a stroke and see what would happen. That's what was cool with SOL. So now With atmospheres, I can't be that wild with color, but it's more controlled but still known even to me. When you pick the same palette 100 times, you're not getting the same importance of color, if that's a way to say it, each time. So it can lead to extremely different outputs, and you could look at the same palette and say these didn't come from that palette, but they did. So hopefully that works out.
+
+Speaker B: Yeah. And we've seen that approach from some of our favorite artists as well. You know, Anna Lucia has that approach with her color palettes as well as Melissa Wiederrecht. And sometimes it's, that's how you grow your palette over, over time is, you know, you take away from it, you add to it. But it definitely opens a lot more flexibility within the space of outputs rather than being so horribly defined. So it's kind of a middle ground of sorts. It's very nice.
+
+Speaker A: Yes. Hearing you describe some of your fears and challenges with the process, it actually sounds like Doing a collector curated thing could potentially, not to influence your choice at this point, but could potentially solve for some of that, right? Especially considering this is going to be another first for Verse, like this, like multi-day auction, top X highest bidders, as is typical for Verse, doing a whole new method of distribution, allowing people during that multiple day timeframe to spin through and start collecting seeds that they're interested in minting. could actually synergize with that, right? Because if you like stumble into a seed, you might all of a sudden like up your bid a little bit to make sure that you definitely get one. What was the process like to come to that distribution mechanism? Was that something that you brought to the table? Was it a Verse suggestion?
+
+Speaker C: So that was a Verse suggestion. I've been so focused on code and getting everything as buttoned up as possible. Maybe we'll talk about this sort of market conditions at the moment. But I think what's really cool about Verse is they're just constantly pushing the envelope and not doing the same thing over and over again. And I think that certainly adds to, to like a collector to have these different experiences in minting, just like IRL minting is a thing and provides such a powerful connection to people. When you have an experience connected to art collecting, I think, versus trying to do the same sort of thing where it's online as opposed to IRL, but to make it a little bit more of an experience. I'm down for that.
+
+Speaker A: I think it's super interesting. I'm actually really excited to see how it's going to play out. We had a similar thing recently with Octet, which was a plotted piece being sold by Marcel Schwittlick. He took the pieces of that performance and put them up, put up basically a token on Object that was like redeemable for a random one that he produced. And it was a 24 hours top 60 bidders. That last hour was stressful.
+
+Speaker C: I was one of the top 60.
+
+Speaker A: Same. It felt like that works really well in the market right now. And in particular for that piece, right? Getting like a 1 of 1 from Marcel, it still was an incredible deal. So.
+
+Speaker C: Yeah, I saw that and I immediately jumped on it. That's now my 3rd piece that I own physical from Marcel. I think it makes sense right now, sort of timing-wise. I think I'm giving up some perceived control of where I set the price and others then have to get there or have their own expectations. Should it be higher? Should it be lower? You know, it's like all these questions maybe a collector asks. Am I overpaying? I guess. Am I worried that I won't be able to sell? Like all these things that different people or people who say, I don't care, like I love the artist, I would pay that price. So all these different things, it's sort of removed and put out to others to define. It could be fun. It could be interesting. And I think it'll work.
+
+Speaker B: Was there any consideration for like that sort of release mechanic, like in specifically the market that we're having? Is that sort of a response to that? The ability to set the price from the collector base is going to be more conducive to collecting, or was it just purely experimentation?
+
+Speaker C: I think it's both. I think it's an idea that can work in any market. But I also think it takes into consideration a lot of what's going on. It's a combination of both.
+
+Speaker A: I feel like that's a great transition into talking a little bit about your sense of the market right now as an artist. Something we've noticed is not just a slowdown in artists, but also a slowdown in like projects that you think might have been out minting out and just floors dropping, surprising offers, especially on fxhash. But at the same time, this mass proliferation of platforms and groups And demand for bigger artists, like, which I would put you in that category, to put your work here, you know? So like, for example, I know you released something with Proof recently. Obviously this thing with Verse was in talks for a long time, but like, I imagine you get a lot of inbound interest in, hey, can you do a drop here? I have a new platform or I have this new thing, or I'm trying to— so like, what does that feel like from the artist side? What are your hesitations? What makes you want to go? do something for a group like Proof, or for, say, a new platform that might emerge in the next 6 months that's looking for a great Genesis artist?
+
+Speaker C: From my side, it's why would it be good for us to work together? You know, it should be mutually beneficial. So for me, you know, obviously Verse, physical paintings in a gallery, very attractive of an idea for someone like me who makes physical one-of-ones. Proof was sort of the same. There was a physical gallery component in New York City. The first time I ever hung art in a gallery anywhere in the world. I mean, it's just wild. So I think things like that, from my perspective, interest me when someone might approach me. But also, like you said, there's so much now, so much demand from platforms. And but you also have this idea that we could now operate on our own as an artist. Like, I can make these choices. I can say I'm going to release my work on my own contract. I'm going to use Foundation.
+
+Speaker B: Yeah.
+
+Speaker C: You can also do that. So I'm trying to take that into account because I haven't done a lot of plotting because I've been doing longer form or longer curated projects. So I kind of want to get back to plotting at some point this year and then making that my focus again.
+
+Speaker A: Plus you have a day job, so you can let the plotter go while you work, right?
+
+Speaker C: It's a little loud, uh, if you've heard—
+
+Speaker A: Zoom calls. Yeah, yeah. Has that into consideration at all, like with the success of SOL and other projects you might have on the horizon? Like, is there the potential for this to become full-time for you?
+
+Speaker C: It's not even a question that if I could, I would. I feel like I'm living someone else's life right now. My whole life wanting to do these things, but I never found the right community. Or, you know, I made paintings, it was sort of a thing I would go in and out of over time. I didn't have a consistent art practice. And it wasn't until learning to code and learning about Processing that it became an everyday obsession. It just took a lot of time for me to sort of get into this space and this idea that I could ever make it full-time. But yeah, if I could, I would.
+
+Speaker B: And I think that's one of the downsides of being in the greater New York City area is that everything is just a little bit harder.
+
+Speaker C: Yeah, that is true. But, uh, you know, it's the struggle that defines us. So I don't necessarily see them as, as like roadblocks, just challenges that you have to overcome if you want that thing. Just keep going.
+
+Speaker B: So how much of your spare time do you spend on this then? It's a very time-consuming hobby, I assume.
+
+Speaker C: I feel like I've moved past hobby. I'll wake up most days 5:30 AM. I'll write code until the kids wake up, which unfortunately is around 6:30. Sometimes earlier. Then I'll work my day job and then start up again 8 PM to around 11 PM. And that's most days.
+
+Speaker A: So you're opting into the sleeping schedule of someone who has a newborn, essentially.
+
+Speaker C: Hey, I've been there. I've been there a few times now. So, you know, very normal for me.
+
+Speaker A: I feel like we've got a good sense of you and a lot of your projects. And let's talk some rapid fire, some less specific questions, maybe. One that we love to ask artists is, what do you like to collect? Do you even collect on fx hash? First of all, do you do any Tezos stuff?
+
+Speaker C: I'm surprised you didn't look me up.
+
+Speaker A: I looked up your ETH collections. I know, I know you haven't released on fx hash. That's another question we have. Is that a consideration for you at all in the future? Maybe we can do that then.
+
+Speaker C: I have collected on fx hash and Tezos in general. In fact, the very first place I collected and minted was Hic Et Nunc. I started out over there. It was only until someone gave me a Foundation invite that I had moved over to ETH. Or I guess I did, I did one thing directly on OpenSea. I was mostly on Hic Et Nunc and OBJKT. I do collect, not frequently and not for any specific reason. We all have some financial constraints and just have to take it easy sometimes. But when I see something that I think is just above and beyond, that's when I try to jump in on primary. Which happened recently. It was something that I found so beautiful and so simple— not simple, but the composition is the simulation of charcoal on paper of flowers. I reached out to the artist, never spoken to him before, and I offered. I was like, you can use my plotter. Just like, send me your file, I will plot it, and I will send it back to you. I will ship it to you in, I think, South America. That's how I like to sort of stay involved, is just as an artist, I find other artists that I like.
+
+Speaker A: Yeah.
+
+Speaker C: I collect and try to reach out.
+
+Speaker B: Looking through your collection right now, and I have to say that given that it's a little past lunchtime, your 2 pieces from Marinara Moments are looking exceedingly delicious, and they seem to be the only, uh, non-generative work here. We don't need to go into detail about Marinara Moments. I just wanted to call that out and see if there was a brief story.
+
+Speaker C: No real story. We connected a little bit over Italy and food, and I Had the pleasure of meeting him a few times now in person.
+
+Speaker B: Sidebar there, I was looking at your own. It's clearly the most delicious piece in your collection.
+
+Speaker A: We know that you've collected some Schwittlick stuff and you've gotten some physicals. Is there any other artists that you want to shout out or celebrate?
+
+Speaker C: I'm trying to collect more plotter work for sure. Like Andrew Strauss, I'm a huge fan. He's constantly pushing what plotters can do. I mean, there's so, there's so many. I'd hate to sort of just single any one individual out, but just really interested in trying to spend more time finding physical one-of-ones that I can collect.
+
+Speaker A: What about fx hash though? Is that something that's on your radar ever?
+
+Speaker C: Not only was it on my radar, I was building a project for fx hash last year, right before Foundation. I had no connection to any platform at that time. And I had only basically released most of my work on Foundation and I was working on an fxhash project. And that's when Foundation reached out to me. SOL happened, Proof happened, Verse happened. So it's absolutely something I'm going to do, just trying to find the time.
+
+Speaker A: Cool. Should we do some rapid fires, Trinity? You want to throw one out?
+
+Speaker B: Yeah. I'll steal Will's actually for the moment. Imagine this, it's 5:30 in the morning. You woke up, the kids are asleep, you're hard at work coding your little heart out. Now, what are you listening to?
+
+Speaker C: It will range between Rage Against the Machine, Grateful Dead, and classical music.
+
+Speaker B: Those are all classical music to me, right?
+
+Speaker C: Hell yeah.
+
+Speaker B: Beautiful compositions.
+
+Speaker C: Throw some Chili Peppers in there.
+
+Speaker A: Where do you stop in the Rage Against the Machine catalog? Are you like a first album only kind of guy, or will you go all the way through?
+
+Speaker C: I will let Apple Music decide and I just say, put this on and that's it.
+
+Speaker A: It's like a station seeded off of Radiance of the Machine. It wouldn't just be exclusive. Yes, exactly.
+
+Speaker C: Yeah. And like with Chili, it's just like too much to go through. So I just say, put anything on from any album and that works for me.
+
+Speaker B: If you ever want an IRL radio station recommendation, I do have to plug Alt 92.3 here in New York, which, you know, just yesterday I was in the car and Danny California came on and I was just like, yes, exactly. Sorry, Vesper baby. We're listening to this real loud right now.
+
+Speaker A: Babies can be very sensitive.
+
+Speaker B: She didn't seem to hate it. She just hates Janet Jackson. That's the one thing I've discovered.
+
+Speaker C: That's too bad. But if it's 5:30 in the morning, I might be more towards the Grateful Dead classical music. And then later on, post-work. Yeah. Chili Peppers Rage. Very cool. Here's one then.
+
+Speaker A: that Trinity usually asks, but I'll ask it in this case. Who would you like to hear us interview next? Can be artists, collectors, platform owners, anyone just generally in the ecosystem, or even outside that you think might make for an interesting guest.
+
+Speaker C: So recently, during NFT NYC, I was at Artmatr. Obviously, you were there as well. And I thought one of the most interesting panelists that I saw was someone from the traditional art world. I think we need more critique and criticisms from other voices. So I think it would be really interesting to hear from people who have been in this space, the traditional art world space, for, for a long time, and what are their views, positive or negative, about what's going on. I think that would be fascinating to listen to because I think a lot of people were really fascinated to hear what this individual had to say, which was not all positive. I saw a lot of people nodding their heads.
+
+Speaker A: Definitely something on our radar is trying to get traditional art people on, but We have so little exposure to them, like, we don't even know who to reach out to. But considering that person was on that panel, then maybe that's a great place to start.
+
+Speaker C: I think there were 2 people, right? I didn't know their backgrounds. One person was on a screen, he had this great story that he told, and maybe he was traditional art world. But then there was a female on the panel who was definitely from the traditional art world, and she was really giving a lot of positive and negative comments.
+
+Speaker B: In that sense, do you have any critiques of the NFT art space?
+
+Speaker C: Someone recently said to me there's a lot of toxic positivity, and I was like, oh, I kind of agree with that. It's an incredible welcoming community. It's okay if someone were to say to me, I don't like your art. I almost want someone to say it. I don't know if that makes sense.
+
+Speaker B: There's no room for improvement. There is no critique.
+
+Speaker A: Yeah.
+
+Speaker B: Everything is just— it's love and light, which is great, right? But it kind of I don't know what the best word is.
+
+Speaker A: Disingenuousness?
+
+Speaker B: Yes, that can be very disingenuous, but it's not one that is working towards improvement. Where is the theory? I think that honestly, we hear most of that from the people who've been in the space for 20 or 30 years and who've been there, seen that. Listening to KenConsumer and Marius Watz talk about their experience within the art world and how people aren't They're just reinventing and not knowing that they're reinventing. And so there's the lack of context, right? That is something that's really big.
+
+Speaker C: Yeah. It's really funny that you say that. So I made a tweet about my encounter with my accountant who, upon the first time I met him in person, pulls out a stack of punch cards and then pulls out a folder filled with his plotter art from 1972. And he says to me, oh, these are very simple. They're collapsing polynomials. And I was like, wow. And I took a picture, I posted it, and Joshua Davis starts writing to me publicly. And then I think he posted some of his work and he's like, this is a collapsing polynomial. This is why I never say that I'm the first to do something. And we're talking about someone who in 1992 was doing this, and here's someone from 1972. So yeah, sometimes we all think we're the first and we're definitely not.
+
+Speaker A: Beyond that, critique can be— it's definitely something that we struggle with on the show Because especially covering FX Hash, right, where there is no barrier to entry, and for a lot of people it's like one or two projects taking off is the dream that maybe they've been searching for, for who knows how many dozens of years in some cases. I finally found an audience for my work, and you, even if it's not something that you care for or you think it's just a flash in the pan, it kind of almost feels too hurtful to say, are these going to stand the test of time? I don't know. There's so much kindness in the community that it can be difficult to make those critiques.
+
+Speaker C: I look back at some of my work and cringe a little. That's what it's about. It's about a continuous process of improvement. So if you aren't cringing at the work you made a year ago, 2 years ago, maybe you're not trying hard enough. That's one thing I do to sort of self-critique. I want to constantly be improving, and I can't do that if everyone's just always happy.
+
+Speaker B: Your own happiness with your work is the other thing. Yes. We're always our own worst critics or our best critics, depending.
+
+Speaker C: To go back to an earlier question, why would I work with one platform or another? I think the amazing thing about Verse is the incredible talent on that team. And I have been given feedback that no one else has given me. And when I say feedback, I mean, yeah, that's not good. And I'll be like, oh, really? Am I looking at the same image? And I'm like surprised. And then I let a few days go by and it's like, yeah, I should switch gears a little bit. So I think what they do is incredibly valuable for artists that I haven't yet experienced as much with others. But I welcome the criticisms and the feedback critiques.
+
+Speaker A: All right, well, get in the DMs everyone if you don't like something that Cory's made. He's literally begging for it.
+
+Speaker B: I just hear that like We just need to be meaner.
+
+Speaker C: Yeah. No, no, no, not meaner.
+
+Speaker B: Well, not meaner. Um, how about as honest as possible?
+
+Speaker C: Yeah, but like you said, it doesn't have to be public, right? It's a fine line to message someone you don't know and say, I don't like your work, but here's why. Maybe some people would appreciate that. Maybe some people would be horribly offended, and you don't know. And we're all operating in this online universe where Most of us have never met, don't know each other so well. It's not easy.
+
+Speaker B: I guess that's also a part of that cyclical self-improvement cycle where so often, especially within the NFT space, which it moves a million miles a minute, sometimes less so right now, we're slowing down folks. You know, oftentimes I think artists and, you know, I'm putting a blanket statement out there, it doesn't need to be true for all artists, but there's this sense that the market determines the quality of the work. And that if something doesn't sell out, then that's the sign that you need to improve. But if you get flipped 10 ways till Sunday, things do a 10x and go up, then you're just great. Nothing needs to change here. And that isn't necessarily true. And that, you know, there's the opportunity to reach out and ask people for that critique, ask people to improve before or after you release.
+
+Speaker C: It's a great point. Artists should be also the ones reaching out to ask for important feedback. I think what an honor if you had no pieces in a collection on the secondary, not the other way around. Doesn't that mean people value what they purchased, are holding it, and are not interested in selling it?
+
+Speaker A: SOL is very close right now. I think there's only 5 listed when I looked on, at least on Foundation.
+
+Speaker C: I don't know if it's in DEX. 5%, maybe 5%.
+
+Speaker A: That's only on Foundation, so maybe it's indexed. Oh, and foundation, more sales.
+
+Speaker C: Yeah, there's such a diverse range of collectors and a diverse range of motivations. And listen, it's all, it's all okay. We all do things for different reasons. And this technology has opened up so many different avenues for so many different people. So you can't really criticize too much different motivations for people. But once you put it out there, it's out there, and people will decide what to do with it.
+
+Speaker A: Cory, as we wrap up here, getting to the end of the episode, Do you want to turn the tables? Is there a question that you want to ask us?
+
+Speaker C: I don't think I'm knowledgeable about much in this space, to be honest. I'm curious your takes on the market, what you foresee happening in the next 6 months to 5 years.
+
+Speaker B: That's a really long timeframe.
+
+Speaker C: Okay, maybe not 5 years.
+
+Speaker B: In the real world, it'd be— no, even 6 months from now, that's like, what do you think is going to happen like 10 years from now to 100 years from Well, let me rephrase.
+
+Speaker C: No one can predict the future. And anyone who says, here's what's going to happen, you should take that advice and throw it away. But what's your confidence that in 6 months to 2 years, we'll all still be here?
+
+Speaker A: 6 months high, I would say. At least for the show and for a lot of artists. What do you think, Trinity?
+
+Speaker C: And then I'll give my opinion also.
+
+Speaker B: I was going to be a little bit more on the bearish side of things, just Until recently, when we had the chance to interview Seth from Bright Moments, it came out a week ago. And there was something that he said that really resonated with me is that if something has happened once, kind of died down and then happened again, there's a really good chance of lightning hitting that tree at least a few more times. And so, you know, within the NFT space, it wasn't a one and done, it was a one kind of done. And then back for more. And so I think that blockchain is only seeing the initial stages of adoption. And as its use becomes more and more normalized, whether it's using native cryptocurrencies or not, or just people paying with USD and then things getting sent to a crypto wallet, I think that we're just seeing the beginning. We'll see whole new patterns of behavior emerge. And I'm thinking that we'll have way more people in this space in 2 years. Will it be as pump and dumpy and hyped as it is now? I don't know, but it's a new paradigm. That's the thing I do know.
+
+Speaker A: Yeah, definitely big hopes that the pump and dump scammy stuff dies off. And as bad as like a lot of the things that are going on, particularly on the ETH side with the royalty evasion and the race to the bottom amongst platforms, token farming incentives and stuff with Blur, it is quite possibly killing That entire genre of project or making it so that only real projects persist and can exist, which is good. A lot of that stuff is just really toxic. It contributes to the challenges that we have on the art side, trying to legitimize the technology as a conveyance for art, as a way to own it, as a way to experience it. So I'm all for that stuff dying, even if it means our bags might be impacted. As a secondary effect in the short term. I think we might see a lot of artists leave the space, a lot of people who were considering or maybe had gone full-time and now can't sell to the extent that they did in 2022. But maybe they'll be back when things get better again. And same with platforms. I'm personally concerned about the issue of where are all these platforms going to get the fees that they need to sustain and interest in investment during this down period, like to continue their runway. And every time I see another one pop up and I see 5 fx hash artists jump over there, I'm like, fx hash is big, established, like they need your fees. You know, like I kind of feel like we should be rallying around the few that we really like and not going every different direction. But I also can't fault artists for making choices for themselves and doing what might make the most financial sense or be the best for their own individual careers. So it's a very difficult tension. I do hope that with the next upswing, things will be a bit more art-focused and we'll all just be like really, really happy to have been here throughout the entire— this entire trough.
+
+Speaker C: I agree with all of that. It almost feels obvious. It's like a tulip bubble of 1625, whatever year the tulip bubble happened, where there's all this excitement, there's all these new people, there's all this money coming in, then there's some Reality that there's got to be a correction. And then there's this long road to some form of normality. And I think, Trinity, like you said, maybe it's not ETH, maybe it's not Tez, like, you know, maybe it's fiat currency. No one knows, right? But are people going to stop making art? No. Is the global human desire to live with art going to end? No. So I think it's unlocked Pandora's box of this creativity around the world that had no outlet. And you saw this explosion of new work, and now there's going to be a leveling off, but I don't think it's ever going to end.
+
+Speaker B: I think that might segue to the next rapid-fire question that came to mind while we were talking. It's top of mind for most people these days, and that is the proliferation and the improvement of AI art. And as somebody who has a lifelong interest and practice in art, What do you think of that particular medium?
+
+Speaker C: I approach it the way I approach the idea of code or plotters. It's a tool to express human creativity. We are in an age where we are now finally using advanced technology to create art, and there's a market for it. So that's how I look at AI. There are artists creating their own models, training their own models, training them with their own datasets. Pushing the bounds of what we call art and what we call creativity. Again, it seems so obvious. Street art was not art. Graffiti, not art. Impressionism, not art. So to say AI, not art, or to put so much negativity on AI artists, I think is very unfair. It's a tool like a paintbrush. It's a tool like any other to express human creativity. I think it's fascinating to be living through this time. And seeing these things play out, because I feel like I've only read about it and now I'm living it. You're living it. And it's really, really interesting.
+
+Speaker B: As things proliferate and become more popular and we see more and more people entering the space, whether it's through generative art, AI art, literally any type of art, what makes art good? And that also goes back to our question around critique.
+
+Speaker A: Simple rapid-fire question there.
+
+Speaker B: Simple rapid-fire. It's rapid-fire.
+
+Speaker C: What makes art good? Emotional connection.
+
+Speaker A: Succinct. I like it. Same answer that Lonely Boy gave on our interview with him, more or less. Common theme there.
+
+Speaker C: Positive or negative. Does it make you angry? Then maybe that's good art also.
+
+Speaker B: What if it makes you bored?
+
+Speaker C: Well, that's probably not good.
+
+Speaker A: That's the exception.
+
+Speaker C: I think a strong positive or negative emotion is better than a I'm bored emotion.
+
+Speaker B: So indifference is to be avoided.
+
+Speaker A: Yes. Well, Cory, as we wrap the episode here, other than Proof, other than Verse, other than potentially an fxhash drop coming some point TBD, anything else that you want to preview? Anything that you're excited about? Art Blocks, any other platforms that you might be releasing on this year or next?
+
+Speaker C: Well, I mentioned Adam from Tender earlier. That's all I'll say about that. Like I said, I really want to spend some time plotting, thinking of new ideas, new materials, maybe not just paint. What I love is building this big plotter and working at scale and seeing what I can do with it has been something I'm now longing for. I feel like I started out in plotters, I met people and they were like, plotters? Where's your long-form generative? And then I moved towards long-form generative and now people are like, are you still doing plotter work? I don't know, I feel like I'm either ahead or behind of some curve and I'll never quite be on the curve, but that's okay.
+
+Speaker A: You know, we're always looking for an artist to collaborate on a Waiting to Be Signed token, so that option is available to you as well.
+
+Speaker C: Nice.
+
+Speaker A: Once you're done with Adam, maybe. Well, thank you so much for jumping on, doing an episode with us. It was really cool to talk to you about this project. I hope everyone heads over to Verse. and checks it out, you'll have several days to bid and rebid and get nervous about where your bid sits amongst the cutoff. It's gonna be really cool to watch and hope you had fun on the episode. It was great to have you.
+
+Speaker C: Thank you guys both so much. Really awesome talking with you and yeah, thank you so much.
+
+Speaker A: All right, well, that was Cory. Thanks again. We hope you all enjoyed that interview. We'll be back again soon with another episode. As always, thank you, Trinity. That's it for this one. See y'all soon. Bye.

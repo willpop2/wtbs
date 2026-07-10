@@ -1,0 +1,553 @@
+Speaker A: All right. Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We have with us here today LeMonde2D, or as we'll call him on this interview, Didi. Another collector that you'll know primarily from the sales feed for a lot of his big sweeps of work and collecting on fx hash. We're really happy to have him on the show today to talk a little bit about his philosophy of collecting and just what's in his collection and just get a sense of his background. So welcome to the show, Didi. Thank you.
+
+Speaker B: So nice to be here and finally talking about the collection. We've been talking in the back, so.
+
+Speaker A: It's taken us a minute to coordinate it, but we're finally recording.
+
+Speaker C: It's finally worth it. It's so good. And we're so happy to have you on the show and just talking about the art. I think it's really fun when we talk to artists because it's a little bit of insight into their brains, but it's always a little bit of the, the mad scientist. What are you doing? How do you make this amazing stuff? For collectors, I feel that we are collectors too, and so we're coming more from the same space. Always happy to, you know, talk to our, I guess, our collecting brothers and sisters.
+
+Speaker B: Yes. Yeah.
+
+Speaker A: We have yet to have a collecting sister on, but we'll find one.
+
+Speaker C: We'll include Danielle King for the time she covered.
+
+Speaker A: That's true. That's true.
+
+Speaker C: It wasn't a true interview.
+
+Speaker A: Well, Deidi, for everyone here who might know of you because of your, I guess, your kind of ascent, you know, you're kind of, I kind of get the sense you're new. I'm trying to go back in my history. You're kind of newer to FX Hash, right? I feel like you started collecting maybe in March or April or, or May even. Maybe you can give us a little bit of your background to the extent that you're willing to share, like professionally, that brought you to collect art, generative art, NFTs. Like, how did you get into crypto? Are you a crypto person before NFTs? Like just the whole story of Lavande and the collection and, and how you got to this point.
+
+Speaker B: So yeah, I spent the last 10 years working in the startup environment. I was a designer and partner in the firm. That's, I guess, the thing I want to say about the past, but I think we need to focus on the present right now. And so I left this company beginning of the year, and then I needed to find things to do because in the bio you can read that I'm sort of retired, which is a bit arrogant, I guess. I was already collecting art in the real world, if we can say that, painting and sculptures, mostly modern art. And I found like the first generative art on Art Blocks, obviously. And then, yeah, went a bit crazy the last 6 months. It's kind of the same story, I guess, for many people. But I came to crypto like in 2017, '18, something like that. Made a bunch of money, lost it all, spent the next 3 years like doing nothing. Came back to crypto at the beginning of the previous bull run. I'll do a bit of trading, but today I'm mostly focused on collecting art and curating this collection.
+
+Speaker C: So how did you get into NFTs then? I know that they really started kicking off in, I guess, last year, the year before that. What was your path into the NFT art world?
+
+Speaker B: I have like 2 great friends who were like super early in crypto. Convinced me to join crypto like 6 or 7 years ago, and I was saying, nah, it's not, not for me, you know. And the same guys like last year told me you need to go into NFTs, and I was like, ah, it's not for me. So I guess I lost a year for not collecting during that time. But then I, I came to the NFTs with, um, you know, the stupid profile pictures like of cats and things like that, and I was just like, yeah, I'm gonna Buy the next apes or I don't know, didn't work.
+
+Speaker C: The next apes, which means that you missed the apes the first time?
+
+Speaker B: Yeah.
+
+Speaker C: Okay. Condolences.
+
+Speaker B: Yes. But then, you know, I kind of like find Art Blocks, you know, on Twitter and it was just like mesmerizing by what I was seeing. Like it was just like the perfect mix for me coming from, you know, development background. The perfect mix between card and art. And I start to open the Pandora's box and then just like, yeah, here we are.
+
+Speaker A: What about the transition over? I assume maybe you still collect on ETH, but what about jumping over into Tezos and fxhash in particular? I know for a lot of collectors, we hear anecdotally, there's a lot of hesitance because they only want to collect on Ethereum and they maybe don't trust Tezos or they don't think it's worth their time to kind of play at these, you know, in most cases, in almost all cases, the artwork is cheaper, right? When you put it into fiat terms. And it's like, I kind of get the sense that for some of them, if it's not going to cost thousands of dollars, it's not even worth looking at, you know? So what brought you over here? Because some of the stuff you buy, some of the stuff you sweep is like under 20 tez, you know, you're not just looking for really, really big ticket items. So I'm curious, like how you, how you came over.
+
+Speaker B: I think the main issue for the big ETH whales is like the resale and the perspective they can get a lot of value from certain collection, which is not what I'm looking for. I'm just looking, I'm just there for art, you know? So there's like 3 pieces that are on sale on my collection just because I don't know why I buy this stuff. But overall, like nothing is to sell and I don't plan to sell in the next 5, 10 years. I don't really care about the price, of course. The Tezos ETH thing is like, for me, it's just a platform discussion and I'm not interested at all in that. The main thing for me is art. And I think that the main benefit of fxhash is, of course, the community and the way you can like interact with artists, collectors, and even the guys building the platform. So I would say the community and the art.
+
+Speaker C: I was trying to do a little bit of digging to see what your very first fxhash purchase was, just to kind of get an insight of like, oh, that's the thing that brought him over.
+
+Speaker B: Yeah.
+
+Speaker C: Do you remember what it was?
+
+Speaker B: Oh, I don't. I don't, but I have this catalog, so obviously if I go to the first one, uh, Little Trees. I think it's Little Trees.
+
+Speaker C: Little Trees.
+
+Speaker A: Was that a Nudoru piece?
+
+Speaker C: No, it was Brian Gollick.
+
+Speaker A: Oh, okay.
+
+Speaker C: Was that like the thing that like caught your eye? Did you like onboard into fxhash? Do you get that specifically? Like, I know that we're trying to get your narrative here. It's like, I came to fxhash because Will was like, here's this thing, it's really cool, you should do it. And I was like, okay, I'm in.
+
+Speaker B: Maybe that's just the first link I found on Twitter and it was like, yeah, I need that glitter tree.
+
+Speaker A: This is interesting because this definitely one of the narratives we've heard from people sometimes on the show in particular, like I'll be critical. Of all the naturalistic trees, flowers, landscapes. But something that we hear a lot from people is like, well, these types of projects especially are very, very good at like explaining generative art and bringing people over and like attracting people in and going like, oh, like code made that. Like, I didn't think that digital art could look like this. And sample size of one, but that is like an interesting— that, that type of project brought you in and then got you looking at all this other stuff. 'Cause your portfolio is not just trees, you know, your whole collection is not just trees. No.
+
+Speaker B: Yeah. But last week I renamed the vault to the museum because I wanted like this new vision or say philosophy of collecting, which is I want to have the largest and widest collection possible. And the thing for me when I collect is like, I want to show people the museum and they instantly understand what generative art is, you know? So yeah, I started with a tree and then, uh, and then it went crazy with abstract and all that stuff.
+
+Speaker A: Your museum, is that primarily on Deca right now? We know you have a really, really nice Deca gallery. Is that kind of where you consider the home for the museum?
+
+Speaker B: For now.
+
+Speaker A: It's really well curated. It's really nicely put together. You must have spent a lot of time on it.
+
+Speaker B: Thanks. Yeah, I do. I mean, it's also like, it helps me to collect new pieces. Sometimes I just look at the Deka and I'm like, yeah, there is something missing between these 2 and I need to find a piece, you know? So sometimes like I buy a piece from a collection I already have. It's like a weird buying, but it makes sense when I put it in the Deka, you know? So it's also a tool for me to collect new things.
+
+Speaker C: Even just like scrolling through and looking at your collection of ineffable moments, I think you're one of the top collectors of that and just I don't even know if you're displaying all the ones that you have, but just the, the row by row by row, and highly recommend that people go and take a look. It's all of the colors next to each other and just complete beautiful juxtaposition where you're able to really see like that full breadth of the collection, which is, I think, one of Marcelo's best. I might like it better than Takata. Okay.
+
+Speaker B: Okay.
+
+Speaker A: Stop.
+
+Speaker C: I'll stop.
+
+Speaker A: We're gonna have to edit that out.
+
+Speaker C: Before I say something I regret.
+
+Speaker B: Yeah, I would not say it's the best, but it's like there is a lot in, in the museum, so it means a lot. I really like this collection. I really like the, as I said, the whiteness and the briefness of the collection. And there is like this grainy matte shell thing which I truly love. It's like very artistic, like it's pure artistic. I could watch them all day. I really love them.
+
+Speaker A: Yeah, they are super nice. I want to ask something about, and you've already started to talk about this a little bit, but your underlying thesis for collecting is just art that you like. Can you maybe explore a little bit deeper than like some of the decisions that you've made? And I have to assume, I mean, I know you said you don't plan to sell, but in the quantity of the projects that you sometimes buy, it's like, I feel like it is implied that if you're buying like 8 or 10 or 20 or 30, that at some point, you know, you can only display so many, right? So. At some point there must be some that are going to be sold. And what is kind of your overarching thesis for like, like what's going to drive you to sell in the future? Is it going to be that you actually do expect, especially on the projects that you go really deep, do you expect them someday to hit a multiple that you'd feel like, I'm going to sell 2 of them and it's going to make me break even? Or in the future where you are going to sell, like, what's that going to look like and how are you thinking about it?
+
+Speaker B: The starting point is I need to really like the collection. For example, when I buy like 20 monoliths, because we're talking about not especially this one, but this one is like one of the largest I think buy I did. First, I really need to like the art. That's the first thing. Obviously, I have to, you know, have a strong feeling that the value is going to increase in time, of course. But there is also like, I don't plan to sell, but obviously at some point there will be like transactions to accumulate different collections, obviously Garden Monoliths being one of them. I'm not going to stop at one, which is not usual for me. So I think I would need like a few great pieces to get this kind of other pieces. And there is also like, I'm not only collecting the NFTs and the pictures, I'm also working with the artists to get the prints, signed prints. For example, in the case of Bades, I had this idea of like printing the, the, in small square, you know, and I needed like a lot of them so that the display would be like a good representation of the, of the briefness of the code. In some collection, like 2 or 3 pieces just illustrate best the algorithm of the code. And in some cases, like I need more pieces to like show the little variations, which is for example the case in Monoliths.
+
+Speaker C: So it's almost not even for your museum deca at that point. It's how are you curating your own joy and not just collecting because you're seeing value and speculative value in it, even over the long term.
+
+Speaker A: Yeah.
+
+Speaker C: It's about really seeing the entire breadth of the collection and looking at your collection of Barda's pieces. First of all, I know that you have many that I think you minted at the top tier, which is great because they came with that print, right? But then as you look at the ones that you bought later on, it is a really nice contrast. You can see the story of how you collected, because the first mints that you made were like the larger, like more zoomed in. And then you bought the ones that are like really giving you the full feeling of that garden. I remember when that came out, it was like really mind-blowing just to get the sense that you were actually looking around a garden and just seeing different pieces of it.
+
+Speaker B: When it came out, like people were A lot of people were disappointed in a way that it was so zoomed in, but I was so excited because I knew exactly like the way it's gonna be printed was gonna be absolutely magic. And when I received the print like a few weeks ago, I was like, okay, it's gonna be amazing.
+
+Speaker C: You might have to send us a picture of that print. Yeah. Yeah.
+
+Speaker B: I first need like to frame it. Like there is like at home, I think I have around like maybe 100 prints and I need to get to the framer pretty soon.
+
+Speaker C: I hope you have a lot of wall space.
+
+Speaker B: Yes. The thing with the prints is also like, at some point, I'm not saying like, I don't have any timeline or, but at some point I'm gonna need to display that to people, like whether it's a physical show or something like that. And I'm still thinking and getting my head around on how to display that. Because I think my role as a collector is first buying art, of course, and supporting artists. But it's also like my kind of mission, I would say, is to talk about generative art. You know, like every time I'm at dinner with friends who don't know anything about it, I'm like, yeah, I need to show you something really cool. And then I open the Pandora's box with them and then it's like, oh man, I want to buy it. Tell me what to do with them. And then, yeah, so, so I think the mission is not only collecting, it's like a few things that are coming next that I'm really excited about.
+
+Speaker A: Did you order any of your prints off of, uh, Tender? Were you able to do that internationally?
+
+Speaker B: Yeah, I did. But the thing with Tender is like when I get a print, I want it to be signed. So I had to do like some sort of like, uh, getting the artists address, sending it to the artist's address, and then getting back to me. So it was kind of a pain.
+
+Speaker A: Yeah.
+
+Speaker B: Yeah. We managed to do that like twice.
+
+Speaker C: It's part of that community feel. It's, you know, reaching out to the artist, being like, hey, I'm going to ship this to you.
+
+Speaker B: Yeah.
+
+Speaker C: Please send it back. I love that. Exactly. It definitely speaks to, I think, the relative size of the FXHash community compared to places elsewhere. Another point, just kind of speaking to the print side of things, because I know that with FXHash, you can get things that are relatively high resolution. especially if you reach out to the artists. Have you had luck getting prints of like your Art Blocks pieces? Because I think if they're on-chain, it might be— my mind is that it's harder to get better resolution.
+
+Speaker B: Yeah, I'm working with William Mapan to get Anticyclone printed. I'm actually launching with him end of the week too. And I will talk to him about that. Obviously, I got the marriage and it was kind of easy with the website that Matt built. But yeah, most of the prints I get are from fxhash. And I think most artists, like, there is a few artists when I was— were like, oh, I don't know what to do with it and which kind of paper I need to. And so there is this discussion after the collection dropped, which is very interesting to me also.
+
+Speaker A: For artists, there's got to be a lot of fear, right? When they design a project to be digital, And maybe they're only thinking about digital only. And then all of a sudden this demand for like, I want to own your piece. Not only do I want to own your piece, but I want you to sign it and maybe number it or something. And then they're like, how do I get it printed? How do I get it the quality that I want? And that's kind of like, that's kind of one of the cool things about with the Tender printing. I mean, they'll tell you when you upload the file, they'll be like, this is, you can only make it like 30 centimeters by 30 centimeters. You know, it's not gonna support something big.
+
+Speaker B: And Yeah.
+
+Speaker A: Then you either have to go to the artist and figure it out. So it is one of those things where there's no real standard between artists of like how you're gonna make the work printable.
+
+Speaker B: And some of these artists are just like coders, you know, developers, and they don't know things about art and using paper or things like that. So it's kind of new for them. It's also good. Like, yeah.
+
+Speaker C: Like talking to some artists who have more of that coding background. It's something that they're learning more and more about every single time. I think that, you know, when we're looking at some of the early projects, there might not be some easy ways to get the high exports, but I think people are learning now that like we're becoming a lot more mature over time. But that actually kind of speaks to, you know, one thing that I noticed about your collection is that it is definitely in my mind anchored towards still work and not necessarily the work that is more animated with The very notable exception of Takata, which we touched upon earlier. Is there any reason for that in terms of display? Like, I would love to hear your ideas around like the still work versus the animated work.
+
+Speaker B: This discussion can also relate like to, for example, RTB. We talked about that already in private, but I think some of the pieces that I don't have in the collection right now, I need time to understand, you know, the thing that goes behind the scene and the original idea, why people are collecting and so fond of those pieces. In the case of Animated, I was like, yeah, of course, with this printing thing in mind, it was kind of like my vision field was like reduced to the still. But then like I collected Takata like A lot. And then now I'm starting to enjoy more and more the animated pieces. So I'm evolving also as a collector.
+
+Speaker A: This was something that we talked a lot early in the show, like in the earlier days of the show about was this disparity on fx hash between just in the pricing sense, not in the quality or artistic merit, but pricing artists who released animated work, it almost always went under mint. People would try to flip it and there'd be no market for it. Some of like the most famous, like horribly flipped pieces in the fxhash history where they went drastically under mint are animated pieces. It does just seem that even though the artwork is digital, there's so much collector bias still towards like, well, if I'm going to display it, it's not going to move, right? Like I'm going to print it or I'm— it's kind of hard to imagine still, even though we know that there are these digital frames and like This is a digitally native thing.
+
+Speaker C: Yeah.
+
+Speaker A: So you would think that this is like just an observation, right? You would think that, well, we're all here trying to be Web3 digitally native people. Like, why wouldn't we embrace the most interesting, like wild experimental aspects of this, which are going to involve like pieces that evolve like Takata and Move? But then at the end of the day, it's like the digital tree or the garden or things like that that end up capturing the most mindshare and value in terms of what people are willing to pay for them. And I kind of feel like there's this play there from an investment standpoint that at some point that paradigm is going to start to shift and people are going to go like, not just for pieces like Tokada, but like recently you collected some transactions from Kim Asendorf.
+
+Speaker B: Yeah. But I think it's also like the animation thing. It has to be like more than just animation, you know, it has to be something Artistic in a way. And I think Takara, just like, it's mind-blowing in a way that the animation and the sound are used in a very artistic way. I think that's the, that's the, maybe the main reason why this kind of work is not like increasing in value, maybe.
+
+Speaker A: Not yet.
+
+Speaker C: Would you say Takara is an instant icon though?
+
+Speaker B: Yeah.
+
+Speaker C: It's ironically probably one of like the hardest pieces on fxhash to like display appropriately. Within your home, because not only do you have to have a pretty powerful machine backing it up, but you got to have the sound playing 24/7. The guests might not like it. It's going to interfere with your house parties. I don't know.
+
+Speaker B: And there is this time thing also. Like, since I collected it, I'm thinking, like, I'm brainstorming with myself about, like, how can I display, like, 10 PCs, picking the right sound from one PC and having these option, you know, to go forward in time or backward in time. Like, I think at some point someone is going to solve that problem, like, but maybe in 5 or 10 years, who cares? So I just collected it.
+
+Speaker A: I mean, you can imagine a museum installation that had 10 screens in a grid, and then it would alternate which are playing sound and which are kind of spotlighted in a particular moment. But to do that in a home, do something that complex. And have like maybe multiple dedicated computers that have some kind of custom script written that is kind of changing the time on them and doing that. Like it's the type of thing that's worth it for a museum and where they're used to doing installations like that.
+
+Speaker B: That's the reason why I collected it and in quantity. It's because I think it's a museum piece. Like it has this instant like museum standout and you can like imagine like a lot of crazy things with that piece.
+
+Speaker C: At least for me, it's one of the 3 pieces that I think are going to be instant, like, or like long-term classics and really hold up the test of time. Uh, the other being just Zancan, just across the board. Doesn't need to be any particular piece, just all. It's one category. And the other one is Ethereal Microcosm, which I did notice that you don't have any of, which was, uh, one of Ciphrd's big pieces.
+
+Speaker A: Yeah.
+
+Speaker C: Earlier this year, again, animated, but I think on just that same level of beauty. And not to put you on the spot for asking you, why don't you have any of these? But—
+
+Speaker B: I'll get there. I started like collecting animated pieces like 2 weeks ago, so I need to— takes time. Takes time. Yeah.
+
+Speaker A: You mentioned this and we had this conversation prior to the recording too on Discord. You know, when we first started talking to you, you were saying like, I'm not really into— you said you weren't into the animated pixelated stuff. You weren't into RGB. You did get RGBs recently. So it's not an animated piece. What brought you around to grabbing a couple of those in the last few weeks?
+
+Speaker B: I think I'll get back to the museum thing. The fact that I renamed that gallery to the museum instantly changed in my mind, like a few collecting standouts, I would say. And RGB had to win that. I still don't get, really get the excitement behind it, but maybe it's just because I'm pretty new to the platform and pretty new to generative art. Maybe if I was like 6 months earlier, I would be so crazy about it. But when I see like all these crazy collectors and artists who are like super excited because I collected it, I was like, okay. Maybe I should have done that early.
+
+Speaker A: Do you own any squiggles?
+
+Speaker C: No.
+
+Speaker A: Okay. 'Cause that, that's the comparison that people often make is that, and I'm sure you're familiar with, with Richard Galaxy, the collector. He wrote a piece or he was in an interview with RightClickSave. He talked about RGB as basically a way of like buying a share of equity in FXHash, the platform, and not so much Whether or not you like the art, like I love my RGB, but when I look at a lot of them, I don't go like, oh my God, I love the way these look necessarily, but they do have this historical meaning to the platform, I think in the same way squiggles might for Art Blocks.
+
+Speaker B: Yeah. And I was seeing like the floor price going crazy and crazy and crazy. I was like, okay, I need, I need to act quick. Even if I don't understand it like today, I will at some point, I'm pretty sure. But I needed to act.
+
+Speaker C: You know, worst case scenario, if you just look at it and you sit with it and you just aren't feeling it, it's probably one of the few pieces on fxhash that will, you know, you'll always get a solid return on it.
+
+Speaker B: Yeah. Now it's in the museum and I'm starting to like appreciate it. You know, it's not in the right spot for now. I need to improve that part of the gallery, but it's there. So now I have to work with it.
+
+Speaker A: Well, maybe this is a good opportunity to talk some more about some of the other specific artists that you've gone deep on in collecting. I think for our own personal interests, it would be great to start with Landlines because sometimes I feel like everyone likes Landlines, but not everyone really loves Landlines. And I'm saying that more from like a secondary market value thing.
+
+Speaker C: Yeah.
+
+Speaker A: It just seems like habitually Landlines releases work. It mints out and then it just kind of hovers at or slightly above mint and the pieces look great and everyone goes, I like them. But they, with few exceptions, they never really have taken off. But you've certainly collected quite a bit. I mean, Trinity and I have also both collected quite a bit. What caught your eye with Landlines and what's pushed you to go so deep on their collections?
+
+Speaker B: First of all, it's just gorgeous by itself. So it's kind of everything I like. It's tough to say, but I like the first, the body of work is just insane. Like every collection, I didn't collect all collection for now, maybe tonight after the show, but the body work is just absolutely insane. And there is the quality is very high, especially for FX hash. You know, when you have like artists with 10 collections, there's always one or two collections that are You know, the level is not quite there. And I think that, um, I don't know why people are sleeping on, on those, but, uh, I'd say keep sleeping and I will keep collecting. So it's, it's good for me. So keep, keep sleeping on that. And I think there is also this, uh, a very mystical thing around Landlines, you know. It's like, it is not very talkative, not very like— it's like super mystical, and I, I enjoy that. I think it's Like, say, maybe he's super shy and doesn't want to, you know, express and talk a lot, but the bodywork is just insane. It's like all the collections are so different, but still there is some, you know, you can feel that working on a project brings him to the next one. And there is a link between the project, but it's also like so different.
+
+Speaker A: You can always tell it's Landlines, right? Like there's always something about it.
+
+Speaker B: Yeah. And actually I collected Influence, which is an animated Oh yeah.
+
+Speaker C: That was one that kind of flew under the radar when it first came out. And I think it still is flying under the radar compared to, uh, the other pieces.
+
+Speaker A: Yeah, it got burned.
+
+Speaker C: What was the thing that made you happy about Influence specifically? Because I think that this is, this is one of the pieces that you have the most of. You have 7 of them. Not to put you on the spot again, but you know, we, we are in the driver's seat talking to you.
+
+Speaker A: You're on the spot the whole interview.
+
+Speaker B: I think it's like, to me, and I don't want to make that comparison, but it brings me back to dragons in a way. And I had these dragons in the collection. I was looking at it and I was like, yeah, how can I, you know, what's going to be next to the dragons? And I found Influence and I was like, okay, there is this thing. It's really nice. And then I opened it and it started to animate and I was like, okay, this, I need to collect a lot. And everything is so good in Influence, like the colors, the movement, the shadows. Yeah, I mean, it's super nice.
+
+Speaker A: But it suffers from the thumbnails, and I think that's what did it. When people were looking at it, I think they saw the thumbnail image and didn't bother to click through and, yeah, see that motion and see what was possible with the piece.
+
+Speaker B: And some pieces are like— the thumbnails are like super dark, almost nothing happens. But then you go to the live view and you're like, okay, this is so nice. But yeah, keep sleeping. I will keep collecting.
+
+Speaker A: They're definitely a very, very shy artist. We've been trying forever to get them on the show and they would be such an amazing interview. One piece, I'm not sure if you've looked at it, from May, Landlines released a project called Textiles that was only 64 editions. In particular, since you're so interested in prints, this is a piece that You can render it really, really high quality and it creates like tiles. So you could kind of put together like a print that's a bunch of different tiled pieces and it creates like the whole structure. So I feel like if, you know, you have 100 pieces to get framed and hang, but if you, you know, had, if you have more wall space after that, this could be a very compelling candidate.
+
+Speaker B: That's actually a good idea. To be honest, textile was like the one that talk to me the less, even if I can see like the quality is very high and the work is like crazy behind it. I can, we can feel it like instantly. And now I'm looking at it and I want to buy it because of the print thing you said.
+
+Speaker A: Yeah. Well, do your own research on that and make sure it'll work for you.
+
+Speaker C: Yeah. Abbreviated Curves is another one that actually animates too, looking through what you have, even though I like it for the thumbnail. You know, once you open it up, it's It's pretty crazy cool. And I have to say that your Absolute Error number 28 is probably in my top 10 favorite pieces on fxhash of all time. I think it's only second to the Absolute Error that Ryan Bell owns, which is another one of like these very wide stances. So like, yeah, this is one that I could absolutely see like printing out and just being beautiful somewhere.
+
+Speaker B: And in the museum, it goes so well with the Millefoglie, the transition between the two is like really nice. I bought number 27 and number 2 to have like the full scope of the algorithm.
+
+Speaker C: I think it'd be also interesting because sometimes, like, obviously you went really deep with Landlines here, but there are some pieces that you've specifically, or some works that you've gone really deep on, and we already mentioned it, but one of those is Monoliths, which I'm pretty sure you're the number one collector with 20. Absolutely insane.
+
+Speaker B: Yeah.
+
+Speaker C: I would love to hear more about your thoughts around this piece, just because it is something that is kind of takes a couple of different components of fx hash. We have the landscapes, we have more of the modern art, and then this is like really putting them together. And it's also Gankitecture's Genesis piece.
+
+Speaker B: I mean, you, you, you've risen everything that I love about this project, which is, yeah, the very modern side of it. It's only coded. I mean, it's just insane. Just code. And I was like, when I saw it on Twitter, I was like the first, like, not week, but when they shared the first preview outputs, I was like, it has to be mesh manipulation, you know? And then I was like, oh no, it's only code, which is crazy. And then I had this very nice discussion with Gunshitectur, of course, and this game around the red one, which I happen to buy. And then I sent it to him because it was really like, I want this piece. I want this piece. But yeah, I think the collection is just so nice. And it's one of those collections, as I talked earlier, which needs a lot of pieces to really understand like the insane amount of work in it. And maybe I went a little bit too crazy, let's be honest.
+
+Speaker C: So question, are those baubles in the sky on some of them, or are those just weird clouds?
+
+Speaker B: I think it's baubles.
+
+Speaker A: That was our guess too, is that, that they were some kind of Easter egg reference to the other project.
+
+Speaker B: Yeah. Also, there is the, the lines one, the ones with the lines in the middle. For example, if you look at the number 130 in the monolith, when there is these lines, and I was like, there is a reason for this line.
+
+Speaker A: Oh, going down the middle of the monolith itself?
+
+Speaker B: Yeah.
+
+Speaker A: Oh yeah. So this is where it's like with Gankitecture, a lot of the work that they were doing Prior to FX Hash, like they always include games, puzzles, codes and stuff. And as far as I know, nothing has been revealed about this project yet, but I, I feel like for them, I can't imagine them releasing something that doesn't have little bits of information or something like that. And it does almost look like it could be Morse code or something else, right?
+
+Speaker B: Yeah. I just can't wait. I'm pretty sure this one will be like It will give like the collection another life and level and people are going to be interested in it a lot again. But I can assure you, I don't know anything about it. Yeah, I tried, I tried to, but I had no information about it.
+
+Speaker A: We have quite a number of artists and collections written down here, but maybe, you know, it would be nice to throw it to you and see, is there any in particular artist that we haven't talked about yet or any particular collections that maybe you want to shout out and talk about, like, people that you think are undervalued or people that you think are properly valued, but you want to celebrate them anyways and talk about them? Like, who should we talk about next since we're talking about artists?
+
+Speaker B: I think Billy Fuglia, to me, is just so undervalued.
+
+Speaker C: How so? Just in terms of like the art, like what you know about the artist?
+
+Speaker B: The art. The art in itself is just amazing. And I think the fact that it's The first is the Genesis project for Stefano on FX, and that it was free. People were kind of happy, you know, like with the floor at $120. But having this kind of art and artists sitting at $200,000, it's just, it's ridiculous to me. The collection, and it's when you look at each piece, it's just like so different from the other. And at the same time, there is this vibe and yeah, just, I'm in love with I'm looking at it again, but it's like maybe I'll have to snap a few more. It's a very nice collection.
+
+Speaker A: It is such a nice collection, and the decision to make it free was so bizarre to me, actually. I think that's kind of like one of those things where it actually had the effect of suppressing the price because, yeah, maybe it created this filter of like, okay, well, if you weren't on the list and it was free and it Kind of just, it's like, oh, like, okay, so these people who got it for free now, like, I didn't get it. You know, it's like, I feel like there's something about the open competitive nature of minting that feeds people's desire to collect. Whereas we see often projects that are half reserved, or in this case, full reserved, sometimes the secondary market can be really put off by that, at least in the near term.
+
+Speaker B: Yeah.
+
+Speaker A: You know, we've only had this system for since May or April now. So we have not really that long of a timeline.
+
+Speaker C: It works for you if you're looking to collect as many as possible.
+
+Speaker A: Yes, exactly.
+
+Speaker C: We love market suppression in those scenarios.
+
+Speaker A: And they are super cool. I hadn't realized they had come down because the highest sale at one point was 1,000 Tez. The prices have definitely been declining on it, but it is such a nice piece.
+
+Speaker C: Have you been following Stefano's Art Blocks collection at all? It's due to release shortly, actually.
+
+Speaker B: Yeah.
+
+Speaker C: September 12th.
+
+Speaker B: In a few days, yeah.
+
+Speaker C: Are you the type of person who's going to follow him over to Art Blocks, do you think?
+
+Speaker B: Yeah, definitely. You can see where the sense of next Art Blocks work and the relationship it has with Neo4j. You can see the link between the two. And I think it's going to be a must-have for me.
+
+Speaker C: Yeah, it'll be interesting to see how this performs on Art Blocks actually. And I think it has a pretty high starting price for Art Blocks from what I've seen. some of their most, more recent work at. So, and I love that if you look at artblocks.com or artblocks.io, apologies, out of the upcoming 8 artists, 6 out of the 8 have had recent releases on fxhash, which is insane to me. That just kind of really speaks to that blending of the worlds and the quality of art that we're really getting here and the quality of the artists.
+
+Speaker B: It's crazy, but at the same time it makes sense.
+
+Speaker A: And I, I've heard, you know, a number of artists who have had their work like either rejected or they'd have to wait too long to go through the whole Art Blocks system. And they just have said like, why would I wait? Like, I'll just go and put it to fxhash and like get it out. Like, 'cause I wanna start working on my next thing, or I don't wanna sit on this project. So it seems like they've become aware of fxhash and those artists and like some of the ones that maybe they've said no to in the past and shouldn't have. And also seems like maybe they're accelerating their process a tiny bit too. 'Cause I've heard sometimes you had to wait like months. Like, you get accepted and they make you wait a really long time to get your piece like finished and out and fully approved, which for an artist, right, especially someone who's trying to be a professional artist and live off of their work, I mean, that waiting, you don't get paid during that time, right? You're just sitting on a project that might be almost done and you can't monetize it. It's pretty difficult.
+
+Speaker B: And I think there's also like, um, maybe even myself at the beginning, like, um, when I started collecting On FXH, it was to me like a more of a hacker's platform. It's difficult to say so, but it's you know once I started to dig more and more, I found like this artist, like true artist. You know, like maybe this feeling that the hacker thing of FXH because of the less beautiful project, like like the you know the one that you can see on the homepage sometimes.
+
+Speaker A: Yeah.
+
+Speaker B: Makes it like some artists don't want to be within those collections, but it starts to like with the top collections like the Zancan, for example. I don't want to say the name, but the Iskra and Zach collection and many others, Marcelo. It's more becoming more and more artistic with all those collections. So maybe now we're going to see more and more people from Art Blocks coming. Matt DeLorean needs to.
+
+Speaker A: That would be amazing.
+
+Speaker C: Let's do that.
+
+Speaker B: Oh, that would be something.
+
+Speaker A: There's still a few big names out there who haven't come over and, and there's always those rumors that they collect and that they have secret wallets, but that they don't want people to know because they don't want maybe rumors that they're going to release something.
+
+Speaker C: Or they've also released under pseudonyms already. We just don't know. I think we've—
+
+Speaker A: we would've figured that out.
+
+Speaker C: No, no, we wouldn't have. I, I've heard that there are multiple artists who are releasing under like fake names and fake accounts and are essentially just have split personalities at this point. How would you know other than doing deep wallet forensics on work that you think is just a little bit too good?
+
+Speaker A: Well, that's one of the interesting things though, is that we've had, we've had people who have come over from Art Blocks, either curated or not, and released here and had their work just completely fall flat. And it's kind of one of those things where like, to a degree, it feels like the FX Hash collector base is not willing to just buy on a name. If they don't like the piece for whatever reason, or yeah, and then you can go into Discord and you can see like, I don't like the palettes, I don't like how little lacking in diversity it is, like they didn't, you know, they— there's always a lot of reasons people are willing to give you in price discussion about why a piece did not do well and didn't mint out. And I think that's pretty interesting because like you've— it feels a little bit different from the ETH side where there are certain people where no matter what they'll do.
+
+Speaker C: Yeah.
+
+Speaker A: they'll get minted out, right? Even if it feels maybe kind of sometimes the projects, especially on Art Blocks, can feel a little bit basic compared to what we get over here on fxhash.
+
+Speaker B: Agreed, 100%.
+
+Speaker A: And there's some good bargains to be had. Like, I in particular love a lot of the eltono pieces that are over here on fxhash. And I think his last piece on Art Blocks is still open for mint. You know, he never closed it. So to me, that's like interesting. You can collect like 10 of 'em on fxhash for the price of minting one on Art Blocks and get yourself like a really, really nice, you know, make yourself a nice grid and deca that really shows off the algorithms, especially pieces like that where looking at one is not so interesting, but looking at a group of them all of a sudden kind of wakes you up and goes like, this is a really cool project.
+
+Speaker C: Are you pumping your bags a little bit so that Didi buys more?
+
+Speaker A: No, this is something that we talk about on the show all the time, which is Or something that I bring up from time to time, which is like, I feel like there are some projects where owning one is enough.
+
+Speaker C: Yeah.
+
+Speaker A: Like, for example, like Holo, would I love to own like 10 Holos? Sure. I'd love to own 10. But I feel like my one Holo scratches the itch of like owning Holo for me, because I get to see the big empty space and I get that feeling of loneliness and like whether or not mine has birds in it or not, or people in it or not, doesn't really change for me too much about like what I like about Holo. But pieces like what eltono does that are very like design-driven, or I guess another really good example might be Studio Yorktown. Like, I feel like people who like Bruce's work probably want to own multiples of it because seeing them arrayed next to each other, the sum is greater than the individuals, right? But like, I don't know. So I kind of feel like there's like those 2 categories in generative art of pieces that stand alone. There's one that you own a lot of, Turner Lite, where I feel the same way. Like owning one Turner Lite, I think feels really—
+
+Speaker C: Yeah.
+
+Speaker A: great. I would love to own 10. Clearly you just went the 10 route and they look, they look amazing in your deca, but like you can show off the different colorways and you can show off some of the different stuff, but—
+
+Speaker B: I kind of disagree.
+
+Speaker A: Yeah, go ahead. Let's talk about that one because that's, that's one of our favorites from this year.
+
+Speaker B: When you collect generative art, especially the long forms, only owning one is like reducing the scope of the collection. It doesn't make sense to me. You know, it's like, uh, You show it to someone and it would say like, yeah, so what? You know, Eternal Light, for example, is a very good example because of course it's like kind of always the same thing, you know, but the fact that you see like 12 at the same time just like gives a sense of the algorithm and the code, like easier. The readability is easier at least.
+
+Speaker C: And you can see that even in the ones that, again, like you've collected, you always do a really great job at getting like the diversity. I know that Will's big point is that Turner Lite could have just kept on going. It could have been 1,000 pieces. It could have been 5,000 pieces. And just keeping, keeping on seeing how all these different little things grow is amazing.
+
+Speaker A: Each piece does contain it. And so maybe that was a bad example, but I was trying to do a segue, but yeah, I mean, like, and also I only own one, so it's maybe some copium for only owning one too. But yeah, like. How do you feel about pieces like Turner Lite where maybe they could have done 1,000 if they supported it? Like, and artists make a lot of decisions, right, when they release their work.
+
+Speaker B: Yeah.
+
+Speaker A: What does the algorithm support? What do I think the market will support? How much am I trying to earn off of this piece? Like, there's a lot of kind of non-artistic choices you have to make when you're assigning the price and the edition. Are you someone who just will always maximally value less and scarcity? Or would you rather the artist push to the limit and have as much breadth of exploration of the code in one go?
+
+Speaker B: It's kind of a tough question because I cannot say I don't look at the value of things, but I don't really care because I'm not trying to get value from it in the short term. So I'd say I don't buy more because there is less, you know, it's not the way I do it. It's like, I just like the art. And if it makes sense to have like 12, In the case, for example, of Turning Light, it's like I have this row with 253, 112, and like the white one, I had like only 2 maybe. And I was like, I need more because it will like take a line and it would be like super nice, you know? So that's the way I'm collecting. It's not like I need 10 or 12 or 20 because the value is going to increase. It's more like it makes sense in the gallery.
+
+Speaker A: Yeah, that's so interesting that you're collecting from the gallery standpoint. That was like the breakthrough that I feel like I had a little bit the first time I made a deca that got me to go back and buy one more of a project. It was like, well, yeah, I have 3, but when I put them in a row of 3, they're a little too small. So I need a 4th so I can do 2 rows of 2, you know, so that they'll be a little bit bigger. So it kind of makes you think in such a weird way. And I had not anticipated that.
+
+Speaker B: In a curator way.
+
+Speaker A: Yeah.
+
+Speaker B: In a curator way. It's, yeah, I think it's really, it's really nice. And I'm like, Over time, I'm coming to the point where there is almost 2 everywhere, at least. I still need another Meridian.
+
+Speaker C: Me too. I need another Meridian.
+
+Speaker A: You need your first.
+
+Speaker B: But yeah, I think it helps me to— and I also have this other gallery which I'm building, which is— it takes a lot of time and I don't have this time for now.
+
+Speaker C: What's in your other gallery that you're building that makes it different from the museum?
+
+Speaker B: The catalog. It's going to be like all the pieces that I bought, whether it's fxhash or OBJKT. And I use it like as a way to quickly browse my catalog because I think OBJKT is doing a bad job to that. And I need like to instantly, you know, like I see a piece and I'm like, okay, okay, I can put this one with this one. So I'm building this one and it's going to take a lot of time because I'm like 10 pages in.
+
+Speaker A: Wow.
+
+Speaker B: Yeah, this one is going to be a good one. And I think people are going to build it after Or maybe someone is going to build an easy way to display your wallets.
+
+Speaker A: That process of building that sounds like a great fx article. If you ever feel like publishing anything there.
+
+Speaker B: I'm really bad at writing. So I would need someone else.
+
+Speaker A: That hasn't stopped a lot of people from publishing already. So don't worry about it.
+
+Speaker B: Yeah, I know. Let me first build the catalog and then I will maybe speak about it. But I think it's another great way to use the display your collection in a way that it's gonna also help you collect new things.
+
+Speaker C: Just to transition a little bit, I know that one of the topics that we discussed when we were chatting online over the last couple of weeks and months, it was around that the same time that the collaboration between Zach Lieberman and Iskra came out. And I think that you were of the mind at first, like, no, I'm not going to get it. And now looking at your collection, you have it. It's there. You have 7 pieces.
+
+Speaker B: Not only 2.
+
+Speaker C: Yeah, you have the full 7, like more than the full 6.
+
+Speaker A: And I'm going to say for this segment, this is going to be— I'm not going to say anything. Didi, this is your opportunity to just talk about this collection, why it's great, what you like about it, and there will be no point-counterpoint.
+
+Speaker C: And what changed your mind?
+
+Speaker A: Go.
+
+Speaker C: Like, what was, what's your, the evolution of your thinking on this piece?
+
+Speaker B: I'm not sure I have all the answers. Of course, first, why, why, why did I change my mind? I had a wonderful discussion on TENDER Discord, and then overnight I changed my mind. So it was kind of quick. First, I love that it provoked and still provokes such debate, you know? I think it's a very passionate debate, which I think art is made for. I love this love-hate relationship or discussions we can have about it.
+
+Speaker A: Yeah.
+
+Speaker B: Of course, there is a lot of disparity in the collection, in the quality. I think the fact that there is like a few outputs that were exactly the same is another point. It's tough because I'm the only one talking and I know Will wants to say things, but—
+
+Speaker A: I wanted you to say the things you like about it. We don't have to, you know, say— I want you to celebrate it and maybe present a point that we haven't presented on the show so much.
+
+Speaker B: It's a tough one even for me to truly understand right now, but I think it's going to be a major collection in the future, for sure. There's also like the fact that they call it collaboration. I think it's a bad thing. They should have promoted it.
+
+Speaker C: It's a conversation.
+
+Speaker B: Yeah, it's more of a battle to me, you know, like in the hip-hop way. Yeah, I don't see it as a conversation because a conversation, you like, there is, you reply to someone, there is some words from the other one that, you know, there is some sort of mix. There is more confrontation to me. It's like more of a battle. I see you like that. You know, it's like a, you're this and And I'm this and you see me as this, you know, it's more of a battle.
+
+Speaker C: That's actually a really interesting take that I don't think that I haven't heard it before and we haven't talked about it in that way. You're right. A conversation is sharing and discussing versus the—
+
+Speaker B: There's a continuation.
+
+Speaker C: The hard stop. I don't know if the artists would see it that way.
+
+Speaker B: Yeah, I'm pretty sure they don't. But yeah, I think it makes more sense when you say like, you're this, you know, it's like the hip-hop battles. It's just that. I see you like that. You see me like that. Makes more sense to me in that way. And I think I truly love like the Zach side of the battle, if I had to choose, pick one.
+
+Speaker C: I think that's what most people are saying these days.
+
+Speaker B: Yeah. But that's another reason for it to be a battle. You have to pick someone, you know? But I think I don't get 100% of it right now. I love the fact that it's passionate. Like everyone is talking like, I don't like it for that reason. I love it for that reason. It's what art is made for.
+
+Speaker C: The discussion around it.
+
+Speaker B: Yeah.
+
+Speaker C: I actually really agree with that statement and, you know, artist's intention or like quote unquote market perception aside, I think that it's really accomplishing You know, that broader conversation, uh, slash not battle. And just within the community, you know, I feel that so much of what we've talked about has been the release, the drop, how is it doing on the market? And, you know, ultimately in the long term, none of that matters. It's about how we continue to talk about it and perceive it.
+
+Speaker B: Yeah, exactly. The perception you have about it. And that's what I say when I was talking about the distribution thing, it could have been like 6 different collection and still be part of a collaboration or discussion. But the fact that they put it in one collection, it's a battle. It's definitely a battle to me.
+
+Speaker A: Kind of sounds like a point that I made when we first talked about it, which is that it should not have been all one collection.
+
+Speaker C: It's a choice to make it one collection.
+
+Speaker B: See, you couldn't freeze it and you talked about it.
+
+Speaker A: Oh, but here's the thing. Is it a choice or was it a condition Of releasing as an official fxhash collaboration. So that's where—
+
+Speaker C: But then even that just continues the artistic conversation, Will, of like, now this is platform coming in to be a silent hand within the context of the art. The rabbit hole just keeps on going deeper. I can't wait until we have like our 90-minute documentary on YouTube, just talking about the history of this piece and all of the takes.
+
+Speaker A: I'll have like the truther conspiracy video version of it as the, as the counterpoint.
+
+Speaker C: Exactly. So do you collect them independently actually? Uh, 'cause when I'm, I'm looking at your collection primarily in, in the gallery form for what you have on fx hash, but do you own any Zach 1 of 1s or Iskra 1 of 1s? I know that you don't have any of her on Inhabitable.
+
+Speaker B: Yeah, I don't. I'm not focusing my collection on 1 of 1s, so It really is like generative only. Yeah. Yeah.
+
+Speaker A: But you did collect some Qbibi, I noticed. Qbibi.
+
+Speaker B: Yeah.
+
+Speaker A: Which I guess is technically generative. I mean, I get the sense that the way that they work is generative, but they're not releasing as 1 of 1 of X, like fxhash pieces. They're releasing editioned work or 1 of 1 work on OBJKT. Yeah. So that's the exception. Yeah.
+
+Speaker B: Sometimes I'm like, yeah. I see something on Twitter and I'm like, yeah, tell me it's a long form. And it's not, but I still have to buy it.
+
+Speaker A: We're all holding out for the day that Quibibi drops on fx hash. I think it'll happen. I think it will happen.
+
+Speaker C: I don't have a prediction for when it will happen, but I think it will probably happen. At 2 AM Eastern Standard Time. Everybody in the US is asleep.
+
+Speaker A: That's true, actually, because they're Japanese. So that's like a whole— that'll make it tough.
+
+Speaker C: I've missed most of the drops because of that.
+
+Speaker A: Well, I'm trying to think of a good question since we've gone for over an hour here. I'm trying to think of a good wrap-up. I mean, maybe a few more that we picked out from your list here that you've kind of gone deep on that are maybe lesser known or less celebrated pieces. Like, I noticed you've collected some PixelFiller, the Latent Garden, the AI flower.
+
+Speaker C: Yeah.
+
+Speaker A: Memory modules from Elsif and some work from Flynn's. I mean, you're— it's really cool that you're willing to go in and just like truly evaluate on the art in that sense. Like, are there any other like really, you know, for lack of a better term, like maybe smaller or lesser known artists that you want to talk about before we sign off here?
+
+Speaker B: There is one that is very present in my head. It's not lesser known. To be honest, but there is one I really like. Ruxan.
+
+Speaker A: Ruxan, yeah, yeah.
+
+Speaker B: I put it in in the same category as landlines to me.
+
+Speaker A: I think that makes total sense. Yeah.
+
+Speaker B: The bodywork and the quality is just absolutely insane.
+
+Speaker C: Yeah.
+
+Speaker A: Tick in particular. I mean, so much of what Ruxan does is like amazing, and it's been a while since he's released. He's been doing a lot of stuff off platform, like. Yeah. Participating in the live minting events and in-person stuff. So we hope that he comes back soon.
+
+Speaker B: Yes.
+
+Speaker A: Yeah. Yeah.
+
+Speaker B: Live minting could be a good discussion also.
+
+Speaker A: Well, yeah. Have you gone to any of those events? Have you been?
+
+Speaker B: No.
+
+Speaker C: Not yet.
+
+Speaker B: No. And it's very frustrating because you see it from a distance and having to buy the piece like afterward, like really.
+
+Speaker C: I know that next week there's NFT Show Europe, Which is, I believe, running from the 16th through the 18th in Valencia. It's probably not too far.
+
+Speaker A: An excuse for you to take the car out?
+
+Speaker B: I wish, but sadly, no, not sadly, but I have to go back home in Marseille, in the south of France, because I'm leaving for a world round trip after that for 3 months. So I have to get prepared for that.
+
+Speaker A: Is that vacation or is that work?
+
+Speaker C: Retired.
+
+Speaker A: Oh, okay. So your vacation's getting in the way of your art collecting.
+
+Speaker C: Yeah. Yeah.
+
+Speaker B: It's gonna be tough too. So that's the reason why I have this, uh, Temple wallet in my phone now so I can buy it from anywhere.
+
+Speaker C: Just gotta get that fixed.
+
+Speaker B: It's gonna be tough in the next room. Yeah.
+
+Speaker A: That would be a great Instagram account, which is every time you're buying on the road, like on the road, you just take a selfie.
+
+Speaker B: Yeah.
+
+Speaker A: And then compare it next to what you just bought.
+
+Speaker B: Yeah, that's a good idea, actually. But yeah, no live events. And I'm very frustrated by this, but it's okay.
+
+Speaker C: You'll get there.
+
+Speaker A: Yeah, we're fortunate that there's an event actually this weekend in New York. Yeah. I don't know that we're going to, at least for me, be able to actually go to the convention and try to participate in the live minting, but Some of the artists that are here, we're hopefully going to meet up with them. And like we kind of have talked about throughout, like the artists are so generous and interested in meeting people in the community and talking. And it's just like, we might get to go to dinner with some folks. That's really cool. You know?
+
+Speaker B: Yeah.
+
+Speaker A: You know, that's how we met Ivona and got her onto the show a few months ago. It's like for NFT NYC, we just happened to be at dinner together and she was like, oh cool. Yeah, I'll come on. It's like amazing.
+
+Speaker C: And then we learned a whole lot about like AI art and it's crazy.
+
+Speaker B: So you're saying maybe we're gonna have a Zancan episode?
+
+Speaker C: That would be the dream.
+
+Speaker A: I don't know. That would be the dream.
+
+Speaker B: I mean, let's make it work.
+
+Speaker A: We've DM'd with him a little bit and I think there's interest there. It's just gonna depend on, you know, it's kinda like with Landlines. It's like whenever you're ready, right? Yeah. You can come on. Like, yeah, we're here. We're not gonna, we're, we're not gonna say no. You know, we'll, we'll take, we'll take a day off of work if we have to. But if that comes out of this, that would be amazing if we got something in the books. Because I think he's only done a few Twitter Spaces that are pretty short, nothing really substantial. And that would be great to have the first big long talk with him.
+
+Speaker B: That would be something.
+
+Speaker A: Trinity, anything else you want to bring up before we wrap up?
+
+Speaker C: I think that maybe we can just have a closing question, which would be looking into the future. What are some of the things that make you excited about where we're going and where the space is?
+
+Speaker B: It's funny because I had this discussion at lunch with a friend today. And I think what surprised me is like, every time I think the boundaries have been reached, someone is like pushing it again. Like, for example, emotional shell. It's insane to me because of that, because like the boundaries of what is possible in code has been pushed again. And so I'm really excited to see what's coming from the artist. And from a collector perspective, I'm very excited by this journey and see where it goes with the prints thing and maybe a show. We'll see. But yeah, it's very exciting. And For once, the we are early is true. Not necessarily from a resale and value thing, but from an artistic point of view, I think we are at the beginning of a big movement in art in general. So it's exciting.
+
+Speaker A: Awesome. I love it.
+
+Speaker C: Can't wait.
+
+Speaker A: Makes me feel good about this right here. You know, the Ledger. Well, LeMonde, Didi, thank you so much for taking the time. to come on the show today and talk to us about your perspective, about your collection, about your passion for artists and collaborations.
+
+Speaker B: Thank you for having me.
+
+Speaker A: Yeah, thank you so much. We'll be looking for you in the sales feed while you're traveling. I'm sure you'll still be there. Yeah. All right. Well, that's it. That was Le Monde 2D. Didi.
+
+Speaker C: Lemonade.
+
+Speaker A: Lemonade.
+
+Speaker B: Thank you, guys. Thank you.
+
+Speaker A: Thank you. And thanks everyone for listening. We hope you all enjoyed. We'll be back again soon with another episode. Later.

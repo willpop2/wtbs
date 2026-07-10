@@ -1,0 +1,427 @@
+Speaker A: Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. This time around we've got Liam Egan here. Pretty sure anyone who's ever been in the Discord knows Liam from being right at the top right of your screen there, always logged on in a moderator/team member role. What's up, Liam?
+
+Speaker B: How's it going?
+
+Speaker A: It's going well. Thank you for getting up early.
+
+Speaker B: No worries.
+
+Speaker C: Nothing like giving up a few hours on a nice Sunday afternoon or Sunday morning.
+
+Speaker B: Sunday morning.
+
+Speaker C: So you have the afternoon and maybe that's That's more accurate.
+
+Speaker A: Just the usual Sunday, wake up, record an interview, go to the farmer's market, you know.
+
+Speaker B: That's it. That's it.
+
+Speaker A: Well, Liam, we're really happy to have you on the show. I think you're the first, I mean, not counting Ciphrd, of course, like the first fxhash team member who's come on to talk to us. And of course, we also want to talk to you about your art. So I think we have a lot to kind of go through today in the show, but maybe first you can just do the usual intro that we ask everyone. Tell us a little bit about your history in art and coding, how you came to crypto, NFTs, Tezos, and fx hash.
+
+Speaker B: Yeah, absolutely. My background is in creative development, so I got my start in my particular industry, which is sort of advertising and marketing, back in like year 1999, so going back a way now. So I've been working as a programmer, as a creative programmer Specifically in this industry since then. I worked in Flash. I used to be sort of, you know, very interested in the demo scene back in the day. And about 10 years ago, I moved from Sydney, Australia to Vancouver. And I've been here ever since and really loving it. I got into NFTs first at the beginning of 2021.
+
+Speaker A: Okay.
+
+Speaker B: A sort of online friend of mine, Gérard Ferrande, @g1doot, was tweeting a lot about his work and it looked really interesting. And I'd been reading a lot a couple months before about NFTs and crypto and was kind of looking for an environmentally friendly avenue into that world and to play around with it a bit. And that presented a good opportunity to do that. And so that's how I sort of ended up in Terra. Tezos and NFTs generally. And the community in, you know, that you found online in Tezos, and I'm sure this is something that's echoed so often, was really strong and powerful and just felt really welcoming. And I hadn't felt that kind of connection to a creative coding community or to a creative community in a long time. And then at the end of 2021, I saw a tweet from Ciphrd looking for beta testers for his new generative art platform. And it just felt really right. I'd been sort of looking into Art Blocks for a while before that. And this just felt really good to sort of try something like this out on Tezos. And it was sort of on my back burner because I was really busy with work. And then I saw Sam Sal's drop, the first drop, Lobbies, and it Really sort of gave me a kick to, I was like, oh, I gotta, I've gotta get into this right now. And that was, that was when Particulate Hash came about. It was sort of a rush job and based on previous work, but yeah, that's, that's how I ended up there. And then I got involved in the Discord and it was very, very young, obviously at that point. I've been involved in forums and online communities like that since the very beginning of my career. And so my natural urge was just to sort of try and help out and like provide feedback and technical assistance and stuff. One of the things that I've always found really interesting actually, and this is a complete aside with fx hash, is I sort of expected that most of the artists would come from a technical background like mine. And I just found that that wasn't the case at all. Most of them sort of come to the world of generative art via like p5 and p5 alone, and their foundational JavaScript knowledge is perhaps not as advanced as I kind of expected. So it felt good to provide that sort of help for people as well. And then from there, I was asked to become a moderator on the Discord because of that help that I was providing. And the rest is kind of history. It just kind of developed from there.
+
+Speaker A: When you say people were not so well versed in JavaScript, do you mean like they were able to They were able to make their drops, but they couldn't then get them past the step of then making them fxhash compatible. And you were helping them implement fxRand and some of like the formatting stuff. And like, is that kind of the very earliest work you did?
+
+Speaker B: There's a lot of that for sure. I think what I was surprised by, and this is no shade at all, I don't mean it in this way, people's ability to debug their own code was perhaps more limited than I expected it to It was like problem solving things that I would consider basic, but were clearly not.
+
+Speaker C: Can you give an example for the things that we could come to you with when we have problems with our poor JS?
+
+Speaker B: One of the biggest ones, and this is one that I talk about quite often, is progressive rendering. Make your tokens render progressively rather than all in one frame, because that's going to break people's computers and it's going to break the signing server, it's a big deal for sure.
+
+Speaker C: That makes a lot of sense when you put it that way. I always think about that as like the computer science side of the house of how do we make things efficient and not just beautiful. I mean, but you're right that if you're just going through like the Coding Train videos, which are awesome, like kudos to Dan Shiffman for putting those out, but it doesn't really go into how to make things efficient.
+
+Speaker B: Right.
+
+Speaker C: I think for me, the quintessential example was trying to learn how to do circle packing in a way that just didn't crash my browser. All the time.
+
+Speaker B: Yeah, for sure. Those are sort of the problems I think that teach you those techniques as well, right?
+
+Speaker A: That's actually a problem that we see with a lot of drops, even still now going into like what, month 9 of fxhash existence as a platform. Was there ever any talk, and this is kind of transitioning into the fxhash team role and what's going on on your side, ever any talk of doing like some kind of documentation beyond what currently exists of like best practices in constructing your release for things like that? Because that one in particular has killed so many really promising works that they don't capture, they don't sign, like you said, people just go like, it doesn't work in my browser. That seems like something that would be a great resource to have.
+
+Speaker B: So there has been talk of that. We've sort of gone back and forth over those sorts of pieces of documentation or whatever. And the problem I think that we always run into with those kinds of things is that It's too easy to get opinionated with those kinds of things. And the last thing I think we want to do as a team is tell people how they should be writing code. We're not here to curate your art and we're not here to curate your code. And unfortunately that has an end result of meaning that some people just write bad code. But I think one of the things that's been on my mind over the last little while is maybe writing a series of articles that provide best practices in the way that— I apologize for this. I forget who wrote the article recently. Oh, it was me. about writing tokens that are resolution independent. But that was a really cool article. What I would love to see is more of those. And particularly, for example, with progressive rendering, I think that's probably something that's been on my mind for a while and would make a great article.
+
+Speaker C: When it comes to some of the documentation and guidelines, there are some ones that are native to fxhash, usually more around like the realm of how-tos, but, and I understand the need to not dictate how things are done, because really the beauty of fx hash as a platform is that it's so open. It's not dogmatic. Any sort of value consideration happens elsewhere and in the minds of the individual. I think that sounds like a really excellent idea because it's a way to help continue to grow the community further and make people better, whether it's on fx hash or not. I think one of the things that you mentioned earlier on when you were talking about how you got into this scene, and I don't mean to change the topic, I want to just go there and we can come straight back. It's something that came up in our interview with Piter Pasma, and that is the demo scene. We didn't get a chance to ask Piter what the demo scene was. Like we knew about it because we had been doing some research ahead of time. But it does seem like that it would have a huge impact on the way that you view the efficiency, perhaps, of the code that you're creating. And it really just kind of speaks to this, this whole process of it. Like looks meets performance, I suppose.
+
+Speaker B: The demo scene is an interesting one. It's such an explosively complex scene. I'm sure in your research in it, you sort of went into a little bit of the history of it, maybe some of the key players and some of the, I guess, even some of the festivals that surround that scene are pretty incredible. When I think about people who come out of that scene, they sort of fall into 2 categories in my mind. You've got the incredible technical programmers, the people who are really about efficiency, who are really about making code that runs anywhere and making it as small as possible. And then you just get the people who come out of it and just want to create crazy things. I forget the name of the guy. He's a really prominent coder on Shadertoy, but he makes some of the most minimal code that I've ever seen. And he's just amazing.
+
+Speaker C: Is the demo scene still around? Oh yeah, very much so. I presume it's like very different.
+
+Speaker B: It got its start in sort of like way back in the pirating days, right? Like that's sort of where it started from. And, you know, it was about creating these amazing demos for program cracking and stuff like that. But it's very much still around, at least in spirit. You've got a lot of people who sort of play around with that. And there are a lot of coders out there who call themselves demosceners, who all they do is kind of livestream shader programming and stuff like that.
+
+Speaker A: It's a very This is a side that like I think neither of us have really, you know, being non-coders, it's very foreign to us. But I actually didn't know that you were into it.
+
+Speaker B: Sorry, there's a great French website for anyone interested called Pouet, p-o-u-e-t.net. It's a really difficult site to navigate, but it's where all of the demo sceners sort of hang out, I think.
+
+Speaker C: When I look at this website, A, it is pure GeoCities, like 1999. And this is absolutely the type of unusable— I was gonna say unusable garbage site that I feel like people who are deep into something love because they only— they know how to use it.
+
+Speaker B: That's it, right? Like it's that insider knowledge. It's, it's pretty crazy. But there is some incredible stuff on there for anyone willing to dig a little bit.
+
+Speaker A: Outside of the color schemes here and kind of the friendly vibes, reminds me of like the early Whereas days. a bit too. Like you'd get exactly this type of site, but it would be more like black and neon green versus this kind of nice, cool shade of blue.
+
+Speaker B: Yeah. And this changes frequently too, the design and the logo and everything. It's, yeah.
+
+Speaker A: It's so interesting. Like, I feel like there's a lot of old school or what we would consider like the old school artists who drop on fx hash from time to time who originated doing that type of thing. And definitely something that probably needs to be the topic of a few fx articles to bring that history out. But, you know, Liam, so you have a full-time job, but you also have, I guess, an unofficial official job with fxhash now as a team member. I feel like the whole fxhash team and the platform itself is very kind of like shrouded in mystery at times and like who's doing what and what's going on in the background. And, you know, I'm not asking you to like communicate things that aren't ready to be announced or anything like that, but maybe you can give us a little insight into like—
+
+Speaker B: Yeah.
+
+Speaker A: What it's like being on the team, what your role is, in general, like what's going on to the extent that you can share?
+
+Speaker B: Yeah, for sure. So I don't think it's meant to be shrouded in mystery. I think that's just kind of happened. My role on the team now is, so I'm doing community moderation, obviously. So I'm pretty present on the Discord. I do a lot of sort of investigation and scam finding. And I do that, I think, because I'm just good at finding those things, right? I'm pretty present on OpenProcessing and CodePen. And so I recognize a lot of code pretty quickly and it just felt like a kind of natural fit for me there. My other role on the team, which has sort of just been really getting started, is I'm trying to bring some new structure to the product development.
+
+Speaker A: Okay.
+
+Speaker B: workflow. You know, Ciphrd's been sort of handling all of that himself until very recently, and he's really good at it, but he's spread so thin at the moment that as a team, we've sort of been trying to take off of his plate the things that he doesn't necessarily want to deal with or shouldn't be dealing with so that he can get on with thinking about the next big features.
+
+Speaker C: Yeah.
+
+Speaker A: And implementing them. Yeah. I mean, when I say it's shrouded in mystery, I kind of mean like, I feel like Going into 1.0 launch, you know, there was the roadmap on the website that was like updated once or twice. You know, we even had Ciphrd on the show and talked all about all of that. And then I feel like since then, basically since that episode dropped, I feel like it's been like radio silence outside of the fact that there's obviously been a lot going on. Like there's been all the live events that fxhash has been doing.
+
+Speaker C: Roadmap last updated February 6th.
+
+Speaker B: Right.
+
+Speaker A: So fx just kind of Came out of nowhere and it kind of was alluded to a little bit when we talked to Ciphrd on that interview, but then it just happened, right? So I think, I don't know if there's a question there, but definitely it would be cool to get some more info.
+
+Speaker B: Okay.
+
+Speaker C: No, no, no.
+
+Speaker B: I mean, I can answer maybe the implied question.
+
+Speaker A: Do you just need one more person on the team who does comms maybe?
+
+Speaker B: I think a part of what we're going through at the moment is trying to introduce a little bit more of that transparency. So really bringing a little bit more visibility into the features that are coming up and communicating those perhaps a little bit better. I think what feels like secrecy was probably just disorganization on the part of communication, and that's hopefully something we'll address over the next few months. You touched briefly on events. So the events have been really, really important to fx hash, and they've been They have been eating up a lot of oxygen. They take a lot of time and effort and energy to organize and be a part of.
+
+Speaker C: We've seen some of the amazing releases that have come out of the events to support the events. And there have been just maybe 5 or 6, even just over the last couple of months throughout the summer, all the NFT shows and Art Basel, the Armory Show. Well, I don't know if the Armory Show was live minting, but we did have some fx hash artist representation, perhaps that. What are these events doing for the community? What is the strategic play for these events, do you think?
+
+Speaker B: The strategy in building up these events and in building up our live minting process really is to really open up the audience for fx hash and for generative art in general to the larger art world. I think it's a way of increasing the offering and bringing more people into the ecosystem. That's the hope. I think we've definitely gotten much better at accomplishing that goal over time.
+
+Speaker C: And I assume that a lot of the, it's overcoming friction, right? You know, when we talk about especially NFT shows, you know, there's the idea that people there, they love crypto, they love the NFT space, they have 25 Ethereum wallets. And that's it. Maybe Solana, who knows? But it's really overcoming like that area of friction where it's how do we get somebody to not just make a wallet, but also fund it and then continue on to— yeah, how do we create sticky experiences?
+
+Speaker B: That's it. Yeah. And the whole wallet creation and population experience has been, it's an ongoing area of friction, obviously. It's one place that we're spending a lot of time trying to figure out. As to the sticky experience, I think that's sort of being approached on 2 fronts. One is obviously the technical front, right? Saying, here's how you do this. Here's some information. Here's how you sort of get back into this. You know, the art that people collect, I think, is a really important part of that because it sort of has to inspire the person to sort of carry on and come back to it as such. The other part of that, I think, is in the communication. The communication for how and why and why you would want to is just as important.
+
+Speaker A: How much of that communication is about the art versus about like the proof of stake nature of Tezos? Or from the fxhash standpoint at these events, is it very much just like art and artist focused, or does it extend into the Tezos ecosystem and trying to one part defend the chain from people who may not know about it or may be suspicious of it and You know, stuff like that.
+
+Speaker B: For all of the stuff that I'm personally privy to, it's all about the art and the artists, right? And I think that's kind of an important part of it. I'm sure there are conversations that are defending the chain, but I'm not sure that much of that is particularly official.
+
+Speaker C: It's maybe more about defending the medium. And, you know, if Art Blocks has success or GM Studio has success, then that should trickle over to FXHash and to every other platform that's producing generative art as well. It's about how do we keep this movement going? That's it.
+
+Speaker B: For sure.
+
+Speaker C: Preferably in relation to fxhash specifically.
+
+Speaker B: Preferably, yeah. I don't know, it's interesting, right? Like the question of fxhash versus Art Blocks comes up not infrequently. And it's interesting. I think the 2 platforms have such vastly different offerings. And I think what fxhash is doing is Something very different to what Art Blocks is doing. And I think both are equally important to the ecosystem, but I think they both complement each other really well. I mean, we see this in a lot of the artists who either get started on fxhash and drop on Art Blocks and see great success there, or the other way around.
+
+Speaker A: Liam, you've had quite a role in the history of fxhash, helping to grow the platform through helping artists like getting on here, right? So you already kind of talked about your earliest days of helping people troubleshoot their code. You were also probably one of the original collaborative participants, like well into the early days of the beta before the contract was upgraded. You can find projects that just have like a little note in the description that was like, also Liam helped on this, you know, like that type of thing. Did that come out of like the same thing, like just being in the help sections of Discord, people saying, I have this drop that I don't know how to make it work? Or did you just, through your networking with a lot of other digital artists out there, did a lot of these things like originate with you? Or like, can you tell us a little bit about all these? Because I have quite a list here of some of your earliest collaborations, like Astraea's Loom, Letter to Young Poets, the Stupids avatars, and of course, like The Conjured with GoldCat. So yeah, tell us a little bit about how you became the collaborator in beta.
+
+Speaker B: Most of those came out of just networking prior to FXHash. So I met All of those people on Twitter in various capacities during my days on Hic Et Nunc. You know, I felt really strongly about fx hash as a platform to really bring in sort of more traditional artists rather than necessarily pure generative artists, which spawned a lot of really interesting conversations on the Discord over time. But yeah, all of those, every single one of those is with somebody who I had a reasonably strong connection with prior to fx hash being a thing. I think in all cases it was, except Astraea's Loom, Astraea's Loom was a true collaboration. It was both of us sitting down and saying, how do we make this work? But all of the rest of them was really sort of the artist coming to me and saying, how can I do this?
+
+Speaker C: And coming to you as somebody who is important within the platform space.
+
+Speaker B: Maybe, but also somebody that they know who programs and programs generative art.
+
+Speaker A: Definitely a good number of the early projects you helped on would now be classified as image composition. Did PureSpider put you out of business a little bit?
+
+Speaker B: Maybe, I don't know. PureSpider's framework, I think, is actually a really important part of the ecosystem now. I think what you will about image composition projects and PFP projects, I think their framework is obviously a very important part. It's used quite often and they've codified it in such a way that it just makes sense to non-programmers. And I think that that's something that absolutely needs to be celebrated.
+
+Speaker A: 100%. I've mentioned on the show before, but I'm kind of like slowly trying to talk my sister into doing a project that would use that because she's an illustrator and she's done a lot of cool stuff Making characters. And I think it's exactly the type of thing that she could put out on fx hash using that template and using my help, or maybe your help, not to volunteer you, but like, it does seem like an interesting tool in that way. Often people have an idea and then it's like that gap of executing, which is like, what's the code part of it?
+
+Speaker C: And I think that's also really speaks into that narrative of obviously we want to be about the art, right? And so how do we onboard more artists so that they can execute their creative vision? With or without a technical background. There are some gen art non-image comp maximalists around where if something is image composition, they won't look at it. Even image comp is often filtered out of the sales feed. Well, for on fxhash, if it's image comp plus PFP. And there is like such a backlash even on some projects where they might use a texture, for example, it's not even the whole thing. But ultimately it's more about how do we get more work? that people enjoy to create and collect rather than being all about, I guess, medium, medium being, is this made in p5?
+
+Speaker B: I think medium is a perfect word. Images provide a really interesting way to combine different mediums in generative art. In the case of a PFP, it's sort of layering things on top of each other, but you see it in other places as well. And I'm I'm not gonna spruik my own work here, but Astraea's Loom is a great example of that because it takes images that Rose created and uses them as a seed to sort of grow something else. And I think it's really exciting to see projects like that come up on fxhash because I think they challenge the generative art maximalists a little bit, and I think that's a really good thing. But, you know, it's also amazing to see what people do with that kind of stuff. There are a lot of, I think, I want to find a generous word, but maybe simple AI projects on the site at the moment. People who go to, say, Midjourney, produce a bunch of images, and then try to layer them in different ways to get them on the site. And I think those are interesting, but ultimately I think it's much more interesting when it's used for, as a way to generate something very, very new.
+
+Speaker C: I think this was a conversation that we broached with our interview with Ivona Tau, right? Because again, like, she is using technically image composition to help create her pieces, but the process that goes into the creation of those images is much more complex and nuanced than going through 40 iterations on Midjourney, for example.
+
+Speaker B: For sure. And I think Ivona's work absolutely needs to be called out in this space because It is, her work is incredible. And she does really interesting things with it. And, and I think I was involved in that original conversation on the Discord with her about what image composition meant for her work. It's tough that we need to make that distinction at that point, but it's sort of the unfortunate edge case in, in this whole thing.
+
+Speaker C: And the other one that comes to mind is Gearheart, the collaboration between, uh, Richard Nadler and Leonard Herzog, which I think does use a texture.
+
+Speaker A: Yes.
+
+Speaker B: Yeah. Yeah.
+
+Speaker C: But it's still super rad.
+
+Speaker A: Yes. That decision to cleave the sales feed and add the image composition tags. I mean, I got the sense from the communication we got from the team that that was like a very long drawn out conversation internally. I don't know if it was necessarily divisive. I imagine that it must have been kind of like consensus by the time it was decided, but What were some of the, in your opinion or from what you heard, like what were some of like the really, what was the team afraid of in cleaving the feed and adding these tags?
+
+Speaker B: I think the biggest fear, as with most of the decisions we make around these sorts of things, was just that it feels maybe a little bit too much like curation. We try very hard and we spend a lot of time thinking about whether something can be construed as being curation, because I think that's something that we want to avoid. And, you know, the decision to remove the artist channels, it It really came down to that in the end. I think splitting the sales feed in 2 ultimately resulted in probably a better experience for most of the users on the Discord, because there are people who are generative maximalists and really love to see just all of that generative art in one sales feed. And equally, there are people who are really into all of the PFP projects on fxhash and really enjoy seeing all of those happen in one place. So I think in the end, we were worried about it feeling like curation, but I think in the end it's actually a lot healthier. It feels a lot better. Those things are still available to both crowds. They just need to go to 2 different places now.
+
+Speaker C: Yeah, it's definitely a huge quality of life improvement. I mean, I think, Will, you're the number one person who anytime a PFP project would drop, it was just kind of rage quit Discord because sales feed was blowing up with apes or unicorns or stupids or whatever.
+
+Speaker B: Yeah.
+
+Speaker C: Just turning hands so many times at like 0.2 tez and it just felt very spammy, perhaps.
+
+Speaker B: Felt very Solana.
+
+Speaker A: Yeah. I wouldn't know.
+
+Speaker C: You know, that's a burn.
+
+Speaker A: No, I mean, I think from my opinion, I think it did 2 things. I mean, that was one of the big benefits, right? It was just the quality of life. In the sales feed, because the sales feed's a really useful tool. It also can be a dangerous tool when you see things like a 0.5 Tez 2000 edition PFP mint just start blowing up. I think it can become dangerous because it then creates FOMO and you can get people who just start buying, you know, basically quote unquote buying the top, right? And then getting stuck with a bunch of whatever animal of the day people were just having fun with, right?
+
+Speaker B: Yeah.
+
+Speaker A: So there is some of that risk of just people misinvesting based on what they see in the sales feed. But the other part of it too was like, we've had some drops in the past. There's one in particular that I won't name that I can think of that did a very good job of trying to disguise the fact that it was image composition and the way that it rendered and animated and deliberately like did a thing. And that piece really blew up on the sales feed and people were like aping into it because they thought it was legitimate code-based art. And then it was like the next day revealed that it wasn't. And I don't know if the token actually ever got moderated.
+
+Speaker B: Yeah.
+
+Speaker A: We can, I'll shoot it, shoot it to you later, but—
+
+Speaker B: Yeah, please do.
+
+Speaker A: When I saw that, that was kind of like, oh geez, this is not the path that we want to be going down, which is people pre-rendering images that look really good and then adding a little bit of code on top to kind of like reveal it to make it seem like it's being rendered live when it's not. Now, if that person released a drop like that, they would have to tag it. Otherwise it would get moderated. Back then we didn't have those tags. So to me, that's really good because it prevents kind of this very gray area scam sort of attempt.
+
+Speaker B: That's exactly why we introduced that particular tag in the first place, is because we were seeing people who were pre-rendering whatever fractals and then throwing them as an image composition and revealing them in some way, and it felt really deceptive. And unfortunately, it's caught a few people who sort of Legitimately use images, but I think ultimately it's led to a healthier perception among collectors.
+
+Speaker C: I definitely feel better not looking at the animal of the day, as Will so eloquently put it. I feel much more able to just kind of stay focused on the types of things I want to look at. That's absolutely wonderful. You know, I think there was one thing that was touched upon, and that is, you know, some of these PFP projects, you know, one of the hallmark examples of them is that Because of the way that they're constructed, you can get to 1,000 editions, 1,500 editions, 2,000 editions plus very easily. And I think what, Unicorns was 10,000, something crazy like that.
+
+Speaker B: Yeah.
+
+Speaker C: It's insane. That must have— but you know, that is one of the things that I know Will loves about your work is your ability to push the edition size well past the standard. 150, 250, 500 that we typically see. And so, Will, I'll let you ask your own question because this is your favorite.
+
+Speaker A: Well, especially the more recent stuff, Liam, like looking at your solo work or at least solo credited work, a lot of your earlier stuff, which was probably partially testing, I would say in the early days of the beta, is smaller edition size, but most notably Euphonic. Reisiger and Original Thread, you do tend to push your code and push your generative work just beyond what the typical expectation is. And there's a lot of factors that go into an artist deciding how many editions, right? I think especially as the market has gotten worse, I think we're seeing artists hedge and bring that number down. It's just the reality of it, but that doesn't, hasn't seemed to stop you. So what is your philosophy about it? And also, what is your practice like? And how do you find the confidence to go like, this one's going to be $1,500, like in the case of Euphonics?
+
+Speaker B: Thanks. It's a big compliment as well. The conclusion that I've sort of come to in my work is that I see the edition size as probably one of the most important factors in developing a long-form generative piece. I think it's really important if I'm saying I want as much detail and as much variability while retaining an obvious core thematic, then I need to push that as far as I possibly can. And there have been times that I've seen other people's tokens, and I'm not going to mention any, obviously, but that I've been disappointed that they just haven't seen their potential reached because the artist has maybe become nervous about sales and really sort of reduce the size of the edition. But yeah, I mean, that's the primary factor for me is making sure that there is enough room for the token to see its potential reached. Whether they all get purchased or not is another story, but that's my motivation.
+
+Speaker A: If you can expand a little bit though, like, so when you're going into a project now, is your goal, you know, aside from it being cool and maybe executing on a vision you have, I do want this to be over 500. I wanna try to get to 1,000. Like, do you have these little milestones for yourself as an artist or big milestones in the case, you know, getting to 1,000+ is pretty difficult to have the project hold up at those levels, right?
+
+Speaker B: So, mm-hmm.
+
+Speaker A: Can you try to elucidate that process a little bit too of also like, are you printing out thousands of things or creating grids and like really looking and how do you gut check that you've hit 1,000 confidently and that, you know, it's viable?
+
+Speaker B: Yeah. The primary method that I use is I take my feature space. So that's like the things that are variable in sort of the generative code. And I isolate groups of those into different pillars. So Euphonic is maybe a good example of that is there were different pillars. One of them was, I guess, compositional layout. So saying, is this a horizontal? Is this a vertical? Within that there was sort of different kinds of groupings, different layer varieties. And within those, having as much internal consistency as possible, but then pushing the variability of those as far as it can sort of lead. And so with Euphonic, you know, I spent days tweaking each one of those sort of verticals such that they could go as far as they could, but still sort of remain consistent and then bringing all of that together to try and produce some interesting outputs. And then at the very end, creating little flourishes on top of that. So for example, the different sort of UV layouts, so the circular ones and the spiral ones and stuff like that. Sort of gut checking them, I think with Euphonic, I was producing 500 outputs at a time and just like running it overnight and having them output images and then sort of trying to check all of them. Again, I don't know that I'm necessarily always consistently good at this, but I try to be. And I think for me, the technical consistency of my tokens is much more important to me than the artistic consistency. And I think that makes me a bad artist, but maybe an okay programmer. So.
+
+Speaker C: And that's a tension that I think we see often. As I think you were alluding to before, there are a lot of people who come at this from either the artistic background or that mindset or the technical mindset. It sounds like you're more from the technical background with kind of an eye towards the artistic side. But there is that tension that exists within a lot of the work that we see released. And I think that we're seeing a bunch of really, really great developers.
+
+Speaker B: Yeah.
+
+Speaker C: Starting to develop their eye and like their sense of taste and nuance.
+
+Speaker B: Yeah, very much so. And you're right, I think you see that often. It's rare, I think, the artists on fx hash that already has that, but it's always so exciting to see, right? The one artist that comes to mind is Hevey. Hevey's work is probably some of my favorite on the platform.
+
+Speaker C: From a technical perspective or just kind of the overall?
+
+Speaker B: Both, yeah, the overall.
+
+Speaker C: Hevey's description of the creation of Density, it's almost like a book at this point. I think I'm like halfway through picking it back up here and there. It does come across as a technical masterpiece, absolutely.
+
+Speaker B: Yeah, very much so. Density is probably one of my favorite tokens, for sure.
+
+Speaker A: We talked about it a lot on the show. You know, we praised certainly the technical side of it. It's no secret that I was like, Eh, kind of like on the outputs themselves. Yeah, I can appreciate the detail, but it wasn't like, um, you know, like the skeuomorphic stuff is just never really my thing anyways.
+
+Speaker B: So I mean, I'm clearly not all that into representational artwork myself, but for whatever reason, that particular piece spoke to me. I think Piter Pasma's work is also some incredible stuff, uh, both artistically and technically.
+
+Speaker C: Yeah, Ryan Bell, for example, is a person who's kind of come out of nowhere to really straddle both worlds. Obviously, Fragments of a Wave is the big one, but even before that, the first couple of drops were cool and just came in under the radar, seemingly out of nowhere.
+
+Speaker B: Yeah, definitely. I should call out Rudxane as well. You know, his work is equally sort of artistic and technically very, very good.
+
+Speaker A: Maybe you can stop conscripting him into these live events so he can release some projects again. It just feels like every single live event, it's like featuring a token by Rick Swahn, and then it's like, come on, we want our regular fxhash drops back, please.
+
+Speaker B: Well, maybe you should call that out to him here. I think, I feel like, yeah, I mean, one of the interesting new developments in the live minting feature that Ciphrd's been putting together is that it now uses allowlist functionality. And so I think increasingly what you'll see is tokens that have a live component, a live minting component, and a public component, because that's something that we can, we can actually accomplish now.
+
+Speaker C: Oh, so that is another excellent feature that is not reflected on February's roadmap.
+
+Speaker B: Well, it's, it's, it's definitely something very Very much in development, but yeah.
+
+Speaker C: So we should expect more live minting events in the future, perhaps less gatekept than they are today. Nobody needs to fly to Valencia or Basel or Mexico City in order to get some of these drops or just wait with bated breath, looking at CryptoNoises, waiting for the flip to—
+
+Speaker B: Right.
+
+Speaker C: Yeah.
+
+Speaker A: Waiting for the artist to accidentally open it without, yeah, implementing the allow link. implementing the reserves and then the bots get them all.
+
+Speaker B: Or, you know, scheduling it for a year from today, as was the case with Mythologic. That's my personal hope is that there'll be more sort of inclusion like that. There's going to be a lot more development in the live minting experience as well.
+
+Speaker A: Since we've kind of gone back to the platform discussion again here, you know, you are the biggest moderator as in Someone who's moderated projects. Every time you look in the feed, the crime feed, it's just moderated by Liam Egan, moderated by Liam Egan. What goes into that? Like how much of that is you snooping it? How much of that is stuff being reported to you? And what are some of the most common scam attempts? And another question to that would be like, how many of them do you feel like are purely in bad faith versus accidents versus like Just not knowing any better, you know?
+
+Speaker B: Probably 90% plus that we moderate are in bad faith. There's one particular person at the moment who keeps coming back under different names and minting various things from OpenProcessing and from p5.com. And their particular pattern is that they'll drop a couple of maybe lesser-known pieces of code on the site and And then so they build up their portfolio a bit and then they'll drop something from, you know, something really big and very easy to find. But it's always pretty satisfying when you catch someone like that and, you know, before they're able to cheat people out of stuff. But they also have patterns, right? Like there are ways that we've developed to be able to spot that person in advance and We try to use those avenues as much as possible as well. The primary sort of approach to that kind of copy minting now is just to use OpenProcessing or p5.com. Back when it first started, there was a lot of CodePen projects. We see a lot less of those now.
+
+Speaker A: Another thing that had come up from time to time before 1.0, I feel like, was some kind of identity association with wallets for collectors, for artists, making it a little harder for people to just become repeat offenders like that. And also for like scammers and people who were maybe suspected of running scripted wallets to monopolize drops and stuff. I feel like that conversation's totally dead at this point. Maybe just because there's a pure kind of Web3 philosophy underlying fx hash. Like, is it dead?
+
+Speaker C: Yeah.
+
+Speaker A: Are we always just going to be fighting the anonymity of wallet generation?
+
+Speaker B: Yeah, I think so. You know, we've had a lot of conversations internally about how we can further mitigate these things. And it always kind of comes back to that point, which is that we don't want to do— we don't want to do anything to stop people being able to easily onboard to the experience. We don't want to do anything that further stigmatizes people who decide to be anonymous and therefore not verified, because there's already a stigma attached to being an unverified artist on fx hash. And so it's very important to us to destigmatize that as much as possible, because there are a lot of really great, valid artists on the site who are anonymous.
+
+Speaker C: Yeah.
+
+Speaker B: unverified for various reasons. And so I think that conversation's not dead, but just ongoing on a low level is probably how I'd put it. Because of exactly what you said, it needs to be anonymous in order to work in this space, at least somewhat anonymous.
+
+Speaker C: At least from the collector angle, there are a couple of ideas that have been percolating and, you know, the allowlists is one really great way to ensure that like only pseudo-anonymous, like pseudo-anonymous people can still get access to drops that they want just based off of their transaction history and what they've purchased. And then I think the other big one that has been indefinitely delayed is the fx hash token. Because if I recall correctly, the early conversation around that was using that as a way to allow artists to kind of gatekeep some of their drops, so to speak, to ensure that bots or like wallet spammers aren't able to really gain access to these things readily. And so it becomes slightly more exclusive, but not entirely locked out.
+
+Speaker B: Yeah, absolutely. The token is an interesting one. So that's just kind of stuck in a regulatory holding pattern at the moment, obviously. Curated Spaces is another place that currently it's sort of tied to that token, but We're exploring ways to introduce that in a way that's perhaps a little more approachable under the current program. You know, so much of like not being caught out by scams is do your own research. And I hate saying this because it's, it feels like such a cop-out to me. It feels like there should be ways to protect people against these kinds of scams, but it really is. I mean, people ape into drops all the time that are just scammy as hell. And I kind of lament that because I'm, I sort of sit back here and I wonder why people are not doing their own research. And what I've come to realize is that there are just so many collectors and artists out there that just don't have those mental models, those tools to help them do that. And again, I've been trying to figure out a way to write an article about doing your own research in this kind of context, because it's a little different. It has its own nuances.
+
+Speaker C: One of the other reasons that people don't do as much of their own research these days is because you and the rest of the team, they've done, you've done such a great job of seemingly preventing scams to get to the surface. One was having the 3-hour lock and the other one was for like having, well, I guess the 3-hour lock was for unverified artists, right? I mean, I think that Will and I, you know, we both have lost tez on scam artists who have trailing spaces in their username that are just trying to drop something at the same day that like Will and Mapan was like dropping dragons, you know? And I think there have been so many things that have come out that prevent that. And so it does feel like a much secure and safer space than it was 9 months ago.
+
+Speaker B: I'm very pleased to hear that. Thank you. I've also lost quite a bit of Tez over time from those sorts of scams and others. I personally like to keep those iterations in my wallet to remind me not to be So gullible the next time.
+
+Speaker A: I think I still have a Benny Echo in my wallet.
+
+Speaker C: I mean, scam confirmed? I don't know.
+
+Speaker A: Only on the last one, right? I don't know if they actually— the previous tokens went back and got moderated. They may have been, but I don't know if it was like more of like a punishment versus a there was code found in them that was taken. We could probably do an entire episode just like doing the history of the scams and the after-the-fact moderation.
+
+Speaker B: Absolutely. Honestly, my favorite moment in this whole experience of moderating this stuff is people who then go back and rename their profiles to something really offensive to me. That's—
+
+Speaker A: Oh yeah. But that was in particular a flipper, right, who did that, not an artist?
+
+Speaker B: So there's been 3 of those that I can recall, but the first one was a guy who renamed Or person who renamed their profile to Liam Egan. That was probably one of my favorites.
+
+Speaker C: I mean, it's flattery in the highest form, right?
+
+Speaker B: It is, for sure.
+
+Speaker A: You are kind of the sheriff, so that's like—
+
+Speaker B: It's fine. I'm, I'm okay with that.
+
+Speaker C: I thought you were going to say that your favorite time in the history of FXHash when it came to scams was Adam Meierowitz.
+
+Speaker B: Oh my God, no, that was definitely not my favorite time.
+
+Speaker A: I kind of want to have Adam on the show, actually. I think it's a thing that most people don't even know because it was such an early day in use.
+
+Speaker C: I mean, it was so long ago. That was like December.
+
+Speaker A: End of November, early December. There were probably, what, a 10th of the people on the platform as there are now, if not less. And like that whole controversy and the archived chat is still down there in the Discord. I don't know. I kind of had this interest in talking to the more gray area characters. I've not had a lot of success booking them, but I have a lot of interest having them on the show, you know, and just kind of like, because they are a part of it. They're a part of the history and the story.
+
+Speaker B: For sure. I definitely think it'd be interesting. You know, I think Adam was understandably quite upset about the whole experience in the end, but I still, I stand by the decisions that the team made at that end.
+
+Speaker A: And in particular, the issue wasn't the art, it was some of the marketplace practices, right? And I'm assuming there was some blockchain analytics and sleuthing done to confirm that on the team side.
+
+Speaker B: I won't go into it too much, but it was pretty obvious. You can follow that chain. I think it was first found actually by #price-discussion.
+
+Speaker C: #price-discussion is full of people who have literally nothing better to do sometimes, myself included. It's the brain trust.
+
+Speaker B: It definitely is. Yeah.
+
+Speaker A: Have there been any other similar close call situations with behavior like that? I mean, I feel like from time to time there are some accusations thrown at multiple wallet ownership and suspicious activity in the sales feed still, but I haven't heard of or seen, at least publicly, anyone else who's been reprimanded or moderated There's definitely been other moderations.
+
+Speaker B: The accusation is obviously never enough, but those fly around on the Discord from time to time for sure. But yeah, no, there's definitely been other moderations and you can just search for price manipulation or market manipulation rather in the scam channel and you'll find at least a few examples. Nothing quite so public or divisive.
+
+Speaker A: I mean, I feel like this has been awesome. We've just asked so many random questions. It's been a bit less formal than our usual interviews, but there's so many like interesting things to talk about in the history of fx hash. Is there anything that we kind of missed, Liam? Like, what should we— anything else that we should talk about before we— as we're wrapping up?
+
+Speaker B: No, nothing I can think of. I think it was a great conversation. Thank you.
+
+Speaker C: Do you have any work in the pipeline that we should or could be expecting soon? Your own works, collabs?
+
+Speaker B: So I've been doing a bit of work with some of the people in TENDER Collabs and working with AJ and working with some of the artists over there. It's been, it's been a really enjoyable experience. So yeah, I think that's a lot of fun. I've recently been much more comfortable providing that kind of technical help than I have being artistic. I find being artistic a pretty big struggle. So I've been taking a little bit of time back from that, especially as things have gotten busier. But, uh, yeah, it's, it's been a lot of fun, uh, sort of doing that stuff. So nothing in the pipeline at the moment, thinking about a lot of things, but nothing solid coming about.
+
+Speaker A: Will you be on the contract in some capacity? I won't, no.
+
+Speaker B: Yeah.
+
+Speaker A: Helped by Liam, as like at the bottom of the description.
+
+Speaker C: Maybe. We'll all know. We'll know. It'll be in our memories. Just making sure those very complex Tender Collabs render efficiently.
+
+Speaker B: Right.
+
+Speaker C: Do not crash anybody's browser. I know that some of them are just kind of crazy. Again, disclosure, Will and I are a part of Tender. We see the Collabs sometimes as a work in progress and it's just mind-boggling. Yeah.
+
+Speaker A: There's a couple in particular I can think of coming up that may be very Graphically intense.
+
+Speaker C: Yeah.
+
+Speaker B: I didn't realize you two were a part of Tender, actually.
+
+Speaker A: Oh, well, we used to like do consistent disclosures at the beginning of the episodes even, because it was right when, in the weeks leading up to the Tender Pass especially, we were talking a lot about it. And also like when the collaborations started coming out, we were like, they were doing well and we felt like we had to cover them on the show, right? Like it would just be weird to omit them. Because that's not— I mean, do you know, like, we try to cover kind of everything and be very, I guess, historical in that sense. But the financial benefits of being in Tender are— it's not like we're taking in thousands of dollars a week or anything like that. Like, so—
+
+Speaker B: For sure.
+
+Speaker A: But it is like, at the end of the day, like, you know, we— there's also a whole transparency statement and like a list of everyone in Tender on Tender. I don't know if anyone's ever actually gone and looked at that as much as it's been tweeted about and promoted, like in an attempt at being transparent, but we just got in early writing and stuff.
+
+Speaker B: Yeah, that's it. I mean, it's so much of it. It's grown so much over time.
+
+Speaker C: The use of L2s within the FxHash space, that's like a whole other hour of conversation. Perhaps we can—
+
+Speaker B: Yeah, for sure. Yeah.
+
+Speaker C: Because there's so many people who want to do so many different things and especially with the new Article standard coming out. Like, I know that my brain is just going haywire with potential applications of that. Will, I have to talk to you about the idea of IP and licensing.
+
+Speaker A: Okay.
+
+Speaker C: As our legal IP expert.
+
+Speaker A: Yeah, I am a lawyer. I've got like one last question to wrap it up. Unless Trinity, do you want to ask anything?
+
+Speaker C: I asked my question about upcoming work.
+
+Speaker A: What are you excited about in the next few months? You said that there's going to be more communication, maybe more features coming out. Is there anything that you feel comfortable saying, like, that you're really excited about with high confidence that might release before the end of the year or beginning of next year? Like, what can we all look forward to on fxhash?
+
+Speaker B: There is some new features coming out with live minting, obviously. I know that this is not something that you two are particularly excited about, but I think, I think you will be when these features start to become apparent. Because they changed the way that a lot of this kind of works on the minting side. And so I think that's going to be really, really exciting once it comes out.
+
+Speaker A: I would be excited if there was a way for the hosts of this show to have like a QR code on their phone. And if someone met us, then that would like mint a piece that we had on fx hash that was closed, like unless they scanned it or something like that. That would be like a very cool execution of live minting. That would make me super happy. I don't know what the drop would look like. We would come up with something, but it would just be like the, you met Will or Trinity piece. That's the condition.
+
+Speaker C: Give us things.
+
+Speaker B: That's actually, that's actually a really cool idea. I like that a lot.
+
+Speaker A: All right. Get it done. Add it to the Notion board or whatever, Asana, whatever you're using. Throw it up there.
+
+Speaker C: We need a public roadmap. Public roadmap. Yeah.
+
+Speaker A: Well, that, that's actually the thing that I'm missing so much. I was so excited about talking I'm sorry to Ciphrd. And like, my skepticism of the token aside, I was really looking forward to writing proposals and having people vote on them through whatever mechanism, you know, token or not.
+
+Speaker B: Mm-hmm.
+
+Speaker A: And like, I still, I feel like there's so many things that feel like they would be small lift for the platform to execute, but would be huge quality of life improvements for the community that because there isn't even a mechanism other than people shouting in Discord, like the windows don't make sense, like these minting windows don't make sense. Dutch auctions need like 2 adjustments to them to make things—
+
+Speaker C: There's a feature request board. I've requested many features and some of them have actually come true. I get an email when they've been added to the roadmap and have been successfully executed.
+
+Speaker A: Maybe I need to shout in there more.
+
+Speaker B: You can always reach out to me as well and I can communicate those things. What I will say right now, actually, and maybe a little bit of an advertisement, we're looking for a lead developer at the moment that'll make all of this go a little bit more smoothly because currently Ciphrd is in the position of lead developer and it's just taking up too much time. So if anyone out there is experienced in blockchain and Tezos and, you know, has a front, full-stack developer background, then please get in touch.
+
+Speaker C: I feel like that could apply to so many artists on the platform.
+
+Speaker B: Right.
+
+Speaker A: I feel like Landlines. Landlines, I know, has written their own contracts and stuff. And Punevyr as well.
+
+Speaker C: Oh yeah, Punevyr too, for sure.
+
+Speaker A: I feel like that was an awesome conversation, Liam. I hope you feel good about it.
+
+Speaker C: And expect to get pinged by Will every day about new feature requests, new ideas.
+
+Speaker A: Yeah, for sure.
+
+Speaker C: You're going to regret saying that.
+
+Speaker B: I had this idea. Yeah, sure.
+
+Speaker A: If you can make the QR code thing come true, that would be sick. I don't know how how used it would be, but it would be very fun.
+
+Speaker B: It would be a lot of fun for sure. It's sort of a live minting experience outside of that function paradigm. Cool.
+
+Speaker C: All right.
+
+Speaker A: I mean, any parting words? Should we wrap it?
+
+Speaker B: I'm good. Thank you. No, it was great to talk to you both.
+
+Speaker A: Well, thank you again for getting up early. I hope you enjoy the rest of your Sunday, Liam.
+
+Speaker B: Thanks. You too.
+
+Speaker A: Get out there moderating, get those criminals off the street.
+
+Speaker B: I'm actually off for a hike now. Oh, wonderful.
+
+Speaker C: Oh.
+
+Speaker B: Off to touch some grass.
+
+Speaker C: Everything's gonna go to hell.
+
+Speaker B: Yeah, exactly, exactly.
+
+Speaker A: All right, well, that was Liam Egan, everyone. Be sure to say hello in Discord next time you're there. Thanks again to Liam for coming on the show. Thanks, Trinity, for getting up on Sunday. Both of you for getting up on Sunday and recording. Hope you all enjoyed. We'll be back again soon. Later.

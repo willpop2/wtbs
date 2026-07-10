@@ -1,0 +1,389 @@
+Speaker A: All right. Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. My name's Will and I'm joined by Trinity, who's making a special appearance today on day 8 or 9 of new baby life. Somehow it lined up. Trinity's here, so we're happy to have her back temporarily at least.
+
+Speaker B: I figured I'd show up. I wanted to talk to our extra, extra special guest. I don't like missing these interviews, especially when it's, you know, iconic people in the community.
+
+Speaker A: We are joined by Nudoru, Matt Perkins. We'll go by Matt for the purpose of this episode. Matt, how's it going?
+
+Speaker C: Hi, doing great. Happy to be here.
+
+Speaker A: Yeah, it's awesome to have you. We were chatting a little bit before the interview in Discord that you're one of like probably the most prolific, or at least for the first few months of the platform, one of the most prolific creators on the platform. You did something like, what was it, 20 projects in December of 2021 alone?
+
+Speaker C: It was a lot.
+
+Speaker A: And you've just been kind of a pillar within the platform basically since its inception. So maybe that's a good place to start, which is how you came to fx hash. You know, what is your background in art and coding? And yeah, like just crypto in general, was it always an interest for you or is it something that you came to because of your art?
+
+Speaker C: As a kid, I was pretty artistic. So I was, you know, I think I remember even in daycare just always drawing, creating. Being into Transformers and G.I. Joe and stuff like that as an '80s kid, always drawing and sketching in a sketchbook. And coming to computers pretty early, I think it was in the 5th grade. I was in a library program at my elementary school where we had a special computer program, which consisted of me and another person learning how to code on an Apple II in Apple BASIC. And I think we also had a turtle program.
+
+Speaker A: Oh, yeah.
+
+Speaker C: Where you could like tell the little cursor to move around the screen and draw little repetitive graphics. And later on, my dad actually got a computer for us to have at home that I figured out how to code BASIC on, you know, entering things from books I would check out from the library, doing little games like that. And it really progressed from there through a couple computers. And when I look back on it, all that was really generative art. I didn't consider it to be that at the time. But all the games and everything you've typed in created the graphics as part of the program. So I think I've been doing gen art for far too long. My earliest programs are drawing like circles and boxes on the screens and race cars and things like that. Then I went from there trying to do my own games in BASIC, not knowing how to load any graphics or I don't think even having a drawing program. Like any character or any animation I wanted on the screen would have to be created with BASIC. QuickBasic, the better BASIC, drawing little circles and characters and stuff. Then I kind of went from there. I got a job at a computer store, got into the ANSI art scene through a BBS that my friend started up then, which, you know, kind of quickly snowballed into the WARE scene and the demo scene and all the cool stuff an early '90s kid can get into once they get a modem. Joined a couple art groups. Ice Advertisements was the last one I was in. Did a lot of Photoshop. Graphical, we called them VGAs at a time, so they were high-res 640x480 illustrations using Kai's Power Tools, doing all kinds of really cool stuff. And I wanted to go to college to learn programming because I really wanted to do demo scene kind of stuff. Seeing all the really cool stuff that came out of Europe, Finland mostly, Future Crew and all those guys. But comp sci really was not for me because I didn't enjoy sitting in a cubicle programming on databases. Which is ironic because I wound up in a cubicle later. So I switched over to the art department, wound up with a degree in graphic design and illustration, did a lot of interesting stuff in the '90s in the digital art space, creating fonts, doing renders and— That is Bryce. Then managed to get into Flash, drawing a lot of early inspiration from Joshua Davis and his PreyStation site that he did at the time with a lot of really cool Flash animations and programs with Flash. Jared Tarbell was another early inspiration. I've heard a lot of people mention him too with a lot of the stuff that he had done. And then into the mid-2000s or so, I kind of went back to generative art, still in Flash. Flash Labs were really trendy at the time, I think. I remember Keith Peters and his Bit 101 site, and a couple other artists were putting up very interesting experiments, coded Flash stuff, all generative at the time. So I did that. And then—
+
+Speaker A: Yeah.
+
+Speaker C: We had kids, so I kind of took a backseat to all that extracurricular activities for quite a while, just doing extra JavaScript programming, learning frontend frameworks in my spare time, all of the cool frontend development kind of stuff, which is where I was at the time. And then sometime in the mid-teens, I ran across Joshua Davis's Skillshare course on generative art, and he was using Processing with the Hype framework that he had created. I think I worked through part of that, didn't get all the way through it. And then I think around 2018, I ran across Matt Delaury's Frontend Masters Workshop on generative art and WebGL. I devoured that very quickly and kind of stayed in touch with sort of the evolving modern generative art scene on the web via Twitter, hoping to one day pick it up. And then the NFT scene really started kind of in the late teens, and I saw a lot of that on Twitter. Twitter, people starting to talk about— I don't necessarily know if it was Art Blocks at the time, but more curated gen art on OpenSea. And I thought, hey, I've done this before, I can do that. So kind of with no knowledge of crypto or NFTs or anything, just jumped in in December 2001 on fxhash, putting stuff up there. So the entire year before that, starting in January, looking for a COVID hobby, I think by that point we're all pretty burned out of being trapped in the house. Earlier I had done photography, gone back through some illustration stuff. You know, I'm sitting in front of my computer working at home all the time anyway, so let's pull up gen art. So I started from, I think it started the end of January '21. Those are the earliest dates on the screenshots I have. Up until that December when I started on fxhash, I was just learning generative art, following Coding Train tutorials and other tutorials, just Coding.
+
+Speaker B: God bless Daniel Schiffman.
+
+Speaker C: None of us would be here without Coding Train.
+
+Speaker A: Seriously. There's like so much to follow up on in that answer. I feel like for everyone who's been making digital art, computer art for a long time, you, you probably name dropped a lot of stuff that they're going to appreciate. But I think Trinity and I are like, I'm just looking at a picture of this guy Joshua Davis and he looks pretty intense, I gotta say.
+
+Speaker C: No, he's a really cool dude.
+
+Speaker A: Yeah.
+
+Speaker C: He's, you watch some of his talks. He's a really cool guy.
+
+Speaker A: If you were kind of around in a lot of these various scenes throughout the '90s and early 2000s, did the name Nudoru originate then? Is it a name that you've always used in kind of published work under that people might know you from still? And do you know a lot of the people? Like we've talked to some people on the show, like Liam obviously, and Piter Pasma, who came from the demo scene. And I'm sure there's like many others that we didn't even know.
+
+Speaker B: I didn't even know we had a demo scene in the US. I thought it was a European thing. Yeah.
+
+Speaker A: Europe only.
+
+Speaker C: It was mostly Europe. There were some people here, but, um, the Amiga scene, I think, really started in the Commodore scene over in Europe. Um, there Most of the people I remember were from Europe at the time. I believe we were all using our nicknames on IRC, so I don't know anybody's real name. In the '90s, I think when I first started, I think my very first internet handle was Potato King from the British TV show Red Dwarf. There's an episode in season 5. But I needed a cooler name. And on the monitor I was sitting in front of had like a horizontal phase and vertical phase adjustment knobs on the front to kind of align the picture on the tube. So I just shortened it to Hphase, that's H-F-A-Z-E. And that was my handle through ICE. '90s. And then once, once I grew up a little bit in college, I bought the domain name Koi Heavy Industries, kind of latching on some of the techno stuff and the Japanese stuff and anime that was getting popular at the time. And then after I grew up a little more, wanted slightly something different. So I was trying to think of a short .com name that I could get that wasn't taken, because by the mid-2000s, any decent name .com was taken and domain squatted. So I just started typing English words in, trying to find something, going to Google Translate or, you know, whatever the translator was at the time, trying to think of other words to use. And I settled on noodle in Japanese. So nudoru.com, I was able to get that. And it was just easier to consolidate everything around that really short name and internet address, the .com. So when I signed up for Twitter forever ago, I think it was 2008, I just went with that and it just kind of stuck. But my Instagram account still uses Hface.
+
+Speaker B: How did you even find fxhash? Yeah, I would say that we didn't, we didn't talk about that part. How did you find Tezos?
+
+Speaker C: So I was following a lot of generative artists because into early 2000 when I started, I was on the Reddit r/generative-creative-coding boards, reading those pretty regularly and following a lot of people on Twitter. Tyler Hobbs, Matt Laurier, Ben Coët, a lot of people. And I don't remember exactly who it was, but I know fxhash opened in November. And I started seeing it show up there and I thought, wow, this is cool. And I know I can't get into Art Blocks. I'd really rather like to put up a webpage and run my stuff from there because I really would rather people have the experience of creating their art in the browser versus me running off 1,000 outputs and curating one to put up. I actually started looking at OpenSea first and seeing how expensive it would be to put up a curated drop. You know, I didn't want to eat into the finances of my family very much, so it had to be within my lunch money budget that I had, and the gas fees on OpenSea were not within my lunch budget. So when I saw fx hash and Tezos, it was a natural fit because it was so easy for other artists to get into. And I've been to a lot of local— and we have a few local art groups that are aimed at getting people into NFT, one in particular run by DAFPO.
+
+Speaker B: DAFPO.
+
+Speaker C: Digital art and frame company on Twitter, is very interested in onboarding other artists into the Tezos NFT space, just because it's so approachable for traditional artists to enter the NFT space and has a low upfront investment. And it was just so nice to find this community that was easily approachable, easy to get into for not a lot of money, which is a big risk if you're first starting out. It's just a fit from there.
+
+Speaker A: So COVID hits, your kids are maybe a little bit older, you've got some more time on your hands too. You're just watching Coding Train, refamiliarizing yourself with JavaScript, p5, and like getting back into making stuff and then looking for a place to publish it, but not even necessarily thinking about, I'm gonna make a bunch of money off of this. I just have this work I'm doing as a hobby and I wanna just get it out there and let people play with it and enjoy it. Is that about right?
+
+Speaker C: Getting rich is great, but I didn't go into it with the idea to like make a fortune.
+
+Speaker A: Does that kind of explain the 19 projects we saw in December then from, from Raked Strokes in the very beginning on December 8th? to crayon attractors on December 28th and everything in between.
+
+Speaker C: Like 90% of that was work I had done earlier in the year. So I had all these experiments sitting around on GitHub, because at that time I had a public GitHub repo for all those things. And so when I started fxhash, I tried to look back at all the work I'd done before to just see what would stick or see what would make a market or like what would find anybody that was interested in it. Because up until then, I'd been sharing on a couple, I think the Reddit, generative Discord, throwing it into the wild on Twitter, trying to find an audience for any of this art stuff I was doing. I kind of found that on fxhash, so I just kind of, I didn't think all of it would sell out. I just thought it was all interesting and wanted to put it on the platform to see what kind of home it would find. And a few of those were created new during that month. I think the Terrain Quilt 1 and 2 were new. Yeah. But most of that was work that I'd done previously in the year and then went back to add the fx hash random number generator and all that, that wrapper around and clean up the code to make them look more visually interesting. Because I wasn't creating them for, you know, edition sizes of hundreds of editions. I was just doing them locally and saving interesting ones and then printing them off and giving them to my wife and putting them on my wall at the time. So they need a little bit of work, but I had a lot of projects. queued up and ready to go.
+
+Speaker B: This first set, it was bam, bam, bam. I think 3 projects on December 8th alone.
+
+Speaker C: That's nuts.
+
+Speaker B: We would never do that today.
+
+Speaker C: No, I don't know.
+
+Speaker B: But it was a different time.
+
+Speaker C: Yeah, I think it was so new and I was trying to figure it out and everybody was figuring it out. So I, I would not do anything like this today.
+
+Speaker B: But do any of these projects from December, I'm gonna say with the exception of Cold Mountain, cuz we can talk about that in a little bit more detail later. Are there any stories that we should know about or anything that sticks out to you in terms of what you were doing, what you were learning, like inspiration, that sort of thing?
+
+Speaker C: Yeah, I mean, they were all inspired by very different things. I think Raked Strokes is clearly a Fidenza-inspired thing. There are so many works out there that used, you know, particles and flow fields, tracing them with different pathing mechanisms that people have created. And then Raked Strokes, I think, was— it was the first one I minted, but it was, I think, one I created during the summer. So it was minted a couple months after I'd actually finished it. That one kind of set the theme for a lot of the other work I did with the sort of the natural media brushwork feel that a lot of my pieces have. So that kind of started it. To me, I was looking at, you know, trying to recreate Fidenza, doing a flow field with non-intersecting paths is one thing, but looking, you know, zooming into this and seeing how the individual marks on that piece were made and trying to reverse engineer how to get like a path to segment like that and look like Sort of a brush was very interesting to me, and I spent quite a number of weeks on that. Sand Evanescent version one. Like clearly, I intended on having more than one version of that. That one took me extremely long time to figure out how to do that because I was learning how to do a Poisson disk sampling with banding of the noise. Clearly, you know how Matt did Meridian, just trying to reverse engineer that and come up with something. You know, drawing inspiration from that on my own, that would. Look interesting and kind of figure that out at the same time. And that one actually drove a couple other pieces that I minted later, like Sand Tables and Cold Mountain. A lot of the stuff I learned while doing that found a new life there. And even Vapor Glitch, the Ghost in the Noise, that one also drew some inspiration from there. And that is the only one of mine that actually uses an external image. So that's probably the closest I have to ImageComp. Then all the ribbons and the Touché tiles. So there's a lot there, and a lot of that I took forward to other projects because I don't use p5. I do it the hard way in vanilla JavaScript. The Processing code is open source on GitHub. So what I've tried to do is create my own library to abstract some of the concepts to make it easier to draw on the canvas and reimplementing stuff from p5 because all the tutorials are for p5, and it's actually a very nice way to go about drawing shapes. And it's a good syntax and library to use. So anytime I find a roadblock or find a new function, I go back and see what's the p5 equivalent and try to implement a solution that mimics how that works. So it all builds a toolkit that I can pull from later, but that, that's all my code.
+
+Speaker B: Is there any reason why you're not using p5? I understand that you're building your own libraries as you go, and so it's just kind of easier to maintain this, but was there a choice behind why you kind of skipped over p5 in the first place?
+
+Speaker C: I like to make life hard for myself.
+
+Speaker B: Hell yeah.
+
+Speaker C: No, I was doing this as a hobby, as a full learning experience. So when I was doing frontend work, you know, I, I'm in HR departments creating training for people to take and other applications to support. So I'm largely a team of one on a team of non-developers. So I've always had latitude in how I build solutions and what to do. It's probably a maintenance nightmare. For the people that come behind me. But I'm out of that now, so I'm not creating headaches for anybody. But learning React and Angular and Vue and those libraries that were popular in the frontend world, it was easier for me to look under the hood and see how they worked and try to create my own versions of them to better understand them than it was to just watch a tutorial on how to use them. And that even goes back to the Flash work that I was doing in the 2000s. There was a popular library called Robot Legs at the time to build applications with. So I built my own version of Robot Legs and learned all about dependency injection and, you know, metaprogramming in Flash. That's what I really like is kind of figuring out how things work from the internals versus just using the tools. So I'd much rather build the tools than be the person that has to use the tools later. That interests me the most in taking it apart and figuring out how it works at a core level.
+
+Speaker A: Kind of going back to what you said earlier talking about your earliest work and kind of recreating brush strokes and textures. And, you know, I hadn't really made that connection. I think I, I saw it more apparently in some of your later— and by later I mean like January, February work versus December, you know, especially like Cold Mountain, Orchard, you know, where a lot of the stuff is getting a little bit more impressionistic and painterly, the refinement there, right?
+
+Speaker B: Mm-hmm.
+
+Speaker A: But yeah, looking at your earlier work, like you said, like a lot of it is exploring different techniques for creating brushstrokes and crayons, pen, like all these different mediums from the real world. I guess I'm curious, like, is that the puzzle solver in you of, hey, like, I'm going to figure out how I can take this code, wrangle it, and make it into something that I know from the art world? Or does that have to do with an attachment to a certain style? Like, do you just like impressionistic work in general, and that's what you kind of strive to create yourself? Like, where's that line between, like, puzzle solver and the artist, do you know what I mean?
+
+Speaker C: It's kind of both. So, you know, I've been doing art on the computer for quite a while, and I think I've explored several different methods of creating it, whether that be pure digital using circles and lines and, you know, primitives to create complex compositions. And that's pretty native to the medium. But to use loops and a lot of small geometry, like small circles or small rectangles, to approximate like a crayon or a pencil on the computer Is a very interesting puzzle for me because yeah, I could just draw a line from A to B, but to break down that line to like a series of steps along the way and add texture to it by drawing a lot of small circles and making it look like a pencil stroke, or even creating like an arrangement of dots like in a circle and just like smear it from point A to B and kind of mimic a brushstroke, is very interesting to me and where I'm at right now. So I was not very productive as an artist for a very long time. So to come back into it and sort of draw on the media that I experimented with while I was in the art program in college, and also to push it to be something that it's not. Yes, these are pixels on our screen, and it's very easy to slap a bunch of pixels on our screens, but to break that down and make it look like it's not a pixel. To me is very interesting and very, very fun. It's very fulfilling when I'm able to, you know, throw stuff up there and it looks like a paintbrush or oil pastels or, you know, something that it's not. And I have experimented with more primitive shapes, but for me it's very, very exciting. And looking at something like Orchard and what I was trying to do with that was my grandmother, very classic Southern woman, loved apples, had pictures of apples.
+
+Speaker A: Yeah.
+
+Speaker C: that she got at little art fairs or, you know, wherever, all around her house. And just, just sort of that naive art that you would find at a craft fair in a town somewhere and buy it, hang it in your house. Orchard is primarily kind of a colored pencil kind of thing. And just do it in a digital medium like that, it really interested me. And that's something I really wanted to recreate.
+
+Speaker A: That could be actually a good opportunity to maybe talk about that specific project, the follow-up, and then also the greater kind of market side to being an artist in fx hash, right? Because Orchard came not too long after Cold Mountain, which was probably your biggest first success. I'm sure some of the other stuff like felt big before that, but Cold Mountain was the one where it was like, oh, whoa. Like people are paying literal hundreds of dollars for some of these pieces on the secondary and it minted out really quickly.
+
+Speaker B: Oh, it was such a fun night in price discussion. Um, 'cause you were saying, if it's not minted by this time, I'm going to burn it. And it was like, community effort and ongoing discoverability to, let's just mint more of these and see what we get. That was such a fun and exciting evening. I remember it viscerally.
+
+Speaker C: Yeah. And I owe it to you, Trinity, actually.
+
+Speaker B: Whoa.
+
+Speaker C: Yeah. Well, we were discussing, you know, how much should I charge for this? How many editions should I charge for this? And I think a few people suggested 12, and I think I was just going to do like 150. And I think you at the time said, just shoot high, go 300. So yeah, I did that. And I don't remember where the 3-hour burn limit came from, but it seemed to have worked. And that was a very stressful night. It was a very exciting night, you know, talking it up on Twitter, price discussion, trying to get energy behind it and get it minted out. And I think it minted out with about 30 minutes to go. I just collapsed on the sofa after that and didn't move for about an hour. But that was, that was a very fun night.
+
+Speaker B: Must have been so exciting.
+
+Speaker C: It was. And I haven't not had another minty experience like that since. That was absolutely amazing.
+
+Speaker A: Orchard definitely went really quickly when it minted out, right? It was a pretty instant success. And I think where I was going with previous question was like, so then there was Grove that came after it and a bit of market backlash, a bit of community backlash to it. And I remember specifically, I don't know if it was in price discussion or on Twitter, you know, you were kind of trying to explain because we've encountered so much over the last year, issues with like code literacy, right? And understanding and like Just because projects might look similar to someone who's like collecting them doesn't mean that the code behind them is necessarily similar, or like the amounts of work that went into it. It's not just a retread from a code point of view, from an artist's point of view, but from a collector point of view, it might feel that way. You know, this is not a like, why did you release the same project twice question, Nudoru. It's more like, what was that like from your, from your perspective? Like, what did that do to you mentally? Like, how did that make you think about the market moving forward? Right. Because I think eventually you ended up burning that project. down and probably were a little surprised that it didn't mint out and got that backlash.
+
+Speaker C: Yeah, it was, you know, because this is a hobby for me. I largely follow my interests, my curiosity when I do projects. So I don't really try to pay attention, I think, to what's going on. So I did Orchard and that was a pretty good success. But while I was doing that, I thought, you know, I've got these brushstrokes that I've used before and I could just add a little more tilt. To the plane, because in Orchard it's pretty flat-on 2D. And I'm really influenced by the Impressionists, so I had ideas for how to tilt the perspective and to kind of switch up the rendering to do more of a brushstroke style and introduce some color tints to it by adding some atmospheric haze, shadow colors, highlight colors, and have those colors really kind of tint the whole piece and give different feels to the whole piece and make it look more like an impressionistic painting. So to me, it was an entirely different project with an entirely different approach using, you know, some of the same code for generating the tree shapes, but entirely different code for doing the rendering and the feeling. And, you know, the emotions and the aim I had behind that one were completely different than what I had with Orchard. But you're right, it kind of landed very flat. So there was an initial rush of a few mints, and then it pretty much stalled, and I spent quite a while trying to promote it.
+
+Speaker B: Yeah.
+
+Speaker C: On Twitter, I try not to shill too much in price discussion or on the Discord. I keep most of that to Twitter. But I did have some very good conversations with a couple collectors. I had one collector, I don't remember his name, but he was like entirely pissed off about the whole thing, how it devalued his Orchards that he paid, what, all of Fortes for or something like that at the time. And was just completely off the rails nuts about it. And it spilled over from like DMs to like public Twitter. But I did have some productive conversations with some other collectors about how, you know, while I did not intend for it to be so similar, because in my mind it wasn't, to an outsider collector looking in, it did appear to be similar. And I think that was a good learning opportunity for me. It didn't go very far because Turbulence and Caustics are pretty similar, but I approached those differently when I launched them. So I did end up burning a couple hundred editions of Grove, and I think I ended up minting 100 or 100 plus of them myself.
+
+Speaker B: Wow.
+
+Speaker C: And airdropping them back to people that had already minted Growth. So I hadn't paid that much attention because I'm coming at this from an artist, not so much from a collector, and even a collector looking at this as an investment opportunity, not as someone who just appreciates the art and buying the art, someone who wants to buy the art and flip it for 3x to make a profit on it. I hadn't been considering that in my releasing, so it was a good learning opportunity, somewhat a public learning opportunity to get that insight. And even Even as I've gone forward and working on projects, there's always, you know, drafts or alternate versions of work that are very, very cool and have some merit to develop further, to not do them directly after. So I've kind of held some projects back or not done them at all because they are too similar to something I just dropped. That was a learning opportunity.
+
+Speaker B: It's good to have those. It doesn't make it any less, I think, awkward or Painful. That was kind of a weird time on FX Hash. You know, it was maybe a couple of weeks after the whole thing that we talked about on our episode with like flockaroo and the Mountain View.
+
+Speaker A: The 2022 recap episode. Yeah.
+
+Speaker B: Yeah. Mountain View, Mountain Moves.
+
+Speaker C: I remember that. Yeah.
+
+Speaker B: That was really rough. I don't envy artists at all. I've said it many times before. I will say it many times again, but I do enjoy watching you kind of latch onto a concept, like a style and like not just reuse it, but kind of grow it. You already mentioned Turbulence and Caustics. And, you know, I think that we've seen it in other places, like, you know, as you've moved into different types of abstract art, especially with your most recent releases where it's like, I can see parts of Crisis Worlds and Splinter and Sphera, for example, where it's starting to kind of expand upon the styles themselves. Is that something that you are doing cognizantly or is it something that just you're exploring your interests? when it comes to some of these different abstract styles?
+
+Speaker C: Kind of a combination. So Crisis Worlds is closer to Fractured Cells in the way it uses the Voronoi texture. So that one, I was exploring a pen rendering technique, jittering the lines around and trying to make something. That one actually, kind of like Cold Mountain and Deep Forest, I tried to have sort of a theme or a feeling behind it. Each project does grow on all the work before it. So I think for an artist, it's very difficult to do something original without having some throwback to past works. It's not always hard, but sometimes it's difficult because when you have ideas that you didn't fully realize or fully implement in a past project, to not draw from those ideas when you do a new project. Feral was something I had, I wasn't really intending that to be a project. That one came out for the fxhash Turns 1 event, and I wanted to do something for it. So that is some code from an experiment I had. That I cleaned up so that I would have something for that event and something to donate. I think 75% of the sales from that went to Processing Foundation. That's kind of how that came about, but it was using curl noise, something I hadn't used up until that point, and some whirly noise, something I'd used or just started to mess around with. So you have so many ideas and it's really a shame to see them all go to waste. So to pull from them and to create something with them that you can share. I think is what I'm trying to do.
+
+Speaker B: I don't think it's a waste ever. You're putting a piece of yourself out there and you're, you are sharing. And I think that, you know, every single time you're growing your craft, right? So I, I think that's everything is totally worthwhile to the utmost extent.
+
+Speaker C: Mm-hmm. Okay.
+
+Speaker A: Counterpoint. I already own 10 pieces of Matt, and if he puts out another piece of himself, it dilutes the 10 that I own. Did you think about that, Trinity?
+
+Speaker B: But how many pieces of Matt are there? That's the question, Matt. How many pieces of there are you?
+
+Speaker C: Yeah. Inside each of us is infinite worlds. It goes on forever.
+
+Speaker A: You had all that backlog that went into December, maybe even spilling into January. Definitely since January, you've slowed down a bit with only maybe 2 releases per month, still going at a pretty good pace. Like, obviously, like you said, it's a hobby. You're just exploring a lot of stuff, but as you've been on the platform now for a year, Do you think more consciously of like, do I have a style as an artist? Like, do I start treating this more professionally? Do I need to start thinking about pacing, about what concepts I follow? Like, uh, you know, we talk a lot on the show about like the meta too. Like you, you were on the brushstroke stuff way early and now that's like huge, right? But you haven't really come back to it. I mean, you, I guess you came back to it a little bit with your holiday release here.
+
+Speaker B: And Deep Forest too. Oh my gosh. So good.
+
+Speaker A: Yeah, from I don't know how many months back, but I guess like, how do you think about the future, right? Going into year 2 of FX Hash and like looking back on your first year.
+
+Speaker C: Yeah, so I've definitely slowed down. I think Deep Forest was kind of the point where I consciously tried to force myself to sit on something for a very long time and try to get out every idea I could possibly have in a piece. Not just for the variations, just so that I wouldn't leave anything on the floor. Put everything I could think of into it, and I think that one I overthought quite a lot. So, Deep Forest and Symbology 437 both got me kind of stumped, kind of locked up trying to think of everything I could possibly do to push all those ideas forward. And since then, I've tried to think of everything I could possibly put into a piece or have it singularly focused on an idea I want to explore so that they're all unique. So, Deep Forest is clearly an evolution of what I was trying to do with Grove. with the impressionistic style. There was a challenge on Twitter posted to recreate Gustav Klimt's birch forests in code. Someone tagged me in that months prior, so I was looking for a new project to do after The Space Inside, and I remembered that tweet that I needed to go back and try to do rich, lush, colorful forest scenes. It's everything I tried to do prior, but I didn't have the technical skill to implement it at that time, so I learned more Than I knew then. So I tried to put that into rendering that one ornamental tree after it, reused some code that I created while doing Deep Forest. I think Ornamental Tree was reserves only for people that had my other pre-tree work. And then Symbology 437 started from the Blind Gallery piece I did, Semicollision, on the second Blind Gallery. I made sure it was okay to do a long-form piece after that short-form piece came out. So, you know, I did that one, did the variations, did that, and then continued to write the code. To try to introduce new patterns, new styles, even tried to reach for some PFP type stuff in that one, just to experiment and see how far could I push this style versus, you know, repeating what we were just talking about, Portrait in Grow, coming up with another piece that could be seen as derivative of that one. And I think that one failed because it was just too varied and that it wasn't cohesive. So I've tried to be much more thoughtful and take much more time with each of these as I go to try to extract as much as possible from this before putting it away and moving on to the next one. And that has caused me to slow down quite a bit, which is not bad in that I believe it increases the quality of what I'm putting out and makes it a little more unique compared to the rest of the stuff in my collection.
+
+Speaker B: Is there anything that you've released that you like are just so proud of? I mean, other than all of them, obviously. It's clear, especially since, as Will's been saying, that first, you know, December, January like run, you've slowed down, you've been taking the time. If you had to pick one piece to be like, on the COVID of your portfolio saying like, this is me, this is everything that I've believed in, which of these projects really would stand out to you and what should we go back and look at?
+
+Speaker C: For me, it would be Deep Forest just because I spend so much time actually in the forest or the woods around here. When I was a kid, we used to, you know, ride our dirt bikes on trails in the woods, playing hide and seek, army, or, you know, whatever we did in the '80s. And then I started, you know, mountain biking. And trail running as an adult and just trees and forests and nature is just so influential to where I've been as a person and to what I'm trying to represent as an artist now with code. Even without, when I would go on trail runs and just take pictures of trees, lay down on the ground, stand up and just all different angles to try to represent or to try to capture in a photo what I want to represent in code and then come back and try to code that. And I remember the local trail here a couple miles from my house. Just seeing the yellow flowers in the summer, you know, with the sky in the background. And, you know, some of that comes through in some of the variations, but I think overall that one is the one I'm most proud of because it's kind of the capstone to everything I was doing before that with the trees and the brushstrokes and everything. And then everything after that has been a little more abstract, not quite so brushstrokey, up until the holidays one.
+
+Speaker A: Well, I'll take the opposite side of that. You've released, I forget what the count was.
+
+Speaker C: 41.
+
+Speaker A: 41 projects.
+
+Speaker C: Damn.
+
+Speaker A: Is there anyone that you're like, man, I wish I hadn't released that one. This is really not my favorite. And then looking also in like the earliest projects you did, is there any that still stand out to you as like, not necessarily the earliest, but any that stand out to you as, wow, I'm really surprised, like this one didn't click with the community. Like you had really high expectations for it that for whatever reason weren't met by collectors.
+
+Speaker C: Anyone that didn't mint out is a failure. Not really a failure, but disappointed with. I think so. Taking that part of the question first, I think Symbology 437 would be the one I was most surprised with because that one was so different than any of the work I'd released previously and kind of went back to the ANSI ASCII stuff that I did in the '90s using those characters overlaid with each other as a texture. So I think I went way too far down the rabbit hole on that one. I think I spent maybe almost 2 months working on that piece and then seeing it not receive much support from the community was probably the biggest point of frustration for any of the pieces that I've done. Other than that, I think most of everything that came out in December, I would probably like to erase from the portfolio just because I've matured so much since then. Everything before Crayon Attractors, a lot of those are largely, you know, the one-trick, one-effect kind of pieces that don't really use many complex systems and are not very artistically appealing. To me, at this point, Lily Pads and the Ocean Waves are probably the biggest exceptions for those. I think I've seen some Lily Pads going in the secondary pretty recently, which is always nice to see an old project like that get some sales.
+
+Speaker B: People do love Trouché Tiles. Out of your December projects, it's the one with the highest floor by a really big margin.
+
+Speaker C: Is it? I haven't even looked. Wow, yeah, 18.
+
+Speaker A: I'm really partial to Fractured Cells. That released before there was a queue Right. So you couldn't see projects coming in advance. So you must've had it on Twitter. And that one I got super excited for and minted several of, and I just thought that one, I guess since you're kind of disowning some of those earlier projects, I'll say that was the first one I felt like it was so complete compared to the previous work.
+
+Speaker B: Yeah.
+
+Speaker C: That's after Crayon Attractors.
+
+Speaker A: Yeah. I think it was a favorite, favorite of the week, right, Trinity? I think we talked about it on the show.
+
+Speaker B: I think so. And that would've been our second episode. I believe, based off of the dates.
+
+Speaker C: That would be a good flashback. But yeah, that one really took me by surprise. I know that I think we had the feedback critique channel on the Discord at that point. Maybe not, but I remember getting a lot of feedback and talking through the community in one of the channels about that one. I've always shared, overshared, I think, work in progresses on Twitter. I think everybody generally knows what I'm about to release by following me there. That one was a surprise.
+
+Speaker B: As you've said, there's been such variety, you know, even just in that first swath of projects and ever since. And we can definitely see like your growth as an artist, just with some of like even the most recent projects, just the areas that you've been exploring. I will say that compared to some of the other artists that we've talked to on this show, if you show me a Lisa Orth piece, a Landlines piece, something by Jeres, well, we haven't talked to Jeres yet.
+
+Speaker C: Yeah.
+
+Speaker B: I would be able to point that out. Whereas I feel like stylistically speaking, you're more of an enigma. Is there something that you would say is Nudoru or is Matt? And if there isn't, that's fine. It's you do you. Maybe that's your style, is you're always growing and exploring.
+
+Speaker C: Yeah, I think probably the most direct thing I could say was that it would be natural organic forms is what I've tried to express and pull through. Looking through all my work, even Brakespokes has got the natural media and the organic shapes all the way through the most recent work. I try to avoid rectangles and straight sides. There's always a curve or a flow or something underlying it. And typically some sort of attempt to be a natural media or look like something that you could go down to the art store and create on some paper. I have experimented quite a lot and I don't necessarily have a problem with that. Looking back all the way to— well, I haven't shared it in it, maybe DeviantArt somewhere, but all the stuff I was doing in college way back when, all the art I was producing there and the fonts and the BBS advertisements I was doing in BGAs, all the way to the Flash work, all the way to this stuff. So I've had quite a range of doing very different styles, and I've always done artwork that interested me at the time. That's what I'm continuing to do. Right now, what's most interesting to me is these organic flowy shapes and trying to reproduce the local art store through pixels on the screen as much as possible.
+
+Speaker A: I've got a slightly different direction to go, 'cause we've talked a lot about your art, your history on the platform. One aspect that we haven't talked about is your collecting. So for somebody who's been around for a long time, you have quite an eclectic, well, I guess unsurprisingly an eclectic and diverse collection. Although as I'm scrolling through again and looking, I'm realizing you only ever seem to collect one of everything. I'm not seeing a single project in here other than, I guess, some of your own stuff where you have multiples. So what stands out or like, what is your philosophy behind collecting? Like, I mean, honestly, looking at this, it's like so diverse. It's hard to say like, What Nudoru likes, what he collects.
+
+Speaker C: Yeah, so I have not focused a lot on collecting. I'm primarily focused on it from myself as an artist. Since I try to save as much Tezos as possible, generally I usually collect at the end of a project. So after a project is released, I'll take a percentage, put it to my holding wallet, and use what's left over to collect work. Generally, I try to collect work from smaller artists or other artists that I've talked to on the feedback critique channel, work in progress channel. Twitter or, you know, other places to have conversations, try to collect their work that's interesting to me. Try to collect work that I just generally like the way it looks, maybe not the most technical or the deepest. I generally do not like AI-generated work. I don't like image composition as much. I think I did too much Photoshop in my life to want to collect too much of that on a platform like fx hash. I have tried to collect some of the, you know, the bigger grail pieces. But I'm not always successful in minting those because, you know, you have to gas a lot of that, quite a lot. And I've never quite figured out the magic number to put in the little box to make sure I get one of those mints. And I'm not really big on going into secondary and buying something for, you know, hundreds of Tez. So if I can't get it on primary, then I usually won't get it on secondary if I like it. So I'll just, you know, stare at it from afar or, you know, message the artist.
+
+Speaker A: Yeah.
+
+Speaker C: With how much I appreciate the work. It probably is quite an eclectic collection. I don't think I've gone back to even look at it in a while, but I was pretty lucky today that I got one of RevDanCatt's Vents and, um, How to Draw Bubbles. I was very surprised those went through.
+
+Speaker B: I think Vents were 600 editions, so I think that plus the holiday.
+
+Speaker C: Yeah.
+
+Speaker A: Noticing, of course, that you've collected, I think, at least one edition of every Waiting to Be Signed token, so big thank you for that. And we have to acknowledge that you were one of the original artists who I reached out to for the very first project. And throughout all the 3 that I was at least a part of coding, I used your structure for implementing the fxRandSeed. You gave me like the 2 little functions. I don't even know what the right term is. You just gave me some— you were just like, save this as a file and it just worked. So I just— like every project has a little file that's like commented, I think, that you gave this to me. So big—
+
+Speaker C: More than happy to help.
+
+Speaker B: Yeah.
+
+Speaker C: Absolutely welcome. All the work of my own that I meant to I know I have multiples of there. I planned on saving those for airdrops later. I think I just forgot to airdrop them.
+
+Speaker B: There's still later. We're always early. There's always later.
+
+Speaker C: Absolutely. So those are holding on for later donations and giveaways.
+
+Speaker B: I think that looking at what you collect and what you've made and, you know, just kind of your artistic identity, you've already said, you know, I'm very clear at telegraphing what I'm about to release via my works in progress on Twitter. And in Discord, but is there anything specific that you have in the queue or multiple things that are in the queue that you're working on?
+
+Speaker C: Yeah, I guess there's 2 things. So a couple weeks ago I tweeted a video of a spinning cube with spinning particles leaving behind trails, and that I think was the most viral tweet I've ever tweeted. That got something like 1,100 likes, which is absolutely insane. I like dropped that in the morning on Twitter and like went off with Landloss to like do a hayride through some Christmas lights or something. It was just, kept refreshing Twitter, just watching the like count go up. It was just insane. So that will clearly be something I release in the future. I'm not sure what it's gonna be. But yeah, I started looking into 3D shaders early in December. I have not produced anything useful with them yet. But a lot of what I've tried to do is just blast as many interesting looking pixels to the screen as quickly as I can so that it renders, you know, within the 4-minute fxhash capture window that you can get. And that's becoming increasingly difficult to do just using 2D canvas. So shaders is definitely the key to unlock the performance I'm after. I think I've been so slow to look at those and adopt them just because of a lot of And I think it was even earlier discussions with the fx hash preview not capturing those accurately, and then seeing a lot of people having issues with us working on their phones or laptops due to GPU differences. So a lot of those early difficulties kind of scared me off from that. But capping off this first year, going into the second year, it's absolutely something that I'm going to look into doing. And I've been sharing a lot of work in progresses on some brushstrokey circles on Twitter, and the Happy Holidays one that I dropped was the first to kind of use this new brushstroke method that I came up with. So it's a lot of very colorful line segments if you zoom out on it. I intend to release a couple more pieces utilizing that method before likely transitioning over to probably taking a month off, figuring out shaders, and then releasing something with that.
+
+Speaker B: I was thinking that you should release something that breaks everybody's brains on January 14th, which is the Cold Mountain anniversary.
+
+Speaker C: Oh, that's a good idea.
+
+Speaker B: That one's fun.
+
+Speaker C: How long is that? 3 weeks?
+
+Speaker A: Maybe you can do a shader implementation of Cold Mountain or something. But it does seem like every artist that we've been talking to recently is going into like the hyperbolic time chamber and learning shaders now because it's like everyone's kind of running up against the performance issue, right? Like, I don't know if you— we released an interview with Chris McCully a few weeks back and he had a run of tokens where it was just Like, man, the, the signer just couldn't catch up with them. And it's like, all right, shaders it is, you know?
+
+Speaker B: Landlines is all in on shaders. And even our interview with Amy Goodchild, like way back in the ice age, you know, she was like, shaders, we're learning them. Yeah.
+
+Speaker C: And it's Piter, you know, Piter Pasma really dragged everybody to shaders and just the amazing quality of what that magician is able to coax out of all of his like 1K of code. It's just amazing. And going back to Mark Ludgate's landscape, The Spectrum of Nature, I think, and looking at Chris's code and Melissa Wiederrecht, just what they're able to do with shaders is just so inspiring. And clearly GPU is the future. So definitely a direction that I need to go.
+
+Speaker A: Here's another rapid fire. I think we're kind of moving into like the rapid fire section here as we're crossing the hour mark of the interview. Have you considered or ever talked to anyone about doing collaborations, like also for future work? It seems to be a thing.
+
+Speaker C: It is a thing, and it's very difficult for me to honor a commitment to a timeline for a collaboration. It's definitely something I've been approached for. I know Camille Roux approached me for his Bridges project, but I turned him down at the time. And I think a couple of other artists have approached me, but because I, I don't know, I'm so sporadic in the way I work that I do this around the family and I do it around my day job. And I'm so driven by, you know, whatever is interesting to me at the time. It's very difficult for me to sit down and focus on deadlines for the generative work I do. So it's something I've had a hard time honoring commitment towards, or, you know, believing I could honor a commitment towards without completely derailing the effort. So it's been something I wanna get better at time management to enable me to do something like that.
+
+Speaker A: Right on.
+
+Speaker B: And that balance is so hard. You know, I think that even just paying attention to the fx hash community and podcasting around it is one thing, but that doesn't involve debugging, concept creation, all of that work. Is this your only hobby? Is this your, like, your second or third child?
+
+Speaker C: Yes. So I've channeled all the ADHD hyperfixation I have available to me this past year, just, you know, focusing on gen art and not doing very much else. I think I even neglected the yard. Middle-class suburbia, keep the grass mode kind of thing has fallen by the wayside in favor of doing gen art. So it's pretty much my only hobby right now. I kind of stopped running to support this, but coming into my second year, trying to find a better balance between everything I want to do and my family, my job, and this, this work is definitely something I'm going to look at getting better at.
+
+Speaker B: Well, you're already pretty damn good.
+
+Speaker C: So, thank you. Thank you.
+
+Speaker A: You mentioned earlier on that you were— some of your earliest coding was in making games. Like, were you a gamer growing up? Have you gamed into adulthood? And did you ever play Magic: The Gathering?
+
+Speaker C: No, I did not play Magic. My son briefly got interested in it for about 2 weeks because some of his classmates were, and then my wife tried to get into it with him. He built a small deck, went to a local comic shop and watched people play. But no, as a When I was a kid, I played RPGs like Final Fantasy, Dragon Warrior on the Nintendo. And I think once I got into the art scene in the '90s, I kind of focused on that and stopped playing games. I did play some computer games. I was big into Doom when that first came out. Like all my coworkers would all lug our massive computer towers, all 50 pounds of them, and monitors like to each other's houses 15 miles away, lug it into their, you know, game rooms, set them up with a token ring network and, you know, co-op Doom with each other for hours a night. But once I got to college, I really didn't do that at all because I was busy doing art school things. Earlier in the pandemic, when Genshin Impact came out, my daughter, who was very into anime, really liked that game. So I have spent an inordinate amount of time playing that particular game more than any other game lately. But, um, no, most of the stuff I did was trying to create— I think I was more interested in trying to recreate game mechanics than actually playing the games and come up with the code to do the interactions behind them. Goonies 2 on the original Nintendo was, I think, the game I was playing at the time, and it had sort of a side-scroller mode and then another mode where you're like, sort of a 3D view of a room and you had to like navigate like a maze of rooms and do things on the walls. And a lot of the games I tried to program were built around that kind of aspect, sort of navigating a maze. They were really crappy, but this is what I tried to do.
+
+Speaker B: But it seems like this idea of reverse engineering things. It's something that you've been like sticking to in a way, like, here's an idea, how do I do it?
+
+Speaker C: Right.
+
+Speaker B: That problem solver mindset that Will was talking about when we first started.
+
+Speaker C: That's definitely been the through line in my life. You know, I'm really bad at math too, so that's, that's been my perpetual challenge, was trying to learn the math to make it work.
+
+Speaker A: Someday we're gonna have a guest on who actually has played Magic: The Gathering. It feels like improbable that no one has, although I guess we haven't directly asked everyone. It seemed like a high probability hit with you with your background.
+
+Speaker B: Sorry, we'll get there.
+
+Speaker C: That should be a screener for the interviews. Have you played Magic? Then you're in.
+
+Speaker A: Should be. But Genshin is an interesting one for you to pick up, and it could definitely explain where some of the Tez profits may have gone, knowing some of the mechanics of that game. Do you want to talk about that aspect of creating on fx hash? Having built an art career over the last year while watching Tez precipitously decline along with the rest of crypto. I'll leave that kind of open-ended to the degree that you want to talk about, like, what does it kind of mean financially to be an artist on fxhash for a year?
+
+Speaker C: Yeah, we can talk about a little bit. So everyone should understand that they're getting involved in a financial instrument. Nothing that we discuss in this segment is considered financial advice because I have very bad financial advice. Definitely research the laws regarding taxation as it applies to the various income sources you're about to get involved in. And me coming into it not knowing anything was a bad idea. Late in the summer, in the fall, I started to actually look at the tax implications of all the work that I had created as an artist on the platform and had a very minor freakout that I think lasted for several months regarding how much money I would have to pay as a creator Under the United States tax system, the problem was I didn't cash out enough profits as I went along. I kind of had unwavering optimism in the crypto system, not knowing a whole lot about it or where it had been previously. So I kind of held it all in tez until as late as I could get away with. I did secure an accountant, and he looked over all my transactions, all the W-2s from last year, and kind of gave me a rough estimate of what I could expect my tax. Impact to be, and that was nearly exactly the amount of all the Tez I had in my wallet to date. So that was a bit of a financial pain point, especially since Tez had been falling, you know, knowing what your wallet was even a month prior to just, you know, watching Tez kind of drop off a cliff along with all the other cryptos was just kind of paralyzing for a while. So yeah, so if you're an artist, definitely research what your financial liability is should you choose to follow the law. in your country and get a firm handle on that as soon as you can in the process. That is really one of the reasons towards the end of the year my releases slowed down. I think personally I was kind of freaking out about that and not wanting to increase any liability. And also one of the reasons I haven't collected as much since the summer. I was also trying to save every last tez I could so that I could do— meet all my tax obligations without actually dipping into my family's finances, because I'm trying to keep these 2 things separate. I started off doing this to kind of build a nest egg for my kids as they went to college. My wife has retirement, you know, kind of stash the money and save it for later. You know, having to give all of it I earned so far to the US government in taxes here in 2023, it's definitely nerve-wracking and challenging from an artist's point of view.
+
+Speaker A: Do you have optimism for the next year though? Like now that you have a strategy and this knowledge at hand, like do you feel like that original goal that, like you said, it's been a bit dashed by just the greater macroeconomic conditions, right? Like everyone, I mean, it's pretty hard to find anyone who's like up this year in any sense, right? So, you know, knowing what you know now, ultimately, you still have the skills, you can code, you can make art, you have a method to continue to produce work, have it be minted, have it have secondary success. Like, do you have that optimism for the next year?
+
+Speaker C: Yeah, I do. You know, I believe in the artists in the community. I think that's, you know, Regardless of Tezos going to zero and everybody running nodes under their desk in their bedrooms to keep it alive, I think there's an amazing community of artists and collectors that have sprung up around Tezos and fxhash. And I think that will keep going for as long— I don't want to say forever, but it'll keep going for as long as it can. And I want to be a part of this community. I really value all the collectors, you guys, everybody who I've met in the community, and I definitely want to keep going in this and creating art. For as long as I can. You know, my wife reads, she does Sudoku, she plays games on her phone, and I, you know, I open my laptop and I code, you know, beside her on the sofa. So, you know, this is fun for me, it's problem solving for me. So I'll keep going on this for, I think, as long as I'm able to type until we all get neural implants and, you know, put in prompts to ChatGPT and it codes it for us.
+
+Speaker B: Just, hey Google, use your smart speaker.
+
+Speaker C: Yeah, for sure.
+
+Speaker B: I mean, I think that there's something to be said there, you know, and I know that we're kind of reaching We're approaching the melancholic end of our interview here, but what are your wishes, hopes, and dreams for the gen art community, the fx hash community, the Tezos community? What do you want to have happen? What can we be doing better? What would make this your dream world?
+
+Speaker C: That's a very difficult question to answer. So I, you know, I want everybody who is interested in this space to keep pushing forward in the space. You know, Tez dropping is very painful and it's kind of taken a lot of the profit out of the system. But I think everybody that's left has a deep appreciation for the art and for the community. And I think that is, that is a wonderful thing. And I think that, you know, from that core of people who appreciate the art, people who appreciate the artists, can go forward, you know, whatever. If we, you know, we have the next bull run, we all go to the moon. I think all the relationships and all the skills and all the, everything we've developed up until now can just continue forward. I just hope everybody, you know, stay in there, keep creating, keep collecting, keep being nice to each other. World peace, all the wonderful stuff, all the wonderful art.
+
+Speaker A: I like that. I feel like that was where we're moving back in an uplifting direction with that answer. You know, one more rapid fire that I guess we've been incorporating into our interviews lately, and hopefully this will be a nice fun way to end the episode. When you code, do you listen to anything, and do you have any music recommendations?
+
+Speaker C: I do, and I came prepared a little bit for this one. So when I code or when I'm working, I usually, I always have something with either no vocals or non-English language vocals so that it doesn't interfere with the flow. Usually what I will admit to listening to is on YouTube, there are a number of liquid drum and bass mixes. So I usually have one of those going in the background. I even downloaded a handful of them, have them locally.
+
+Speaker A: Oh, nice.
+
+Speaker C: on my computer so I don't have to be on the internet to listen to them. There is a channel called My Analog Journal that has a number of wonderful mixes of like, they have DJs spinning records, top-down view of the decks, everything. They're about 45 minutes to an hour long, so I listen to those. They have great exposure to like '70s, '80s music and styles from all over the world. I also listen to the Acid Jazz and Grooves Radio channel on YouTube. I really can't do the lo-fi. stuff too much because it's a little bit too melancholy and too repetitive.
+
+Speaker B: Yeah.
+
+Speaker C: And I can't get into that too much, so I don't do those. But the acid jazz stuff, I really got into acid jazz in college. I really like the electronic and jazz. That has an awesome flow. I also listen to— I have a playlist that I call Bossatronica, which is a lot of Latin jazz, Afro-Cuban jazz, bossa nova, going back all the way to Heber Alfonso Ipanema. In that playlist. So I have Bebel Gilberto, Cicera Vora, Dalada, and a lot of other names that I will completely butcher. Also, I was really into trip-hop, and I think that kind of continues through. So Massive Attack, still the best concert I ever went to. Nightmares on Wax, DeFez, Villa Brazila, Portishead, Thievery Corp, Hooverphonic, Daft Punk, Metric. Just a whole eclectic mix of stuff.
+
+Speaker B: Going back to your drum and bass, Have you ever listened to Pendulum?
+
+Speaker C: I don't know.
+
+Speaker A: I was thinking of that too.
+
+Speaker B: I know there's the one album. I just—
+
+Speaker A: One of Trinity's favorites. Yeah, Pendulum. Add it to your list, Matt.
+
+Speaker B: Hold your color, I'll send it to you.
+
+Speaker A: Awesome. Thank you for sharing those. I'm glad you weren't so squirrely about it like some previous guests.
+
+Speaker C: No, I was, I was very into music in college. I think iTunes and Spotify has kind of shifted myself and maybe others to more letting the system curate for you or just listen to other playlists and getting less into specific artists. But, you know, when I can, I try to follow the specific people I like from a playlist and add them to my list.
+
+Speaker B: I think for me, the mid to late 2000s was just such a key point because we were still pirating everything and we still had all of the discoverability.
+
+Speaker A: Yeah.
+
+Speaker C: Napster.
+
+Speaker B: Exactly.
+
+Speaker A: I feel like there was a point in high school, college, maybe even a little bit after where it was all about How big was your library of like CDs you'd ripped, music you pirated? And it's like, I have a terabyte of movies and music. And if you knew that guy who had the stuff and it was just like, you could just plug into their hard drive and get the stuff, you know, get what you wanted. And now Spotify, Apple Music, and all these subscription services, it's like pretty rare that you can't— every now and then you have to go to Bandcamp for something because they've just, you know, they're independent and they don't want to sign into those services.
+
+Speaker B: Mm-hmm.
+
+Speaker A: But it's like so available now. It doesn't make any sense.
+
+Speaker B: Yeah, it's so available, but there's no ownership, you know? Like, I feel so much less connected to the music I listen to now because it's like I don't have that connection. It's not mine.
+
+Speaker C: Yeah, I think there's something to having the CD or having the vinyl. I know this won't mean much for the podcast listeners, but you two can kind of see in my background on the video. So I've got my, my CDs, my stereo in the background, and my vinyl is down under that. Not very much. Mostly my grandpa's ABBA records that I inherited.
+
+Speaker A: This is Trinity's reminder to get that record player working. Have you gotten that record player working?
+
+Speaker B: Not yet. Someday. I might just get a new one.
+
+Speaker A: It's only been a couple years.
+
+Speaker B: It was working until I tried to fix it.
+
+Speaker A: So, oh, okay.
+
+Speaker B: If anybody knows how to fix '70s era German 3,000-part turntables, let me know.
+
+Speaker A: And you're in the greater New York area.
+
+Speaker B: Or literally anywhere. I'm desperate.
+
+Speaker A: Anywhere.
+
+Speaker B: Okay. I think I just have one last question, and that would be, if we were to interview anybody within the FX# community, artist, collector, or otherwise, who should we bring on the show? Call them out. Ice bucket challenge. Let's go.
+
+Speaker A: Call them out makes it sound like you want us to have an aggressive interview. Like, name them.
+
+Speaker C: Oh geez.
+
+Speaker B: This has been an aggressive interview.
+
+Speaker C: I don't want to get on anybody's bad side.
+
+Speaker A: I like this question though, Trinity. I love this one. I want to hear Matt's answer.
+
+Speaker C: Rev Dan Cat, I think, is really the first name that popped into my head because he is, he is such a great guy. He already has an established YouTube channel where he, you know, he talks and he shares. He's active on the Discord, active on Slacks. He is just such an interesting full-time artist. You know, I mean, you've already talked to Lisa Orth, so, and she's such an accomplished artist herself. Just, yeah, Rev Dan Cat would make a really great person to talk to and be a very interesting person to talk to.
+
+Speaker A: Check out, uh, his interview with Ken on the Arbitrarily Deterministic podcast.
+
+Speaker C: Did not know he did that.
+
+Speaker A: Yeah. I feel like Dan's always been on our list, but our ability to, let's just say like the structure by which we get these interviews is not as structured as it might seem from people outside.
+
+Speaker B: I added him to the list. I was gonna call him out in Discord, but it's way past midnight in the UK right now, so yeah, he'll miss it.
+
+Speaker C: So one of the newer artists Would be, um, Ratchitect from Alejandro.
+
+Speaker A: Alejandro, yeah.
+
+Speaker C: His work is very interesting, especially to me with his natural media bent to all of his crayons and pencils, and he's actually using shaders for some of his newer work. He is a newer artist on the scene and is doing some really great work.
+
+Speaker B: They're on the list.
+
+Speaker A: Plus the AI experiment that he did.
+
+Speaker C: Yes.
+
+Speaker A: It was really interesting.
+
+Speaker C: That was amazing.
+
+Speaker A: Love both of those. Definitely 2023 targets for us. Schedule pending. We can't make any promises yet. Counterpart has to agree. Well, thank you so much, Matt Nudoru, for coming on the show. I hope you enjoyed. It's been a pleasure having you.
+
+Speaker C: Absolutely. Thank you both.
+
+Speaker A: All right. Well, it's getting late here. We all have our kids and babies to attend to. Thanks again to Nudoru for taking the time to come on the show. We hope you all enjoyed. That's it for this one, everyone. We'll be back again soon with another. Until then, later.

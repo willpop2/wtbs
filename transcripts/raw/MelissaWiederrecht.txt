@@ -1,0 +1,505 @@
+Speaker A: Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Melissa Wiederrecht. Generative artists that you've probably come to know over the last year. 2022 was a very big year for Melissa. We're super excited to have her on the podcast today. Trinity is here, of course, as well. How's it going, everybody?
+
+Speaker B: I'll throw that over to you, Melissa, first. Everybody knows I'm doing great.
+
+Speaker C: As always.
+
+Speaker A: Doing good. Melissa, it's so awesome to have you on the show today. You're a name that comes up a lot on our program, comes up a lot on other podcasts that cover generative art. on Tezos and Ethereum. I feel like we know you through your art, but we don't really know you that much through your voice. So why don't you start off by giving just an introduction to yourself, your history in art, crypto coding, how you came to fx hash, just your general background.
+
+Speaker B: Have you ever played Magic: The Gathering?
+
+Speaker A: Oh yeah.
+
+Speaker B: I think that seems to be our new icebreaker. Come on.
+
+Speaker A: Okay.
+
+Speaker C: No, I haven't. And actually, I mean, every time you guys start talking about it, I'm like, What the heck are they talking about? I've like concluded from you guys it's a card game, but like, that's all.
+
+Speaker B: You got it in one. You know, we've just been noticing a correlation between people in this community and people who play Magic at some point in their lives. And if you are not in that Venn diagram, or at least in the middle of that Venn diagram, that's okay. There are more Venn diagrams out there. What was your question, Will?
+
+Speaker A: The introduction before you sidetracked it. Yeah. What is your Venn diagram, Melissa? Maybe you can give Can you tell us a bit about yourself and your history?
+
+Speaker C: Yeah. My Venn diagram is completely like art and coding and where they come together. Coding, I like taught myself, I think when I was 12, basically. My parents got our first computer at home when I was 10 and I was just like really fascinated. I don't even know how it got in my head, but I just got it in my head that I really wanted to learn how to code. So I went down to the local library and got a book on HTML. Went all the way through it and started coding up little websites. And then I was like, okay, I gotta learn JavaScript, but I didn't have any books about that and we didn't have internet yet. So I think I got like a book about Visual Basic and then I went all the way through that. And then I realized you could use Visual Basic with HTML somehow on a website. So this is me like a little 12-year-old or whatever in a small town in Wyoming and I was Trying to figure out how to do this stuff. So I like went up to this church elder one day because I thought apparently he had experience with computers and like, I'm like, how do you use this kind of coding with HTML? And he's just like looking at me like, what is this weird little girl?
+
+Speaker B: What is Visual Basic?
+
+Speaker C: Yeah. What did she want? Why is she asking me about coding? She's so weird. I've just always kind of been obsessed with coding. And then I also always really loved art. I was in all the art classes and I took painting and drawing. And then at home I played with Photoshop all day long. At some point I got a job as a web designer when I was 14, and I had that job all the way till I graduated high school. While I was there, I learned a little bit of Flash. And my boss, she was super cool. She had the mindset that like, if I didn't have something important going on, I should sit and like learn. So I picked up books, and at one point I came across this book called Flash Math Creativity. I don't know if you've ever had one of those moments where it's just like you discovered something and you're just like, this is perfectly it, this is what I want to do, I love this, I'm on fire and the world better watch out. That was me. That was one of those moments.
+
+Speaker B: So what is Flash Math Creativity, just for us losers who spent our teenage years playing Magic: The Gathering?
+
+Speaker C: Gosh, it's a book that, like, basically, um, an old version of generative art. Like, they were teaching how to make things move on sine waves and like just different ways to code things that look cool in Flash. So like generative art back in the day. I didn't understand much of it back then. Like, I hadn't even had trig in high school yet. So I found it exciting but like confusing. So I played with that for a while, but then I went off to the university. I studied computer science and math, and I actually totally left behind art of any sort for a while. No good reason. No logic behind it. And I actually kind of regret it. I should have taken art classes in college, but I didn't. So I got a bachelor's degree in computer science and math. I actually jumped straight into a PhD in computer science, and I got an NSF graduate research fellowship. I was doing cool research.
+
+Speaker B: What were you researching?
+
+Speaker C: I had this idea I wanted to do. Um, see if I can even remember how to put it. Because, spoiler alert, I never finished, okay?
+
+Speaker B: Yet.
+
+Speaker C: Yeah, yeah, yet, maybe. I wanted to make educational apps to teach little kids with artificial intelligence. They called it intelligent tutoring systems. The system would follow along with what you're doing and understand you and what you understand and then give you tasks that are like right exactly at your level.
+
+Speaker B: Basically let you stay in that like that flow state of things being not too hard and not too easy.
+
+Speaker C: I got really into the idea of it and everything, but like when it came down to sitting down and doing the research, I was like, meh. Not only that, but they like wanted me to go talk to people. I had to go take a bunch of iPads and do studies with actual kids in actual schools, and I was just like, oh dear, wait a minute. So I got really into the part of the process where I was making a puzzle game, and I was going to use this as my research thing. So I got really into the process of chopping up images basically in a generative fashion to make a puzzle that was different every time. A generative puzzle. Got so excited about that, but I got upset because like they wanted me to do the research for the research and I just wanted to make a pretty puzzle. I was like, I don't know about this. I don't really know if this is for me. And then like my family and I, we decided to move to Saudi Arabia. So that was just kind of it for me. I was like, I don't really want to go on to become a professor or do research. I just want to make things that I want to make. So I took a master's degree. I just presented my— what I'd done so far, my research and what I built and everything. And I took a master's degree and that's that. So I moved with my family. We moved to Saudi Arabia. And as soon as I was out of college, I started working on generative art again. The first stuff I was making, there's an Instagram account called Ninja Code Artist. It's a different Instagram account than my current one. It's got tons of animations and stuff.
+
+Speaker B: Frantically searching on Instagram.
+
+Speaker A: What year would you say this was?
+
+Speaker C: 2017? We moved in 2015, but like, I literally didn't have a good computer for like a year or internet or know how to eat food in a foreign country. It was just like a tough year, so I didn't make much. But you know, it must have been 2016 even, because 2017 is when I started making Skillshare classes. Because I was like, there's got to be a way, any way out there in the world to make money with generative art, and I'm going to figure out what it is. I started making Skillshare classes, and I hope nobody ever goes to look at them because I'm really embarrassed. I think my art wasn't very good back then.
+
+Speaker A: Were you successful in at least making money then? Because I think from our point of view, and from hearing a lot of people who have been in generative art for a long time, it seems like it was very difficult to actually make a career of it before NFTs and crypto?
+
+Speaker C: I made a bit. I've never made a lot from my classes. If I'd like stuck with it harder, I'm sure I could have done well. That was really hard for me, making videos. Like, I was so perfectionistic. It was stressful. It would take me months and months just to get myself to make videos. So I like— not a good fit for me, but I made a bit.
+
+Speaker B: Thank goodness for NFTs is what, what I'm hearing you say.
+
+Speaker C: Well, we're not even there yet. I had another big long stint So kind of during doing Skillshare classes, I discovered surface pattern design, which turned out to be a really interesting fit for generative art. I didn't know it in the beginning because surface patterns— so first of all, what they are, like, it's normally a square image that if you stick it next to itself, you won't see a line. So you can cover a whole surface with it.
+
+Speaker B: So wallpaper, for example.
+
+Speaker C: Wallpaper, sheets, clothing.
+
+Speaker B: It's print design.
+
+Speaker C: Yeah, exactly. I made a bunch of them, like just drawing and stuff. And then I quickly started trying to figure out how to code it. And then I learned that you can sell them on microstock websites like Shutterstock and Adobe Stock, all of the stocks. I'm on like 10 of them. The funny thing about that, I mean, I don't know if it's funny, but like you have to make a lot of work in order to do well. So quickly I was like, I must automate this. So I started using generative art to automate it.
+
+Speaker B: I think that's really cool. You know, my wife works in fashion and, you know, when we talk about things like with machine learning and AI and all of those things and like not just generative art, it's like the idea of being able to very quickly create a bunch of things. And like that just kind of putting traditional print designers, I suppose, like out of business because you're able to just iterate so efficiently and so effectively.
+
+Speaker C: Yeah. Well, AI would put surface pattern designers, including generative surface pattern designers, right off the map, I'm sure. Like it still takes time to put together. Generative surface patterns. Probably all the AI is very well trained on my art by now, my surface patterns, because I have 33,000 of them out there on Shutterstock.
+
+Speaker B: Wow.
+
+Speaker C: They're definitely training their models on it, right? So.
+
+Speaker B: So 33,000 created over the course of how long?
+
+Speaker C: Uh, I started February 2019 and quit making it about February 2022, basically. So what is that, 3 years?
+
+Speaker B: So $11,000 a year, about?
+
+Speaker C: Most of it was at the end because I like got faster and faster. I think the first year I had like $3,000 or something, but then I started getting my system really, really good. I was making like basically long-form collections of generative surface patterns. And I made, you know, a little bit of money with that, enough to like pay for my online subscriptions and get myself a nice computer. And it was nice. But I wouldn't have lived off of it. I look back now and I consider that time making all that work like really important in my development as both a generative artist and an artist taste-wise.
+
+Speaker B: How so? I mean, I guess it was technically your first foray back into art, I guess, since high school. Yeah.
+
+Speaker C: As I said, my Skillshare classes at that time, my art wasn't very good. I mean, it just takes time to develop taste. You have to make a lot of things, I think, to develop your taste. You're not just gonna start having taste automatically. I think people who come into generative art having an art background or a graphic design background of some sort have a huge leg up on everybody else. Like Studio Yorktown, for example, it's got serious experience with the art side, and then you just have to learn how to code and hack it together, and you're gonna do really good. But if you come at it with a computer science background, it's a lot harder, and you really need to like study art and make a lot of stuff. Yeah.
+
+Speaker B: The idea is to have a bit of both in your perspective, and then you get the best of all of the worlds.
+
+Speaker C: Yeah, of course.
+
+Speaker A: So then after working with the patterns and making so many of them over so long, what pushed you into doing NFTs? We saw you release quite a few projects, like pretty close together on fx hash in the beginning before your Art Blocks release. And I think we all kind of assumed that you must have had those kind of completed or something that you've been working on for a while. in the past. So like what pushed you over into NFTs and how'd you come to Tezos?
+
+Speaker C: The beginning of that story, we actually need to back up again to like 2019 because Snowfro, who introduced himself as Erik Calderon, emailed me having seen some of my patterns, my generative patterns on Reddit. They were terrazzo patterns and he has a tile business. And so he was thinking these crazy ideas about terrazzo patterns and tiles. And so he reached out to me and he's like, this is so cool, I love your art. In that email conversation, he mentioned to me like I'm trying to put together this thing called Art Blocks. It's going to be on the blockchain, and it's going to use hashes to uniquely identify a piece, and blah blah blah. And I was like, "That's really cool." So he's like, "Do you want to know more?" And I was like, "Sure." Okay, so step one: install MetaMask. And I'm like, "No, I don't think I'm ready for that." I didn't know what that was. It sounded scary. I didn't know him, so I was like. No, I'm not gonna do that right now. I'm not ready for that. So that was it. Like, I didn't hear from him again.
+
+Speaker B: Stranger danger. Congratulations for not getting scammed.
+
+Speaker A: Yeah. Right. Was your fear that it was a scam or that you were gonna get hacked in some way?
+
+Speaker C: I just didn't know. Like, how would I know he's not a scam?
+
+Speaker B: To be fair, it took Will like a year to convince me to get a crypto wallet. And I know him.
+
+Speaker C: Yeah.
+
+Speaker B: So I understand.
+
+Speaker C: Yeah. So then, okay, when I got into surface pattern design, I stopped posting things on social media because like it totally doesn't help with microstock to have social media. I was like, what's the point? So I kind of disconnected from the generative art community and I didn't know what was going on at all until November 2021. You know how your phone, like you scroll down on Google and it gives you all these recommendations of articles you might like? So I'm like randomly scrolling one night and this article comes up. It's like Something along the lines of generative artists are like making millions on Art Blocks. So this is like the other time in my life, same as when I found the FlashMath Creativity book. This is like, wait a minute, hello world, wait for me. I'm gonna do this, whatever the heck this is. I didn't realize though that it was the same thing that he reached out to me about. I was like really excited. I started thinking of projects, posting stuff in the Art Blocks Discord.
+
+Speaker B: Yeah.
+
+Speaker C: Discord. They have a channel, AV-only project share, and you like just throw stuff in there that you're working on that you might like to put on Art Blocks. So I was doing that for a couple months and also learning shaders and JavaScript. I had used JavaScript a little bit, but I'd never used it for creative coding.
+
+Speaker B: So you were basically learning like p5, I guess?
+
+Speaker C: I was learning p5 and shaders from scratch. And then in February, I spent like a couple weeks back in America with my mom without my kids, so I had like some extra time there. Actually, it was because my dad was dying. No, actually, sorry, because he died from cancer. But while I was there, I did have that extra time because my kids weren't there, and that's when I learned shaders. It was kind of like the thing to distract myself from what was going on. I got really into it. As soon as I came back, I was really jet-lagged, and then this one night I woke up at like 2 in the morning and I had this picture in my mind of a Calligraphy line going from top to bottom on a canvas that got water spilled on it, and I got up and I coded up the first version of it in about two hours. And that was the first version of Sudfa. I forgot to mention. Okay, so while I was in America for those couple weeks, I realized that Art Blocks was Eric Calderon who had reached out to me. So as soon as I got back here, I actually messaged him, and he. loved my work and remembered me and everything. So that was the start of it. I got into the application system and got it approved and everything, and I was working for months and months trying to get this project out and perfected and everything, and it was so hard. And I got so frustrated and tired of it by May. I think I was like waiting for the curation board or something. And I was so tired and frustrated. I was like, I just wanna release something. I don't remember how I discovered fx hash, but that was when I was like, okay, I'm just gonna do fx hash. So I sat down and I pulled up the template and I was like, okay, I got this. So I just figured out how to do the same stuff in the fx hash template, not the same stuff, similar stuff. And I just coded up Untitled in a couple hours and I threw it up there.
+
+Speaker B: I think you're competing with the likes of Punevyr and Punevyr's face, which, he did really, really quickly and put up. But, you know, I think on artistic merit, for first rapidly done project, I think you might win. No offense to Punevyr and Punevyr's face.
+
+Speaker C: So yeah, I didn't, like you guys said, you thought I might have a bunch of projects sitting back. I didn't. Everything I've made, I've made like brand new except Orbs. I had a previous version of it, but I remade it completely from scratch.
+
+Speaker B: I think that was the question because I know that when you first released, I think it was Untitled and maybe like around between that and Marble Opulence. Just visiting your website and seeing Orbs already there. If you had redone Orbs, then that makes sense.
+
+Speaker C: My first version, I put up some of my old surface pattern stuff cuz I just needed more stuff up there. I have a lot of stuff that's not on my website, obviously, but I took it off recently.
+
+Speaker A: Is it okay if I ask about Untitled here? Because that was your first piece that I think we all became aware of. I think we covered it a little bit on the show actually.
+
+Speaker B: Yeah, we definitely did.
+
+Speaker C: Did we really? I don't think I ever heard that.
+
+Speaker A: It might've been before we were like tagging artists on Twitter every time we mentioned them. But in particular, in my memory, the thing about this project was that Artnome and TheFunnyGuys and a couple other like really big collectors gravitated towards it immediately, started talking about it on social media. What was kind of your expectation when you put it up? What was the idea here? And were you really surprised at how such major influencers like came to it so quickly?
+
+Speaker C: Oh, I was completely shocked. I had no idea that was going to happen. It was super weird, but I have this suspicion because Art gnome was on the curation board at Art Blocks. I have this suspicion he might have known, and then he like saw my name or something because yeah, he went in right away and bought three mints, and about two minutes after the thing opened, he's like texting on Twitter. I don't know why people aren't buying more of this. And then of course, because he said so, they did. So I got like super lucky. Thank you, Art gnome. Yeah, and then probably whoever else came in probably all heard it before. From him, you know.
+
+Speaker B: This was the first NFT that you actually released then?
+
+Speaker C: Yeah.
+
+Speaker B: Selling out at 200 editions, 10 tez, more profitable than surface pattern design?
+
+Speaker C: That was gutsy. I didn't even know it. I'm happy, grateful.
+
+Speaker B: It's awesome and well deserved. And I think probably a really great first taste of what selling out any sort of project can do.
+
+Speaker C: Totally. I made like twice the amount of money from that one day right there than I had made in like 2 months of what I was doing for surface pattern design. So.
+
+Speaker B: So when Marble Opulence came out 6 days later, you're like, we figured the system out, right?
+
+Speaker C: I wouldn't say I figured it out because then I tried to do 512 editions. Obviously I didn't know what I was doing. I remember, Will, you were like, when I burnt it, you texted me on Twitter and you responded to my post or something. He's like, was that intentional? Did you plan on burning it? As if like I had some brilliant plan. No, I was just like trying to fill things out and I was like looking around at all the other projects and noticing that that's probably kind of too big to work out, so I just burned it.
+
+Speaker A: It just came as a surprise, you know? So sometimes when projects like that get burned, you never know like what the intention of the artist was. But so was that project like fully just made basically in that week between releases?
+
+Speaker C: Oh yeah, I just took the Untitled Code and switched it around a bit and added lines behind it and Sorted it and I was like, oh, this is cool. When I liked it, I was like, good, done. And I stuck it up.
+
+Speaker A: Clearly, I think your, your, your process has changed a little bit. You're not releasing things in a week anymore. So at what point did you kind of slow down and start dialing in your projects then and figuring out like, this is what it takes to do a 512 edition project? And what was that transition?
+
+Speaker B: Which, to be fair, you still haven't done since.
+
+Speaker C: Yeah, I've never done anything bigger than 400. I don't think any like specific transition period happened exactly. I'm just like, I'm just constantly watching and learning and listening to you guys and watching what happens. And after Sudfa and then after Solitude and Spaghetti, like I started getting more requests from like a lot of different people for different things. And so I realized I need to like slow down and plan ahead a little bit and be conscious of what I'm doing. So.
+
+Speaker B: So maybe that's a good time to go back to the release of Sudfa because that was what you had been working on for so long up to that point. And it sounds like banging your head against the wall, just trying to get it to where it needs to be. And I know very few things about Art Blocks. I don't know if it's from like expectations from the curation board or like the requirements for storing everything on-chain, but eventually you got there.
+
+Speaker C: Actually, the hardest thing for me was figuring out cross-browser compatibility. I spent months getting that right. That, and then on Retina displays. It was coming in pixelized. So many little things like that. And, you know, the Art Blocks crew, they're really, really good. They're like on top of it with you and helping you figure it out and making sure you dot every i and cross every t and make sure everything is perfect. And then I like went in front of the curation board and then they had feedback and then I had to come and edit all that again. And then go back to curation board again. And then it's like waiting and waiting and waiting and waiting and But they're great. It's really great for them to like handhold you like that and get you through it. And once you've done it and your project has everything it needs to be compatible on all the browsers and on all the devices and everything, it's so much easier.
+
+Speaker A: Start to finish, how long of a project was it? Like 6 months, longer?
+
+Speaker C: Well, I started in February and released the end of June. It felt long. Yeah, it felt horribly long.
+
+Speaker A: If you thought you were done and then you had to keep kind of like It was like kind of like hurry up and wait, right? Like you submit something, wait to get the feedback, then they ask for a change, make a change, resubmit it, wait. Like I can see how that could be a little frustrating, but it didn't stop you from wanting to do more with Art Blocks because you released another project as non-curated, right? As an Art Blocks Presents, Sandalia.
+
+Speaker C: Yeah, it was a playground actually at the time. So after Sudfall, my family and I, we went to Sudan and I was kind of sitting there with nothing to do with my little laptop. The first thing I did after Sudfa is I was like, okay, I have this following on FX hash and I feel really bad because I know most of those people can't come to Art Blocks and can't afford that. And so I was like, okay, FX hash people, I haven't forgot you. So that's when I sat down and made Solitude and released it. I think it was like two weeks after Sudfa. Basically at the same time, I started making Sandalia. I just started with an idea of I want to try making a directional blur. That goes in different directions for every pixel.
+
+Speaker B: You're getting blank stares. People listening can't see the blank stares, but yes.
+
+Speaker C: That was quite the look. Yeah. I don't know if you've played in Photoshop with a directional blur. It just like looks like it's blurring in one direction, like a motion blur. If you blur in just one single direction, as if you had moved a camera while you were taking a picture, everything's just kind of swooshed in a straight line.
+
+Speaker A: So everything's like smudged to the left to create the impression of movement or the opposite. Okay.
+
+Speaker C: Right. So then I figured if every pixel could have a different direction based on noise, Perlin noise, and I just tried it and I was like, woo, that's nice. I started posting it on Twitter and people were like, wow, that's amazing. I thought it was pretty cool. So I presented it to Art Blocks and they're like, yes, we love it. So that got into the system. But as you know, things take a while. So another day I was just like sitting there super bored. with my laptop in Sudan, and I'm like, I'm gonna do a 12-hour speedrun. I got nothing else to do, let's just do this. So that's when I did Spaghetti.
+
+Speaker A: And that was a huge breakthrough piece on fxhash, I feel like. That was the first time you kind of introduced the brushstroke painterly feel, and it kind of hit right at the right time in fxhash too, right? Like, that's kind of just around the time some other artists were starting to experiment with this stuff, the color blending and and creating this more painterful look. So like, where'd that idea come from? And also, where'd the name come from?
+
+Speaker C: So, um, I obviously wasn't very intentional about it, right? First of all, I didn't know that other people were trying to do that. I was just like playing around with, you know, I had my prompt with the diagonal line and the floral things. First the diagonal line, I thought it was really easy. And then like I was throwing texture on and it was the same texture I had been using on Sandalia. So I just kind of copied it over. I was trying to make these drippy things and they looked horrible. Deleted those and I made these swirly things that started going out from the line and I was like, oh, that's cool. And then I took— actually, it was the same blur from on top of Centellia. I just took it and stuck it on top of this project, but I made it like just a little bit and in a little bit of places and it just— I don't know, it just looked really cool. And then the name— oh gosh, names are like the worst thing ever. And I was just sitting there thinking, thinking, thinking. And it just came to me. It looks a little bit like spaghetti, right? But spaghetti by itself is boring. So I just kind of thought of bad pronunciations.
+
+Speaker B: Spaghetti.
+
+Speaker C: Spaghetti.
+
+Speaker B: There we go. I don't know if it's bad. It's fun.
+
+Speaker C: Yeah, cute.
+
+Speaker B: And, you know, I would say it's an improvement from, not that there's anything wrong with a project being called Untitled or a project being called Orbs, but, you know, this kind of hits a little bit differently. Yeah. So I think what we're hearing is that you should go to Sudan more often.
+
+Speaker C: Get really bored more often? Probably, yeah.
+
+Speaker B: Yes. How was it releasing on fxhash after the completion of your Art Blocks piece? Obviously beforehand it was like the catharsis of releasing something, but Art Blocks Curated is the biggest deal of the biggest deals, at least in the generative art world. What was it like releasing on fxhash after that?
+
+Speaker C: I don't think it felt really different. Just like, I wasn't sure how it was gonna go over. Like—
+
+Speaker A: Hey, as long as you're still enjoying it, we're happy for you to keep dropping work here.
+
+Speaker B: We're much cooler.
+
+Speaker C: Something fx hash has that Art Blocks will never have, as far as I know, is the ability to just release stuff. So I mean, that's important.
+
+Speaker A: Well, is that what happened with Take Wing? Like you kind of developed some of this new look with Spaghetti and then you wanted to further develop it but not take the multiple months to try to go through the Art Blocks process. And so you just thought like, okay, Take Wing, I'm gonna put it out on fx hash again.
+
+Speaker C: No, what happened there is Vertical Crypto reached out to me to do an exhibition in Berlin. And my mind is always working on some idea that I want to, I want to make. And at that point, I had the idea of going back and doing brushstrokes. I had done brushstrokes before in surface pattern design. I have some designs that are like brushstrokes on a flow field. I have some that are even— I took in like photographs of flowers and threw them around and then used brushstrokes on them, generative brushstrokes. So I just had that idea, I want to try to play with the brushstrokes again. So When Vertical Crypto reached out to me, I was just like, I'll just start playing with brushstrokes. And I wasn't trying to build on Spaghetti. Like, I feel like you guys feel they're related. They're not really related. They don't have like hardly anything in common.
+
+Speaker A: I think we just kind of assumed because these 2 projects were about 6 weeks apart, 7 weeks apart. And from our perspective, right, not knowing all the things you have going on in the background. And so we just saw this piece that is trying to do like more of like a digital paint thing and then another one. So that was just an assumption, I guess.
+
+Speaker B: I think maybe it's also like, especially with Take Wing, Spaghetti, and I guess to an extent Orbs, you definitely have like this richness in the colors that you use that kind of feels like it's growing upon itself, if that makes sense. There's just kind of this connection through the quality of color. And I don't know if that's just the shaders talking.
+
+Speaker C: No, I think that's just 'cause like every time I'm working on a project, I take the old project, delete a bunch of stuff and then add a bunch of stuff. My colors, same thing. For all I know, I haven't even gone to look, but there's probably some colors in there from Untitled and a lot that aren't. I'm constantly changing my color palettes between every project. For example, there's a green in Take Wing that shouldn't have been there, so I took it out and it's no longer there and you shall never see it again.
+
+Speaker B: Duly noted. Okay.
+
+Speaker A: Maybe that speaks to talking a little bit about your personal tastes and influences and artistically, how you feel about your work and your evolution. You know, you were talking about your background and not just having a coding experience but also an art experience. So how do you think about your taste, the direction of your work, and things like color?
+
+Speaker C: That's a really hard question. I know my inspirations. I'm really, really inspired by abstract art. There's this particular painting on my wall that I absolutely love. I bought it at a local furniture store for like $60 or something. Scott Naismith. I don't even know the name of this painting. It's in here somewhere, but so colorful and so abstract, and it's like blurred around the edges. I'm like super inspired by this painting. I like totally aspire to make something this beautiful one day.
+
+Speaker B: Well, you're definitely going in the right direction in terms of pulling in many colors. I can only see what's loading through Google Images right now, and vibrancy is the name of the game.
+
+Speaker C: Color is like the most important thing to me. Color and texture. Any art, it has to have beautiful colors and probably have beautiful textures for me to love it. So—
+
+Speaker A: I've seen an image of a print from him that actually does remind me very much of Take Wing, just in terms of the brushstroke and stuff. So I can definitely see the influence.
+
+Speaker B: It also has a cosmic rays vibe too.
+
+Speaker C: It's called Warmth Emanates. That's the one.
+
+Speaker A: Oh, it really has like some thick acrylic application on it too. Lots of texture.
+
+Speaker C: So the blur around the edges plus the texture, like it's not just a blur, it's like super textured, right? I just love that. And then as far as like generative artists, I was super inspired by Tyler Hobbs because back when I was starting to learn and try to get better at creative coding, all I knew is you could just draw a line. But Tyler was making brushstrokes that looked like calligraphy and looked like all sorts of really, really amazing things. And he had good color taste. So I was like, wow, this is really good.
+
+Speaker B: Do you have any favorite Tyler Hobbs pieces?
+
+Speaker C: Oh gosh, I don't even know the names of them. But mostly older stuff. His NFT stuff is really good, but I'm really inspired by his older stuff. There's this one that looks very much like abstract expressionist lines thrown everywhere. His name I cannot remember. But yeah, Tyler, his stuff is just so good, like fresh strokes and color and super inspired. Another major influence, Jared Tarbell.
+
+Speaker B: Oh, you mentioned him in your interview on Art Blocks Curated.
+
+Speaker C: Even back, I think, from when I was in like high school and playing with generative art, I found his stuff and I was like so impressed. My favorite is called Sand Stroke, and then there's another one, Intersection Aggregate. On Sand Stroke, I just love, you know, the blurriness.
+
+Speaker A: It looks generative. I don't know if it is, but it looks like—
+
+Speaker C: It is generative.
+
+Speaker A: Okay, amazing.
+
+Speaker C: I think it looks not generative.
+
+Speaker B: It's hard to tell. I thought that this was not generative, but looks like it could have been generative. If you know what I mean.
+
+Speaker C: Yeah.
+
+Speaker B: Not the other way around.
+
+Speaker A: Anything that I see that's like just a lot of repeated boxes like this, I assume generative, but I wasn't sure if this was someone who had kind of come up with that style before that.
+
+Speaker C: These days, y'all have seen really good generative art, right?
+
+Speaker A: But back when—
+
+Speaker B: spoiled—
+
+Speaker C: I saw this, it was like, whoa, like mind-blowing. Cool.
+
+Speaker A: Those are some good names for us to further research. And actually, as looking at Jared Tarbell here, I'm seeing a lot of stuff cross-referenced with Artnome. So I assume he's written about this artist. As well in the past.
+
+Speaker C: Probably.
+
+Speaker B: There is one more project I would like to discuss. I guess it's your first/only one-of-one to date, which was on Super Rare, Both Be Both. It is super different from everything else that you've released across other platforms. And I'm getting a 404 message when I'm clicking on the link right now.
+
+Speaker A: Yeah, same.
+
+Speaker B: Let's talk about Both Be Both, 'cause that was kind of that return to animated work and very different from everything that you've put out. Elsewhere. It was a huge auction.
+
+Speaker C: First of all, I have done one-of-ones before. I throw up stuff like randomly on OBJKT without announcement. Not too often, not too rarely, but I don't like to announce it. I hate to be like, oh, look everybody, come buy this one-of-one. So I just like don't even announce it.
+
+Speaker B: What made you go back to animated work, which I guess you hadn't done since your youth?
+
+Speaker C: I made a lot of it back around 2017 in that Ninja Code Artist account. I did a lot of animations. But yeah, it was my first NFT that was animated. I guess it was the January prompt, an infinite loop, that made me just do it again. I also figured releasing an animated piece is like super rare from me, so I thought it would be special to put it on SuperRare. That's probably what I'll do for like a lot of one-on-ones and really special single pieces.
+
+Speaker B: And that was also an auctioned piece. Auctions always feel a little bit risky because literally anything could happen. So how did that feel watching that auction go and eventually ending?
+
+Speaker C: It was shockingly amazing. I really don't know what to say.
+
+Speaker A: Shockingly amazing might just be the theme for 2022 though, for you, it sounds like.
+
+Speaker B: That's true.
+
+Speaker A: Between 2 Art Blocks releases, a bunch of really successful releases on fxhash, that Super Rare auction, being asked to do all these different events, like what was 2022 like for you? And now how has that made you think about yourself 2023 now going forward? Like you've already said you've been asked to do so much stuff. I can only imagine, right? Like every single big art fair event that's going to have NFTs, like I'm sure people are asking you to participate. So can you kind of encapsulate for us like 2022 and how you're approaching 2023?
+
+Speaker C: I would say 2022 was completely winging it, super exciting and life-changing. 2023, I don't even know. I can't even imagine honestly where 2023 is going, even though I'm like literally scheduled out through July with things I'm doing in 2023. It's crazy though, because like I'm a person who lives day by day and moment by moment. And I'm usually like completely living right here in this moment. It's so weird to me that I have a calendar at all. I have a calendar, but not all that calendar is scheduled out through July. So.
+
+Speaker B: And surface pattern design making is not on any single day in that calendar.
+
+Speaker C: I would totally go back and do surface pattern design, but not for like Shutterstock. If some company wants generative surface pattern designs and will respect that it's generative.
+
+Speaker B: I think it's also important to note that really 2022, like obviously you were working on projects before this, but when it came to releasing, it started in May, which is halfway through the year. So it's like a short 2022 for you.
+
+Speaker C: Yeah, it's insanely fast. Everything, I don't even know. It's crazy. I'm still totally winging it. I don't know what I'm doing.
+
+Speaker B: We live week by week and episode by episode, so can relate. Speaking of your 2023 calendar, I think you have one of your first big events coming up shortly slash now slash as this interview is being released, and that is the Odyssey exhibition that you're working on with Verse. In our own live timeline, as we're talking right now, your project just went up for exploration yesterday and We've all been rapidly devouring Cosmic Rays and flipping through iterations and—
+
+Speaker A: People are saving seeds and getting ready to mint.
+
+Speaker B: Would love to hear more about the process of this piece because it's topical.
+
+Speaker C: I'm just grinning ever since the moment Jamie from Verse posted the video on Twitter of this print that's like taller than the dude in the video. I'm just like, I can't stop grinning. It's so crazy. It looks like it's glowing. And then once they posted the algorithm and everybody's like playing with it, it's insane.
+
+Speaker B: You've been making it for a long time. We're experiencing it for the first time and we think it's insane.
+
+Speaker A: What's the background? What's the story behind this event? Like, what can you share with us about it?
+
+Speaker B: Or about the piece itself? Yeah.
+
+Speaker A: And about the piece itself.
+
+Speaker C: Well, the piece itself, I just got this idea. I wanted to try to take the idea of Take Wing, but make the brushstrokes like smudge what was under them. So I just Worked out the code for that, and then I made thousands of them. You know, you do it once, you can do it a thousand times with the code, right? So I don't know, like, I don't come into my art intentional at all, right? I was just playing around.
+
+Speaker B: It's emergent, perhaps.
+
+Speaker C: Yeah, I just play with stuff until I like it, right? So the first versions of that, they look way different, honestly. I had like some transparent rectangles thrown in there and these weird lines. They're kind of spaghetti-ish but not. They're like in these Blobby shapes. It looks super weird. The first ones, I mean, they were cool. I did really like the first versions, but they looked nothing like this version. So there was this day though while I was working on it where I pulled over the texture, the same one I put on Sandalia and Spaghetti and Taekwing. I pulled it over and stuck it over here, and when I did that, I accidentally, without realizing it, copied the same canvas on top of itself and overlaid it on itself, and the effect was just like A lot of contrast. I didn't realize what happened. I thought the texture did it. I was like, whoa, what is this? But instantly the image was just way more powerful all of a sudden. And that's when this piece was just like, poof, like started coming together. Got really excited about it. At some point I pulled in the lines. I made them whitish on one side, gradient, and then darkish on the other. And right in the middle where you can't see them at all, it's always on the focal point. Sometimes they're left to right and sometimes they're top to bottom. And sometimes the white is on the left or on the right. And sometimes it's on the top or the bottom.
+
+Speaker B: Yeah.
+
+Speaker C: And then all these different types of lines. The lines I put on there are just really trying to add some depth and interest and lead the eye around the canvas.
+
+Speaker B: Yeah, there's something that's happening with this piece that compared to your other work, it almost seems to glow. Just the way that, like, the quality of the light. Obviously right now I am looking at a digital screen because I'm looking at my laptop, so everything is glowing. I don't know if you know what I mean, where it's just the brightness, it pops differently.
+
+Speaker C: I'm not gonna lie, I'm kind of shocked by it. I didn't intend it. And I don't know where it came from. I'm hitting that button too, that generate button. And I'm just like, wow, that's cool. Whoa, that's cool. I'm in love with it.
+
+Speaker B: I don't know if you're allowed to share this yet, but I personally have my fingers crossed for open edition so that I don't need to worry about competing with everybody else for mints. It'll be my 3rd ever purchase on Ethereum. Anything that you can tell us about the release? I know that some stuff you're gonna keep under wraps.
+
+Speaker C: Yeah, I can't tell you exactly. Partially because we're still working it out. Partially because we're feeling it out, honestly. Seeing how everybody reacts and what they say.
+
+Speaker A: Is open edition in the conversation? Considering you're allowing people to save seeds and it's not like a truly random outcome in that sense.
+
+Speaker C: I refuse to answer that question.
+
+Speaker B: Okay. Gotcha. So it's not not.
+
+Speaker C: I am not going to answer the question.
+
+Speaker B: Okay.
+
+Speaker A: You know, we've seen open editions in the past, right? And the big risk is when it is kind of fully uncontrolled. But by allowing people to pick and choose the outputs, it becomes a little bit more like what Tyler Hobbs did with QQL, although that wasn't an open edition, it was $999. Or like what fxhash is going to allow once params launches in a couple weeks. So very cool. Not that it's going to happen, obviously, but the context is different when there's the ability to curate and pick your outputs versus getting a truly random Right.
+
+Speaker B: What's it like working with Jamie and everybody from Verse? Is it kind of like a middle ground between like Art Blocks and fx hash? Is there anything that you can share about like the whole process of working with them? Because they've done so many great exhibitions in the last just weeks.
+
+Speaker C: It's completely different than any other place. It's super crazy cool, actually. They're like building and changing and making new stuff like every single day. And I'll be like, hey, can we do this? And they're like, sure. And hey, can we do this? Oh, cool idea. Let's do that. And like the next day it'll be ready on the website. And then Jamie's like, what about this idea? How about if we let people choose their seeds? And I'm like, yeah. And then like a couple weeks later, it's ready. Let's do it. So they're gonna do crazy stuff. I can tell you, they're just getting started. It's gonna go insane.
+
+Speaker B: And it's such like a weird meld between like the crypto world and the traditional art world, 'cause they're kind of positioned as both. Way more so than Art Blocks, I would say.
+
+Speaker C: Yeah. They've got this amazing curator who apparently worked at the Tate and so many awesome things. Jamie is just like such an innovator and doing crazy things and thinking constantly about interesting ideas of how to do things and how different drop mechanics and all sorts of stuff.
+
+Speaker A: Super excited for that one. I mean, whatever you end up determining for price and editions, I think we're all out here saving seeds and hoping to get our hands on at least one pass. What else? I mean, you said you're Blocked out through what, July? So that's like half the year. Is there anything else that you can kind of talk about coming up this year? Do you intend to release more stuff on fx hash or is it just gonna be like events, events, events?
+
+Speaker C: I really, really wanna release stuff on fx hash, but I don't know when I will be able to yet.
+
+Speaker B: Another speedrun.
+
+Speaker C: You know, I've thought about it, but I kind of feel bad for like all these important people that I'm working with if I was just to do a speedrun. So I'm trying to be respectful. I have a cool exhibition. You'll probably hear about it soon. I can't say what it is. In the end of February and March. And then I have Bright Moments in May in Tokyo. I've got some really cool ideas. I haven't built it yet, but I've got really cool ideas for what to make for that. Ooh, I've got another thing in April that I can't tell you. That's fun. But I can tell you about in July, the Generative Art Club. We all voted on ideas for exhibitions, and then we voted on who was going to be in it, and then we submitted those to Feral File, and one of them got accepted, which I'm in. So we're working together. It's 12 artists who you've all probably heard of, and we're doing a, like, a collaboration theme between the 12 of us. It's really fun. I've got this crazy cool idea I'm excited about for that too. Also haven't started building it, but I'm excited.
+
+Speaker B: So 12 artists working on one piece, or 12 artists working on an exhibition?
+
+Speaker C: On an exhibition, 12 pieces.
+
+Speaker B: Okay. I was going to be worried there because that just sounds chaotic. So you're working on a whole bunch of things that you can't talk to us about.
+
+Speaker C: Yeah, basically.
+
+Speaker B: But we can't wait to see them regardless. I think that covers it from like a you perspective in your history in art and computer science and the 7 months of 2021 that you've been releasing, the 10 months that you've been working covers 2023. I think just the one question that, you know, I put here in the notes. You know, I'm not a big Twitter Space person. I don't listen to many. The one Twitter Space that I listened to in all of last year was the one that was about women in the crypto art, not specifically generative art, but in that whole crypto art community. And it was a pretty big conversation with, I think, 10 or 15 people on the panel speaking about their experiences. And I thought that yours was perhaps the most interesting. I think you only talked for like 2 minutes.
+
+Speaker C: Yeah.
+
+Speaker B: 'Cause the first thing that you said about your experiences was that, I hear that everybody else has these experiences, but I don't necessarily relate to them. Which is interesting 'cause I think I also don't necessarily relate to everybody else's experiences, but perhaps in different ways. Is that something that you could talk about and like just kind of how you've experienced being a woman, whether it's in like the computer science space or the art space or just the— You're 14 years old and working as a web designer.
+
+Speaker C: Yeah, I think I'm just kind of like, I'm totally weird. I'm completely oblivious to most people and what they're doing. I've never been like incredibly social. I'm quite an introvert, so I stick to myself and I stick to what I'm working on. And I've just always loved, you know, computer science and art and like, I'm just doing what I want to do. And that applies all the way till now. I just like, I'm working on my art and I don't really know what other people are going through as a woman. I'm sorry, but I haven't felt any bias.
+
+Speaker A: Yeah.
+
+Speaker C: I haven't felt any, like, weirdness about being a woman at all. I did at one point kind of wish, like, I had come in anonymously. At one point, I thought that might have changed how my sales were going or, like, how my work was valued. But I don't feel like that anymore ever since, like, recently my projects have really taken off and stuff.
+
+Speaker B: Like, you've kind of proven yourself at this point.
+
+Speaker A: Yeah.
+
+Speaker C: I don't feel anything weird about being a woman. In fact, I feel like I get, like, There's so few of us that whenever they're looking for a woman, they have so few options. Everybody's trying to bring in more women, so like they have a few to pick from and we get chosen more often for whatever. So.
+
+Speaker B: I think that's something that we talk about a little bit. I mean, not you and me, but people like just in the community. It's like when we're looking to highlight women, it's like we see a lot of the same faces because there are so few.
+
+Speaker C: Yeah.
+
+Speaker B: You might see somebody new here or there, but it's like, oh, it's you again. Hello. We've done this before. So, I mean, it sounds like part of it is also just Because it's so online and it's like such a deeply solo activity in many cases. It's like you're doing the work. It's a very digital-first experience and world.
+
+Speaker C: Which is perfect for me. I'm the type of person who likes to be here behind my computer screen. Not very social, not trying to hang out with all the girls. So it works out well for me.
+
+Speaker B: So I take it you're not going to Tokyo Bright Moments in person?
+
+Speaker C: Oh, I don't know. I want to go, but I don't want to go. And I want to go, but I don't know if I will make it work out. I just don't know.
+
+Speaker B: You should always say yes to things as a general rule, but you have time to decide.
+
+Speaker C: Yeah, showing up in person honestly is going to be a really hard one for me, but we'll see. I really wish I was in London right now, not gonna lie. I want to see that print on the wall.
+
+Speaker B: Jamie can just send it to you, then you can hang it on your wall.
+
+Speaker C: I don't have any wall space big enough.
+
+Speaker B: You know, as we wrap up, we did take a look through your collection. And it is a very diverse collection, but is there anything in particular that you like to collect or artists that you like to collect? I can't necessarily define a pattern from what is there.
+
+Speaker C: It's just all about mostly like, ooh, I see some colors I like, must collect. I got really excited this one day pretty recently. It was by the Gray Team.
+
+Speaker B: Oh, Moon, Sun, Ocean.
+
+Speaker C: Moon, Sun, Ocean. Yeah. I got so excited about those. Like the color is just like, I couldn't let them Stay. I just grabbed like a ton of them. Love those. Same thing when it came for How Bad by Zulfagari. Just fell in love with the colors. So good. I love that. There's no rhyme or reason here, obviously. I just grab what I like and the colors that, that hit me.
+
+Speaker B: So you're doing it as Artnome says, just collect the art you like?
+
+Speaker C: Yeah. Sometimes I grab stuff because I see like an artist is struggling and like I really like what they're trying to do and I just want to support them. But usually it's just like Something that hits me, which is usually color.
+
+Speaker B: So I saw that you have a handful of the latest Jeres piece, um, Losa Lalia, which is nothing but color. I think it's the most vibrant and exciting piece that we've seen, at least on that metric, possibly ever on FX Hash.
+
+Speaker A: At least since Takeaway.
+
+Speaker C: Oh, it's gorgeous. The colors and like the, I can't even pick out what it is. It's not brushstrokes or, but whatever it is, it's super good. I love it.
+
+Speaker B: It's just an explosion.
+
+Speaker C: It's like digital and organic at the same time with like the little rectangles.
+
+Speaker A: Yeah, I thought it was a super interesting choice by Jeres because it feels so blended in the background and so like digital and raw in the foreground with the splatters. It's just like, it creates this really interesting dissonance between the 2 styles.
+
+Speaker B: Which is actually something like a technique that you've used as well, Melissa, like where it's a specific type of background pattern or like texture as just one layer of the canvas.
+
+Speaker C: I layer things on top of each other all the time. Like that's most of what I do actually. I'll like throw some color around and then I blur it. And then throw some more color around and maybe blur it in a different way or whatever. I really love anything that kind of combines the ideas of trying to look analog and completely not, because I'm super annoyed when people are like, oh, generative art shouldn't look analog, or generative art trying to be 100% analog. I don't know why we have to have these categories at all. Let's just make stuff pretty. Like, I don't care if it looks analog or not, including in my own work. I'm not trying to go for—
+
+Speaker A: Yeah.
+
+Speaker C: the perfect realistic painting. I just want it to look pretty with pretty colors and pretty textures, and it could be a gorgeous smooth painting with a digital rectangle in the middle of it. I don't care. Like, it just needs to hit me with colors and textures.
+
+Speaker A: Here's maybe a connected rapid-fire follow-up to that, and this is one that Trinity usually asks, but who do you think we should interview next? Is there anyone that would be on your wish list for a Waiting to Be Signed interview based maybe on People you've talked to or artists you've collected?
+
+Speaker C: Not based on talking to or collecting, but I thought I'd really like to hear actually about Studio Yorktown and also Sarah Ridgely and Jeres and YZZYSEED and Ryan Bell.
+
+Speaker A: A couple of those are already on our list. I think you'll hear Jeres soon. We have to figure that out.
+
+Speaker B: And if you need some Bruce in your life, Ken Consumer interviewed him on his podcast Arbitrarily Deterministic, and it's a really great interview. It's from middle of last year, so he's released a ton of work since then. It was, I guess, more after Sabler came out, but definitely an interesting background. And it's just crazy to see what's happened even just in the time since then.
+
+Speaker C: I'll have to go listen.
+
+Speaker A: A lot of people we have on our list already. Definitely check out Arbitrarily Deterministic for a couple of those, but they're, they're targets for us as well for this year. So those are all good answers. Trinity, any other rapid fires? Do we want to ask for a parenting tip since we're both on kid 1, but Melissa's on kid 5?
+
+Speaker B: Yeah. Any, any tips?
+
+Speaker C: Oh gosh. Just keep going.
+
+Speaker A: That, that's what it feels like.
+
+Speaker C: It'll get better. It'll get easier. Just persist. Yeah. I remember when I had one kid, I was just sitting there holding my kid looking so confused, like, what am I doing? I don't have any idea what to do. But now it's like, it's normal. Like, I feel like it's easier now than it was when I had one little baby.
+
+Speaker B: Oh, interesting.
+
+Speaker C: I thought it was supposed to get more hectic and Oh, it's way more hectic, but at least it feels normal. And I feel like, I don't know, I was so lost when I was just holding one baby. It's just like, I don't even know what to do with this person.
+
+Speaker B: That's good to know.
+
+Speaker A: Persistence then.
+
+Speaker C: Okay.
+
+Speaker A: I mean, that lines up with my current experience, which is just one day at a time. Just keep getting through it and try to enjoy the moments that you can enjoy.
+
+Speaker C: Totally. Yeah. Take tons of pictures cuz they grow up so fast.
+
+Speaker A: We're about to get our first tooth, I think, in the next couple days. It's starting to come through finally. Oh, that's exciting. Anything else then? I think we kind of covered everything.
+
+Speaker B: Yeah.
+
+Speaker A: Melissa, anything else that we didn't get to that maybe you wanna throw out before we wrap the interview?
+
+Speaker C: Not really.
+
+Speaker B: Or any questions you have for us?
+
+Speaker C: Yeah.
+
+Speaker A: You wanna ask it?
+
+Speaker B: You wanna turn to the tables?
+
+Speaker C: I don't know. I would've thought of questions if I knew I was supposed to ask questions.
+
+Speaker A: Sometimes it's spontaneous. That's okay. Not required. I guess if we're all done, then we can wrap it up. Thank you so much, Melissa, for taking the time to come on. I know it's late for you. You stayed up a little extra late, sacrificing some valuable sleep or coding time to chat with us. So much appreciated. Really been a fun conversation learning more about you. Hopefully everyone here has enjoyed. Hope you had fun.
+
+Speaker C: Yeah, this was fun. Thanks for having me.
+
+Speaker A: All right. That was Melissa Wiederrecht. Thank you everyone for listening. Thank you, Melissa, for taking the time to join. Thank you, Trinity, for recording as always. Hope you had fun, Trinity.
+
+Speaker B: Every day I record with you is the best day of my life.
+
+Speaker A: Perfect. So, well, that's it for this one. We'll be back again soon with another interview. Bye. Bye.

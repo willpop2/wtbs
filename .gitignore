@@ -10,12 +10,16 @@ __pycache__/
 .claude/
 worker/.wrangler/
 
+# Generated site — built in CI from source (see .github/workflows/pages.yml)
+/site/
+
 # Audio (huge, hosted on the podcast CDN — not needed in the repo)
 audio/
 audio_numbered/
 
-# Generated transcripts (large / regenerable). transcripts/final is committed.
-transcripts/raw/
+# Transcripts: final/ is committed. raw/*.txt is kept (source for the page's
+# "Raw" toggle, ~5 MB); the large raw JSON and the numbered/clean sets are not.
+transcripts/raw/*.json
 transcripts/raw_numbered/
 transcripts/clean/
 transcripts/clean_numbered/

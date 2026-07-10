@@ -1,0 +1,573 @@
+Speaker A: All right.
+
+Speaker B: Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Jamie Gourlay of Verse.works. generative art platform that is maybe, I guess, is it fair to say, doing a bit of a focus on more of like a gallery-style experience, like a little bit more premium when it comes to generative art?
+
+Speaker A: I wouldn't say it was kind of initially the plan, but we kind of got lucky having kind of access to a really beautiful gallery space in London and did a show first with Lars And it looked great. And we then kind of had a few artists just kind of say, oh, we could physical work here as well. And now they all seem to be physical, which completely defies the point of the whole thing.
+
+Speaker B: Or emphasizes it.
+
+Speaker A: Or emphasizes it.
+
+Speaker C: It's a whole elevated experience. It's luxury as long as you live in London.
+
+Speaker A: But it's also a little bit confusing though.
+
+Speaker B: Trinity's here, of course. We're super excited to talk to Jamie. I feel like the interview's already started, but before we into the, the physical component side and kind of everything that's going on with Verse, Jamie, maybe you can give us a little bit of your background, how you got into art. You know, I believe your start was in the traditional art world, which is pretty unusual as far as people that we talk to, I guess, outside of artists necessarily. And how did you find crypto, NFTs, and what led to the founding of Verse?
+
+Speaker A: As you say, my background's in the art and the gallery world. I actually started off university and then switched courses to economics, but kind of kept painting throughout university. And in my penultimate holiday before graduating, I had some artworks of mine in a charity show, and they ended up selling. And with the proceeds, did a pop-up exhibition of my work and, and a friend of mine's. That kind of pop-up turned into a full-time space, and Found myself a few months after university kind of just running this gallery with a couple of friends. And it was really tough. I mean, like selling physical works by emerging artists is pretty difficult. But a few years in, we started to kind of get some quite good clients and kind of realized that actually it's much easier to broker high-value blue-chip things as opposed to find the perfect piece for above the fireplace that husband and wife both fall in love with kind of thing. So. About kind of 5 or 6 years in, we found ourselves more a dealership than a gallery. We were selling a lot of works by a lot of quite well-known names. That turned into a really great business, but I didn't love it because an art dealer essentially brokers information. You know who buyer is, you know who seller is, and you charge a fee for the fact that neither know who the other person are. And that is kind of what the auction houses do. It's what dealers do. And it's 20% for brokering information. And it didn't feel that satisfying, given we were kind of living in a world where the internet had cracked this problem in pretty much every other area. So actually set out with now my co-founder in Verse to try to figure this one out. His name is Agoston. He's our CTO, amazing technical mind. And yeah, we essentially set out to build a— it started off as a kind of inventory management system on mobile that would allow dealers and collectors to input things that they have in their inventory, also list things that they're looking to buy. And our thinking was that if we could kind of get all of that information, in theory, we should be able to figure out how to help people find things that they're after without the need for the dealer. So we built this product. This was in 2020. We still actually do have a few galleries using it as a kind of inventory management tool. But as soon as NFTs came along, it felt pretty clear that actually there's probably a better way of doing what we've been trying to do for the past year or so. I definitely wouldn't say that we went all in on it instantly. To be honest, I don't think I got NFTs at first. I saw Bored Apes and Beeple, and I don't think it— yeah, I didn't see it. I actually think though that that is why we started first, because I mean, I do have a lot of art world friends, and I think most people in that world do think crypto bros, Bored Apes, traders, all of this kind of thing where they think NFTs, they A lot of people don't realize that there is some really, really great stuff here. So we kind of set out to try to, I suppose, make it more accessible to not just the art world, but I'm pretty sure that my parents' friends, when they think NFTs, you know, they see 8 JPEGs and it doesn't mean that much. I'm pretty confident that if we can get really credible big brands on board here, if we can get Hockney iPad paintings in a kind of digital-only format, I'm pretty confident that's going to be great news for the space. And it's going to help the rest of the world realize actually, this is totally legit. And owning digital assets makes total sense. It's been really hard kind of getting those very credible brands going and looking at the landscape. When we were getting going, it felt very unlikely that any of these galleries and artists would, would be looking at any of these platforms and think, oh yeah, these people talk my language, they get it. And let's go and work with them. I don't want to say that our UI is our differentiator, but I do think it feels a little cleaner. It perhaps feels a little bit more art-worldy. And yeah, we're really just trying to kind of speak to a different group of people. That's not to say that I necessarily think that the kind of artists and the people there are more credible than the people in the NFT space, but I do think those brands are really important.
+
+Speaker C: I mean, it's the legitimi— the legitimization of the NFT art space for both artists and collectors. And in the real world, art is 100% a luxury product and building a brand around those trappings makes total sense. My experience in crypto is that it's like, some people think it's like more punk rock, it's more edgy, and that's going to totally turn a large part of the people who are not in that space off. When I look at the Verse website, the way that everything is presented, it feels so accessible to anybody.
+
+Speaker B: Yeah.
+
+Speaker C: Like, I was going to send my mom the link to Melissa's work. I forgot to. Sorry, Mom. But it was something that I was like, you should do this. You can buy this. You listen to this show. You like generative art. Like, here's your in. You're never going to create a Tezos wallet. You're never going to fund that wallet.
+
+Speaker A: Yeah, I feel a lot of it's like my colleagues dumbing it down for me. Like, honestly, I'm not a crypto person at all, and crypto annoys me every day. And it feels like there is too much focus on it because Self-custody is essentially just an extra layer of security. And it's not like everyone's going around talking about like ultra-secure passwords, but they are kind of putting the self-custody piece at the forefront of this. And I don't think it should be. I think it should be about art. And once you're in, once you get it, cool. Like learn about self-custody then. It feels like a huge blocker, huge barrier. I'm excited to see what happens when And if we can get kind of artists who are known to a much wider audience for under $100 with no wallet needed, I hope that that's gonna bring a lot of people in.
+
+Speaker C: Well, what's been the response so far from people within like that more traditional art community?
+
+Speaker A: It's a tricky onboarding process, mainly because I think most artists from that world don't get why collectors buy here and don't have an understanding of like what what it feels like to be showing up within the same collection as a load of your friends from a particular Discord or whatever. If there's a hotly contested mint of 256 or whatever, and you can feel the market, it makes the artwork feel that bit much more special. But an artist just doing a kind of random drop with no understanding of how the space works, It's easy to see how some of these artists are just kind of like losing people before they've even got going. We're really trying to work with a lot of artists from that world just to help them understand what it means to collect in the space. It's difficult for sure.
+
+Speaker B: You know, you said when you first encountered NFTs, you saw what we refer to as like the cringe stuff, you know, the apes and the PFPs and, you You know, it has a very bad association with it. A lot of it well-deserved. Some might be legit. I know there's some people who really like some of their, like, communities that have formed around a few of those projects. For the most part, it's pretty cringe and they look bad.
+
+Speaker A: I've got nothing against them at all though, just to say. I don't have a problem with apes in the slightest. I just feel it's confusing because—
+
+Speaker C: It's not for you.
+
+Speaker B: Right.
+
+Speaker A: It's not even that. It's like dismissing NFTs because you don't like Bored Apes is like dismissing everything at Art Basel because you don't like Pokémon. Like, it's just a totally different category, and it's confusing that it gets grouped together.
+
+Speaker B: I'm wondering then, what was it that got you over into it? Like, was it something that you encountered in Art Blocks, or a piece of AI art, or something that someone showed you that presented to you the use case for NFTs and art versus NFTs and profile pictures and some of these other kind of businesses that are built on them? And then, as a related question, with your experience in the traditional art world and You've been exhibiting NFTs in physical spaces. Have you been able to actually get people to come in, collectors or artists, and look at the stuff and go like, this is cool, and they just like it and they think the art is legitimately good despite the fact that it's an NFT? Or like, have you ever tricked anyone and been like, ha, that's a piece of digital art, gotcha. You know, like, so on both sides, like, what's your story? And then what's your experience been like showing people who are not into NFTs at all some of the work that you've been exhibiting through Verse?
+
+Speaker A: On the first side, I think a lot of it was motivated by the fact that the art world did annoy me a lot. I personally don't like physical things. I genuinely am happier the fewer physical possessions I have, and I just kind of lost interest. It's a pretty pretentious world, the art world, and with the amount of status that these physical objects are perceived to carry, I just, I don't know, it just got a little bit too eye-rolly for me. There was a bit of falling out of love with the art world and quite a lot of— I think I was thinking about Richard Prince's Instagram paintings, really interesting series by a really great artist. And these are essentially screengrabs from Instagram that he prints out and sells. And actually, like, why shouldn't they? They feel more authentic in a kind of digital format. And he's kind of made a thing of them. Like, they're now really well known in the gallery world. And I guess I was kind of thinking it could be quite fun just to own a digital version of a Prince Instagram painting. And then bought a couple of NFTs. And as soon as you own one, it totally changes your understanding of everything. And it then just starts to feel actually like it's very, very clear that this is going to be huge. And ownership of digital art is— it feels not inconceivable that it's going to be a bigger market than the physical art world. And yet the world's top artists feel unable to get get going here. So I think kind of a lot of those kinds of thoughts, I guess, just make me feel like, yeah, this, this could be worth pursuing. I don't think I've got that many gallery friends who have got involved yet and actually bitten the bullet. I know that a couple of people did buy Melissa's work the other day. I think we're slowly getting there. We've got a collab with a gallery in the next few weeks with an artist who's really well known in the gallery world. So hoping that is going to help get people I don't think we're like going after art people and existing kind of art collectors for the sake of it. Like, I'm as interested, if not more interested, in just getting my friends who aren't gallery people, aren't collectors. One of my best mates is a doctor. He's starting to get into it. I was just banging on it, banging on about it the whole time. He started looking at it. He saw there's actually interesting stuff here. He bought his first piece on Verse about 2 or 3 weeks ago. Like, that really excited me.
+
+Speaker C: Yeah.
+
+Speaker A: Not losing a huge amount of sleep about kind of getting quote unquote art collectors going so much as just the rest of the world.
+
+Speaker C: It's moving the entire movement forward. And I think just going back to the word of legitimizing, I know that we're expecting to sell our bags to museums someday. So we have quite a ways to go to get to that point, slowly but surely. What about your first NFT experience? Do you remember, was it on Tezos? Was it on Ethereum? Was it a one of one? Was it Gen art. You seem to be a big gen art person, I have to say.
+
+Speaker A: Yeah, that first one was like a test. It was like, let's try this out. And it was some kind of cat GIF that I had no interest in whatsoever. And I was just— it really was like, let's just experiment and play around here. And I think I lost the keys after a couple of days and I've got no idea where that's gone. I'd say I only got really into it as a collector Q2 or Q3 last year, relatively late. Just had a couple of things here and there until then. But yeah, GenArt, it's just so fun. I think the fun thing about GenArt is, yeah, owning a piece alongside friends, the fact that it is kind of liquid if you own 1 of 200 or something like that. It feels like it's kind of about series. So we've been kind of speaking with artists and working with artists on putting series together, whether they are purely generative or just non-algorithmic digital images.
+
+Speaker B: I think it's interesting to hear you say that, you know, I think for, to us, right, looking at the way that Verse looks as a site and with the physical component and the gallery component of it, it felt as an observer that there was an overture being made to like traditional art collectors would've been my guess. So it was interesting to hear you say, you're like, no, it's not really about that. It's really more about getting a regular person, which is kind of what me and Trinity were before we got into art last year and started the show. Like, Trinity, you had a couple pieces of art, I had like random stuff, but there was no rhyme or reason to it and no point of view. So it's really interesting to hear that take from you and kind of that mission. Do you feel like that's mostly like price point driven? Is it something about generative art, NFTs, and the fact that there's so much great art out there that you can get for just $100 or a couple hundred dollars? Like, what's kind of your philosophy around that?
+
+Speaker A: It's not like we're not interested in getting the art world lot going. It obviously would be great if some gallery directors could get it and catch that gen bug and get their galleries going on it as well. That would be really cool. I just don't know if I feel that the approach that we're taking is going to necessarily onboard them because generally gallery people don't look at artists who they've never heard of doing things that they don't understand. There's a way of doing it in the art world. There's a certain kind of artist who you work with. I don't think a single gallery friend of mine has kind of reached out to say, oh, this artist is interesting, like, can you tell me a bit about them? I don't think that's going to happen because it's just not the way that world works. I wouldn't say we're trying to appeal to them doing the shows, but we are looking to kind of like, we're speaking with them behind the scenes, we're trying to work with them, we're trying to help artists from the space work with them and we're trying to work with their artists. And hopefully some kind of like merging isn't too far away. I'm pretty sure that we're one massive pace show away from everyone else realizing, oh, actually this is really, really interesting. I feel like the second you buy a piece on fxhash, you kind of get it. And the gallery world, I don't think, get it yet. But the second they're able to buy a piece for $200 from PaceDrop and at the same time see how well Pace are doing from it, they're going to get it. They're going to realize Pace are doing really well and they're going to realize, oh, actually there is something to be said for owning something in a non-physical format. So I think that world is going to get onboarded by seeing names they know get going, as opposed to see names that they don't know do stuff that looks pretty because that's just not what they respond to.
+
+Speaker C: I mean, it's really the onboarding into the NFT space, not necessarily the generative art space. Creative coding has been around for decades, but I guess to your point, everybody's a relative unknown, hopefully getting bigger and becoming more well-known beyond our small niche community. It sounds like to that point, in order for the NFT side of Verse's mission, for that to become viable, it's almost moving away from the generative art focus that you've had so far and really working with people who might be into painting or photography and getting them onboarded into this space?
+
+Speaker A: I think on our website it says that we're a digital art platform or something like that, an exhibition space for digital art as opposed to generative art. I think it's definitely going to need to feel authentic. I don't know if it would necessarily work of a painter having a go, but I mean, there are plenty of excellent digital artists in the art world and a lot of them who don't have an understanding of what it means to collect in this space. And in my mind, it's a matter of like I think we need to figure out how to give collectors the gen art collecting experience with artists who aren't necessarily doing gen art. And I think that's possible without kind of like introducing them to a coder and figuring out gen art. I feel that as long as we can work with them to create a series of 100 works, we can kind of create a similar collecting experience.
+
+Speaker C: It's kind of what you've been doing with some of even the generative pieces on the platform. It's been curated ahead of time. There'll be 50 and then you'll get a random one from this 50. So it's kind of a hybrid experience.
+
+Speaker A: That said, like, we are totally making it up as we go along.
+
+Speaker C: It's very fully planned. You have— there's something there, right? Fully planned, not made up.
+
+Speaker A: Oh yeah, we, um, know exactly what we're doing.
+
+Speaker B: When it comes to working with the artists that you've put out on Verse already, you know, you've done so many different things, right? We've done those curated hybrid releases, you've done one-of-ones, you've done editioned work, full-on long-form generative. I know you have some curators and other people from like the traditional museum world, right, who work on the team as well. So what is that process like when you're working with an artist? How do you decide like, we're gonna do a one-of-one? No, we're gonna do long form. No, we're gonna do this. Like, how much of it is coming from Verse? How much is coming from the artist? And is there like this overarching market narrative right now? We have to take this into account. So what is that process like working with an artist start to finish?
+
+Speaker A: In general, we will try to encourage an artist to do a series, be it conventional Art Blocks style, long-form generative, curated, whatever it might be. Some artists do want to show unique one-of-one pieces, and obviously that's cool. If we can show Ben Kovacs' work, absolutely awesome. Like, we are definitely gonna not turn that down. But yeah, in, in general, I do feel it's easiest for us to kind of show non-NFT people what the space is about if we can be presenting So we are generally trying to encourage artists to, yeah, let us present works at a reasonable price point in a series in some kind of form. Generally, the bigger the better, or at least plus 75 is good, but it's really up to the artist. Definitely not gonna push too hard either way. And, um, yeah, if an artist really wants to show a small series or a unique piece, that's obviously cool.
+
+Speaker C: Yeah.
+
+Speaker A: Yeah. And then re kind of mechanism, we're really lucky to have a really strong tech team. Augustinus and the team have built some pretty interesting mechanics. There's a lot of brainstorming every artist who we work with. The mechanics generally will depend on the algorithm, the artist market, a few other things. There's often a lot of work before something goes up just to figure out what makes, what makes the most sense. I think the Melissa brainstorming was much more public than most, but it's generally pretty collaborative. I usually do a lot of asking friends and yeah, it's very case by case.
+
+Speaker C: And we're always here as experts in this space. Need anything, just let us know.
+
+Speaker A: Yeah, sounds good.
+
+Speaker C: And the market is obviously important, but what about any sort of the collaboration with the artists as you go through and figure out what work makes sense to bring to Verse? Is that something that's really driven by the artist? Is it driven by like a curation team at Verse? What is that process like?
+
+Speaker A: Yeah, so on the kind of exhibition side of things, there are 3 of us. There's Mimi, who has a background— she teaches at Central Saint Martins. Yeah, really, really knows her stuff. Leila was at Tate for 8 years on the curating side of things. So I think we've got a strong kind of art background. It's pretty much what we like. There are no strong criteria or anything like that. We're really looking to work with artists who just speak to us and who we would be excited to exhibit, really. On the art world side of things, it's certainly harder. The pool is smaller and not that many people are open to the idea of trying an NFT out. I think, Phil, the kind of the NFT brand is pretty tarnished. So I don't want to say we're working with whoever we can, but we definitely can't like work with who we want to. Not that we can in the NFT world.
+
+Speaker C: Yeah.
+
+Speaker A: space either. But generally working with artists who just resonate, really.
+
+Speaker B: What are some of the biggest blockers you have when you're pitching an artist unsuccessfully into coming over and doing an NFT drop then? Like, are they just hung up on the environmental side? They think it's all a scam? Like, it's got to be clear, right? Like, this is about putting your art in the blockchain. You're not a scammer. When you have those conversations, like, where do they tend to fail?
+
+Speaker A: I'm not completely sure we always get honest answers, but I think that it's— this is kind of speculation. I'm pretty sure it's like fear of being labeled a sellout and doing something for money, and a fear of your kind of artist friends looking at that and thinking, yeah, you've just copped out there. I'm pretty sure that's the main issue. And I think that's generally kind of driven by a lack of understanding about the space. I think a lot of people are also just nervous about it because they don't— it's so kind of foreign.
+
+Speaker C: Yeah.
+
+Speaker A: In the kind of 3 Discords I spend most of my time in, I truly don't think there's a single art world gallery person or artist in there. So it's hardly surprising that people are finding it hard to get their head around. And I also feel like artists like Damien Hirst maybe haven't helped. Hirst can do whatever he likes because he's Damien Hirst, and it's almost like cashing in is on brand for him, and he can, he can kind of wear a cheeky smile and get away with it. But most artists Really can't. And I think there are definitely cash grab vibes to it in the art world, which is definitely problematic.
+
+Speaker C: It's weird because it's also— I mean, to me at least, the frictionless transactions within the NFT space, it also speaks to the democratization of art in a way. You don't need to have connections, you don't need to know people, you don't need to live in a big city in order to collect art in any meaningful way. I know I'm really grasping at straws here, but I can see in some ways it kind of takes away from the prestige of the art space as being something that is, at least at that higher level, something to aspire to and feels slightly gatekept. But again, I'm speaking as somebody who, up until I met fx hash, had largely not been a part of it. I don't know if that resonates because you have that background that Will and I don't have.
+
+Speaker A: I just think it feels like it's all about money. I didn't feel like that as someone in the space. At all. But I think that that is the perception because these artists and gallery people don't know any of the collectors here. It's got a reputation for being crypto bro-y. You look at the biggest NFT collections and they, they're frankly all about trading. It's kind of easy to see why these people just assume that people are only here to flip. It took me honestly quite a long time to realize that actually people do really love a lot of these works that they're buying. And it took me a while to feel that as well. The first tester NFTs I bought, like, I didn't feel the attachment to them in the way I do to some of the pieces I have now.
+
+Speaker B: Do you feel like there's a potential pocket of artists in the traditional world who have not had success crossing over into the gallery space, into auctions, into, you know, museums, that this would be like a great service to? I mean, I'm thinking the book that gets referenced the most in the fxhash Discord and Tender is the $6 Million Stuff Shark. I'm sure you're familiar Probably a little dated now. I think it's from about 10 years ago, but I'm sure a lot of the same issues in the traditional art world are still there. Trinity's got my copy of a $12 million stuffed shark.
+
+Speaker A: There we go.
+
+Speaker B: But you know, like the buy one, give one, right? Like you can't even just walk into a gallery without agreeing to donate a piece to a museum as well and participating in this artist's legacy and a lot of that insider stuff that an average person wouldn't even know. So.
+
+Speaker A: I think it's the same here.
+
+Speaker B: You think so? I mean, anyone can put out an fx hash.
+
+Speaker C: It's hugely disruptive to the gallery model.
+
+Speaker A: I think the parallel, I mean, like something that we've been struggling with is, is how to give new collectors the chance of getting into a collection that is potentially gonna be a good investment. Something like Rudxane in December, I mean, it was very attractively priced. A lot of people picked up on it and it sold in 1 second. Like there is absolutely no way someone who's not from the space clicking on Verse could ever possibly buy something that could do that. You really need a lot of inside knowledge. We're struggling to figure out how to give non-NFT people the same opportunities that people with that pre-existing knowledge already have. I don't think it's massively dissimilar in that sense.
+
+Speaker B: Allowlists do present their own problems, right? Because it now just creates a class of first movers into the space who are the ones who are getting in on stuff, unless you do things like raffle them off or—
+
+Speaker C: Retweet this.
+
+Speaker B: Yeah, retweet this and tag 5 people and you'll get on the allowlist, which personally I don't participate in those because I think they're super annoying. I do understand that to a degree, but it doesn't feel like as insurmountable of a barrier as what's presented in the gallery space where you might need to have tens or hundreds of thousands of disposable dollars and you need to have a foundation and a name and commitment. And like, even if you miss an allowlist spot, you can go get that Roxanne piece for between $500 and $2,000, and now you can be on the next one if you— if that— if the reserve list is going to be established that way. So the point of entry is much more accessible. It's still the top 1%-ish of people, right? Because thousands of dollars to spend on art is a luxury, but it's not the top 0.01% anymore.
+
+Speaker A: Yeah, which is awesome, obviously. Yeah.
+
+Speaker B: But I was even thinking more from the artist side. To me, I feel like there's a lot of artists who can't get into galleries that are prestigious enough to really accelerate their careers, and there's probably a lot of politics and behind-the-scenes stuff and like the democratization of publishing through fx hash, through OBJKT, or directly onto OpenSea or some of those others. Like, a lot of the artists that we consider like grail projects now are like, you could have gotten them for near free a couple years ago.
+
+Speaker A: Yeah, I mean, I think it's just beyond cool that anyone from anywhere in the world can have a genuine chance of making it here.
+
+Speaker C: I don't know if there's more to talk about within this particular topic. I think there's a lot of things to unpack and potentially come back to when it comes to the parallels and, you know, the differences between traditional art and NFT art space. Maybe let's talk about some of the selling structures that have occurred in the past, and maybe this is where we can start to talk about open editions.
+
+Speaker B: Or semi-open ones.
+
+Speaker C: One-of-ones.
+
+Speaker B: It was fitting that we just had Melissa on and her drop. Is it fully closed now? I actually didn't look today, but it Just Melissa's reserves remaining. That are left. So how many minted in total?
+
+Speaker A: 810?
+
+Speaker B: 830.
+
+Speaker A: Or 830. Yeah, I think it's 720 including Melissa's.
+
+Speaker B: Yeah, with 90 reserved.
+
+Speaker A: Yeah.
+
+Speaker B: Maybe that's a good place to start then with Melissa's most recent drop. Like you said, it was kind of debated in the public, which is unusual. But do you feel like it helped and is everyone happy with how that ended up?
+
+Speaker A: I think so. It was, it was really stressful. I found it really difficult. It felt like it was going to be impossible to please everyone. We had quite a few kind of very influential collectors who really wanted us to keep the supply incredibly short, make it very obviously an attractive opportunity, pushing very hard for low price, low supply, obvious upside for collectors, which is, yeah, like we obviously want to give collectors good upside. But we had this kind of interesting, like, collector-curated thing. And clearly we didn't want people spending 20 hours playing around and then be unable to mint. We also wanted to figure out how to give people, like, I told so many friends about it. Like I was posting on Instagram, LinkedIn, like doing emails, like a load of like non-Twitter places about it. And yeah, just really didn't want it selling out in a second because it would have been a total waste. We felt it could be a kind of good onboarding opportunity. So we wanted to make sure that it was going to be open for 12 or so hours, but at the same time also wanted to give ourselves a chance of the secondary market holding up. And this kind of decreasing supply was, I think, the closest we could get to it. Decreasing price, like regular Dutch auction, wasn't going to work because I think people needed to know in advance roughly what the price was going to be. Otherwise, we were just risking wasting loads of their time. It felt imperfect, but we were trying to thread quite a tricky needle. It felt like it was as close as we were gonna get. I'd love to hear your thoughts. I mean, how did it feel?
+
+Speaker C: Was the curated collecting part from the very beginning, or was that something that you came to a little bit later after talking to Melissa a bit?
+
+Speaker A: It's something we'd been discussing for a while. I had actually been like mainly buying secondary on fxhash. I don't love the random thing all that much. I very often end up with things that don't speak to me a huge amount, and I kind of feel it's a bit awkward being a platform and selling artists. So it's fun, the kind of lottery thing, but it feels a bit casino-y. So yeah, the toggle until you find one you like just felt like it could make sense. We'd hoped to do something like that for a while. Saw Melissa's algorithm and it just felt so perfect. The fact that Rarity wasn't really a thing. The fact that there were so many good ones, it just felt worth trying. And she's so adventurous and open to ideas, and she was so up for it, which was awesome. I think that was kind of the plan from maybe a couple of weeks before we could put it online. We genuinely had no idea how we were gonna do it when it first went up. Definitely helped getting a bit of feedback from the community, for sure.
+
+Speaker B: It sounded like at one point maybe doing it as an open edition was going to be in play. It seemed like the goal of the project was a little bit to what you were speaking before, right? It's like, how do you get great art into the hands of people without gatekeeping it? Well, the best way to do that is to have an uncapped supply of it, but then you have to balance against the degeneracy of the, the people who are already here.
+
+Speaker A: Yeah, and we were kind of thinking like, well, it's probably going to be okay because if we priced it at $400, like, that's kind of serious. Like, that's Quite a lot. You're going to take it really seriously. You're going to spend a lot of time trying to find something, and you're only going to mint if you really love the thing. So chances are not that many people are just going to be like minting multiple in the hopes that they're going to make some money. Like, that just didn't feel like it was going to happen. So we did think about open edition, but it just felt a bit risky.
+
+Speaker C: I mean, that's also coming off of—
+
+Speaker B: If you hadn't had that experience with the previous open edition, what was that, just 2 or 3 months ago, Zancan? Do you think your thinking would have been different on it, and this would have been the one that you went for it on?
+
+Speaker A: Probably. I mean, the whole kind of sentiment, you know, you open Twitter up and every other tweet was discussing open editions. I'm sure it did affect things. We discussed the idea of doing a kind of tiny window, maybe 2 tiny windows, one 6:00 PM UK time and then 6:00 AM so that Asia could have a chance of minting as well. Then settled on 400 and decreasing price of 2,000. It felt like there wasn't too much complaining in the Discords afterwards, and I think it felt good.
+
+Speaker C: I think the mechanics were spot on. We heard some people talking about how it doesn't feel as true to the ethos of generative art, which is the algorithm is the thing that surprises you. It's one layer removed where you have to get surprised by the algorithm multiple times in order to find the one that really just kind of hits you in the right spot. I don't necessarily agree with that particular take. I understand it. But as I explained in, I think, a Discord or 2, both Will and I come from a gaming background, making games, playing games, particularly within the free-to-play space. And there is that gacha mechanic of total randomization of what you get. As you said, the casino side of things. And by removing that, it does, coming back to that L word, legitimize the space a little bit. It's not for degeneracy, it's not for gambling, it's about the curation of the thing that you really want, which is how people would collect art or literally anything in any other scenario. And so I think from that perspective, it was an amazing experiment.
+
+Speaker A: The vast majority of things I've ever bought on fxhash, yeah, I've bought them because I really like them and I feel like they've been one of the most interesting things in a series. But I struggle to see like the benefits in not giving people a choice and A lot of people receiving things that they just don't like and then have to like flip out of to find something that they do like. I think Melissa was a little worried that a lot of people would like perceive the very empty ones to be rare and therefore they would all end up being empty. But actually, I think it worked out beautifully. I really love the series as a whole. It feels like it just works so well. There's so much diversity. It's amazing how like so many people enjoy different things about it. And I wouldn't say that there's like one overriding, like, type of cosmic ray. Yeah, they're all pretty different.
+
+Speaker C: Do you have any stats on how many were generated and/or saved by people throughout that entire week leading up to the actual mint?
+
+Speaker A: So QQL had that thing where you could just like do 100 at a time and then pick out your best ones. We definitely should have done that because it would have saved people a lot of time. Maybe that's one for next time. But yeah, I think we had 15,000 or 16,000 saved maybe.
+
+Speaker B: Saved. Okay, so probably at least 2 to 3 times that. That was the interesting thing I thought about Melissa's piece was when you first start flipping through, you're saving almost every other piece. Like, the algorithm was that strong.
+
+Speaker C: Yeah.
+
+Speaker B: It really was so good that you're like, this one's cool, this one's cool. Oh, I haven't seen one like this. And then you come back to it the next day and you look through and you delete some and then you start flipping. And now this time around you're only saving maybe 1 in 4, 1 in 5. And making sure that you have like a nice arrangement. Then you come back the next day and now it's maybe you're down to 1 in 10 and you're starting to dial in on like really which ones you like versus which ones you just think are novel. And the luxury of the time, right, that people had to sit. And I think that was a really interesting execution that would not have necessarily worked on every algorithm though. It's not something that's reproducible by every artist, every project. Like, 100%. You know, if there's one thing that we've learned over the last year looking at all this stuff, it's like, It is hard to make a good project. And I think that's why, Jamie, when you're saying like, I mint and then I get a piece I don't like. Well, like in theory, if the project's good, like pretty good, you probably shouldn't have that experience. That's also what makes it special.
+
+Speaker A: Yeah.
+
+Speaker C: Or trying to hit like a specific rarity feature where if you hit the one that's black and white, you got the 5% chance and you're golden. You know, it's not necessarily about that in this particular space, or it doesn't need to be about that.
+
+Speaker A: And I love how Melissa's just not made rarity a thing here. I think it's great. Yeah, I don't think art should be about rarity. It should be about great stuff, what you like.
+
+Speaker B: Well, with that in mind, do you want to talk about the Zancan piece a little more, or is that something that you think we'll have to take out at the end if we do it?
+
+Speaker A: Let's try.
+
+Speaker B: Because of what you just said, I mean, that's, I think, our perception of where that piece went wrong was the extreme disparity in rarity amongst the palettes that led moneyed people to mint. I think that some of the top minters minted over 100 of them, right, in search of the pink and the black and white and stuff.
+
+Speaker C: And at such a low price point.
+
+Speaker B: At such a low price point of only $100 over such a long period of time. So they're right. So, you know, hearing you say that, do you think that drop could have gone differently if the rarity was more evenly distributed maybe, or if those black and white and pink ones had been taken out and it had just been the green? What's kind of your retrospective on it?
+
+Speaker A: I think if the rarity had been distributed differently, it just wouldn't have been the thing it was. I do suspect that kind of let's get a pink drove it to a significant extent. It's a really difficult one. I've spoken with a lot of people about kind of the whole Massive series size, like how problematic it is. I mean, like, I'd love your thoughts. Like, what's your take?
+
+Speaker B: I don't think we can know for a long time.
+
+Speaker C: Short term, just as everything that, you know, was just talked about with regards to the different rarities and the price point and the period of time, it just kind of enables that type of degeneracy that we've been kind of bemoaning over the last 20 minutes or so as a part that's just so crypto-native, I guess. The min-maxers, like, how can I eke value out of, like, the things I'm getting? Obviously there are people who collected multiple editions because they love the art, they love having exposure to Zancan. It was an interesting experiment.
+
+Speaker B: Is it fair to call it an experiment? I mean, I think the narrative—
+
+Speaker C: It was an experiment. We can never run any experiment twice, as we often say.
+
+Speaker B: I mean, the narrative around this project, and Jamie, you can confirm it or not, was that the decision to change it was like the night before. So that to me doesn't seem like it was an experiment. That just seems like it was like a whim. And it was like, let's just try this. To me, like, if you're going to do something like this, you've probably heard us say this on the show a lot. I think like, when an artist is going to do something that is going to surprise people, and they have an intention behind it, that intention needs to be telegraphed and messaged up front.
+
+Speaker A: Mm-hmm.
+
+Speaker B: And if like the intention was, I want everyone to have one, don't worry about rarity. I think the issue was like just the absence. of understanding by the public of like, what's even the idea here? Like, is this a commentary on generative art? Is it— does it play into the theme of the piece? The mint was paused and then it caused further havoc and like theorizing and they're like, no, they're panicking, they're going to burn it, they're going to end it. Like, because of the lack of communication and the lack of really intention stated beforehand, I think that was a huge part of it. You know, everyone has their own ideas, I think, of like what the intention was with the piece, but no one really knows for sure. And all we know is what the outcome was, which is that people gambled on it heavy. Yeah.
+
+Speaker A: At risk of like sounding like I'm gonna contradict everything I've just said, this is probably gonna come out totally the wrong way, but Hirst's Currency series I think is great because it's so Hirst. If any other artist did it, I think I'd slam it. This whole thing is like, I'm so shameless, this is me, I can milk this, and I'm gonna laugh as I'm doing it, and it's gonna be funny, and that is my art. I'm absolutely not trying to say that that is Zancan. I'm just saying, like, each artist has their own persona and their own thing. And I think that if Melissa had done what Zancan did, it wouldn't have worked. But Zancan has just, like, created this unbelievable movement and community around him. And I don't know, I feel like so much of fx hash is because of what he's created. And it's fun. It's really fun. And it's exciting to be a part of. I minted a few of those and it was just fun. Like, it was— I enjoyed owning a Zancan. It was at a price point that didn't give me too much anxiety minting 3. And I don't know, I kind of felt that it worked because it was Zancan. So it almost feels like each artist has rules unto themselves. And obviously there was a lot of concern afterwards that the supply was going to be really problematic. And Michael and I were texting just before New Year and we were debating this, and I don't think that I was saying this just because of carbon capture, but like, I stand by it. I mean, like, Warhol became Warhol because his supply helped him become Warhol. Everyone was able to own one of his prints. It helped him get out there. And how big an artist you are, how exciting it is to own a piece by this artist, is a function of how famous that artist is. And Zancan is a genius marketer. And I feel like that plus big supply is only going to help him get out there. I mean, we sold works to 2,500 people that week. And yes, I get that people feel that he's flooded his market, but I see it as just another series. I feel that, you know, as someone who owns his work, like, if he were to do another 15 series, then sure, I might feel like my series is being diluted, but I feel like it's been diluted by one. And coming back to the Warhol thing, I suspect that in the long run, this is just going to Helped get his name out there a lot more. Warhol Marilyn canvases sell for $250 million because he's the biggest name in the world. And so perhaps Carbon Captured are going to be Zancan's Warhol prints and Garden Monoliths are going to be the Marilyn canvases. Who knows? I can't say I'm worried as someone who owns his work. It doesn't give me any concern at all, but I could well be wrong. I don't know.
+
+Speaker B: You know, to look at another project recently that was kind of like an open edition, like the Friendship Bracelets, on Art Blocks. Anyone who engaged with Art Blocks with a wallet got 2 for free. And there's been something like 30,000 of them. You know, if those can approach at period to time, like a 1 ETH floor off of that quantity, like I think it's really just more of a function of the total market that we have and the number of collectors we have and just the amount, 10,000 or wherever it ended up. That's just a lot for generative art right now.
+
+Speaker A: Yeah.
+
+Speaker B: Because there's not that many people collecting generative art. But there's a lot of people collecting NFTs enough to support, you know, multiple 10,000+ PFP projects and something like friendship bracelets. So I think I'm not so worried about it in the long run. It's definitely caused some people's brains to get a little deranged, I think.
+
+Speaker C: Yeah.
+
+Speaker B: And at times, and like, there's been a lot of like, you know, I think we saw people at the time when it was out and minting have really positive takes and have a take similar to what you had, that this is going to get into more people's hands and it's going to make my Garden Monolith more valuable. I think we've seen that those opinions sway the other way now, but also just Tezos is down.
+
+Speaker C: A ton of correlation versus causation.
+
+Speaker B: Right, exactly.
+
+Speaker C: In terms of like the dropping price of KGM and FUG Forest, like everything is down.
+
+Speaker B: It's not that Zancan in particular is being affected, but for whatever reason, when it's like a Zancan piece sells for cheaper than you thought, it's like, oh, that's because of carbon capture. You know, it's like, I don't know if that narrative is true, but it's convenient.
+
+Speaker C: Thinking over the like months rather than Well, at this point we're still like in the more the week side of things, not the months or years or decades that we'll need to like ultimately, as you said at the very start of this, we don't have enough time in order to really understand what's happened.
+
+Speaker A: I'm just pulling it up to see exactly how many people did mint. I think, well, yeah. So on our page, 2,248 owners.
+
+Speaker B: I mean, that's a lot.
+
+Speaker A: And hopefully those people are now Zancan fans and doesn't worry me. Maybe it should. But I'm personally upbeat.
+
+Speaker C: Going back to some of the parallels between both of these, like open editions, pseudo open editions, there are a couple of like market stats that we typically like to look at. And one of them is percent listed. And this is not to talk about markets, especially at such a short timeframe, especially for Melissa's piece. As a point of comparison on OpenSea, Cosmic Rays is at 8% listed. After the mint, it was at 3%, which is pretty much the lowest I think we've ever seen. And it's, you know, to my mind, it's not a drop that's meant to be speculated on. It's something that you're meant to have like a personal attachment to, which is a powerful thing.
+
+Speaker A: I'm so proud of that. That makes me so happy.
+
+Speaker C: Just in comparison to carbon capture, it speaks to you, the collector, at the collection level as to what it means, what it stands for, what it represents. There's that lack of like the personal connection to the one that you have.
+
+Speaker A: Yeah.
+
+Speaker C: Just from a differentiating factor, unless you happen to get like a black one or a pink one, or you collected one of those on the secondary and you're like, yes. Like, this is the thing that I was looking to get. I think it just, again, speaks to like how personal collecting can be outside of any sort of minting or market dynamics.
+
+Speaker A: I just feel it's so hard to compare the two as projects. And yeah, like I got a couple of Melissas and I hope to hold onto them forever. And I'm holding the Zancans for a different reason, less because I kind of feel like they're special artworks. They're kind of like mementos of a point in history for me personally, like That's not to say there aren't some really special ones within the series, but they're obviously not all grails. Yeah, that's fine. They're just different.
+
+Speaker B: Maybe since you were ending on an optimistic note there, we can continue with the optimism and talk about some stuff that's coming up in the future for Verse. There's already a couple more exhibits on the site. I don't think all the information about the participants in those has been released, but the next one, the Imperfections exhibit, is coming up soon, and I think there was even one more that's— yeah, In Pursuit of Déjà Vu. So already with Odyssey's ending, you're going to be going right into Imperfections, it feels like, and then soon after that there's another one.
+
+Speaker A: So that was actually a mistake.
+
+Speaker B: Oh, okay.
+
+Speaker A: That was a scheduling mistake because we booked the wrong week with the gallery, and then they couldn't push it back a week— couldn't push it back 2 weeks. I think we're gonna have a bit of a breather after this one. It's been a lot.
+
+Speaker B: But still, what is kind of the vision for 2023 on Verse? Like, are we gonna be seeing something up once a month, even a little more frequently than that? And like, are you gonna deviate outside of generative art? And you know, you spoke to maybe trying to cross over some artists into the space that maybe aren't generative artists. So like, what, what can we expect in 2023? Like, what's coming up?
+
+Speaker A: I mean, I think we can only put so much stuff out before space expands. I think there's a lot of collector fatigue at the moment, and everyone needs to be wary and careful about that, I think. The thing that kind of— I wouldn't say it's given me sleepless nights, but like the main thing on my mind is like, how can we bring more people in? Because I don't think there are enough collectors here to kind of like allow for a sustainable ecosystem. I don't know how much FX Hash are making, but I suspect they need more volume to make it viable. We do as well. I suspect everyone does, apart from Art Blocks perhaps. Yeah, so we need way more collectors here. Generative art is maybe now my favorite thing in the world. Like, football has been my favorite thing in the world for 25 years. This is better. It's so fun, but it's so hard to get into for so many reasons. By distance, our main agenda is trying to figure out how to onboard more people, and I'm really hoping that we start to make some inroads here with Imperfections, because we've got a load of really great artists, a lot of them showing works at really accessible price points on Ethereum. The gas hits are going to be real, but hopefully it'll be worth it if we can bring people in. Honestly, like, I think we need to see how things go and see how many kind of new signups we can get before we really figure out how to think about things beyond that. Because yeah, I do think we need to be careful about how many new works go onto the market. Main agenda, onboard more people. As a kind of industry in general, we need to somehow be teaming up and trying to figure this one out. I'm pretty sure it's a combination of like great art, well-known artists, accessible prices, no wallet needed. And I'm pretty sure that'll get us a load of signups. So hopefully the community will tell friends when they see some of the artists who are coming up. There's a lot of like play it by ear. Here. And if it seems like there's a plan, maybe to an extent, but it's, it's a lot of improvising.
+
+Speaker C: From a friction perspective and an onboarding perspective, we've already talked about how amazing Verse is at custodial wallet, easy to sign up. When I went through the process of verifying my identity so that I could sell something through the platform, I was like, quick SMS text, wham bam, thank you ma'am. It was the easiest experience of my life. It's actually really astounding at the user experience that you've set up. Is there anything else in that roadmap? Like obviously you already have ETH payments, Tez payments, USDC payments, credit card payments. Is there anything else that you see as something that would really help alleviate that burden on non-crypto people for getting into the NFT space that you plan on releasing or would like to in a magic wand situation?
+
+Speaker A: I do feel fxhash are smashing the secondary market in a way that we're not. And I do think it is really important because without a good functioning secondary market, it doesn't make sense to own a JPEG when you can download it, frankly. It becomes kind of like exciting to own something when you can feel the market and you can feel other people wanting it. And I think we need to do much better there. I'm hoping that by the time this goes out, we will have more of an OpenSea integration. And I think that will really help. Like you were saying earlier, Trinity, like the FXHash all-in-one thing is really, really great. Hopefully if we can kind of have OpenSea listings, the OpenSea floor showing, all OpenSea activities showing on Verse, it will make works on Verse a lot more liquid. I think we need to do much better in terms of— so on our trending page, I suppose this is kind of our answer to FXHash's marketplace page. There's a lot of like things not being grouped well. So the quibibis are showing up as single pieces as opposed to in some kind of series or collection. Same with Penne and a few other artists. We're planning on kind of like trying to figure out how to create series out of non-generative works, if that makes any kind of sense. I think that will make a big difference. Make hot sales fairer. I'm just on the roadmap here. We need to definitely do some work on that. At the moment, if you don't have USDC, you've got pretty much no chance of getting one of the really hotly contested ones. We've needed to fix that for ages. We're hopefully going to do so in the next couple of weeks. One thing I hope we're going to make some kind of inroads towards is we've got some investors in the company. And I did a kind of like mailer before Melissa's series went live saying, hey everyone, have a look. Like some of these people haven't really used our product much and don't have much of a sense of how Verse works. And actually it kind of occurred that, you know, just going on the page and seeing the slider move doesn't really get a sense of what's actually happening here. Like, you really need to be able to be in the Discords and be on Twitter and get a sense of like how exciting this is. And so we're definitely planning on kind of incorporating some of that into the artwork page when something goes live. Maybe a kind of Discord widget that gives a sense of the chat, maybe something that kind of pulls in tweets. I feel we need to kind of make it way more interesting and social for people who haven't joined the space yet. And I think we need to make it easier for those people to get involved and say hi and feel welcome.
+
+Speaker C: One of the things that comes to mind when I think about people in my family who might be interested, and that's the idea of collecting something that is purely digital with no physical element, is something that I think might be foreign and kind of difficult to grok. One of the things that we've both loved about Tender is the ability to just, through your connected wallet, be able to Mm-hmm. And so the pathway to actually making this purchase physical, and I know that you do this with a lot of the one-of-ones, I believe. I think that's something that in my mind goes a huge way into making it feel more real to people.
+
+Speaker B: I was leaning that way too with my thinking, which is that like, I'm, so for us, like for Trinity and I growing up as gamers, like I think digital ownership is so natural and embedded in us. from gaming. Honestly, the nuance between NFTs and the fact that I truly own it through my wallet and owning a sword in World of Warcraft where you don't really own it, you own like a license for the object and the company owns it. Like, it's such a— it's a nuance that crypto people like to make a big deal about, but the average person doesn't give a shit about. It feels like ownership both ways. And that's just, unfortunately, that's just the case. So the physical thing, like, I, you know, the other project that I tried to bid on From Odyssey was the Schwittlick plotter pieces. I think they all went much above where I was hoping to get them, but, you know, I was seeing if I could snag one in like the $400 range and they all went well above that, as they probably should have. But if there had been an editioned work of that where I could have gotten like a 1 of 100 and it was more affordable and I could have gotten a physical, I would have been just as happy. You know, obviously only a 1 of 1 Schwittlick would be really cool to me.
+
+Speaker C: Yeah.
+
+Speaker B: But I think that crossover, right? Like one of the things that we joke about in Discord sometimes is like getting generative art at IKEA. When you're getting that pre-made art, why couldn't there just be an algorithm and a printer and like they just mass produce these things and there's like 100,000 variations and they're all very subtle. So like, I think like this, I do think the physical component to art and being able to show it, like it's so lame to pull open my laptop and be like, check out this art I collect. Like it sucks. It's, I sound stupid. I look stupid. Everyone thinks I'm stupid. When I have a print or a plot, it's all of a sudden interesting. And you're like, that was made by code. And here's a video of a pen plotter. And then it becomes more interesting and engaging.
+
+Speaker C: The, also the ownership as well. Like, I think that's where people are able to kind of understand what that ownership is. And this is something that I talk about often within like the NFT space within digital collectibles, where I love the idea of digital collectibles being able to replace like buying a poster or buying a keychain, because often the thing that you're collecting is so specific to a specific space or a specific community that actually having that physical object doesn't matter in real life or could be a detriment to my real life. If like I'm super into, let's say Sailor Moon, I'm not gonna take my Sailor Moon keychain to my very corporate work environment. It just does not work. But if I were to take it into my very cool Sailor Moon online game, Mm-hmm. Whatever, it has value there. I think art is one of those things where it does have value within your physical space, not just your digital space. And so it's about being able to apply that where it's most relevant. I think that's like one thing where art is very different from most NFTs or like collectibles that you might be able to have digitally.
+
+Speaker A: But I think a few people, certainly me included, experienced something quite unexpected with Hypnagogic, Rudxane's piece in December. Seeing it framed up, seeing it on a gallery wall, feeling that important. Like, I tried to buy it and failed, missed out on it annoyingly, but it didn't feel like I was buying a JPEG in the way it feels like I'm buying a JPEG on fxhash. And that was totally unexpected. There was something about the fact that I'd seen it physically just did make it feel special, more real, more exciting.
+
+Speaker C: Your tweet where you took the video of the cosmic rays like that as you're walking into the gallery. In 100% pure honesty, that was the thing that sold me. Obviously it's great work just objectively, but that was the moment where I was like, I have to have that. I have to have that. I want the experience of walking into my space and just being amazed and awed every single time I see like, however big that was, like what, 5 feet tall?
+
+Speaker A: Yeah.
+
+Speaker C: Being able to experience that viscerally in my living room.
+
+Speaker A: Even if you don't go on to print it and own it in that format, like, does the fact that you have seen that, is that going to change your experience of owning the digital works?
+
+Speaker C: At that point, it's also, it's like the aspiration. I know that that's within the realm of possibility of seeing something that, that's that amazing. And that's something that we often talk about as like a detriment to fxhash is that we so often judge things by thumbnails, which when you're looking at it on a monitor is like 2 inches by 2 inches for the most part. And, you know, being able to go in and see like that depth and the detail that we know is there, like especially with the Rudxane piece, you have to kind of see it big, not just like 15-inch laptop big, but big in order to fully appreciate everything that the piece has to offer. And so I think that could be like another barrier of sorts, or it's like an opportunity is how do we convey and communicate the scale of the piece to browsers, which is often, I think people on fxhash are browsing for better or for worse.
+
+Speaker B: The other side of this also is like marketing, you know, like you were saying OpenSea integration could be very good for Verse if that's better and there's more discoverability and to add liquidity, but it's still coming from the limited group of people who are here now. You know, I know fxhash did a lot of work over the last year going to live events, art events, not NFT events, trying to get in front of art people. And I don't know how successful that was. You know, like they certainly got people to make wallets and mint stuff, but it's not clear how many of those people stuck around or really cared beyond that. So that's a big question that I think probably every platform has to think about, which is like, not how do we fight over the same group of users, but how do we make the pie bigger for everyone? Because—
+
+Speaker A: Mm-hmm.
+
+Speaker B: the 10,000 or so people that are here collecting generative art. Like, we can't just keep adding new platforms and expecting everyone to go everywhere and collect. Like, you can bring the artists to all these different platforms, but ultimately what you need is more collectors.
+
+Speaker A: How do we go from 0 to 10,000 and then stop? Surely the hard bit's getting to 10,000, it's not going from 10,000 onwards.
+
+Speaker B: That's a great question. Every now and then I feel like we cross ETH people over to Tez. From my point of view, that's just the same Well of people, of collectors, and versus on ETH for the most part anyway.
+
+Speaker C: So yeah, you're getting those OpenSea eyeballs.
+
+Speaker B: I think that's a question that's just so open. And I don't know if it is continuing to go to art shows and banging the drum there and trying to get more art people into it.
+
+Speaker A: I think it's product.
+
+Speaker C: It's product. What do you mean by that?
+
+Speaker A: Just to push back on what Will was saying about OpenSea integration being a good thing for the people who are already here, but it won't make a difference. I don't know if I agree with that. Because Liquidity is part of the product. A really good friend of mine bought a piece a couple of weeks ago, his first ever NFT, and did flip it. And I think that's really important. Like, it's unrealistic to expect people to kind of like come in and instantly be collectors. I mean, like, most people's route is, oh, you do make a bit of money and then it starts to feel valuable and then you start to like enjoy owning these things longer term. But I know for sure that he's gone and told a couple of friends about it. He doubled his money in a day and a half. That's all kind of like a product thing. So the better we can make the experience for collectors, and liquidity comes into that equation, the more word of mouth we're going to get, the more people we'll get joining.
+
+Speaker C: Hmm.
+
+Speaker A: I feel the key is in making word of mouth easy, as opposed to us feeling like we need to go and— I mean, like, word of mouth is scalable and exponential, whereas us going and doing marketing events. Sure, we might bring 50 people in here and there, but it's not going to really move the needle. I feel it's a matter of getting the product to a point where we can scale onboarding in a way that compounds over time.
+
+Speaker B: Definitely the custody side of Verse and the credit card payment combined, it feels like that should be enough, right? Like, if you abstract away the need to create a wallet and figure out how to actually hold these things safely, and let people come to that over time and just let them pay with the way they know, that should be enough. So that has happened independent of OpenSea integration. You put that payment option in there for a reason and the custody in there for a reason. And it's not to get liquidity from OpenSea, right? It's to get more people in who aren't already here. At least that's how it seems to me. So then the question is, what's the most effective way to get those people over here? And it does seem like a lot of the, not a lot, but like the small amount of marketing that's been done, at least by fx hash, is I don't know what the returns on that have been.
+
+Speaker A: Yeah.
+
+Speaker B: So I don't know what Verse has done in the last year, if you've done some of those events or if there's anything that you're planning to do this year, but there's gotta be something that can be accomplished now that you have this way for people to get cool art. Like maybe it is finding someone to do a big open edition, but then pushing it out, like pushing it out in a way that's trying to get a lot of people in and just seeing that you can collect art this way.
+
+Speaker A: I'm pretty sure the best marketing we can do is working with great artists who people love from both worlds. Because yeah, like if there's an incredible project by an artist who everyone in this community loves, I don't know about you guys, but I like bang the drum hard to all my non-NFT friends. And I think most people do too, because everyone loves it. So yeah, like a great series that people are genuinely really excited about. I mean, like, I can't wait for— I think we've all seen kind of Erik Swahn's latest series. It's epic. It's so good. And we're hopefully going to be able to present these at an affordable price point. Like, I'd be surprised if people don't go and tell their friends about it. I won't be able to help telling my friends about it. I'm excited about it.
+
+Speaker C: Can I say how mad I am that you're getting that piece on Verse?
+
+Speaker A: I'm sorry.
+
+Speaker B: Yeah, we were hoping that was gonna be FX Hash. No offense.
+
+Speaker C: It's amazing work. So congratulations on getting that.
+
+Speaker A: It's stunning.
+
+Speaker C: It's been beautiful. We've been following it.
+
+Speaker B: Trinity at one point, I think, had the most Farbteilers of anyone.
+
+Speaker C: Minted 13, 2 tez apiece.
+
+Speaker B: On the Artist Commons.
+
+Speaker C: Early believer.
+
+Speaker A: Wow. Nice. That's awesome. If we can get world-class artists from this space, people will tell their friends. And if we can get world-class artists from the art world, we will get good press and people will come if the projects are interesting. And it's on us to make them, like, work with those artists to make them interesting. I'm pretty sure that's the best marketing we can do. That kind of like paired with as good a product as we can possibly get that compels people to tell their friends about it.
+
+Speaker B: I think we can talk about the greater market collector thing probably forever and just go around and come up with ideas. But for the sake of keeping the interview going and driving to a finish, maybe we should move on to some rapid-fire stuff with you, Jamie, to wrap up. Does that feel okay?
+
+Speaker A: That feels good.
+
+Speaker C: Maybe we can have a follow-up 6 months' time, see how we still feel about all of these topics.
+
+Speaker A: Yeah, right?
+
+Speaker B: Maybe a good question here. I think, Trinity, you must have put this one down in the rapid-fire. So What does happen to all the physicals that go into the gallery that don't get sold?
+
+Speaker C: I know, because they look astounding.
+
+Speaker A: Oh God.
+
+Speaker B: What happened to those pieces?
+
+Speaker C: Where may not you be coveting them?
+
+Speaker A: It's really tricky because we get so many people saying, what are you doing with it? Like, let me know if you're selling it. And these are unsigned prints in incredibly expensive frames that are going to cost an absolute fortune to ship. And there is no way it can possibly make sense for someone to pay $3,000 to get one of these pieces to their home. So instead of just kind of printing it and framing it locally, So letting people buy them just doesn't make sense. So we're reusing a lot of frames. We've got a pretty hefty inventory at the moment. I suspect people might start to notice frames from previous shows and new shows. We've got a storage unit and we're recycling.
+
+Speaker B: It hurts to think of those prints just sitting somewhere not being used.
+
+Speaker C: Yeah, the prints themselves, framed or not. I mean, that's incentive to get a job in London, I, I would say. Don't need this print anymore. Okay.
+
+Speaker A: If anyone in London is listening to this and is interested in art logistics and helping us keep track of everything, please get in touch. We need help.
+
+Speaker B: All right, another one here. We browsed your personal collection a little bit, and you've gone quite deep on a few artists. A lot of Lars Wander, a bunch of early Nat Sarkissian, which was really interesting. You have like some of his very first pieces that were plotter pieces before he was famous, as famous as he is now at least. What do you look for when you collect, and is there anyone that you think is like still underrated and poised for a breakout this year?
+
+Speaker A: Oh, so many. I love Yazid. He's so good.
+
+Speaker C: Anything in particular or just all of Yazid?
+
+Speaker A: It begins with C. The squares, the boxes, what are they called?
+
+Speaker C: Complementary.
+
+Speaker A: Complementary. Love complementary. I missed the step-by-step mint, but did get one yesterday, and I'm so happy with it. I love it. Alejandro, I've got a lot of Enfanteens. I went a little bit mad on those. I think he's—
+
+Speaker C: 46 or something of them? Oh, God.
+
+Speaker B: Why?
+
+Speaker C: Was there anything in particular that made you go for them, or was it just kind of like a qualitative thing that it just spoke to you on some weird Yeah, just that.
+
+Speaker A: It's inexplicable. It was just that. It was like the turquoise. Love that turquoise. I've got so many of that palette. Can't articulate it. Don't know. Erik is insanely talented. Um, I love Toxy's work. Don't have enough. The thing I find tricky on fxhash is the fact that, like, an artist can do a project that really resonates and then the next one is just completely different. I don't know how you guys kind of think about artists who may be kind of like pre-a-signature style.
+
+Speaker B: Yeah, I mean, there's definitely artists who have like one big hit and then either chase that theme into the ground or don't come back to it and then don't have follow-up hits. And I don't know, it's hard to know what to attribute it to. Is it because they just don't care and they just want to make what they want to make, or they just aren't being strategic and then they over-release? Like, there's so many little pitfalls for artists to fall into.
+
+Speaker A: It's—
+
+Speaker B: we always say we don't envy the artist because it's such a challenging field to navigate.
+
+Speaker A: Yeah, I mean, Melissa's like— it's just incredible how like she kind of like came out the blocks with the signature style and like everything she does other than the collab with— I can't remember the artist's name, but yeah, pretty much everything Melissa's done is—
+
+Speaker C: Amber Vittoria.
+
+Speaker A: Yeah, everything else is just so recognizable. I think that feels like a good thing, but then again, I suppose it's got to be tricky for an emerging artist to feel that they need to be Sticking to the same thing. Exalted. I don't know how you pronounce their name. Love their work. I think that's it.
+
+Speaker C: You also have many Froon's pieces across your wallets. You have like 15 improvisations, which is insane.
+
+Speaker A: Just like them. Pepe XYZ. I really like these like fireworky kind of like ink splatters. I think they're great. I don't know much about this artist, Shenkai, but love Rose Mandy. I think they're beautiful. Endless World have done some really cool things. I can't remember what their project was. They're kind of like villages, a distant memory. I thought that was great. I heard you guys talking about Leslie on last episode. I've got a few of those. They're really nice.
+
+Speaker C: Yeah, I minted a couple of the Serene Gardens. I really enjoy it. I feel like if it had come out at any other time, it would've been snapped up.
+
+Speaker A: Yeah, they're awesome.
+
+Speaker C: I know it's representational, but whatever.
+
+Speaker A: Yeah, they're great. Thomas Noya, love. Oh, I'm just looking at 400 Flips. I love this series. I don't really know or understand what's really happening with Everlasting Building, but I got a few of them. They're kind of intriguing and I really like them.
+
+Speaker B: They were super hot like around this time last year or even a little earlier.
+
+Speaker C: When they first released, it was like every, every drop was botted.
+
+Speaker A: Really?
+
+Speaker B: Yeah, because they were doing them really cheap and they were really small runs.
+
+Speaker C: 50 editions, 5 tez.
+
+Speaker B: Yep.
+
+Speaker C: Hmm.
+
+Speaker A: What's going on? Like, how are they, are they generative?
+
+Speaker C: They're procedural.
+
+Speaker B: Yeah. Well, they're generative, right? But they're not code-based. They're like—
+
+Speaker A: Right.
+
+Speaker C: Pre-rendered components, I would say.
+
+Speaker A: Yeah. Right.
+
+Speaker B: They've kind of quit. I think that they finally, I think they've done some stuff on OBJKT, but they stopped releasing on fxhash because the secondary kind of died on their work, I would say.
+
+Speaker A: Got it. Yeah. Lars, I mean, I think he's a Awesome. So good.
+
+Speaker C: Was that before or after you featured Lars in an exhibit? Always curious about that.
+
+Speaker A: I think I kind of felt that I couldn't buy it before we announced it, and then I bought these, I think, like a day or so after we opened it and started going from then. I'm actually finding this quite difficult. Like, I genuinely love to get your thoughts. Like, it feels that buying things pre any kind of announcement feels kind of unfair, but at the same time, I buy what I like, and we generally show what we like. So I don't really know how to think about that. I'm definitely worried about people thinking, oh, Jamie's gone and bought like 24 of these and all of a sudden they're trying to pump it. It's like—
+
+Speaker B: I think you'd be in a lot more trouble if you had tried to sell all those geodes for like $1,000+ when they spiked versus—
+
+Speaker A: Right.
+
+Speaker B: Looks like you haven't listed them at all. So if your time horizon for selling them is long enough, I don't think it's gonna matter. It's not gonna like look like you're taking advantage of the specific information you have.
+
+Speaker A: Yeah, I sold one because I, um, I got FTX and I literally haven't had crypto since. Um, and Nat very kindly gave me a waitlist place for Eucalyptus. So I had to sell a Geo to pay for that, but, um, that's about it.
+
+Speaker C: I think a tangential question is, you know, we have so many homegrown artists, both within the generative art space or within the FXHash space more specifically. What do you feel like, just based off of what you've seen in like the trad art world, what is the pathway to breaking through? Do you think these folks will break through and we'll get to our, uh, the state where Will and I are selling our bags to the MoMA for millions of dollars and retiring?
+
+Speaker B: Or to a gallery?
+
+Speaker A: I really hope so. I think the quality is definitely there. I'm pinning a lot of hopes on Paste. I think it's brilliant that they are as involved as they are. They are so credible. They are legitimately one of the top 3 or 4 galleries in the world. And if they can start showing artists who are already native to the space, I think that's going to start doing wonders for the space generally. Hopefully they go and do a show with a big name here. It goes amazingly. And White Cube, Hauser Wirth, and Gagosian start to cotton on to the fact that actually maybe they should be listening and Start doing the same. I think it'll happen. I think we're one or two big page turns away from everyone else starting to cotton on.
+
+Speaker B: That's very hopeful.
+
+Speaker A: Oh yeah, I'm definitely optimistic.
+
+Speaker C: You know what we've been asking recently, and this is, you know, we're both getting ideas for future content, but also are genuinely curious. Is there anybody that you feel we should interview?
+
+Speaker A: I'd love to hear you guys interview someone from the art world who's anti-NFTs.
+
+Speaker C: Oh, we would love to do that too. We've put some Will's put some feelers out.
+
+Speaker B: The people that I reached out to are so anti-NFT that they stopped responding once I mentioned it. If you know anyone—
+
+Speaker A: Yeah, or an artist who does digital work but doesn't do NFTs, that'd be good. I'll have a think.
+
+Speaker B: Those are 2 types of people that we do want to have on the show, but because we're just so focused on making the show, we don't even like know who to reach out to and try to figure that out.
+
+Speaker C: We'll have to go to more art shows and source some people there.
+
+Speaker B: Get business cards.
+
+Speaker A: I was talking to a gallery friend of mine at one of the fairs recently, and she, she was showing me a video piece, and she told me that it comes with a hard drive and an authenticity certificate. And I asked her, why not Ethereum? And she just said, oh, we don't do NFTs. So annoying. Like, I just feel like Everyone's thinking the same thing. Don't know how to change the perception of NFTs in that world.
+
+Speaker C: You get them hooked first and tell them that it's an NFT later.
+
+Speaker A: I agree.
+
+Speaker C: Any questions for us?
+
+Speaker B: If there's any questions you have for us, we can do that and then we can wrap up.
+
+Speaker A: So many.
+
+Speaker B: You've solicited more commentary from us than the average guest.
+
+Speaker A: I've got so many questions for you. I'm so kind of like anxious and worried I think that I've kind of said it, like, we need to grow this space a lot before we can put more stuff out there. I'm worried about fxhash's volume recently and the amount of liquidity in the market at the moment generally. And I feel like it's in all of our best interests at the moment to be teaming up as opposed to— I mean, obviously there's going to be a bit of competing, but how can we work together more? If we're thinking about how to grow the space as opposed to how to grow any particular platform, Do you guys have any thoughts on what isn't working, what needs to change, what can be improved?
+
+Speaker B: I feel like Trinity, you probably have more to say on this than me because you think about design stuff.
+
+Speaker C: Honestly, what I was about to say has been the drum that you've been beating, which is around more marketing, positive marketing in a way.
+
+Speaker B: Yeah.
+
+Speaker C: My therapist has told me that NFTs are evil and I didn't get into it because that didn't feel like the space to talk about his feelings on NFTs in particular.
+
+Speaker A: Sorry, why does he feel they're evil?
+
+Speaker C: I didn't ask, but like, they are like the epitome of evil was, I think, what he said.
+
+Speaker A: Wow.
+
+Speaker C: I don't know if it's from a speculation perspective, an environmental perspective. I feel like there's just a lot of misinformation out there, and I think there's a lot that needs to be done to change the perception within the world.
+
+Speaker B: NFT is just so toxic that it's probably a term that needs to be abandoned. And we're already seeing Reddit and Instagram figure that out. The initiatives that they've done with Polygon, which in theory have onboarded millions of people without them knowing, they call it digital collectibles and they don't even, I don't think they even make it apparent that you can custody the stuff yourself. I don't even know if you even can. Similar to like what Flow does too. Like, I think in theory you could get your own Flow wallet and self-custody it, but it's like, why would you even? They're not really trying to like let you do that or show you how to do that. They're trying to Just make it this ecosystem where you can trade these digital things. I kind of feel like there's got to be something where, I don't know, it just feels like the people who run Tezos, or at least the Tezos Foundation, like really have no idea what to do with their money. But if they could get behind the idea of like trying to rebrand Tezos as like an art chain and talk more about the positive stuff that you can do with NFTs, and same thing for ETH, if there's any kind of like foundations on ETH and get away from the scammy side of it. It's just gonna be so difficult. It's so endemic, especially Tez is kind of nice. Tez is kind of like having an Apple computer where you just don't get viruses, you know, like you're so small that no one cares to really try to scam you here. If they do, it's like just for a couple bucks. Like it's not like on ETH where such a big space that it's actually lucrative enough to exit scam someone for $10 million or a group of people.
+
+Speaker A: Yeah.
+
+Speaker B: It has to be tackled from the top. Like, I don't know if any one platform or even Verse plus fxhash, like Unless you start getting in the ears of bigger organizations that have money and have a stake in rebranding the entire space. I do think it is like, it's just platforms competing with each other and I think it's all just cannibalizing the existing people here. And I think it's just pure luck that people like Trinity and I come in here. It's not, we just find it randomly and you can't rely on that forever.
+
+Speaker C: But I think that there is something to be said about the likes of fx hash growing the art market. You know, I think that ahead of this, Art was just something that kind of existed. And now it's something that is a really huge part of my life. And I feel like that's how it is for many people within like fx hash Discord. Obviously not everybody, but I think that we can just make the pie bigger, a lot bigger.
+
+Speaker A: Do you guys feel crypto native? Like, would you say you're crypto native?
+
+Speaker C: I don't. No, no. I believe in crypto, you know, transacting on it is so exhilarating in a way, just in how I feel like it enables us to do for like the future of technology. But I'm not hardcore DeFi, bought Bitcoin at $500 crypto native. I've only gotten into it in any like real meaningful way in the last year, year and a half.
+
+Speaker B: Same. I mean, I got into it a little bit before Trinity, but my involvement in it was almost entirely like cynical and speculation-based. And I have no, like, Bitcoin's going to swallow finance or ETH is gonna rule the world. Like, I have no strong thesis or theory on it. People ask me sometimes about NFTs cuz I, we do this show and I'm just like, I honestly struggle to think of any use case other than art for them right now. Like, everything else seems so pie in the sky and so like—
+
+Speaker C: Digital identity, it's huge. You know, having a digital identity that you take with you everywhere.
+
+Speaker A: Okay.
+
+Speaker B: What if you lose your wallet?
+
+Speaker C: That's insane.
+
+Speaker B: Like, that's the thing is like, I mean, there are some people working on this now, it sounds like, but like—
+
+Speaker C: Obviously that's the risk, but in terms of the capabilities that are enabled by the existence of a wallet that follows you rather than being something that is very Web2 and based off of databases across other people.
+
+Speaker B: I don't know how you decentralize that though, because once you decentralize it and you put the risk and responsibility of ownership on a person and there's no one you can call, like you're never going to get adoption because people, they're not going to want to spin up new wallets and new identities and lose their data.
+
+Speaker A: I don't know about responsibility.
+
+Speaker C: It just represents some cool scenarios and use cases. Obviously there's so much that needs to be solved.
+
+Speaker B: I understand that. And I know that there's people who are working on like social recovery protocols and like, I could delegate to you, Trinity, and I could delegate to my wife and 5 other people. And then if I ever lose my wallet, then you all could vote. Like there's, they're trying to come up with ways that we could cryptographically, like if I lost my wallet, I could get it back because I know 5 people, but Is that going to work? Like, is it real? Like, I don't, I don't know. Like, is it going to be hackable? Is it going to be exploitable?
+
+Speaker C: I think there's also a lot that can be done on the anti-fraud thing, right? Credit card companies and banks, you know, they're able to spot a fraudulent transaction from a million miles away for the most part and immediately flag it. So I think that also, if you apply enough money and brains to this space, you'll be able to at least mitigate some of those issues proactively.
+
+Speaker B: You're talking about censoring transactions, Trinity. And that's like so anti-bubble.
+
+Speaker C: No, it's about safeguarding. You can still do the transaction. We're just letting you know that this could be fraudulent. It's up to you if you click the continue button.
+
+Speaker B: MetaMask does that a little bit. You know, MetaMask will give you a warning that will say like, this might be a malicious thing. I don't know. I mean, I think for, for me, for both of us, the thing that's been most interesting is just like getting to know art and seeing this and kind of just trying to think about the larger historical context of like, It's kind of weird that we're even buying art and it's going up 10 or 100x in value right now. Like, doesn't that normally take like 20 or 30 or 100 years to happen for art sometimes, like, to actually become historically significant enough to justify those prices? So it's kind of strange.
+
+Speaker A: The art market has sped up like 10,000x, if not more, because middleman fees are massive. Yeah, I mean, if you want to sell a piece at auction in the physical art world, I mean, it just Total ball ache, takes forever, endless reasons why it takes half a year instead of the next hour.
+
+Speaker B: We're just gonna sit here, we're just gonna keep watching it, you know, and we got people like you building Jamie, which is super cool, and people like us just commenting from the sidelines.
+
+Speaker A: The more feedback and guidance we can get, the better, because we are guessing and making it up as we go along in a massive way. So the more it feels like a team effort, I'm sure The better it's going to be for everyone, I hope.
+
+Speaker B: Well, this is officially our longest interview ever, so I think we should wrap it up here.
+
+Speaker A: Sounds good. Sorry to take so much time.
+
+Speaker B: Yeah, no, it's all good, man. Thank you for coming on. I hope you had fun.
+
+Speaker A: Yeah, I really enjoyed it. Thank you so much for having me. It was really, yeah, really fun.
+
+Speaker B: I'm gonna get back to work. Trinity, you get back to work. And, uh, thank you again, Jamie, for coming on the show. Hope everyone enjoyed that interview. It was really great to talk Talk to him, learn more about Verse, and just kind of debate NFTs and crypto.
+
+Speaker A: So cheers, guys. Great to speak.
+
+Speaker B: We'll be back again soon. Cheers. Later, Jamie. Bye.
+
+Speaker A: See you later. We're waiting, always listening. We're waiting to be signed.

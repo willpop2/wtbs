@@ -1,0 +1,323 @@
+Speaker A: All right, hello again everyone. Welcome to a special bonus interview episode of Waiting to Be Signed. I'm joined here by co-host Trinity as always, and we have special guest MJLindow, whom if you are an fx hash collector, fan, aspirational collector maybe, this is an artist you probably all know and love. We're very excited to have him on. And yeah, MJ, how's it going?
+
+Speaker B: It's going great. Thanks for helping put this together and having me on.
+
+Speaker A: Hey, it's really nice of you to come on the show. You know, we're still a young show. It's great to have a big artist like yourself be so generous with your time.
+
+Speaker B: Yeah, no, it's great to be on.
+
+Speaker A: Cool, cool. I know you're like an original fan, actually, not to blow you up, but I know that you've kind of been listening from the start.
+
+Speaker B: Yeah, it's been great to follow the podcast and kind of see it grow and get more awareness in the community. So it's been fun to be along for the journey.
+
+Speaker C: I have to say, you've probably listened to more episodes than I have, honestly. Yeah, I should be listening to our own work, but I'll listen to this one perhaps.
+
+Speaker A: Yeah, well, we get to listen to it live.
+
+Speaker C: Exactly, exactly. I don't want to ruin their experience of going through it again.
+
+Speaker B: Yeah, yeah. I don't, I don't know that I've ever listened to any of my interviews after the fact. I don't know that I could, uh, handle it. So I understand.
+
+Speaker C: All right, so if our listener count goes down after this interview, we'll know it's because of you.
+
+Speaker A: Yeah, one less, one less person listening. So, you know, the, the, the spirit of this interview is to to kind of be a forum for community Q&A, and we did our best to solicit questions. We have a nice curated number here from between Discord and Twitter and the Google Form. But I think before we jump into the questions, for anyone who maybe isn't kind of familiar with some of the other interviews you've done out there, or, you know, the Twitter Spaces, could you maybe start off with a little introduction of yourself and your—
+
+Speaker C: Sure.
+
+Speaker A: your background in art and how you came to fxhash?
+
+Speaker B: Yeah, so I've been creating art since, I mean, as long as I can remember, since I was probably about 4. I did a lot of painting and drawing throughout high school and actually paid for college building stained glass windows at a local studio. But then after college, I kind of took a different route. I went into supply chain management and taught myself how to program, ended up doing data engineering for a couple of years, and then in August found out about Art Blocks through a podcast I was listening to, and it just kind of clicked. So I I dove in, started working with p5, and then quit my job pretty soon after that, hoping to get into Art Blocks and found out about fxhash in November and just was super excited. So I dove in. I mean, the day after I stumbled across it and launched Hardin, my first project there.
+
+Speaker C: That is a huge leap of faith going from, I've never released art on the blockchain before, to, I'm going to quit my job to do this. How?
+
+Speaker B: How? Yeah, I think there's, I mean, a couple of forces at play there. Like, before that, I had been looking for a change. And kind of oddly enough, I hadn't heard about generative art until August, like Art Blocks was my first exposure to it. But it was something that had actually been on my mind for maybe like 2 years before that of like, yeah, it would be kind of interesting to make art with code, but it's like, I don't even know where to go with that. So I had never done, you know, I had like maybe made a few Excel spreadsheets that did generative art, you might say, and then just kind of threw them away.
+
+Speaker C: Yeah.
+
+Speaker B: So I think it was just, it just felt like, you know, something that clicked, something that I had been looking for. So it was not as hard as it otherwise might have been.
+
+Speaker A: Interesting. So, I mean, are there any, as you kind of dove into generative art, are there any creators that kind of influenced you in those earlier days, right? Like, do you draw from art history for a lot of your influence or were there specific, like, people who were releasing on Art Blocks that you found and were inspired by?
+
+Speaker B: So pretty quickly after finding Art Blocks, I mean, I saw a few projects, Fidenza, Squiggles, Meridian, and I guess you could say I was inspired by those. But pretty soon thereafter, I decided I was going to kind of limit the amount of other people's art, especially generative art that I looked at. Just to— my kids are waking up and coming to peek at me— just to give myself a little bit of space to kind of come up with my own style, figure out what I was interested in, rather than just consciously or unconsciously just trying to kind of mimic what I had seen elsewhere.
+
+Speaker C: Mm-hmm. I mean, it seems like if you've been doing art for as long as you can remember, I, you know, there's definitely that, um, you know, how does that translate into code? Because I think that what you're looking to do on like pen and paper or with paints or with, you know, stained glass, you know, how do you, like, is there a difference between like how you think about what you're producing between like the physical realm and digital?
+
+Speaker B: I think there is a lot of kind of crossover between those two. One thing that I did do early on when I started with generative art is I went through and pulled out all my old sketches and paintings. It was just, well, initially I was doing it to kind of photograph them and put them on Instagram, but I did, like, Hardeen actually was kind of inspired from a sketch that I found there.
+
+Speaker C: Yeah.
+
+Speaker B: And so I think there's kind of a crossover. I mean, they are different. My paintings look very different from my generative work, but I feel like a lot of the inspiration and themes are shared.
+
+Speaker A: Interesting. So I think here's an appropriate question from the community. How do you handle the art-life balance as you've become successful? And this is partially inspired by some of the family noises we're hearing right now. And this question is from— this question's from Nudoru, who I think dropped it to us over Discord.
+
+Speaker B: Yeah, so I mean, one thing that's really nice is I, you know, I'm being my own employer. I have a lot of flexibility with balancing those two, but One thing that has been helpful for me is to kind of take time to disconnect from online and the Discord and Twitter space and just kind of focus on the, you know, the work that I have in front of me. And then at the end of the day, you know, when I'm not making progress anymore, kind of just put it down and Instead of jumping online, just go run around, play with my kids, take a change of pace.
+
+Speaker C: Yeah, I think that sounds amazing. And I think that, you know, we've all seen Waiting for Afton and, you know, just like that landscape and that, like, just the amount of beauty in there. Do you also get some solace and recharge from the outdoors?
+
+Speaker B: I do. I, I try and get out hiking every Monday morning and go for like a 5, 6-mile hike, get, get out into the mountains.
+
+Speaker A: Nice. Yeah, we don't, we don't have such nice options here in the city.
+
+Speaker C: Someday.
+
+Speaker A: Yeah, yeah, yeah. I have to say, I kind of, from looking at your work, I have this mental image of you kind of like living on a ranch and having this beautiful, like, sacred little studio separate from your home. And there's this very, like, um, artist-in-residence kind of vibe that I get from your work. And I'm sure, I'm sure that's probably not at all the case.
+
+Speaker B: Like, uh, it's not, not quite that idyllic. If you find that, um, you know, that, that place, uh, you know, send me, send me a link. And yeah.
+
+Speaker A: If it's listed in Tezos.
+
+Speaker B: Right. If it's like 50 Tezos, I'll take it.
+
+Speaker C: Yeah. We'll land into the metaverse. How about that?
+
+Speaker B: Ah, sounds— yeah, that sounds right.
+
+Speaker A: Well, let's jump back. And Trinity, I saw you highlight this question, the document. So you talked about quitting to go to art full-time. You know, what made you feel like that was viable for you in terms of You know, revenue, right? Like, obviously you've had the success now. And so maybe there's kind of 2 questions here. So you came onto FXHash and a lot of your work is kind of like grail status, right? And has a lot of acclaim and regard within the community, has high secondary prices. You know, people love it. Like, did you kind of expect that level of success? Like, when you started working, did you go like, wow, what I'm making really feels different and is going to be unique, you know, maybe because you isolated yourself from the influence of other creative coders, or was it really just like, hey, I'll give this a year and let's see if it goes anywhere?
+
+Speaker B: It was definitely more on the latter side of, you know, I have been making art for a long time, not professionally, But painting and drawing as a hobby for many years. And then I also had the technical background. So it was kind of like, okay, I think I have the skills that are needed to do well in this space. So I'll take a bet. But I was expecting it to be a much longer process.
+
+Speaker C: Yeah.
+
+Speaker B: I've done Etsy, I've done Amazon and other things like that. And based on those experiences, I was prepared for like, okay, let's give it 6 months, let's give it a year. That will kind of stretch out our savings, but I think we can do it. And hopefully something comes of it. So it was a surprise to kind of have things gain kind of recognition as quickly as they did.
+
+Speaker C: I mean, I think that recognition is really well deserved. I mean, everything that you've put out is just beyond amazing. So, I mean, thank you from the bottom of my heart for doing it. I think my first day on fx hash, I saw Waiting in Afton. I was like, I had no idea who you are. I had no idea. I hadn't seen any of your other work. I was just like, oh, that's the one I want to save up for.
+
+Speaker B: Yeah.
+
+Speaker C: Because it just kind of speaks to people on, I think, on a primal level.
+
+Speaker A: Unfortunately, the way the prices go, it's kind of one step forward, two steps back in terms of saving for one of those.
+
+Speaker C: Oh yeah, maybe someday I'll just need to dump a bunch of Tez in. Yeah, but yeah, I mean, I think that you, you know, taking that, that leap to go full-time artist, um, you know, and having lived in the— and I'm actively living in that corporate world, it seems like a huge change of pace just in terms of you know, waking up in the morning, getting on the laptop, you know, being in meetings, what have you. What have you learned about yourself and just how you operate in the world without that since going full-time?
+
+Speaker B: So, I mean, one of the things that I've learned that I've kind of always been suspicious of is that I'm definitely more cut out for this work than the more corporate world. I like to kind of set my own goals. I like to set my own schedule. So I guess that's not something new, but it's nice to kind of have that confirmation of like, oh, I actually do enjoy this. But kind of on a more serious note, I guess, I feel like in trying to create art, to some level, you're trying to kind of represent something that is subconsciously Understood, or kind of like those universal underlying patterns that we all connect with. I don't know if that's— we can edit out those words to make them make sense later. But I feel like through spending every day, you know, kind of in a more quiet, slower pace, just focusing on the work and trying to really dig down and find those things that connect. It has helped me kind of examine my motivations and different driving forces throughout my life. So not to like share any specifics, but it has been kind of like an almost meditative process to be doing it that has helped me kind of get better understanding of my Kind of lifelong drivers and motivators, which has been a unique experience.
+
+Speaker C: Yeah, I think that's something that we can all relate to. It's so easy just that you go on into automatic mode, you know, when you are, you know, working a 9-to-5 job, that once you step out of that, it's so freeing and liberating in a way. Like, you have like the emotional space to kind of step back and like see where you are and kind of understand like the world around you on a totally different level.
+
+Speaker B: Yeah, definitely. Because I mean, the kind of the, the 2 years prior to quitting my job were definitely— it was, it was kind of like 4 o'clock to like 10 PM was, was, you know, not, not all working, but work was kind of the all-consuming thing. So it's having stepped away and kind of gone to a much slower pace, just focusing deeply on what I'm working on has been kind of an experience of clarity, you might say.
+
+Speaker C: And I think that we may be seeing some of that representation, I think specifically in the 2 works that seem the most personal to you. Not to put words into your mouth, but Obviously waiting and Afton, which we've talked about already, but also caught in a void. Because I think when you're saying the 2 years prior to quitting my job, that's basically the years that line up with COVID right? And, you know, the remote lifestyle, it's just so much more all in, I find, than what it's like going to an office, for example.
+
+Speaker A: Yeah, I mean, I guess to piggyback off of that question, I think it would be interesting to hear If you've had a shift from your earlier days, and earlier days is in heavy quotes here, right? Because it's just going back to November, so it's not really that long ago. But have you had a shift in kind of what you're pursuing creatively? Like, I think there's kind of this demarcation between everything that came before Caught in a Void and then Caught in a Void itself and then Kunza after.
+
+Speaker C: Yeah.
+
+Speaker A: You know, do you— I guess this is a very open-ended question, but do you kind of feel like you're moving into a different phase of like creative inspiration right now, or stylistically? Right, Kunze feels very different from a lot of the stuff that you've done in the past. You know, Caught in the Void, obviously very different stylistically, inserting, you know, a physical— not a physical, but a graphical representation of yourself. I mean, what's kind of—
+
+Speaker B: Yeah.
+
+Speaker A: interesting you right now in terms of creating?
+
+Speaker B: From my side, it's interesting because I don't— I kind of see them all as kind of sharing a lot of similarities. Well, at least though, so Waiting in Afton, Cotton Avoid, and Kunza, I actually feel are, in my mind, kind of Exploring the same themes. So across all my work, there's— I've enjoyed exploring different textures, and I think that kind of is the commonality that ties all of them together. But so Waiting in Afton, Caught in a Void, and then Kunza, to me, feel like they're all kind of examining the past and memory from kind of different angles and perspectives. You know, Caught in a Void, Waiting in Afton are kind of personal histories. And I feel like Kunza is almost kind of a meta look at that, of taking us a longer view of kind of memory and the past and how, you know, our—
+
+Speaker C: Memories.
+
+Speaker B: Our memories can degrade over time and become less reliable. So I don't know, I feel like I'm still kind of discovering those pieces and kind of the motivations and meanings behind them. But to me, they've started to feel more connected as time has gone on from kind of a— not necessarily from just the visual perspective because they are You know, very distinct visually, but kind of the motivations and the themes that underlie them are kind of the connective tissue.
+
+Speaker A: Yeah, I think it's interesting to hear you say that because it kind of shows the overall, like, amateurish perspective a lot of collectors on fxhash can have, right? Because, you know, the question that I just gave you, it's like, oh, like, you actually do see all these things connected and that they're not at all. You know, there isn't this clean demarcation in the work like I had kind of assumed, right? Just from evaluating it on like a visual perspective. So I guess an interesting question would be like, how do you— how has it been for you kind of dealing with the, sometimes, you know, the maybe the more polarized reactions to the last 2 releases, right? And you kind of see that, you know, I know it's crass, but we do talk about you know, markets and the value of stuff here on the show. I mean, is it kind of been— has it been challenging for you to see the secondary market behavior of those 2 pieces compared to your previous work, like, be so different?
+
+Speaker B: It definitely has been kind of interesting to watch that happen. You know, and I'm getting too wrapped up in things that can be concerning at times and make you question like, oh, did I do a bad job or something like that? But kind of taking a step back, I've realized I don't control the market. I don't control the timing of how things play out. So I've kind of, you know, if I get too wrapped up in it all, I'll take a step back and kind of take some time away from online and just to get re-centered and focused on the work. Because I think, you know, my best work is ahead of me and not everything is going to kind of be received equally in the market. But I can focus on kind of doing the best that I can and really finding the work that represents me well and that I connect with well. And I think in the long run, that will, you know, things will sort themselves out.
+
+Speaker C: Absolutely agree. You know, I think that there's 2 different paces here. I think when you look at like the traditional art world pace, it's more methodical. It's, I think, slower at times. And obviously, you know, we're living in a digital world where a week seems like a year. And I think it's really good and healthy to be able to take some of those steps back and just kind of disconnect from it all.
+
+Speaker A: But yeah, I, I've been noticing a lot in the last couple weeks, artists on Twitter, um, of varying levels of success on the platform You know, people who have maybe released some work, it's minted out, but it hasn't really been heavily traded, now releasing work that they feel is of similar or better quality, and it's not even getting minted anymore. You know, and it's just kind of like, even artists, I think, maybe artists who have come up in this blockchain era are having a hard time separating themselves from these timelines that like people care about in crypto. Crypto is about the hourly and the daily, and it's not about like, you know, there's a lot of artists who create for 30 years, die, and then, you know, their art becomes valuable, right? And like, they had— there's these massive retrospectives.
+
+Speaker B: Yeah.
+
+Speaker A: There's this weird, like, you know, we always say on FX Hash, like, this is, you know, in our opinion, the most purest platform for art and blockchain, and everyone here really likes the art, and the prices in the market are just kind of this weird byproduct of how we're experiencing it, right? But there is still this bias towards like, well, if this is so good, why is the price not high right now? Which is a really, really— it's really awkward, I guess, in the history of art itself to have that viewpoint.
+
+Speaker B: Yeah. And I think in the, you know, The longer term, I don't think it'll be 30 years. But, you know, maybe months or years, things will sort out. I mean, I feel like part of it, you know, is just how quickly things are going. And it's like there needs to be a little bit of a correction and a slowdown of everything just as more users come on and kind of just awareness of generative art in general builds. So yeah, on kind of the crypto timescales of like what happened in the last 10 minutes, yeah, it can seem like an eternity. But I think I'm not too concerned for the long term.
+
+Speaker C: Cool.
+
+Speaker A: Well, I think let's— I think we have kind of like a diverse set of questions here that aren't all naturally going to segue from one into another. So let's kind of just try to tackle some of these on here from the community. We've kind of gotten into some of them, and if you heard your question asked and your name wasn't called out, sorry about that. But definitely some of the topics we've covered have been from like Tobias Reber from Discord as well here. Some anonymous questions that were submitted. Here's one that I don't know if you're maybe aware of or not, depending on how plugged in you are to like fx hash and the Discord on the daily.
+
+Speaker B: Yeah.
+
+Speaker A: But are you familiar with the kind of movement to label certain types of generative art that are layering PNG files versus like purely code derived? Have you seen that discussion coming up?
+
+Speaker B: I haven't. I maybe have seen it kind of peripherally. I haven't followed it in great depth, but it is something that I've thought about and do think about when I'm collecting.
+
+Speaker C: Gotcha.
+
+Speaker A: So there was a question from a community member, Charlie Surf, basically asking you to weigh in on this issue and how you kind of feel about it. And I labeled this as a hot take question. So if you'd rather not give a hot take on it, or if you aren't really that close to it, but to kind of summarize it, right? There's this, there is work that's generated that way on the platform. It's not always obvious, especially to someone who's not a coder or not even an experienced collector on fxhash. And so there have been some cases of people buying it, minting it, thinking it looks amazing and it does look good, right? That's not the issue. The issue is like, well, how do you kind of compare it to something that's purely code-based? And should we categorize—
+
+Speaker B: Yeah.
+
+Speaker A: And kind of have a separate section or a label for work like that. So if you want to offer an opinion on it or a take, go for it.
+
+Speaker B: Yeah, yeah. It's like, as far as whether or not they should be separated, I haven't given that a ton of thought, but as I'm collecting, it is something I pay attention to because I, to me, it feels like generative Art kind of exists along a spectrum of like how much control is given over to the process or the algorithm versus how much is kind of predefined and set by the artist. And my personal preference, I tend to be more interested in collecting the generative art that's kind of more controlled by code and more purely code-based. That's not to say that, you know, that the PNG layering is less artistic or is not good art. I don't think that's valid to say. But at least to me, it feels less generative as kind of more and more control is kind of assumed by the artist versus the algorithm. So at least as I'm collecting, I will, I'll go in and I'll check the code and kind of assess how, where it lies on that spectrum. I tend to buy things that are more code-based than not. Yeah, than layering kind of predefined elements.
+
+Speaker A: So are there any artists that you kind of enjoy collecting? Is there anyone you want to shout out from the platform that you do really enjoy their work? And whenever you see a new release, like even if you're not there to mint it, like that you kind of flag it to pursue on the secondary in the future?
+
+Speaker B: I mean, ones that I would love to collect, I'd love to get some by Zancan. A little priced out for the moment. One, I'm gonna get the name wrong, but Or—
+
+Speaker C: Or Kislev.
+
+Speaker B: Yes, thank you. I really enjoy his work and wish I had more of it. But there's many others. I try and stay kind of up to date on what new projects are, and I'll I'll go through and if I can't buy something, I'll bookmark it. So I've got a folder full of projects that someday I hope I can circle back to and pick a few up.
+
+Speaker A: Yeah. Are you excited at all by the platform coming out of beta and these like kind of curation layers that are gonna be added on top of it? Or if you're familiar with like FX Tender, which is like a kind of a curation layer being built on top.
+
+Speaker C: already.
+
+Speaker A: Does that stuff really excite you as like a way to see these like really great collections conglomerated in like an easy-to-access fashion?
+
+Speaker B: I am excited to see that happening. And I look forward to seeing that curation built into the platform. I have looked at FXTender and I'm I'm excited to see the direction that they're taking things and what they're doing for the space. I think there is so much constantly going on that it's hard to keep track.
+
+Speaker C: Mm-hmm.
+
+Speaker B: And I look forward to having these spaces where people can kind of add their commentary and Kind of build a space to let people kind of understand the work more deeply and connect with it and build the communities around different collections and sets like that.
+
+Speaker C: Yeah, I think that goes back to something that you were saying a little bit earlier, just about the need to kind of connect or disconnect from Discord, Twitter. Earlier today, I saw that ajberni, who has put together fx, kind of having additional commentary on, there's so much happening and so much talk being generated on these sharing platforms, whether it's Discord where your message is lost 30 seconds later, or Twitter, which also just goes a million miles per minute. And that some of the larger conversations are being lost. Amid such just casual banter and back and forth chatter. And that this kind of provides that source of here's a summary, here's a history of what was being said or everything that's being put out there in the universe.
+
+Speaker B: Yeah, definitely. There's Twitter, Discord. I've even thought of putting stuff on my website, but it's kind of outside of the flow of people interacting with the art. I look forward to seeing kind of that commentary and that insight being more closely connected to the work itself.
+
+Speaker C: I mean, I think that it's good to put your own thoughts out there as well, like on some of these more stable platforms. I know that Abstractment, who we talked to a couple of weeks ago, put together a nice site around Clue. And I think that's something that the community craves almost. So don't limit yourself at all.
+
+Speaker B: Yeah. Yeah. I think they all, you know, serve a purpose, but there are definitely times when it's like you'll see the same kind of questions arise about something over and over again. And it's, you know, you're like, well, it's there somewhere on Discord or You know, if you scroll back like 7,000 tweets on Twitter, you'll find it.
+
+Speaker A: So it's such a challenge in this digital age, I guess, and this is the elder millennial in me coming out. Just, you know, you're kind of used to social media being this way that you learn. Like, for me, I get so much of my news and stuff from Twitter, you know, from curated, like, curated Twitter columns and stuff that I've created. But, and so for me, it feels all-encompassing and I feel like I'm always really tuned in. But now being on the flip side, creating content like the, like the podcast and trying to get it out there and discovered through these platforms, it's a totally different game. I mean, we, I think that, I think this is where having something like a website can actually be useful in the long run because it's static and it can exist and just people can keep finding it over and over again and building awareness. And that's kind of the hope for the show.
+
+Speaker C: Yeah.
+
+Speaker A: as well. But, you know, we're in Discord every other day talking about the show, you know, tweeting about it, getting retweeted, and still there are like veteran members of the community that are not aware that we make this show, right? Or that a podcast exists. And you just feel this like struggle of like, how can we be always talking about this in the 2 places where everyone does fx hash and still like—
+
+Speaker B: Yeah.
+
+Speaker A: 99% of the community doesn't know that it's a thing. It's a really interesting phenomenon, you know, that you can be talking into this space and have still very little people like hearing it.
+
+Speaker B: Yeah, and when you have like the majority of artists sharing commentary on their work and stuff, it's like, you know, this Discord conversation that maybe like 3 people saw or, you know, if you're lucky, 15. I feel like there's a lot of opportunities to kind of improve how those discussions take place. And I think curation on the platform will be a big step in that.
+
+Speaker C: Or even just having additional space to write your description around the work and your methods and your thought process that went into it. Obviously, you want to be able to grow and expand upon that as the conversation shifts and changes. But sometimes it's about communicating your own process rather than being so responsive and in that very temporal way.
+
+Speaker B: Yeah, where there'll be 50 people will maybe reach out with the same question. It's like that feels like it would be a great thing to have Just as like a longer article that you can attach to the work somehow.
+
+Speaker C: But obviously that leads to some of the additional work around it. I know that Amy Goodchild, she's put up a couple of blog posts around some of the work that she's put out. I think Maplens was a really good example. And she said it took her almost as long to write the blog, the post, and get all of her thoughts down on paper as it did to make it. That's an exaggeration. I think it took a couple of days, but, you know, it's not zero effort.
+
+Speaker B: Yeah. And I think the challenge right now is, you know, you'll put that effort into something and then it's just kind of like disappears into Twitter Space, which is a challenge.
+
+Speaker C: Yeah.
+
+Speaker A: Should we— I know we have a few more kind of questions about the art and kind of maybe your future. So should we circle back to some of those topics, Trinity? What do you think?
+
+Speaker C: Let's do that. Cool.
+
+Speaker A: I'm going to pick one from the list here. These are some that we came up with. So we talked about your expectations in art when you joined. So what are your— here's an interesting one. And I know we've talked about this a little Through DMs, MJ, but, you know, what are your goals for your work potentially outside of fx hash? You know, do you intend to mostly release on Tezos or are you going to explore other platforms? Do you have any kind of like, you know, you learned about Art Blocks, you came to generative art through Art Blocks. So is that an aspiration? Like getting a curated or into their non-curated or their less curated section?
+
+Speaker B: Yeah, I mean, I quit my job with the goal and desire of getting into Art Blocks. And that's still something that I'm shooting for and would like to do. So I'm watching as applications open up here, anxiously awaiting for that. And then that's been my primary focus for the past A couple of weeks after that, I am interested in other platforms and other blockchains are interesting to me. I'd like to kind of explore kind of the whole ecosystem. I don't have any kind of solid plans of where I'd like to go and what I'd like to do with that, but I am interested in kind of learning about what what's going on in these other layer 2s or other chains and kind of getting a broader view of the ecosystem. And then I think longer term, probably not this year, but maybe into the next year, I'm really interested in exploring ways to kind of bridge the gap between the physical world and Kind of the online Web3 universe, whether that be kind of— I've talked about building a generative work that can then be translated into stained glass or doing shows and getting into galleries and things like that. Those are also things that I think about and would like to pursue. Down the road a little bit.
+
+Speaker A: But just for everyone listening, there will still be fxhash releases, right?
+
+Speaker B: Definitely. I mean, I don't— yeah, I plan to continue to release on fxhash. I enjoy fxhash and want to continue to be a part of the community there and release my art there as well. So Yeah, that's not to say that I'm just like, all right, taking off and never going to look back kind of a thing.
+
+Speaker C: I mean, I think it's been really great to see some of the crossover as people go between, let's say, fxhash and Art Blocks. We've seen some people jumping over, famously this last week, M Soriaro, who sold out very quickly, I think, over there and it's been seeing great Great, a lot of love and movement. Um, we, we've seen a lot of like people from Art Blocks come over to fx hash as a way to kind of experiment a little bit more. Do you think that your work will change like as you like go from like platform to platform, like kind of using it as a, an opportunity to express different parts of your artistic self?
+
+Speaker B: You know, I haven't really thought in terms of changing kind of the content of my work. But there definitely are different constraints. I think one thing that's really great about fx hash is because of the cost and the different ways of storing the projects, there's just a lot more opportunity to try different things. With Art Blocks being stored on the Ethereum blockchain, just the costs and the size constraints, there's a lot of things that would just be prohibitive or not possible to do there, whereas fx hash has fewer of those constraints.
+
+Speaker A: Right.
+
+Speaker B: So there are projects that I've kind of had in my mind that I think will require a lot more code. And I think those types of projects especially are kind of will always be on fxhash for me just because it's such a natural place to kind of do those kinds of experiments or launch that kind of work.
+
+Speaker C: I'll ignore the obvious joke about putting in thousands of layered pings into fxhash because it can support it.
+
+Speaker A: But you're speaking to the use of IPFS with fxhash versus— I'm actually not familiar. I didn't Art Blocks, is that stored entirely on-chain? Or is it like there's more on-chain components than fx hash has, and that becomes a limiting factor?
+
+Speaker B: So if I understand Art Blocks correctly, all of your JavaScript is stored in the Art Blocks contract on-chain. So I'm not sure this will show my ignorance of like the underlying mechanics, but I think there may be storage limits to that. But either way, there's definitely a high cost associated with it. Gotcha.
+
+Speaker A: So I think an interesting thing about Art Blocks too is that, and I'm sure you've noticed this, is that a lot of the releases in Art Blocks tend to be much higher edition count than fx hash. I would say the average fx hash release is like 250 editions. And that's not just from you, but from like kind of everyone who publishes on the platform. I know this ties into a community question that we received, which was, how do you kind of decide on how many editions you're going to do for a project? And then does the prospect of going to Art Blocks, where the expectation might be to go like 2x as many as you've ever done, right, in an edition count. Is that really daunting to you at all?
+
+Speaker B: I mean, it is definitely a lot more work to come up with something that will withstand 1,000. Going back to kind of my views on edition size, for me, ideally, I would like to find a place where The project is small enough that each piece can be unique in its own way, but large enough that kind of those rare events can bubble up and you can still have those kind of rare gems that are just the alignment of probabilities that are low probability events. So to create an algorithm that that does those 2 things and still, and does them at 1,000. Like, it's just a lot more work tweaking the code and getting things just right to kind of withstand that size.
+
+Speaker C: I think that kind of relates back to what you were saying about some of like the future thinking work that you want to do. And also it's, you know, like the size limitation of what you can do on Ethereum or Art Blocks. You know, it's— if you're doing something that can be reverted to stained glass, like, that's a huge constraint. But like, I think that out of the constraints, um, that are endemic to like a platform or like a, a medium perhaps, you know, there's a lot of beauty that can happen because it forces you to kind of work within that.
+
+Speaker B: Yeah, definitely. Like, I, I think having those constraints as I'm looking To apply to art blocks and thinking along those lines. Like, it does kind of foster creativity in that way of putting on these artificial boundaries. Like, that could be really interesting, but, you know, that's going to be 500 lines of code. So can I change it? Can I cut it back? Can I simplify? And I feel like it forces you to really look at the core of what you're doing more and refine that core to a greater extent.
+
+Speaker C: While still maintaining the variety, but also maintaining like that rare chance for those special pieces to really emerge. That seems like a huge challenge.
+
+Speaker B: Yeah, and it's been really good to kind of shoot for a 1,000 edition count and looking at Art Blocks because of the opportunity to work within those constraints and push myself in that way.
+
+Speaker C: I mean, I think with that, you've also been teasing a lot of work on Twitter, just some of your works in progress. Some we've been seeing since, I would say, more of the November timeframe. There's one that is very 3D, very topographic with like lines and shapes, another that's like a bunch of circles that are divided by lines, and one that you're, you've been experimenting and showing a lot more over the, just the past few weeks, which are these fun, like I, I was trying to think of what to call them, uh, it's like retro futuristic shapes where it's kind of Jetsons-like, but also like '50s, '60s. Um, what's it been like to kind of have these, these works in progress and are any of those things coming to fx hash and/or Art Blocks?
+
+Speaker B: Yeah, I've been kind of pushing all of those along. It's like the topographic shapes and the more recent futuristic retro Jetsons-style shapes. Those have been the two that I've been most interested in and kind of trying to develop out and refine. At the moment, I don't know which ones will go where, but I think at least those 2 are likely going to be released somewhere, whether that be on Art Blocks or fx hash sometime in the coming year.
+
+Speaker C: I can't wait to see them because I know that when you're talking about Afton, Cotton Avoid, and Kunza, you know, it really— like, they all speak to more the concepts of textures, but also memory. Are there any emerging themes that are coming out of these, or I guess emerging inspirations?
+
+Speaker B: So for the retro shapes, that one, I think, in some ways is a continuation of the theme that's kind of started with Afton and gone through Cotton Avoid and Kunza of kind of a reflection on the past. I started out exploring these shapes and then kind of found them as a theme in a lot of the work of the 1950s. And it's been interesting to see the parallels between then and now, kind of this techno optimism combined with an interest and concern with nature, I think has a lot of parallels for our time as well, and is kind of a good blend of my work where I really enjoy exploring natural textures. But there's kind of the interesting element that I'm doing that through a very technologically advanced system. So That's been what I've been working on most the last week or two and most interested in at the moment.
+
+Speaker A: I'm curious to know, with a lot of the success you've had early on, and I'm sure you've seen this come up a lot when people talk about your work, which is collectors and fans really gravitated towards the personal stories and themes attached to works like Afton. Afton in particular, right? Um, does this kind of expectation of narrative or, you know, intense thematic, uh, personal relevance and stuff that's kind of been associated with your work, whether intentional or not— it sounds like it is to some degree intentional— but has that created a bit of an expectation that You maybe feel boxed in by now when you're contemplating, like, maybe you just like these topographic shapes because they're cool and fun, you know, and you just think that they'd be a really— that it's novel that the code can produce something like this, right? Like, do you— I guess, is there ever any struggle with this expectation that you have to put something out that the community will feel like is a Lindau, you know?
+
+Speaker B: Yeah, I think sometimes there are those moments of it's like, yeah, it feels like there's kind of the expectation of a certain style or theme. You know, I've tried to be careful because I was like, you know, if I go down that route of trying to kind of make the work that I think other people think that I should make, we're both going to end up really disappointed. And so, I think that as time has gone on, the thing that's been interesting is I've started to— it feels like I kind of discover and find the themes as I go along. And I'm kind of careful if I find myself trying to be like, okay, let's make something up that will fit here. It's like, okay, I need to take a step back and kind of reevaluate what I'm doing and kind of just focus on what's coming.
+
+Speaker C: Yeah.
+
+Speaker B: What am I being naturally drawn to here? And make sure that I'm always kind of following that. So I think I'd be open to releasing work, even if it's just like, you know what, I think this is interesting. If I feel like this is— if it represents me well, I don't feel like I have to force some kind of a narrative on top of it just to make it a Lindo work or something like that.
+
+Speaker C: I think we really appreciate that, actually. I don't know how much daily attention you pay, but there always seems to be these emerging trends and quote unquote metas that are happening on fxhash where you'll go a week or two and just 25 tree projects are released followed by a ton of mountains or just people really capitalizing on these kind of overarching trends. They go week from week until there's people kind of fatigued out. Do you follow these trends at all? It sounds like you're not being beholden to them, which is amazing.
+
+Speaker B: Yeah, I am loosely aware of them. And there are some ideas of landscape concepts that I would like to explore. But it is something that I think about. It's like, I don't want to be I want to be careful if I do these projects that I'm not just trying to be like, yeah, this is a hot trend, like, let's, let's see where I can take it, but, um, make sure that it's, you know, honest and, and really something that I'm, I'm naturally gravitating towards and interested into, and that's authentic, rather than kind of try to chase the market and its, its trends.
+
+Speaker C: Mm-hmm. I think even in the work that we've seen from you, obviously Aften is the original and best landscape as far as anybody is concerned, but you also do a lot with more of the abstracted works as well, like with Lepidoptera and Stippled Impressions, which seem to be— it's not as representational.
+
+Speaker B: Yeah, and I think that's kind of like the project that I'm working on now is kind of less representational. You know, it has natural textures, but it's also kind of more focused on these retro shapes and how they can be formed together and the different arrangements that can be made from that. So yeah, I definitely don't want to box myself in or try and kind of chase what I think other people want me to do or expect me to do.
+
+Speaker A: I think you benefit from the pace at which you release work, at least in the recent past, right? I kind of gather from the early days you had a few projects kind of fully baked and ready to release, and those earlier works came closer together. But since then, you know, it's been what, You're on not even one a month, so your work is a lot more deliberate. I think you can avoid having that, uh, the stigma of like, oh, he's just jumping on the tree trend, you know, this time around.
+
+Speaker C: Yeah.
+
+Speaker A: Since you're not releasing work even weekly, you know, some artists release work every day, you know, some artists release every week or 2 a week, and then you're, you're just on a totally different, you know, timescale for, for how you're putting out new projects?
+
+Speaker B: Yeah, I mean, during those— I recently, I was going back through and looking at the, the 50 days of, you know, Afton and trying to kind of do a historical review of that time period. And it was interesting to see that how many of my projects came out of those 50 days. But at the same time, I was You know, getting up at 6, starting to work on art at like 6:30, and then around 10 going to bed, or 11. You know, it was not long-term sustainable. So it's been good to kind of have the freedom to step back and take things at a more methodical pace.
+
+Speaker C: Yeah.
+
+Speaker B: pace and explore things in a more sustainable way.
+
+Speaker A: Cool. I mean, we are, we're at an hour now. I guess maybe we could wrap this with one more question, kind of final thought, and then, you know, we'll thank you for your time, of course, and be on our way. Does that sound good?
+
+Speaker B: Yeah, sounds good.
+
+Speaker A: So I think let's make this last question kind of about the community again and I'm wondering, like, do you have any kind of thoughts or sentiments about the FX# community? Like, what could we be doing? What are we doing right? What could we be doing better? You know, a lot of us are just amateur art appreciators at this point and doing our best to kind of learn as much as we can. as quickly as possible, all the while like grappling with the markets and the highs and lows of watching your projects moon or not. So I don't know, have you kind of, from the creator side, silently observing as you've been off and on, is there kind of any parting thoughts you might have for us on the collector side?
+
+Speaker B: Yeah, let me think about that. I mean, I feel like I'm just as new, if not more, than everyone else. So, uh, feels, feels odd to give advice, but, um—
+
+Speaker A: Or just give praise. Just give praise.
+
+Speaker B: Yeah, but mostly I just, uh, I'm thankful to the community. I'm thankful for everybody, uh, that I've had the opportunity to interact with and excited to see what's, what's being built and, and look forward to to seeing the direction everyone kind of takes things and how we can build this out together to be an awesome space for generative art. And yeah, just allowing people to collect great art in general.
+
+Speaker A: Hell yeah. All right. Well, thank you so much, MJLindow. Lindow, Lindow like window, right?
+
+Speaker C: Yes.
+
+Speaker B: Yep.
+
+Speaker A: Yep. Thanks so much. It's really been a pleasure having you on. You know, both Trinity and I are just really big fans of your work and have been fortunate enough to collect and mint some of it and looking forward to what you release next. Oh, you know what? Let's end on this. Could you give a rough timeline for when the next one might drop? Like even by in a month? Like, is it like in March? Is it in April?
+
+Speaker C: Yeah.
+
+Speaker A: You know, like something to kind of give people something to look forward to.
+
+Speaker B: Yeah, that's, um, I mean, I, I really, yeah, let me see.
+
+Speaker A: Let's say April.
+
+Speaker B: I wouldn't expect anything. Yeah, probably April. Um, I wouldn't expect anything before April, honestly. Um, but I, I do hope to, to get some, some more work out, you know, soon.
+
+Speaker A: Don't want to go So set your alarms for April.
+
+Speaker B: That's right.
+
+Speaker A: Awesome.
+
+Speaker C: Well, thank you so much.
+
+Speaker A: Thanks again.
+
+Speaker B: Well, thank you. Thanks for having me on. I really appreciate it.
+
+Speaker A: Great. And then everyone can follow you. It's @MJLindow on Twitter, right?
+
+Speaker B: Yep.
+
+Speaker A: And follow us @WaitingToSign. Thanks everyone for listening. And Yeah, we'll play it out with the outro song. So long, everyone.
+
+Speaker B: So long, everyone.

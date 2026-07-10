@@ -1,0 +1,407 @@
+Speaker A: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're joined today by Trinity, of course, and Maya Mann, who's joining us for an interview. How's it going, everyone?
+
+Speaker B: Hi, it's great.
+
+Speaker A: Trinity, live from Canada.
+
+Speaker C: Live from Canada, CBC 2.
+
+Speaker A: Ironically, maybe your internet will be better there. We'll see how the episode plays out.
+
+Speaker C: It's better here already. I can tell you that already. It's a shame. New York, come on, get it together.
+
+Speaker A: Well, Maya, we're super excited to have you on the show to talk to you about your work in general and also about the Verse Solos exhibit that just went up last night. It was great seeing all the photos and videos across social media of the installation there and the, and the opening. So we're really excited to talk to you about that. But before we get into some of the questions about your art and your practice, maybe you can give everyone some of your background in art and coding and how you discovered blockchain and NFTs.
+
+Speaker B: Yeah, so my background initially was actually in computer science. Like, growing up, I was really into being on the computer. Like, when I was in middle school, like, I loved being on my parents' computer in the kitchen. I would spend hours on like Photo Booth and iMovie just like messing around. And so that, I would say, was, I guess, my first introduction to making digital art of any kind. I grew up in a small town in Pennsylvania, and what I always tell people is that when I was growing up, I didn't understand that there was this expansive definition of what an artist could be. I was not a kid who was like good at drawing and painting or into that type of stuff. I was into math, and initially, before I decided to study computer science in college, I thought I would study physics because I really liked the math aspect and the problem-solving aspect. But I did like a 2-week coding camp for high school students right after I finished high school, actually. So like I was about to go to college and I loved it. So that was kind of the way that I decided to pursue a computer science major, which was like the option if you wanted to be doing any programming where I went to school. And after my first year of studying computer science, I met Lauren Lee McCarthy, who is the founder of p5.js, which is part of the Processing Foundation. I met Lauren and she was really welcoming and invited me to a p5.js conference that was happening in Pittsburgh. And that was really the first time that I met all of these people who were interested in technology, were using code, but they were making artwork or they were interested in education or design or these things that were beyond just the technical sphere. That was kind of my gateway to understanding that being an artist was a possibility with what I was specifically interested in. That was my initial gateway. It's a much longer story, but I'll start with that.
+
+Speaker A: No, that's a good place to start. But what about crossing over into blockchain and NFTs? Because so much of what we see as people who now collect and are kind of interested in the space, there's so much negative sentiment out there, especially amongst, it seems, younger people and artists in general. Like, obviously we have our artists here who are, who are making code-based art and like releasing as NFTs, cuz it makes a lot of sense, but in the broader ecosystem, it doesn't seem to be very accepted. So like, Was it your just natural inclination towards coding and technology where you're like, this seems cool, I'm going to try it? Or was there ever any points of friction in your moving over?
+
+Speaker B: I was super hesitant at the beginning. I mean, it was so divisive in the media art community, which is a community I felt part of and had felt part of for years before NFT started becoming popular. And I'm so excited about making the type of work I make with the medium that I work with, which is most often software. But it was really challenging to see how divisive blockchain and NFTs were in the community. And I really understood both sides of the conversation that were happening. And I felt really nervous about engaging with it because as an artist, you want to be able to create and share work. You want to be able to sell work. And historically, that was never really— there was never really a great market in the traditional gallery system for work that's made with software. And so it was this really exciting potential option as like a path for artists to work with this medium. But at the same time, it introduced a whole different system and mindset into the process of art making and creation and created this extremely intense market around the work that I was very hesitant about and kind of afraid of at the beginning. Maybe I'm still afraid of it.
+
+Speaker C: What's so scary about it?
+
+Speaker B: Yeah, it all happened so fast and it's all very out in the open. And yeah, I just felt unsure of how I personally wanted to engage with the space. But the initial way that I engaged was, I guess I felt very available in response. So the first piece that I ever did that was an NFT was when Casey Reas invited me to be part of the first show on Feral File. It was the first show that was showing a a group of generative artists, and I really admire Casey and the way that he was curating the show and the whole platform felt like it resonated nicely with me. And so I felt very comfortable with that being sort of my first experience. That was the entryway. And then since then, I've kind of been working on projects when it makes sense for them to be on the blockchain. Yeah.
+
+Speaker A: In doing research for this interview, I found from your website, I think one of the very first interviews that you gave back when you might've been in college, so quite a long time ago with someone. I think they were either with p5 or with the Processing organization at the time. And you were talking about not blockchain, 'cause I think that might've even preceded it a little bit, or at least like this modern NFT movement, but getting involved with technology and being a maker and having a voice. And it just seems like that is like such a challenging thing in this space, right? Because I think there's this rightful perception that it's a very male-dominated, very white-dominated space, right? Like crypto in general. And I know from my own personal, like, experience talking to people in the game side who are not that, they don't want to come into the space because they feel it's like too white and too male. But at the same time, like if you aren't willing to cross over and like have a voice in the space, then it's never gonna change. Right. And so there is kind of this like chicken and egg aspect of it. So I don't know where I'm going with that question, but I was just kind of like thinking about that when I was listening to your interview and then trying to connect it to your willingness to embrace the technology and then the work that you make, obviously, which were—
+
+Speaker B: Yeah.
+
+Speaker A: gonna get into, which really speaks to like femininity and the internet and stuff like that. So I don't know if it's a comment or a question or if there's something that you can add to it, but it is that difficulty, right? Of like, yeah, going into a place where you don't feel like you're represented, but then also wanting to create that representation.
+
+Speaker B: Yeah, totally. I mean, I just, I feel like I've just made work in sort of the only way I know how from the beginning. It's like why I use software and it's also why I make work about the internet, and often the works about hyperfemininity and subcultures that are related to women or girls on the internet. And it's very natural to me because of my identity and like what I consume online. But once it's put in a context where, you know, the space is super male-dominated, especially the generative art space is very male-dominated, and also the work tends to be visually maybe more abstract and less feminine looking than a lot of my work. I find it entertaining, honestly, to sometimes like share the work and then see people's reactions to it because it's part of the piece for me that this audience is confronted with dealing with the themes that I want to talk about in the work, but they are not necessarily embedded in the online subcultures that I am, that the work is about. And so seeing them sort of like work through and parse conceptually what the work is focused on is exciting to me. I kind of feel like I am doing this just because it's like what I know how to do. It's frustrating that it's so male-dominated, and I think it is intimidating to be part of the space and put work out there, also because people are very quick to judge, and like the judgments are very open, like on spaces like Discord. So it's a really intimidating environment to make and share work, especially if you're not sort of You don't feel like you're part of the dominant culture.
+
+Speaker C: It's like the total cross-wiring of these internet subcultures, you know, where you're predominantly focused and consuming things on one side of it and then catering towards the other side. And it's like this weird Venn diagram of where can we find this overlap in this mix? But I think it's super cool and it seems like people are really responding to it well. So maybe they don't get it as natively as you might get it, but we're all part of like the internet.
+
+Speaker B: Totally. And that's been also the best part is being really open about like the differences between maybe like their initial reaction to something, like seeing it for the first time and then thinking more about it, coming back. And I've really loved the way that people share their response to a lot of the work with me and their sort of journey with it too. And maybe their perspective on it has changed over time.
+
+Speaker A: Well, should we maybe transition into some questions about your Verse Solo exhibition that just went up I'm Feeling Lucky, because that kind of speaks very much to this current moment in not just like the internet, but in culture in general of a turn towards, maybe the simplest way to say it's like a turn towards like non-religious systems of belief and explanation of the world, right?
+
+Speaker B: Totally. Yeah.
+
+Speaker A: Kind of millennials and Gen Z increasingly are looking for things beyond those religious institutions. I'm gonna, I'm gonna stop there. So like maybe you can just give us a little bit of the backstory of the project and also how you linked up with Verse to begin with for that exhibition.
+
+Speaker B: Yeah, so the collection is called I'm Feeling Lucky, and I usually start by saying that I moved to Los Angeles in 2021 to do my MFA. And it sounds like a meme of the city in a way, but I was really surprised by how often suddenly I was confronted with questions about my chart or my sign and that type of thing. And in general, something that underlies a lot of my work, which is true for my previous collection, Fake It Till You Make It, and also for I'm Feeling Lucky, I'm really obsessed with these structures that we use that sort of proliferate online to understand who we are and like filter our identity through. And astrology, just over the past 10 years, I feel, has really become more and more popular. And there are now apps like Co-Star or The Pattern that people have on their phones, and— or they follow certain accounts on Twitter or Instagram, and they're constantly collecting information about who they are based on their sign and then trying to understand whether they identify with the information that they see about that or not. And so I've kind of always been a bit skeptical of astrology and felt like maybe it's all random. But the longer that I've been thinking about that, and also while I've been making generative art, which often is built upon this version of randomness, I've been thinking a lot about finding meaning in randomness and my tendency when I was younger to sort of not let myself indulge in finding meaning in random encounters. I think because I wanted to feel like my thinking was more logical or scientific, or I felt very anti-organized religion growing up, and I felt, I guess, skeptical of systems that were about telling me who I was or how I should be. But I found over the past couple of years when I've been in LA, there is a sort of joy, like a harmless joy, in engaging with something like astrology and finding meaning on it and letting it affect you and your life in a way that kind of lets you get maybe deeper into how you think about yourself or who you are. So I really wanted to, with this collection, link the sort of mechanic of generative art that you see in these long-form collections where you have an algorithm and with a seed it could put out something within its bounds, but you don't know what. I wanted to link that to the concept of astrology because conceptually I feel like there are a lot of parallels between the way that we use those. And then the title, I'm Feeling Lucky, comes from the Google button that's on the homepage right next to the search button, which has a very interesting story, but I won't get into that right now. The title really encapsulates that sort of desire to, like, you want the system to give you what you want to hear, essentially.
+
+Speaker C: Because also in the piece, you don't see it in every output, you're also seeing the lucky numbers. So it's not just that means of reflection, which I think is maybe what you're talking to, is you're able to use some sort of truism or some sort of tarot reading, for example, or whatever your local astrologer is telling you to kind of reflect upon your life, either your past, present, future, beyond, whatever. I did a tarot reading with my in-laws yesterday, so top of mind.
+
+Speaker B: Oh, nice. Yeah, it was very helpful. I had a reading recently too.
+
+Speaker C: Astrology can be very similar, especially when it comes Mm-hmm. Your local chart. But you also are incorporating some of these other elements. The lucky numbers, I think, is what I was saying, and those don't necessarily have room for as much interpretation or reflection. And I mean, I just— I'm really curious about all the different elements that go into this piece, not just the symbols, like the different types of modalities around the verbiage, the numbers. Can you tell us about this and how it was constructed and the different things that you incorporated and why?
+
+Speaker B: So I would say the piece is primarily driven by the language structure that I built out, which shares a lot of similarities with what I used in my last collection, Fake It Till You Make It. It's a sort of collaged algorithm. So I spent a lot of time on apps like Co-Star and The Pattern, looking at my own readings and really observing the sentence structures that they use to tell people their daily reading or their chart or that type of thing. And then also the specific vocabulary that they use. So there's a whole library in the code that defines grammatically, like nouns, verb, adjective, adverbs, and those are all pulled from those types of applications or horoscope readings I had from different websites online. Or I also bought this book that's like Instant Horoscope Reader, and it's like huge, and I would page through the book and then actually just type up a lot of the language that was in there that felt relevant. So that's sort of the primary thing that's driving the piece, but you also see a lot of the language show up in other ways. So sometimes, You know, there'll be like a paragraph or one sentence that's generated using that system, but then also there will be something that says like, you are, and then, you know, some kind of adjective like honest or genuine or angry, with like a large focus on that specific word. Or there'll be a different adjective with like 4 surrounding smaller ones. Or there will be something like the lucky numbers. And there's kind of 2 different versions of this. There's like—
+
+Speaker A: Yeah.
+
+Speaker B: lucky numbers, which is a list of numbers, or there's these different types of numbers where it'll say your inner dream number is 5, or your personality number is 7. That is actually from numerology. And so there's like these different systems that you can use to find these numbers, and they correlate with different things. The piece is conceptually primarily focusing on astrology. It's very related in my mind to things like Lucky numbers, fortunes, readings, and even personality quizzes. In the way that we say, like, oh, I'm a Leo, people also use Myers-Briggs or these other systems to kind of identify the sort of different aspects of their personality that are specific to them and then label them. And so all of that general practice to me is at the core of how I'm thinking about the whole project. And so I like to bring in these other systems.
+
+Speaker C: Yeah.
+
+Speaker B: smaller elements as well.
+
+Speaker A: And was this done in a very similar way to Fake It Till You Make It? Like you did that amazing video after that release where you kind of walked through all the code and the different ways you built the libraries and kind of the ad-lib structure.
+
+Speaker B: Mm-hmm.
+
+Speaker A: So did you, did you roughly follow a similar process to this? And is this something that you're gonna kind of continue to pursue, like maybe every couple of years? Is this something that you can see yourself continue to do as like the meta of the internet changes and shifts?
+
+Speaker B: Yeah, I mean, I see these 2 projects ver— as very much linked. This in many ways feels like the natural follow-up to Fake Fake It Till You Make It in my mind. I don't know if I would go so far to say it's like a sequel, but both of them are about using language that is found through the internet to understand yourself and how you should live, essentially. And both are like fixated on these specific subcultures that are very different, but still in like a similar realm to me. When I started off, I wanted to test out how it felt to mimic that language system, which is similar to the one that you used in Fake It Till You Make It, but visually this collection is super different. I think actually a really big challenge with Fake It Till You Make It was making it look so simple visually, which I think, you know, you see it and it seems so simple and so easy to make it appear in that specific way, but it was actually really challenging because I talked about this in that video that you're mentioning. When you're working with text, it's very obvious when some— there's an error of any sort. So, you know, if the word is cut off, it looks immediately poorly designed versus when you're working with something a little bit more abstract, you have some more flexibility in the sort of borders of how you are generating things. But with Fake It Till You Make It, it was a challenge to get it, get the algorithm so finely tuned that I could trust that everyone looks like it was nicely designed with all of the different language and all the different layouts and everything happening. With this one, I wanted to instead visually have it feel much more chaotic in terms of the layout and the way that the symbol elements, I call them like little decorations, are appearing. But I also wanted to keep it black and white to keep it in this visual world that to me really reads as dealing with the stars and astrology. It's kind of the— it's the design language that a lot of these applications use where they're sort of communicating that they're related to the specific subculture. So it feels very different in that way. And I had a lot of fun. It was freeing in a lot of ways because Fake It Till You Make It very clearly mimics this specific visual structure on Instagram.
+
+Speaker A: Yeah.
+
+Speaker B: Whereas this had a little bit more flexibility for me to invent the way that I wanted these to look. They're not exactly mirroring one specific thing in the same way. So it was fun to have that freedom.
+
+Speaker C: Honestly, I thought that I'm Feeling Lucky feels almost more typographically challenging with some of the different layouts and different types of font structures that you're using. But I understand what you're saying when you're looking to go for like that very clean look that you have in Fake It Till You Make It, the perfection that's necessary versus like the messiness that's allowed. I think the other piece that you have that really, to me at least, falls in line with these is Read It and Weep, which— was this minted on the blockchain or is it just more web browser based? I wasn't quite clear on that.
+
+Speaker B: It was minted on the blockchain.
+
+Speaker C: All right, it's minted on the blockchain. This seems like if we're thinking about things in sequels, prequels, trilogies, whatever, that this seems very much in the family, but with, I think, the added benefit of linking out to the broader World Wide Web, which I think is a really cool add-on to that particular piece as well. I see Read It and Weep and I immediately really resonate with what it's doing. And I know I will go back to I'm Feeling Lucky and Fake It Till You Make It as well, but I would love to hear more about this because it continues your conversation about what is the internet telling us and what is society telling us about what we should do or what we should think. And I would love to hear more about that. the links and the why of them all.
+
+Speaker B: Yeah, so Read It and Weep, I mean, one major contrast between that piece and the other 2 collections that we've been talking about is that Read It and Weep is very personal. It's actually difficult for me to look at it for too long, especially when I see other people looking at it, because— so there's 3 different styles of text. There's the hot pink text, which is underlined, and those are the links that you're talking about. Those are pulled from articles, books, and essays that I've read. I mean, I have a practice of sort of reading, and if I read something that I want to save or I feel like would be useful in writing later, I note it down. And so for this piece, I just actually went back through all of the different quotes that I had pulled from these different pieces of media that I'd read and put them into the piece, and then the piece is linking to those sources. The light pink text is what I call internet trash, which is like It's not really referenceable to a specific writer, unlike a lot of the hot pink text. It links and you can see who wrote it. The light pink text is like transcribed TikTok sounds or Tumblr quotes that I've read, but they're all pieces of media that I've encountered online. And that includes a lot of the sort of like sparkly Unicode characters that also feel internet native to me. But the white text that you see in Read It and Weep are excerpts from my journals from the past 10 years. So that is the piece that feels super personal to me. And I went through and read back through a lot of what I had written since like end of elementary school, middle school, all the way up to somewhere more recently, and put that in as well. But I wanted it to feel like you had this heavy presence of both interiority and exteriority, with like interiority being obviously like the way that I'm thinking about myself when I'm journaling and the way I'm processing what's happening around me. And a lot of the quotes that I pulled are about— they're from pieces that are commenting on femininity online or the performance of self on the internet or themes that are very related to my work. And seeing that juxtaposed with my personal experience, it feels very chaotic with this layering structure that it uses. I like that it feels sort of like the inside of my mind on the internet a little bit, and also that the different pieces interact with each other nicely. But yeah, it's very personal because it includes those journal excerpts.
+
+Speaker C: The pieces of your mind on the internet. I mean, I think at this point we're kind of all cyborgs to a certain extent. Even with so many of these pieces of yourself, like the saved quotes, the saved articles, you're able through digital means to access them at any point again. So it's not like this ephemeral, like I've read that, read this article, I can reference it back to my mind. It's like I've read this article and it's been so important to me that I've captured it and I've stored it in a place so that I can, in a very like cyborg type of way, go back to it at any point. It's a really interesting part of our current relationship with technology and the internet. about the ability to go back again and again and again. I don't know if there's a question there, but I really love your whole story around this connection to internet culture and just the personal side as well.
+
+Speaker B: Yeah, thank you. I think a lot about that concept of a cyborg and like, you know, there's Donna Haraway's Cyborg Manifesto, which sort of was a call for, like a feminist call for the embracing of machines as potentially an extension of self in a way that embraces harmony and multiplicity in a way. And that's something that really resonates because the way that I'm intertwined with the internet feels inescapable and also very multiplied. It's hard to define it in a singular way, and that's what feels special about the relationship that I have with being online, that I'm able to produce all these different types of selves and versions of my own experience online at once.
+
+Speaker C: And I think also our relationship with the internet changes so often. You know, back when you were using Photo Booth and iMovie, you know, I don't even know if Photo Booth ships on Mac laptops anymore.
+
+Speaker B: It does. Don't worry. It does?
+
+Speaker A: Oh.
+
+Speaker B: Well, I have it at least.
+
+Speaker C: Oh, I see it is here. It is here. Oh my gosh.
+
+Speaker B: Well, it's gone out of style though. It's not the same.
+
+Speaker C: But it's, you know, our relationship with the internet does change as platforms change and as sites change. And I assume that you're a TikTok user now, but you weren't a TikTok user 3 years ago, probably. You won't be a TikTok user 3 years from now.
+
+Speaker B: Who knows? But yeah, I think I felt that a lot. I obviously love spending time online, thinking about the internet and thinking about what it means not only to be on the internet in terms of consuming content, but specifically to post on the internet. For me, it's been a really challenging but important act to understand the way that I'm thinking about myself. My own identity is constantly putting out this performance online and being able to look back on it. And then, you know, when I look back on what I was posting in 2014, so different from what I would post now, but that's who I was at the time. And it gives me this, like, I'm able to leave this sort of legacy, like this breadcrumb trail of who I was through all of these different The act of posting for me has helped me understand how I want to appear, but I think a lot of people villainize posting as a negative thing.
+
+Speaker A: Everyone lives in fear of posting cringe at some point, you know?
+
+Speaker B: Posting cringe, yeah.
+
+Speaker A: You don't want to—
+
+Speaker B: You have to embrace it.
+
+Speaker A: You don't want to get— I mean, that's how you mature. You have to post a certain amount of cringe in order to really grow and get good at the internet. I feel like this is going to play well into what we were just talking about before we jump back into the work again, but We all grew up on the internet, right? I think Trinity and I are probably a little bit older than you, but not that much older, but a little bit older. And like, we, you know, we grew up, basically came of age, like during the internet era and that exposure to being online from 8 to 10 years old through now adulthood. Like, it's definitely a key part of, for us and for everyone younger than us, like a key part of growing up. That kind of like Wild West aspect of the internet, especially when, when we were young and maybe our parents didn't really understand like what exactly was going on and there was not so much content moderation. You can be exposed to some pretty crazy things at a very young age. And you're someone who thinks so deeply about this and you've made the internet such a part of your artistic practice as well. And like, you basically study it in a way that I think a lot of us don't. What do you think of it now as like its impact on your maturation as a person and the, like the broader impact it has on kids now? 'Cause like, you know, both Trinity and I have kids who are like a year, year and a half old, right? So like they're still not engaging with the internet, but they're going to, and they're going to be engaging. No, they will, Trinity, even if, even if you have a strict policy in your household. Once they get out of the house, like you're gonna have no control over what they—
+
+Speaker B: Homeschool.
+
+Speaker C: Let's go.
+
+Speaker A: How they interact with this stuff. So, all right, maybe you'll just stay in Canada and homeschool. But yeah, I'm just curious, like, what do you, like, what is your kind of read on it now? Like, what do you think were the pros and cons of growing up like so online? And what should we be looking out for with our kids?
+
+Speaker B: You know? I'm not qualified to give that advice. I mean, it's changed so much from when, you know, I feel like I sort of Grew up in the later years of middle school and then into high school and just sort of the, you know, I had Facebook and then I had Instagram a little bit, but the culture, I mean, not many people I know are really actively on Facebook anymore. The culture of Instagram has changed so drastically since I started using it in like the early 2010s. But I think something that I mentally had to overcome with the internet was A lot of people talk about this dichotomy between the online world and then the real world. People use the acronym IRL all the time, and it's something that I try to really avoid using actually, because I think it's really dangerous to minimize the internet by implying that it's not real in some way. I think it's one of the realest, most emotionally intense spaces to be in, in the world we live in now, like physical or otherwise. I mean, especially like thinking about growing up or kids even, I think there's kind of this tendency to think, oh, like it's online, it's not real, or advise people that they shouldn't feel impacted by it because it's not real in some way. But yeah, I think some of the most emotional or meaningful things that have happened into my life, like often are intertwined with the internet in some way. So much of what I've learned and the way that I think is very shaped by being online. So I almost feel like there is no offline mindset in a way. Like the internet is so ubiquitous that now there's never really the ability to fully unplug in the world that we're in now. But another thing for me that was really important was sort of getting over this guilt and shame I felt around posting online when I was younger. Every time I posted something, I always felt like I was looking over my shoulder. And thinking, oh, do people think I'm being fake? Can people tell I'm being fake? I felt like I was performing every time I posted something. I've spoken about this before, but I have a background in dance. When I was growing up, I would spend a lot of time on stage performing for an audience, and that's basically what being on the internet felt like to me. But the way people talked about it in a romanticized way was sort of like, oh, just be yourself, show your true self online. And I felt like that was just truly impossible with the way that the social media platforms are structured. It always felt like performance to me. And so once I sort of freed myself of the mindset of feeling like, oh, I need to be authentic online, I started to change the way I thought about it. Instead, I kind of, I don't really believe there is any such thing as being authentic online. And that was very freeing to me because I realized posting's about performing and you can perform in any way that you want for an audience. But once I stopped trying to chase this like sense of realness that people talk a lot about colloquially online, it became much easier for me to post and much easier for me to like form a relationship with my audience.
+
+Speaker A: Yeah.
+
+Speaker B: online presence in a way that felt more comfortable. My true love-hate relationship with the internet comes from how it's so addictive. And that's the piece that to me, I have no advice on. It's been an ongoing challenge for years, as is for everybody. But yeah.
+
+Speaker A: You can always turn it into an art career, I guess. For our kids, we'll just tell them, learn to code and start embracing.
+
+Speaker C: I love what you're saying about authenticity and performance because there is that I mean, when I grew up with the internet through a lot of what we would call, like, I guess Web 1.0 as it transitioned into Web 2.0, it was a lot about putting things out there, you know, everybody posting on LiveJournal, posting on like early stage Facebook, creating GeoCities websites. I find that at that stage, posting was considered a really big boon, and I feel like it was maybe a little bit more authentic then, but That transition to what you're talking to now about, A, don't post. If you post, we'll shame you for it. And B, if you do post, it is that performance. Do you have any thoughts around what that has been like? I don't know if you've experienced like more of the earlier internet back in the days of AOL and dial-up, that, do you know the dial-up tone? I don't know. Also where we're going, you know, how are we transitioning into, are we going to be like going back into authenticity? Yeah.
+
+Speaker B: I wouldn't say that the early internet was necessarily more authentic than it is now. I think it was just smaller in the way that, like, for example, if I'm like speaking to a room of 100 people, I'm gonna be a version of myself that's kind of like performing in a way that I feel like is going to like appear palatable to all of those people in the audience versus like when I'm hanging out with 2 of my closest friends, I become a super different person. I wouldn't say like I'm being more authentic with those friends. I'm just being the person that that situation calls for. And I think what's been so challenging about where we are right now is that online has become this super public sphere. It's like the concept of context collapse. I think I first read about that in Jenny Odell's book, How to Do Nothing. She talks about how like, you know, online it's like your professor follows you, your like friend's brother follows you, your teacher from high school follows you, and your closest friends and family But you have to post something that like all of those people can see and like think is okay versus like when you're with all of those people individually, you're a different person. So you become this sort of like cleansed version of yourself online. And I think where things are going, there's become an increasing focus on the commodification of self online. And I think for a lot of people as individuals, that's maybe through something like Substack or Patreon.
+
+Speaker A: Yeah.
+
+Speaker B: Or even like the influencer economy, the way that people build careers off of sort of having like an individual identity online, I think is sort of the like logical conclusion for the way things have been going. But I feel a little bit nervous about that being the direction that we're moving as well, because it's an exhausting lifestyle to keep.
+
+Speaker A: For sure. I wanted to jump back to I'm Feeling Lucky, and we were talking about kind of the aesthetic of that piece. I don't know, Trinity, for you, does it remind you of when you were on the subway? Like you would see those little flyers that people stick up in, in front of the advertisements that are like for palm readers and for, um, like psychics and stuff. Like the aesthetics really nailed and evoked that for me. I wanted to ask you, Maya, like, you know, you got exposed to all this stuff in California, which definitely makes sense. I think we all are from California.
+
+Speaker B: This stuff in California? Yeah.
+
+Speaker A: Like the kind of the crystal mommy culture. I don't know if that's— if I'm allowed to say that, but we have a lot of friends who are definitely in that area. Both Trinity and I for sure have like mutual friends who fall into that category.
+
+Speaker C: Wives.
+
+Speaker A: Yes, or wives, exactly. Um, so as someone who works with code, like I'm sure you've seen in astrology that there are people who really do take it to almost a scientific level with some of the charting. Like if it's not simple enough to say this is your sun sign, this is your rising sign, then you can go to like where were these planets in the different houses when you were born. If that's not enough to cover it, Then you can go to like, well, where are these planets in relationship to each other and measuring the relative angles? And if that's not enough to cover it, then we can go out to like these other, you know, it goes beyond the 9 planets now and they start to track like different stars and trying to assign more significance. So in your exposure to all of this, did you ever kind of come to accept or embrace it beyond just for the meme or for the, like you said, like the ability to every now and then find something that does resonate and explain? perhaps something that felt random in your life. And like, 2, I kind of wanted to relate it to like generative art because so much of what people who create generative art talk about is like the beauty of the system that kind of feels random and its ability to spit something out that maybe surprises you. And so there's almost that serendipity that can happen, right, between creating generative art and finding an output perhaps because of a bug that you didn't anticipate that like totally takes you somewhere that's like, whoa, I didn't know this was the direction I wanted to go in, but it is. There feels like there's a lot of overlap there potentially with astrology being like this sufficiently complex system that it can kind of spit out any result that might feel meaningful to you depending on how deep you want to go. So like, what, what's your vibe on it now? And like, did it kind of color your interpretation or your feeling around generative art in general?
+
+Speaker B: Yeah, definitely. When you're making generative work in this specific way, in the way that this collection exists, realistically as an artist You are sitting in front of your computer and you have one window open with the live running code, and then you have like your text editor open where you have the code. The process is having those 2 screens open on like 2 monitors or however you're working and looking between them. And I spend a lot of time refreshing and just Command+R, Command+R, just seeing what comes up. And what's continually surprised me about this collection, which is also true for Fake It Till You Make It, is that, you know, I'll be refreshing, refreshing, and then I'll hit something that really in some way resonates with me in that moment and maybe sounds slightly absurd or slightly off. It sounds like something a human wouldn't write. But because of that, in a way, actually says something even more specific or more in depth about what I'm thinking about or a situation that I'm in than I could have ever come up with. And that moment is so special to me. The feeling of hitting Command+R and that split second where you're like waiting for the new thing to come up and you have no idea what you're going to see. It's such a unique feeling to the process of making generative work. And it relates so much to me to the process of in the morning sometimes Since I've been doing this project, I check Co-Star pretty actively, and there's like this few seconds where I'm waiting for the reading to load on the app. I just don't know, but then sometimes Co-Star will say something to me that, that is so specific to my day and so truly what I needed to hear in that moment that it really catches me off guard and surprises me in a way. The parallel between those 2 experiences has been so crystal clear for me working on this project. And even the way I see the community talking about generative work, talking about faith. I mean, there's kind of this trend on Discord where sometimes people like in the Art Blocks Discord will pull up a random fake it till you make it mint. And it's become known as like almost like a sort of oracle on Discord because of how often it relates to the conversation that's happening around it in the chat. And so that's been something that I'm just continually fascinated by in the way that this generative art community engages with the work and the way that they collect work. And kind of, there's like this almost this like sense of prayer that exists within the way that we're interacting with these pieces, which is really fascinating to me.
+
+Speaker C: And I think that, you know, part of the discourse is even just beyond that, you know, within these, like, I don't know, Will, is it weird if I call them brospheres? Are you offended by that?
+
+Speaker A: I'm not offended.
+
+Speaker C: Okay.
+
+Speaker B: Well, I'm not offended.
+
+Speaker C: I'm not offended. So the brospheres, you know, there's also within more crypto rather than NFT space, it's like the drawing of like the lines on your crypto chart to understand like, oh, if we draw the lines in this particular manner, like we're able to predict what will cryptocurrency be doing. Right.
+
+Speaker B: Totally.
+
+Speaker A: Crypto charting is astrology for men. Yes, exactly. 100%.
+
+Speaker B: Yeah.
+
+Speaker A: Every time the line didn't do what you wanted to do, you can just go back and redraw the lines that you were using to predict it, and all of a sudden it explains the current moment you're in. Yes.
+
+Speaker B: Yeah.
+
+Speaker A: There's a whole culture of this.
+
+Speaker C: It's like such a crazy analog. I don't know. Maybe that's a future piece for the brosphere side of things. I don't know.
+
+Speaker A: I can share some great YouTube channels with you, Maya, if you want to go down that path.
+
+Speaker B: Great. I'm curious about the brosphere, you know?
+
+Speaker C: Yeah, we're one foot in.
+
+Speaker B: Yeah.
+
+Speaker A: Like, the big astrology crossover into at least like, the TikTok, the media that I'm served, is that basically like, every guy who knows a lot about their astrology is, I guess for lack of a better term, like, a fuckboy. Like, they— because like, it's like a big red flag is if the guy knows like, not just his Sun sign, but like, his rising and all this and that. It's like, that means—
+
+Speaker B: His birthday.
+
+Speaker A: Yeah, yeah. That's someone who gets around.
+
+Speaker C: Will, what's your true node?
+
+Speaker A: I don't know that one. See, even I don't know.
+
+Speaker B: What are your signs? I feel like we need to say.
+
+Speaker C: I'm Aquarius Sun. The other 2 are Taurus and a Capricorn. I get them mixed up sometimes.
+
+Speaker B: I get my last 2 mixed up.
+
+Speaker A: I'm a Pisces Sun, Leo rising, and I think I'm a Pisces Moon also. So I think I'm a double Pisces.
+
+Speaker C: Wow, that's so emotional.
+
+Speaker A: My Venus regression this year was supposed to be really good for me. I was supposed to get in, lose a lot of weight, get in shape, and have a lot of sex. And I'm over 3 on those right now. So, but I guess we still have a little bit of time.
+
+Speaker C: Yeah.
+
+Speaker B: You have to trust the stars.
+
+Speaker A: I'm trusting.
+
+Speaker C: Do the stars help those who help themselves?
+
+Speaker A: Yeah, I think that's kind of supposed to be the idea is that you hear these things and it's supposed to kind of motivate you or resonate with you to get you to do it. But I actually did the best in January after I heard that. prediction for the end of the summer, but then life, baby, everything, it's too hard.
+
+Speaker C: Yeah, yeah. Apparently, like, the North Node or the True Node and the South Node thing, that's the next big trend or the next big things to look at. So like, your South Node, it's like what you're natively like comfortable with and what you have a lot of. And your North Node or your True Node, it's like where are you going and what will you replenish, or what, what cup will you fill up throughout the course of your life. So for example, I think my South Node is Taurus, so very earthy, very stable, and my North Node is Aries, so really quite the opposite.
+
+Speaker B: Oh, so they're related to the zodiac?
+
+Speaker C: Yeah, they're diametric opposites.
+
+Speaker B: Interesting.
+
+Speaker C: Yeah, so I'm gonna be a fiery hellcat by the time I'm in my 80s. Can't wait.
+
+Speaker B: Hell yeah.
+
+Speaker C: Hell yeah.
+
+Speaker A: Maya, listening to all of this, I mean, and thinking about this stuff, like, do you have a kind of a life philosophy generally? Like, one of the reasons I asked this, we have— we had a friend who, at least for a little bit, was so into astrology that he basically believed that everything was deterministic and that there was no free will. And it's like just the stars perfectly. As someone who has a, you know, math physics background, like, do you have a philosophy on just free will versus determinism? And like, you know, my, my brother also, who's a neuroscientist, thinks that we don't have free will. He gets down to like the molecular level of like everything is just molecules reacting. And even though we can't perceive it and we can't predict it, his kind of belief is that we just truly are not free because it all just comes down to the random movement of these particles that exist. So curious what you think.
+
+Speaker B: It's a really good question because I actually find a lot of comfort in like, you know, Nick Bostrom's philosophy. Probability-wise, we're all living in a computer simulation. I think that's very unsettling to some, but it's a bit of a relief for me to think about in a way, because I find the concept of free will quite intimidating. And so I actually find comfort in a way in believing maybe we are without it to some degree. Part of the reason that I've been working on this specific piece is because I also find it's easy to sort of tend toward nihilism when I overthink about not having free will. And because of that, I've found a lot of joy and momentary relief in something like astrology, or in sort of meaning-making for the sake of meaning-making. So this also, like, going back to when we were speaking about the concept of lucky numbers, Also in the show at Verse, there's this piece that's a clock that is a collaboration I did with my boyfriend Isaac Blankensmith. And we wanted to make a clock that only shows— are you familiar with the concept of angel numbers? So that's like 11:11 is like the classic one that's like everyone's like 11:11, make a wish. But angel numbers are just repeating numbers like 3 2s or 3s or like 4 4s or whatever in a row. So we wanted to build a clock that only shows angel number time. The time only appears at 1:11, 2:22, 3:33, and so forth. And I've found in moments that I look at the clock and it's an angel number time, and if I'm able to find that meaningful, and if it brings me some certain, like, level of comfort or some level of, like, joy and meaning from that, I think that there's no reason to not do that. Versus like, you know, scientifically, if you overthink something like free will or something like angel numbers, it's easy to kind of be like, no, it's just— be so literal about it all the way down. And I think I used to be more that way, but now over time I'm like, oh, that's not as fun. So maybe I'll believe a little bit about these small instances because it feels good to believe something.
+
+Speaker A: I mean, I think that's a huge part of internet and culture right now, especially for millennials and Gen Z is like the intersection of like, it's gotta be fun. It has to kind of be sarcastic or satirical, but it's also very serious, right? Like a lot of the way that we comment on things, if there isn't an aspect of humor to it, it almost becomes hard to understand. Like parody is in, in a way, like, I don't know, that just kind of feels like, and there is an amount of like—
+
+Speaker B: Totally.
+
+Speaker A: levity to your work, even though you're commenting on something that is like at its core kind of serious and like should be taken seriously, which is like the belief systems that people have, the way that people are communicating to each other and often communicating struggle. For both these projects, maybe more so Fake It Till You Make It, this communication of like perseverance of you can do it. That is a very serious underlying theme, I think, in just being online. Online right now is like how to make it through the day. Totally.
+
+Speaker B: So much of content online operates on humor, like meme culture completely operates on humor. And humor's a huge part of the work that I do. It's very present in a lot of my pieces over the past few years. And I find that it invites people into the work in a really special way. I love watching people look at the work and laugh because something sounds slightly off or so absurd that it's funny. And I think that's also in line with a lot of the sort of like current post-cringe content that you see online. There's a lot of humor, but it's often like eye-roll humor. It's funny because it's like not taking anything too seriously. But yeah, with my work, I really like there to be an element of absurdity, which often comes through in the humor of it. Because, I mean, being on the internet is just, at this point, so completely absurd. Like, the way that we all engage and interact with this type of content that, like, I'm making work about is so heightened and, for humanity, just so insane to think about the way that we, and the pace at which we consume this type of media. So I like having that element.
+
+Speaker C: I have a question about the work. It kind of goes into the futility, the fatalism, like the humoristic fatalism, and also speaking to like that joy that you get when like you're hitting the refresh button. Do you use GPT-2 text models at all to kind of seed some of the work? Maybe not in all of your projects, but in some. We did a project recently that, you know, was very much based off of text-based models filling in or putting in transcripts of our episodes and then seeing what comes out. And some of them are so funny and just so ludicrous, but also so true at the same time. It felt like a horoscope in ways, especially as we're looking to curate them to include into the piece.
+
+Speaker B: Wow.
+
+Speaker C: And I was wondering if you had that experience at all when it comes to training models on some of the types of content that you might see and like fake it till you make it, or even I'm feeling lucky.
+
+Speaker B: I don't use any element of machine learning, or I guess people would say AI, in either of the projects. It's all totally like this collage-based language system. So that's not happening with either, but I haven't really jumped into using it in a piece specifically yet. I have played around with sometimes having it write like a statement about a project. I'll say like, oh, this piece about this just to see what comes out. But yeah, I think that element of humor, and it comes from when it's like recognizable and it's like coherent enough that you like understand generally what it's saying and how it relates, but it becomes funny when it says something that like is so recognizable but just like not totally there. Or it's even funny if it's so recognizable and right, but just the knowledge that it's coming from a machine makes it funny in a way.
+
+Speaker C: Yeah. I mean, the fact that all of what you have comes from the real world in and of itself, and perhaps like some of like the idiosyncratic humor— or not idiosyncratic, but like the kind of off-the-wall outputs— it's maybe from that collaging where it just seems so out there, but again, that familiar. It is really similar. It's very cool.
+
+Speaker A: Trinity, what do you think? Should we do a few rapid fire and start wrapping up, or is there anything else you want to talk about?
+
+Speaker C: I'm down for that. I actually do have A first rapid fire, and if we can cut this if it's too personal, but what small town in Pennsylvania are you from?
+
+Speaker B: Oh, I'm from Mechanicsburg.
+
+Speaker C: Okay. I went to school around there, so.
+
+Speaker B: Wait, where did you go to school?
+
+Speaker C: I went to Mercersburg, which is around the corner.
+
+Speaker B: Oh, whoa. Really? Oh my God. That's crazy. Wait, did you grow up in Pennsylvania?
+
+Speaker C: Yeah, I grew up in Pittsburgh, but my family is from that area, like Bedford area more so.
+
+Speaker B: Oh yeah, Carlisle. My mom used to work in Carlisle. That's so funny.
+
+Speaker A: Both Trinity and I are from, well, I'm not, I wasn't born there, but my family's in the Pittsburgh area as well and West Virginia.
+
+Speaker B: Oh, no way.
+
+Speaker A: Yeah.
+
+Speaker B: Is that how you know each other?
+
+Speaker A: No, we, we went to, um, Sarah Lawrence College together.
+
+Speaker B: Oh, amazing. Cool.
+
+Speaker A: And we met there through Magic: The Gathering, the card game.
+
+Speaker B: Oh, wow. I have some friends who play that in LA.
+
+Speaker A: Yeah.
+
+Speaker C: Oh, cool.
+
+Speaker A: Uh, okay. So that's a, that's a rapid fire that we'll cut. Do you wanna queue up another one, Trinity?
+
+Speaker C: Let me look through. You can go.
+
+Speaker A: Yeah, I'll go. I'll go. So here's one that we always like to ask, which is, what do you listen to while you code? And do you have any recommendations for us? And I'd like to extend that beyond music to like just general media. Are there any meme accounts or anything that we should be following that are Maya Man approved?
+
+Speaker B: Oh, wow. I was not thinking about meme accounts. Um, okay. The true. Truly, when I'm coding, so many times I've really wanted to be like the cool programmer who listens to like fun music while they code, but I truly cannot let anything get in between my brainwaves when I'm coding because I get so distracted. There was a period of my life where I would listen to Level Up, the song, over and over when I was coding. Carolyn Polachek has this album of sine waves. That she created that's no words, just kind of sounds that sometimes is nice to listen to anyway. But I don't, I don't really listen to anything truly. If I try to sometimes start listening to something and then I always end up turning it off cuz I can't think.
+
+Speaker A: Any recommendations you wanna throw out in general then? Music, media of any sorts that you're liking right now for our audience to check out?
+
+Speaker B: I guess one recommendation, speaking of ChatGPT, I just read Amour Cringe by Kay Alada. Shadow McDowell, and it's a book that is about like a TikTok hype house, but it's co-written with ChatGPT. And it's one of the first pieces, like a true novel that I've read that's co-written with ChatGPT. And I found it, the whole reading experience, really strange because I'm constantly trying to guess where the AI system came in in the book. And so that is something that I think might be exciting to some people who are listening, who are into that.
+
+Speaker C: Very cool.
+
+Speaker A: And that's like amor as in love, right?
+
+Speaker B: Oh, amor. A-M-O-R. Okay.
+
+Speaker A: Gotcha. Sick. All right, everyone check that out.
+
+Speaker B: All right.
+
+Speaker C: I have my rapid fire number 2. What types of art by other people do you love and appreciate?
+
+Speaker B: I love and appreciate a lot of work that focuses on the internet. I pay attention to a lot of artists who are making work about the performance of hyperfemininity online, and especially on social media. Recently, I've been interested in sort of like tracing the lineage of artists who have made work that involves performing online. So I think all the way back to an artist like Lynn Hirschman Leeson, who was pioneering in working with technology and did some performance work as a character, Roberta Brightmore. And she would kind of like collect different documentation of her acting as this character that was supposed to represent a single woman in San Francisco in the '70s. And then I think also about people who were doing performance work online, like Anne Hirsch, who I collaborated with on Ugly Bitches, a project that was released earlier this year. But she has a performance called Scandalicious that was on YouTube in 2008, where she's performing as a character named Caroline, kind of like dancing and talking to the camera. It's a really early example of what it looked like to interrogate the performance of femininity on the internet and specifically on a social media platform where you can sort of have an audience in a way that you can never access with, um, maybe making work in a more traditional space. So artists who make that kind of work are really interesting to me. Aria Harvey, Molly Soda, artists who are kind of like interrogating self-portrait in relationship to the internet and technology.
+
+Speaker A: Right on. Here's another one, and maybe there will be some overlap with the answer you just gave, but Who would you like to hear as an interview guest in the future?
+
+Speaker B: Hmm. I think it would be interesting to talk to Miles Payton. He's my friend. He recently put out a project called OBA, and he works with the online gallery, uh, Yetshi Lang. And I think they're doing just really unique, exciting work in terms of thinking about online exhibitions and thinking about NFTs. I mean, their relationship to art on the internet. So yeah, I think that could be fun.
+
+Speaker A: All right. Send us a link to that later so we can check it out.
+
+Speaker B: Okay. Yeah, I will.
+
+Speaker A: The last one usually is, is there anything that you want to ask us? Turn the tables.
+
+Speaker B: Oh, hmm. How do you feel like you perform both of your identities when you're doing the podcast? Like when, you know, people are going to hear your voice, do you feel like you like become a certain piece of yourself exaggerated? What's the experience of podcasting like? I've never had a podcast or anything, so I'm kind of curious about what that entails mentally.
+
+Speaker A: Um, I don't know, Trinity, do you want to go first?
+
+Speaker C: Hmm, I might need a moment.
+
+Speaker A: Okay, I'll start if you want to think. Um, yeah, I think that definitely because this is like a piece of media that you don't know where someone's going to be listening to it and who's going to be around, like they might be traveling in the car or right with kids playing it wherever. So a part of me always tempers my language choice at the very least and tries to swear, swear a lot less more than I would normally do in casual conversation to keep it more like PG, PG-13, which isn't that hard to do, right? When you're talking about art anyways, most of the time.
+
+Speaker B: Yeah.
+
+Speaker A: So, but then I also find that especially since we edit the show, in the editing sometimes between recording and when it goes live, I'll, I'll think like, well, like maybe that wasn't like so fair what I said. And so some, sometimes like I'm post-modifying even, in particular things that I've said, like to maybe make them more palatable or make them more fair or go like, oh, that could be a fun thing that like, that I said, like maybe that was like a little inflammatory. It's, it's a fun take, but is it like really like a nice take? Is it really like also like quote unquote, like on brand for the show to be?
+
+Speaker B: Mm-hmm.
+
+Speaker A: Maybe Trinity will agree or disagree, but like, I don't think we're really here necessarily to stir controversy. Like, I do think that we give our honest takes, and if there's something that we don't like, we are usually pretty clear about it. But we're also like not trying necessarily to cover things. Like, we're not seeking out things to hate on. I think the show could be like really different if we did just try to make it more about finding projects we didn't like and platforms or people and just like really trying to tear them down.
+
+Speaker C: Ooh.
+
+Speaker A: Sometimes there is the urge to give into that because like it is the internet and like It's like Red Scare. The podcast?
+
+Speaker C: Yeah.
+
+Speaker A: Yeah, no, I don't, I don't think we wanna be the Red Scare of, of NFTs. Dasha's probably Trinity's neighbor, but yeah, there is that, right? But I, I don't know. I think, I don't know, Trinity, jump in whenever you're ready.
+
+Speaker C: I think, you know, there is that performance aspect, of course, because we do have those conversations about why are these people doing this or what is this platform doing for that? And oh man, I really don't like this. in our personal lives, you know, when we're not recording, when we're just chatting either on Discord or before a show or like in person. So it's not like that's not there. And so like that tempered version definitely is a part of the performance in a way. You know, it's like business nice in some respects, which is a place that I feel comfortable in.
+
+Speaker B: Totally.
+
+Speaker C: Will, I don't wanna put words into your mouth, but I'm sure that you feel a certain amount of comfort there as well. Coming from a corporate background for the most part, and it's always about spinning things in a mostly positive light with some amounts of honesty. And so I think that's the really big thing.
+
+Speaker B: That is very fascinating.
+
+Speaker A: Maybe I'll cut this part out, we'll see. But like, I find sometimes when I have an especially like hot take or something that I want to say but I don't necessarily want to own it, I will like try to find a way to work it into an interview to then get the guest to kind of give the opinion that I have. So then I can kind of be like, oh, cool.
+
+Speaker B: Yeah.
+
+Speaker A: Like, you know, it's like their thing and it got out there as part of the show canon, but it's not like Will's opinion or Trinity's opinion. It's like the guest's opinion. And then we don't like fully own it, right? Because it was like a guest that came on. And so, and I don't think we did that with you, Maya, but like there, you know, cuz this is like a more art-focused show, but sometimes we have like market-focused episodes.
+
+Speaker B: Ooh.
+
+Speaker A: Cuz like that kind of happens, right, Trinity? When we're like talking about guests we wanna have on, it's like, here's a thing that we know we wanna talk about. And then we like look for people that we think will kind of speak to that in one way or another.
+
+Speaker C: Yeah, sometimes, definitely.
+
+Speaker B: Oh, that's smart. I'm so impressed that you all, you all edited this yourselves.
+
+Speaker A: Yeah.
+
+Speaker C: Will does all the editing. I've only edited 3 episodes. He likes to control the narrative.
+
+Speaker B: Yeah, totally necessary. But yeah, I find it so challenging to be like, oh, after saying something, be like, should I say that again? You know, think about it. So.
+
+Speaker A: It doesn't come up that often that we're editing content. I mean, we really, especially in interviews like with, with you, like I'm not gonna sit here and be like, I don't know if Maya should have said that, right? Like for this episode, it's gonna be really just about cleaning up the language or like the ums and ers and the spaces and like the pauses. And we'll lose a good amount of time. We'll lose 10 to 15 minutes off the episode just from taking all that stuff out.
+
+Speaker B: Wow. Yeah.
+
+Speaker A: Which is great. It's a great, great for the listener. And a lot of podcasts don't do it. I don't know how much other crypto podcasts you listen to, but there tends to be like a ton of dead air and people fumbling around. And it's like, but I get it because the editing is a lot of work. It's probably like for every 1 minute of episode, you're doing 3 to 5 minutes of editing. So it does take a long time.
+
+Speaker B: Wow.
+
+Speaker A: For us, like, I think we also think of ourselves as, despite the fact that we don't charge for it, like trying to be a more premium show experience. And hopefully that's what of the reasons that we're able to get guests on the show because it's like, yeah, we're gonna totally put out a product that's like very polished and sounds really good. But that is also again, like performance, right? Because it's still not true to what actually happened in the episode in a sense. Like where we, where we kind of soft cut ourselves.
+
+Speaker B: Cutting out all the secrets. Yeah.
+
+Speaker C: Yeah.
+
+Speaker B: Yeah. Really cool to hear about more cuz I'm always curious, um, what it's like for you both.
+
+Speaker C: I think that between work And I love this question around authenticity between work and podcast. It's, I think there is a definite blurring in some respects of what makes an authentic self versus what is more performance and what is that overlap? And when does your, like, your true sense of self start to blur or disappear because you're living in this other realm for so much of your life? You know what I mean?
+
+Speaker B: Oh, for sure.
+
+Speaker A: That was a great question.
+
+Speaker B: Thanks for answering. Yeah.
+
+Speaker A: Let's wrap it up here. And just, I'll invite you, Maya, before we conclude, if there's anything you wanna plug, any other upcoming projects or things that we should be looking out for.
+
+Speaker B: Yeah, well, I'm Feeling Lucky releases on Thursday, September 14th at 1:00 PM Eastern time in the US, 6:00 PM BST. This episode will come out before then, so that's the first thing. The second thing is I'm actually working on a book, a physical book of Fake it till you make it. Focus on the project and the collection. Um, so that'll be coming out earlier in 2024. So that's the next thing to look out for. And I'm really excited about creating a physical object to represent the collection. It's been really special.
+
+Speaker A: Well, thank you so much, Maya, for coming on the show. It's been amazing to talk to you. We've gotten to some territory that we've not yet covered on the show. So this is a really fun interview.
+
+Speaker B: We picked you for this interview so that you would cover those Right.
+
+Speaker A: Yeah, we got you to say everything about astrology that we think.
+
+Speaker B: I really appreciate your questions. I mean, yeah, they were super thoughtful and well-prepared, so thank you for taking the time. It means a lot.
+
+Speaker A: Well, I hope everyone enjoyed the episode. That was Maya Man. Check out the Vercelos exhibit. Check out the book coming next year. That's it for this one. Thanks everyone for listening. We'll be back again soon with another episode. So long, bye-bye.

@@ -1,0 +1,385 @@
+Speaker A: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a very special interview episode. We're joined this week By Jeres, an interview long overdue. Jeres has worked with us on the Waiting to Be Signed poster project, which was our last big token drop. And on top of that has just been one of the rising stars of FXHash across 2022 and is crushing it in 2023. And of course, Trinity is here as well. How's it going, everyone?
+
+Speaker B: It's going well. Thank you so much for having me here. It's such an honor to be on my favorite podcast in the world.
+
+Speaker C: Ira Glass, eat your heart out.
+
+Speaker B: Yeah.
+
+Speaker A: Do you listen to many podcasts, Jeres?
+
+Speaker B: Um, no, it wasn't state— that wasn't really much of a statement and I apologize for that, but you know, you didn't have to blow that up. Um, yeah, I don't really listen to podcasts, but I don't judge people who do, but obviously I have a vested interest in this one and I just love hearing you two speak in general, so I have to tune in.
+
+Speaker A: We often hear we have good radio voices, so.
+
+Speaker B: They're fantastic. I'm always impressed. You're built for this.
+
+Speaker A: We're so excited to have you on. We've been talking about this for a long time. Now is the right time to do it. You've got so much going on. But before we jump into kind of your 2023 so far and all the work you've put out, maybe you can give us a bit of an introduction to yourself, your background in art, coding, you know, how you even came to blockchain, NFTs, and fx hash.
+
+Speaker B: I'm Jeres. I guess now I'm a generative artist. You can call me Jeremy if you like. It's, I'm not gonna reveal my last name, but you know, Jeres or Jeremy is fine. I'm a recovering technologist. I spent way too much time in the tech industry. I'm happy to be escaping that. I found my way here through kind of just having a little bit of spare time to try to redefine my life. I had been working at a startup that I wasn't really enjoying all that much anymore, and I just kind of quit. A lot of artists, it seems like, you know, are working towards becoming full-time artists. I kind of took a different direction where I just quit my job, didn't know what I was going to do, was exploring lots of options, and then sort of stumbled into this world of NFTs. My friend Luke was hanging out with me and I'd heard of NFTs, but I hadn't really looked into them at all. And he was talking about Nouns and some other like CC0 stuff. And, you know, my first introduction was not through generative art, it was through that kind of thing. And I found it kind of fascinating and did some more research and found Art Blocks and, you know, read some articles like everyone else has. It's like, okay, Tyler Hobbs, tell me how you created Fidenza. How did this become such a thing? I didn't realize it was even an option. And so researched more into that, was like playing with p5. I didn't really know how to break into it at all. And that's kind of where I first discovered fxhash. They were still in beta. They had just launched and I really loved their whole ethos and it really resonated with me. It felt very indie, you know, punk rock, kind of a little more outsider than what was going on in ETH. And it felt like it resonated a lot more with me. You know, I'm a Gen X kid and loved my indie rock back in the day and, you know, appealed to me more. So I started just exploring more with p5. I minted a few things on Hic Et Nunc, but when I found fxhash, I was like, oh, this is definitely what I want to work towards. You know, given my software engineering background, I was like, okay, I can write code. I've been doing that for 25 years professionally. This is really fun. And I kind of just set out to create a collection for fxhash. I didn't know what was going to come of it. And obviously that turned into Sinuosity because it's, you know, on the blockchain, you can go see what I did first. And it was really fun to get to that point.
+
+Speaker A: Well, did you have a background in art prior? I mean, I think one of the things that even early on we were talking about some of your work because it stood out to us as feeling maybe a little more developed than some of the other people. I mean, there was so much, I mean, for lack of a better term, like random stuff dropped in the early days of FX Hash. So did you have a background in painting or did you do other digital art?
+
+Speaker B: I went to school for computer engineering, but I did minor in art history. I've always been interested in art. I always was an art appreciator and tried to go to galleries as much. I lived in New York for 15 years, so there was always something to go see. I had friends who were artists and always exposed to it. And I think that I was always aesthetically driven, even as an engineer. Most of the time I really wanted to be involved in product and design. And a lot of times, I mean, people like me at startups because they wouldn't even need to have a designer. They would be like, okay, this is generally what we want to do, build this, make sure it looks great and it's functional. And I loved that because it allowed me a lot of freedom. You know, I knew what we wanted to accomplish, but they trusted me with my aesthetic and my understanding of UX that I could create something that was hopefully beautiful. I was, I wouldn't call myself an Apple fanboy, but because, um, my first 2 iPhone apps, they launched on the first day the App Store was live. I worked for Major League Baseball and like, I was not really a baseball fan, but, you know, I kind of created their first app with my friend Rob. And I kind of bought into the Apple cult of design being like the most important thing that you could really go for. And so I was always pushing to have every detail right and just being really focused on that. And, you know, moving from startup to startup to startup, I mean, obviously Mobi is not a startup, but after that I was going to a number of social media startups and I was I was always kind of more interested in how things felt and looked than how they were built underneath. I definitely wasn't an engineer for engineering's sake. I liked having those tools so I could build, but that was only so I could have things to show. I was always trying to have creative side projects. I was in bands. I was responsible for the photography, the album art, all the flyers, things like that. And I loved having control of that aspect of it. A lot of folks in bands don't want to deal with that at all. They just want to— play their guitars and drink, and that's fine too. But I really enjoyed branding those and going that direction. Yeah, but I've always, throughout those 20 years doing tech work, tried to have my own side projects and work on those. Sometimes games, sometimes private social networks that I was creating, whatever, you know. I did a game, I don't know, that The Verge picked up and they wrote about. It was called Pickpocket. It was a Bluetooth game that like would kind of detect people in real life and you could steal from them. You would install the app, you'd have $1,000 like fake dollars, and then it would automatically detect. And so like, I really—
+
+Speaker C: Yeah.
+
+Speaker B: Enjoyed experimenting with that, but also, you know, really enjoyed designing the interface to make it kind of like a fun game. So yeah, my history in terms of art has been more on the side of someone who appreciates it, but hasn't actively been doing, you know, visual arts until recently, but always concerned with aesthetics and design and how that kind of interface like happened between people.
+
+Speaker C: What really comes to mind when you're talking about all of this, I think really that intersection between Art, tech, engagement, games, systems.
+
+Speaker B: Yeah.
+
+Speaker C: When I think about the developers that I know who are often entrusted with creating like front-end frameworks and like doing some of the design, it's about making things look good, but in comparison to some of the designers who work on things, and this is not denigrating designers at all, of course, but it's also about creating like that underlying framework of what do interfaces do, why do they do it that way, and making it scale across a ton of different interactions and touchpoints. And to me, that also seems very much like a baseline for generative art where you're creating frameworks of shit that looks good together.
+
+Speaker B: Yeah.
+
+Speaker C: I mean, to put it very, very simply, you know, obviously it's way more complex than that, but that's a take that we haven't really heard before from the other people who have development backgrounds. They usually just jump into ray tracing and impossible dunes and all of that really fun stuff that Piter Pasma likes to talk about.
+
+Speaker B: Yeah, I think my approach is very different than— I love Piter Pasma and I just have so much respect for His skill. I think that I'm not too worried about what the algorithms are going to look like underneath, or like how many lines of code they are. I'm more of a brute force programmer, where I'm just like, okay, how am I going to make this beautiful? What am I going to do? Like it's aesthetics over you know most everything else. Obviously, I want what I'm using to be reusable in some capacity, but I'm not too concerned with every line of code. You know, like one of the fun things about being able to develop projects like this is like once they're done, you don't really need to maintain them. You know, you can just get to the point where you're like, okay, this creates the outputs that I want. This creates the experience that I want and I can cherry pick from it later if I need to. But for the most part, I'm really just judging it by the outputs that it creates and the experience there. You know, I do care about performance. You know, sometimes with a long loader, you can really, it really doesn't feel that great. And I think that does affect the experience for the viewer, but that's the only time I really put a lot of time into performance or optimizing code. I'm like, okay.
+
+Speaker C: So you're saying that you have sloppy code?
+
+Speaker B: I do. Yeah.
+
+Speaker C: That we should not look at it right now. Okay.
+
+Speaker B: You shouldn't, you know, I'm pretty self-deprecating, so I'm probably not being fair to myself. That's what, um, people always tell me, but I don't mind if it's a little bit sloppy and thank God that there's, you know, Webpack to obfuscate that for me.
+
+Speaker C: You know, moving maybe to some of your project work itself, you said that you came to fxhash early beta. How far into your p5 and coding journey did you start to release? How long had you been working on it?
+
+Speaker B: Pretty early. And I think that's why, I know I first started with the aesthetic that I did. I was like, okay, I'm gonna set up some constraints to what I want to use and finally tune that to something aesthetic that I really like. And so I was like, okay, I'm gonna use Bezier curves, I'm gonna work on having some grain, and I'm going to put a lot of time into trying to get the shadows and the texture the way I like it. But I really was trying to keep it as simple as possible because I was just learning. And I think that you can probably see through the many projects that I have that the techniques got a little bit more complex over time and there was focus on different areas and, you know, just learning so much more about what was capable, you know, you want to use those things. So I was pretty early on. I would say that I learned p5 to make that first project.
+
+Speaker A: One of the things that stood out about your earliest work and just looking at your early projects here, like that initial run that was Sinuosity through, say, like Station to Station, but even carrying forward into Nightfall Moon and some of the projects after, were the palettes that you landed on. We were both here in December, January when you were first starting to drop, and it was just like your work was so instantly identifiable because no one else was using colors the way that you were. And it wasn't just the pinks and the blues, but also the early emphasis on the black and white and in-between colors there that are the thumbnails that you chose for projects like Sinuosity and Clix and Numa. So like, what's the story of those palettes? Because like, even now, you know, you've evolved them, but it still feels like there is a Jeres-ness to the colors that you pick.
+
+Speaker B: Yeah, I mean, I do care about color a lot. I was going to make the first couple collections completely monochrome, but then I decided to add some color to them. And that was just exploring color palettes that, you know, I enjoy. And it may have been taken from like, you know, sweaters that I have, or, you know, just going to a palette generator and find things that I like and trying to mix and match them to create a vibe that I enjoyed. And like, yeah, they did evolve a lot. And I think that, you know, definitely with my later projects, like they've become very identifiable as the Jeres palette.
+
+Speaker A: It kind of sounds like they just worked and you stuck with them and continued to develop them.
+
+Speaker B: Yeah. I mean, I liked them and then I added more palettes as I'd go and I still like tune them and I pull colors out and I pull colors in from time to time, but I've kind of grown this garden of colors that I really like to pull from. And, you know, I feel like they have a wide range of emotion. And whereas before, like a lot of times I'd have like different palettes bucketed, a lot of times now what I'm doing is I have a giant palette that I'm dynamically picking colors from and hoping that there is a little bit of clash and some surprise there. So you can get a special piece that might be completely unique from anything else in the collection, even though it's all pulled from a larger pool. You know, we're talking about like 80 colors. So there's lots of opportunity within, you know, a project with 400 editions that you can find something that is completely unique, even though it's all technically from the same palette. The first 4, probably— well, I probably added a palette or 2 like for each project as it was going, and then settled on what I really, really enjoyed. I feel like at some point I'm going to throw them all away and start again and see if I can just create a different kind of period, I guess. But I feel very attached to these colors. I probably will continue to use them for a while. I do feel like I want to play around with style a lot, or different kinds of compositions. And it's nice having this through line where you can see how these pieces connect, hopefully through color and emotion more than, you know, specifically composition.
+
+Speaker C: Thinking about one of the main differences between generative art and I guess the traditional art space or what people are doing elsewhere in NFT land is that each project is almost seen as a standalone collection where that is its own body of work that has 400 pieces in it. Whereas if you're doing one-of-ones, for example, it's things that are thematically grouped together, but could still be very, very different. And so shifting from era to era, I think very similar to what you did with your first 4 or 5 projects and then the next 4 or 5 projects where you can definitely see that you are exploring the same things. It's something that's super cool to think about and to look at just thematically. And if you're changing everything again, for your next big body of work or your next set of works, that's super rad.
+
+Speaker A: Do you kind of think of the upcoming Tender collab marking a shift? Because what we've seen of it, it is different from everything else that you've done.
+
+Speaker B: I'm really excited about it. I, it's been great working with Adam and like, it is going to feel a little bit different. First of all, I mean, Adam is bringing a lot of great palettes to that. So like there's going to be, you know, a nice mix of new color in there. Cause like, you know, Adam's great with color and that's been really fun to find, you know, a good mix of how those will balance each other out. Yeah, this is a little bit of a shift because like it's the first time I'm using shaders. Hopefully it doesn't feel like a first shader kind of project. It has been fun to explore that and it seemed like the right tool for what the prompt was because, you know, Adam came to me with a number of ideas and they were very well fleshed out and it was really lovely to get that welcome package to the Tender Collab process. This one was kind of built on a tangent from one of the ideas he had, which was chemical reactions of a Polaroid film, which I really liked, or old, like peel apart and like, you know, actual the InstaPacks that you would get. So I felt like that kind of animation and that the shapes you could get out of a shader using fractal Brownian motion would be, you know, a really great use of that. And so exploring shaders for this project really kind of gave it a different feel. So I'm excited about what's going to come out of it. And it's also just nice to have a new skill under the belt.
+
+Speaker C: From everything that we've heard, shaders literally just opens up brand new galaxies. Like you've been orbiting planet Earth and now you're exiting the Milky Way. So to speak.
+
+Speaker B: Yeah, it's a whole new way to kind of think about creating an image. p5, when you're just like drawing lines to a canvas and it's very straightforward and easy to conceive, whereas like, yeah, the way shaders are even, you know, set up, it's a whole new way to kind of think about how compositions can come into the world. It's fun and it's nice to have that to explore. It's amazing how well it performs and what it's doing.
+
+Speaker A: We're super excited for that. And that should be launching just before this episode. Or maybe just around it.
+
+Speaker B: I think maybe the week before, a few days before. This is probably gonna drop right after the Here and Now thing too. So it's gonna be a lot of things all happening at once.
+
+Speaker A: Yeah. Sometimes it works out that way, right? I'm sure at some point it all seemed like these things would all be like really nicely spaced apart and they just kind of landed on top of each other, right?
+
+Speaker B: When I was setting this up in my mind, I kind of like saw them all happening at different points and having like 3 or 4 weeks in between, you know, and then just by nature of how things play out and, you know, things get moved and shifted around and then you're like, oh, they're all going to kind of land on top of each other. And everything I was trying to do to make sure that it wasn't flooding the market at once goes out the window. But you only can control so much, but I, yeah, a lot of drops in the next week or so.
+
+Speaker C: Maybe params will be delayed another 2 months and you'll be fine. I mean, one can only hope, right?
+
+Speaker B: Yeah. Yeah. We're going to find out tomorrow. Right. I'm kind of hoping that it does get delayed in some ways just to have a little space between the tender.
+
+Speaker A: I'll say personally, I don't think it's going to get deleted at this point.
+
+Speaker B: Yeah, I don't think so.
+
+Speaker A: But I mean, just to kind of wrap a little bit on the Tender piece, you know, we've had the luxury of seeing some of it behind the scenes. And one of the things that really stuck out was this is, as far as we know, at least your first like real animated work, right? Obviously some of your pieces have animation as they draw, but this is one of those continuous, just like keeps going kind of animated pieces that we really enjoy, but are sometimes also kind of A little bit tougher on the market, right?
+
+Speaker B: Yeah. And I was a little bit hesitant to go for an animated piece for that, but the goal is that any frame of this could stand alone as a static piece. That's probably how people will experience them anyway, um, because the previews are static and then you can kind of dive into, you know, letting them be animated. But like, I don't think that it needs to be only seen as an animated piece. It's two sides of the same coin. And even now I'm like, do I really want to make the default view animated or do I want to make that an option? But yeah, it will be the first animated piece. That have released, which is nice. The only other one that kind of comes close is Ceremony that I did at SCC 0x0x0, but that doesn't start in forever mode. You have to start it. I mean, that's another one where I think that they both, the static image and the animated one, kind of stand on their own. And it goes full screen, which is really cool, and performs pretty well, at least on my machine. So it should be a different feel.
+
+Speaker C: I think it's interesting to think about the overall reception of static pieces versus animated pieces. In February, we saw at least one big week where animation was king. Like there were like 4 to 5 huge animated pieces. It was all the rage, every— anything everybody could talk about. Maybe we're starting to see that shift towards that appreciation of animated pieces and stopping to look just, not just at the thumbnail, although it helps if the thumbnail is super rad, as you said.
+
+Speaker B: Yeah.
+
+Speaker C: Like looking at the previews and just based off of what you said, the piece that comes to mind is Seekers. By Ecker0, where it's like kind of trippy, this amorphous growing and shrinking and like structure, but unstructured at the same time. It's like very wild.
+
+Speaker A: That one dropped like 2 or 3 weeks ago. So it would have been probably as you were wrapping or finalizing the collab.
+
+Speaker C: Yeah.
+
+Speaker B: I just looked it up because I am terrible with names and I do remember Seekers. Yeah, I really enjoy it. What we're doing with the collab, it feels a little bit Less frantic, a little bit less intense. I feel like it's more of a mood piece. I like this direction of things becoming more animated and making that a, you know, something that's viable on the market. I think that honestly, I've been meaning to do this, meaning to go this direction for a little while. I was really inspired by 2 of, well, your interview with Leander was great. And I think that I was like, okay, for digital art, you know, making it animated, making it full screen, make it kind of like, you know, reactive to the screens that it's shown on does make a lot of sense.
+
+Speaker A: Yeah.
+
+Speaker B: But I also love to make art that would be great on a wall, which is a very different approach to making things. I think with the market, a lot of folks can just comprehend static art that you can picture on a wall a lot easier than, how am I supposed to process this animated piece? You know, but it does feel like way more native to what this environment is. So.
+
+Speaker C: It's a new era.
+
+Speaker B: It's a new era of sorts. Yeah.
+
+Speaker A: It's super exciting. You know, to kind of keep going through your catalog here, you know, we've had a few artists on recently who have been around since those beginning days and have been releasing semi-consistently across the entirety of fxhash history. What kind of distinction do you draw between your earliest work on fxhash, let's say up to Attachments maybe, like everything before and after? Like, I kind of feel like Attachments was like the Jeres, like just banger after banger era of releases. You know, Vapor Trails obviously had its big moment. How do you draw a distinction between your earliest work in the work you have now? And then bonus points if you want to say if there's any pieces from early on that maybe you're not super happy that you released in retrospect, or if there are any that you feel are undersung and deserve a little more attention.
+
+Speaker B: Masquerade, for sure. Masquerade is my masterpiece, and I don't understand why, you know, that's not— has the highest floors. There is a big division in my work, and it's funny that you called it out, Attachment, because I think that's when I was first trying to take being a full-time artist more seriously. I think You know, up until that point, I still felt like I was kind of learning in public and the stakes were a lot lower. And I wanted to make sure that everything I released that I liked and I was proud of, but I didn't really think of myself as an artist. At the same time, I was writing a bunch of Solidity contracts for other random projects and trying to like explore that. Like, what did I want to do with my life? I was still feeling that out. And Clown Out Paper Trails, I think is important. I think that was the first of that era. Obviously, like I think Biome Patches and Weep, I know Nightfall Moon. Were some of my favorites as well from there, but Vapor Trails was more personal. I felt like it was the first time I was really trying to express something and I was really going for, you know, a romantic kind of experience and expression, you know, you know, in the description I'm talking about laying in the park and smoking weed and like looking at this person that you're falling in love with and knowing that they might disappear and just being in this moment. And I really wanted to create this atmosphere and ethereal kind of aesthetic that felt like something a little bit less clinical and hard. I think that before this, I was. A lot of the work is very graphic and a little bit more cold feeling. I was happy that Vapor Trails was received well because it was my favorite piece up until that point. And, you know, after that I was exploring a little bit, but I think with Attachment, that was the first time I was trying to release something that I felt was like, okay, I want this to be something that has more impact and that really reflects what I'm trying to do as an artist. And as dumb as this sounds, it was like, how do I distinguish this? Because I was thinking about creating a new wallet and being like, okay. This was like Jeres in school and like, this is like kind of like what I'm trying to like put out as actually an artist. So like the way I kind of distinguished that is I moved to using capital letters. It's so stupid. But I felt like I was like, okay, I want these to be taken a little bit more seriously because I was taking them a little more seriously. And I feel like that is the dividing line. Not to say anything before it is something I'm not proud of, but I think my mentality changed in how I was going to try to start. Releasing and marketing and trying to space things out and try to have, um, you know, a more linear path. It was also kind of a reset, you know, because I feel like with Attachment, I tried to go back to something simple, but that had a number of elements to it that gave it a lot more depth than just like having a couple of lines on the screen. So yeah, to answer your question about like things from before that era that I'm really proud of, obviously Vapor Trails, then, you know, Nightfall Moon. I think that Amit, I was really kind of bummed about how that release went. I think the biggest problem with that is I didn't do enough quality assurance on it. There was a, there was a number of outputs that just were kind of duds. And I think that this just goes to show that like a lot of the work in being a generative artist is just going through endless outputs and making sure that the algorithm doesn't betray you. Which is always a balance because you want to leave it open enough to create something unexpected and let something beautiful emerge. And, but you also want to keep it controlled enough that you're not too worried that You're going to get like an empty screen, you know, or something.
+
+Speaker C: One of the other items, and I think this maybe ties into the marketing piece that really started a little bit with Vapor Trails, but definitely with the Waiting to Be Signed Olympics Poster Edition, which we can talk about for, you know, probably a couple of hours. That's a whole other episode where we just do a deep dive there because it's probably your best project to date. But from that point on forward, I think that we've seen a lot of you being put into the piece. You know, obviously Glossolalia and Coronado stand out, but even with Hereafter as well, you know, I think there's almost a different— not a tension, not an aura, but like there's just something different. And I don't know if it's something that comes from your soul when it comes to what you're putting into the piece versus marketing tactics 101, but it'd be interesting to hear about the storytelling and like the perspective that went into like the descriptions and so on and so forth.
+
+Speaker B: I think that with Hereafter and, you know, Outlanded and Coronado, uh, La Sallelia, I was trying to be more vulnerable with what I was trying to create, especially with La Sallelia, but with Hereafter as well. I think with both of those projects, I started with the general aesthetic that I wanted to, you know, go towards, but I felt like I was allowing what was coming out through the compositions and the colors kind of guide me in terms of how it made me feel emotionally and what it kind of made me, you know, think of. Like Hereafter, like, yeah, I wrote that little poem and I had a much longer description that I didn't go with because I think that it was kind of exposing too much and I wasn't ready to talk about it too much. But, you know, like, you've known I lived in like New York for a very long time. And like what this was kind of triggering for me, or I think helping me process was 9/11, actually. I lived in the South Street Seaport in the early aughts and was, you know, down there that morning when they fell. And I, that was like a very traumatic day for the country and many people that experienced in different ways. But I was in the dust clouds and I've kind of like, kind of been processing that for a long time. And as I was making this piece, you know, I didn't really expect it to kind of turn into all of these towers and like plumes of fabric smoke or whatever they are. And I was trying to let that feeling kind of guide what I wanted to create. And there's a darkness to it, but there's an optimism and there's a coldness to it too. I don't know if I'm really summing up how I feel about it very well, but I was trying to let my experience and my, my emotions come through in a more vulnerable way with those. And, you know, I really enjoy writing. I think that I'm much better at it than speaking about how I feel or, you know, communicating all of my ideas. So I do rely on writing a lot more than speaking, but with a number of projects now, yeah, I've put a lot of time into trying to at least somehow communicate what it makes me feel or what it means to me. Hereafter started that. Coronado was a personal piece, but also like, I think that was an exploration of texture and about appreciating my stupid guitar from the the '60s that I love so much, it really was about trying to, um, know that I don't have so much control over the world. Know that like, you know, we, um, that—
+
+Speaker A: If you want, I can prompt you with another, like a continuation here.
+
+Speaker B: Sure. Yeah, let's do that.
+
+Speaker A: It's really interesting hearing your story from hereafter, because I think a lot of what you've exposed were things that we talked about when the project came out and a lot of your work from Attachments on, but I think a lot of your work in general. does really ride that line between optimism and depression or dourness, or—
+
+Speaker B: Yeah.
+
+Speaker A: And it's, it's very interesting. You find, you often find ways either through your use of color or through your composition to contrast those 2 things. And you really can look at Hereafter as a celebration if you want, but then you see some of the more black and white ones perhaps, or Some of that look like they're being more inundated by rain or some of the streaks through the sky. Like you can, you can see such a variety of emotion in them and you just have found this way to create this balance and it's present, I think even more so in your more modern work. Go ahead if you want to riff on that one.
+
+Speaker B: Yeah. And some of that comes to like the process of how I'm creating that. Like I, a big question I'm asking myself as I'm creating these pieces is like, okay, Does this make me feel anything? And and if it doesn't, then I abandon the project. And so I'm glad that it reflects and that you can see that range of emotion because I am trying to give them a range of that. And if I'm not going to feel anything with it, then I definitely shouldn't assume anybody else will. And I feel like with art that I'm collecting or what speaks to me, it's always kind of an emotional response. Even if there is an aesthetic appreciation, I I want it to. I want, I want it to have some impact. So I'm glad it comes out in the work. I don't think that I have like a complex strategy for it other than like, I just keep on playing with the algorithm until I feel like it has some sort of, until I have some sort of reaction to it and then lean into that.
+
+Speaker C: Is there a connection between Hereafter and Outland thematically? Obviously there's, you can see that there's a visual connection just in terms of the colors, the textures, just like the overall mood. Is there anything beyond that that would be helpful for collectors and listeners and us to know?
+
+Speaker B: There's not too much to that. I mean, I saw Outland as kind of like a prequel to Hereafter and like, like just kind of barren landscapes that felt very cold, but also colorful and exciting in terms of like having opportunity. But like, I think that it was more of an aesthetic study of trying to reduce what a lot of the, uh, Chaos of Hereafter in some ways. I mean, it is an adaptation of the same algorithm. I think that a lot of generative artists do this, but like each algorithm kind of feeds into the next. I mean, some folks might start from scratch, but like, I feel as I'm working, like I'll come up with an idea and I have like this fork in the road. I'm like, I like both these directions. I'm gonna create this fork and come back to it and then follow this one until I feel like that's fleshed out. And so they're related in terms of code. And that's probably, you know, apparent, but I feel like they have different Personalities and contexts. So yeah, Outland is kind of a loose prequel to Hereafter, but not in any explicit sense other than like, oh, this is kind of pre-humanity in Outland, you know, just like these empty barren wastelands that have yet to evolve into whatever we created as people.
+
+Speaker C: So what I'm hearing is that 9/11 is the definitive demarcation between before and after in terms of all of human history.
+
+Speaker B: Oh God, no. I don't— the thing is like Hereafter isn't really necessarily about that. Yeah, I know. It's kind of, it's more of, uh, I think visually those things were just kind of etched in my brain from being down there and seeing it. You know, I have a Polaroid from a block away and it's just actually the same, you know, aspect ratio to Hereafter and the smoke is going the same direction. I think that it's not about that and it was never meant to be, but I think that it was the reason why I was going that direction is like, oh, I mean, this is going to make me feel. And like, it's the first time that I was working on a piece that I've released that I'm like, oh, I'm, you know, because I'm often working in bed watching like something on my projector or whatever, like that I'm sitting there working on this and brought to tears, you know. And it's not necessarily about the art, but just kind of like what it's making me think about and where it's taking me. So like, you know, a lot of times it's therapy, and I think that that plays into Glossolalia as well. It was never intended to be about what I wrote about, but it's definitely what it made me think about when I was creating it. And that was the emotion I tried to channel when I was continuing to build it out. Hereafter is not any sort of statement about 9/11 and it being like a demarcation of anything. I don't want people to misunderstand that either. I think that like it's has obvious visual references to it and that can be remarked upon, but it's not any sort of statement about it. Anything more than like the emotional impact that those kinds of images can kind of have on you. And me.
+
+Speaker C: So, I mean, I think with that in mind, do we want to go forward and talk about Will's number one top favorite piece of all time, or do you want to talk about the best piece of all time, the Olympics poster, as mentioned before?
+
+Speaker A: Well, no, no, let's talk about—
+
+Speaker C: Okay, we'll talk about Coronado.
+
+Speaker B: The poster is more important.
+
+Speaker A: The poster is very important, and honestly, the poster got a nice bump off of Coronado, so we'd love to see it. And I'm sitting right next to mine printed right over here. So Coronado was the first one where you wrote a substantial amount. And I'm curious to, in one part here about how you kind of feel like this additional leaning into storytelling through the articles and like longer, like marketing cycles going into pieces. Do you feel like it's helped as you've broken through? Because Coronado feels like it was the breakthrough, even though there were so many smaller breakthroughs leading up to it, like Vapor Trails, even before that, right?
+
+Speaker B: Yeah.
+
+Speaker A: I think it was Weep was one that even Artnome kind of tweeted about and had its moment. But there were so many projects where you had these like blowups into like the couple hundred tez and then receding back. But like Coronado was the one that blew up to highest secondary sale, 725 tez, 54,000 tez secondary sales.
+
+Speaker B: Yeah.
+
+Speaker A: With each of these successive projects, as you kept having success and kept minting out and kept having floor sustained, like, did you feel like This was bound to happen? Like, were you like, this is the one? Like, when you had Coronado going, did you have huge optimism for it, or was all of this just an incredible surprise?
+
+Speaker B: I don't make any assumptions about how any of them will go, and I definitely put a lot of time into Coronado, and I was delighted that it was received so well. But I— it's not like I knew this one was going to break out any more than Hereafter did, or Attachment. To go back to your other question though, with the articles and the storytelling, I'm so grateful for fx. I'm so comfortable sitting and taking a lot of time to write and form thoughts and tie them together and apply them. I feel so grateful that fx has made it so easy to tie it together because like, I really enjoy writing and it helped me communicate what this piece was about and how to get there. I feel like with all my major pieces going forward, I'm going to try to write because A, I enjoy it, but I think that that context really helps, especially with abstract stuff, because I think I want to help the viewer build a connection, but also communicate what I'm trying to say with it or what I feel with it, at least if it's not an explicit statement. So that part of it I really enjoy, and it's something that I feel way more comfortable doing, you know, like a Twitter Space talking about what I did. Oh no, it's a nightmare. Podcast, I'm trying to get through it, and I'm hoping that, like, you know, I don't embarrass myself too much. But being an introvert and being someone that suffers from social anxiety, like everybody else here, that apparently, um, in the world, I feel like FX Text creates a perfect venue for me to communicate what I'm trying to do as an artist. So I love it for that.
+
+Speaker A: Awesome. All right, Trinity, let it rip. Glossolalia. I know you wanna talk about this one.
+
+Speaker C: Did you get your Coronado stuff out of your system? Like, you're steeped in it all day, every day. I think you have like 25% of the collection. That's a hard number.
+
+Speaker A: I do not have 25% of the collection. No. You know what? I kind of feel like we've talked about it so much in the show and there's the article and everything. I was more curious to know the personal success story. Obviously, Jeres, it's your interview, so if there's more you wanna say about it.
+
+Speaker B: Yeah, no, I mean, the release of Coronado and its reception, and then, you know, Le Monde picking it to show at Art Basel, like, was mind-blowing. I was like, what is going on? This doesn't make any sense. I have been like slowly building each release I'm doing. I felt like it was growing in some way, but like, I didn't expect this one to jump the way it did. And I, it is something I'm like really proud of. And it's, it's been kind of something that I feel like just kind of creates a little bit of pressure for me now. Because I'm like, okay, Coronado was a lot of people's favorites, and at least of my releases, and sometimes it's hard to follow that. I'm like, okay, even though I've had 30 projects across a number of identities. It feels like I'm worried about a sophomore slump or something, even though it's nowhere near a second release or something. But anyway, I'm so grateful for the success with it, but it has given me a certain amount of anxiety about like, okay, what are people's expectations? And ultimately, you know, I'm trying to work towards not really caring so much about that and just trying to create work that I'm proud of. And like, I'm audibly saying that before I hit a publish button, being like, it doesn't fucking matter what people think about this or how it lands, or even if it sells. I love this and I, I would put this on my wall. And this is probably why I collect a lot of my art. I'm actually making mostly art for myself and, and something that I feel like I like and trying not to tune too much to expect or want. What part of that is subconscious? I don't really know.
+
+Speaker C: Before we move on, there's just one thing I just want to kind of connect a couple of dots that I think have come up in this conversation. I think maybe most artists on FX Hash kind of go through this, especially people who've been here since beta days. The intention behind the work that's being done. Whereas you said that like your first projects, it was you learning p5.js and it's almost, I'm not saying it's gonna be like a coding exercise or anything that you're putting out drafts and sketches and whatever, cuz obviously there's a ton of intentionality put behind there.
+
+Speaker A: Yeah.
+
+Speaker C: How has the intent and motivation behind the work really changed from the first era of what you're putting out in December and January of 2022 to something like Coronado?
+
+Speaker B: That's a good question. Sinuosity, like, yeah, it was a bit of a coding exercise, but ultimately the question I needed to answer a certain way before releasing it was like, do I love this aesthetically? And I think that the bar was more about just like, okay, this isn't just to prove I can draw some lines in a certain way. This is something about creating something I think that is visually striking, and I did try apply some sort of a metaphor to it in terms of being flexible. And that was, you know, actually truly true on like where I was at. I was trying to be flexible with my life and flexible with a lot of things, um, in terms of where I wanted to go. But now, you know, I think that my intent has changed a bit. Like I do want to create art that expresses a part of me that has a purpose in terms of trying to communicate something about myself or how I feel.
+
+Speaker A: That's perfect though, right? Because it seems like that's working, wouldn't you say? Like if you, if you're saying that in this modern era of your work, you're being more intentional with what you communicate, and it also happens to coincide with your rise in success. It sounds like that is working for you.
+
+Speaker B: Yeah, for me, like, I think that I want the art to be about something, and I want it to be an emotional expression. Like I was kind of alluding to earlier, I'm not so concerned with, uh, trying to prove something technically or just be like, oh, look, like, this interesting algorithm I came up with that creates this, you know, intricate sketch, but if it doesn't feel like it has a soul, I think that it's kind of pointless. So like, you know, my intentions are to use all the skills I have and grow them as necessary to help communicate the feeling and emotion that I want the work to project, you know. And if it doesn't, then I don't want to release it and I'll go a different direction. I'm hoping that by being vulnerable and by trying to talk about myself and my relationship to the art that I'm creating, that It imbues it with a soul that is well received, you know, like, or that, that, I don't know, shit.
+
+Speaker C: No, totally.
+
+Speaker A: That sounds like a perfect transition now to—
+
+Speaker C: Yeah, into Glossolalia, which I think is perhaps the most intensely personal piece that I have seen on fx hash or in any generative art platform to date, you know, where it goes into such intense personal history. And it's something that when reading it, it comes across as incredibly vulnerable and just very revealing.
+
+Speaker B: Yeah, I kind of put it all out there in a lot of ways. And I asked myself a number of times whether I wanted to. I had my friend Steve proofread it and he didn't even tell me until after the fact. He's like, this is great. And I'm like, I've learned things about you, but do you want to be exposing this much about yourself to folks out there? And I think that while I was writing it and while I was feeling it, I felt like I did because I didn't mean to go that direction when creating the piece. I was just playing with some techniques and seeing how it made me feel and where we wanted to go. And at one point it was more expressionistic and I started forming it into these kind of upward strokes, and it just reminded me of catharsis and this feeling that felt very rapturous and very just kind of like letting go. And so yeah, I decided to kind of talk about my history, why this meant something to me, and it felt good to release. And now like I don't have any regrets, but I'm like, did I go too far? Did I say too much? Like, I don't really know. It seems like not because like folks are really happy to read it, and that makes me feel good because I do want to have a connection to those folks that are collecting and who are viewing the art. I want that to them to know what it means to me. So it definitely is the biggest push that direction. I think that I hinted towards some things in Coronado, but nothing really emotional. Like, La Cosa Lilia was definitely kind of like, here, this is who I am. And I think that you're right, Trinity. I haven't seen too many folks talk too deeply about their lives or their experiences, but it was really kind of moving because a lot of folks DM'd me afterwards to talk about similar experiences. Yeah. Related number of things. And, you know, that's kind of made me feel connected to the community, um, more than I have, because I don't feel, you know, like I'm not hyper-communicative on Discords. I'm on Twitter, but I'm not like tweeting all the time. Um, and it can feel a little isolating sometimes from, you know, like the world. So like being able to put this out, express what it means to me and how I got there in my history, and have people respond personally and also vulnerably, you know, like it's It made me feel good because it's just like, okay, this has some sort of impact more than like, this looks cool, you know? And that's what I was going for. And it felt good to kind of talk about it because like even, even the topic, you know, it's about repression and it's about like hiding yourself and it's about all these things. And I think that I suffer from always feeling like I can't reveal too much about myself because imposter syndrome or whatever, or any sort of like insecurity about identity. And so this was kind of therapeutic just to be so open about it. And for that to have a response was even better, you know. But even if no one had responded and talked to me about their experiences or, you know, related to it in some way, like, um, I think that just having expressed it helped out in terms of what I wanted to do with it.
+
+Speaker C: Did the work that you had on the piece change at all as you started to lean into the thoughts of this being part of the story that you wanted to share? Like, did have impact on like the pure code or the algorithmic work that went into it as you started to lean into that direction?
+
+Speaker B: Not in how I approached the code, but definitely how it looked aesthetically. Like it was looking— it was way more, when I was first working on it, blended and very, you know, like kind of— it didn't feel so pixelated and intense. And so I really wanted to make it feel like it was an outburst of emotion and give it like more jarring contrast between these different layers that I was that I was putting there. So yeah, it did have an effect, but it was already sort of heading that direction in the first place. So it was just continuing to refine the aesthetics, but I definitely wanted to keep the palettes really diverse and very vibrant because I wanted it to be about this like celebration of expressing who you are and not being so overtaken with feeling pressure to hide or repression in any capacity. So yeah, I mean, it definitely affected it, but I think that it was pretty close to where it ended up. I just tried to give it a little more intensity and, and, and yeah, so.
+
+Speaker C: And I think also it's not just pure joy and pure expression, you know. I think that there are quite a number of the palettes that are here that have more of the somber colors, the ones that are like, yeah, the reddish browns, like even the deep greens, so to speak, where it's still an expression outwardly but it's not necessarily the pure fantastical joy that you might see in like the ones that have the pinks or the bright blues or the lilacs, which are just so lovely. But, you know, there's definitely a place for the dark ones as well, because they're also intensely beautiful.
+
+Speaker A: Thanks.
+
+Speaker B: Yeah, I definitely wanted to have that range of emotion as well with this. I think that the bright ones do push towards a certain feel of just feeling liberated. But like the dark ones are just as important in terms of catharsis as well. Sometimes that can be messy and that sometimes that can be dark and sometimes there can be Tears involved and there can be, you know, a lot of just different types of processing with that. So like, yeah, it's not exclusively about that. I wanted it to kind of reflect all the different types of emotions that were being, you know, that we can all keep down as people for whatever reason.
+
+Speaker A: This is such a good segue here that I've got for you. Talking about a couple of your projects now and how looking at the diversity of the outputs can elicit so many different emotions, right? But they're all coming from the same intention. They're all coming from the same code. You recently released on Verse just a couple days ago as of this recording, Tragedy Static Heaven, that prior to the release, we were chatting on the side a little bit and you were considering the idea of doing a collector curated release. In that scenario, right, whatever intention that you built into the code, you're kind of surrendering it to the people who are now buying it. So ultimately you decide not to do that. You decide to do a self-curated release, which is fairly common amongst generative artists, but I just feel like it's so connected to this conversation about your work, right? Like the ability to weave all those different emotions across the palettes, giving up some of that control. Like, how do you feel about it in retrospect now that we've seen a few more of these drops play out?
+
+Speaker B: Yeah, I went back and forth a number of times, both Jamie and I did. I'm really glad afterwards, like, that we chose to go with an artist-curated collection. I felt like I wanted to keep this small and special and personal and I really enjoyed the collector curated pieces. Like I'm excited to mint Eric soon and Melissa's was really fun. But I feel like with, just like you said, with this collection for me, I felt like it was best to try to create like a consistent color story and narrative throughout it for myself. And I'm curious to see where these collector curated collections are going to go. I think that it takes a certain type of algorithm to really play into that. And I think that it would affect how you approach doing it in the first place. I didn't plan on it being a collector curated and I think that But if I had, it probably would've meant something different and I probably would've taken a different direction altogether.
+
+Speaker A: Earlier in the interview, you mentioned having some other accounts and, you know, you've got 30 or so projects across them on fxhash. The 2 that come to mind are CCOXOXO and anon.tez.
+
+Speaker C: Are you publicly anon.tez? Yeah, why not?
+
+Speaker B: I think that some people figured it out. It came up, but like, that was a fun, just conceptual side project, you know, and I feel like I want to pick it up again at some point. And well, I don't know if your question was actually asked, you just wanted to talk about my side project.
+
+Speaker A: I mean, the question was going to be, to you, what is the purpose of having these alternate accounts? And like, what is the appeal of having different identities and projects like that and kind of the tongue-in-cheek nature of hiding the identity, but not really, you know?
+
+Speaker B: Right. I mean, ultimately, it's freedom, you know, to have— well, the CCO stuff, I didn't feel like that fit into what I was doing with the Jeres account. They do feel like fun 'Cause I do like CC0 as a concept and I, you know, like the reuse and remixing of art is really fun. So I just felt it deserved its own bucket to be in because it's, they're fun. And, but I didn't really consider it to be part of what I'm trying to express as like, you know, Jeres the artist. So it was an experiment to see what I could do by building on one idea and building on like the idea of like, what is the art in the first place? Is it just the metadata that you're buying? Is it something more than that? How can I take this one kind of text-based piece and evolve it into other sort of versions of that. And it's a low-risk way not to dilute what you're trying to do with your main brand, for lack of a better term. You know, I like to experiment with stuff. I always like to be working on something new, and it's nice to lower the stakes sometimes and put something, you know, out under a different identity. Sometimes I take those a little more seriously. There's probably a couple more out there that we're not talking about, and And for those, you know, I think that it's just trying to build some space to express a different approach to expression.
+
+Speaker A: We'll take the mystery. No, the mystery is good. Don't confirm anything. Don't deny anything. What do you think, Trinity, about moving on to some questions like maybe something market related? And then we can get into rapid fire.
+
+Speaker C: Let's do that. I think the market is interesting, especially because you've been here for so long. You've seen the ups, the downs, even through your own personal work from a primary pricing perspective. And then when you see runs as like, you release something amazing and people go back and pick up Masquerades and now it has a floor of 80, which is just, you know, I have to say that I'm a little bit miffed that the Olympics poster has the lowest floor out of all of your projects. That's—
+
+Speaker B: Does it really? Yeah, that's a crime.
+
+Speaker C: It's a crime. Exactly. It's bogus. The fix is in. It's Kevin Rose just railing against other podcasts talking about Tezos, right? It is definitely Kevin Rose.
+
+Speaker B: It definitely has something to do with us. The market has been all over the place, and that's just kind of the nature of crypto sometimes. And it is emotional. And it is considering that this is my main source of income. It's stressful that we're in a downturn right now because it's sort of like, okay, will I be able to make rent? Will I be able to do these things? And what exactly was your question?
+
+Speaker C: I didn't get to the question part. I was fumbling around for a question. How much do the market cycles really impact what you decide to put your edition sizing or pricing at, if any, given that things can be so volatile within the crypto market?
+
+Speaker B: There's so many factors that go into pricing, especially when releasing or even timing the release, you know, like right now, be a little bit stressful to release because like, people seem hesitant to mint as much or, you know, buy on secondary. So like, yeah, I mean, like, you do have to take that into account, you know, and it's not like you want to exploit the fact that people are, you know, at certain moments willing to spend a lot of money or other times they're not. It just sort of goes into the equation. It's the stressful part of doing all this. You know, like I don't find, I don't think that I'm a market expert by any means. And a lot of times I feel like I'm guessing and hoping for the best because like there's so many different factors that go into it. It's like, okay, yeah. Like pricing Coronado after Outland, which kind of like was a bit lower. You never know where the right spot is for it.
+
+Speaker C: You're right. You can't time things. Not to keep on talking about Glassolalia, but that was an interesting project from a market perspective, because in some respects you released it at exactly the right time when everything was going for like the top tiers of Dutch auctions. I think it minted out at 100+, right?
+
+Speaker B: Yeah. And that was kind of strategic. I mean, somewhat, like, I think that I was more trying to give space between, I wanted to have a project between Coronado and all these collabs that I was doing. And so I was trying to time that mid-January or whenever I released it. Yeah, January 17th. And I'm really glad I released it then rather than a little bit later. It was at the peak of that market cycle. You never want to see your floors go below what it mints at, but sometimes you don't have really control over that. You're kind of guessing. That was well timed, I guess.
+
+Speaker A: Glossolalia, the bot slayer. Yeah.
+
+Speaker C: You know.
+
+Speaker A: I mean, but look, like, I think for someone like you, right, who you— this is now your full-time job. I think it's an unfortunate part of the game to an extent that you have to look at those opportunities. And also you knew what was coming up and you kind of knew that you had this like self-imposed embargo that between Verse and Here and Now and Tender Collab, would you have even had a window to gracefully wait? You know, it could have been months, right? So.
+
+Speaker B: Yeah, because, you know, I am trying to be more thoughtful with the timing of releases. You get a lot of pressure to space things out. Some collectors really don't want you to release too much because it floods the market. And I totally get that. That's good and bad because I feel like I'm a little bit ADHD and I want to like work on 10 projects at once. And oftentimes I am, and then I just want to like release them and not have them hang. But like, that can really confuse the market in a lot of ways. So you have to take into account, and I never want it to feel like that's the main goal because it isn't really manipulation, but it does have to be taken into account just because I do want to continue to do this. I really enjoy it. I find the whole process therapeutic. If I could never have to think about pricing or timing and I could just like continually code up projects and just pass them off and they would be released and somehow I'd be able to do that, that'd be great. But yeah, you do have to think about the markets unfortunately. And I'm happy with the way I timed it, but I do feel bad that like if anybody feels like they got screwed because they minted over 100 and now it's at around 50. But But I think that that's the case for a lot of floors. And I think that it'll come back. I'm really proud of the projects, you know, and I really wanted to— I felt like it was a great follow-up to Coronado. Like, it's a different project. And I'm sure there's opinions of whether it's the same quality, but like, I feel very proud of it. And I hope it stands, you know, and that people who buy it are buying because they like it, you know.
+
+Speaker C: We call it, it's on sale.
+
+Speaker B: It's on sale.
+
+Speaker A: It's an opportunity.
+
+Speaker B: Yeah, it is an opportunity.
+
+Speaker A: With all of that being said, right, you have these Several projects kind of in a row, all releasing within this first couple months of the year. What's your approach to the remainder of 2023 gonna be like? You know, you just kind of said you work on a lot of things at once. Are you going to be a lot more intentional? Like, I don't know if you saw the artist Alejandro recently tweeting that he's like taking a major slowdown. You'll be lucky if you see one thing from me on FX Hash this year. You know, like, I imagine a lot of artists are thinking right now about this year versus last and how they're gonna change and adapt. So.
+
+Speaker B: Yeah.
+
+Speaker A: What's your thinking?
+
+Speaker B: Create 10 more alt accounts and just keep on releasing under— no, just joking.
+
+Speaker C: Do it. Oh my God.
+
+Speaker B: But I think because I've done— this will be like kind of 3— well, it's 2 collabs in a row, then, you know, a release on Verse, which is— I think I'm gonna take some time and just work solo and try to figure out where to go next. Um, I have a couple projects in motion right now that I can play with, but in some ways I think I'm gonna try to take a A little bit of time in between things and, you know, hope that the market comes back and try to time things well with that.
+
+Speaker A: So slower, but no specific plan.
+
+Speaker B: I want to have a couple more like fx hash releases. I'm excited about like, you know, the first drop because now I've finally made like the jump into ETH. I am thinking about doing some one-of-ones on Foundation or other places. I think that I just want to kind of build out a presence there as well. And so just kind of do research on those and figure out what the best approach is with that. The last thing I want to do in a down market is flood with a bunch of Jeres stuff or whatever. But I don't have like a hardcore strategy. I think that for me, I'm like, okay, I'm gonna create something until I feel like it's ready and put it out unless it seems like a terrible idea. I'm just gonna kind of do that, continue that cycle because that's what I did last year. And while I don't think that I can at least as frequently, I do want to still feel like I'm producing what I want to be producing.
+
+Speaker C: I mean, there's definitely that tension there. You know, Alejandro really caveats his Twitter thread with the fact that he's not a full-time artist. It's a side project. He has a full-time job to, you know, pay the bills and all of that really great stuff that we love to do as people. I think there's 2 parts of that. One, it's the being able to release enough to support yourself as a full-time artist and taking the time to hone the craft, hone the perspective. And, you know, as you said yourself, working on something until you're really happy with it.
+
+Speaker B: Yeah. And that's really ultimately my goal. Like I'm implying that I'm going to like work and release and work and release, but I do feel like I mostly just want to be able to take time to myself where I'm not as distracted by, you know, the market or social media or like working with other folks. Cause I feel like that just gets me in my head too much. So yeah, just refine that vision and figure out what I, where I want this to go in terms of We should start working towards wrapping up the interview now.
+
+Speaker A: Here's one that we ask a lot of artists. Looking through your collection, you've been on fxhash for a long time. You've been collecting on fxhash for a long time. Are there any artists or projects that you want to shout out that you've enjoyed collecting that you feel are maybe undervalued or underappreciated, or maybe speak to a little bit of what you gravitate towards when you do collect?
+
+Speaker B: I'm always excited for what Melissa's releasing. Her texture and her color and her expression is just so, so wonderful. I mean, you know that I got like three spaghettis right away. I was so excited about that, and obviously, you know, Take Wing was just beautiful. I'm always excited at what Thomas Noy is doing. You probably know I'm a huge collector of Tyvek. There's there's so many folks that are out there that that I just look up to, and you know, like Marcelo and Andreas and Eric Swan. There's no particular project I want to like call out, but I feel like underappreciated, and and like it's not like you know she hasn't gotten a lot of like coverage, but like Ada Ada Ada, I just like love. her work so much. Even like her first collection, like I was obsessed with and bought all of the work in progresses that she put on Versum. I just love her approach.
+
+Speaker A: You mentioned Eric. Have you been curating any pieces for Fields coming up tomorrow on Verse?
+
+Speaker B: I have like 4 or 5 saved. I'm really excited about that. I'm probably gonna try to mint 1 or 2.
+
+Speaker C: 4 or 5? What? Only?
+
+Speaker B: I know. I was kind of saving that for— I try to like allot blocks of time in my life where I'm like, okay, I'm gonna stress about the Verse release for an entire week and not be able to do anything else. And then like, you know, that happened. I'm like, okay, I'm not going to do anything until I have this interview with WTBS. And like, I'm going to stress about that. So like, that's kind of scheduled for after this and on Wednesday. It comes out Thursday. I'm like, I'm planning to spend a few hours with it. I spent like maybe 20 minutes with it. I love the texture. I love the colors. And I feel like I've been kind of having more fun scrolling through the Tinder channel where everyone's dumping them in there and doing the research to show me the breadth of the algorithm. And now I'm going to spend some time and find the ones that I want, but I haven't spent as much time as I'd like to with it. I love it. You know, I'm such a fan of Farbteiler and Punktwelt that I just like, you know, I really want to get a couple of these.
+
+Speaker A: It's fun.
+
+Speaker B: It's very fun. Yeah, it's really fun. You know, I think that you were talking about this in the last episode that part of me just wants to hit the random button with it. You know, like I feel it's a very versatile like algorithm. Like I do still like the surprise of a mint a lot of times. And I kind of feel like I can't go wrong with it. So I think that I'm gonna be happy with any of them. It's really a great algorithm.
+
+Speaker C: I'll ask it every time. Who do you think we should interview next? It could be anybody, preferably within the generative art space.
+
+Speaker B: Yeah, I have a few people on this list next to me, and honestly, you know, Alejandro is number one on there. I think Alejandro was great. And other people would be like Bruce or Isma. Um, I don't think that you've talked to them.
+
+Speaker C: Not yet.
+
+Speaker B: Not yet. So yeah, please do. They're all They're also really lovely. I'd love to hear about their process. And have you talked to Yazid yet?
+
+Speaker A: No.
+
+Speaker B: No. Okay, that's another one, please.
+
+Speaker A: These are all artists who are definitely on our radar. So not anyone, unfortunately, that are in the books, but definitely candidates. So these are good to hear.
+
+Speaker B: And I have Iskra and Anna Lucia on here as well. Did you talk to either one of them? Did I miss those interviews?
+
+Speaker A: Anna Lucia, we did.
+
+Speaker B: Yeah, you mentioned that earlier and I was like, oh, did I? I must have missed it.
+
+Speaker A: Yeah, we were lucky to get her pretty early on in the show, actually.
+
+Speaker C: She's very gracious coming on to talk to a bunch of no-names.
+
+Speaker B: Yeah, and you already talked to my hero Lisa Worth. I love her so much.
+
+Speaker C: That was such a fun interview, and I know that she was one of the people who responded to about the Glassolalia piece itself. Yeah, about similar experiences. Yeah.
+
+Speaker A: All right, well, I'll do another rapid fire here, and I'm kind of interested to hear what your, what your answers are because you have implied a lot taste and love for music. Anything that you listen to while you code and any just recommendations in general for us on the music side?
+
+Speaker B: Yeah, you know, it depends on mood. I think, do you know NTS Live? Do you know NTS? Have you ever heard of that? It's independent radio. It's, they have a great app, they have a website, but it's just 2 streams. They're usually broadcasting out of like London or, you know, New York or LA. That's very eclectic. A lot of times it can just be like, you know, random like house music, but it will go deep into like other very like bizarre, you know, genres all over the place. Whenever I'm listening to that, I'm hearing music that I haven't heard anywhere else, even if it is just free jazz from Japan and like, you know, the '80s and '90s, you know, or '70s. And it's just, yeah, I listen to that a lot because it just goes all over the place and I feel like it opens things up. In terms of things that I'll loop all the time, because sometimes I want to hear things that I do know so I can focus, That a lot of times falls into shoegaze. So A Place to Bury Strangers from New York. I don't know if you know them. Moaning. They're an LA band, and I listen to Beyoncé a lot. So like that's you know. I mean the Renaissance record is just perfect. I can't imagine anything better. Panda Bear a fair amount. Starfucker is a vibe. It's all over the place. Sometimes it's just bossa nova for two days straight.
+
+Speaker C: You know, you gotta get your beat out of bops. Also known as The Girl from Ipanema. It's on loop in our house.
+
+Speaker B: It's great. It's great.
+
+Speaker A: All good recommendations there. Yeah, Shoegaze. I feel like that could be a good one. Just kind of like zone out and code to and get into a flow state, especially when you have like fond memories of the album and it's like so natural to you.
+
+Speaker B: Yeah, obviously Vapor Trails is a reference to that. Yeah.
+
+Speaker C: Do they still make Shoegaze? I don't know.
+
+Speaker B: They do. At least they did a few years ago. Like, I feel like in LA there are so many like Shoegaze bands. happening, or at least somewhere between post-punk and shoegaze. And Moning is my recommendation for that because they're modern and I feel like they picked up where that left off. Which reminds me of another band from San Francisco a long time ago called Weekend. They had an album called Sports, which is really hard to search for because Weekend Sports, but that's a really great shoegaze record. And also some Sondheim, some musicals. I love Merrily We Roll Along and Company. Those are on play a lot in my place. My cats love it. All right.
+
+Speaker A: I mean, I think that more or less wraps it up. We kind of covered what's coming up next. Usually we try to, we end with like having you plug stuff, but we've talked about Here and Now, Tender drop upcoming, possibly some one-of-ones. Anything else that's kind of in the universe that you want to preview?
+
+Speaker B: Yeah, I'm working on a number of things. I don't know exactly where they're going to end up, but part of me really wants to work on Something on ETH that's a pure Solidity contract that is delivering SVG directly so that there is no IPFS in the mix at all, whether that be using JavaScript or, you know, using actual Solidity to create the SVG rather than it just delivering JavaScript that then runs somewhere else. Some experiments there.
+
+Speaker A: Have you looked at that new token standard?
+
+Speaker B: Briefly.
+
+Speaker A: Yeah. I think it does some interesting things like you can set it up so that your contract accommodates the gas of the person minting. If you want to. So you can make it like lower friction, so you can like make it truly priced at like 0.05 or something if you wanted to. And people can just—
+
+Speaker B: that's really cool.
+
+Speaker A: Yeah. It comes with its own risks, of course. I'm sure.
+
+Speaker B: Right.
+
+Speaker A: I don't know how they, what happens if the wallet you have delegating the gas runs out. I'm not sure, but that's kind of exciting to see what people are going to do with that.
+
+Speaker B: Yeah. I need to look more into it. I'm curious. Yeah. I saw a couple of tweets about it and I was like, okay. I thought that was more just for a new way to kind of set up like wallets and kind of social Recovery and things like that.
+
+Speaker A: Seems like there's a lot with it.
+
+Speaker B: Yeah.
+
+Speaker A: What about the dreaded Art Blocks? Is that something in consideration?
+
+Speaker B: Yeah, I need to submit something to them. I would love to be on Art Blocks. I feel like that's going to be one of the focuses after all of these next drops is to be like, okay, sit down and come up with something that I feel that would live well on that platform. So if it can happen, great, but there's nothing right now there. Cool.
+
+Speaker C: Any questions for us? Oh yeah.
+
+Speaker A: Any questions for us?
+
+Speaker B: No, I'm good. Thank you so much for having me on though. I should have had some questions prepared.
+
+Speaker C: It's fine.
+
+Speaker A: It sounds like we might get to meet up in a little bit, so in real life, so that'll be fun.
+
+Speaker B: I'll try to be less awkward then. All right.
+
+Speaker A: Well, I think that wraps it up for this one. Jeres, thank you so much for coming on the show. I hope you enjoyed. I don't know if you did, but I hope you enjoyed the recording process with us.
+
+Speaker B: Thank you. No, I, I did. And I'm grateful. I'm grateful to be here. I think that I just get in my head too much, but I am so delighted to finally be on the show, even if I'm going to run to the roof of my building and smoke a cigarette immediately after this.
+
+Speaker C: Okay.
+
+Speaker A: I mean, that sounds like such an artistic thing to do, to be honest.
+
+Speaker B: So I was debating on whether I would smoke through the whole interview as well, but I don't want my apartment to smell like it.
+
+Speaker A: And your cats probably appreciate it too.
+
+Speaker B: It's true.
+
+Speaker A: That was Jeres, everyone. We're hugely grateful to have him on. Big thanks again for the poster collab. Super excited for everything that Jeres will be doing over the course of the year. Be on the lookout for the Tender Club. Be on the lookout for the Here and Now drop. All right, thanks again, Jeres. We'll see you all later.
+
+Speaker B: Bye.
+
+Speaker C: We're waiting to be signed.
+
+Speaker B: We're waiting, always. We're waiting to be signed.

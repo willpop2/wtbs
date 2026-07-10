@@ -1,0 +1,673 @@
+Speaker A: Hello and welcome to another episode of Waiting to Be Signed, a special interview episode. We're here with Price discussion, FX hash community legend, and head of memes as far as I can tell. Bayamese. Actually, I should ask you before we start, do you prefer Baya? Like, does everyone have the pronunciation right? Is it Bayamese?
+
+Speaker B: Uh, no. So Baya is fine. Um, but it's— yeah, but it's pronounced Bayamese. It's, um, it's someone that originates from Bayamo, Cuba.
+
+Speaker A: Oh, okay.
+
+Speaker B: Yeah.
+
+Speaker A: There you go. We'll start it off with a little doxxing there then.
+
+Speaker B: Yeah. Yeah. Well, I'm not actually from there, but my family's from there. I'm second gen, but yeah.
+
+Speaker A: Well, yeah, obviously we're here with Baya. Anyone who's ever been in Price Discussion ever knows this guy. And let's just start off with the typical question. Who are you? How'd you get into crypto, NFTs, generative art, and fx hash?
+
+Speaker B: You know, I'm Baya. I got into, I got into the whole sphere because of another community member, Conrad, you know, NemoCake. His name's Conrad on Twitter, so I'm sure it's okay that I say Conrad. But he got me into fxhash. He showed me generative art. It was really the generative art part that like, because originally when he explained it to me, I was kind of opposed because I wasn't aware of like the crypto situation at the time. Like I was very opposed to ETH. I mean, I still Well, it's not as environmentally bad, but that was my big opposition to it. And I thought he was on that kind of thing, but he showed me and I got into it a lot and I started collecting. He gave me like 5 tests to start and I made my way. I think my first mint was Antigen, I want to say.
+
+Speaker A: It's a Jeres project, right?
+
+Speaker B: Yeah, classic Jeres project.
+
+Speaker A: So you had basically completely avoided crypto on kind of like principle, like either ecological or just like it felt like scammy bullshit to you and you decided to stay away?
+
+Speaker B: Ecologically, I was opposed to ETH, but I didn't know something like Tez existed. I wasn't aware of like smart contracts and, you know, the difference between, you know, other crypto. I was just under the impression that PoW was like the main thing, I guess, you know, like Bitcoin, you know, you see the big fucking— oh, I'm sorry, the big— am I allowed to curse?
+
+Speaker A: It's your interview, man. You can do whatever you want.
+
+Speaker B: All right. Just double checking. I feel like I've never heard anyone curse. I was like, oh, wow. No, you know, you've seen those big, you know, shipping crates filled with like GPUs that are just like melting. And I was just like, I don't, I don't want to be involved in something like that. But yeah, Tezos is obviously a very different story. So I really fell in love with that concept and really liked the chain a lot. He also showed me like Versum early on because that right when I got into FXHash was like the same week, I think, that Versum like was created. And I remember they were having the like free mint. I can't remember what the name of the event was, but it was like everyone was doing a free mint that day on Versum to celebrate the week release or something. And it was crazy. It was super fun. I really enjoyed it a lot.
+
+Speaker A: That was fun. But like my conspiratorial mind thinks that entire thing was just like an engineered marketing. I mean, obviously it was a marketing thing because it was like within the first week of them doing it. But the number of artists who all of a sudden like seemed to know about Verse and have a drop ready for it was like suspiciously high for a brand new platform.
+
+Speaker B: I agree. I think everything is like conspiratorial. Well, not like in a crazy person sense. Sorry, let me backtrack. I don't wear a tinfoil hat. I just mean like in a market way.
+
+Speaker A: They're trying to start a business, so it doesn't make— it's not that far-fetched that they would reach out to a bunch of artists ahead of time and organize the event, but it just wasn't kind of like pitched that way. They kind of made it seem very organic. Is, I guess, what I mean.
+
+Speaker B: Exactly. Yeah, no, I feel you. Yeah. And I just really, I really like generative art because the concept of it was just so like, it really feels like I'm rolling the dice all the time. And I really like rolling the dice, you know, I really like getting a mint. It's not like even secondary buying, like I would much rather buy on primary because like, if I get that juicy 0.01% chance mint, that's like ridiculous, you know, it's a nice, it's a nice fun time.
+
+Speaker A: It's so interesting, like the dynamics and the way that's kind of ebbed and flowed over the course of the platform's history. I feel like everyone was just in it to mint early on. And now that the platform has matured so much and there's like, there's kind of like these, the striation of collectors, like there's people who basically never mint and they're just like cherry picking the best pieces from the secondary.
+
+Speaker B: Mm-hmm.
+
+Speaker A: And then there's the flippers. I feel like now more than ever, right? Like that. that tier of people who do the minting, it's like almost always owned by like the pure flippers. Yeah, but there is so much novelty, right? People want to mint stuff. Like people, there's like some attachment to the piece that you minted, even if it's not maybe the best output in the whole set.
+
+Speaker B: I feel that for sure. It definitely feels that way.
+
+Speaker A: So let's see, I'm trying to think then if your first mint was that Jeres piece and you came in around Verse, so you weren't really involved in like the November, December My memory is that you were like here when I got here, but maybe that just speaks to your stature in the community, you know?
+
+Speaker B: Yeah, maybe. No, I remember, um, it was like January 21st was like when I created my wallet, and I could have been in sooner at probably the time that you're talking about. But at first, me and my friends were like in this other Discord that we, we came out of because we were all originally playing RuneScape. Which is a little-known fact also. The OG OSRS group from like 2018 onward is that group of people that got me into FX.
+
+Speaker A: Hmm.
+
+Speaker B: But I didn't join when they initially started talking about it because I was like, you know, cryptos, NFTs, kind of like cringe, and I didn't know anything. And I also didn't want to like jump in on like getting all that, you know, knowledge and like getting like brought into this space and like feeling like it was like burdensome to like my friend to like ask him to like show me all this stuff. But he was, he was very like obviously open and like very wanted me to get me, you know, into it. So it worked out just a month late and a few mints missed.
+
+Speaker A: I used to play a ton of RuneScape back in the day. Yeah, I, I no-lifed really hard on RuneScape one summer when I was in school, college. And the girl I was dating at the time was like working in the science labs over the summer. And so I just like bummed with her in her dorm and didn't go home, but I didn't have a job. So I just chilled and like played RuneScape all day. Of course, when this would have been, this would have been like 2008.
+
+Speaker B: Damn, that was when— yeah, so the OG, the real OG, which is funny because I, I actually never played that version of RuneScape when I was younger. I played a lot of like Neopets and stuff. I also went through a pretty hard MapleStory phase, which is really random.
+
+Speaker A: I skipped that one. I played the TCG for a minute though.
+
+Speaker B: There was a TCG? What?
+
+Speaker A: Actually, maybe it never got released. I'm wondering—
+
+Speaker B: You got the unreleased TCG?
+
+Speaker A: When I had my first job, we— because the company that put it out was Topps, I think.
+
+Speaker B: Hmm.
+
+Speaker A: We were talking with someone there about maybe doing a game with them as a game design job, and I think like Or maybe one of our bosses was, and they came back from a meeting and they had like 2 booster boxes of it.
+
+Speaker B: What?
+
+Speaker A: And they were like, here, like, play, like, play this. And it was, uh, it was really fun. I remember it being really fun, actually.
+
+Speaker B: So that's tight. I did not know that they made that. That's pretty sweet.
+
+Speaker A: Yeah, RuneScape had some crazy— I ended up rage quitting basically because I don't know if it's still the case now, but back then when you died, you lost all but 2 items.
+
+Speaker B: Oh no, it, it depends on what like mode You can play, but because there are different things. There was no flow back then.
+
+Speaker A: It was just like, so I, I was doing a run and it was a run I had done many, many times. And like, I don't, I would just like, my micro was off and I misclicked on my food and I didn't eat it and I just got killed. And I went back and there was like something too about the way the game assigned value to the pieces. And it like gave me like my 3rd and 4th most valuable piece.
+
+Speaker B: And it like, yeah, yeah, yeah, for sure. Yeah. Super annoying.
+
+Speaker A: I was just like, I'm done. I can't.
+
+Speaker B: Yeah, no, it's so frustrating. I think between me, like Conrad and my other friends from that Discord, we've probably put in collective like a couple dozen years probably of like game time. Like that game, it's been a grind.
+
+Speaker A: My brother still plays. Last Christmas he was, him and his girlfriend were just playing. Every time there was like a downtime, they're whipping out the laptops and it looks so different. Like the, the UI, it's like so many windows now all the time. It's like, what are you guys playing? Like, this is not RuneScape.
+
+Speaker B: Oh yeah, no, we still play OSRS, like the old school version. We never played RS3. That's like what we were always on since 2018, because that's when it released was, I believe, 2018. And I never played it prior, but I fucking no-lifed the shit out of that game. It was, it was so good. It was like just the best thing to do when you're not employed and like, you know, like a younger person, you know, just hanging out playing RuneScape.
+
+Speaker A: So you joined in January. Your friend gave you 5 Tez. Did you ever like load up real money or have you just been going off of that 5 Tez this whole time?
+
+Speaker B: There have been events where I have, you know, to get like certain mints and stuff like that. But I think I've gotten everything back out that I've put in. I haven't bought any since, like, I couldn't tell you. I can't remember, to be honest, but it's been a long time. I just, that's why I miss so many things. I'm just like sitting there like, well, Nothing has sold yet, so I'm just gonna sit here and watch and make jokes about it.
+
+Speaker A: Okay, so this is one of the things I want to ask you about, which is kind of like your role in the community. So if you're, if you're basically here saying like, I'm so broke I barely collect, what keeps you engaged in the community? Like, I feel like you're always one @baya away from like being summoned into price discussion, you know?
+
+Speaker B: Yeah.
+
+Speaker A: I know you work, but like it's mobile, right? Like you have your phone, you see the notification come up, like you're very engaged with the community. You're always there cracking jokes and like entertaining people. What keeps you so engaged, like when you're unable to collect?
+
+Speaker B: I think it's just kind of like a fun little game for the most part in my brain. Like at work, it's like if I go to the bathroom and I'm just like sitting there waiting to go back to work and I am not doing anything else, then I can just go in there and make a joke or something and then just go back to work and not look at anything else. The engagement is just, it's just entertaining. Like, it's just fun. It's just fun to, you know, just like make jokes about stuff. I think like in general, I always kind of walk a thin line, I feel like, because I go behind saying like, you know, I feel like things shouldn't be so serious as far as like art goes and like FX and like things like this. Like, I don't think it should be so serious and like so serious that it gets to a point where it kind of can become pretentious. I feel like maybe. It's good to like have humor to break it down and, you know, to not take it so seriously. But there's also things that I think are very staunchly like unethical or like you shouldn't do this X, Y, and Z, right? I mean, you know, things like that. But it's a fine line between having fun, making jokes, and then keeping people entertained and just having fun. 'Cause it's just as entertaining for me to like say silly things and self-react to my things and share funny stuff with my friends, you know?
+
+Speaker A: Do you have like a background at all prior to fx hash in art, like either making it yourself or like just like study or appreciation?
+
+Speaker B: Not art as much as music. My father was a musician. I can play a good few instruments, but I don't play as much anymore. But I used to write music and play music a lot. I really wanted to be an audio engineer for some time, but Sometimes you just gotta know when you're not built for something. You know, there's just some things that, you know, you're born to do and some things you aren't. And being an audio engineer is one of them, cuz you gotta have a really, really crazy ear. Music was a big main thing. Art definitely played a role too. I really like a lot of like Eugène Gaultier, you know, impressionist stuff. I did spend a good bit of time like studying things like that. My mom was very, very into like art and things like that, but generative art, really hit the spot. It's just too nice. I'm definitely like a code maxi. I'm not really like super into image composition. I think everyone knows. It's not to say that it's bad as a whole. There are good things, but I'm just here for the code, you know? I'm here for that, that impressive tech.
+
+Speaker A: Do you have a take on like the new, more nuanced tag that's like between image comp and non? Like they added that one for the people who create like who use an image, but there's still a lot of code going on.
+
+Speaker B: Oh, like Mythic Latent Glitches?
+
+Speaker A: Yeah. Or a lot of the stuff that like Thomas Noya does, like pre-rendering stuff because you just can't fit it into the constraints of fxhash. So they have to— they're kind of forced to pre-render some of the stuff.
+
+Speaker B: I honestly didn't even know they added that, to be honest with you.
+
+Speaker A: But it's very new. It's called like—
+
+Speaker B: Dude, 61 mints on Divine Levels. Godspeed. That's 600. 10 does for charity, dude. Nice.
+
+Speaker A: They made the right move doing the charity on the contract.
+
+Speaker B: Oh yeah, for sure. I think so too. I think I wouldn't be as lightheartedly jokey about it if it was like primary to them, probably. But I still— yeah. Anyways, that's another— yeah, sorry.
+
+Speaker A: It just says pre-rendered components.
+
+Speaker B: I'm going to go ahead and decide right now. I like that. I think that's pretty sweet. Yeah, I think that's a plus.
+
+Speaker A: Yeah, I like it. I don't know if you listened to our Ivona interview, but it's kind of like—
+
+Speaker B: I did not. I should.
+
+Speaker A: Her and also like Thomas Noya and some of the others who work on the platform and AI, like they are like training their own models, right?
+
+Speaker B: Right.
+
+Speaker A: Their own photography and their own work product, which is what gives their stuff their own look.
+
+Speaker B: And I really should listen to that.
+
+Speaker A: It's probably our most educational episode because if you don't know much about AI, like we didn't really know that much.
+
+Speaker B: Oh, thank God, because I really don't. Like, I feel like we, we were just talking about this in the Byverse today about, um, I feel very uneducated and I'm not like opposed to it. I just don't know enough about it, I feel like, to make any sort of educated statements. So I need to listen to that. As a matter of fact, check that one out.
+
+Speaker A: And then we're potentially— we'll have Thomas on probably at the end of January.
+
+Speaker B: I love his work.
+
+Speaker A: Or early February. Yeah, his stuff is really cool.
+
+Speaker B: This thing, it's Emprops, the oracles. Did you see that?
+
+Speaker A: It just came out today, right?
+
+Speaker B: Yeah, yeah. I didn't mint any or whatever. I still don't technically understand it, but to my— what did he say here? He said, I like their pipeline of being able to have an FX-like token that then feeds the capture through a GAN or style transfer algo over the top. I am not intelligent enough to understand what that means.
+
+Speaker A: Yeah.
+
+Speaker B: But it sounds so cool.
+
+Speaker A: So I was talking to Thomas about this today. So there's the platform and then there's the artist who authored that project. So did Ira actually develop the model or is he just responsible for all the seeds that are associated with it? It's not, it's a little bit opaque. Like I'm not really sure. But it is cool that they made a platform where basically like you're live minting something that's coming through a model like that.
+
+Speaker B: It's very interesting. I really need to look more into it. I'm currently scrolling through it and it's a little spooky, but I do like it. This is very interesting.
+
+Speaker A: Well, let me ask you here, your fx hash persona is very chaotic, I would say, very humorous. Talking to you now for almost 20 minutes. You're pretty chill. I mean, I can tell that you have some humorous energy to you. Do you kind of play a character a little bit, like when you're typing? Like, I think everyone plays a character, right? Like, I play a character hosting a show. Everyone's always playing a character in different places, I guess, in their life. But like, how do you kind of feel about the character you play in Price Discussion versus like the person that you are?
+
+Speaker B: I very much like the person that I am in price discussion. I think right now it's a little bit constrained. Like, like earlier, like I didn't want to cuss because I feel like I've listened to a good number of your guys' episodes and I've never heard it once. And I'm like, hmm, maybe I shouldn't be a child. But I am very much the same way. Like, if you catch me in that, you know, in the BAYC server and I'm speaking like, or we're playing games, it's very much the same. I think it's just a little bit more constrained because I'm trying to keep all my thoughts in one place. I'm really baked right now. I'm trying to make sure all my eggs are in the same basket as opposed to people who invested on FTX.
+
+Speaker A: On the swearing stuff, well, I don't think we ever talked about it going into making the show. Are we gonna make this a clean show or anything like that? For me personally, I swear a lot in my just casual conversation. I've made other content like for Magic: The Gathering and stuff And just trained myself into withholding that for the sake of like not turning anyone off, right? Because you never know if someone's gonna listen to something or watch something without headphones, and maybe there's like someone in their family, a kid or an adult around that might take offense to it.
+
+Speaker B: Oh my God, I did not even consider that. Wow.
+
+Speaker A: I never wanted to alienate anyone, and I didn't think that it necessarily detracted too much from the personality. You know, maybe it makes me a little less funny on the show, you know, because I'm not like saying some of like the more wild things I might be inclined to say, like while I am like, you know, at the brewery playing Magic or something like—
+
+Speaker B: Right, right, right.
+
+Speaker A: But, um, but I don't think it hurts the content.
+
+Speaker B: I agree. I can see like people making that argument, but at the same time, like in this instance, if it's an episode that has me as like the subject, I feel like going into this, we, you know, You can do whatever you want. Like I said, you know, my last wallet name, it's, you know, there's definitely an aura, but, um, but I will try and still keep it down.
+
+Speaker A: So you've got your main wallet and then you have your side wallet, and the side wallet changes names often.
+
+Speaker B: Yes.
+
+Speaker A: What's the current name? What are some of your favorite names from the past? Why do you change it so much? Have you ever, for anything that you've said in price discussion or anything that you've named your wallet, been issued like a demerit or anything from a mod?
+
+Speaker B: That is a very funny question. I will answer all of these, obviously, but you may have to remind me of them in the middle.
+
+Speaker A: So it's all good.
+
+Speaker B: Reel me in by any means. So what was— can we recap first question again? It is about my alt wallet and current names and like favorite past names. Current name It's like 3 Zs right now because I was trying to do a better— well, this might ruin the surprise or the secret of how you do it. There's a way that you change your name to have as many characters as you'd like by using the smart contract. I was trying to do it on my phone and my wallet wouldn't connect because Kookai does not fix their mobile wallet, even though I email them and I DM them like 50 times. And if I comment under their thing, I get 70 bots asking me to connect my wallet to them.
+
+Speaker A: Yeah.
+
+Speaker B: You know, I couldn't do it. So it's currently sitting there as the 3 letters, but soon it will have a different name on there. It mostly comes just because I just think of things, usually under the influence, usually out of like boredom. It's just like funny. A lot of the times it's just like a creative outlet. Like, it's like speaking like just from my head without saying things or just making a joke in that like thing is it puts it as like, you know, you're putting it on a platform in front of people and it's funny, it's cool. Like you get a, you know, a sale and then, you know, people might see the name and then it's funny and then you get a little laugh out of it and then you can move on to something else. You know, it just puts it out there.
+
+Speaker A: You're like planting a joke and then waiting for it to kind of sprout into the sales feed. I think the interesting thing is that you can always tell it's yours.
+
+Speaker B: Yeah, 'cause there are definitely more than one. Yeah, there's definitely more people that do it now.
+
+Speaker A: But I feel like yours are pretty identifiable and definitely like the stream of consciousness, like beat poetry aspect to them. Like, I totally buy it that you just kind of like sit down and just go.
+
+Speaker B: Yeah, no, it's, it's definitely exactly like that. It's early, like 2000s shitposting. Like, um, it's like really heroic. Like, I'm in my early 20s, like I haven't hit the midway mark. Early on in my teens, like huge Young Lean fan, like huge like Chief Keef, like internet rap and like a lot of like internet shitposting, like things like that. And it very much shaped my humor a lot of like what it is today. And it definitely shows in like that, in that aspect. I think, like you said, it's identifiable for a reason for sure. It's a very stream of consciousness. It's very like authentic. It's really coming off the top. For the most part. The demerit part. Oh my gosh.
+
+Speaker A: Yeah, the demerit part.
+
+Speaker B: No, I've never been issued a demerit or anything like that. Yeah, no, as funny as that would be, as absolutely hilarious, I think that would be so funny if that actually happened. But I don't think— I don't even know if they've ever done that. Maybe they have. But I've never said anything like wildly offensive. Yeah. Or edgy. Like, I don't— I'm not like— I'm very, very, very far left on the political spectrum. Like more than like the normal person. And it's like, to a radical extent, but I'm not like a bigot, you know, I'm not gonna like say a slur. I'm not gonna just be a bigot, you know, I'm not gonna say anything wildly offensive or inappropriate like that. Unless I guess you like the police or like the military or something.
+
+Speaker A: But have you ever talked about that part of you publicly?
+
+Speaker B: I think it's pretty evident when I argue with people, like, because I do argue with people in PD sometimes, like, it's few and far in between. I feel like there was that one guy recently, I don't know if you were in PD at the time. He said, uh, Vitalik, I think, is like a libertarian.
+
+Speaker A: Vitalik.
+
+Speaker B: Or Vitalik, yeah. Yeah, he's like a libertarian. And he said something on Twitter a while back that was something along the lines of like equating like meth users to pedophiles or something like that. And he was like defending pedophiles. And McLlama made a joke, like posted the screenshot in PD because I was like, I never knew that he said anything like really wildly bad. He sent the screenshot and then this guy said, um, he is autistic, TBF, or something like that. You know, I obviously was like, that's not really an appropriate response. Like, it doesn't really matter, you know, not even just like from like a standpoint, but it's just like a random generalization. And he's like, context is important here. And I'm like, the context that he's bizarre, question mark? Because he said that he was exhibiting bizarre behavior. And I said, so it's bizarre. So it must be autism. I'm like, do you not see the line? You know, things like that. But I guess that's not really a leftist thing. There's definitely been other arguments I've had with people where I very explicitly showed that I was very far to the left socially. Like, I had pronouns in like my, you know, my Twitter username. I think people just generally could see that from what I say sometimes.
+
+Speaker A: I think I'm the only person in Discord who has pronouns in my Discord name.
+
+Speaker B: The only reason I haven't done that is because I just like my name looking like that on its own. But I do have it in my Twitter, I think, which is also a really pretentious thing to not have it in there for.
+
+Speaker A: But someone way back, it might have been like December, January, asked me about it and I was like, here we go, you know?
+
+Speaker B: Oh.
+
+Speaker A: But to the credit, and I think in general to the credit of the community at large, when I explained it, that even though, like, I myself am cis, but by doing this, I'm, like, signaling to other people, like, that it's safe to do it and, like, normalizing the behavior. They got it. They were like— they didn't change their name, but they didn't, like, call me a virtue signaler or, like, demean the behavior in any way, which was really surprising because I do feel like crypto is so full of those libertarian—
+
+Speaker B: Oh, yeah.
+
+Speaker A: Like, center-right to far-right types that want to meme on that type of behavior. And it's been pretty rare here, which is nice.
+
+Speaker B: It genuinely upsets me a lot. You know, I do see the direct parallel between my personal Twitter and the content that I see there and the content that I view on my crypto Twitter that isn't like just art, because I do have mutuals that are just like, I don't know who they are. They're just like people that I just randomly followed in the beginning of creating my Twitter. You know, you see people's likes and stuff. I don't know. It's so stupid to me. Decentralization is like the dumbest thing on the planet to me. And it's not decentralized. Like, what do you mean you want decentralization? Because it doesn't mean anything in the end. Like, you need to pull it out somehow and you can't do it without a centralized platform. And you won't get to that point because that's not how the world works. It really genuinely upsets me a lot. But like someone said recently, I don't remember if it was Tyler or Chris, I think in price discussion that said that they really didn't like that sometimes the aspect that we're tied down to crypto when it comes to fx hash generative art, right, in a blockchain. sense. It's like you're tied to it, but it's just a non-win situation.
+
+Speaker A: I think I generally agree with that. I would pull myself back one notch from you and say that I think a lot of the talk on crypto Twitter about the virtues of crypto are very exaggerated, or at least as they stand right now. A lot of crypto influencers blanket talk about crypto as being decentralized. A lot of chains are not very decentralized when you actually look at them. But there is virtue, I think, to the fact that like if Tezos goes to a penny, a bunch of us could just run our own nodes and keep this whole thing going without a corporation or anyone involved. The decentralized aspect of securing the chain defeats the need for a centralized corporate entity to keep the stuff going.
+
+Speaker B: Yeah, I can see that.
+
+Speaker A: That's rare under capitalism. If the profit motive of like owning Tezos went away, like if you were barely making any, if you basically lost money because of the electricity you needed to stake, which is negligible, but still, if Tezos went to zero, people like Punevyr who run a node, it would still be relatively centralized if there were only a few people, but a few people could keep it going out of their houses.
+
+Speaker B: That would be super tight.
+
+Speaker A: But that use case has never been proven.
+
+Speaker B: Right, yeah, we've never done that. Maybe we should do that when SOL dies and take it over.
+
+Speaker A: Well, that's the thing about Solana is it's very centralized. Like, you can't just become a baker in Solana or a steakhouse.
+
+Speaker B: Oh, JK, I don't know anything about that fucking— that awful chain.
+
+Speaker A: It's like a corporation that runs Solana, basically.
+
+Speaker B: Oh, really? That's weird. I still don't understand, like, Tezos. Like, who's Mr. Tezos? And how is he putting the big sign on the MLB things? Who's Tezos? You know what I mean?
+
+Speaker A: There's a Tezos Foundation that is separate. There is no, like—
+
+Speaker B: I'm joking about the Mr. Tezos.
+
+Speaker A: Mr. Tezos, his name is Arthur.
+
+Speaker B: Wait, for real? For real?
+
+Speaker A: Yeah, the founders, if you look them up, it's like Arthur B. and his wife. I don't know if they were married at the time.
+
+Speaker B: Arthur B., that sounds like a fake name.
+
+Speaker A: He's on Twitter and he tweets sometimes. He was just tweeting about this like scam that someone tried to run on Tezos recently.
+
+Speaker B: That seems pretty ethical. I mean, I know a lot of people have some sort of issue with— I don't know, I still don't understand the drama, to be honest.
+
+Speaker A: You can find a summary of it. As far as I can understand, the original conflict has been completely adjudicated. The aggrieved parties have been paid. Someone who invested, or some people who invested in the ICO, successfully sued the founders of Tezos for like Something related to like securities fraud. That's basically like everyone who starts a coin. Yeah, literally everybody.
+
+Speaker B: Sam Bankman-Fried is, is there, you know.
+
+Speaker A: I think it was something along those lines. You can find good summaries of it, but as far as I, I understand, that was like 5 years ago, which is ages in crypto time. So why would we still be talking about it? I don't know.
+
+Speaker B: The space moves at like a 50x rate, you guys. I was just listening to— I don't know which podcast it was, but you guys were just talking about how fast crypto space moves. And I was like, that is so true because the last year has felt like 3 years as far as I guess the crypto space goes. But real life has gone by in the blink of an eye.
+
+Speaker A: Wait till you get to 30, bro.
+
+Speaker B: It's— I'm slightly stressed, but not, not too stressed, I guess. I don't know.
+
+Speaker A: I can actually safely tell you my 30s have been way better than my 20s.
+
+Speaker B: I'm just stressed about the state of the world. Ecologically, we're in a pretty rough spot, you know. I don't know how well we'll fare into the near future.
+
+Speaker A: Hey, we got that, that fusion. We got that fusion this week. So who knows? That could be a thing.
+
+Speaker B: Hopefully.
+
+Speaker A: Let me pivot into another fx hash question here.
+
+Speaker B: Okay. Yeah, for sure.
+
+Speaker A: The evolution of the space is really fast. You've been a Discord community member for now almost a year. Like next month, I guess, will be your one year.
+
+Speaker B: Oh my God. That's so true. What the— I didn't even realize that.
+
+Speaker A: How do you feel things have developed on the platform, in the Discord, in the community? What's changed? What stayed the same, for better or worse?
+
+Speaker B: It is crazy that it has almost been a year and there's definitely been a lot of changes. I think obviously at the moment it's a little bit tilted towards the market side, but we are in price discussion. So fair. I'm not generally upset about it. I think it's mostly funny to make jokes about it. I never really take it too seriously as far as that goes, like talking about floors and like quote unquote shilling or, you know, talking about your favorite projects or whatever. It's all good. All good and great. Artists are getting paid and people are happy. Right now, yeah, just a little bit more market heavy, but we still have a lot of our old OG core members. I think the big thing about Tezos, like people have talked about, is the community, the chain, fx hash, HEN. It's been a very tight-knit, long-game thing. And obviously Tezos is under a dollar right now. People aren't really here for the crypto or that aspect of it. I think it's a healthy community. I think that we don't have nearly as many bad actors as other chains like ETH. Like, people were making that joke about Dmitry Chernyak saying that Tezos is a scammer's chain, which is just actually bananas to say, like, because of like ETH and like how there's so many, like dozens and dozens and dozens and dozens. I mean, no, that's wrong. I don't know why I'm using dozens as a metric. It should be hundreds, potentially thousands of projects on ETH that have Hundreds of thousands of ETH volume that are now worth like 0.05 ETH that are just like useless.
+
+Speaker A: I think that that comment was a little misconstrued. I don't think he said the chain was for scammers. He was calling the chain itself a scam and he was referencing the— that what we just talked about.
+
+Speaker B: I see.
+
+Speaker A: Someone said, what do you mean? And then he linked to like summaries of that case and the settlement.
+
+Speaker B: Oh man, people took that and ran with it. Oh my God, that's so funny. Oh my God.
+
+Speaker A: I didn't wade into it because he hasn't blocked me yet. And like, God willing, maybe someday he will release on Tezos and we'll want to talk to him.
+
+Speaker B: That's so funny. Oh my God. I mean, that's sad, I guess, for him that they did that.
+
+Speaker A: I also disagree with— because probably in terms of longevity, one of the longest lasting chains, like it made it through the 2017 crash. And it's like making it through this one, God willing, you know, like right now, we're trucking right now. So you feel like the community has just been strong. Like, you haven't— I mean, maybe the current conversation has shifted a little bit towards flipper talk.
+
+Speaker B: Yeah, I mean, and you know what, man, we all flip, you know, we all do a little market placing, we all do a little bit of selling, we all need to fund our potential future mints. Or sometimes you need to buy your wife or your girlfriend jewelry or a ring or something, you know, or you might need to pay taxes, God forbid. You have to pay taxes. I think the speculation is kind of a lot, especially when it's just like nonstop, dude. Like, it's funny to make jokes about it, like the Ty Vek thing, right? Which I know we're going to talk about a little bit more, but like, there's a lot of good jokes that come out of it. That's all great. And in the end, the artist is getting good things, right? And that's what makes me most happy about this whole system in general, is that artists can get paid like a livable amount from the art that they create and like the amount of time that they put into it. You know, there's plenty of Artists that we see in this space that live more than comfortably with the way that they've succeeded in the space that they otherwise may have not succeeded in traditional art or in the traditional art world, I should say. It's a really good thing to see and it's really great. And that's a huge diversion from the whole topic. But when it's going on for a really long time, it's just annoying. It's just like, it's just annoying. Every hour I'll open it and we're talking about the same thing and it's like, Oh, who's this guy? What about this? Oh, this guy's releasing this on this date. Maybe we should all buy everything he's ever made since the history of time. Which again is good, but when they're just talking about it constantly, it's just like kind of brain-numbing.
+
+Speaker A: You mentioned earlier you love to mint stuff. You love the lottery ticket vibe of maybe hitting a super rare piece. Do you have any big memorable mints that you hit that you were then able to sell for like a big windfall profit that funded you for a while?
+
+Speaker B: One that I really had good memories of was Sprocket Factory. I really love that drop. One, I love Ryan Bell. He's a great artist. He's a very nice guy. And he's pretty funny as well.
+
+Speaker A: He's a music guy too.
+
+Speaker B: Yeah, he's a music guy as well. He's just a really cool and like wholesome dude. And I really liked Sprocket Factory a lot. I managed to squeak out, I think, like 2 reserves on like both my wallets. And then I got I want to say I minted 3.
+
+Speaker A: Nice.
+
+Speaker B: I think I minted 3. I sold one, I think for like $160, and then I traded my red one, which was like my grail one. I traded it to my friend Ahmad, and I have a Seascape now for it and some other things like a Heat Death and something else.
+
+Speaker A: Oh, nice.
+
+Speaker B: Yeah, which is great. But I love that project a lot. It was a really nice— it was a fun minting experience. I got my girlfriend to mint. She's the one who minted my grail one. I think it was Sprocket 19, which is just like a crazy red iteration with like the kanji text at the top, right? It's really, really spicy. That was a good one, but not like for flipping. I mean, I got stuff out of it. Great project. You know, FX Apes was such a good minting experience.
+
+Speaker A: Oh my God.
+
+Speaker B: Oh my God. I love that. The FX Ape minting experience. That was something else for me.
+
+Speaker A: Did you sell them all?
+
+Speaker B: I only got one because I didn't understand very well how to properly like get in the block. And I just got fucking railed. Like, I remember it being like my first big one that I saw and I was like, oh my God, this is gonna be like huge. Like, I was like, that was like early on to when I was in there in the space. I feel like—
+
+Speaker A: I think it was February because I remember covering it on a really early episode and we named the episode after it.
+
+Speaker B: It was a huge thing to me to mint that. It was like my first mint that was like Crazy high on secondary. I did end up selling mine. I got like trolled super hard trying to see the— oh my God, this is so funny actually, now that I'm remembering this. Real ones remember when you had to copy paste the hash at the top of your URL to see the mint before the preview. It was before I understood how it worked completely. So I typed it in and I got like an iteration, but like there was a space in it and when it entered, it puts a question mark cuz it's like coded. And it was like a crazy— like, it had like RGB fur with like a Smolskull shirt and like the hat or something that was like a captain's hat or something, I can't remember. And I was like, oh my God. But it ended up just being like a pretty mediocre, you know, green background orange ape. And I was like, damn, this is kind of sad. But yeah, you know, that was a pretty good one. I can't think of any other ones right now. Let me look at my oldest minted.
+
+Speaker A: The iRyanBell, the Sprocket Factory, when that came out I called it the greatest transfer of wealth in FXHash history at the time because it was like, it was so cheap. It was like 5 tez. It was reserved out to people who had his stuff. I think I sold around the same range that you did, maybe even a little higher. Maybe it was like $225, but I remember people were spiking up into like the $300, $400, maybe even $500 range instantly on that one. Anyone who got one, it was just like so much free tez. Apes came out the week of January 30th. That would be episode 4 of the podcast.
+
+Speaker B: That was literally the week that I joined, or like the week after that I joined.
+
+Speaker A: There were some big releases that week.
+
+Speaker B: For real.
+
+Speaker A: Flockaroo's Mountain Moves, if you remember.
+
+Speaker B: Oh my God, yes.
+
+Speaker A: Jeff Palmer's Dissolution.
+
+Speaker B: Oh, I got some of those.
+
+Speaker A: And RevDanCatt's Overbombing Project.
+
+Speaker B: Oh, I got some of those too. I like those. Those are nice.
+
+Speaker A: Yeah, that was back when Everlasting Building was putting out a project every week. If you remember, like those rooms.
+
+Speaker B: I got a few of those at some point. You know what was another great one? The first T. Boswell, the first one that was on my radar was, I want to say Hydrangea and Patchwork was the first one, right? Or which one was the first one out of the two?
+
+Speaker A: I actually don't know.
+
+Speaker B: It's Hydrangea and Patchwork. I got it. Yeah. Hydrangea and Patchwork was like the first thing that I saw from him and it was like a free mint. And I remember that day, like Petey was going crazy for it and it was like, Super cool. Like, it wasn't like crazy like expensive or anything, but like the art was really, really nice and like refreshing and everything looked different and people really were talking about a lot and it was just a really fun minting experience. And he was also in the chat at the time, which I know isn't necessarily very uncommon for artists because there are a lot of artists that do come into PD and talk and stuff. It's definitely like a more connecting experience to talk to artists when they release their projects and stuff like that on PD. That was the first time I ever interacted with him and he was making a joke about something I said, which is always a good— like, it's a good indicator when an artist makes jokes because like, you know, in traditional art there's a lot of pretentious people. There's a lot more invalidation that goes on due to like that idea of their art or their art style or sense of design is better than yours. And you don't get a lot of that in the space. Like you don't get a lot of people who will release something and then be like, the biggest douche like on the planet afterwards or anything like that. Usually they're very humble, nice people, and when they can joke, it's a huge plus. Like Landlines, he makes jokes all the time. Funny guy. Leander always makes jokes. Funny guy. He's a great artist.
+
+Speaker A: Did you listen to his episode?
+
+Speaker B: Yes, I did. I was listening to the other day. He's a great guy. I really love his art a lot, and a lot of my friends are good friends with him and say he's a really funny guy, you know, like Ciphrd, I hear is also very funny. Just funny people. It's a good indicator. I think it's positive. I agree. That was a huge diversion from the original topic. I think—
+
+Speaker A: I don't even remember what the original topic was.
+
+Speaker B: Me neither. That's how we got here.
+
+Speaker A: You're just talking about some artists. So who do you like to collect? Who are some of your favorites in the platform? What are some of your favorite pieces? And like, who do you like look forward to when you have the tez to mint? Like, who do you really look forward to dropping?
+
+Speaker B: I'm a huge fan of all of my friends who I I talk to most because they're also really good artists. You know what was super fire? The most recent Exalted piece of Garda is so cool. I love that piece. And Exalted's progression has been so nice. I'm a big fan of them now. Tyler T. Boswell, huge fan. Who, my guy, humongous fan of Who and Gradient Descent.
+
+Speaker A: But Who doesn't release that often.
+
+Speaker B: I know, but I, I'm always looking forward to his releases. I can't stress enough, 1 Hour was so good.
+
+Speaker A: Yeah.
+
+Speaker B: It's so underappreciated, the whole concept of it. Like, you know what's so upsetting to me? 1 Hour is a perfect example of a project that, like, people probably bought and, like, flipped this project, like, a million times over and never even bothered to open it in live view or, like, press play or, like, read the description of it and, like, what it's about. It's so interesting to me if you've ever I don't know if you own one. If you've ever watched it in the real time, in that 1 hour, 60 minute slowed time, that's the actual hour of the heart. It's so nice in the background. If you have like a second monitor going in the background, it's really nice. I wish that little display monitors didn't cost $34,000. That would be pretty sick.
+
+Speaker A: Yeah, give it a few years. Do you know the story behind this one, considering you're kind of friends? Like, what inspired this piece?
+
+Speaker B: I don't remember. I know we talked about it one night while we were just like hanging out. I remember he said that he was just really deep into the, um, I can't remember if he said he, he took a book out from the library or he actually bought one, but he like studied about EKGs and like understanding like what happens in them and stuff like that. And he very intensely geeked out, as he said, if I remember correctly, over the concept and like figuring out a way to like create it and put it into an artistic style. He could definitely explain it a lot better himself.
+
+Speaker A: I was just curious if you knew if it was like inspired by a personal event. I remember when this came out, I really wanted to get a couple. I minted one and then it was gone. I wanted to like give one to my brother who has had like multiple heart surgeries in his life. And it also like always reminded— it reminded me of this like weird thing that my grandpa did. He randomly got hit by someone on a bicycle in New York City when I was like in 3rd grade.
+
+Speaker B: Oh my God.
+
+Speaker A: And I think it like triggered— I'm trying to like my childhood memory, it like triggered a heart attack. And so he, he went to the hospital and got like a bypass or whatever you do for a heart attack. But he was fine. He got out, he lived for like, he's actually still alive. And he gave me this like big long sheet of like receipt style paper that was like an EKG.
+
+Speaker B: Yeah.
+
+Speaker A: It's like kind of a weird thing to give to like a 3rd grader. It's like reminding me of that, but it feels like a personal project in a way.
+
+Speaker B: I definitely think that there is that element to it. I wish I remember more clearly the conversation about Because I just forget things like within quite literally like minutes. I remember him telling me about how excited he was about like figuring a way to work that in and like his thought process behind it and how he geeked out over, you know, the concept and studying it. I'm a big gradient descent fan. I'm really into this style of art. I'm very into like Leander. I'm a big fan of like Aglow.
+
+Speaker A: Oh, yeah.
+
+Speaker B: was really, really good. I'm really into that style. Loren Bednar, I really like a lot.
+
+Speaker A: We gotta start the Loren Bednar Appreciation Club because I feel like his stuff does not get the respect on fx hash. I actually don't know what I like about it, but it's like so cool.
+
+Speaker B: It's the style. I think he gets the appreciation from like the people that kind of like in the same way that Nudoru has like that group of people that like appreciate his work and like It's pretty large scale now, I feel like. Like, his work is valued pretty well. Like, he mints out at 20 Tez when Tez is like expensive. I think that his work and his style is very distinct and it attracts like a very specific group of people. And then there's also just like flippers, of course. But big fan of his work and he's very funny. That was the other thing. He's a very funny guy. Another huge indicator, another big icon of being funny and being a good artist.
+
+Speaker A: And he hasn't released in a while either.
+
+Speaker B: I know. I'm convinced his next release is going to be a stealth drop. He's going to do it. I know he's going to do it. And he's just— I'm— this is me coping. This is just coping. Yeah.
+
+Speaker A: Or maybe he could be working on like an Art Blocks thing or something. He could be just like in monk mode because he has some stuff over there. Like his stuff on ETH is like far more expensive than the stuff on FX Hash.
+
+Speaker B: I didn't even know Loren had things on ETH, to be honest with you. Yeah.
+
+Speaker A: It's different too. He uses color.
+
+Speaker B: Oh my God, this is so cool though. Yeah, this is sick. Parade. Oh my God, what is 400 minted? How much are these? This is expensive.
+
+Speaker A: You might need to sell some of that girlfriend jewelry.
+
+Speaker B: Yeah, I guess so. But super sick. I just really like these kinds of animations a lot too. This is exactly what I'm talking about. These, these kinds of animations are so nice. I'm a big 8-bit enjoyer, big pixels moving. guy, you know, we do a little bit of pixel enjoying.
+
+Speaker A: So is that the type of stuff that you're trying to teach yourself? Like you mentioned a little bit before, and I think you've mentioned like in passing in price discussion, working on your own coding, like is that to create art?
+
+Speaker B: Yeah, I also want to do coding as like my career. I currently just sell insurance, which is very lame and not fun, and I do want to do like front-end development like as a career. That would be really nice, but I very, very heavily lack motivation. A lot of time. It's very difficult. And I also like work, you know, 8:30 to 5 every day, and it's hard to not be tired. And I entertain PD for free, like I don't even get paid for that. And it's just a lot, you know, and I don't have time to always sit there and code if I'm making jokes.
+
+Speaker A: Yeah.
+
+Speaker B: But yeah, it is to make art. Sorry, I completely diverted. It is to make art. I'm very interested in plotting works, SVG stuff, but I'm really bad at vector math. I failed every year of math in middle school and high school. I am just not good at it. I'm an English person. I'm a writer. I considered doing, um, writing generative art stuff like Ross Goodwin Wave was coming in hot.
+
+Speaker A: Yeah.
+
+Speaker B: Big Ross Goodwin fan, by the way. I considered it, but I was like, uh, I don't know. It's not really like what I'd want to do for real. Like, you know, I, I would prefer to do things like the SVG thing. I'm interested in abstract art. I'm interested in a lot of like 8-bit things like that, like pushing pixels around quite literally, like even just as a base concept, just pushing pixels around like gradient descent, just things like that. I'm a big fan of like, you know, like Heat Death was like the actual code for it was so short. That's so impressive to me. I'm very much interested in that. I don't know if you follow like KilledByAPixel or certain other people on Twitter, but they post like their—
+
+Speaker A: The little tweet-length code Twitter.
+
+Speaker B: Yeah, the— that's crazy to me. Using vanilla JavaScript, they make a whole FX project in a tweet and I'm like, okay, I get it. You are cooler than me. That's great. Thanks.
+
+Speaker A: I think JavaScript, from talking to artists and learning a little bit about it, I think it kind of has this like mixed reputation of being like really, really janky on the one hand, but because of it, it's capable of doing things like that. Like you can get a lot out of it in a very compact form. You know, I, I tried to learn some at the beginning of the year when I was making those like early Waiting to Be Signed projects, and my code looked nothing like that stuff with like just like, just like letters and arrows.
+
+Speaker B: And yeah, I was like, what am I looking at? Like, I don't know, it confuses me pretty hard.
+
+Speaker A: I don't think that's the way to start for sure. You just gotta just load up the p5 library and—
+
+Speaker B: I know.
+
+Speaker A: Or use some of the other, like there's some that more like pixel art oriented. Um, I forget what it's called, but there's like similar libraries like p5 that I think are good for pixel stuff. You must like Kim Asendorf too.
+
+Speaker B: Oh yeah, love. Oh, you know who else? There's this person that I recently also enjoyed that reminded me of Kim Asendorf. I want to say it was like Angel Fire. What was this project called, man? They used like emojis and, and shit in there. Um, I'm sorry, um, I'm never gonna find this. Hold Hold on, I'm sorry, I'm gonna divert here for a second. I hope you can edit this out. Hold on a second, I absolutely need to find this. Um, oh, Rush Gush Blush was so, so neat. I'm a big fan of that. Oh my God, this was great too. Open Space by 3D Manatee. Best FX.
+
+Speaker A: Oh yeah, I saw you had a lot of those.
+
+Speaker B: Love them. I swept the floor after— I didn't get to mint them at all, which was very sad for me. So found it. Okay, this is it. The project is called Angel Fire. I still don't understand the Relationship between Lowcode and Asterly. I believe that there's, I think maybe in like a relationship or something. They're like a pair, I think, and they make stuff together, but like Angel Fire is so good. It's still mintable.
+
+Speaker A: Wow.
+
+Speaker B: And it's only 5,000. I just realized I should mint more of these.
+
+Speaker A: They use Hydra.
+
+Speaker B: It's very interesting, but I'm a fan of that. And Ethereal Data Circuits was cool. It's kind of just like a little bit different, but yeah, things like that. I'm a big fan of Glitch Art. I was very into, you know, TAC released something on fxhash, I believe. Well, but only 2 things, and I think both of them are like PFP things, but Taxwork is good on OBJKT. Glitch Art stuff is very cool to me. Just again, that early, I think 2000s internet phase shining for real.
+
+Speaker A: Those are all good names. Some that I'm not so familiar with too, which is good. Is there anything else you wanna cover?
+
+Speaker B: I did wanna ask you about the Magic: The Gathering. You and Trin both have a background Magic: The Gathering, correct?
+
+Speaker A: Oh, hell yeah. Yeah.
+
+Speaker B: Is that like coincidence, or you guys came to this space together from Magic: The Gathering?
+
+Speaker A: No, no, it's, it's not coincidence. I mean, it's the foundation of our friendship dating back to college.
+
+Speaker B: Okay.
+
+Speaker A: Yeah, I was a senior when she came in as a freshman. We went to a really small school, and someone in like the daily or weekly email put like a trying to start a meetup Magic: The Gathering group. And we hung out with that group a couple times, but we really did like not vibe with the other kids. They were kind of more like D&D style nerds and we're, we're more like, I don't know, we never did any of that stuff. They were like, just like kind of excessively nerdy before it was cool to be that way.
+
+Speaker B: Yeah.
+
+Speaker A: We just kind of like cleaved off and did our own thing. And also like, they were not like, we were much more interested in like the professional side of like the semi-professional side of playing and like traveling around and going to big tournaments, and they were kind of more on the casual side of playing. So we just did our own thing.
+
+Speaker B: And then— Filthy casuals.
+
+Speaker A: Yeah, they're too casual. We also kind of got in trouble because the guy who was trying to organize the club spent some money to get a box of cards, of boosters, so we could draft, where you like open the boosters and you build your deck out of the cards, like Do you know what I'm talking about, or is this all just like—
+
+Speaker B: I've never heard of that. No, but that sounds really cool. But I'm not in the scene. I was just curious about that. So that's news to me. But that sounds—
+
+Speaker A: so the story is like gonna go nowhere if you don't play. But basically, the TL;DR of it is that like, we knew the values of the cards and they didn't. And so you're kind of passing the cards around and like picking. And like, we just picked all the really valuable cards.
+
+Speaker B: That's not even a big deal.
+
+Speaker A: The guy who organized it at the time, he like I think he didn't realize. And then as we left, he was like, wait, how come like everyone who I know like has all these trash cards? Like, where'd all the good cards go? And we're like, later, you know, like it's—
+
+Speaker B: You're not even cheating. You're just being smarter. It's not even—
+
+Speaker A: But you know, it's one of those things that I wouldn't do now as someone who like has a job and yeah, getting a $20 card in kind of an opportunistic scumbag adjacent way is not like the type of thing I would do now. Like, for sure, for sure, it would occur to me, but I wouldn't do it as like someone who's 38, you know? Yeah, yeah. I'm not like trying to like burn social equity with people for like a few dollars, you know?
+
+Speaker B: That's fair. That's very fair. That's funny.
+
+Speaker A: But I'm 19 and I'm like, yeah, I need these cards and they're valuable. $20, you know, like real valuable.
+
+Speaker B: That's 20 Hot and Spicy's, bro. That is like—
+
+Speaker A: Exactly. Trinity's thing was like There's not very many women who play. And so often when we went to play in like even medium-sized tournaments, she would be the only woman there.
+
+Speaker B: Ugh.
+
+Speaker A: People really underestimated her, and they would start kind of like showboating a little, or like— you play poker, right? So you know, like tabletop.
+
+Speaker B: Yeah.
+
+Speaker A: They'd try to read her and think that it's obvious, like, oh, like the way that you're playing, like, I know you have this, like, I'm not gonna do that. And like, they would just like make all these assumptions and I would be like watching her and she just have like absolutely like none of the cards that they think she has. And they would be like making all these horrible mistakes. Like they would be really like overplaying the situation and just like lose the game just because they kind of assumed that she was like not a good player, you know?
+
+Speaker B: I would have loved to have seen it. Yeah, that is, that is cringe of them. I, I can imagine that it's not a fun space to be in as a woman, like at all, like even remotely close. Like I wouldn't want to be associated Just because of that. She stuck with it.
+
+Speaker A: I mean, she loved the game and like, you know, mostly we played like just us or with our friends. It was like only when we would go to those like bigger events, I think when it was a little more, not really necessarily hostile, but like definitely not comfortable, you know?
+
+Speaker B: I definitely could see that. Do those events smell as bad as Smash events smell? You know, like Smash Bros? I don't know if you've ever been to one of those.
+
+Speaker A: I haven't been to any of those. I'm familiar with Um, the furry who's really good, the world champ. Um, what's his name?
+
+Speaker B: What? The world champ of Smash right now is a furry? Wait, who is—
+
+Speaker A: I think so. Maybe it's Street Fighter that I'm thinking of.
+
+Speaker B: Oh, SonicFox. Yeah, yeah, SonicFox. I forgot about this guy. Yeah, he was— oh my God, yeah, he is a furry. Wow. Yeah, the more you know. Yeah. Um, Smash events smelled so bad. I, I truly did not know putrid odor until I walked into a Smash event.
+
+Speaker A: Usually they'd be in big convention halls that were like, at least to me, well ventilated enough that it wasn't like crazy. Trinity also, like, again, being one of the few women there, had the luxury of like having the women's bathrooms all to herself. The men's bathrooms have become pretty bad over time.
+
+Speaker B: Oh my God, that's so fucked up. Oh my. I also wanted to ask, what art do you enjoy collecting the most? Or I guess I'd say, who's your favorite artist? Because I'm not super familiar With your tastes.
+
+Speaker A: We actually just recorded today and we did our top 10s of the year, and that'll come out. But my number, my number 1 right now has to be Jeres.
+
+Speaker B: Yeah, I'm such a big fan.
+
+Speaker A: I've been collecting their stuff probably since January and just watching the entire arc of the releases over the year, all the little breakthroughs, Vapor Trails and like, um, attachments, like all those projects that like kind of blew up But then didn't like go crazy. And then like Coronado now being like my favorite. I love that project.
+
+Speaker B: Yeah, banger.
+
+Speaker A: Another artist that I really, really like that you probably would like if you haven't checked them out already is Agoston Nagy or Nagy.
+
+Speaker B: Let me see. I don't believe I have. Let me check.
+
+Speaker A: Check out Turing. Check out Kernel, their most recent one, which is still open for mint.
+
+Speaker B: Like so much of their stuff is still open for mint. Oh, I minted Turing. I had one of these at one point. Let me look at their most recent thing estimation. I remember Turing. That was fire.
+
+Speaker A: If you look at Kernel, the one before this, and like Nil, all of their stuff is like animated. It actually has an audio component to it too. Um, I kind of feel like if you like—
+
+Speaker B: Oh, this is sick. Yeah. Oh yeah, I do like this. Oh, what a good recommendation. Thank you.
+
+Speaker A: And it's just like totally disrespected work too. Like, you can, you can get in really cheap right now.
+
+Speaker B: I've changed direction. I do want to do Like a cellular automata project is like my first thing, I think. Like, I, I definitely changed. I've been just like super fixated. I feel like, I feel like I'm having like an ADHD fixation over it. I don't know, I'm just like super, super, super interested in the way that it works and like looking at all the rules. I really want to read that. I'm not going to read the whole thing, but a lot of that Wolfram book that he made about all the rules.
+
+Speaker A: Oh yeah.
+
+Speaker B: And I don't know, I just feel like I I've never been interested in math and things like that. I've always been really bad at it. I really wish that I could be a lot better at it, but it's very interesting to me, and I do really like a lot of those things. And I like reading about things like, you know, like a Ulam spiral and, you know, these things that you can see, like, you know, math and nature, right? You know, things like that. I think it's very interesting. I think Zancan makes a point of it a lot too, talking about math and nature and how, like, you know, code in nature, tech in nature, math in nature, right?
+
+Speaker A: Yeah.
+
+Speaker B: It's a big thing. But yeah, I've just been fixated on that, and I was just fixated on it more because of that project.
+
+Speaker A: In a way, I mean, as much as I kind of, I think, have a reputation for like hating on the naturalistic stuff, like the trees, mostly because of the preponderance of them on the platform, but they do also kind of make sense as a subject for actually like computer art because there is so much math involved in something like that that's formed from cells and like cells dividing and placing themselves and like the fractal nature of all that. Like, it actually does kind of make sense thematically, but it just, it just annoys me how many flowers and trees we get.
+
+Speaker B: I know, but you know who's done it the best? Nat Sarkissian for Bardez.
+
+Speaker A: Bardez, yeah.
+
+Speaker B: That's a project that I don't have that I want most besides maybe Control. Yeah, and it's a lot more affordable than Contra, but gosh darn, is that project something else. I really, really love that a lot.
+
+Speaker A: Yeah, the impressionistic take on it, right? And like adding the painterly style to it is really nice.
+
+Speaker B: I just love impressionism. I think I'm a big impressionist guy.
+
+Speaker A: Do you like the current wave of paintbrush style, like recreating the brush strokes that we've been seeing in some of the projects?
+
+Speaker B: Yeah, I like it a lot. I think it's interesting because you get to see all the different ways that people do it and the different ways that they see it. You know, I think Nudoru especially has a lot of very interesting takes on brushstrokes and things like that. I'm a really big fan of it though. I do like the diversity. Like I said earlier, I'm very into uniqueness in the space right now. I think just generally, I mean, even like, you know, Landlines' Project Destruct on object with burning the text.
+
+Speaker A: Yeah, I have one of those.
+
+Speaker B: It's so cool to me. Like, even— and you know what he did also with 8BitDo with that token where it was all randomly generated? I can't remember how much it was, but I have one of them still on my 8BitDo and they were all randomized via like a custom— I don't know, it was crazy. It was so cool. I was like, this is impressive. And I'm a big fan of things like that that just are different. I think it's very important to set yourself apart from others if you want to succeed.
+
+Speaker A: I think it's not necessarily immediately rewarding, but I think in the long run it's gonna be rewarding.
+
+Speaker B: There's things that will release that get hate a lot early on, but in time people would realize how good they are, you know what I mean? A lot of music is like that, you know? Like, there's a lot of artists that will release something that just sounds so awful, but then you like listen to it like 3 years later and you're like, this guy was on to something.
+
+Speaker A: We can't go down this rabbit hole now, we're too deep in the, uh, And yeah, yeah, start talking weird music. We need to start wrapping it up for the sake of time. Sure. I think one last question, and I want to know from you— it's very topical, it's hot, hot one. I need a non-copypasta theory from you about Ty Vek, if you have one to offer.
+
+Speaker B: You know, I don't know. I, I haven't done any of the investigating that people— that other people have, because a lot of other people have done a lot more You know, investigating just in general.
+
+Speaker A: Mm-hmm.
+
+Speaker B: I genuinely don't know. I mean, I really don't. I genuinely don't know who it could be. I haven't put a lot of thought into it because people were talking about it so much that it made my brain hurt for a while. And I was like, all right, guys, did anyone see a cool bird today? Maybe. But I do think it's very neat and interesting. Like, I really like what Tyvek did with the— with Art Basel, with the little tickets of unique tokens. It was just very cool. And I do really like the concept and everything. I think it's very interesting. And it's very much like, it really shows a lot about the community and like the mix of like the market and community aspect, how it works, right? And like, you can see it like, I don't know if you remember, I think so. Who mentioned typing in PD when we talked about it?
+
+Speaker A: I think it was me, actually.
+
+Speaker B: I think it was you. I was like, was it you? Yeah, typing is like just the perfect example of like the same kind of thing. I don't think we ever found out who this was. I think they just took the Tez, if I remember correctly, and just like withdrew it.
+
+Speaker A: Yeah, I, I remember that the big leading theory at the time was Abash.
+
+Speaker B: Yeah, I do remember that too. I think it's just very interesting to watch that dynamic play out though, the speculation and stuff. And I think it's fun, uh, too. And I think it's fun to make jokes. Like I said, I think there's so many funny things that come out of it. I think that the thing with Light Tyvek, uh, what is it?
+
+Speaker A: The one that went up today.
+
+Speaker B: Yeah, the one that went up today. Yeah, Lytek von Uten. I, I think that the reactions from both sides are pretty funny, but that's probably just because I think it's lighthearted. And I think Tyvek also said that he's cool with it. I think he was happy. And he also encouraged PixelWank. This is PixelWank.
+
+Speaker A: Yes, correct.
+
+Speaker B: Yeah, he, he was like, you know, up your percentage or something on it, which was nice and all, but I think it's funny. I think it's cool, but I don't— yeah, I don't have any— I don't have any thoughts. I know my friends do, but I, I don't think I read the messages because I just kind of— I don't know, I was focused on something else at the time, I think. But I'm excited to find out. I don't think we'll find out for a while though, because I think he's going on a hiatus.
+
+Speaker A: So, um, that's what it sounds like. Yeah.
+
+Speaker B: Yeah, we're just gonna have some speculators, which is gonna be all fun. I— maybe it's Rudxane.
+
+Speaker A: Yeah, I've heard that theory too, uh, more recently.
+
+Speaker B: I don't know if it's very valid. Like, I don't think that his art like resembles it or like, you know, nothing really alludes to it, but I just feel like it's Rud. I just feel it in my bones.
+
+Speaker A: All right. So now you're on the record. That's your guess. I like that.
+
+Speaker B: I would say T. Boswell if I didn't talk to him like every other day or every day.
+
+Speaker A: Yeah. Do you want to close? Do you have any parting thoughts? Anything that you want to— any messages you want, or do you just want to wrap it up?
+
+Speaker B: No, I don't. I don't really think any— anything too crazy. I appreciate you having me on. It's been a great time. I hope everyone else enjoyed. Definitely not as chaotic, probably just because, like I said, just this new setting. If there was some sort of podcast that occurred in the BAYC as we did things, it would definitely be a different story. But, um, but yeah. Any ideas? Yeah, you guys were talking about doing a league, a league podcast or something like that. I was like, You guys should just do that in the Binance. But I don't remember if— I don't know if you guys—
+
+Speaker A: Someone was trying to invite us to like come play League of Legends with them and record it or something like stream it. Yeah.
+
+Speaker B: Oh, I can't remember if it was Maxwell White.
+
+Speaker A: Oh yeah, maybe.
+
+Speaker B: It might have been Rocky or maybe Who. I can't remember who was invited. Oh no, Who definitely invited Trin to play League at some point. I think they might have actually played recently.
+
+Speaker A: Really interesting.
+
+Speaker B: I think so. But yeah, that, that You know, maybe so.
+
+Speaker A: I can't play anymore. I have like boomer APM now. I can't—
+
+Speaker B: Boomer APM. Yeah. That's so funny. Oh my God, that is hilarious.
+
+Speaker A: I definitely have noticed that. Like, I started playing that game with my brother and his younger friend and his friends, and he's like 8 years younger than me. And when I was under 30, I could keep up with them. Yeah. You know, I could get to gold and platinum and like actually like rank up a little bit. Right. Every few years as I came back to the game and like tried to reacclimate and get into it, just so— just can't, just can't do it.
+
+Speaker B: Sometimes it's like that, man.
+
+Speaker A: Yeah, intellectually I totally like get it and it's just like the execution side, just like my nervous system is shot.
+
+Speaker B: Yeah, it's hard to keep the, uh, the motor functions up. Like I, I have like a fraction of the gray matter that I had at 18 probably, I think, and I'm only like 20 before. So, you know, it's, it's really something else.
+
+Speaker A: Well, those are prime gaming years. I hope you enjoy them.
+
+Speaker B: Yeah, I appreciate it a lot though. I, I, uh, I hope you have a good rest of your night as well, man, and thanks a lot. Yeah.
+
+Speaker A: Thank you, BAYC, for coming on the show. I'm glad you were down to do this. I think at the beginning of the show I thought we would talk to way more people from Price Discussion and like kind of make it more of a community-focused show, but partially because I thought a lot of artists would say no to coming on. But like surprisingly Virtually everyone says yes, and like we just kind of went the artist route. But I feel like it was the right time, especially, you know, now like the show's like a year old, the platform's a year old, like it feels like time to start honoring and treasuring like the community a little bit more. So you seem like the obvious first pick, man. It was really cool to talk to you.
+
+Speaker B: Yeah, I appreciate it a lot, man. Thank you. That means a lot for sure. I definitely don't think much more of the jokes that I make. I feel like sometimes it's just a drop in the pond, you know, because I, I'm not gonna lie, there's a lot of shots that I take in, in the form of jokes, and a lot of them don't land, but that's okay. And it makes it a little bit funnier because when the joke doesn't land, it's like, all right, I'll self-react and we can move on. Try again next time.
+
+Speaker A: Good words to live by. Thanks again, Baya. Glad you can come on. That's it. That's the definitive canonical Baya Mesi.
+
+Speaker B: Baya Mesi. It's okay. You're good, Baya.
+
+Speaker A: Interview there. I hope you all enjoyed. We'll be back again soon with another one. Until then, later everyone.

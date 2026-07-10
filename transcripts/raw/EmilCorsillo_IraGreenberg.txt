@@ -1,0 +1,435 @@
+Speaker A: All right.
+
+Speaker B: Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're here with Ira and Emil from Emprops. Emergent Properties, the generative AI platform that made a big splash around the end of the year. And of course, Trinity is here as well. Hey everyone, how's it going?
+
+Speaker C: Great to be here. Thanks for having us.
+
+Speaker A: Hey guys, thanks so much for having us.
+
+Speaker B: Hey, it's awesome to have you both. It was really exciting to see the Oracles project launch, just, and just the launch of the platform on Tezos in general. So we thought it would be a great idea to have you both on, 2 of the 5 founders, co-founders of the platform, to walk us through like, what is generative AI? What is Emprops? The history of it, some, learn some about yourselves. So let's start there maybe with Emil giving us a little bit of your backstory in gen art and crypto and the origins of the platform.
+
+Speaker A: Thanks again for having me. I think I was telling you guys before we got on, but longtime listener, first-time caller kind of a thing. I'm a big, big, big fan of what waiting to be signed and been listening to you guys since the very beginning. My background is I studied art in college and grad school, went to MFA for painting, and always thought that— went to MFA for painting and thought that I was going to become a professional artist. That was sort of, you know, as probably 99.999% of MFA students, I thought that I was headed to a career of as a successful artist. Tried that for a few years and a number of left turns, and 15 or 20 years later, kind of have like rediscovered or reentered the world of making artwork myself through NFTs, and specifically Tezos NFTs. I'm not prolifically making work. I wish I was doing it more, but this world that I think all of us have kind of found ourselves in and discovered has really been life-changing for me over the past year. You know, in terms of fast-forwarding to how we get to, to here, to Emergent Properties, I discovered Art Blocks and fxhash kind of around the same time, was minting stuff on fxhash in the very early days. And then my brother and I, with the help of our 2 other co-founders who aren't on the call, built our own generative art platform, launched it back in January of 2022 on another chain called Secret Network. Did 2 projects on there, one of which was a Ukraine charity project that Ira did. That's how we got to know each other. A year later, finally pivoted back to Tezos, which is kind of like where we were creating artwork and buying artwork. And our goal really, for me personally, the goal with Emergent Properties is eventually for this to become my full-time job. You know, I want to leave my day job and do this full-time and get back to my first love, which is making art and working with artists and sort of living and absorbing art full-time.
+
+Speaker B: So you met Ira then through the origin of the platform as it was on Secret Network. And so I guess that's a good opportunity to bring Ira into the conversation, tell us a little bit about his background, which is lengthy and will need to be unfortunately abbreviated for the purpose of this interview, but his background in art and generative art, and then maybe Ira, brought you into founder status on the platform.
+
+Speaker C: Sure, sure. Thanks for having me. This is a true honor. I'm super excited to be here. I'm going to give you a Cliff Notes bridge thing. My background, interestingly, is almost identical to Emil's. In fact, he went to undergrad where I went to grad school. So we were a little bit different time, but it's both BFAs, MFAs in painting. So I think part of my reason to give you the last answer at the beginning is part of my attraction was we hit it off right away. I mean, from day one, I felt like this This was a soulmate. I totally understood and just thought, how can I keep working with this guy? But unlike Emil, somehow when I was in school, I just thought it's not going to be a really realistic life to become an artist and support myself. So I looked at my professors and thought they have a great gig. So my goal was to become a professor, like from the time I was probably a sophomore in college, and mostly through sheer luck and some determination, eventually got a position pretty early on. And so I've been hiding out in academia for 25+ years and being able to pretty much make art as I needed to and wanted to without much concern for the marketplace. And I don't know how much of that was just kind of sour grapes because I felt like I don't have to really deal with failure if I don't try. But I quickly got into coding. I'll skip how I got to the coding. I quickly got to coding and then spent a long time doing generative art in the early days when it was really still— none of us knew what was going on and we were all spread all over the place without social media to bring us together. And then I sort of burnt out a little bit, honestly, and went back to doing a lot more traditional work until this Web3 thing started. And somebody, a friend of mine who was actually an ex-student of mine, said, you know, there's this thing called Art Blocks. People are making tons of money doing this stuff. It's the stuff that you taught us how to do like 10 years ago. So I just started poking around and it came back in a big way. Between the AI and the generative stuff this year, I did something like almost 20 projects. Yeah, so I became completely manic back with the generative first and now with the AI and now trying to put it all together. So I stayed in contact with the Emergent Properties guys, with Emil, talking about something to do in the future because we were going to do another project before the war happened. And then we all kind of got derailed and they were going to go to a different, you know, talking about going to Tezos. And we just kept talking. And then eventually it just seemed like we were playing with this. Emil and I especially would kind of throw creative ideas back and forth all the time.
+
+Speaker A: Yeah.
+
+Speaker C: And we were both messing with AI and just having these crazy experiences with it. And I think in some ways we were surprised because I don't think either one of us made this conscious decision to do AI. I think it was just that when latent diffusion, you know, Stable Diffusion came out, we were able to do stuff with that medium that was literally mind-blowing to me. And I think to him as well. I think we were just having a conversation and saying, man, we should just put AI into the platform, which was kind of a Crazy idea. And then it just led to this, like, quick move ahead real fast, but it led to this. And then, you know, because we were working together so much, at some point those guys said, would you like to get a little more formally involved with Emprops? And we didn't have a plan. I mean, we still haven't signed a paper. We just kind of were like, yeah, I love working with you guys. Let's just see what happens. And now we have this partnership and things are getting a little more serious, but I couldn't be happier.
+
+Speaker D: That's amazing. And just kind of the way that things came together. A quick question. I know that we want to talk about the platform more specifically, but it's interesting to hear you both having like these really strong artistic backgrounds and like traditional styles, painting, I guess, specifically. And when I've talked to some people in the past who are not into the Web3 space, the idea of AI-generated art, they find it very triggering. It makes them, quote, want to throw up at times. So, I'm just curious as to when you saw it for the first time, you know, coming from the more of a traditional arts background, what did you think about that?
+
+Speaker A: I think maybe our reaction, like, you know, you can kind of put people from the traditional art world or with traditional art backgrounds probably in very easily into 2 buckets around AI. You know, it's super polarizing. And I think maybe who we are and our backgrounds and our intuitive response or whatever, you know, Ira and I probably already knew that we were in the same bucket around something polarizing like this. You've heard this comparison thrown around dozens of times or read it dozens of times on Twitter, but every new medium in the history of art has had a reaction like this. You know, like the historical reaction to photography and then photographers fighting to have their work taken seriously as fine art. It's a playbook that if we have long enough memories, we know how this is going to play out too. I just think just like any other medium, There's good and there's bad AI art, you know, there's ambitious and lazy AI art. There's AI art that pushes the tools to try and do something new and unusual and original, and that tries to use the tools as a means to self-expression. And then there's AI art that I feel like you can tell pretty quickly, it looks kind of phoned in. And I think that the people who have that, like, it makes me want to throw up reaction, haven't looked deep enough yet.
+
+Speaker C: Yeah.
+
+Speaker A: Or they just don't have very good taste.
+
+Speaker C: I love the people that it makes want to throw up because then I just show them my paintings and drawings, which I'm still doing. My painter friends stopped calling me 20 years ago when I started writing code, so there's really nothing's changed. But I think over time they've come to accept me. I joke around sometimes with my family that at this point it's sometimes easier for me just to pull the paintbrush out or pencil than to deal with the AI because I'm, I'm so not happy. I don't want to do the same thing. It doesn't get any easier. Like, I find like it doesn't get easier to make art when you get better tools. You can do more of it now, but it's still super difficult to make something that's really great or approaching that.
+
+Speaker D: As somebody who's been playing around with Midjourney a lot today, it's very frustrating. And there is actually a skill cap.
+
+Speaker C: You're down the rabbit hole.
+
+Speaker D: To make something that's halfway decent.
+
+Speaker C: When are you gonna drop with us, Trinity?
+
+Speaker D: Give me about 500 more hours and then I'll let you know.
+
+Speaker B: We're trying to make a logo. For the podcast, cuz the one that we have was very hastily put together.
+
+Speaker D: Yeah. Midjourney 4 does, it does not like words.
+
+Speaker B: Yeah. Text is very hard to get it to do.
+
+Speaker A: I'm by no means an expert. I don't think, I think Ira's become very quickly a virtuoso in AI, but wouldn't call himself an expert either. I think there's so much still to learn and the tools themselves obviously are just accelerating so quickly. One interesting thing that we've encountered just like on our own, and then it turns out other artists we've been talking to have had the same experience on their own in a vacuum, is a desire to go back to some of the earlier versions of the various tools, like Stable Diffusion 1.5 versus 2 and 2.1. I don't know, Ira, you can speak to this better than I can, but I think it's fascinating how it's kind of like the coders and the developers working on these platforms are so quickly neutering The tools almost. No, I, I don't think this is like a linear thing and it's just gonna keep getting worse. I think it's more like, it's interesting to realize, I guess, that new versions of these tools aren't necessarily a progression. They're just new versions. That's just one example for me of like, where are the nuances to be found in these tools? You know, like wanting to go back to an older one because it can do certain things better, like what you're describing, Trinity, about.
+
+Speaker B: Yeah.
+
+Speaker A: Midjourney 4 not liking text, you know. I found that I can't get the levels of kind of flat abstraction that I love out of Stable Diffusion, but I can get them really well in DALL-E. So the Stable Diffusion project I'm working on for Emergent Properties, I had to kind of completely throw out what I was working on and start fresh on something totally original that's suited to the tool, basically, you know.
+
+Speaker D: Knowing that you use multiple different tools in like your personal work, that is a good tip for, I think, for all of us to use, and it's about picking the right paintbrush, so to speak. Maybe that's a bad analogy.
+
+Speaker A: No, I think that's the perfect analogy. Yeah.
+
+Speaker C: I'm trying to hold myself back from going on to this whole rant about materials, but I'll just say artist materials are chaotic and messy and non-controllable, and that's why we use them. And then engineers— and I love engineers— but they try to perfect things so that as the tools get better and better, there's a disconnect in terms of the creative process in many ways. And that's why a lot of us went to coding originally is because I wanted the code to drip. I wanted stuff bad to happen and Photoshop didn't let that. And there was undo and redo ad nauseam. So hopefully we've learned something as we build these other types of generative tools. We'll see.
+
+Speaker A: It's why glitch art is such an important and big thing in this world. You know, it's not like a subculture. It's about how to make the tools messy and sloppy and give back some of the control, I think, you know.
+
+Speaker B: This all feels like a good transition into maybe talking about a little bit of how the platform works. You already referenced that you use Stable Diffusion, or you are using it, but is that the only model that Emprops is using? Is it possible to use others? And what even is generative AI art? Right? I think that's probably the biggest question that we need to get to the bottom of here is like, what does it mean to make generative AI art versus to generate AI art, like a lot of what we see out there now? So whoever wants to take that one.
+
+Speaker A: It's a big question with like different directions the answer can take, I think. So one thing I'll say to start is that there are 5 of us on the founding team and I'm the least technical of the 5. I have the least coding experience and can sort of speak the technical jargon the worst of all of us. But in terms of what it does and what's unique or specific about it. It's really combining what we know Art Blocks and fxhash do with AI as an image creation tool. So in real time, generated at the time of mint, long-form AI art. And so currently what the platform does is it uses a JavaScript— it could be p5 or Three.js or straight JavaScript script as a controller to feed inputs into the AI. So an image prompt and/or a text prompt. And then through the JavaScript, we can randomize and control the probability of terms or sections or whatever of those prompts to create variability and to, and to again, give some of the control back to the machine, basically. To answer the other part of your question, currently the platform uses Stable Diffusion And any form of JavaScript. And it goes in one direction only right now. So it goes JavaScript to AI and then an output, and it could go to an upscaler or ImageMagick before the final JPEG or PNG is output. But the whole vision for Emergent Properties is as a modular generative pipeline. So the current state, what I just described, is one token type.
+
+Speaker B: Yeah.
+
+Speaker A: that Emergent Properties has in its toolkit, you could say. And our vision, our roadmap is to create dozens more of those token types. And basically each new pathway through that generative pipeline, whether it's switching from Stable Diffusion to DALL-E or going from AI back into P5, would become a new token type. And so you can imagine a state, or we imagine a state in say 6 months Where an artist that we invite to the platform would have 10 different approaches that they could use through this modular pipeline. Did that make sense?
+
+Speaker B: I think it made sense. It was, I think the least technical person explaining it is good because people here can't look at code on screens and follow along. But I think maybe to build upon what you said, maybe Ira can talk a little bit about the process, like creating the project. I had this idea of how it works in my mind, which is like basically coming up with libraries of words and building a randomizer. But also I feel like there must be something else in there that's allowing the set of 1,000 images, which is what you accomplish with oracles, to still feel so coherent while having that diversity that we expect from a long-form generative piece. And so there's gotta be more to it, right, than just like, oh, we're just generating prompts from a tightly bound set of words. Like, it's good. So yeah, or maybe—
+
+Speaker A: I mean, I'll just say to that point, I mean, I think this is like a— this is fascinating. And as we're working with the next few artists who are going to be releasing collections on the platform. It's only highlighting for me what an amazing job Ira did on this project and just how difficult it is. And this, I think, comes back to the question of like the naysayers and the polarizing attitudes about AI. If anybody could see how much work went into the oracles, just sweat that went into the oracles to create just the right prompts and combinations of variable elements for those prompts to get 1,000 outputs with no duds. That's prompt artistry at, I think, like probably the pinnacle that we've seen in this, in the sort of early days of this medium. So like what you're asking, Will, like what else is happening behind the scenes? A lot of it is just Ira, his brain. For me, the exciting next steps here are I'm working on a project for Immersion Property, so I'm gonna be the second collection on there. Yeah. Keeping the first 2 or 3 drops in-house as we kind of optimize the platform and think of it in beta mode. And I'm struggling to get something that I'm confident works at long form. We're kind of handholding and coaching to the extent that like we think we know how to do this, but working with artists on Immersive Properties is going to be very kind of white glove for the first handful of collections because trying to do this and make it work long form is, is an art in and of itself.
+
+Speaker C: I would say that out of the 1,000, I have 3 duds, but Emil tells me that they're not duds, that people will covet those because they came out too photorealistic, right? So they're these kind of like bizarre photographic babies or something with kind of tentacles growing out of their heads. And I was trying desperately not to have that sort of edge case. But so it's an interesting story because I had tamed, it really is a sort of a taming process. I had tamed the AI down to where I was 100% certain I wasn't going to get any edge cases. I had the luxury of being able to work on my university supercomputer and convince Sandy, Emil's brother, to rent an A100 GPU for us in a sense. So we had like a lot of horsepower to test things. And I had gotten it perfectly trained and I was super confident we weren't going to get any weirdness. And then I woke up one morning and thought, this stuff sort of sucks now. It's just so safe. And I remember showing it to Emil and he's like, Yeah, you know, so I like the day before went in and revamped all the values knowing that I was gonna get some weird shit that I wasn't totally aware of, right? But I got a bunch of these really cool things. And so that's what I learned was that you gotta give a little bit of control up to the system to let it do its thing. And I can't say that this was all like this brilliant plan on my part. A couple things I figured out over time through sheer desperation and the date was firm. I couldn't get out of the date. That was kind of the way we're rolling now. Here's the date, you gotta meet it. Make this date work, which I think is great. And I realized that the way you treat the images— I'll give you an example. I'm working on a project now where I have these big charcoal drawings. I'm feeding them into Stable Diffusion and I get some result. If I put a photograph of the same thing in, I get a completely different result. If I colorize the photographs just using Photoshop's colorize filter, I get a completely different result. It's amazing how reactive the image input is to Stable Diffusion. So a lot of what I did was Not necessarily tweaking all the values. I did that, but a lot of it was going in and messing with my input images.
+
+Speaker D: And roughly how many input images did you have in order to create something at this scale? I'm assuming it was more than 5.
+
+Speaker C: I had 11 input images. Now, it would have been a lot easier if I had 1 and nobody would have known the difference, but we were sort of trying to test. We were trying to prove use case as I was actually doing this. I wanted to see, sort of, is this model we have in our heads of doing generative code to generative AI? Is that a good, interesting use case? And so we sort of forced it a little bit. I'm really glad I did because I was able to get a much bigger range than if I just used one image, but it would have been a lot easier.
+
+Speaker D: But if you're going for long form with the 1,000+, you know, obviously the range is good just to create the variety. And perhaps that's one of the levers that artists will be able to pull in future releases and perhaps make things a little bit easier on them.
+
+Speaker A: It's so similar to fx hash collections that we're all familiar with, where the best projects, the best collections have that sort of magical balance of every iteration looks like part of the same family, but the artist is able to tease out amazing variety within the, within those constraints. Ira, the other note is you didn't train the model in any way.
+
+Speaker C: Right.
+
+Speaker A: You were only using image, image prompts. So obviously, like, depending on artists that we partner with, that's a future state for emergent properties collections too, is, you know, we— you can gain a lot, a lot, a lot more of that long-form control if you're using your own trained models. So we're looking ahead to artists who will do that with us as well.
+
+Speaker C: And in theory, we could— people could be doing post-processing with something like ImageMagick, some program like Photoshop that has a programmatic interface. That's what ImageMagick gives us. So we can basically send it some values and then it can do Photoshop-like thing. So an artist could exploit that too.
+
+Speaker B: Let's say I'm Ivona Tau, and hopefully at least Emilie as a dedicated listener, maybe you listened to our interview with her a while back. Yeah, she trains her own models from her own photography, and I think that's the bulk of what she trains it on. So using Emprops, you think that she could take her own model here and then have her own JavaScript to do some of like the After Effects that she does when she does her pieces on fx hash, and then even maybe add another layer of it on top to up-res or build animations out of it like she sometimes does that just, we can't accomplish on fx hash because there's that 30 megabyte cap on the code.
+
+Speaker C: Yes.
+
+Speaker A: Yep.
+
+Speaker B: So it's, it's really modular in that sense. That's crazy.
+
+Speaker A: Yes, 100%. So a project like that will just require us to do custom development. Our whole goal, the vision for Emergent Properties is to be artist partners. in projects. We want to partner with artists who will challenge us. The only issue we have right now is we didn't expect the platform to kind of get noticed so quickly, and we didn't expect our first collection to mint out so quickly. So we're sort of in like a— don't have the bandwidth to do everything that we want to be doing right now at the moment. But the vision is whether it's an artist who has never touched JavaScript or AI, but is excited and curious about it, and we love their work. We can be the collaborative partner for an artist like that, or someone like Ivona, you know, who's a genius in this realm and has her own processes, her own tools. We can build the pipeline for her to integrate her tools into Emergent Properties and just be that one kind of extension of her process, let's say, to get it to a real-time generated long-form collection.
+
+Speaker C: We should probably also say that we're very fortunate because one of our partners And really 2 of our partners are part of a kind of a software development company in Ensenada, Mexico. And so we have capabilities that we're just very, very fortunate to have those capabilities to work with. They're amazing developers. And Victor, who's one of our partners, is also an artist and he's become an artist in his own right as well.
+
+Speaker A: Victor's the artist behind Los Osos, which you guys have covered on the show before. And Ira, Victor and Ira, 3/5 of the founding team have done fx hash collections. I've only done 2, then Victor's next, and then Ira's the GOAT there. But both my brother and our other partner Luis are coders, and so we're pushing them, prodding them to both one day come out with an fx hash collection as well.
+
+Speaker D: I think that maybe was going to be a good question for you, Ira, is, you know, going from the art world with the code world and then turning that into creative coding and, you know, Everything that you release on fx hash. I mean, that's just such a huge jump. I would love to hear more about the story of the art behind the oracles and what the inspiration was there, because it is a collection that has garnered so much interest and has been so lovingly collected by so many people. I know we've talked a little bit about how it's been created, but what was the inspiration?
+
+Speaker C: If you could see in my studio behind me right now, you'd see a bunch of portraits on the wall. So I, I've been involved in Portrait work. Since I could start painting and drawing, I just always— I mean, first part of it was just a cheap model that I could always hire was in the mirror. So I always worked from faces, from people. I've done a lot of different types of work, but I've always been very interested in observational representational painting. I was very interested in that kind of perceptual problem of how we look at data. I didn't call it data back then, but how we look at the world and then we translate it into paint. I didn't have any intention of doing a PFP project. I don't kind of roll that way. I just kind of start making stuff. And then I— it's funny we call our company Emergent Properties because that's all I do is I work emergent, whether I'm drawing or painting or coding. I don't really have ideas. I just think, well, what happens if I do this? And then it leads to something else. And I started with these kind of heads, which is typical fashion for me, is I wanted to push the aesthetics as far as I could push it. And so I ended up making these incredibly gruesome, vile-looking heads that I honestly started feeling nauseous one night because I was producing these things. And I thought, I've reached sort of that edge, which is nice. And then I kind of started pulling back a little bit. And I realized that I had this— I found this kind of little happy place that was kind of weird and interesting and evocative, but it wasn't like really gore and shocking. At least to me, it's not. And then that world just started opening up to me. You know, I didn't— you know, even the idea of the oracles, I didn't know what these things were I was making. They were just kind of these kind of odd figures. And then, I don't know, they just sort of became these oracles. And I'll end up doing a PFP collection, which is sort of funny because I think when I first started in generative art, it was a little bit of a reaction to what was happening in the other NFT world. So you'd be careful how you think about things in the beginning. But yeah, so it really just kind of evolved. And then once I kind of got to the oracles, I started asking myself, what's beyond the heads? And so that's a lot of the work lately has been sort of just exploring this kind of realm of this, I guess it's becoming sort of a metaverse this oracle culture, oracle stuff.
+
+Speaker B: I think calling them PFPs, I mean, it's more of a byproduct of just the subject that you started with. In crypto, you see something like this and you go like, oh, that's a PFP. But it kind of sounds like you backed into it.
+
+Speaker C: Yes.
+
+Speaker B: Or kind of were forced into that corner because of what people might expect when they saw it, or that's kind of how it'd be categorized. But it's definitely something different. And as far as we understand, you don't have a roadmap for these, right? We're not like waiting for Oracle Coin to drop or anything like that. We're not going to be staking our oracles. So.
+
+Speaker C: Well, there'll be a little bit more to talk about in the story coming up.
+
+Speaker B: So we'll see.
+
+Speaker A: Oh, wow.
+
+Speaker B: Okay. There's some alpha there then.
+
+Speaker A: Yeah. Another thing about the oracles that I love that I think it'd be great to hear you talk about is the art historical references in them. Can you talk about that and like your favorite painters? And because for me, watching them, like just sharing back and forth with you, watching them develop and progress. to me was like a bonding moment with Ira because we got to talk about some of our favorite painters in art history and some of, you know, some of these really old painters who I hadn't thought about that much or talked about with anyone for sure since college maybe, or since like a trip to Italy 20 years ago or something.
+
+Speaker C: I'd love to talk about that. There's a period of specifically early Renaissance, Northern Renaissance, or early Renaissance painting that It's been really important to me for a long time. So when I go to a museum, or I will actually literally travel sometimes overseas just to see some shows of this period of work. So people like Piero della Francesca or Bellini, Mantegna, these are really, really important painters to me. When I kind of stand in front of that work, I just feel like this is family. It's a kind of mystical thing to say, but I just have a very, very deep connection to that type of painting. And so, I mean, when I first started playing with AI, I took some of my own drawings and was able to get them to feel like they were done in like the 1400s. And it, it like literally knocked me. I mean, I almost fell over because I felt like I was communing with these people. It was crazy. My secret sauce tends to be a lot of Piero, a lot of Mantegna, these artists from 15th century, even going back a little bit to the 1300s, like Giotto. Duccio, some of these early Renaissance, but that transitional period, and as it transitions before it becomes High Renaissance, where they were still working things out, there's still a lot of rigid sort of mathematical kind of explicit structural stuff happening in the painting. That's super important to me, you know, personally, emotionally very important to me.
+
+Speaker A: First of all, it's fascinating and it's like, it's done so well in the Oracles. The balance of beauty and grotesqueness is so important to the Oracles and you get that beauty, but also some weirdness out of this, like, 15th century painting language. You know, it doesn't take knowing these artists' names or having studied art history to catch that for a collector or a viewer. It's one of the things that sets them apart and makes them feel super personal and specific and unique.
+
+Speaker D: You know, it's been a while. I used to study art history way back in college, more specifically within, like, Ancient Greece, ancient Rome, the Coptic stuff. And there's something about that, as you said, otherworldliness of like, specifically like the Byzantine art and like the early, like the medieval art itself that just, it's so distinct and it captures all of that kind of slightly uncomfortable feeling so perfectly.
+
+Speaker A: Yeah.
+
+Speaker D: I missed the mint end because I was too busy, you know, Being with my wife while she was having a baby, also sleeping. But yeah, I mean, it's absolutely spectacular in the fact that the outputs are just so well varied. So kudos.
+
+Speaker C: I don't want to get too techie art history, but there's— I find there's a really interesting thing that happens in transitional periods and those periods like you're talking about, the Renaissance, early Renaissance. And I would argue that we're going through that now. So there's a really interesting corollary between what's happening now With this work we're making, these digital tools and the medium with what was happening in these other periods in history. That's the professor in me coming out.
+
+Speaker B: Sorry.
+
+Speaker A: That's cool.
+
+Speaker B: It's a tough transition for sure. We, I think we're all struggling with the low rate of acceptance that NFTs and generative art are having right now with like the traditional art world. And it's kind of tough to get people to pay attention to any of this. They write it off a little too easily. You mentioned, right, that the project went out quickly. We mentioned that we missed it. What was the reaction like when, you know, you both are in North America, so presumably you both also woke up to the project completely minted out and a secondary that was on fire. Like, that's what it felt like when I woke up on the East Coast. It was like all these Discord messages about something I'd never heard of, about a platform I never heard of. Tweets from prominent collectors comparing the project to Squiggles. I mean, can you kind of walk us through that reaction?
+
+Speaker C: We didn't sleep much that night.
+
+Speaker B: Take a victory lap. Yeah. Oh, so you were awake for it.
+
+Speaker D: Okay.
+
+Speaker C: Yeah. Well, we were texting in bed trying to like, you know, when is this going to stop? It's not going to stop.
+
+Speaker A: The truth is Ira, I think, had, had the oracles ready or, you know, ready to make the call for a while, for maybe a month. And the underlying tech for the platform existed. We had originally built it a year ago. And so with the exception of making the AI part of it work, the real like bones of it were there. We did. Totally overhaul the UI. And but we were working on this for months and months slowly without a launch date or a real strategy in place, all from the point of view of like, we all have day jobs and this is a side/passion project. And finally, at some point, it was like, Ira's ready, the platform works well enough, what are we waiting for? Let's just launch it. And so we picked a date and we did it quietly. You know, I'd love to say that like the quiet approach was 100% deliberate, like as if we had a, you know, this genius guerrilla marketing plan behind it or something. But really it was like, if we don't launch it, like we're never gonna find or create the urgency to keep working on it and make it better. We all believed in it. And most of all, we believed in the oracles. The platform launched in a kind of MVP beta mode, but the collection is blue chip in my opinion. And so in some ways I'm not surprised at the reaction to the artwork, but like the speed of the reaction was like completely crazy and obviously unexpected. And then there are people who we've looked at reverentially in this space who were DMing us like, what is this? I need to know more. Like, where did this come from? You know, Clown Vamp found it through— Okay, this is a good story. Thomas Noya and I were just kind of art buddies. We DM a lot on Twitter, and we had been talking about— I had told him about Immersion Properties and kind of was brainstorming with him about like maybe we could do a project with him. The day before we launched Ira's collection, Thomas and Clown Vamp had lunch together, and Clown Vamp mentioned something to him about he was curious about long-form AI. Maybe someone else had mentioned something to him about it or something, right?
+
+Speaker D: Yeah.
+
+Speaker A: I've had other experiences like this where it just seems like something's in the air kind of a thing, you know? But Thomas hit me and he was like, yeah, I went to lunch with Clown Vamp today and I told him about Emergent Properties. And I was like, oh, crazy, we're launching the oracles tonight. Clown Vamp minted a bunch of them and then it was minting like at a decent pace and then it just went wild and we couldn't figure out why. And it turns out it was in the Tender Discord. And I'm a Tender holder, but I'm like crap at Discord, so I'm never in there.
+
+Speaker C: Yeah.
+
+Speaker A: And it was so cool. And just like, you know, you said victory lap, Will. The part that was just so exciting to me was going into the Tender Discord and everybody was talking about the Oracles. And like all these people that I, that are, you know, like the best artists and the biggest collectors, like the coolest people in the coolest club kind of a thing, all talking about this thing that we did, you know? Anyway, I feel like it's from the point of view of the artwork, it's super, super well deserved.
+
+Speaker D: Yeah.
+
+Speaker A: And honestly, as an objective observer, like if I, if I'm, if I wasn't a founder of Emergent Properties, FunnyGuys' comment comparing the oracles to squiggles and RGB cellular automata, I hope plays out to be true from like a historical point of view, but from a quality of the work and a genesis POV, I agree, honestly. Is that okay to say?
+
+Speaker D: You should 100% say that. Yes.
+
+Speaker B: I'm definitely going to cut the part out about Tender being too cool. We can't give AJ too much.
+
+Speaker A: Okay. Okay. That's me speaking as like a fan of the Oracles and a fan of Ira's work, you know, separate from the Emprops part.
+
+Speaker D: You know, it's one thing to have people talk about it and to mint it out and to like give it all that, those kudos that you were just talking about, but then us waking up and seeing the market action on that, you know, we like to talk about the art, but we can't also avoid the market, like watching things go up into the hundreds and thousands of tez. That must have been surreal. I don't mean to put words into your mouth, but I think that's where the proof is in the pudding.
+
+Speaker C: Surreal because they were sold for 1 tez.
+
+Speaker B: Yes. Really cheap.
+
+Speaker D: And you're like, darn, next time.
+
+Speaker C: I'm glad we sold them for 1 tez.
+
+Speaker A: I love the lore of the low prices or the free mints on FXHash when it first launched and the free mints and giveaways and low prices on Art Blocks when it first launched and CryptoPunks being free. I love that history of this world that we're all in. And Ira and I talked a lot, and our other partners, we talked a lot about like edition size and price. And I think it makes sense. This whole thing is an experiment, and we're kind of like aware of the fact that if this stuff still exists in 20 years, it's going to be taught in art history classes. And so it's like fun and correct. And, you know, that's a rant, a ramble about 1 Tez for the oracles, but I think it was the right price and I would do it again tomorrow at that price.
+
+Speaker B: The meme value is there for sure.
+
+Speaker A: That's a good way to put it.
+
+Speaker B: I'll own in the Tender Discord, and I'm sure you saw my comments there, I was FUDing the response to the project, not the project itself so much, but the fervor with which people were like, how many should I get? This one's only 300, should I be getting this? And like, there was just a lot of Excitement, merited excitement, but also a lot of people not knowing at all really what the platform is or what, how these things are made or anything like that. And so my immediate response was like, whoa, everyone needs to chill. It's also one of the reasons that I think we wanted to do this interview was like, yeah, what is this stuff? It obviously looks cool. It's insane to see. But at that point, before you jumped in, it was like, we don't even really know what this is.
+
+Speaker D: Yeah.
+
+Speaker B: So it's awesome to have you on and get to hear the story and also hear about what is coming up. You know, we know Emil, you're dropping something TBD, but if you're building out a platform and you are trying to make it open and, well, open-ish, right? It's not like open open, but anyone who comes to you and has an idea that you guys wanna work on, like, is there anything unofficially, officially, like anything interesting that you wanna— Ira too, like, I'm sure Ira, you're in the mix probably with your expertise at prompting and having done successful drop, right? Like collaborating with these folks.
+
+Speaker C: Yeah, which we're doing, so we can talk about the drop after yours, I think.
+
+Speaker A: Tentatively, my drop will be the second collection, and it's going to be January 24th.
+
+Speaker C: Uh-oh.
+
+Speaker A: Now that I said it, we have to stick to it, but I think there's value in that, obviously. Jumping ahead to March, Ira has a solo show at a gallery in Berlin. He's going to do a long-form AI collection for that show. Ira, you can talk about it more. That'll be our first kind of live minting IRL project. And then Danielle King, we're both huge fans of her AI work and just of her generally, and we know she's family here on the— on Waiting to Be Signed. She's the first person we asked to do a project. If all goes well, she will be either collection number 3 or collection number 4 on the platform. And Ira's been working really closely with her, and so he has a sort of peek behind the curtain at what she's working on. From what I've heard, it sounds really, really, really cool. We wish we could be moving faster on drops and collections with artists, but our bandwidth is limited right now. So there's development work required for some of the artist projects that we want to do. And at the same time, there's development work to get the platform optimized and working better. As you saw, it took a really long time for some of Ira's pieces to reveal. And some of that had to do with the indexer. Some of it had to do with us not being ready for the Tezos protocol change that just happened to happen. So there's a lot of like, you know, we're very much in beta mode technical stuff that we want to get right as fast as possible. Because one of the beautiful things about this community is how flexible and understanding and accepting people are for, you know, when the indexer used to go down on fxhash kind of thing.
+
+Speaker C: Right.
+
+Speaker A: The level of like happy community positivity around that stuff is amazing, but we don't want to ask too much of that from collectors and viewers. There was another part of your question, Will, that was kind of like hinting at the open question as well, but Ira, maybe you should talk about the Berlin show.
+
+Speaker C: The Berlin show sort of suggests some other things that connect to Emprops too in a larger way, I think. So Annika Meyer Expanded Art approached me about doing something in Berlin. Which was an incredible honor. And so we're going to do a one-person show that's going to open up on March 28th, go through April 16th. And in the beginning, it'll be some private minting, and then it'll eventually open up to the public. It's going to be sort of the next chapter, in a sense, of long-form oracles. So it's going to be this project called The Beasts. And I sort of— I'm constantly getting yelled at for putting too much stuff out there, but I had to put some stuff out about The Beasts, and I'm really excited about that project. But I think there'll be other things in there too, sort of exploring the larger Oracle universe. So I'm, you know, I have this fantasy of having Oracle plushies and little 3D printed of the little machines and devices and sea grails and stuff like that and wallpaper. I mean, I have these fantasies. We'll see how real they are. And then we've also been speaking with Seth Goldstein at Bright Moments about doing something in LA in the summer that would be like kind of a follow-up. Yeah. Piece in his gallery in Venice. So those are sort of the projects for me that are kind of lining up. But what we're doing is we're finding there's a bunch of other folks that are interested in utilizing the platform because what I think a lot of the success of the oracles was timing, that it was all of us doing this AI stuff on our own, thinking like, hmm, I wonder if we could somehow connect this to the NFT experience in a generative way. And I think that's a large part why this was successful, honestly. I just think there was this pent-up interest and it was like, oh my God, you can do this now. So when I was meeting with some curators and gallery folks, they were working on projects that would benefit from long-form AI. It was just weird timing. It's really exciting for us to think of sort of being a partner in terms of the platform, working with these awesome groups.
+
+Speaker D: Is there anything else that you would like to say about the upcoming collection?
+
+Speaker C: Or about the world of art in general? That'd be you, Emil.
+
+Speaker A: About beasts, I think you're asking.
+
+Speaker D: Both, either.
+
+Speaker B: Oh yeah, Emil, for yours being the next one chronologically, that would be good too.
+
+Speaker D: We have a mental model in our mind of, you know, we've seen what this can do within like the portraiture PFP type of space and trying to think of what is beyond that and other ways of expressing the long-form generative AI work, whether it's Will's favorite landscapes and trees or, you know, It's just interesting to understand, like, what are the genres and the areas that could be coming up next, whether it's landscapes or abstract art or literally anything.
+
+Speaker A: The collection I'm working on is, you know, my background is in large-scale abstract painting, and there's always been some amount of landscape and sort of urban landscape references in my abstract paintings. And so in Stable Diffusion, because of some of the constraints that I found that I was mentioning to you earlier, Trinity, of I find that DALL-E can do this sort of thing that I'm interested in and Stable Diffusion couldn't do it. I started getting into much more photographic work in Stable Diffusion in my experiments, and then I've minted and sold a number of these Stable Diffusion urban landscape pieces on OBJKT. The collection that I'm working on for later this month on Emprops is much more abstract. The place that I'm at right now that I'm having, where I'm having a lot of fun and getting really excited, is sort of tricking the AI into doing stuff that's more abstract, less polished, less kind of fully realized than most people get to, or than, or that most AI art that we see sort of defaults to. In like kind of concrete terms, what that means is like AI outputs that are lower res or that may not have resolved completely and have some representational stuff in them, but it's obscured somehow, or it's blown out by a light leak that is kind of half there or whatever. I've been teasing some of this stuff on Twitter and posting some to OBJKT. The working title of the collection is Ghost in the Machine. We'll see if that sticks, but I'm really excited about it, and I think it'll be very different from the Oracles. It's sort of like a The Oracle's is this 15th century representational freak show, and mine is going to be this semi-photographic abstract, a little bit glitch exploration of kind of tricking the AI or trying to break it or trying to let it do what it maybe is best at doing in some weird way.
+
+Speaker C: Emil is like a much hipper painter than I am. Like, the work is real rockstar. I mean, I can't wait for people to see this. I think it's just fantastic to follow on the heels of the oracles just because it's sort of like this exciting, crazy pivot. I think it's going to be awesome, honestly. And I think there is a bias. I think what we both talk about sometimes is there's a bias in the AI. I mean, we know about a lot of the traditional biases in the AI, but there's also bias towards figuration.
+
+Speaker A: The models themselves have a bias too.
+
+Speaker C: It's just deeply biased. Yeah. So that's also subverting. I mean, Emil contacted me the other day and said, a look at this. I was like, how'd you do that? And then he, he had really hacked something with the parameters that I had never thought of doing because it's so counterintuitive to the way the thing is designed, and it was so brilliant. So I can't wait to see what comes out in this collection. One of the kind of use cases that I'm exploring too is, which I, I actually was hoping to do more of it with the oracles, but that project just took on life of its own, is a more rigorous generative project as the front-end input that could actually be minted on its own that could then be fed into the SD. And so I'm actually talking to this idea of could both of those things be mintable experiences? Like, could those— I'm thinking of kind of a generative sort of cityscape, kind of an urbanscape where the generative part is not just throwaway that gets fed in. I want those to be standalone and then I want it to somehow produce long-form AI also. So it's a hard problem. I'm really curious about that. And that sort of again is exploring the full What's the coolest use case of this kind of generative squared, like generative times generative, which is something we kind of talk about?
+
+Speaker B: I have an off-script question here that relates back to something that came up in the beginning when Trinity asked about traditional art world people. I feel like artists in general are suspicious or skeptical or dislike AI. Another thing I hear from them often is there's discomfort with how the models themselves are trained, especially when you're using Something like Stable Diffusion, something like Midjourney, where those models aren't possible without the work that feeds them and trained them that is going uncompensated in any form. So, you know, Ira, like, I assume it's like your own work composed the 12 images that went into that. You know, we know that AI artists like Ivona who train their own models and kind of get around it there. It does sound like someone could do something through Emprops using just prompts, right? Without putting any of their own work in to at least hold hands with the model in a way. How do you all feel about that philosophically? Like, where do you sit on it? You've been working on the platform for a while, playing with AI. Like, surely you've talked about this internally and have your own thoughts on it, so I'm curious to hear.
+
+Speaker C: Yeah, I mean, I think we talk about— I mean, there's sort of the invisible labor kind of discussion. There's also the conservation issue we haven't talked about yet too, but we think about a bunch of those things. I mean, some of this hasn't come up yet because we've been doing this in-house at this point, right? I mean, my project was my own artwork and Emil, you're doing probably more text prompts, right? Are you?
+
+Speaker A: No image prompt on the project I'm working on. I have like 3 projects going simultaneously, but the one that I'm going to launch later this month has only text prompts.
+
+Speaker C: But what I hope, Will, honestly, and Sandy, Emil's brother, and I've talked about this a lot, is that there's an educational kind of component to what Emprops does too, so that these things become made explicit and there's publishing and release of written material. And as well as, you know, we haven't talked about this, but releasing software and tools to help facilitate creation of things on the platform. I'd love Emprops to be sort of a thought leader in this space, not just a platform to be able to generate money.
+
+Speaker A: So this is an area too where, you know, curation is another polarizing idea in our space, right? This is an area where I think Curation and a point of view is valuable in the sense that a lot of the questions about, you know, is my creative work being digested by these models and used to create somebody else's work without my permission? The painter in me wants to take like a far on one side of that discussion stance and say every painting that's ever been created was done by a person. through whose eyes and brain all this other creative output from other artists was filtered, you know. And if the output isn't derivative, or when it is derivative, it's derivative in an interesting conceptual way, then that's just how artwork happens and how it's made. And if the AI is doing it or my eyes and my brain are doing it, to me a lot of it has to do with what's the outcome. But I also read arguments on the other end of the spectrum, and I sympathize with them too. So I think a lot of this to me comes down to like what we can control as the founders of this platform comes down to the work that we put out. And if the work that we put out is original and is creating originality through novel, sophisticated uses of the tools, then I think all that stuff that went into the model is fair game because the output is pushing something forward. Like intellectually, creatively, emotionally, whatever it might be. And I think that's where, like, as the curators, none of us want Emergent Properties to be the walled garden. Like, we don't imagine, like, inaccessible, opaque curation for this platform. But I do think the kind of Wild West that we find ourselves in and all these polarizing conversations about AI, some curation can be really helpful in a situation like this, you know? a point of view around this work is special or this work is pushing things forward or this work is interesting because XYZ. You know, probably 10 different people, the first question they asked me when I first met them after we launched Emergent Properties was, is this an open platform or when is this going to become an open platform? You know, or people were calling it the fx hash of AI. Openness and transparency is super important to us philosophically. The underlying architecture of the platform was built to support an open framework the same way fx hash works. So when we're ready in the future, there'll be some level of open minting potential. I don't know when that's going to happen. There's some technical and cost constraints that would make it really hard also. But in the meantime, until we can get to an open place, like, what we want to do is invite as many people into the conversation about selection and curation as possible. You know, guest curators, crazy experimental projects, accessible pricing, or big swings in pricing when appropriate. These are both hot topics that I think we'll be discussing a lot in the future too.
+
+Speaker D: So for now, maybe more of the Art Blocks of the space.
+
+Speaker A: For the Art Blocks of AI, except you can mint an oracle for 1 Tez. I don't know what my collection is, what the mint price is going to be for mine, but Anyway, none of us would be here without fx hash, and none of us would be here without the open spirit and just like the massive creative explosion that fx hash has created, has ushered in. You know, philosophically, that's where we want to be. It's just technically how to do it and when we can do it is a pretty big question for us.
+
+Speaker B: Based on the process that you've— it does almost sound like Semi-open would be the best description because ultimately, if you want that level of curation and quality on the platform, you don't want someone like me to just come along and like put 10 words into a prompt randomizer. And like, it kind of sounds like philosophically there's an aspect to what you all are trying to do with it that lends itself to being not super open or like perfectly open, but there always kind of being a safeguard.
+
+Speaker A: Yeah.
+
+Speaker B: of like a quality check in there at least somewhere along the line.
+
+Speaker A: For now, I think. But I mean, if you think about it, like building a collection in p5 to launch on fxhash has built-in barriers to entry. It's not easy to just roll out of bed and just do. So fxhash being an open platform already has— there's a self-selecting, you know, proficiency and quality, whatever word you want to use for it, in that open platform. Dream Studio and the Midjourney Discord bots, like those are the open platforms of AI currently in a lot of ways. That's the zero barrier to entry level. So I don't want emergent properties to be elitist or whatever, you know, the negative words are that, that suggest a monolith and opaqueness in decision-making. But I do think there's something really interesting and some very, very exciting room in this space. For some curation, you know, and like maybe we use a different word for it because that word has gotten in some circles, that word is a dirty word, you know.
+
+Speaker D: And it also sounds like at this point there needs to be some amount of handholding just as people get used to this because it's such a new arena. People have been doing creative coding for years and years and years and essentially implementing an fxRand into that codebase with every, all the tools that fxhash puts out there for artists. That transition is a lot easier. And for the record, Will, I would love for you to go in and just put in a couple of words and some inspiration images and create, you know, some long-form art for the, for us. That would be amazing. The first one has to be about lumberjacks.
+
+Speaker B: You can buy my fx hash collection. You know, there's already stuff out there, so.
+
+Speaker D: I already bought a lot, so.
+
+Speaker B: I know. Thank you.
+
+Speaker A: What I would love to do is invite the two of you to be to guest curate some drops on Immersion Properties. That's a way to get openness with one remove or indirectly, you know. Once we get to a place where we're— where we have a, you know, a head of steam and we're able to be putting out collections as frequently as we want to, guest curation and like open dialogue with the community about who drops on the platform is going to be, I think, foundational.
+
+Speaker B: That sounds cool.
+
+Speaker C: I'm in.
+
+Speaker A: Awesome.
+
+Speaker C: Okay.
+
+Speaker B: We love to get invited to stuff. It never happens. So, so thank you.
+
+Speaker C: We have evidence now.
+
+Speaker A: Yeah.
+
+Speaker B: You've broken the seal on inviting us to do something.
+
+Speaker A: Done. I can't wait.
+
+Speaker B: We've never done a speed round of questions with 2 people. It's a fairly new segment. So we'll have to keep it a little abridged, but I think the go-to is, I guess it would be awesome to hear from both of you, what are some of the artists that you like to collect on fx hash? Let's start there.
+
+Speaker A: Oh man, that's hard to be put on the spot for. Okay, let's see.
+
+Speaker C: I'm not nearly as big a collector as Emil. That's the problem.
+
+Speaker B: Ira, you wrote the book on some of this stuff, so yeah, it's probably hard for you to be a collector, right?
+
+Speaker C: It's a little hard for me to collect. Yeah, I just, it's also my nature. I just, Yeah, I just, I don't like stuff in some weird way.
+
+Speaker D: Maybe a better question for you, Ira, then would be, is there anybody that you think is doing cool stuff on fxhash?
+
+Speaker B: Even if you don't own it?
+
+Speaker A: I mean, it's like the stuff that's right in the front, right in front of mind. Toma by Rhys really stands out to me as a recent collection that I went crazy for. Don't know what it is, just hit me like visually blown away by that one. Chris McCully's recent one, Trust, that was just— what was that, yesterday or 2 days ago? Love that collection. I'm a big fan of, um, how do you say his full name? Andrew Brereton, A.E. Brer.
+
+Speaker B: Oh, okay.
+
+Speaker A: I mean, he's an OG. He had, you know, he's— one of his collections I think is like in the first 10 or 20 tokens. Love his work. To me, he is like a personal favorite, and maybe Doesn't get as much love as he deserves. Thomas Noya, I'm a big— I mentioned him earlier, but big, big fan of his work. I think what he does is unique also. Like, there's no one quite like him or doing quite what he does, especially within FX Hash.
+
+Speaker C: Don't forget about Yipey, Yipey, Yipey, Yipey.
+
+Speaker A: Oh, Yipey, Yipey, Yipey.
+
+Speaker B: Yeah, we love the—
+
+Speaker C: also Kali's Woolly piece I liked a lot.
+
+Speaker B: Oh yeah, that was really fun. Oh yeah, that was from like 6 months ago. Deep cut.
+
+Speaker A: One collection that got some love recently and had a little bit of a run is, um, Blobbies by Sam Tsao. Crazy about that collection, and I think that might be the first FXHash token that I bought. That's one of the regrets I have. I think I used to have 5 or 6 of them and sold all but one, and then recently FOMO'd and bought another one.
+
+Speaker C: Toxy, of course, because he comes from that generation I come from, so Kind of old school processing world.
+
+Speaker D: It's been a minute since we've seen him. Yeah.
+
+Speaker C: Yeah. I think he's kind of left Twitter.
+
+Speaker B: And he hasn't done an fxhash in a little bit, but his last one, Seascape, was super cool.
+
+Speaker A: It makes me nervous to talk about favorite fxhash stuff in front of the two of you. You guys are encyclopedic. You know everything and everyone.
+
+Speaker D: It's our job.
+
+Speaker A: Yeah. Can I throw the question back at you? I know we've probably been Asked it 100 times, but 100 times, but favorite artists on the platform? Landlines is, I know, is one of your favorites.
+
+Speaker B: Landlines is definitely a podcast favorite for sure.
+
+Speaker A: Yeah.
+
+Speaker D: Mm-hmm.
+
+Speaker B: I think Jeres is maybe more of my favorite than yours, Trinity, but I know you like the Jeres stuff.
+
+Speaker D: Yeah. Jeres stuff is awesome. Just like looking through some of our, our lists, Ruxanne is also, you know, amazing.
+
+Speaker A: Yeah.
+
+Speaker D: I can't wait to see what he's doing, like now that he's doing this full time.
+
+Speaker B: We both are Contrapuntos maxis.
+
+Speaker A: Oh yeah.
+
+Speaker D: Yes. Right. And I'm also interested, you know, going back to what we were saying about Ivona Tau, you know, I love the work that she does off fx hash. I think the most, the ways that her FX projects come to life are just so interesting, especially her most recent one, which I think is maybe a little bit polarizing, Whispers in Code. The idea behind it where the machine is telling you to do something and you have to try to do it correctly. I think it really flips the script on everything that we're trying to do here.
+
+Speaker C: What about the Rich Poole collab?
+
+Speaker B: Which one?
+
+Speaker C: The Paper Crane, Acequia. Is it Acequia?
+
+Speaker D: Oh, Acequia.
+
+Speaker B: That one is so beautiful.
+
+Speaker D: I think obviously my favorite project of all time is Holo.
+
+Speaker A: Holo, that's right. That's yours.
+
+Speaker D: I think Jacek is just doing so many cool things and, you know, speaking back to art history, going way back in time, some of his first projects on the platform. Unbuilt and Reborn, like really speaking to that era. And, you know, I love myself a Gothic cathedral, so I will need to be collecting more of those.
+
+Speaker B: I've been looking at them too. They're very affordable right now with the Tez price. They're one of the projects that hasn't really gone with decline in Tez yet. So both of those are juicy. Let's do one more fun question, I guess, and then wrap it up. Another question we've been asking a lot is music. So both of you are artists, both of you code and just work in general. Like, what are some music recommendations you might have for us? What do you like to jam to while you're being creative? Or just what do you think is good that everyone should know about?
+
+Speaker A: I have the dorkiest favorite band and I get made fun of it all the time, but Belle and Sebastian is my number one favorite band of all time, but mostly early, like the first 4 or 5 records. It's my like comfort zone that I always come back to. Not even sure why, but I'm crazy about them. Lately, a mellow thing I've been listening to is an artist called Mormor. I think they're from Montreal. M-O-R-M-O-R. Just beautiful, mellow, kind of gentle stuff. Really good work music. How about you, Ira?
+
+Speaker C: I play some really bad improvisational piano, so things like Keith Jarrett or That type of jazz, especially piano instrumental, is big for me. Or Bill Frisell, moving it to guitar. A lot of pure instrumental is what I listen to when I'm coding or painting.
+
+Speaker A: I come back to like my hardcore punk days whenever I really need to like let something out. I had a horrible job for about 9 months in the middle of COVID We weren't remote and I was commuting to Beverly Hills every day and I would just Minor Threat and Gorilla Biscuits and Seven Seconds as loud as my car could play it on the drive home from work every day. That's my release.
+
+Speaker D: It's important to have that music though.
+
+Speaker A: Yeah, for sure. Yeah.
+
+Speaker B: You gotta have like the angry music, you have to have the hype-up music, the creative music. Cool, that's awesome. I definitely want to check out some of that jazz stuff, Ira.
+
+Speaker C: I'll move to Glenn Gould if I need more upbeat.
+
+Speaker D: Last question. If you could have us interview anybody, we can do maybe 1 to 2 people for each of you. Who should we bring on?
+
+Speaker C: Have you guys ever interviewed someone like Annika Meyer, collect— like kind of a curator?
+
+Speaker A: Ken.
+
+Speaker B: Ken.
+
+Speaker D: Yeah.
+
+Speaker B: KenConsumer, I've heard him interview. And possibly maybe one of the collectors we've talked to has had like an undisclosed art background. But they tend to stay anon, so we don't know their whole career histories. So maybe unknowingly we have.
+
+Speaker A: Will, you mentioned earlier the frustrations of like the larger art world not coming around, not adopting, not being sort of open to NFTs and our world and everything like that. I don't know how you would do this and who the right person would be, but like an interview with a naysayer or an interview where you try to talk someone into it could be really interesting. You haven't done that, I don't think, right?
+
+Speaker B: We haven't done that precisely. We've joked about it a little bit with a friend of mine who is a now, I guess, a young retired artist who hates all this stuff. And we thought about having him on to let him just hate on our NFTs for an hour.
+
+Speaker A: But a video episode where you go through your collection kind of a thing.
+
+Speaker B: I shared him a Deco once and he told me it all just looked like screensavers. And he hated it, except for the Kim Asendorf. He liked the Kim Asendorf stuff, but everything else he just said basically sucked. So I was like, cool, thanks.
+
+Speaker C: 2 other people that might be interesting. I don't know if you know Marina Zurkow. She shows at Bitforms, but she's definitely a crossover kind of blue chip traditional sort of traditional gallery artist who's doing NFTs now. We have a collaboration on Feral File that'll come out sometime in March. But she'd be really interesting. She's real smart. She was a professor for many years too. And then another person really interesting is Christiane Paul, who's again one of the most established curators and sort of intellectuals in the space going back to kind of new media art. I think she wrote the book on new media art. She's been a curator at one of the major museums for a long time. She's actually curating or involved with the project at Feral File.
+
+Speaker D: We're adding those names to the list. We might need to discuss offline with you.
+
+Speaker C: Sure, sure.
+
+Speaker D: To get more info.
+
+Speaker C: I can make introductions too.
+
+Speaker B: Yeah, that'd be sick. I mean, we're trying to cross over into other spaces. There's one like traditional art podcast I want to do a crossover episode with, like either have them on here or go over there. And they have definitely the few times NFTs have come up been incredibly dismissive of it, but I think it's because their primary encounters are with like apes and stuff. So it's, I think from my perspective, I feel like The corner that we're in, if we could just show it to more people in the traditional art world and like separate it from the greater PFP stuff that sucks up all the oxygen. Oracles as the exception, of course, when it comes to PFPs. Yeah, I feel like just getting people to sit and look at stuff and kind of talking about the process and like really getting them invested in how it's made on a one-on-one level, I think it's really achievable.
+
+Speaker A: That's awesome. I love, I would love that. I would love to hear that. Another person that just came to mind is Sky Goodman, not on FXHash, but they mint on Tezos, on Taya and Object, and their work is really glitchy VR dealing with the materiality of digital media. I'm a big fan of their work and they're like in Tezos and sort of technical enough that I think like They're aware of FXHash enough that like a kind of crossover or branching away from FXHash conversation with them could be really interesting. And another one I just thought of is Dai with the most likes, just because he's hilarious. I think he's on 2, at least one, maybe 2 FXHash drops.
+
+Speaker B: At least one that I remember. And they're kind of in the PFP zone, right?
+
+Speaker A: The FXHash ones are, and his work is super satirical. grungy kind of trash art, but he's super sharp and really interesting to talk to and hilariously funny and irreverent.
+
+Speaker B: Sounds like he'll steal the show. I don't know about that one.
+
+Speaker C: So Monk Antony, some of you may know, you guys may know Monk Antony. So we've been working, we've been talking about meeting with Verasco. Roman Verasco is the same generation as Herbert Frank. I mean, at the same, if you go back to the pioneers of generative art. And I wrote about him in my first book. Roman Vorosko is right there and there's only like 5 or 6 of them. And he is now in his 90s and still making art, lives in Minneapolis. And they're building sort of a whole kind of foundation around him. There's a director of the foundation. So Monk Anthony and I, who's doing a lot of writing, obviously are talking about going and I've kind of stayed in contact with Roman a little bit, but going down there and trying to document some of this. He's in his 90s, but it would be a piece of history. And I'd be happy to make that introduction. I just want the world to know about him because it's going to be sad that when he passes and then there'll be all these retrospectives, but he's still alive.
+
+Speaker B: So that would be incredible, probably. I think we'd have to do our homework and maybe Ira, you can help us do our homework on that one. But that would be an incredible opportunity to have someone like that on and kind of hear about it from the beginning. You know, that was not what I expected. Some pretty excellent ideas there, taking us out of our comfort zone, but that's okay. Some, some stuff that we can follow up on. Yeah. 2023 is when Waiting to Be Signed gets out there. So that's what, that's what we're trying to do.
+
+Speaker A: Awesome.
+
+Speaker B: Emil, Ira, thank you both so much for coming on. I'm glad we can get this organized and Emil especially, who I don't think you could tell by his voice, but is still getting over COVID. Sounds great. But yeah, it's been awesome to have you both on.
+
+Speaker A: Thank you so much. As I told you guys offline, I'm a huge fan and flattered that you asked us and thanks so much.
+
+Speaker C: And it's been super fun.
+
+Speaker D: So thank you.
+
+Speaker B: Glad you both had a good time. I think everyone will really enjoy this episode and getting to just like hear more about this platform that's still emerging, right? It's like literally week to week. It sounds like everything is still coming together and We have some exciting stuff to look forward to from both of you and from Danielle, and I'm sure from other artists that you can't talk about.
+
+Speaker D: And us.
+
+Speaker C: That's right.
+
+Speaker B: And us as curators that we're going to learn about as we come into the curation process, which will be really cool. So thank you for all of that. Hope everyone enjoyed the episode.
+
+Speaker A: Later, everyone.

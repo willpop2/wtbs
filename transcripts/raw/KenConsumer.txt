@@ -1,0 +1,363 @@
+Speaker A: All right, everyone, welcome to another episode of Waiting to Be Signed. This is our first community interview. It's really exciting. Oh yeah, doing the claps in the background. We're not going to use the soundboard. Yeah, this is our first interview. This will be dropped as a bonus episode. I'm joined again by Trinity and then our guest, KenConsumer from the Discord, who hopefully everyone knows by now. If you don't, you should.
+
+Speaker B: Hi.
+
+Speaker A: We're going to throw it to Ken to do an intro in a second, but just want to do the disclaimer as usual. Nothing you hear is financial advice. We're going to be talking about the art, our opinions, potentially pricing. You know, do your own research. Do not take any of this to mean that you should go buy this or that. This is purely just because NFTs are financialized products and price is just part of it. So with that being said, Ken, welcome. Thank you for coming on the show.
+
+Speaker C: Thanks for having me.
+
+Speaker A: And can you give everyone a little intro for maybe some folks who don't hang out in Price Discussion and aren't as familiar with your background?
+
+Speaker C: Yep, I'm Ken. I have been in the art business for a pretty long time. After getting my art degrees in the mid-'90s, I jumped into anime business and sold anime for a few years. I worked for ADV Films and as their director of marketing, I just kind of fell into that. Don't really have any kind of background in marketing at all. I used to kind of be a street artist and I would paint these robots everywhere. And the owner of that business saw those robots and my girlfriend at the time worked at that business and she— and he was like, oh, I want to meet that guy. And then we met and we talked for a little while. And at the time I was getting my PhD in art history and I thought I was gonna be a teacher forever. And as it turned out, he offered me enough money to make me not wanna do that. And instead I was pretty instrumental in the early days of bringing anime to kind of the mainstream that happened at the end of the '90s, beginning of the 2000s.
+
+Speaker B: Yeah.
+
+Speaker C: And then at some point I left that and started working for high net worth individuals and helping them sort of sort out their art collections and do things with them in art. And then over time I started with this company in New York that no longer exists. And we, yeah, we built art for artists and built art for museums and made exhibitions and stuff. And then at some point I left the US in 2008.
+
+Speaker B: Wow.
+
+Speaker C: And moved here to Europe. And yeah, now I run an art gallery and a bar and a radio station and have a not-for-profit that I work with. And I consult with a bunch of other cool little companies around and make things kind of go. And all of my stuff is built to support artists. That's everything I do is to support people who need that support because the system doesn't want them in it, you know? And so they need to have this support and whatever way I can give them.
+
+Speaker B: That's pretty amazing. I mean, I, I, it sounds like it was, things were a little bit hairy there for a second when you were like, I'm doing things that are exclusively centered around giant robots. Will I ever use this degree? But it seems like you found your way.
+
+Speaker C: I guess. I mean, I liked doing the whole like anime thing. It was really fun. It was just really crazy. I mean, it was really fast-paced because if you guys recall, you know, it was like Pokémon and, you know, when you guys were You guys were probably 10, 15 years younger than I am. And so, you know, like when you guys were around that age of graduating from Pokémon into Dragon Ball Z, and then people were leaving Dragon Ball Z and they, you know, they were still interested in anime. They just didn't know what to get into. And we were kind of that company at first. And when I joined them, one of the main things we did was like go to some of the bigger, like real companies in the real world, like Toyota and Wrigley and whatnot. And we went to them and said, hey, we'll produce these commercials for you because we want anime kind of on TV in a different way. And at that time, we did all that, and it was pretty fun. I mean, I got to admit, it was a really good time. And during that stretch, we, you know, we worked with Cartoon Network on Toonami, and then at some point we started a magazine called Newtype Magazine, and we had a thing on the internet called, um, uh, the Anime Network, and we did all kinds of shit, and it was really fun. And then in around 2003, it just wasn't fun anymore. And for me, you know, I was kind of like, okay, I'm really burned out. And yeah, sleeping in my office all the time, that wasn't fun. Yeah. Yeah.
+
+Speaker B: I, I feel like you could do like that sort of thing for like a certain number of years and then like when it's new and novel, it's really exciting. And then just after a while it's just, yeah, you're no longer like amped up on like the newness and everything.
+
+Speaker A: But kind of like game design, right? Like there's something that's so fun, like, you know, coming from a game design background of, um, I love games, now I'm going to make them. And now you've turned making them into a job.
+
+Speaker C: Yeah, totally.
+
+Speaker A: And you're starting to see a lot of the, you know, how the sausage is made on games and how sometimes decisions can be not necessarily driven by what makes the game best, but there's a lot of constraints, right? Could it be budget? Could it be IP rights? Could it be this or that? Like, there's a lot of frustration there.
+
+Speaker C: That's the same that happened here with me in art in New York. I mean, it's why I had to leave the art system in New New York because I started really finding it to just be gross. And it was just a really disgusting— like, you know, the way that art gets into museums is not as simple as you think. I mean, you know, it's like these things, they, they take these very circuitous routes in order to get there. And some of it's pretty, you know, underhanded and, and, and backwards and pretty shit, to be perfectly honest. It's like, um, you know, when I started working with those high net worth individuals, I You know, we went, here's an example that I'll tell you. We got on an, I got on an airplane with a guy once and he said, meet me at the airport at like 5 o'clock in the morning. We're going to fly to Cleveland and buy this Warhol. And so we, I did that. I got on an airplane. I flew to Cleveland with this guy and, you know, the Warhol, the agreement between the two of them was, you know, X amount. I don't remember, but it was in the millions. But in order for that collector to buy that Warhol, He had to buy art from these local Cleveland artists and put those— that art into his collection. And he had to gift half of that that he was buying to museums so that it would say, hey, this artist is now in this museum and in this collection, as well as being in this other guy's collection. So there was like all this other kind of weird stuff that you just don't think about that goes on in that, that really started killing me. I was like, oh man, I hate this. I don't like how this is done. This isn't about the art at all. This is about some other kind of ladder climbing that I wasn't interested in.
+
+Speaker B: So So you're saying that you don't, you're not looking forward to the time when we start having bundled collections really come into the FX hash space?
+
+Speaker A: Or whitelisting.
+
+Speaker C: Well, I'm not saying that.
+
+Speaker A: Does this tie into an opinion on whitelisting, Ken? I mean, I know this is not one of the questions that we had kind of prepared, but do you have a strong opinion on artists whitelisting or gating a certain portion of their collections around like ownership and hitting a threshold?
+
+Speaker C: You know, I don't know. That's a tough question to answer because in some ways, you know, it helps stop some of the flippers and some of the bad action, but some— but the flippers are a part of the ecosystem too, right? So that idea around how they help create kind of a market is, you know, somewhat necessary on some level. But at the same time, it— yeah, this is such a tough question to answer. And, you know, it's a hard one, right? I mean, I guess we could run in circles around this whole whitelisting concept.
+
+Speaker A: Yeah.
+
+Speaker C: Yeah.
+
+Speaker A: Well, Now that we've gotten a little bit of your background, and honestly, we could totally cleave this podcast into just talking about Evangelion, but we shouldn't do that. You know, hearing about your experience working in art, being an artist, I think to me at least, it's always interesting to hear how someone who comes from the traditional art world, like, encountered NFTs and the blockchain, learned about them, probably experienced a lot of the negative coverage that they get, but then came to embrace them nonetheless. So I'd be really curious to hear what your process was towards, you know, accepting NFTs as valid, as a valid way to like distribute art and then, you know, becoming a member of the community, right? Like joining a community like fx hash and being involved.
+
+Speaker C: Yeah, so I'd heard about NFTs Quite a while back, we've been in. I've been in the crypto space for quite some time. My bar has been accepting crypto since 2015-16, and previous to that point, I was already kind of aware of crypto and had some crypto, had some Bitcoin, and had some other stuff. And you know, we could talk about drugs if we'd like, but we don't need to. And those those types of things were were already in my in my brain when somebody told me that NFTs existed. I immediately thought, wow, the possibilities for this are incredible. And I got really like, you know, I kind of wound myself up on it. However, I didn't get myself involved in it because all I had seen were PFPs and I'm not super interested in that. Now, it doesn't mean I'm not interested in it. It just means that it wasn't something I was willing to stick, you know, my neck out and get into. I started thinking about actually NFTs and how it would reshape the concept of ownership for anything, like how it would, you know, your car or your house or whatever. And that really fascinated me. I got really interested in how that was really going to change everything around all of it. Then I started learning more about how smart contracts work. And then I started to kind of get interested in how this was going to reshape royalties, you know, and for artists, because the secondary market for artists is a terrible things like an artist sells on the primary market for, let's just say, $1,000. And then that guy who owns that work can put that at auction for $20,000. And the guy who put it up for auction gets the $20,000 and the artist gets nothing, right? So the idea of royalties on art is pretty novel. I mean, it's always been there in the music industry in some way, but it's maybe not always kept up with, but it's there at least. And Now for artists, for visual artists, this is a whole new kind of way of getting generational wealth and maintaining this across all these various generations going forward. So that was really fascinating to me. And when I kind of was just peripherally viewing all of this kind of stuff, and one day one of the collectors who's also a customer in the bar was talking to me about NFTs and he had heard about them somehow, I don't know. And he asked me, he was like, what do you know about this? And I told him very little, but I know that this is kind of going to be a way of, you know, growing and whatnot. And he was like, well, if I wanted to buy an NFT, how would I buy an NFT? And I had no idea. I literally had no clue because I hadn't actually gone down that path of trying to figure this out yet. And so then I was like, I don't know, I'll look into that. And so then I started looking into it and I found OpenSea and I got onto OpenSea and I started playing around on OpenSea and kind of seeing what was available there on OpenSea and was like, okay, I don't want any of this junk.
+
+Speaker B: Yeah.
+
+Speaker C: Because there's very little of it that I, you know, it's really difficult to kind of maneuver OpenSea. You know, it's not, it's not, wasn't really well organized. It's still not very well organized. But back then, a couple, you know, when I first found out about this year and a half or 2 years ago, it was really just a mess. It was just a whole bunch of stuff everywhere. And then they started slowly, you know, organizing things by collection. And then you could start kind of finding stuff. And, and yeah, and so anyway, I started going down that path of kind of looking at those things and getting involved in that. And on Reddit, people kept talking about how the good art was coming from Tezos. And, you know, I'm like, I thought, you know, I don't even know what Tezos is. I have no— I've never really heard of Tezos. I didn't know that it was a chain. So I kind of was dismissing this idea as being like, you know, maybe some sort of fan art or some other kind of art world stuff. But then whenever I finally took the plunge, when HEN— I think HEN came out around March of last year, and someone told me, you should really go on to HEN and you should really take a look at what's going on on HEN. And so I went to HEN and I started looking around on that and was like, wow, this is a whole nother, this is another level. This is really underground art. And I kind of started getting interested in looking at what these, some of these glitch artists that I had seen and heard about over the years. And I started looking at what they were doing. And as a person who also makes art, you know, I had friends in the street art world and whatnot who were telling me, hey, we're putting our NFTs up on HEN for sale. And, you know, you can get them for relatively inexpensive because Tezos is a relatively inexpensive currency. And you can get these, these things there for pretty cheap. And you should probably go through your stuff and put some of your old JPEGs up. And I had done a project back in, you know, the beginning of the 2000s in this space where I had a whole bunch of these robots and I put them up on HEN. And then all of a sudden people were buying them. And I was like, Who's buying these? Who is this? You know, like, why are they doing it? How are they finding it in the first place? You know, and it was interesting to me, that kind of dynamic. Over time, I kind of got more interested in other parts of how Tezos works. And then, I don't know, and then I guess HEN went down. And I was on crypto Twitter and I saw Wblut had posted a picture of this GIF of its chromatic dazzle.
+
+Speaker A: Mm-hmm.
+
+Speaker C: And I was like, I was like, man, that's really awesome. And what is this fx hash? And so I was like, oh, it's on Tez. I have some Tez. I'll go buy a few. And so I went over and I minted a few. And then I saw that ToyMento was on there and Gruub was on there. And I said, I know some of these names because I'm also involved in gen.art over on ETH. And so some of those people have dropped on ETH. And so I knew their names. And so I was kind of like, oh, this is cool. I'll mint some of this and I'll mint some of this. And I was thinking to myself, how crazy That on ETH, I just spent, you know, like, like $1,000 to get a work from one of these guys. And here I'm spending like $5 and getting work from them, you know.
+
+Speaker B: I think that's something that's really interesting to me, actually, like that, that, like, like that difference between the prices on ETH and Tezos, like from an artist's perspective, where it's like, I know that I can command this price over here. And it's like trying to understand, like, You know, what are some of like the drivers to put some stuff like on fx hash, for example?
+
+Speaker C: Yeah.
+
+Speaker B: You know, obviously, like there's the whole clean NFT movement. And like, for that, I understand the move away from ETH, but it's the deals that you can get here. Yeah, it's just astounding.
+
+Speaker A: I have a theory on this, and I have no idea how to actually demonstrate it or prove it. But it's, I do think fundamentally, the values or the pricing of art between the 2 chains is really driven by like a multiplier of what the gas fee is. Because gas on ETH costs 50 to 100 to 150, sometimes more if you're competing on a really competitive like mint.
+
+Speaker C: Yeah.
+
+Speaker A: For a generative project or a PFP project, that the price has to be some multiple of what the gas is going to be. So you end up with mints that cost like 0.2 gas, 0.5, or sorry, 0.2 ETH or 0.5, sometimes more, like on Art Blocks, they can be an ETH to mint. And we don't have that issue on Tezos. And so I think like artists who come here who are maybe used to selling their work for $50 to $100, like in a coffee shop or on the street, can now price at a multi— at a level that they can never do on ETH because people are going to just look at it and go, well, you're charging me $50, but it cost me $250.
+
+Speaker C: Right. So yeah.
+
+Speaker A: I know this is like, I mean, I really think truly that that is the underlying factor between the price differential of like one artist publishing here versus publishing on ETH, right? Like what's the woman who dropped this week? You know, the person I had to learn about this week. Shoot, I gotta pull up the other notes.
+
+Speaker C: The AI artist.
+
+Speaker B: The AI artist.
+
+Speaker A: Ivona?
+
+Speaker B: Yeah.
+
+Speaker A: Is it Ivona Tau whose stuff has sold at auction for like $30,000? You know, she's, charging like 10 tez to mint.
+
+Speaker C: Yeah, yeah.
+
+Speaker A: Um, I really think it derives from this, this gas thing, but that again, I have no way to prove it.
+
+Speaker C: I have no idea either. I mean, I, you know, in GenArt, they just, they let the artists make the decision about how much they want to charge over it, you know, over there. So if the artist feels like that they're going to drop 1,000, you know, pieces and they want to charge 0.1 ETH, You know, they're getting 100 ETH out of that. Now, obviously, there's some platform fees and other stuff that go into that, but I don't— you know, I honestly, I don't know how the— how that kind of comes about. And it's, you know, I find it harder and harder for myself to justify minting over on ETH and buying, buying on ETH because, I mean, it's, it's, it's very expensive. I mean, it's a very expensive proposition to keep running. Now, do I believe that ETH is an incredibly safe and a very good chain? Absolutely. I believe that ETH The security of ETH is unrivaled. You know, the Ethereum chain is a great chain for that. Is it, you know, is it where art should be getting minted? No, actually not, not at all. I mean, it's crazy that we're having to do that, that we have to pay so much to mint art over there is nutty. And, you know, for underground artists, you know, that are just beginning, it's super prohibitive and it doesn't really make a lot of sense.
+
+Speaker B: Yeah.
+
+Speaker C: But now for artists such as, you know, yeah, I have no idea who I want to call out here, but there are a few artists that are minting at fx hash that charge, you know, maybe even a fraction of what they would charge on ETH. And people still say, that's so expensive, that's crazy. You know, it's just like, well, maybe, you know, but the reality is it's a pretty good piece and it might be worth that. You know, if you really think about the artist's time and you think about what they've put into this and how much effort they've done and All the years, you can't really like price this in, you know, I mean, pricing art is already a very difficult proposition. And, you know, when we're talking about it from an investment term, which is the way a lot of people think about this stuff, because it is a token, like it makes it even more difficult because they're looking at this as like, well, I mean, if I'm going to spend 5, I'm hoping to make 20 off of it, you know? And fine, you know, absolutely. Sometimes you should look at things in that way, but other times, you know, for other things, doesn't really work out like that. As an example, I'm a big fan of an artist on Tez that who I like his work a lot. And I think it's fantastic work and everything to me is quite interesting, but it's never going to go. I mean, the value of it is never going to be, you know, is never going to even probably, you know, like reselling it is never really going to be an option, you know? And I'm okay with that. I'm not buying it it with that in mind. I'm buying it because I find it interesting. And when I throw it up on my TV, you know, I can just have it running and it looks really cool. You know, there's a lot of work that I do that with, by the way. I just put it up, we throw it up on the TV and we just let it go. Defrag is fantastic. Yeah, Defrag V2 is amazing on the TV. It just keeps running and running and running. And every time you look over, you're like, oh, that's really awesome.
+
+Speaker B: Yeah, this morning I had my Kim Asendorf transactions just like on my screen. I was just like, this is It's chill. I can eat breakfast to this.
+
+Speaker C: Yeah, I don't own one of those, so I keep forgetting about it. I should buy one. I keep—
+
+Speaker B: yeah, there are a few like at mint price right now on the market. I was just checking it out this morning.
+
+Speaker A: So you can get your pick of backgrounds and everything, probably like background color. You know, I think a great follow-up question, Ken, to kind of the sentiment you were expressing at the end of that, you know, you've had some posts in the Discord kind of talking about pricing and Talking about the way people collect, I'm curious to hear, again, considering your background as an artist, as someone who's worked with high net worth individuals and helping them acquire or maybe decide on art, running a gallery currently and curating that, what is your kind of view on the FOMO behavior that people have and their frustration with the bubbles and secondary market pricing and And just the way that you kind of see the community's in general attitude towards collecting, like what do you kind of think that people are doing right, doing wrong? Are we doing anything right?
+
+Speaker C: Sure. I mean, yeah, everybody's doing right by them. You know, I look, there's no right or wrong. And the way that I view this is if you like what you're buying, cool. You know, if you're comfortable with it going to zero, great, buy it. But if you're buying it for the, you know, for the express reason of flipping it, while I'm not 100% against that because I'm guilty of it myself, um, you know, like, I recognize that there are things that are good that other people are going to like that I'm personally not going to care if it's in my collection or not, you know. Um, and I have bought some things with the expressed interest of, you know, turning it around because I know that somebody else is going to value that more than I do. And building, helping build a secondary market also continues to support the artist. It helps build their royalty structures on the backend. So from my perspective, it's okay to do that. It's not okay to hoard a whole bunch and then way gouge the price and help build the FOMO thing. And I've seen this occur a few times where one guy's actually buying from himself in order to bring the price up.
+
+Speaker A: Yeah.
+
+Speaker C: And, you know, not the artist, but I mean, like a flipper, it doesn't mind when I don't, I think it's cool when artists actually buy their own art, you know, because they sometimes believe that this is great. It's not about driving the price up. It's about, hey, I want that piece because this was a really good output and I wanna have that output. But there are some, you know, guys there at, you know, on FX that buy art and then they use a separate wallet and they buy their own art. They buy their own piece from their another wallet, which may, and then they do it again because all the money's just going back to them anyway, right?
+
+Speaker B: Yeah.
+
+Speaker C: Minus the transaction fees and whatnot, but they're still helping build a bigger, you know, make the price go up and up and up and make people go, oh my God, there's a whole bunch of that being done. I followed it on, you know, there was a Makeo drop and I watched one art, I watched one wallet who seeded its own wallet. I just went back and did a whole bunch of like, how did that go to that price so quickly? You know? And then I was like, ah, that guy just bought from himself.
+
+Speaker A: Hmm.
+
+Speaker C: Like a bunch of times. It was pretty weird.
+
+Speaker B: Over and over and over. Yeah.
+
+Speaker C: I was like, no, that's super weird. And there was a few other moments of that as well that I've seen over time. But, you know, it is what it is. It's just what people do.
+
+Speaker B: And I think that like us as like consumers, like, you know, we're still so new to this, relatively speaking. And so like once you get into the, like the forensics of it all and you're like able to kind of recognize, okay, so this is the thing that actually happened. Whereas before it might not have been on your radar. Like you just kind of become less susceptible to it. I know that I've fallen into that trap a few times of not the buying and selling to myself, but buying into the hype.
+
+Speaker C: Yeah, yeah, sure. You know, yeah, I've spent more money on things that I don't, and then I think about it later. I'm like, why the hell did I do that? It was ridiculous. You know, like I spent, I just spent 20 Tezos on something I don't even want, you know, and then that's something else, you know, that's a whole nother thing. I mean, if I like it, it ends up in my vault, you know, and sometimes, you know, the other, the stuff that ends up on my kind of my main thing, if it's there, I can I can sell it. You know, I feel like if it's in that, if it stays there and I leave it there and I go back to it a week later and I still don't want to move it to my vault, then it's, I'm going to put it up for sale at some point or another.
+
+Speaker B: Yeah.
+
+Speaker C: Yeah.
+
+Speaker B: And I also don't like, I like the mentality that you have around like, you know, we, our last episode or last special episode was about like a philosophy of flipping and where, especially when you're coming into it from the lens of like, there's some stuff I'm going to get. I don't care if it goes to zero and it might go to zero, but I love it on my TV.
+
+Speaker C: Yeah.
+
+Speaker B: Like buying something that, you know, is speculative and being able to sell it for like a, like a multiplier of what you bought it for, that just enables you to get more of the stuff that you like love and you're just kind of supporting.
+
+Speaker C: Yeah, totally.
+
+Speaker B: So I don't know, I like it because it kind of enables like the spread of wealth, so to speak, rather than everything just being concentrated into like the the blue chips, so to speak. So, I mean, I think that's something that I might start considering a little bit more.
+
+Speaker C: Whoa. What do you mean considering?
+
+Speaker B: Oh, just, you know, looking at— I buy a lot of things that I like, you know, with always like that back in the mind of, you know, if this happens to be liquid in the future, I'm going to be really happy about that. But, you know, I think that, you know, as somebody who's, you know, newer to art, newer to NFTs in general, it's really hard to think about it as something that has like more of the intrinsic value. Like, there is intrinsic value, but it's just like, how does this kind of manifest itself in the real world? You know, I don't have screens that I can put things on.
+
+Speaker A: Like, it's—
+
+Speaker B: I could put it as like a background on my phone, but like, in terms of ways to display and appreciate, like, I feel like that's maybe an area where—
+
+Speaker A: Yeah.
+
+Speaker B: That'll help drive more of the value, you know? Yeah.
+
+Speaker A: Yeah.
+
+Speaker B: Trying to find whether it's access to printing or screens, whatever. I don't know.
+
+Speaker A: Trying to find a good digital frame. I was looking at that towards the end of last year and there's not that many out there. There's not a lot of choices. So it honestly does seem like a TV is the best thing, but yeah, you know, both of us live in small apartments and we just have, I think we both just have laptops, right? So we don't really have a nice big stationary thing. with a graphical output that we can just hook some NFTs up to enjoy them.
+
+Speaker C: I mean, honestly, the other day we just figured out it would run it. I was like, oh, this will run that. And I have to— when we tried to use it from the smart TV's GPU, some things just don't work. But some things do. And sometimes, For example, we had some people over the other day and we— I just put up, um, that Leander Herzog's, um, Returns. I just put that up and, you know, it just changed. It slowly, subtly shifts from, you know, orange to pink to blue or whatever, and it's just kind of each little part of it moves and changes. And I just threw that up on the TV because it doesn't— it's not GPU intense and it— my TV can, can handle that. You know, if I tried to run Defrag on it without having it connected to my laptop, it doesn't really It doesn't like that. It doesn't, it can't really continue on that. It slows down a few of the other pieces that I've had as well. Some of it won't even show unless I have the laptop hooked up to it, you know? Like that flockaroo piece, the oceans one, like it can't even process that. Like I tried to have it go up there and I was like, this is so cool. And then I threw it up to the TV and I was like, shit, it's not doing anything. It's just black. It's not doing anything.
+
+Speaker A: So yeah.
+
+Speaker C: Very good. Very nice. We discovered the soundboard. Was that the— is that a first? Was that like—
+
+Speaker A: That's the first time we've used the soundboard on here. Yeah.
+
+Speaker B: I will call that not quite a success, but we'll work with it.
+
+Speaker A: I have an interest. So I think kind of related to this whole topic of like, right, like NFTs, some of them you can display, some of them you can't. Like some of them are graphically intensive. I was curious, Ken, if you had ever kind of encountered— well, like, one, I'm curious if you have any long-term concerns or FUD about this whole thing that comes up sometimes. And it really comes— I think it comes up not so much in the community, but it comes up outside of the community of like, the NFT that you own is not actually the piece of art. It's like a token that points to something on mostly IPFS, right, on a hosting site.
+
+Speaker B: Exactly.
+
+Speaker A: That if that service goes down, All you have left is this token. And one of the things I've heard is the token itself— well, I've heard this in relation to this piece of art called Zones of Immaterial Pictorial Sensibility by Yves Klein, kind of that the token itself is the art, right? It represents the aura of the piece or the soul of the piece in a sense, or the connection that you have to the piece through this token that represents ownership.
+
+Speaker B: Yeah.
+
+Speaker A: And I've heard some people who really disagree with that interpretation of the art. And then some people who agree with it so much, like Mitchell Chan, who even made a tribute piece on ETH, right? I'm curious how you feel about the potential impermanence of these things, that they could be lost. Does any of this matter to you? Do you care about it?
+
+Speaker C: I mean, this is part of it, right? I mean, this is part of the nature of having an NFT is that We buy this receipt, you know, we've bought this, we've bought this thing, we like this thing, and we got this receipt for it. And that receipt is a big part of what that is. Now, that Yves Klein piece, I had only just learned about that just before COVID I had been to Nice and I went to that. He has kind of got a permanent install in the Nice Museum there. And even though I'd been studying art history for a long time, I'd never heard of that piece. Now, I thought about that kind of stuff over the years, but I had never heard of that piece in particular or that thing in particular. And as it pertains to NFTs, it's perfect, right? I mean, it's a perfect example of what this is. This is like, I bought this thing and this is my memory of that thing and this is my particular representation of that particular thing that I have. This is why a lot of the blue chip stuff ends up on ETH though, because the chances of ETH not succeeding are pretty low. And I believe that this is why people make bigger bets over on ETH than they do on other chains. And I mean, you know, not to say that, like I said, not to say that I believe that ETH is a be-all end-all and, you know, that this is where it is and we should be making art there. But it is where we should be storing some of this stuff, you know, because it's not going to go anywhere. Budweiser, these big, huge companies are making massive bets over there, massive bets on ETH, you know, and they believe that this is the future as well. And so for NFTs and what, when it goes back to this and the information is stored, you know, on IPFS or even if it's on a personal server. Yeah, that's tough. I don't know, man. I really don't know.
+
+Speaker A: It's a question for a few years from now, maybe.
+
+Speaker C: Yeah, really. Right now it all seems safe, right? But, you know, who knows?
+
+Speaker A: Have you ever encountered though, like in talking to people from the art world that maybe haven't made the same, you know, you seem, you know, from talking to you, you seem like a naturally curious and person who embraces like new technologies, but I can see a lot of the traditional art world probably being running counter to that, right? Like, yeah, for sure. So when you've kind of tried to talk to maybe other artists or other collectors about this, does any of this stuff ever come up or do they, do you just try to simplify it down to them?
+
+Speaker B: It does.
+
+Speaker A: Like, yeah, I'm curious to know like what kind of resistance points have you met that you've had a hard time kind of turning someone over on and getting them to like understand and accept?
+
+Speaker C: Well, for example, there's one artist that I work with who is a very conceptual artist and who makes a lot of work that's technically based and uses computers and uses computer monitors, but he's a super NFT skeptic. He doesn't believe that NFTs have any value at all. And this isn't to say he doesn't believe in digital art because he absolutely does. He makes digital art. He just thinks that the NFT part of it is a scam. And we've gone round and round about that. And, you know, like, there's no convincing him, you know, even though I show him stuff, I say, look, you know, look at this, this is crazy. This can only be done in this particular situation. You can't do this in any other way. And he's like, that's not true. We could do this on the web and we could just let this go. And I was like, but you're never going to get paid from that, you know? And so there's this kind of like round and round cyclical argument with him about that. There's another guy that You know, he also is an NFT skeptic, but he's always coming from the place of print. You know, he's like, well, if I buy this thing, this static image, and I want to get it printed, you know, and then I sell the NFT, but I keep the print, you know, like, where's the— where do you draw the line on that? Who actually owns that thing? Should I be able to have the print of that thing? Where is this? And I always try to use the, you know, I've gone to loads of people's houses and they have a replica of Mona Lisa, you know, or a replica, whatever they felt like, you know, some Andy Warhol soup can, you know. I mean, the print in that kind, in that sense doesn't really mean anything, you know. I mean, the print is just sort of that thing you're able to display in your home on that deal. The receipt of ownership, the provenance of that piece still belongs to the Louvre, you know, and, you know, we know that the Louvre has that thing and therefore—
+
+Speaker A: Yeah.
+
+Speaker C: You know, and the provenance is that. So, you know, again, it comes down to it. Now, this fractionalization concept that people have been talking about, like Particle and whatnot, where you have this sort of plot on a piece and you own part of a physical thing and the physical thing goes to a not-for-profit and is stored at this not-for-profit and you have a plot and you can, you know, like you can say, I have AB, you know, or A16, and that's my little pixel of, you know, Yeah. Pick an art. And they, you know, they bought a Banksy for like millions and they particleized it and they gave it to a not-for-profit. And, you know, you as a person, you as a consumer, you have a piece of that thing. I mean, cool. You know, it's not really what I want from this, but, you know, I can see how that has some sort of appeal to certain people. And it's just not an appeal to me. I like having NFTs. I like the idea of the generative concept. And the singularity of these pieces is what makes it super interesting. Like, for example, one of my favorite projects on FX is glass. I think glass is excellent. I think it's such a cool example of what generative art can do because, you know, if it's a really clean piece of glass, it's a cube. And the cubes are, you know, a color. But then once you start, once you, you know, you get these cubes and you get multiples of the cubes, you get colors bleeding out in different directions, you get stuff going here and stuff going there, and sometimes the colors overlap. This is a really fascinating thing that would be really difficult to do by hand, you know, because getting all of the various variations of that by hand would be impossible, you know, basically. So for me, the idea that generative art can actually do that and gives you all of these different variations and gives you the ability to look at 100 different iterations of the same thing, it's pretty fascinating, you know, and the one that you end up with ultimately is pretty cool. Maybe you like it, maybe you don't like it, but it's a pretty neat technological advancement that we have that option, you know, to have this.
+
+Speaker B: Yeah. I mean, I think that's where it's like that fine line between like some of the generative art that we see on FX or Art Blocks and like the NFT. It's like, you know, you can have the generative art side without the NFT piece, right?
+
+Speaker C: Yeah.
+
+Speaker B: It's just kind of, it's like this perfect like marriage of 2 different core types of technology that really kind of enable each other to thrive in new ways.
+
+Speaker C: Yeah.
+
+Speaker B: And I, when you were talking about like, you know, the, like the Particleization of the NFTs and like you have like this one little square at this particular coordinate. It really makes me think of like back in the '90s when it was like, hey, you give us $200 and you'll help save this particular part of the rainforest, you know, where it's something that is cool, but like in a way kind of functionally meaningless.
+
+Speaker C: Yeah, totally.
+
+Speaker B: So I think it's interesting to see where that will go. Kind of hand in hand with that, like, we're talking about like the monetization of NFTs, you know, and, you know, how people, artists can use this as a way to generate profit. Have, as somebody who's been on like on the marketing side of things, like, do you have any thoughts around, you know, where you're getting royalties on royalties on royalties? For example, like, if you use, you know, let's just use glass as the same example. If you use this particular like form of glass, and then it's like put on a soup can.
+
+Speaker A: Yeah.
+
+Speaker B: We'll do the reverse Andy Warhol. Like, how do you see that as a way of potentially benefiting artists as well?
+
+Speaker C: Tough question. Good one. You know, that's a— I think as long as you honor, as long as the smart contract is written in such a way that anytime it's getting used, that it goes back, that some piece of that goes back to the artist and you honor that smart contract, Well, then that, you know, that's, that's important part. You know, like there are obviously in the, there are some sites out there where you can do trading without, you know, honoring the smart contract. And I, I think that that's problematic, you know. And I like that FXHash forces, you know, forces this. Now we could still do an over-the-counter, you know, on this. So like if you wanted to offer me, you know, your piece of glass and I wanted it in my collection, I could just send you the Tez and you could send me the piece and the artist could be cut out. Now that would be a little immoral and not very cool. But at the same time, you know, it can be done. Now, that involves a layer of trust, but doing it trustlessly, you know, you hope that any platform that gets built that's trading NFTs has those kinds of things built in. You hope that anytime that an artist is minting through their own contract, that they've written all of that stuff in there. And then anytime these things get traded around, these things are, you know, being honored as they get traded. That's what you'd hope, you know, and that's the whole, that's why we do this through a platform and not just do this in other ways, you know, or at least maybe. Yeah.
+
+Speaker B: I mean, and I think that that's maybe one of the things that, you know, we're seeing with like these like digital platforms or these NFT-based platforms, right? Is, you know, I'm assuming like that based off of your history, Like the art world moves at like sort of glacial places, like paces, right?
+
+Speaker C: Sure.
+
+Speaker B: Where it's like, you have to have a large number of conversations to like get to the point where it's like, yes, we wanna spend millions on this Warhol in addition to these other local Cleveland artists. And then like kind of figuring out all those contracts there, which is obviously much easier and faster digitally. You know, and I think that, you know, as we're seeing like these marketplaces erupt, like It's so easy. Like, I can just, you know, make 25 transactions in an hour, you know, because like, A, that's kind of like the speed at which like the network runs. And also just because it's so frictionless, right?
+
+Speaker C: Yeah.
+
+Speaker B: And there is that kind of that middle ground where, you know, if you're having like these like trust-based transactions, even if it's over the blockchain, you know, it still brings it down to kind of like that middle area of speed. Where it's not just that seamless transaction, it's the conversation, right?
+
+Speaker C: And people can buy. That's the thing is that this allows people to be involved and not, you know, some sort of other massive entity that, or, you know, high net worth individual that, you know, 'cause when you walk into an art gallery, they don't wanna sell you art. You know, they don't even want you in there, to be perfectly honest, you know? Most of the time they don't, they're not interested in that.
+
+Speaker A: You're recording from a gallery right now, aren't you?
+
+Speaker C: No, I'm in my house. I'm in my house. I'm just saying, I'm not meaning me. I'm saying like a lot of art galleries, when you go to like Chelsea in New York, they're immediately sizing you up. You know, like when you walk through that door, they're looking at you and they're going, I ain't selling to them. You know, and when you ask them, when you say, can I have a price list? Most of the time they just say no. You know, like if you ask for a price list in a lot of these places, they're not going to give it to you because they're not going to sell you art. You know, like— Why? The way that that system works is very different from any kind of other system. That system says they want to know that you're going to help that artist throughout the remainder of that artist's career, right? They don't want you to buy that piece and put it in your house. They don't want that at all. They want you to buy that piece, have it in your collection, and then down the road they want you to gift that piece, and they want you to continue to buy art from that person, and so that you're continually gifting selling this person's work. You know, back to the Cleveland example, he had to buy 10 works from 5 artists. 5 he had to keep in his own personal collection so that they could say that this is now in this collection. And then the other ones he had to gift to these museums, to various museums, because the seller, he couldn't just do it because he had, you know, 20 of each of these things and it would just look bad. But now whenever he gifts it to the museum and the museum doesn't want it and they put it up for auction, and saying it comes from the, you know, the, this particular collection, then that goes to that auction, and then the original seller gets a buddy of his to buy that thing from that particular thing, you know, from that particular auction, so that that artist can, you can now say this is the value of that work. It sold at auction for $100 grand, so therefore all of these pieces are now worth $100 grand. This work is also in the museum over here. This is in this particular collection. This this guy's collection, so this makes a lot of sense. So whenever you, as a, as just a regular person, Trinity, walks into a gallery and says, I'd like to buy that, you know, Basquiat, they would just tell you no. You know, even if you had the money, even if you pulled it out, even if you said, here's the, you know, $20 million that you want, they'd just be like, nah, beat it. Because—
+
+Speaker B: Sounds like a whitelist to me.
+
+Speaker C: It is absolutely a whitelist. The whitelist is a whole nother realm, right?
+
+Speaker A: It's so wild to hear about. I mean, I have some friends who are artists not on the Basquiat level and just kind of hearing their frustrations of like their inability to even break in, right? Let alone be given the opportunity to strive for that level of like collectible fervor, right? And just acclaim as an artist, but just to even be given the opportunity. Like, I think that's why you see like a lot of young artists, especially like finding cheap places deep in Brooklyn or whatever the Brooklyn equivalent is of your city and starting their own, right? Starting their own venue to display and try to like, because they find themselves completely at odds with the system that's considered legitimate, right? Yeah.
+
+Speaker C: The system doesn't want you.
+
+Speaker A: Yeah.
+
+Speaker C: It's not letting go, man.
+
+Speaker A: We, you know, I'm always the time police here. We're at—
+
+Speaker B: All right.
+
+Speaker A: 45 minutes almost. I want to be respectful of everyone's time, especially you, Ken. So like, let's try to keep this at an hour. And if everyone's cool, I would love to shift it to hearing a little bit more about like the collections or the artists that you like. You know, I know you've even actually this morning, you kind of leaked a little bit of your top 5 list from 2022 so far. Like, I'd love to get a little bit more into like Ken as a collector and Ken as an FX Hash community member.
+
+Speaker C: Yeah.
+
+Speaker A: And like, yeah, who do you like? Like, you know, what, what do you look for when you're collecting a piece? Not just to flip, right? Like, we've all been able to do that, but like, for you to be like, whoa, like, this one appeals to me and my personal taste. Like, can you give us a little bit of insight?
+
+Speaker C: I mean, there are some artists I just buy their work from. Um, you know, Landlines is one of those. Like, I think Landlines' work is— it's really great, you know? I mean, there's nothing that— from the art cards that he did at Before all the way through to the FX stuff.
+
+Speaker A: He apparently, because that's what I was hearing yesterday in Discord. Yeah.
+
+Speaker C: Okay.
+
+Speaker A: I don't know. I haven't confirmed that independently, but that was— anyway, sorry to interrupt. Keep going.
+
+Speaker C: Keep going.
+
+Speaker B: Sorry.
+
+Speaker C: Um, and you know that the, the work that Landlines does is fantastic. And then, you know, anything that, um, Rudxane makes, I, I, I like a lot, quite a bit, because that person also does really great work. Um, You know, I often, I don't, I'll buy things because the artist has made it. But other times I buy it because I like it, you know? And some things I recognize, like I like to make a distinction between good and like, you know? And just because I think something is good doesn't mean I like it. And just because I like something doesn't mean it's good, you know? I think that there is definitely a distinction there. I know Justin Timberlake is good.
+
+Speaker A: Yeah.
+
+Speaker C: I don't like it. So, you know, and that's kind of a way of me to, you know, for me to kind of put those in a place, you know. And I only use him as an example because I actually do like Justin Timberlake. But, you know, anyway, that's a whole other— that's a different conversation. You get the point. And but, you know, so from this year, from 2022, I've found, you know, I think that Palimpsest is just fantastic. I mean, I've had Maybe I had a piece of that Unruly Unroll from his very first or their very first drop, which was called Trails. And I got one of those and I really liked that. And then I kind of paid attention to what they were dropping over time. And I made the decision, you know, I hadn't really bought anything else from them. And then when I was asleep, when they dropped Palimpsest, And man, I was super bummed. I woke up and the price was like $50. And I was like, gosh, and I didn't, you know, and I was like, I was low on Tez. And I was like, man, dang, I can't afford this. But then the price kind of came back down and then I ended up getting some Tez. And then I was, I didn't buy at the floor on Palimpsest. I went through and we looked at a bunch, my wife and I, and my wife helps me kind of curate our collection and what we put into the vault. If she doesn't like something, generally it doesn't go into the vault. You know, but there are a few things that I like and she doesn't and vice versa that are in there. But in any case, and when we saw Polymythia, we kind of looked at them and we were like, man, this is great. And we chose one that we really liked and we vaulted it, you know. And also from, you know, from this year, we've had, we had a few, this year's had a, you know, been pretty good so far, actually, interestingly.
+
+Speaker A: Yeah.
+
+Speaker C: It's slowed down. There's a lot more art, you know, but like, um, it's hard. It's a little bit more difficult to pick through it now. And luckily in, in the price discussion, there's, you know, pretty good eyes, um, in there. And there's people who, you know, who I can look at and at least go, okay, that person likes that for whatever reason. And I can kind of figure things out. And they, some of them know about artists I've never heard of and they help me kind of understand it. General is a mess for me.
+
+Speaker A: Yeah.
+
+Speaker C: I can't really go into general very much on the Discord because it's very difficult to pick through it all. But in any case, from 2022, I like Palimpsest a lot. I like Clue. I think Clue is great. I really like Abstractment. I think that that person is making really excellent work. And I know that they worked on that website. They've created a really nice kind of, you know, world around it. I think what they're doing concerning dropping to a specific amount of holders is cool. Making, you know, he's on Twitter, they wrote like, you know, what they're doing and how they're going to do it. And that's really great. Not that I think that more artists should do that. I do think though that that is a really good way to get, you know, to encourage holding, first of all. And second of all, it encourages people to continue to pay attention to what they're up to. Um, back in the beginning of 2022, I did like— I like Charcoal Brutalism. I thought that was really nice. Um, I think, uh, String Art Generator is pretty good.
+
+Speaker A: Yeah.
+
+Speaker C: Um, from Daniel Julia. That's quite nice. Um, Stitched Trauma is great because it's wild and chaotic, and I like it so much. I mean, I like Stitch, but I like Stitched Trauma, I think, even more for, for various other reasons. I liked Ammonites this year. First Ignition was quite good. Rudxane's Disrupt was good. Yeah.
+
+Speaker A: So First Ignition, and I'm not trying to pull a criticism of the piece. I'm more curious as someone who's new to collecting art, I really, I went to liberal arts school. I have artist friends, but I've never been an artist myself. When I looked at that piece, I had a hard time understanding what was going on there, like with the number of editions and what the goal was of like doing that number of editions. And this is gonna sound like a derogatory thing, but it feels very palette-swappy to me. And that's like, you know, some generative art, I think, that tends to not do well gets distilled down to that of like, oh, this is just like—
+
+Speaker B: Yeah.
+
+Speaker A: these triangles in a certain pattern, but they're palette swapped, right? And I'm just curious, like, so since you called that out as one that you like, and I understand the artist is quite well known, you know, prior to fx hash, like, can you kind of dig in a little, at least for my personal education, honestly? Like, what stands out about that one to you?
+
+Speaker C: It, for me, is really jazzy, you know, for lack of a better term, like, because there's movement in it. And I even jokingly posted on my Twitter, that it's got a good beat and I can dance to it. I had an art professor who used to say, saying that you like something is like saying it's got a good beat and you can dance. It doesn't mean it's good or anything, but, you know, and so that's kind of how I viewed that piece. When I looked at it, I saw this happening here and this happening here, and then there's this conglomeration of things in the center, and this moves this way. And you're right when you're talking about it being palette swappy. I had 2. I chose to throw one up whenever— actually, Trinity and I were having a conversation on the price discussion about where it was.
+
+Speaker A: Yeah.
+
+Speaker C: You know, and how we've kind of figured out the value is in this particular range. And so I thought, you know what, that's true, the value's there. Boom. And I sold it at that price. I put it up and it was gone. So that was good because— and I kept the one I like, you know. Um, we'd also discussed, I think, white or red, you know, are the 2 more important palettes for whatever reason, backgrounds for whatever reason. And I kept my red one, you know. And so that was kind of it. I I don't know. I like it. I think it's interesting because it has that kind of jazz to it. It's got this movement that occurs around it that I liked, you know, and that was really the only reason I bought it in the first place. I didn't know Okaz necessarily before that. I'd seen some of it, like, but I didn't realize it was theirs, you know. I'd seen it on Twitter because things get popped up on Twitter and you're like, oh, that's cool. And then whenever I went looking at who the artist was after, And I said, oh, that's neat. I'm going to get one of those. And then I ended up minting 2 of those.
+
+Speaker B: So yeah, I think that's like an interesting thing as well, because it's not, you know, a lot of it is about the art and a lot of it's about the artist. I think somebody said today is like, you know, what you're buying is the artist. You're buying like a share of like their work, right? Or like of their body of work. And I think with the OKAs, because You know, I did the FOMO thing where I bought at what ended up being like the peak so far, right? And, you know, this is clearly somebody who has, as Will said, you know, some prominence. You know, you both like the piece and think it's good. It has that jazziness. But, you know, there are some things where it doesn't take off, if that makes sense.
+
+Speaker C: Yeah.
+
+Speaker B: Like in the ways that you might expect. And I think it's, you know, trying to quantify that, that I'm like really working to understand. Like, you know, you've been in this industry for a while. Like, are there any things that you've noticed as to what might cause one thing to take off versus something else?
+
+Speaker C: No, I have no idea. I'm clueless. I'm no good at the investment part of it. You know, like, I've seen, look, I'm not going to throw shade at any particular thing, but You know, there are a few things that people really dig that I just, I don't get, you know? And I think that there are some things that I really dig that people don't get, you know? And whether they exist as money or not is, I don't know how that works. Like the show that's in my gallery right now, like it's great. I think it's a fantastic show and it's selling and that's great. You know, it's good for the artist. It's good for my space.
+
+Speaker A: Yeah.
+
+Speaker C: The show before it was fantastic. The paintings in that show were great and not a single thing sold. You know, who knows? You know, it's like why they choose to do this. I'm clueless. You know, I've had a few pieces. I've had a few shows downstairs where I'm like, oh man, this show is gonna blow out. I'm gonna sell all this work. This artist is gonna be eating fat for the next month, right? But then they don't get— I can't even sell the smallest work, you know? And it's just like, I can't even afford to buy them a bread with it. You know, so it's sort of like, I, I don't really, I don't know how that plays out, man. I'm real bad at that. And I'm bad at pricing. I tend to, like you guys discussed before, I tend to overprice things because I like it, you know? I'm like, oh, I love this. I'm going to put $150 on it. And it's selling for like $1.5, you know?
+
+Speaker B: And that's where value is subjective. Totally. Yeah. Well, like, I think it's just interesting because I know that you're going to do a time check on us, Will, but just before we do that. Like, you know, we're still early, right? We're still early into both crypto and especially the NFT space. And I think that, you know, a lot of the people that we've seen adopting it, you know, maybe this is my own background in like the gaming industry, like coming, speaking for itself, but the people who are these early adopters, they probably have like a strong, like, like gaming experience, or they grew up in a world of Pokémon where it's all about, you gotta catch them all.
+
+Speaker A: Totally.
+
+Speaker B: Very much about this accumulation mindset, right? Or this value-driven mindset. And I'm just so interested to see how this changes as the world opens up to more and more people who, once they figure out how wallets work and how to actually get money into Tezos, because they're still very much in the traditional finance world.
+
+Speaker C: Mm-hmm.
+
+Speaker B: Like, I'm just so interested to see how things change and evolve, you know, where it's less about like the quote unquote tech bros or whatever, you know, kind of creating this one world.
+
+Speaker C: It's not going to matter. Pretty soon it's not going to matter what chain it's on, you know, like, yeah, you're not going to care if you're buying it from Ether or from Tez or from Solana or from whatever. You're not going to care. Like, you're going to go to, you're going to open up whatever app is selling it. And you're going to buy it from that app, you know?
+
+Speaker B: And I'm thinking about like, from like the people perspective, like my mom, you know, like my mom listens to our podcast. She's, we were talking about it. And then once I said like blockchain, she was like, I don't know what that is. And the conversation kind of ended there. But like, obviously there's this whole world of people who think that this could be interesting, but you know, it's just, they're not participating because the barrier to entry is like perceived to be high. Right.
+
+Speaker C: Well, it is high. I mean, come on, think about it. Think about what you've done in order to just to get to FX hash. There's so much terminology. There's so much that you have to get. You know, my wife who gets this stuff on, on, on a, on a pretty good level still can't listen to podcasts or anything else around me because she's like, there's just too much. You're using words and you're using things that, you know, that don't make any sense. I tried to take an economics course whenever COVID came down. 'Cause my wife was like, you know what, you can't just sit around and smoke pot and play video games all day. And I was like, okay. And so I decided I would take an economics and finance course to kind of get myself into a different headspace about stuff. And in the very first day of the seminar, it's like an 8-hour seminar, it's like 2 weeks. And the very first day they're using all these words that I had never heard before. So I was just frantically taking notes, you know, all the rest of these kids were like, yeah. And these are all like 20-year-olds. You know, they're all just like, yeah, this and this and this and this. And it's just like, man, I've been in business forever and I have no idea what you're talking about. You know, like, so it was that this is the barrier to entry into blockchain is pretty heavy, you know, and the barrier to entry to figure out like where you, where you want to collect, what you want to collect, what kind of thing you want to collect, you know, are you interested in having all kinds of apes or frogs or do you want to be involved in You know, nature-looking things that come from generative work? Do you want to buy, you know, abstract work? Are you interested in glitch work that's created from old analog machinery? Or do you want to, you know, be involved in buying 3D work from a guy? There's a lot that goes on. There's a lot that goes into this, right? And then there's a lot that goes into it from getting— just from getting to know what you want, and then to figure out how to actually get that thing you want. You know, there's a whole nother That's a whole nother layer of stuff that gets into there. I mean, and that's what it comes from, like the collectors that have asked me to help them. This is where that comes, you know. This is why it's like, I don't— they tell me, I don't want to get— I'm not interested in buying ETH, but I am interested in that Fidenza, you know. And it's like, well, we got to get ETH in order to get that Fidenza, you know. You got to give me 100 ETH, and 100 ETH is a lot of money. And then in order for For me to get to that point, you have to give me all that stuff, you know, and we have to get to that particular place. I mean, so in any case, this is not— we are a long way, I think, from actual critical adoption, you know, and I don't think, you know, I don't think that this is around the corner. I think that we're quite a ways away. We are closer than some people think because millennials are naturally, you know, That age group is naturally already internet savvy because they've been on the internet since they were kids, right? People of my generation, we didn't get the— I got the internet at like 21, you know, like, so like the— I was already, my brain had already kind of formed, you know? And so like, there's a difference there. And like, even talking to people who are my age, and I'm not really that old, you know, I may look old, but I'm not that old.
+
+Speaker B: Yeah.
+
+Speaker C: And when I talk to these people, sometimes in this, in my age group, they still have no connection to, you know, what blockchain or how the internet even works. You know, when I talk about TCP/IP protocols, they're just like, what? And it's like, what are you saying to me? And it's like, oh yeah, right. Okay. Yeah, I got it. So, you know, and I just kind of back off and go into another direction with most of these folks. Anyway.
+
+Speaker A: Excellent. Well, yeah, Timecop checking in. We're at an hour. I think, you know, since I think this is a really good place to kind of resolve, for lack of a better term.
+
+Speaker C: Sure.
+
+Speaker A: You know, maybe as a way to close it out, you know, Ken, you've been an amazing guest. I know you threw a lot of shade before. Let me give you an opportunity to throw praise. Are there any artists or particular collections, whether you own them or not? You know, we talked a little bit about 2022. Is there anyone you want to shout out that you think is underappreciated or could, you know, could be appreciated more? Just, we're all about kind of like, you know, I think in our show we try to highlight artists across the spectrum, right, of price and level of recognition. So anyone that you want to throw out there some praise before we sign off?
+
+Speaker C: Yeah, I mean, I think Mark Knol is incredible. I think that everything that Ruxanne Dunn does is great. I particularly like, personally, I like Onda a lot. It just, for whatever reason, resonates with me. I think Confini was a fantastic thing from Twisty.
+
+Speaker A: Twisty.
+
+Speaker C: That was really good. Everything that Bigola makes, I quite like. I think the first Murmurations was quite good. The circular one, I'm a little bit less interested in, but whatever. And then PixelShrd, he makes— they make great stuff. I like that quite a bit. And I've already mentioned Clue and Palimpsest and Chromatic Dazzle. I still think Chromatic Dazzle, it's— I think it plays to the whole nostalgia idea. Like when you first get into something, you know, that's that thing and that's the thing that got you there. So you're really interested in that. And that was what got me there. And Groobz Wave. Yeah. From the first round of things as well is also pretty awesome. I love to watch that. Um, I can just put that on and just let it just kind of flow. It's like looking at an alien landscape, man. It's really amazing. And the Acromats, you know, uh, again, back to Acromats. And Tingle's Unicorn Cotton Candy, like, that one for whatever reason never really caught, but man, it should. It's beautiful. There's some really great variation in that. And like, I got to admit, like, I, I I, when it happened, I minted a bunch of them. I sold a bunch and then I bought more on secondary later before he dropped Fall. And like, Fall is fantastic. I don't know if you guys have seen that over on, on ETH, but that is a great, man, that is really, really good. And so Tingle makes really nice work and that particular piece from Tingle is quite good.
+
+Speaker B: Awesome.
+
+Speaker A: Anything, Trady, you want to add anything? Should we close it out?
+
+Speaker C: No.
+
+Speaker B: I think that this has been an amazing conversation. I know that I've learned a lot, you know, just kind of about, you know, where we've been, like where we are today. And just, I don't know if it's a clue as to where we're going. I guess we'll see. Nobody can really predict the future. Maybe Elon Musk can. I don't know.
+
+Speaker C: I don't think so. All right.
+
+Speaker A: A little bit of shade at the end there towards Elon, which I'm okay with. Yeah. Well, thanks so much, Ken.
+
+Speaker C: Thanks a lot, y'all. Thanks for having me. And thanks, shout out for CypherD, man. Come on, like, what an amazing thing that this guy's built. What a great thing.
+
+Speaker A: Yeah, we love it, obviously.
+
+Speaker C: Obviously. Yeah.
+
+Speaker A: Great. Well, thanks so much and hope everyone enjoyed this bonus episode interview. And, man, you know, I'm not even going to do the plugs. You know, I forgot to plug the— forgot to do the plugs up front. No, probably people aren't going to hear it now, but you can donate to us. You can follow us on Twitter. I always like to do the plugs. But yeah, that's it.
+
+Speaker C: Thanks. Thanks.
+
+Speaker A: Bye everyone.
