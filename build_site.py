@@ -191,8 +191,24 @@ def extract_links(bio: str) -> dict:
     return links
 
 
+LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
+
+
+def _esc_em(s: str) -> str:
+    return re.sub(r"\*([^*\n]+)\*", r"<em>\1</em>", htmllib.escape(s))
+
+
 def render_inline(text: str) -> str:
-    return re.sub(r"\*([^*\n]+)\*", r"<em>\1</em>", htmllib.escape(text))
+    # markdown links [label](url) (label may itself be *italic*), then italics
+    out, pos = [], 0
+    for m in LINK_RE.finditer(text):
+        out.append(_esc_em(text[pos:m.start()]))
+        url = htmllib.escape(m.group(2), quote=True)
+        out.append(f'<a href="{url}" target="_blank" rel="noopener">'
+                   f'{_esc_em(m.group(1))}</a>')
+        pos = m.end()
+    out.append(_esc_em(text[pos:]))
+    return "".join(out)
 
 
 # Image marker placed on its own line/block between turns:
