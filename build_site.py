@@ -127,6 +127,8 @@ GREETING = re.compile(r"\b(thank you|thanks for having|nice to be here|happy to 
 def pull_quote(text: str) -> str:
     """A short, punchy, self-contained line from the guest, for the quote strip."""
     for block in text.split("\n\n"):
+        if block.lstrip().startswith("[img:"):   # never quote an image marker
+            continue
         m = re.match(r"^([^:\n]{1,40}):\s*(.*)$", block.strip(), re.DOTALL)
         who, body = (m.group(1), m.group(2)) if m else ("", block.strip())
         if who in ("Will", "Trinity"):
