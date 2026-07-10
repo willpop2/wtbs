@@ -10,8 +10,6 @@ I eventually learned QBasic and started making little games on my PC, which led 
 
 Will: I think I was in a similar math league back in middle school. The thing I remember most was learning to invent operators — they'd give you something like "7 star 4 plus 3 star 9," then define "a star b" as "a plus b, squared, times b," and you'd have to extrapolate backward. Pretty novel stuff for middle school. Same kind of experience?
 
-[img: Architectonica_038.avif | Architectonica | ]
-
 Jimmy: 100% — Math Olympiad, state competitions, all of it. Super fun.
 
 Will: I never transitioned that into coding, unfortunately, but I really enjoyed it. So you got into coding and algorithms — but what about blockchain, NFTs, and actually releasing long-form generative art? What was your journey there?
@@ -22,9 +20,9 @@ Somewhere in there I stumbled on Bitcoin — maybe through Anthony Pompliano or 
 
 At first I was skeptical — I viewed everything as a derivative of Bitcoin and didn't want to trust it. But then I saw Art Blocks, I saw *Terraforms* by Mathcastles, and I discovered people were making generative art on-chain. The idea that you could meaningfully preserve digital work trustlessly on-chain fascinated me. I became ETH-pilled, started trading, got NFT-pilled, and fell in love with the whole scene.
 
-Will: That's a pretty common story — same for myself and my co-host on the show. We both got into crypto through COVID, with nothing to do but sit around watching YouTube between meetings, and that led us into art. Though we came in through Tezos, which I think is unusual — I've got my fx(hash) shirt on right now. I don't know if you ever looked at fx(hash) or Tezos — a lot of people ignored it and stuck to ETH — but it was an interesting scene, and it spawned this entire show, which we've now been doing for almost five years.
+[img: Architectonica_038.avif, Architectonica_192.avif | Architectonica | ]
 
-[img: Proscenium_014.avif | Proscenium | ]
+Will: That's a pretty common story — same for myself and my co-host on the show. We both got into crypto through COVID, with nothing to do but sit around watching YouTube between meetings, and that led us into art. Though we came in through Tezos, which I think is unusual — I've got my fx(hash) shirt on right now. I don't know if you ever looked at fx(hash) or Tezos — a lot of people ignored it and stuck to ETH — but it was an interesting scene, and it spawned this entire show, which we've now been doing for almost five years.
 
 Jimmy: I regret not having looked into it. I was coming from such a skeptical place, and by the time I found out about it, that scene had already grown up and I'd missed it.
 
@@ -38,8 +36,6 @@ I was also in love with 113 and *Terraforms* — I'd been drawing on *Terraforms
 
 Will: Did you collect any Loot yourself? Coming from games, did you think NFTs-in-games was actually a feasible vision, or were you skeptical of that too?
 
-[img: Reliquary_35065.avif | Reliquary | ]
-
 Jimmy: Very skeptical — I never got Loot-pilled on how that could fit into games. I'd give it the benefit of the doubt and listen to people talk about it, but from the inside, the games industry is all about click-through rates on ads, retention, analytics — are you getting people to play, how often are they coming back? The idea of integrating a blockchain, having people set up a wallet — it gets complicated fast, and I just saw it crashing all the metrics game devs are forced to optimize around, for better or worse. So no, I didn't buy that vision. But I did get pretty addicted to Clone X for a bit — I'd gotten into anime on Adult Swim, and Clone X had that anime aesthetic, so I gave it a shot. It was very chaotic — Murakami actually bought a Clone from me that I'd listed at a crazy price because I didn't actually want to sell it. So I was trading, just not Loot. A lot of fun.
 
 Will: I don't think you had any releases between those projects and *Proscenium* — I know getting onto Art Blocks was a goal of yours for a while. There's almost a two-year gap between *the reliquary* and *Proscenium*. Were you heads-down working on *Proscenium* that whole time, or doing other things on the side?
@@ -48,13 +44,13 @@ Jimmy: NFTs — trading and making art — has been my full focus this whole tim
 
 Will: But yeah, if I remember right, it did pretty well at a time when Art Blocks was slowing down. They hadn't announced it yet, but they were surely percolating the idea of what became the Art Blocks 500 program, which we now know, as of 2025, has basically shut down the whole curated model as it existed. You were one of the last artists in there that really made a big splash with both minting out and secondary action. It must've been a great feeling to have that. What was the application process like? Did you get interesting feedback along the way, or any part of it especially worth talking about?
 
+[img: Proscenium_014.avif, Proscenium_032.avif | Proscenium | ]
+
 Jimmy: I remember getting some feedback, and talking to the Art Blocks folks about it, but my ability to recall things spontaneously is pretty weak these days. I've been experiencing seizures, epilepsy, for about ten months now, and to be completely honest, I've been grieving my past self a little bit. I'm a meticulous, precise person — I want to be honest about whether or not I actually know something, and right now I can't even pull up the word half the time. I want to be precise about my confidence level. Computer scientist stuff, you know.
 
 My ability to recall has been kind of blasted, and I've lost my ability to form new long-term memories. Quick example: after fifteen days, I thought an HVAC repairman had visited five months ago. He'd actually been there fifteen days earlier, and told me I needed to clean something out once a month. I thought it had been five months, so I was freaking out, telling my wife I had to go do this, and she was like, "Jimmy, he was here two weeks ago. What are you talking about?" After a couple months I can usually remember things if someone takes me there directly — if you tell me what happened, I'll say, "Oh yeah, I remember that" — but getting there on my own is almost impossible. It's really strange. Good news is I'm on meds now, and they seem to be helping.
 
 So all this to say, I can't remember every step of the way, and I wish I could answer more clearly. But I can tell you it was a dream come true. Working with Art Blocks was amazing. As for the broader market, I remember feeling that things were winding down too — the first indicator was that mine was the first project with a 30% cut going to the platform. That was a tell that they needed to make things more sustainable on their end, which makes sense. I was just happy to be part of it.
-
-[img: Terraforms_041112.svg | Terraforms | ]
 
 When the auction happened, my dad was watching and called me crying on the phone. You always want to make your dad proud, and that was a moment I genuinely felt it. He's an outdoorsy guy — a fisherman, a hunter — and I'm a computer science art nerd, so I always figured I'd never really connect with him that way, since I'm not as good at catching fish or catching a football. But he was so proud, and that was incredible.
 
@@ -68,9 +64,9 @@ In the process, I tried projecting it isometrically, and that created a contrast
 
 I should mention I'm also dealing with a lot of stress and anxiety generally. I work from home, we're homeschooling, and we have a five-year-old, a three-year-old, and a one-year-old — so you can imagine how loud it gets. I love them, and none of this is their fault, but it's about finding a way to navigate that and protect myself. The seizures started a week after my third was born, so that whole ten months has been a blur. I kept thinking, I have to support this family — and I couldn't even remember how long I'd been working on this piece, or how much longer it would take. It became this crushing anxiety, especially when I'd need to step in and help around the house, babysit, or handle something else, and it got harder and harder to focus. I put more and more pressure on myself to finish it, until I just needed to get it out — finish it and let it go, just to get that stress off my plate. My neurologist has been telling me I need to find ways to reduce anxiety and stress, because it's going to be very hard to get seizure control otherwise. That felt like one of the biggest things I needed to just finish.
 
-[img: Vibes_1658.avif | Vibes | ]
-
 Will: So was self-releasing simply a necessity for expedience — you wanted it out, didn't want to spend time shopping it around, even though there are still curated options out there? Verse, for instance, or galleries that support online releases, or you could have sold prints — which I know you're planning to do anyway — but that route means someone tells you, "We can slot you in in October," because they have to plan far out. Was it more like, "I want this out, I need to earn from it, I can't afford to sit on it"?
+
+[img: Terraforms_041112.svg, Terraforms_130107.svg | Terraforms | ]
 
 Jimmy: It was more that the feeling of it being unfinished was unbearable. I don't know why it became that, but it was crushing. Hindsight being 20/20, I wish I had talked to folks about it, relaxed, and found the patience to release it more thoughtfully. The work deserved that — I put a lot into it. Maybe I panicked. Where I'm at with the epilepsy is we're still trying to get the seizures under control — the first medication didn't work, and I'm titrating up on a second now. I think it's working, but at the time I released the piece, it was unclear, and I wanted to get as much stress off my plate as possible to help figure out what I was dealing with.
 
@@ -81,8 +77,6 @@ Will: I'll say, I thought the way you released it was really interesting and pre
 Verse and other platforms have never done the two-stage system you designed. For anyone who didn't see the release: collectors could play with the algorithm on your website, curate seeds, then for a small amount — about $15, or 0.007 ETH — submit seeds anonymously. From that anonymous pool, you picked the final 250. Anyone whose seed got picked had it minted to their wallet for free. So collectors took some risk upfront, submitting seeds that might not get picked, which also acts as a natural filter against people spamming thousands of seeds hoping to snag free pieces. I thought it was elegantly done — and given your background in gaming, I could see the design sensibility behind it. How did you land on that system? Did you socialize the idea with other artists or collectors, and what were your concerns going in — aside from the internal pressure to just get it out and done?
 
 Jimmy: That part was designed before I hit that boiling point. I'd originally called it "the Curation Game," which leaned more toward the gambling, degen side of things. I wanted to lean more into the art side, so I went with the algorithm's name instead of that mechanism name. The idea was inspired by *QQL* — Hobbs was probably the first person to do collector-curated, if I'm not mistaken.
-
-[img: Architectonica_192.avif | Architectonica | ]
 
 Will: That I can think of, yeah. There's always someone who technically did something first, but yeah — probably the first notable one.
 
@@ -96,7 +90,7 @@ Then I'd know I need to go work on it or cut it. I did that for about fifty days
 
 Will: It's for sure the biggest advantage of collector-curated. There have been some great larger releases on Verse, but they don't really do that stuff much anymore — they've shifted their focus more as a platform away from generative work and toward AI. But going back, some projects had 800 or 1,000 editions that were collector-curated, and you can see the algorithm was just allowed to go wild, because at the end of the day, people get to pick, so no one's going to be unhappy. The only person who stands to be unhappy is the artist, looking at what the community picked without their input. That's the downside, I guess. What are some of the stats? How many people interacted — were there any wallets that outperformed, or anyone who got nothing?
 
-[img: Proscenium_032.avif | Proscenium | ]
+[img: Reliquary_35065.avif, Reliquary_56857.avif | Reliquary | ]
 
 Jimmy: There were, and that made me sad. Six hundred thirty-one seeds were submitted, 250 in the final supply of tokens curated. There's been a little secondary activity, so it's a little hard to know now, but I don't think it's enough to matter — roughly three submissions per submitter, a little over that. One thing that surprised me is some of the largest submitters really had a good hit rate. The largest holder, I think his name is Will Peester — he's awesome, I've just known him as a person on Ethereum, I think he works with Bankless — he submitted a ton, which was awesome to get that kind of support. In the end he got a ton of tokens because he did such a good job connecting with me and finding stuff that I wanted in that final bunch.
 
@@ -110,8 +104,6 @@ And you get the lab tests back, and it's like, multiple sclerosis test? I didn't
 
 Will: When I saw the outcome, I figured — well, I know anecdotally, seeing some people reply, there was definitely some fear from collectors: "I don't want to submit seeds if I'm not going to get something." So you probably lost some people to that, though I don't know if that accounts for the whole delta between expectation and result. But in my head, the upside is that everyone who got one was someone genuinely interested enough to risk money on it. So your conversion rate on an upsell into a print or something has got to be pretty good, hopefully — though it'll come down to size, pricing, and other things. Where are you in the process of planning that out? Are you trying to get it out relatively soon? I hate to say "upsell" in the context of art, but we're talking about a pretty novel way of releasing this, so it feels like just a business term.
 
-[img: Reliquary_56857.avif | Reliquary | ]
-
 Jimmy: No, 100%. I don't think of prints to NFT holders as a big source of income. If I look at *Proscenium* — I have so many of these right here because I went and bought them on secondary. It's a stretched canvas over a wood frame, trying to highlight the texture of the paint. I wanted to do a special print for this project, working with a local print shop, doing signed prints. I didn't sell very many of these, and I don't regret doing it, but it wasn't meaningful financially. I think it was meaningful to the collectors who got them, and I want to keep doing that — these are people supporting my practice, and getting a physical object in their hands that represents that support and the piece they collected, being able to live with that, is really awesome.
 
 The other thing I'll say — we talked about how much this raised, around $10,000. Talking to my dad after doing this, he said, "You sold an artwork for $10,000. Do you know how many artists would kill for that? Van Gogh died having never sold anything."
@@ -122,9 +114,9 @@ Jimmy: Perspective matters a ton when thinking about this. This particular piece
 
 Will: Not making people use a wallet, right? Same issue as gaming. I'm curious to see how more artists navigate this, especially with Twitter struggling -- crypto still lives there and has dug in, for better or worse -- versus Instagram, which is more natively visual and isn't going to bury you for sharing images. If you get 100,000 followers on Instagram, you don't have to worry that 10,000 of them only do Tezos, 20,000 only do Ethereum, and one guy only does Cardano for some reason -- you don't have to worry about your fan base already being split into silos based on how they collect. But you also don't get that rush of watching an auction, that Art Blocks thing. You don't get that speculative immediacy that's so unique to crypto -- or at least what it used to be.
 
-Jimmy: I think you can still separate it. With *Architectonica* specifically -- I don't actually know if people have done this, but have they printed out of bounds? I have to imagine some have printed from the algorithm outside of the NFT tokens. The NFT still represents ownership in the artwork; the print is a print. So you can design tiers: the most accessible tier is the most affordable, with some reasonable baseline of archival quality -- whatever you deem appropriate for your practice. Then you have step-ups: I'm going to work with this special shop locally, ensure the quality myself, put my time and effort into being there for the print, and sign it so you know I was there.
+[img: Terraforms_141115.svg, Terraforms_144225.svg | Terraforms | ]
 
-[img: Terraforms_130107.svg | Terraforms | ]
+Jimmy: I think you can still separate it. With *Architectonica* specifically -- I don't actually know if people have done this, but have they printed out of bounds? I have to imagine some have printed from the algorithm outside of the NFT tokens. The NFT still represents ownership in the artwork; the print is a print. So you can design tiers: the most accessible tier is the most affordable, with some reasonable baseline of archival quality -- whatever you deem appropriate for your practice. Then you have step-ups: I'm going to work with this special shop locally, ensure the quality myself, put my time and effort into being there for the print, and sign it so you know I was there.
 
 And maybe if you have an NFT, the only person who will ever have a print of that specific piece is you, because you own that token. But there's also an exploration where the artist curates a set of outputs that would make great prints, and for folks who are really jiving with that style, you show them the generator and let them make their own print. Maybe there's something to be done there -- for people who only want to spend $30 or $40 and want that accessible tier.
 
@@ -138,13 +130,13 @@ There's so much advantage to having physical stuff, even though it's not "crypto
 
 Jimmy: Oh yeah. I want seed claimers to have access to the same level of print that a token holder gets -- some might disagree, but they essentially supported me in the same way, and their seed is protected, on-chain. The whole script is on-chain, so you can plug in that seed and get the artwork. That's one of my favorite parts about generative art: not having to pin anything or pay to keep it alive over time. It's there, it's done.
 
-[img: Vibes_1699.avif | Vibes | ]
-
 We're at such an interesting time with AI agents making everything easier to build. The code isn't always as elegant as it used to be -- you won't find as many Solidity smart contracts that are also works of literature, unless you really get your agents spiced up on that. My wife calls it a calculator: calculators are amazing if you already know math. You'll have a much easier time building something reasonable with AI if you already know what a reasonable thing looks like. So I think building a print shop -- doing it justice, reaching more of an internet audience while still catering to the folks who've made this whole practice possible, making prints available to token holders and seed claimers alike -- why not give it a shot?
 
 Will: Definitely, I'll be looking at it when it's available. Though it also depends on what my wife thinks gets hung up sometimes.
 
 Jimmy: A hundred percent.
+
+[img: Reliquary_62601.avif | Reliquary | ]
 
 Will: I've got some non-project questions. You work in gaming, you grew up a gamer -- but between teaching your kids to read and coding art full-time, do you still have time to game? Are you playing anything these days?
 
@@ -153,8 +145,6 @@ Jimmy: Yes and no. I played *Breath of the Wild*, *Tears of the Kingdom*, *Visio
 Will: Did you play WoW Classic when that came out?
 
 Jimmy: Oh yeah, 2004, day one.
-
-[img: Architectonica_203.avif | Architectonica | ]
 
 Will: No, I mean when they remade WoW Classic, around 2019.
 
@@ -168,9 +158,9 @@ Will: Yeah -- I'd have to look it up to remember the name, but it's based on the
 
 Jimmy: Witch Hunter or something?
 
-[img: Proscenium_074.avif | Proscenium | ]
-
 Will: They called it the Warlock. They went with modern game design philosophy on it, where you basically can't make a bad build -- all three disciplines have a viable build. That was not Diablo 2. Diablo 2 was, "you're going to be all-in on this or your build's not going to do anything" -- the ice orb sorceress or whatever. People say the new class is really overpowered, very casual-friendly. Anyway, I thought I'd put it on your radar for when things settle down and you can jump back in.
+
+[img: Vibes_1658.avif, Vibes_1699.avif | Vibes | ]
 
 Jimmy: That's awesome.
 
@@ -181,8 +171,6 @@ Jimmy: I have some stuff from Marfa 2024, a lot of my own prints, and a good num
 I also collect retro games -- when I worked in games, I lived in Tokyo for about a year, bouncing back and forth, and there was a store there called Super Potato where you could buy a lot of old retro games. I started collecting things like the Super Boy, a Super Nintendo handheld version, and I have a lot of those cartridges -- stuff only released in Japan.
 
 Some of my favorite pieces: *Autoscope* by Erik Swahn, *Cycles* by Material Protocol Arts -- Matto and those guys. I've also got a piece by Andreas Rau, James Merrill, Jan Robert Leegte, Eric Calderon -- a couple pieces that just resonated with me, so I collected and held on to those. I did have to sell my forever Clonex to tax-loss harvest, unfortunately.
-
-[img: Reliquary_62601.avif | Reliquary | ]
 
 Will: We've interviewed a fair number of the folks you just listed, so you can go back and listen to those episodes if it strikes your curiosity. A lot of those are some of our favorites as well.
 
@@ -196,7 +184,7 @@ Will: Turntable, where you'd take turns being the DJ and people would vote you u
 
 Jimmy: Yes.
 
-[img: Terraforms_141115.svg | Terraforms | ]
+[img: Vibes_1796.avif, Vibes_1821.avif | Vibes | ]
 
 Will: Do you know who was a big part of that project — I don't know if he directly founded it, but we interviewed him a couple years ago. The guy who started Bright Moments.
 
@@ -210,8 +198,6 @@ Will: Okay, yeah.
 
 Jimmy: Thursday, Taking Back Sunday, Saves the Day, all that. Got really into Radiohead in college, especially *In Rainbows* — awesome album. More recently I've been getting back into classic '70s rock. Yes is my happy place right now. Beatles, America, Elton John — we were listening to Jimmy Buffett the other day too. Anything upbeat, the stuff our parents would've played. It helps with the kid chaos, gets some good vibes going. Yes is my current happy place, though.
 
-[img: Vibes_1796.avif | Vibes | ]
-
 Will: What's the Yes album — *Tales from Topographic Oceans*, or something like that?
 
 Jimmy: The—
@@ -222,9 +208,9 @@ Jimmy: Yes.
 
 Will: This one's pretty good. And *Close to the Edge* is the one I think everyone knows, right?
 
-Jimmy: Yes, that album's great. We've been jamming on that — "And You and I" especially.
+[img: Proscenium_074.avif, Proscenium_087.avif | Proscenium | ]
 
-[img: Architectonica_228.avif | Architectonica | ]
+Jimmy: Yes, that album's great. We've been jamming on that — "And You and I" especially.
 
 Will: I want to look for Crosby, Stills, Nash & Young too.
 
@@ -238,8 +224,6 @@ Will: I feel like everyone in NFTs has some collector in them — Pokémon cards
 
 Jimmy: Oh, wow.
 
-[img: Proscenium_087.avif | Proscenium | ]
-
 Will: We went to school together but bonded over being Magic players. You'd think, given how many quantitative people play that game, it'd be overrepresented on the crypto side — but it's just not, for whatever reason.
 
 Jimmy: I did play, actually. I had baseball cards, Pokémon, and Magic, but I got into Magic the most when I was living out in Mountain View for a bit — Silicon Valley for the games industry. We started playing locally, in person, and then some folks turned me on to Magic Online. That became really addicting. I went through a phase where I was playing a little too much Magic.
@@ -248,13 +232,13 @@ Will: The original NFTs.
 
 Jimmy: Yeah.
 
+[img: Architectonica_203.avif, Architectonica_228.avif | Architectonica | ]
+
 Will: Magic Online digital objects.
 
 Jimmy: You could sell the digital cards on the online version. That was wild.
 
 Will: It was this old bulletin board system where you'd post what you had and how much, but they wouldn't let you transact in dollars — you had to use event tickets, and then there were places to cash those out. My understanding is that was all because of AML, anti-money-laundering rules — they didn't want people washing dollars through the platform. People still did, probably just not to the degree they would have otherwise. That was honestly kind of the original... I mean, Diablo 2 had its own out-of-game economy too, people trading on bulletin boards.
-
-[img: Terraforms_144225.svg | Terraforms | ]
 
 Jimmy: You think MetaMask is hard?
 
@@ -268,9 +252,9 @@ Jimmy: I'm going to give this print thing a shot — I think I can do it justice
 
 Will: Especially since you already wrote the contract and have it all figured out — you're bringing that to the table. Looking forward to the prints. I'm interested, and I'd bet a fair number of people will look hard at it, because the way you did this felt like more of a *thing* to get picked — you want to honor that.
 
-[img: Vibes_1821.avif | Vibes | ]
-
 Jimmy: I should say thank you to Will for supporting me, and to everyone else who took part in this experiment. You're all awesome, I really appreciate it.
+
+[img: Architectonica_249.avif | Architectonica | ]
 
 Will: I love to gamble, and I trusted my taste. I thought I'd get three picked and got two, so a little under expectation there, but—
 
@@ -281,8 +265,6 @@ Will: Were you curating along the way, or did you wait until everything was done
 Jimmy: One big pile, after everything was done.
 
 Will: And you were experienced enough from doing this yourself that you got it done in about two days — pretty quick.
-
-[img: Architectonica_249.avif | Architectonica | ]
 
 Jimmy: I put a lot of pressure on myself, because I felt like people had given me money — where's their NFT? It's hard not to feel that looming over you: make sure every *i* is dotted, every *t* crossed, before it goes up on OpenSea. But I'd had so much practice curating — that's honestly the whole reason it went fast.
 

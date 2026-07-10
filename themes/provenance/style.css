@@ -171,7 +171,9 @@ em { font-style: italic; }
 .changelog .cl-credit { color: var(--muted); font-size: .85rem; }
 
 /* inline figures */
-.ep-figure { margin: 2.5rem auto; max-width: 520px; }
+.ep-figure { margin: 2.5rem auto; max-width: 400px; }
+.ep-pair { max-width: 660px; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; align-items: start; }
+.ep-pair figcaption { grid-column: 1/-1; }
 .ep-figure img { display: block; width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--border); }
 .ep-figure figcaption { font-family: var(--mono); font-size: .75rem; color: var(--muted); margin-top: .6rem; text-align: center; }
 .ep-figure figcaption a { color: var(--accent); }

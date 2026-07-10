@@ -218,8 +218,13 @@ def render_figure(m, slug: str) -> str:
             inner += (" &middot; " if caption else "") + \
                 f'<a href="{htmllib.escape(credit)}" target="_blank" rel="noopener">source</a>'
         cap = f"<figcaption>{inner}</figcaption>"
-    cls = "ep-figure ep-gallery" if len(imgs) > 1 else "ep-figure"
-    grid = f' style="--n:{len(imgs)}"' if len(imgs) > 1 else ""
+    if len(imgs) == 2:
+        cls = "ep-figure ep-pair"          # two side by side
+    elif len(imgs) > 2:
+        cls = "ep-figure ep-gallery"       # 3+ fallback grid
+    else:
+        cls = "ep-figure"                  # single
+    grid = f' style="--n:{len(imgs)}"' if len(imgs) > 2 else ""
     return f'<figure class="{cls}"{grid}>{"".join(imgs)}{cap}</figure>'
 
 

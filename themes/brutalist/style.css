@@ -129,7 +129,9 @@ em{font-style:italic}
 .changelog .cl-credit{font-family:var(--mono);font-size:12px;opacity:.6}
 
 /* inline figures */
-.ep-figure{margin:44px auto;border:3px solid var(--k);max-width:520px}
+.ep-figure{margin:40px auto;border:3px solid var(--k);max-width:400px}
+.ep-pair{max-width:660px;display:grid;grid-template-columns:1fr 1fr;gap:6px;align-items:start}
+.ep-pair figcaption{grid-column:1/-1}
 .ep-figure img{display:block;width:100%;height:auto}
 .ep-figure figcaption{font-family:var(--mono);font-size:12px;text-transform:uppercase;padding:10px 14px;border-top:3px solid var(--k)}
 .ep-figure figcaption a{text-decoration:underline}
