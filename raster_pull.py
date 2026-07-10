@@ -40,8 +40,12 @@ def _strip_tags(html: str) -> str:
 
 
 def fetch_token(contract: str, tid, chain: str = "ethereum") -> dict:
-    """Return crediting metadata for one raster token."""
-    url = TOKEN_URL.format(chain=chain, contract=contract, tid=tid)
+    """Return crediting metadata for one raster token (ethereum contract+id)."""
+    return fetch_url(TOKEN_URL.format(chain=chain, contract=contract, tid=tid))
+
+
+def fetch_url(url: str) -> dict:
+    """Return crediting metadata for any raster token URL (any chain)."""
     html = _get(url)
 
     art = {}
@@ -74,7 +78,8 @@ def fetch_token(contract: str, tid, chain: str = "ethereum") -> dict:
         owner_name = owner_addr[:6] + "…" + owner_addr[-4:]
 
     return {
-        "token": str(tid), "title": title, "artist": artist, "artist_url": artist_url,
+        "token": url.rstrip("/").rsplit("/", 1)[-1],
+        "title": title, "artist": artist, "artist_url": artist_url,
         "year": year, "image_url": image_url, "owner": owner_name,
         "owner_addr": owner_addr, "source": url,
         "credit": f"{title} — {artist}, {year} · collected by {owner_name}",
