@@ -14,6 +14,8 @@ Will: It's okay, everyone else will listen.
 
 Trinity: Exactly, this is for the people. I don't listen back either—it's a little cringe to hear the questions we ask sometimes. But glad you're here today. You've got a list of questions you theoretically prepared. You've also technically been preparing for this for two years, let's be honest.
 
+[img: 8Bidou_Cities.avif | 8bidou | ]
+
 Will: This is not your first rodeo. Let's kick it off.
 
 Zancan: Let's go.
@@ -27,6 +29,8 @@ I graduated as an engineer in electronics, for some reason—I wanted to go to a
 Eventually I created my own development studio with a friend. It's been running for 20 years, mostly programming interactive stuff—touch tables, video projections for museums, always real-time graphics and interactivity. Technically it was pretty demanding: people would come to us for innovative or special projects with short deadlines that required real technicality, so it felt like mercenary work a lot of the time. That experience with interactive, real-time animation is actually the reason I decided generative art, for me, would only be still images.
 
 Trinity: That's an amazing story—and it sounds like your parents were right, to a certain extent. Finish the engineering degree, then see what happens. Though if you'd gone to art school, who knows what could have happened?
+
+[img: ABuggedForest_1000.avif | A Bugged Forest | ]
 
 Zancan: I talked to a lot of people back then about getting an art education, and everyone told me art school wasn't for me—that it would teach a very formatted, very conceptual type of art. My inspirations were more figurative, portraiture, classic painting, and that's what triggered me most. People really discouraged me from going. So I followed my own path, and obviously I didn't fit into the art world—no formal teaching, no validation from an art school. I made what I liked, but I knew it wasn't something I could sell. I wasn't "legit" for the art world anyway.
 
@@ -42,7 +46,7 @@ Obviously I wanted to make an NFT at some point, but I kind of forgot about it�
 
 Trinity: fx(hash) really changed the landscape by making long-form generative art accessible. When you were developing Grass.js and doing your early plots and sales, was long-form generative art your intention, or were you looking to create more tightly scoped one-of-ones or small series?
 
-[img: LandscapeWithCarbon_00001.avif, LandscapeWithCarbon_02517.avif, LandscapeWithCarbon_02633.avif | Landscape with Carbon | ]
+[img: GardenMonoliths_199.avif | Garden Monoliths | ]
 
 Zancan: Not at all—I didn't even know what long-form was, and it wasn't my intention. I'd heard about Art Blocks from my studio mate early on, around March 2021—I think a *Subscape* by Matt DesLauriers was minting at the time. I thought it sounded cool but forgot about it. Didn't buy—I didn't have any cryptocurrency, and it seemed so expensive to me. I was hesitant to invest my own money into cryptocurrency to buy art. But after I launched my first NFTs and they sold well, that changed my mind—and my capacity for collecting.
 
@@ -52,8 +56,6 @@ But some of my collectors from Foundation and Tezos became early, completely obs
 
 Then I heard an interview with Ciphrd explaining the platform, which was gaining a lot of traction, while I was making a very important plot I called *Monolith 000*. As I listened to Ciphrd, I imagined using fx(hash) to distribute that plot—chopping it into pieces and making a project that would let me distribute a little piece of it to many people. I contacted Ciphrd asking if there was a way to know the edition number of each output, and there wasn't—no plan to add that anytime soon. Every iteration exists alone, with no knowledge of the outside world, so the platform couldn't be used to distribute a finite set of elements that way.
 
-[img: GardenMonoliths_199.avif, GardenMonoliths_245.avif | Garden Monoliths | ]
-
 That changed my plan—thankfully I didn't chop that plot into pieces, and I made *Garden, Monoliths* instead. You know the story from there. About two weeks after releasing *Garden, Monoliths*, given the success it had, I put the original plot up for auction, and it went completely over the ceiling. One crazy moment for me.
 
 Will: I want to talk more about the aftermath of *Garden, Monoliths*, but first—can you say who that collector was? Are they still actively collecting?
@@ -61,6 +63,8 @@ Will: I want to talk more about the aftermath of *Garden, Monoliths*, but first�
 Zancan: The collector went by the name Akius.
 
 Will: Akius.
+
+[img: KindergardenMonuments_123.avif | Kindergarten Monuments | ]
 
 Zancan: I haven't talked to him in a long time.
 
@@ -74,11 +78,11 @@ Zancan: There was no expectation. I was doing it for fun. It wasn't hard for me,
 
 Trinity: $70 or $100, somewhere around there.
 
-[img: 8Bidou_Cities.avif, 8Bidou_GM232.avif, 8Bidou_GM531.avif | 8bidou | ]
-
 Zancan: Around there. That wasn't cheap for an fx(hash) project back then. But yeah, it sold out very quickly. I still had the chance to mint a piece myself, but it sold out in less than a minute, so I was lucky to get one. Funny thing, though -- the next day a collector who'd missed out asked, "Can you sell me your piece?" And I said sure, 18 tez. So for a long time I didn't actually own a *Garden, Monoliths*.
 
 It was interesting too because, as you'll remember, the reveal took many, many hours back then. I minted the project the day before, and the next morning, while I was taking my kid to school, the reveal started happening on Discord. It hadn't revealed at all overnight -- only in the morning did I see what had happened with the sales and resales. People had been buying and flipping the project on secondary market without knowing the output. Some of them flipped for not nearly enough before the reveal. Interesting to watch. And then it climbed, very progressively, over the following days.
+
+[img: LandscapeWithCarbon_00001.avif | Landscape with Carbon | ]
 
 Will: I remember it too -- it wasn't an immediate spike, it was steady. Now it's 100 tez, now it's 200 tez, then the floor... It was maybe the healthiest growth we've ever seen in a project like that. The market was really hot at the time, and you'd usually see projects spike and then crash after the flippers left. This one just climbed slowly until we got to, what, 10,000, 15,000?
 
@@ -88,13 +92,13 @@ Trinity: It still holds the highest volume of any project on fx(hash), hitting n
 
 Will: This is probably a good place to talk about what came after. It must have been mid-2022 -- after *Kindergarten Monuments*, your collab with Yazid, which came out around April or May of '22 -- when you started tweeting about issues with your bank and taxes. It's been a mixed blessing. The success of the project led to a million DMs, every curated platform trying to figure out how to work with you, auctions, live events -- the perception was "wow, this guy's crushing it, amazing for Zancan." But then, like a lot of artists we've talked to, when crypto goes down, tax issues surface. Can you explain what happened?
 
-[img: KindergardenMonuments_123.avif, KindergartenMonuments_298.avif | Kindergarten Monuments | ]
-
 Zancan: I wasn't prepared to have that much income from cryptocurrency. I thought it would be something on the side, but it became too much to be considered a hobby -- it became my main source of revenue. And you have to declare that accordingly: it's professional revenue, so you need a legal structure and a tax scheme to fit into. It turned out nothing was ready for this kind of income.
 
 When I started using cryptocurrency, I'd heard -- and had some confirmation -- that it would be taxed under the flat tax, 30% on anything converted to fiat. Simple enough. But then I heard from other sources that this wasn't actually the case. I had a meeting with a lawyer specialized in cryptocurrency, William, and he scared me badly, telling me that VAT would apply -- 20% VAT on the price at the day of sale. Since the value of the cryptocurrency had since crashed, what I had left was worth less than the tax I'd owe. I was going to be bankrupt.
 
 Not a pleasant thing to hear. He told me I needed to create a company, transfer all my wallets to it, and structure things so the loss in cryptocurrency value could be taken into account. So I tried to create a company. But to open a company, you need a professional bank account, and no bank wanted to open one for a company related to cryptocurrency, or art, or both. I tried seven or eight banks. With some, it seemed to be going smoothly, then suddenly they'd shut down my account. It became such a mess just to create a company.
+
+[img: 8Bidou_GM232.avif | 8bidou | ]
 
 Eventually I did manage to create one -- it's called Zancan Garden -- and I found a bank for it. But it turns out I can't use that company for the sales I made before it existed. So now I have this company I have to take care of, filing monthly declarations, but I basically can't do anything with it. It kind of sucks.
 
@@ -110,6 +114,8 @@ And Miami, at the same time -- I was concerned about the environment and carbon 
 
 Trinity: That was a prolific year for you -- not just partnerships with platforms, but releasing edition projects too, experimenting with things like Versum, or *8BitDo* while fx(hash) was down. What was your mentality creating and releasing those less obviously partnered works during that time? Was it relaxing, or...
 
+[img: ABuggedForest_612.avif | A Bugged Forest | ]
+
 Zancan: I really loved it. I was completely hooked on the space, almost 24/7. I felt connected with it — I was sensing it, breathing it, feeling it. When the moment was right, I could come up with a project overnight, like the *Apebadu* thing, because I had a vision that was very clear, which I don't have nowadays. Probably because I'm not connected that much anymore — I'm not on social media much. I guess people who are more plugged in feel the space better and are more aware of the trends. But back then, it felt right. During the *Apebadu* release, that style was trendy. It was ridiculous doing an 8-bit *Garden, Monoliths* — absolutely nuts, didn't make sense at all. But it was fun, so I did it, and I didn't expect it to sell, especially since the price and edition number were generative, totally random. You could get a 1/1 that cost 2 Tezos, or one of 32 editions at 64 Tezos each. Didn't make sense at all, but people liked it. There was this crazy energy happening back then.
 
 Will: Throughout the years, as Trinity mentioned, you worked with Versum — RIP, that platform's gone now — Verse, Bright Moments, basically everything except Art Blocks, which until recently you wouldn't have been able to do because of the on-chain requirement. I assume the library you use is just too big to put on-chain. Maybe now, with their new studio allowing something like IPFS, that could be an option. But here's what I'm getting at: throughout all these projects, the core of the work always seems to derive from the library you've built, finding new ways to push it and keep it feeling fresh. So two questions: did you ever feel like starting a new wallet, a new name, and going in a totally different direction — abandoning it because of the pressure to stick with this style, or the burden of being "the guy who has *Grass.js*"? Or do you just love it too much to stray from it?
@@ -120,13 +126,13 @@ What was the question — right, *Grass.js*. Are you still going to work with pl
 
 Trinity: To me, the two projects that deviate most from *Grass.js* — besides *Apebadu*, obviously — *A Bugged Forest* really comes to mind as something intentionally glitched. I'm curious whether any elements of *A Bugged Forest* exist in *Grass.js* as separate functions.
 
-[img: ABuggedForest_1000.avif, ABuggedForest_612.avif, ABuggedForest_896.avif | A Bugged Forest | ]
-
 Zancan: Part of it, yes. In the beginning, when I was experimenting with generative art and plotters, I had two main algorithms: one was *Grass.js*, and the other was something like *Tree.js* — one for trees, one for the grassy landscapes with plants. At some point, the core of my framework was extracted from both, and now they share the same core functions — everything needed to create a generative project and make it plottable. Eventually *Grass* and *Tree* blended together, so I could use trees in my grassy scenes. There's definitely a bit of the original *Grass.js* algorithm in *A Bugged Forest* — it's all mixed up at this point.
 
 That's the real power of my framework: the ability to reuse previous parts instead of reinventing the wheel every time. Different artists take different approaches — some prefer to trim their visuals down to one simple algorithm or property and make that the core idea of the project. My approach is different. I hold a strong idea of the visual in mind, and it's usually figurative. You can't just adjust values and turn buttons and see what happens — you need a strong conception of where you want to go to make this kind of art.
 
 Will: Changing topics slightly — you were early to producing prints and plots. We got some of the backstory earlier, about being at that decision point of setting up a website to sell prints and plots versus doing NFTs. NFTs happened first, but very early on you were also offering prints to collectors, and releasing projects like *A Long Thread* and *Generative Springtime* that were meant to be collected and then plotted by you. What's the connection, for you, between these works you create digitally through code and the drive to bring them into the physical world? What's pushed you to experiment — we saw you about 18 months ago in Brooklyn at Artmatr, working with their plotting machines that used chalk and different paints and mediums, and more recently you've shown embroidery on Twitter. What's the connection to the physical, and what's going on with the embroidery?
+
+[img: GardenMonoliths_245.avif | Garden Monoliths | ]
 
 Zancan: I come from a painting background, and beyond that, I'm a maker — I like to make things, I need to make things. Before going back to art and experimenting with plotters, I spent years building my house and studio. That's important to me: making things with my hands. I need to have made something physical in a day to call it a day, to feel satisfied. Doesn't matter if I'm building a wall, doing plumbing, or making a piece of art — I only feel good when I've put something physical into the world. So my attachment to the physical is for myself, first.
 
@@ -144,6 +150,8 @@ Zancan: I heard about Bre Pettis this July — we met in Berlin, though I didn't
 
 That came at a time when I needed something to feel excitement again, since I'd kind of lost that over the past months, and I became obsessed with it. It became clear I needed to make my work embroidered. To try it properly, I needed a machine, and I ended up going for a big industrial one — half a ton in weight. It was a nightmare getting it into my studio; I had to build a crane just to lift it in. But I loved it. I was so passionate about making embroidery that I did it almost every day, using Matt's library to generate the files and develop the technique. I feel more and more satisfied with the results, but I have no plan — I have no idea if I'll release anything. I just enjoy the process and the excitement of creating with embroidery. It's like a plotter, but so different, and it gave me that same excitement I felt when I first started experimenting with the AxiDraw. So yeah, that's my new hobby.
 
+[img: KindergartenMonuments_298.avif | Kindergarten Monuments | ]
+
 Trinity: Tangential to that — the embroidery and physical work you've been posting looks so different, so tactile. From a selling perspective, especially as the market and attention shift away from NFTs, do you see yourself going back to non-blockchain sales — producing small quantities and just selling them directly? I'm curious how your attitude toward the blockchain has changed, especially coming off a couple of years of high stress and high hype, with this now being more of a passion project.
 
 Zancan: I'm lucky enough that I don't have to rely on sales to survive, and not having to sell anything removes so much pressure and stress. I feel very happy about that. Of course I'm still happy when something sells on the secondary market — I did a stealth drop on OBJKT recently and it sold out really quickly. I didn't say anything about the project, and still my collectors were there, loyal and appreciating my work no matter what. I feel so grateful for that, but I don't need to sell anything.
@@ -158,6 +166,8 @@ Zancan: I'm trying to find my pace, and also trying to figure out how to make my
 
 So the intent is to find that inner peace and balance, make it work day to day, and keep creating anyway — I can't stop creating, it's not possible. But trying to stay up to date with everything happening on the blockchain or social media doesn't fit anymore. It really doesn't. Better that than being constantly tired, trying to do more than you can physically support.
 
+[img: LandscapeWithCarbon_02517.avif | Landscape with Carbon | ]
+
 Trinity: You do seem less tired, like you've reached a higher level of serenity.
 
 Zancan: If you say so. Thank you.
@@ -171,6 +181,8 @@ Trinity: I think we're both happy to be taking a bit of a break. I don't know wh
 Zancan: I'm still excited about it. I hope that at some point the original idea behind blockchain and NFTs resurfaces — that it's not just about money, but about the beauty of openness, accessibility, decentralization. Those are beautiful utopias, and I really adhered to those values embedded in the idea of art on the blockchain, then kind of lost them. Royalties for artists, for instance — that was such a strong part of that original vision, and we know what happened there. All of a sudden it wasn't a strong feature of smart contracts anymore.
 
 So I hope those core values I was originally interested in resurface and gain momentum again. But regardless, I'll continue using the blockchain, because I still consider myself an NFT artist. Thanks to NFTs, for the first time I fit into an art world — not the traditional art world, but an art world, an art market, and I fit right in. That feels like the right place for me. So I consider myself an NFT artist, and I'm not going to stop anytime soon.
+
+[img: 8Bidou_GM531.avif | 8bidou | ]
 
 Will: Amazing — everyone's just going to have to watch for stealth drops and unannounced things. We've gone on for quite a while, so let's start wrapping up. We'd normally do rapid-fire questions, but instead I want to just express some gratitude. Everything you've said about loving the community and finding your place here — you've been a huge part of that, for a lot of us who got our start through fx(hash). Not just because of the art you made, but because of your willingness to collect. The first *Waiting to Be Signed* token we did had a palette people called "Seltazancan" — the green palette. It wouldn't have been as special without someone like you buying up the green from every release.
 
@@ -188,6 +200,8 @@ Zancan: Sure — it went fast.
 
 Will: I told you it would.
 
+[img: ABuggedForest_896.avif | A Bugged Forest | ]
+
 Zancan: Thank you. This is exactly what I felt — I was overwhelmed with gratitude toward everyone participating in that movement, which gave me so much energy. It felt like being born again, excited, not even needing to sleep because it was so energizing. People like you were building things, animating things — it was all part of a movement that felt like it might change the world. There's still time.
 
 Will: There's still time.
@@ -203,6 +217,8 @@ Zancan: Okay.
 Will: Next time you're in the area for a plotter convention or whatever, hit us up.
 
 Zancan: Yeah.
+
+[img: LandscapeWithCarbon_02633.avif | Landscape with Carbon | ]
 
 Will: We'll have a much lower-pressure, serene dinner where we don't have to talk about drops.
 

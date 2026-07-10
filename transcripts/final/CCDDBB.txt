@@ -18,6 +18,8 @@ That's also where I got into photography. There was a course at university, so I
 
 Eventually I moved back to Garda, my home village, because my mother was sick and I wanted to stay until things were resolved. I connected with a video production company in Bolzano, up in the mountains, and by chance ended up as executive producer -- which was a joke, since I had no idea what that meant, but they were desperate for someone willing to do it for a travel documentary: Italy to Cape Town by Jeep in two and a half months. Honestly the best adventure of my life. I met Yuri there, a great friend, a very good director and film producer. When we got back we opened a video production company together, which lasted a couple of years, focused on documentaries -- reportage again, letting us into the most interesting situations. We made two documentaries about autism, a subject I care about deeply, partly for personal reasons, and had some modest festival success. But we were still doing commercials and infographics on the side just to make a living. And I was getting older, and Italy is unforgiving about taxes and bureaucracy -- a genuinely terrible place to work in media. I'd always wanted to leave, and I love developing countries.
 
+[img: FurryGradients_439.avif | Furry Gradients | ]
+
 Then, by chance, a friend who owned restaurants in Italy told me he had one in Thailand he desperately needed to offload because he had no manager left, even though he thought it had potential. As a joke, I told him I'd be his man. He was skeptical -- fair enough, since I could barely tell a fork from a knife, and I'd never even been to Thailand. It was a blind call. But he was desperate enough to sell everything and leave, so he said, let's try it. That was about ten or eleven years ago. I moved to Thailand, started working in the restaurant, and essentially forgot my old life. I packed everything into one small bag -- a notebook was the only thing I brought. I realized afterward I was much happier without all my books, equipment, cameras, computers -- objects can enslave you. You care about your things, but they also give you anxiety. The idea that I could fit my whole life in one bag and be free completely changed my perspective. Living somewhere so simple, where you stop caring how you dress or what you own -- I've always despised bourgeois excess, but here it's next level. Life flows more quietly and easily.
 
 So I found myself in Thailand managing a restaurant. It wasn't easy at first, but it's not a difficult job once you get the hang of it -- it depends entirely on your staff. With good staff, it's easy; you don't need to think too hard about finding customers or being creative. Much less heavy on the mind. I basically forgot about computers, though I still did some photography on the side. Then COVID came, and that changed everything -- the restaurant closed for two and a half years.
@@ -40,6 +42,8 @@ Will: When you say minting, you mean you were publishing your own work too?
 
 CCDDBB (Claudio Dalla Bernardina): Yes. I had a profile called Harvey McFly that had its moment of glory on Hic Et Nunc. I was making six-second looping animations of pyramids, and they sold out quickly. But I don't like winning easy — I like new challenges. I hadn't done 3D animation in a long time, so I had to relearn everything: 3D sculpting, rigging, animation, all of it, since so much had changed and I was rusty. With each new pyramid I raised the bar, until they were taking a month, forty days to make, working six or seven hours every day and night. Mornings I was spearfishing, afternoons playing padel — that was my COVID life — and at night I was making pyramids as Harvey McFly. It got some attention and success, but it was too much work; I realized it couldn't last.
 
+[img: NoisyGardens_188.avif | Noisy Gardens | ]
+
 I never believed the NFT boom would last — crypto goes in cycles by nature. Honestly, I'm not a true believer in the value of NFTs even today. I think they still have to find their way. There's a lot of potential, but if you remove the speculation, there's often not much left.
 
 So with my main profile, which became CCDDBB, I started making interactive generative work — publishing HTML pages on Hic Et Nunc. I think I was one of the early ones doing interactive 3D there. I made a kaleidoscope series that was well collected and liked. That's how I really got into NFTs.
@@ -60,6 +64,8 @@ That doesn't fit with my main generative art practice. Harvey McFly is dumb — 
 
 The last thing I made manually as McFly was *The Dumbest Kingdom*, which I'm honestly very proud of — maybe it sounds silly, but it's one of the things I'm proudest of in my life. A hundred little characters, 8-by-8 pixels. If you've ever tried to make something meaningful at 8 by 8, you know how little room for movement there is. I made one or two a day for a long time, each with its own little silly story. I sold them at first, then decided to stop selling and started gifting them to artists I like and admire. Slowly I've been building this silly community of inhabitants.
 
+[img: PowerRanges_141.avif | Power Ranges | ]
+
 Will: That explains it — I was looking through when you shared that, and I saw a link to "adopt," but I couldn't figure out how to buy one. I wasn't sure if the platform just wasn't working anymore, but you have a list of everyone who's got one — I see Zancan, Punevyr, TheFunnyGuys, Mario Klingemann.
 
 CCDDBB (Claudio Dalla Bernardina): The names are pulled from the blockchain — people who have them in their wallets, people I connected with and asked if they'd like one. Some bought the early ones when they were still for sale, but pretty soon I removed the listing and stopped selling them entirely. It's just a side project. I have this idea of doing a DAO one day — the Dumbest Autonomous Organization — to promote art and things like that. But that's a silly dream for another day.
@@ -78,17 +84,13 @@ You can probably tell from the early works, like with many other artists, exactl
 
 For me, that always felt like a limitation, so I started introducing profiles in projects like *Noisy Gardens* or *Furry Gradients*. Check them out—you'll see completely different profiles within the same project. This let me introduce rarity in a more meaningful way. I find it a little cheap when rarity is just "this one has a black background, this one has a pink background"—that's a very basic use of rarity that doesn't unlock the true potential of generative art, in my opinion.
 
-[img: FurryGradients_439.avif | Furry Gradients | ]
-
 With profiles, I'd have a main algorithm and then all the various profiles branching off it. In *Noisy Gardens*, for example, you have the pond, the river, the farm. You assign a probability to each profile, and you end up with rare profiles instead of simply rare colors or palettes. It unlocks a lot of possibilities, but it also requires much more work—those algorithms took me almost two months each. With *Furry Gradients*, the core algorithm didn't take long, but building all the profiles and exploring different creative ideas around it did. It's something I still do, and I'm doing it now with my *Plottable Mesh* project. I'd love to see this approach used more, because it really opens things up. Too often I see algorithms that are beautiful but only produce 300 or 500 outputs that all end up looking similar, when the potential was there to create much more variety.
-
-[img: NoisyGardens_188.avif | Noisy Gardens | ]
 
 So yeah, some of the projects I published are basically sketches, as you said—nice, but nothing I'm particularly proud of. Others have real meaning. *Milena's Flowers* is one I like—an early project using circle packing, so the flowers never overlap and create a nice composition.
 
-Will: The first piece I remember collecting from you was probably from two or three years ago—2023, *Power Ranges*. After that, everything you put on fx(hash) looks very plottable: *Line Length*, then *Mount St. Helene*, *Astro Doodles*. Was *Power Ranges* actually plottable? It kind of looks like it could be.
+[img: MountStALine_10.avif | Mount St A Line | ]
 
-[img: PowerRanges_141.avif, PowerRanges_220.avif | Power Ranges | ]
+Will: The first piece I remember collecting from you was probably from two or three years ago—2023, *Power Ranges*. After that, everything you put on fx(hash) looks very plottable: *Line Length*, then *Mount St. Helene*, *Astro Doodles*. Was *Power Ranges* actually plottable? It kind of looks like it could be.
 
 CCDDBB (Claudio Dalla Bernardina): You're correct, it could be. I consider it a failed project, honestly. There's a sweet spot when you're working on an algorithm where you should just stop—you should fucking stop—and with *Power Ranges*, I didn't. Looking at the outputs now, I don't like probably 85-90% of them. My algorithms get very complex in terms of parameters, and when you have that level of interplay between variables, it's delicate—you have to be careful, because it's a balance that's easy to break. With *Power Ranges*, I definitely broke it. It's not plottable, and technically it's not well made—very heavy. I later learned different techniques to make things more performant and plottable. Maybe one day I'll revisit it. But right now, no, it's not plottable, and every time I look at it I feel a little sad, because at one point I thought that algorithm had great potential, and it just didn't pan out that way.
 
@@ -102,13 +104,13 @@ That's how I made *Line Length -1*, a project I really love, for Atelier—it's 
 
 *Mount St. Helene* is made for my partner, Silvia. In each output there's a couple holding hands, but there's a little secret: if you open it in the browser and add a variable to the URL—`kids=1`—you get one kid, because we knew we wanted kids but didn't have one yet. You can add up to five or six kids, I don't remember exactly. Now I actually have a kid, so maybe I'll plot one with one kid. It's volcanoes because Silvia loves volcanoes, she's obsessed with them. So I made her this *Mount St. Helene*—the name is brilliant, and it was given by Marching Square.
 
-[img: MountStALine_10.avif | Mount St A Line | ]
-
 I stayed obsessed with the single line even after I stopped publishing on fx(hash) when they shut down—I kept working on it, and you can find plenty of other one-liners on my website. Then my daughter was born, and I felt like I needed color in my life again. I love the single line, but I needed color back. That's how I started developing *Plottable Mesh*.
 
 Will: I've been doing my best to get the word out by reposting it on Twitter.
 
 CCDDBB (Claudio Dalla Bernardina): That's nice of you.
+
+[img: PlottableMess_0003.avif | Plottable Mess | ]
 
 Will: It's not a single line, I imagine—multiple colors—but surely a lot of what you learned coding all those plotter projects fed into this one. And you've kept working on it; every month or so, the outputs you share look markedly different, like you've added another branch, another style to the array of outputs. It seems like the project could easily support thousands of outputs by generative standards. So, do you consider it done yet? We talked a bit last year about you trying to find a place to release it, but you've kept developing it since. How do you see it now—is it a project that's just going to live on social media, or is it still looking for a home? Tell us more about it.
 
@@ -124,13 +126,13 @@ I see many artists now taking a different approach: releasing a curated series o
 
 So, going back to *Plottable Mess* — at the beginning I wanted to release it on fx(hash). Then I discovered they were sunsetting Tezos support, and honestly, I got pissed, because for a long time they'd said the opposite, even to me personally. They guaranteed Tezos would remain. Then, "Ah, no, sorry, Tezos no more." I can understand that — it's their platform, their decision, and I see the rationale. But then they made this, in my opinion, really unfair move of making $art coins mandatory. They'd told me privately, "Please publish that algorithm on fx(hash), you can use the $fxh token to mint it, you don't need $art coins." Then when the time came: oh, $art coins are mandatory.
 
-[img: PlottableMess_0003.avif, PlottableMess_0004.avif | Plottable Mess | ]
-
 That upset me for a couple of reasons. First, I don't believe in tokenizing everything — I find that very prone to distortion. Second, I think it destroys liquidity. We already had a liquidity problem in generative art, and we need to find balance with the cyclical nature of crypto and the fact that these platforms need to survive the winters of the cycle. There was no liquidity, and I didn't see how fragmenting it into a million $art coins could help. Reality has proven me right lately — there's still no liquidity in them, and they introduced a complexity that persists. If you check their Discord now, the last real conversation is probably some NFT veteran — someone who knows their fair share about how blockchain works — confused about why they can't buy using the token, and fx(hash) saying, "Yeah, we're talking with the providers and stuff." If those people, who are basically the only ones left, are confused, imagine regular collectors and artists.
 
 All this made me decide not to publish on fx(hash) anymore. I also don't believe in layer twos — I think that's a contradiction in terms of decentralization. If we go blockchain, we go decentralized; otherwise it doesn't make much sense to me, especially a layer two on Ethereum.
 
 Then there's the legal aspect. When I raised the matter, it was dismissed: "Oh yeah, our lawyers looked into it, it's totally fine." But I live in Thailand, and I can assure you, you don't want to find yourself explaining to the revenue department what the fuck an $art coin is, how it works, and why it's totally innocent. Laws can change, but the blockchain is unforgiving — it doesn't change. Many people live in countries where this could be a real issue. I talk to a lot of artists and collectors behind the scenes, and very few are willing to speak publicly. Most people have been alienated by all this.
+
+[img: ThereAndThen_074.avif | There and Then | ]
 
 That's why in the end I decided not to publish *Plottable Mess* on fx(hash), and I think that was for the best. I don't have much reach or a big audience, especially now in the crypto winter, so I just kept working on it. Now I have more than 100 profiles, and I keep exploring new directions. I introduced kaleidoscopes — one day I thought, what if I make a kaleidoscope script? I cut them into pieces, and that's how the tessellation kaleidoscopes came about.
 
@@ -154,6 +156,8 @@ I had a little talk about this with Jamie from Verse and with Adam from HEFT Gal
 
 Lately I'm very relaxed. I've always made art only because I enjoy it. Then with COVID, money started flowing around — and money is necessary, but it's also corrosive. It corrupts everything, including your thinking; you start making decisions based on money rather than what you actually enjoy or want to achieve. That's also why production in this space is often cheap — people prioritize speed, rushing to market when conditions are favorable, and that doesn't foster quality. Add to that the tendency to promote your own bags, or whatever's already in the spotlight, and it becomes very hard for emerging artists to get seen.
 
+[img: PowerRanges_220.avif | Power Ranges | ]
+
 Right now is actually the best moment, because the people who were here for the money have left. Speculators are nowhere to be seen. The people still doing art are doing it because they need to, love to, and want to share it. It's a very healthy, beautiful moment for the space — we need to find our purpose, foster quality, and build something meaningful with a chance at longevity, instead of just flowing in this river of speculative generative tokens that come and go fast. Lately I've seen a lot of beautiful work made by people who really care, promoted by people who are knowledgeable and care too. I really like what's going on.
 
 Will: I think we're all really uncertain about what's going to happen in the space over the next year or two, however long this next bear market rides out. It feels like the bull market never came to art and NFTs this time around, so a lot of platforms that were banking on something similar to 2021 happening again just didn't get it. I don't know if that means there's an opportunity for fresh creators to come in with new platforms and ideas whenever we're lucky enough to see interest return, or if it just means we're stuck with this more closed, curated experience—galleries, platforms like Verse, that kind of selectiveness. Hard to say what's preferable. We had so much fun in those early days just minting stuff, but a lot of our tastes have changed. Looking back, plenty of the early things we got excited about, we wouldn't be so excited about anymore.
@@ -174,6 +178,8 @@ But at the same time, I see the downsides. We like to say "not your keys, not yo
 
 Decentralization is a beautiful thing, and transparency is something I truly believe in, but it needs frameworks. I don't think a sustainable society can run on a truly decentralized system, because you need to be able to enforce the law and fix mistakes. You can't just say, "Oh, we burned $3 billion, sorry guys." And you need a stable currency to build economies—everyone should have learned that by now. People pretend it's cool to hold Ethereum or Tezos as currency—well, maybe not Tezos, given its price action—but it's only nice as long as the price keeps rising. You do nothing and get richer, measured in fiat, because in the end we all think in fiat, not in Ethereum. Growing without doing anything isn't healthy—just as it isn't healthy to lose everything because things turned the other way. I don't know much about economics, but I do know that a reliable, working economy needs stability, needs a stable currency. Crypto is not that. When fx(hash) said they were going to price everything in US dollars, I thought, finally, someone's seeing the light. But it turned out to just be a conversion display—it's not that everything actually works in dollars, it's that the conversion makes things even more confusing, because one day it says $100 and the next day $90, and you wonder why you're paying more or less for the same thing you saw yesterday. That's not what I had in mind.
 
+[img: PlottableMess_0004.avif | Plottable Mess | ]
+
 I'm a believer in the decentralized technology of blockchain. I believe there are real use cases for NFTs—controlled randomness, fair distribution, transparency. Decentralization could bring so much to the table that would genuinely improve humanity and the world as a whole. But as usual, what I'm seeing isn't heading in that direction. I have the feeling that whoever's in control is using all of this to their advantage, a lot of people are getting screwed in the meantime, and a lot of people are simply playing black or white without really understanding what's going on, because it's a complex subject and technology with a lot of shades—it requires knowledge you don't need just to use an ATM card. So yes, I'm a believer, but not in the sense that crypto should replace the traditional finance system. We should keep the best of both and try to finally build a more transparent, fair, honest, and safe space for everyone. Do I believe that will happen? Not at all. Do I think it has the potential? For sure. Blockchain technology could be a genuinely useful tool for getting there.
 
 Will: My main concern right now is just deciding whether I want to get back in for one more cycle, or whether I think we're topped out as an industry. But that's a whole other discussion, a whole other podcast.
@@ -186,8 +192,6 @@ CCDDBB (Claudio Dalla Bernardina): Music is something I really love—I'm terrib
 
 Will: There's one thing I wanted to ask you about that we didn't get to—I'll cut this in—about *the wallet*. I realized the first project of yours I collected was actually *There and Then*, the one you released with the wallet.
 
-[img: ThereAndThen_074.avif, ThereAndThen_089.avif | There and Then | ]
-
 CCDDBB (Claudio Dalla Bernardina): Sure, *the wallet*. Yeah, that's a nice one—happy to talk about it if you want.
 
 Will: Yeah, if you can give me the quick version, since I do have to go.
@@ -197,6 +201,8 @@ CCDDBB (Claudio Dalla Bernardina): Let's try to pack this down. The wallet proje
 Many artists did it, especially on type.art — the ASCII text platform on Tezos that doesn't exist anymore. Mario Klingemann was one of the people using it, if I remember right. And you could never really be sure who was publishing, since anyone with the seed phrase could say "I'm you" and there was no way to know otherwise.
 
 As soon as money started flowing into the wallet, people started botting it to steal it out — like the honeypot addresses you see on Ethereum. So it became harder and harder to mint from it, because to mint you needed to put money in, and the moment you did, somebody would drain it. It became basically inaccessible because of greed, which is a beautiful, interesting dynamic in itself.
+
+[img: ThereAndThen_089.avif | There and Then | ]
 
 I used it for a long time — publishing on type.art, collecting with it. I also found other wallets that were siblings of this one, funded from its outflow, where you similarly never know who's behind them — you find one of these sibling wallets and create another profile with it. Many of us really enjoyed that. Eventually it became unusable because of the bots, and it got mostly forgotten.
 
