@@ -31,7 +31,7 @@ POOLS = ROOT / "pools"
 CONFIG = {
     "Remnynt": {
         "Architectonica": {"source": "alchemy", "contract": "0xe84b8d744a46098953293397a5c2ce2f5b393ebf", "artist": "remnynt"},
-        "Proscenium":     {"source": "alchemy", "contract": "0x99a9b7c1116f9ceeb1652de04d5969cce509b069", "artist": "remnynt"},
+        "Proscenium":     {"source": "alchemy", "contract": "0x99a9b7c1116f9ceeb1652de04d5969cce509b069", "project": 486, "artist": "remnynt"},
         "Vibes":          {"source": "alchemy", "contract": "0x6c7c97caff156473f6c9836522ae6e1d6448abe7", "artist": "remnynt"},
         "Terraforms":     {"source": "alchemy", "contract": "0x4e1f41613c9084fdb9e34e11fae9412427480e56", "artist": "Mathcastles"},
     },
@@ -103,27 +103,53 @@ def owners_map(base: str, contract: str) -> dict:
             return out
 
 
-def snapshot_work(base: str, contract: str) -> list:
-    o = owners_map(base, contract)
-    disp = resolve_owners(o.values())  # resolve ENS in parallel
-    items, page = [], None
-    while len(items) < CAP:
+def owner_of_token(base: str, contract: str, tid: str) -> str:
+    try:
+        ow = _get(f"{base}/getOwnersForNFT?contractAddress={contract}&tokenId={tid}").get("owners", [])
+        return ow[0] if ow else ""
+    except Exception:
+        return ""
+
+
+def snapshot_work(base: str, contract: str, project=None) -> list:
+    """Pull a collection's pieces + owners. `project` scopes an Art Blocks-style
+    shared contract to one project (token id = project*1e6 + edition)."""
+    lo = project * 1_000_000 if project is not None else None
+    hi = (project + 1) * 1_000_000 if project is not None else None
+    toks, page = [], None                      # [(tokenId, edition-or-id, img)]
+    start = str(lo) if lo is not None else None
+    while len(toks) < CAP:
         u = f"{base}/getNFTsForContract?contractAddress={contract}&withMetadata=true&limit=100"
+        if start:
+            u += f"&startToken={start}"
         if page:
             u += f"&pageKey={page}"
         d = _get(u)
+        done = False
         for n in d.get("nfts", []):
-            tid = str(n.get("tokenId"))
+            tid = int(n.get("tokenId"))
+            if hi is not None and tid >= hi:
+                done = True
+                break
             img = (n.get("image") or {}).get("cachedUrl") or (n.get("image") or {}).get("originalUrl")
-            if not img:
-                continue
-            items.append({"t": tid, "img": img, "o": disp.get(o.get(tid, ""), ""),
-                          "s": f"https://www.raster.art/token/ethereum/{contract}/{tid}"})
+            if img:
+                toks.append((str(tid), str(tid - lo) if lo is not None else str(tid), img))
         page = d.get("pageKey")
-        if not page:
+        if done or not page:
             break
-        time.sleep(0.25)
-    return items
+        time.sleep(0.2)
+    # owners: per-token for a project slice, else the whole-contract map
+    if project is not None:
+        from concurrent.futures import ThreadPoolExecutor
+        with ThreadPoolExecutor(max_workers=8) as ex:
+            addrs = list(ex.map(lambda t: owner_of_token(base, contract, t[0]), toks))
+        o = {t[0]: a for t, a in zip(toks, addrs)}
+    else:
+        o = owners_map(base, contract)
+    disp = resolve_owners(o.values())
+    return [{"t": disp_id, "img": img, "o": disp.get(o.get(tid, ""), ""),
+             "s": f"https://www.raster.art/token/ethereum/{contract}/{tid}"}
+            for tid, disp_id, img in toks]
 
 
 def objkt_gql(query: str) -> list:
@@ -168,7 +194,7 @@ def main() -> None:
         for work, cfg in works.items():
             if cfg["source"] == "alchemy":
                 base = base or f"https://eth-mainnet.g.alchemy.com/nft/v3/{_key()}"
-                items = snapshot_work(base, cfg["contract"])
+                items = snapshot_work(base, cfg["contract"], cfg.get("project"))
             elif cfg["source"] == "objkt":
                 items = snapshot_objkt(cfg["creator"], cfg["query"])
             else:
