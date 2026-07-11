@@ -84,22 +84,35 @@
     endpoint: {{ suggest_endpoint|tojson }}
   };
 
-  // Random image pools: fill each [pool] slot with random piece(s) per load
+  // Random image pools: fill each [pool] slot per load. A work's pool is either
+  // Alchemy-snapshotted items {items:[{t,img,o,s}], artist} (per-piece owner
+  // credit) or local {files:[...]}. No repeat of a piece within a work per page.
   (function () {
     var pools = {{ ep.pools|tojson }}, base = "images/" + {{ ep.slug|tojson }} + "/";
+    var esc = function (s) { return String(s == null ? '' : s).replace(/[<>&]/g, function (c) { return { '<': '&lt;', '>': '&gt;', '&': '&amp;' }[c]; }); };
     var used = {};
     document.querySelectorAll('.ep-pool').forEach(function (fig) {
-      var work = fig.getAttribute('data-pool'), files = (pools[work] || []).slice();
+      var work = fig.getAttribute('data-pool'), pool = pools[work] || {};
+      var list = pool.items || pool.files || [];
       used[work] = used[work] || [];
-      // avoid repeating a piece already shown for this work on the page
-      var avail = files.filter(function (f) { return used[work].indexOf(f) < 0; });
-      if (!avail.length) avail = files;
+      var avail = list.filter(function (x) { return used[work].indexOf(x) < 0; });
+      if (!avail.length) avail = list;
       if (!avail.length) { fig.style.display = 'none'; return; }
-      var f = avail[Math.floor(Math.random() * avail.length)];
-      used[work].push(f);
+      var pick = avail[Math.floor(Math.random() * avail.length)];
+      used[work].push(pick);
       var img = new Image();
-      img.src = base + f; img.loading = 'lazy';
+      img.loading = 'lazy';
       img.alt = fig.getAttribute('data-alt') || '';
+      if (pool.items) {                 // remote: per-piece caption + owner
+        img.src = pick.img;
+        var cap = esc(work + ' #' + pick.t) + (pool.artist ? ' — ' + esc(pool.artist) : '') +
+          (pick.o ? ' &middot; collected by ' + esc(pick.o) : '') +
+          (pick.s ? ' &middot; <a href="' + esc(pick.s) + '" target="_blank" rel="noopener">source</a>' : '');
+        var fc = fig.querySelector('figcaption') || fig.appendChild(document.createElement('figcaption'));
+        fc.innerHTML = cap;
+      } else {                          // local: keep the slot's collection caption
+        img.src = base + pick;
+      }
       fig.insertBefore(img, fig.firstChild);
     });
   })();

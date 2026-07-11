@@ -11,6 +11,7 @@ import csv
 import html as htmllib
 import json
 import os
+import random
 import re
 import shutil
 import stat
@@ -27,6 +28,7 @@ CLEAN = ROOT / "transcripts" / "clean"
 FINAL = ROOT / "transcripts" / "final"
 RAW_ASR = ROOT / "transcripts" / "raw"
 IMAGES = ROOT / "images"
+POOLS_DIR = ROOT / "pools"
 FEED = ROOT / "scratch_feed.xml"
 # Deployed suggestion Worker (public URL, not a secret). Override with the env var.
 SUGGEST_ENDPOINT = os.environ.get(
@@ -261,6 +263,24 @@ def pool_manifest(slug: str) -> dict:
     return pools
 
 
+def build_pools(slug: str, sample: int = 40) -> dict:
+    """Per-work pool for the page: Alchemy-snapshotted items (with owner) where
+    available (pools/<slug>.json), else local image files. Remote pools are
+    down-sampled to keep the page light; the client picks a few per load."""
+    local = pool_manifest(slug)
+    pf = POOLS_DIR / f"{slug}.json"
+    remote = json.loads(pf.read_text(encoding="utf-8")) if pf.exists() else {"artists": {}, "works": {}}
+    out = {}
+    for work in set(local) | set(remote.get("works", {})):
+        items = remote.get("works", {}).get(work)
+        if items:
+            picks = items if len(items) <= sample else random.sample(items, sample)
+            out[work] = {"artist": remote.get("artists", {}).get(work, ""), "items": picks}
+        else:
+            out[work] = {"files": local[work]}
+    return out
+
+
 def render_pool(m) -> str:
     work = m.group(1).strip()
     caption = (m.group(2) or "").strip()
@@ -344,7 +364,7 @@ def main() -> None:
             "audio_src": m.get("audio_url") or f"../audio/{r['audio_file']}",
             "transcript_html": render_transcript(raw, r["slug"]),
             "raw_html": render_transcript(asr, r["slug"]) if asr else "",
-            "pools": pool_manifest(r["slug"]),
+            "pools": build_pools(r["slug"]),
             "links": extract_links(bio), "quote": pull_quote(raw),
             "changelog": changelog.get(r["slug"], []) + [BASELINE_ENTRY],
             "edit_count": len(changelog.get(r["slug"], [])),
