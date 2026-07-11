@@ -244,11 +244,42 @@ def render_figure(m, slug: str) -> str:
     return f'<figure class="{cls}"{grid}>{"".join(imgs)}{cap}</figure>'
 
 
+# Random-pool slot: [pool: <work-prefix> | caption | credit-url]
+# Filled at page load with a random image from images/<slug>/<prefix>_*.
+POOL_RE = re.compile(r"^\[pool:\s*([^|\]]+?)\s*(?:\|\s*([^|\]]*?))?\s*(?:\|\s*([^|\]]*?))?\s*\]$")
+
+
+def pool_manifest(slug: str) -> dict:
+    """Group an episode's images by work-prefix (strip trailing _<id>.<ext>)."""
+    d = IMAGES / slug
+    pools = {}
+    if d.exists():
+        for f in sorted(p.name for p in d.iterdir() if p.is_file()):
+            key = re.sub(r"_[^_]+\.[^.]+$", "", f)
+            pools.setdefault(key, []).append(f)
+    return pools
+
+
+def render_pool(m) -> str:
+    work = m.group(1).strip()
+    caption = (m.group(2) or "").strip()
+    credit = (m.group(3) or "").strip()
+    cap = ""
+    if caption or credit:
+        inner = htmllib.escape(caption)
+        if credit:
+            inner += (" &middot; " if caption else "") + \
+                f'<a href="{htmllib.escape(credit)}" target="_blank" rel="noopener">source</a>'
+        cap = f"<figcaption>{inner}</figcaption>"
+    return (f'<figure class="ep-figure ep-pool" data-pool="{htmllib.escape(work)}" '
+            f'data-alt="{htmllib.escape(caption)}">{cap}</figure>')
+
+
 def render_transcript(raw: str, slug: str = "") -> str:
     blocks = [b.strip() for b in raw.split("\n\n") if b.strip()]
     cand = Counter()
     for b in blocks:
-        if IMG_RE.match(b):
+        if IMG_RE.match(b) or POOL_RE.match(b):
             continue
         m = re.match(r"^([^\n:]{1,38}):\s", b)
         if m:
@@ -263,6 +294,10 @@ def render_transcript(raw: str, slug: str = "") -> str:
         img = IMG_RE.match(b)
         if img:
             out.append(render_figure(img, slug))
+            continue
+        pool = POOL_RE.match(b)
+        if pool:
+            out.append(render_pool(pool))
             continue
         m = label_re.match(b) if label_re else None
         if m:
@@ -308,6 +343,7 @@ def main() -> None:
             "audio_src": m.get("audio_url") or f"../audio/{r['audio_file']}",
             "transcript_html": render_transcript(raw, r["slug"]),
             "raw_html": render_transcript(asr, r["slug"]) if asr else "",
+            "pools": pool_manifest(r["slug"]),
             "links": extract_links(bio), "quote": pull_quote(raw),
             "changelog": changelog.get(r["slug"], []) + [BASELINE_ENTRY],
             "edit_count": len(changelog.get(r["slug"], [])),

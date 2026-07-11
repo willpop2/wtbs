@@ -83,6 +83,26 @@
     title: {{ ep.display_title|tojson }},
     endpoint: {{ suggest_endpoint|tojson }}
   };
+
+  // Random image pools: fill each [pool] slot with random piece(s) per load
+  (function () {
+    var pools = {{ ep.pools|tojson }}, base = "images/" + {{ ep.slug|tojson }} + "/";
+    var used = {};
+    document.querySelectorAll('.ep-pool').forEach(function (fig) {
+      var work = fig.getAttribute('data-pool'), files = (pools[work] || []).slice();
+      used[work] = used[work] || [];
+      // avoid repeating a piece already shown for this work on the page
+      var avail = files.filter(function (f) { return used[work].indexOf(f) < 0; });
+      if (!avail.length) avail = files;
+      if (!avail.length) { fig.style.display = 'none'; return; }
+      var f = avail[Math.floor(Math.random() * avail.length)];
+      used[work].push(f);
+      var img = new Image();
+      img.src = base + f; img.loading = 'lazy';
+      img.alt = fig.getAttribute('data-alt') || '';
+      fig.insertBefore(img, fig.firstChild);
+    });
+  })();
 </script>
 <script src="suggest.js"></script>
 {% endblock %}

@@ -20,7 +20,7 @@ Somewhere in there I stumbled on Bitcoin — maybe through Anthony Pompliano or 
 
 At first I was skeptical — I viewed everything as a derivative of Bitcoin and didn't want to trust it. But then I saw [Art Blocks](https://www.artblocks.io/artists/remnynt), I saw [*Terraforms*](https://www.raster.art/artwork/terraforms-by-mathcastles) by Mathcastles, and I discovered people were making generative art on-chain. The idea that you could meaningfully preserve digital work trustlessly on-chain fascinated me. I became ETH-pilled, started trading, got NFT-pilled, and fell in love with the whole scene.
 
-[img: Architectonica_038.avif, Architectonica_192.avif | Architectonica | ]
+[pool: Architectonica | Architectonica — remnynt | https://www.raster.art/artwork/architectonica-by-remnynt]
 
 Will: That's a pretty common story — same for myself and my co-host on the show. We both got into crypto through COVID, with nothing to do but sit around watching YouTube between meetings, and that led us into art. Though we came in through Tezos, which I think is unusual — I've got my fx(hash) shirt on right now. I don't know if you ever looked at fx(hash) or Tezos — a lot of people ignored it and stuck to ETH — but it was an interesting scene, and it spawned this entire show, which we've now been doing for almost five years.
 
@@ -44,7 +44,7 @@ Jimmy: NFTs — trading and making art — has been my full focus this whole tim
 
 Will: But yeah, if I remember right, it did pretty well at a time when [Art Blocks](https://www.artblocks.io/artists/remnynt) was slowing down. They hadn't announced it yet, but they were surely percolating the idea of what became the [Art Blocks](https://www.artblocks.io/artists/remnynt) 500 program, which we now know, as of 2025, has basically shut down the whole curated model as it existed. You were one of the last artists in there that really made a big splash with both minting out and secondary action. It must've been a great feeling to have that. What was the application process like? Did you get interesting feedback along the way, or any part of it especially worth talking about?
 
-[img: Proscenium_014.avif, Proscenium_032.avif | Proscenium | ]
+[pool: Proscenium | Proscenium — remnynt | https://www.raster.art/artwork/proscenium-by-remnynt]
 
 Jimmy: I remember getting some feedback, and talking to the [Art Blocks](https://www.artblocks.io/artists/remnynt) folks about it, but my ability to recall things spontaneously is pretty weak these days. I've been experiencing seizures, epilepsy, for about ten months now, and to be completely honest, I've been grieving my past self a little bit. I'm a meticulous, precise person — I want to be honest about whether or not I actually know something, and right now I can't even pull up the word half the time. I want to be precise about my confidence level. Computer scientist stuff, you know.
 
@@ -66,7 +66,7 @@ I should mention I'm also dealing with a lot of stress and anxiety generally. I 
 
 Will: So was self-releasing simply a necessity for expedience — you wanted it out, didn't want to spend time shopping it around, even though there are still curated options out there? Verse, for instance, or galleries that support online releases, or you could have sold prints — which I know you're planning to do anyway — but that route means someone tells you, "We can slot you in in October," because they have to plan far out. Was it more like, "I want this out, I need to earn from it, I can't afford to sit on it"?
 
-[img: Terraforms_041112.svg, Terraforms_130107.svg | Terraforms | ]
+[pool: Terraforms | Terraforms — Mathcastles | https://www.raster.art/artwork/terraforms-by-mathcastles]
 
 Jimmy: It was more that the feeling of it being unfinished was unbearable. I don't know why it became that, but it was crushing. Hindsight being 20/20, I wish I had talked to folks about it, relaxed, and found the patience to release it more thoughtfully. The work deserved that — I put a lot into it. Maybe I panicked. Where I'm at with the epilepsy is we're still trying to get the seizures under control — the first medication didn't work, and I'm titrating up on a second now. I think it's working, but at the time I released the piece, it was unclear, and I wanted to get as much stress off my plate as possible to help figure out what I was dealing with.
 
@@ -90,7 +90,7 @@ Then I'd know I need to go work on it or cut it. I did that for about fifty days
 
 Will: It's for sure the biggest advantage of collector-curated. There have been some great larger releases on Verse, but they don't really do that stuff much anymore — they've shifted their focus more as a platform away from generative work and toward AI. But going back, some projects had 800 or 1,000 editions that were collector-curated, and you can see the algorithm was just allowed to go wild, because at the end of the day, people get to pick, so no one's going to be unhappy. The only person who stands to be unhappy is the artist, looking at what the community picked without their input. That's the downside, I guess. What are some of the stats? How many people interacted — were there any wallets that outperformed, or anyone who got nothing?
 
-[img: Reliquary_35065.avif, Reliquary_56857.avif | Reliquary | ]
+[pool: Reliquary | Reliquary — remnynt | https://www.raster.art/artwork/the-reliquary-by-remnynt]
 
 Jimmy: There were, and that made me sad. Six hundred thirty-one seeds were submitted, 250 in the final supply of tokens curated. There's been a little secondary activity, so it's a little hard to know now, but I don't think it's enough to matter — roughly three submissions per submitter, a little over that. One thing that surprised me is some of the largest submitters really had a good hit rate. The largest holder, I think his name is Will Peester — he's awesome, I've just known him as a person on Ethereum, I think he works with Bankless — he submitted a ton, which was awesome to get that kind of support. In the end he got a ton of tokens because he did such a good job connecting with me and finding stuff that I wanted in that final bunch.
 
@@ -114,7 +114,7 @@ Jimmy: Perspective matters a ton when thinking about this. This particular piece
 
 Will: Not making people use a wallet, right? Same issue as gaming. I'm curious to see how more artists navigate this, especially with Twitter struggling -- crypto still lives there and has dug in, for better or worse -- versus Instagram, which is more natively visual and isn't going to bury you for sharing images. If you get 100,000 followers on Instagram, you don't have to worry that 10,000 of them only do Tezos, 20,000 only do Ethereum, and one guy only does Cardano for some reason -- you don't have to worry about your fan base already being split into silos based on how they collect. But you also don't get that rush of watching an auction, that [Art Blocks](https://www.artblocks.io/artists/remnynt) thing. You don't get that speculative immediacy that's so unique to crypto -- or at least what it used to be.
 
-[img: Terraforms_141115.svg, Terraforms_144225.svg | Terraforms | ]
+[pool: Terraforms | Terraforms — Mathcastles | https://www.raster.art/artwork/terraforms-by-mathcastles]
 
 Jimmy: I think you can still separate it. With [*Architectonica*](https://www.raster.art/artwork/architectonica-by-remnynt) specifically -- I don't actually know if people have done this, but have they printed out of bounds? I have to imagine some have printed from the algorithm outside of the NFT tokens. The NFT still represents ownership in the artwork; the print is a print. So you can design tiers: the most accessible tier is the most affordable, with some reasonable baseline of archival quality -- whatever you deem appropriate for your practice. Then you have step-ups: I'm going to work with this special shop locally, ensure the quality myself, put my time and effort into being there for the print, and sign it so you know I was there.
 
@@ -136,7 +136,7 @@ Will: Definitely, I'll be looking at it when it's available. Though it also depe
 
 Jimmy: A hundred percent.
 
-[img: Reliquary_62601.avif | Reliquary | ]
+[pool: Reliquary | Reliquary — remnynt | https://www.raster.art/artwork/the-reliquary-by-remnynt]
 
 Will: I've got some non-project questions. You work in gaming, you grew up a gamer -- but between teaching your kids to read and coding art full-time, do you still have time to game? Are you playing anything these days?
 
@@ -160,7 +160,7 @@ Jimmy: Witch Hunter or something?
 
 Will: They called it the Warlock. They went with modern game design philosophy on it, where you basically can't make a bad build -- all three disciplines have a viable build. That was not Diablo 2. Diablo 2 was, "you're going to be all-in on this or your build's not going to do anything" -- the ice orb sorceress or whatever. People say the new class is really overpowered, very casual-friendly. Anyway, I thought I'd put it on your radar for when things settle down and you can jump back in.
 
-[img: Vibes_1658.avif, Vibes_1699.avif | Vibes | ]
+[pool: Vibes | Vibes — remnynt | https://www.raster.art/artwork/vibes-by-remnynt]
 
 Jimmy: That's awesome.
 
@@ -184,7 +184,7 @@ Will: Turntable, where you'd take turns being the DJ and people would vote you u
 
 Jimmy: Yes.
 
-[img: Vibes_1796.avif, Vibes_1821.avif | Vibes | ]
+[pool: Vibes | Vibes — remnynt | https://www.raster.art/artwork/vibes-by-remnynt]
 
 Will: Do you know who was a big part of that project — I don't know if he directly founded it, but we interviewed him a couple years ago. The guy who started Bright Moments.
 
@@ -208,7 +208,7 @@ Jimmy: Yes.
 
 Will: This one's pretty good. And *Close to the Edge* is the one I think everyone knows, right?
 
-[img: Proscenium_074.avif, Proscenium_087.avif | Proscenium | ]
+[pool: Proscenium | Proscenium — remnynt | https://www.raster.art/artwork/proscenium-by-remnynt]
 
 Jimmy: Yes, that album's great. We've been jamming on that — "And You and I" especially.
 
@@ -232,7 +232,7 @@ Will: The original NFTs.
 
 Jimmy: Yeah.
 
-[img: Architectonica_203.avif, Architectonica_228.avif | Architectonica | ]
+[pool: Architectonica | Architectonica — remnynt | https://www.raster.art/artwork/architectonica-by-remnynt]
 
 Will: Magic Online digital objects.
 
@@ -254,7 +254,7 @@ Will: Especially since you already wrote the contract and have it all figured ou
 
 Jimmy: I should say thank you to Will for supporting me, and to everyone else who took part in this experiment. You're all awesome, I really appreciate it.
 
-[img: Architectonica_249.avif | Architectonica | ]
+[pool: Architectonica | Architectonica — remnynt | https://www.raster.art/artwork/architectonica-by-remnynt]
 
 Will: I love to gamble, and I trusted my taste. I thought I'd get three picked and got two, so a little under expectation there, but—
 
