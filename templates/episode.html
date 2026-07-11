@@ -102,6 +102,7 @@
       used[work].push(pick);
       var img = new Image();
       img.loading = 'lazy';
+      img.referrerPolicy = 'no-referrer';   // objkt's CDN blocks hotlink referers
       img.alt = fig.getAttribute('data-alt') || '';
       if (pool.items) {                 // remote: per-piece caption + owner
         img.src = pick.img;
