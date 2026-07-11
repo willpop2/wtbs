@@ -33,6 +33,7 @@ CONFIG = {
         "Architectonica": {"source": "alchemy", "contract": "0xe84b8d744a46098953293397a5c2ce2f5b393ebf", "artist": "remnynt"},
         "Proscenium":     {"source": "alchemy", "contract": "0x99a9b7c1116f9ceeb1652de04d5969cce509b069", "artist": "remnynt"},
         "Vibes":          {"source": "alchemy", "contract": "0x6c7c97caff156473f6c9836522ae6e1d6448abe7", "artist": "remnynt"},
+        "Terraforms":     {"source": "alchemy", "contract": "0x4e1f41613c9084fdb9e34e11fae9412427480e56", "artist": "Mathcastles"},
     },
     "Zancan": {
         "A Bugged Forest":        {"source": "objkt", "creator": "zancan", "query": "A Bugged Forest", "artist": "Zancan"},
