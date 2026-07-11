@@ -32,6 +32,8 @@ MonkAntony: That was kind of your ticket into the club — you wrote an editoria
 
 Will: And that was your *Farbteiler* editorial, right? When that came out, the amount of references you packed into that piece — explaining historical connections to art — seeing where you are now, it makes so much sense. That was a pretty groundbreaking editorial compared to what others had written, myself included, where it's more just "here's what I like about this piece," and that's it. Yours had so much research put into it — it felt like a different level entirely.
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | ]
+
 MonkAntony: That was what was so cool about TENDER and those editorials — Adam was very open, like, "you can do what you want." I don't really know where that came from — I didn't spend a huge amount of time on it, especially relative to other things I've done since. I was so interested in *Farbteiler*, and in the artist description, Erik Swahn didn't write that much about it. He put a little bit, but it wasn't super detailed, so it was open-ended — I could take it where I wanted. That was cool, because I was talking to Zach Lieberman recently, and he was talking about artists where he really wanted to get inside their head, see where they came from — and the artist he mentioned was Erik Swahn. I felt that same thing, this kind of inexplicable connection. Part of that is his use of color, something he clearly places a lot of importance on, and he traced that back to Johannes Itten and Bauhaus — Itten was one of the original Bauhaus instructors. So that piece, that collection, and that editorial, and getting invited by TENDER to write it, were all kind of serendipitous in a way.
 
 Trinity: And around the same time, that was when you started tweeting every single day. I went back and looked at your early tweets, and for at least 200 days you said you'd try to write about a piece of generative art. I think it ended up being close to a whole year, right?
@@ -130,6 +132,8 @@ Will: There's a lot to dig into there, but before I quiz you more formally on al
 
 MonkAntony: Honestly, I didn't remember the story—I had to go back and check my DMs. It was Tender, that Farbteiler editorial. Maybe a couple of weeks after that came out, TheFunnyGuys DMed me. I didn't remember why he originally reached out, because we've spoken so much since—he also DMed me shortly after about buying one of the pieces from my collection, so I genuinely wondered, was he trying to poach this piece from me, or was it about the writing? It was February of last year, based on that Farbteiler article—I hadn't even written my second Tender piece yet, which was about *Echoes* by i++ Sketch.
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | ]
+
 I think that very first day we talked, he mentioned he had a project that might be interesting for us to collaborate on. It didn't really come up again—we just started talking almost every day, all about art, what we liked, what we were collecting and interested in. Around April we had an actual phone conversation, where he told me more about his vision for Le Random. That snowballed, and it worked out timing-wise because my job in Hong Kong was ending in August, right around when I'd potentially be starting at Le Random. So that's how it got started—just a Twitter DM. Keep your DMs open out there.
 
 Will: Ours are definitely open for anyone who wants to talk—not about starting a fund, but just to chat.
@@ -143,6 +147,8 @@ Trinity: I have one follow-up on the collection. This third generation you're do
 MonkAntony: Great question, because we talk about this a lot. We aren't collecting those physical pieces from first-generation artists yet, largely because of the traditional challenges of collecting that kind of work—how do you store it, where do you store it, the outdated technology, that kind of thing. The Spalters, Michael and Anne—Anne is one of Le Random's advisors—are the gods in that corner of the market. One of the things we're doing is encouraging these pioneers to digitize their work and release it as NFTs. It's not that we're precious about whether work is an NFT or not—we see art as art—but NFTs enable frictionless transactions. So we're trying to encourage people like A. Michael Noll and Rebecca Allen to release their work as NFTs, partly just so we're actually able to collect it. Right now, that's mostly only possible through an NFT.
 
 Will: Continuing on the collection side, because it's fascinating—even though I know it's not strictly your role, I'm sure you can speak to it. You took on funding partly to build the platform, but I'd imagine primarily to build the collection. What does that look like as an organization with outside investment tasked with building a collection like this? What's the timeframe—a ten-year horizon, a twenty-year horizon? Are people putting in money knowing it could all go to zero? Obviously anything can go to zero, but what's the expectation in managing a fund of this size? You've done some very particular collecting—not just buying twenty of each Art Blocks Curated piece, but buying RGB #1, setting the record on the pink Zancan *Garden, Monoliths*. What's the strategy, and where do the returns come in? When you take in investment, there's got to be some expectation eventually.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
 
 Trinity: And to pile onto that—just looking at how Le Random positions itself online, is it even a fund?
 
@@ -236,6 +242,8 @@ MonkAntony: Yeah, I'd need one of those too.
 
 Trinity: That's just built in. I mean, you two know fx(hash) better than I do -- what would you choose? I'd be curious. I hadn't thought about an infinitely animating piece, but from my collection, probably *Ethereal Microcosm* -- forming bonds with the different types and colors of particles, projecting personality onto them and their activity. We'll see who wins out over the course of ten or twenty years.
 
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | ]
+
 MonkAntony: And every day you woke up it would look different, having morphed and evolved into something new. That's a really good choice. How about you, Will?
 
 Will: Let me think -- I wasn't prepared to answer this one myself.
@@ -245,6 +253,8 @@ MonkAntony: Turning the tables here.
 Trinity: Love it.
 
 Will: Infinitely animating is cool. I'm tempted to say something like *Very Large Array*, since then at least you get audio too -- though you'd need to be able to turn it off and on, since sometimes you want to hear it and sometimes you don't.
+
+[pool: Very Large Array | Very Large Array — Leander Herzog | ]
 
 Trinity: There's *Toccata*.
 
@@ -257,6 +267,8 @@ Trinity: Very nice desert island.
 MonkAntony: High quality display.
 
 Trinity: It doesn't have to be a castaway-style desert island -- it can have amenities. Also, technically infinitely animating would be *Hollow*, just to throw that out -- you could see who's visiting the museum today. Or the Ismahelio drop, where you can watch your grasses grow.
+
+[pool: Hollow | Hollow — Jacek Markusiewicz | ]
 
 Will: Oh yeah, that would be a fun one.
 

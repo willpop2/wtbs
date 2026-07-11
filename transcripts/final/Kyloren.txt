@@ -60,6 +60,8 @@ Trinity: No. One Tezos is one Tezos — that's how we operate around here. Reall
 
 Will: And some other pieces too. It's been an interesting year on fx(hash) — some classic pieces, things considered grails back in December and January, have declined a lot in USD value since. Before we get into that — or maybe this is part of the same question — what's your underlying thesis? You've said you consider yourself exposure-capped on Tezos. How are you deciding which pieces to move into now? We've noticed your collecting has slowed down, and there's a newer class of grails from the past four or five months — projects like *September*, *Coronado*, *Turner Lite*, *Take Wing* — that you haven't added much of, maybe just one. What's your thesis, medium- and long-term, on generative art? Looking at museums, talking to people from the traditional art world — where do you see this going? Do you think it'll ever be accepted by the mainstream? Open-ended question, but feel free to riff.
 
+[pool: Coronado | Coronado — Jeres | ]
+
 Kyloren: There's a lot to unpack there. I do think some of this art will be considered museum-grade, and some of it will end up in museums. We don't know which artists or which pieces yet, but I'm pretty sure this is part of a niche, a distinct chapter of art history, and people will look back on this as an extraordinary period of experimentation — so many artists coming together to do something really cool.
 
 That said, yes, my collecting has slowed, but my average purchase price has probably increased over this period, since I've been leaning more toward one-of-ones. I love long-form collections, where one algorithm produces countless outputs, but I also want pieces in my collection that are unique — a single output chosen by the artist as something special, with its own meaning. So I've been collecting one-of-ones from many artists, on both Tezos and Ethereum. That has its own place, and it's usually priced a bit higher than long-form collections.
@@ -69,6 +71,8 @@ There's also the question of supply. In traditional art, there's a physical limi
 Personally, I don't like it when a long-form collection's pieces are separated only by palette but otherwise look almost identical. That defeats the purpose of doing a long-form collection at all — you might as well mint a one-of-one, or a short series of three or four, instead. I'm not here to make decisions for artists; they know their market and their art, and maybe they want to showcase the algorithm's range. But my point stands: if you want a long-form collection to really work, it needs to be varied enough yet cohesive enough to qualify as one. That takes real skill, and that's what I look for. I've skipped plenty of collections for that reason.
 
 Still, I'm bullish on long-form in general, because of that unique ability to mint something totally random and unique to you while also building a community around it. Take *Garden, Monoliths* as an example — you and other collectors all own pieces of the same algorithm, and you can bond over your shared love of that art. You can't really do that with a one-of-one. That community feeling is a big part of what's driven long-form's popularity, and fx(hash) shows no sign of slowing down — big projects every day.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
 
 But as you said, many so-called grail projects from last December have cooled off while newer collections get the hype. That's the nature of the beast — the newest thing is always top of mind, there's a frenzy at mint, heavy secondary volume and FOMO, and then over time it settles and people focus on the genuinely rare or good pieces.
 
@@ -84,6 +88,8 @@ Will: It's tough.
 
 Trinity: Working through it, that's for sure. One thing I wanted to ask about, without going too far down the rabbit hole, is your take on one-of-ones. From a collector's perspective they're amazing because you're getting unique art that exists only for you. But from a speculation perspective, we've seen that smaller-edition work — even on fx(hash), where everything is randomized — doesn't move the same way. *Waiting in Afton* is a classic example: less volume, less liquidity, less traction through the sales feed. Does that cross your mind when you're deciding between collecting a 1/1 versus getting into a 500-edition fx(hash) or Art Blocks project?
 
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | ]
+
 Kyloren: Exactly like you said — art isn't supposed to be liquid. What crypto has allowed, through these long-form projects and tokenization, is for art to become more liquid than it ever was in the traditional world. So when you look at one-of-ones, or smaller collections like *Waiting in Afton* that don't have liquidity, that's exactly how it's supposed to be. The more valuable pieces rarely change hands, and rarely come to market at all — only when a collector wants to sell and there's a buyer willing to pay at that moment. At auctions, things go unsold all the time. Some paintings don't see the light of day for thirty years, until someone's estate is settled or someone gets divorced.
 
 Crypto and blockchain allow a kind of tokenization that moves fast — we see things go 10x, 100x almost overnight — and that's its nature. But art isn't really supposed to work that way. So maybe one of the pluses of a long-form collection is exactly that liquidity: if you ever need funds, you can liquidate quickly, at least at the floor. List a relatively rare piece below floor and it'll likely move fast. That's a plus from a collector's perspective.
@@ -91,6 +97,8 @@ Crypto and blockchain allow a kind of tokenization that moves fast — we see th
 But on the one-of-ones, if you have the ability to hold for a long time and you're thinking long term, that's historically where you get the highest value, if you look at parallels from the traditional art world. So I don't see the illiquidity as a negative at all for a long-term buyer.
 
 Take *Waiting in Afton* — I think it's one of the most amazing projects, and I only own one, which I regret. I believe it was actually the piece that caused the first real run on fx(hash). I bought mine for something like 1,000 tez; I think the collection minted out at maybe a hundredth of that. At the time it was the highest sale on the platform, and things kind of boomed from there as collectors kept coming in.
+
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | ]
 
 What fx(hash) and Tezos need, generally, is more and more collectors coming in for the art, and I think that'll happen as knowledge spreads and people get more excited about this kind of work — and about the Tezos ecosystem overall. In the end, you're buying something denominated in tez, even if people convert to dollars back and forth. You need the Tezos ecosystem to stay strong, a place where artists and collectors love to create and come together. I believe that'll happen, but nobody knows for sure.
 
@@ -101,6 +109,8 @@ Will: Taking the long view — some projects bled a lot this year, several of wh
 Kyloren: I can't predict the future, but I still love those projects and believe in them completely. *Repeater* is one of my favorites — not just because I'm biased as the top holder, but because of what the artist did with the palettes. It's genuinely unique; you don't see that anywhere else, and some of the shapes that came out of it are quite unusual.
 
 It actually launched the same day as *Garden, Monoliths* — everyone loved GM, obviously it didn't mint out that day. Back then fx(hash) still had breaks between minting windows, so I had to wait for the next one and then minted as many as I could, partly because I'd missed out on the artist's collection on Art Blocks and loved it so much. Once he launched on fx(hash), I wanted as much of it as I could get.
+
+[pool: Window | Window — Jan Robert Leegte | ]
 
 I still love the art, and I think eventually people will recognize it — it was one of the early collections, and it doesn't have that large a supply, maybe 300 to 500 pieces. But there are so many great collections now, many of the newer ones I don't even own. They'll keep coming. What I hope eventually matters is which collections were both good *and* early — though obviously great collections still to come will have value too. But for anything to hold value, you need more and more collectors who love this kind of art. People have limited money to spend, so they can't own everything. I'm still holding my *Repeater*s.
 
@@ -114,6 +124,8 @@ I've seen artists with more than 10, 20, even 25 collections, using fx(hash) as 
 
 That's what I look for. When fx(hash) first launched, everything was new and speculative, so I bought pretty much everything. Now I try to be more selective. Even with artists whose other projects I don't own — you mentioned I don't own *Ethereum Microcosm* by Ciphrd. I think I owned one at some point and sold it, but I like *RGB* much more, so that's where I've concentrated my collecting. You also mentioned I don't own *Uninhabitable* — I did own three or four at some point, but I love that artist's other collections and hold a lot of those instead. So in a lot of cases, I don't own everything from an artist — just the work I connect with.
 
+[pool: RGB | RGB — ciphrd | ]
+
 Trinity: Going through your overall collecting thesis — obviously collecting great art is a big part of it, but how much is also about collecting from artists you believe in? You're the number-one holder of some seemingly random items — for example, you might be the top collector of Chris McCully's *Bezier's Four Ways*, his first project. You're also the top holder of work by Lars Wander, who's had huge runs, and of Piter Pasma, people who've released a lot on Art Blocks. How do you weigh art versus artist — not in a controversial way, just from a collecting standpoint?
 
 Kyloren: It really depends on the artist. Typically if I like an artist, I try to mint from them. There are a lot of pieces I've collected from artists I didn't know at all — I just went by the art. Back then there often wasn't much on Twitter about an artist's background, so all you had to go on was the piece in front of you. A lot of my collection is like that. For example, I collected Rhys's *Twin Peaks*. I just thought it was so fresh and different — simplistic in a good way. I went deep on it without knowing much about the artist, and only afterward spoke to him and collected his other work in different styles. If I like an artist, I try to get deeper into their whole body of work.
@@ -121,6 +133,8 @@ Kyloren: It really depends on the artist. Typically if I like an artist, I try t
 One other thing I look for is artists who minted well on Art Blocks and are also minting on fx(hash) — I try to collect from those artists even if I don't love every piece, purely from an investment thesis. But generally, Zancan is the big name — probably top three of the top five projects by sales on fx(hash). I collect his work on every platform, whether it's OBJKT or Ethereum, because I love the range of styles he works in. It depends on the artist and the art — if I like it, I go deep.
 
 Will: This might be a hard question, since you've collected so much of his work — you're the top holder of *Garden, Monoliths* and recently bought some 1-of-1s at auction for your ALFA Fund, which we can get into. Do you feel Zancan is one of the few artists exempted from the oversupply problem? The open edition he released with Verse, which coincided with those auctions, minted over 8,000 pieces from one long-form drop, and he has another event coming up soon — I don't know if it'll be a 1-of-1 or another long-form piece. He's everywhere — almost every major art fair has some Zancan piece. How do you feel about that as an invested collector?
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
 
 Kyloren: I've just always felt drawn to his art. I live in a fairly rural area in India and I've been surrounded by nature since I was born — I used to go on long walks with my granddad around our farmhouse. I love nature and having trees around, and I think a lot of his work, as opposed to others (not saying one is better than the other), brings a fresh perspective on nature while putting a twist on it. It's not trying to copy nature — it's doing that with code, in his own unique style, while blending in elements that aren't natural at all, like in *Monoliths*. I thought that was really cool, and clearly a lot of other people did too.
 
@@ -170,11 +184,15 @@ Will: I'll send you a picture of my framed Coronados. Maybe that'll get you inte
 
 Kyloren: Yeah, tell me more about the Coronados. What's this all about?
 
+[pool: Coronado | Coronado — Jeres | ]
+
 Will: Maybe a fun question as we wrap up: are there any projects you went really hard on, where you loved the art or the artist, and were surprised the market didn't agree?
 
 Kyloren: There are a few. One is the unicorns. I thought they were going to be like the PFPs of fx(hash), and it turned out they weren't. There was a frenzy in the beginning, and I collected a whole bunch — I don't regret it, I probably spent 1,000 tez on it or so, and I've hedged my bets, so I'm okay.
 
 There's another project called *Window* by Damien Seguin, one of the earliest projects. I really liked it, and it's way down from where it used to be. Sometimes that's availability bias — at the time you only had a few projects to choose from, and a lot of scams were being minted since fx(hash) was an open platform. So anything even remotely good, or by a known artist, was already pumping hard within a few months. As more art becomes available, the market naturally gravitates toward what's genuinely amazing — it's not really people thinking about it more, it's just the market doing its thing.
+
+[pool: Window | Window — Jan Robert Leegte | ]
 
 There's another project I thought was pretty cute — I forget what it's called. I mentioned it on Toxy. One second.
 
@@ -189,6 +207,8 @@ Kyloren: I love Landlines — great art, but a lot of supply, so maybe that's wh
 Will: Yep.
 
 Kyloren: Another early project is *Loom* by Andreas Rau — again, a great artist, and I think it's stayed pretty stable around its original price. Great project, the texture really comes through, it doesn't look coded at all. As for ones that got the recognition they deserved, *Contrapuntos* has done really well, even though it's a large collection. Another one I like is by Machio — I forget the name.
+
+[pool: Loom | Loom — Anna Lucia | ]
 
 Will: *Shattered Moons*?
 
@@ -219,6 +239,8 @@ That's exactly what I was discussing with TheFunnyGuys — what's so exciting ab
 The piece I mentioned by Lars is called *Splat* — I think his second piece ever minted. Those were available for like a dollar, an insanely low amount. Eventually he launched on fx(hash), and I was excited because I already knew the artist. Like I said, so much was being minted at that time that if you knew the artist, you'd go for it. And it just sat there for a long time, because a lot of projects weren't minting out — people didn't like a lot of the outputs, opinion was divided. Some pieces were nice, some weren't, so why roll the dice on something you might not like? That was the mindset at the time. Same thing happened with *Repeater* — the groups I was part of were saying some outputs were nice, some weren't. I figured I'd just try to get something — maybe I'd get something nice, and I'd keep it either way.
 
 Will: Another one you're deep on is *Tych* by Rudxane — you're the number 2 collector there. But interestingly, you haven't gotten many of his more recent projects, which we're both big fans of on the podcast. One of the few newer projects you have gone in on is *Ichigo*, where you're the number 1 collector.
+
+[pool: Tych | Tych — Rudxane | ]
 
 Kyloren: That old habit doesn't go away — trying to go deep on artists you like. Rudxane is an amazing artist. I love *Tych* — I even got a print from him, which was beautiful, and it was kind of him to sign and send it to me. I own some of his other projects too, but somehow I haven't gotten into others — probably missed the mint. His latest, *Garabatos*, was really nice, and I missed it. I also like *Disrupt*, but I have very particular palettes I'm after, and the rare ones I've been looking for haven't come to market, or have been very expensive. I own one — the Hobbes palette.
 

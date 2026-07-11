@@ -38,6 +38,8 @@ Will: We can go a couple directions here—growth, bringing people back, whether
 
 Jamie Gourlay: Every day he's sending me Barbarians. So, definitely still going.
 
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | ]
+
 Will: What's it been like otherwise? From our side, there are a few names we don't recognize, but I don't know if that's because they came from the AI art world or elsewhere. If big names from the traditional art world have come over, it hasn't really hit our radar. Can you speak to that year of trying to build and onboard from both sides—collectors and artists?
 
 Jamie Gourlay: I've changed my thinking here a little. I think I mentioned before how great it could be if someone like David Hockney did a release with Gagosian — say, the newest Hockney iPad paintings as NFTs. That would be epic. Every art world collector would be in for one, and it's very possible that something like that could very quickly legitimize digital art NFTs in the eyes of the wider world. It would make it to every art publication and probably beyond.
@@ -136,11 +138,15 @@ Jamie Gourlay: What Fellowship and NiceAntes have done is incredible—it's on e
 
 There's a lot wrapped up in this. The whole series-size question is a hard one. We've really struggled with it with art-world artists, because everyone wants to be holding *Ringers*, *Anticyclone*, and so on for the next cycle, and those are all well networked, for lack of a better term. So far, everything with that kind of longevity, or potential longevity, comes from a pretty large series size. I can't think of anything under 500 that's done what *A Life in West America* or *Anticyclone* or *Chromie Squiggles* have done. *Garden, Monoliths* is maybe the best example of something under 500, but even that doesn't have anywhere near the liquidity—and therefore conversation, and therefore relevance—of something like *Anticyclone*.
 
+[pool: Anticyclone | Anticyclone — William Mapan | ]
+
 So the trending and activity page is us trying to help our releases stay on people's lips. That's part of a broader strategy that includes working with artists on series size and other factors that might help their chances. It's a hard conversation with art-world artists, because most want to release three unique pieces, and it's pretty hard for a collector to justify getting involved with something that's probably going to be forgotten pretty soon.
 
 Will: You have to truly love it as a collector to buy a one-of-one from a collection of three one-of-ones. That's the classic art-world scenario: it goes into a family's house and doesn't come up for auction for 30, 40, 50 years. No one sees it, and it's only news when it resurfaces because it hasn't been available since the '70s. We don't have a long enough timeline in NFTs to even imagine that being viable.
 
 Jamie Gourlay: It's even harder than that, honestly. The art-world collector who hangs something on their wall for 20 years—more often than not, their friends and family will still know what it is, still see it in the house. It benefits from network effects, just in a different way than an *Anticyclone* does. But buying something from an art-world artist who may never release again—people may never see this piece in your wallet at all. That's tough.
+
+[pool: Anticyclone | Anticyclone — William Mapan | ]
 
 Will: Shifting a little bit—there was a tweet thread you put out under your own account, not the Verse account, about Verse's function. You said Verse isn't a gallery, but that it does some gallery-like things—one being buying art on the secondary market. That plays into this too: keeping floors up, keeping pieces top of mind. If Verse buys a piece, it goes into that sales feed, and there's narrative built around it. Can you talk about that decision philosophically? It feels foreign on the NFT side, but maybe not so strange from the traditional art-world side. And of the collections you've bought from, how should we interpret that? When Verse buys from one set of artists, is that a signal that we should expect to see a lot more from them on Verse going forward? You obviously can't sweep every collection.
 
@@ -211,6 +217,8 @@ Jamie Gourlay: It was interesting seeing the Bright Moments Artist Residence pro
 Will: Last question: what can you tell us about this Verse community token you've been floating?
 
 Jamie Gourlay: It kind of stemmed from how fun *Sketchbook A* was. Our Discord was buzzy, and it was cool seeing people come together around that work. It's happening again with *Barbarians*—my colleague George mentioned he spoke with a collector today, a pretty crypto-native person, who hadn't collected before he saw *Barbarians*, jumped in, and now refreshes his twenty seeds every day. But projects like that don't come around too often, and I feel like we need some community glue.
+
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | ]
 
 Looking at what the Ringers and Squiggle communities have done for Art Blocks and fx(hash)—that's definitely glue. We haven't done much beyond a couple of tweets and conversations with some interesting artists, but if we could find a piece with that same feel—maybe a JPEG, maybe something conceptual, I really don't know yet—I think there could be real benefit for us, the artists, and collectors.
 

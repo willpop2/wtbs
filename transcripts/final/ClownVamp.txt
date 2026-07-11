@@ -174,6 +174,8 @@ Trinity: You have 2 of *Between Stations* — that's neither here nor there, I w
 
 ClownVamp: Oh, he's so talented, it's crazy. *Cold Mountain* is one of the most incredible projects — I own a lot of it. Just watching it load is so cool to see.
 
+[pool: Cold Mountain | Cold Mountain — Nudoru | ]
+
 Will: Is it "he"?
 
 Trinity: It's he.
@@ -183,6 +185,8 @@ ClownVamp: I'm a big fan.
 Will: Purely on aesthetics — you're just drawn to the work?
 
 ClownVamp: Yeah, I just think the work's really cool. *Cold Mountain*'s definitely my favorite. I own the most of *On the Sea*, partly because I minted a lot and then bought more since the price seemed low relative to the quality. I have a couple of *Action Fields*, which I'm fine with, a few *Sand Tables*, and some *Fractured Cells*, which I think are technically really interesting. I'm not a coder, so some of this might be easier or harder than it looks to me, but I look at it and think, how do you make that with code? That's why I like *Fractured Cells*.
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | ]
 
 Will: *Fractured Cells* was actually his first project to take off on secondary.
 
@@ -296,11 +300,15 @@ Will: If you're into color, you'll like their back catalog. Jeres, Lisa, and Lan
 
 Trinity: *Vapor Trails* is really solid.
 
+[pool: Vapor Trails | Vapor Trails — Jeres | ]
+
 Will: Yeah, *Vapor Trails* was the big breakout piece for Jeres a few months ago.
 
 Trinity: It had a big, well-deserved moment. As we casually browse the catalog while recording—
 
 Will: I'm a big fan of *Sinuosity*, *Opacity*, and some of the early stuff. I really like those more muted color palettes.
+
+[pool: Sinuosity | Sinuosity — Jeres | ]
 
 ClownVamp: It's still mind-blowing to me. The two things I think blow people's minds these days about art—one is some of this AI art stuff, like DALL-E 2. And then generative art, when you explain it to normies, really does blow their mind, because at this point we're kind of used to it. But when you tell someone, "No one drew this—this is fully lines of code," it's genuinely magical for people. Even looking at *Vapor Trails*, it's wild that this was just a bunch of JavaScript. That's nuts.
 
@@ -376,6 +384,8 @@ Will: Honestly, I have no idea. I've seen artists on Twitter complain that the c
 
 Trinity: It might be something that helps prevent user error, for the most part. But I also think the royalty won't matter for 99.5% of the work released on the platform, because the prices won't get high enough for it to fundamentally matter. It'll matter for people selling RGBs or *Garden, Monoliths*, because the pie is much bigger. But if you're selling something for 5 tez, which you likely wouldn't be, it just doesn't matter.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+
 ClownVamp: The question for someone smarter than us — I mean, you guys are smarter than me, so maybe you can figure this out — is: if *Garden, Monoliths* had a lower royalty, would the gross volume sold be higher monthly? Would that mean more royalties overall for Zancan? The floor price would probably be lower, but there might be more selling, more active buys and sells. Would a 5% lower royalty rate drive more volume overall? I don't know.
 
 Trinity: I think at a certain point it works when things are constantly buying and selling. But because we're so early with fx(hash), I think we're in more of a phase of buying, selling, and then diamond-handing things for a while. Something that sold for 9,000 tez, which is around the floor of *Garden, Monoliths* right now, that person probably won't resell until they're getting a significant return. It's not going to get flipped back anytime soon.
@@ -395,6 +405,8 @@ ClownVamp: But in a year, once we get some of the people who are like Art Blocks
 Will: More of it could be going on behind the scenes than we even know. You'd have to really dedicate yourself to tracking the blockchain to see what's happening.
 
 ClownVamp: I was just on the *Garden, Monoliths* page since we were talking about them, curious about the prices. I did not know these pink ones existed. I'm not going to spend 75,000 tez, but wow — do you all know anyone who has one? They're so pretty.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
 
 Trinity: I think Roxanne has one.
 

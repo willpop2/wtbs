@@ -202,6 +202,8 @@ Obviously there was a lot of concern afterward that the supply was going to be p
 
 Coming back to the Warhol thing: I suspect in the long run this just helps get his name out there more. Warhol's Marilyn canvases sell for $250 million because he's the biggest name in the world. Maybe *Carbon Capture* will be Zancan's Warhol prints, and *Garden, Monoliths* will be the Marilyn canvases. Who knows? As someone who owns his work, it doesn't concern me at all. But I could well be wrong.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+
 Will: Look at another recent project that was kind of an open edition — *Friendship Bracelets* on Art Blocks. Anyone who'd engaged with Art Blocks with a wallet got two for free, and there's something like 30,000 of them. If those can approach a 1 ETH floor at that quantity over time, I think it's really just a function of the total market we have and the number of collectors we have. Ten thousand, or wherever it ended up — that's a lot for generative art right now, because there aren't that many people collecting generative art. But there are a lot of people collecting NFTs generally — enough to support multiple 10,000+ PFP projects and something like *Friendship Bracelets*. So I'm not so worried about it in the long run. It's definitely caused some people's brains to get a little deranged, though.
 
 And at the time, when it was minting, we saw people have really positive takes similar to yours — this is going to get into more people's hands, it's going to make my *Garden, Monolith* more valuable. I think we've seen those opinions sway the other way now, but also, Tezos is down.
@@ -211,6 +213,8 @@ Trinity: A ton of correlation versus causation.
 Will: Exactly.
 
 Trinity: With the dropping prices of *Garden, Monoliths* and *Fuck Forest* — everything is down.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
 
 Will: It's not that Zancan in particular is being affected, but whenever a Zancan piece sells for cheaper than expected, it's "oh, that's because of *Carbon Capture*." I don't know if that narrative is true, but it's convenient.
 
@@ -383,6 +387,8 @@ Jamie Gourlay: Yeah, they're awesome.
 Trinity: I know it's representational, but whatever.
 
 Jamie Gourlay: Yeah, they're great. Thomas Noya, love — I'm just looking at *400 Flips*, I love this series. I don't really understand what's happening with *Everlasting Building*, but I got a few of them. They're intriguing, and I really like them.
+
+[pool: 400 Flips | 400 Flips — Thomas Noya | ]
 
 Will: They were super hot around this time last year, or even a little earlier.
 

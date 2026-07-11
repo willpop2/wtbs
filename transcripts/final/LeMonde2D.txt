@@ -78,6 +78,8 @@ Will: They are super nice. I want to dig a little deeper into your underlying th
 
 LeMonde2D: The starting point is that I need to really like the collection. Take *Monoliths* — when I bought around 20 of them, that's one of the largest buys I've done. First, I need to really like the art. Obviously I also need a strong feeling that the value will increase over time. I don't plan to sell, but at some point there will probably be transactions to help me accumulate other collections — *Garden, Monoliths* being one example. I'm not one to stop at just one piece, which isn't usual for me, so I think I'd need to sell a few great pieces to fund acquiring others.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+
 I'm also not only collecting the NFTs and the images — I work with artists to get signed prints. For *Bardez*, for example, I had the idea of printing them small, in squares, and I needed a lot of them so the display would properly represent the briefness of the code. With some collections, two or three pieces best illustrate the algorithm. In other cases, like *Monoliths*, I need more pieces to show the subtle variations.
 
 Trinity: So at that point it's almost not even about the museum on Deca — it's about curating your own joy, rather than collecting purely because you see speculative value in it, even over the long term. It's about really seeing the entire breadth of the collection. Looking at your *Bardez* pieces, for instance—I know you minted many at the top tier, which is great because they came with a print. But then when you look at the ones you bought later, it's a nice contrast. You can see the story of how you collected, because your first mints were larger, more zoomed in, and then you bought the ones that give you the full feeling of the garden. I remember when that came out, it was mind-blowing to get the sense that you were actually looking around a garden and seeing different pieces of it.
@@ -99,6 +101,8 @@ LeMonde2D: Yeah, I did. But the thing with Tender is, when I get a print, I want
 Trinity: It's part of that community feel—reaching out to the artist and saying, "Hey, I'm going to ship this to you. Please send it back." I love that. It definitely speaks to the relative size of the fx(hash) community compared to elsewhere. Speaking of prints—since fx(hash) work can be relatively high resolution, especially if you reach out to the artists—have you had luck getting prints of your Art Blocks pieces? My assumption is that since those are on-chain, it's harder to get better resolution.
 
 LeMonde2D: I'm working with William Mapan to get *Anticyclone* printed—I'm actually launching a project with him at the end of the week too, so I'll talk to him about that. Getting *Marriage* printed was easy, with the website Matt built. But most of the prints I get are from fx(hash). With a few artists, there's this discussion after the collection drops where they're like, "I don't know what to do with it, which kind of paper I need"—which is interesting to me too.
+
+[pool: Anticyclone | Anticyclone — William Mapan | ]
 
 Will: For artists, there's got to be a lot of fear. They design a project to be digital—maybe they're only thinking digital—and then suddenly there's demand: "I want to own your piece. Not only do I want to own it, I want you to sign it and maybe number it." And they're like, how do I get it printed? How do I get the quality I want? That's one of the cool things about Tender's printing—they'll tell you when you upload the file, "You can only make it 30 by 30 centimeters, it's not going to support something big."
 
@@ -133,6 +137,8 @@ Will: You can imagine a museum installation with ten screens in a grid, alternat
 LeMonde2D: That's the reason I collected it, and in quantity—I think it's a museum piece. It has that instant museum standout quality, and you can imagine a lot of crazy things with it.
 
 Trinity: For me, it's one of three pieces I think are going to be instant, long-term classics that really hold up over time. The others being Zancan's work across the board—doesn't need to be any particular piece, just all of it, it's one category—and *Ethereal Microcosm*, which I noticed you don't have any of. That was one of Ciphrd's big pieces, released earlier this year. Also animated, but I think on the same level of beauty. Not to put you on the spot, but why don't you have any of those?
+
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | ]
 
 LeMonde2D: I'll get there. I only started collecting animated pieces two weeks ago, so it takes time.
 

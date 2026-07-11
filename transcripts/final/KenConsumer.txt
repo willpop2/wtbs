@@ -40,6 +40,8 @@ KenConsumer: I'd heard about NFTs quite a while back. I've been in the crypto sp
 
 Then I started thinking about how NFTs would reshape the concept of ownership for anything — your car, your house, whatever — and that really fascinated me. I got interested in how this was going to change everything. Then I started learning about how smart contracts work, and got interested in how this could reshape royalties for artists, because the secondary market for artists is terrible as it stands. An artist sells on the primary market for, say, $1,000, and then the buyer puts it up at auction for $20,000 — the seller gets the $20,000 and the artist gets nothing. The idea of royalties on art is pretty novel. It's always existed in some form in the music industry, even if imperfectly, but at least it's there. Now, for visual artists, this is a whole new way of building generational wealth and maintaining it across generations. That fascinated me.
 
+[pool: Onda | Onda — Rudxane | ]
+
 While I was viewing all this peripherally, one of the collectors who's also a bar customer started talking to me about NFTs — he'd heard about them somehow and asked what I knew. I told him very little, but that I thought it was going somewhere. He asked, "If I wanted to buy an NFT, how would I do that?" I had no idea — I hadn't actually gone down that path yet. So I said I'd look into it, and I found OpenSea, started poking around, and thought: okay, I don't want any of this junk. There's very little of it that... it's really difficult to maneuver OpenSea. It wasn't really well organized. It's still not very well organized. But back then, when I first found out about this a year and a half or two years ago, it was a mess. Just a whole bunch of stuff everywhere. Then they started slowly organizing things by collection, and you could start finding stuff.
 
 I went down that path of looking at those things and getting involved. On Reddit, people kept talking about how the good art was coming from Tezos, and I thought, I don't even know what Tezos is. I'd never really heard of it. I didn't know it was a chain. So I dismissed the idea, figured it was maybe some sort of fan art or other art-world stuff.
@@ -97,6 +99,8 @@ Trinity: I buy a lot of things I like, always with that thought in the back of m
 Will: I was looking into digital frames toward the end of last year, and there aren't that many good options out there—not a lot of choices. So a TV honestly does seem like the best solution. But we both live in small apartments and basically just have laptops. We don't have a nice big stationary display with a graphical output we can just hook NFTs up to and enjoy them.
 
 KenConsumer: The other day we were figuring out what would actually run on the smart TV's GPU—some things just don't work, but some things do. We had people over recently and I put up Leander Herzog's *Returns*. It slowly, subtly shifts from orange to pink to blue, each part moving and changing, and I threw that up on the TV because it isn't GPU-intensive—my TV can handle it. But if I try to run *Defrag* without it connected to my laptop, it doesn't like that at all—it slows down. Some pieces won't even show unless the laptop's hooked up. Like that flockaroo piece, the oceans one—it can't even process that. I tried pulling it up and thought, this is so cool, then threw it on the TV and it was just black. Nothing.
+
+[pool: Returns | Returns — Leander Herzog | ]
 
 We also discovered the soundboard—was that a first?
 
@@ -174,6 +178,8 @@ But from 2022: I like *Palimpsest* a lot. I like *Clue*—I think it's great. I 
 
 Back in the beginning of 2022, I liked *Charcoal Brutalism*—that was really nice. *String Art Generator*, from Daniel Julia, is pretty good too. *Stitched Trauma* is great because it's wild and chaotic, and I like it so much. I like *Stitch*, but I like *Stitched Trauma* even more, for various reasons. I liked *Ammonites* this year. *First Ignition* was quite good. Rudxane's *Disrupt* was good.
 
+[pool: Disrupt | Disrupt — Rudxane | ]
+
 Will: So, *First Ignition*—I'm not trying to criticize the piece. I'm more curious as someone new to collecting art. I went to liberal arts school, I have artist friends, but I've never been an artist myself. When I looked at that piece, I had a hard time understanding what was going on with the number of editions and what the goal was of doing that many. This might sound derogatory, but it feels very palette-swappy to me. Some generative art that tends not to do well gets distilled down to that—oh, this is just these triangles in a certain pattern, but they're palette swapped. I'm curious, since you called that one out as a favorite, and the artist is quite well known even prior to fx(hash)—can you dig into what stands out about that piece for you?
 
 KenConsumer: For me, it's really jazzy, for lack of a better term—there's movement in it. I even jokingly posted on Twitter that it's got a good beat and I can dance to it. I had an art professor who used to say that liking something is like saying it's got a good beat and you can dance to it—it doesn't mean it's good, but that's kind of how I viewed that piece. I saw this happening here, this happening here, then this conglomeration of things in the center, and this moving that way.
@@ -221,6 +227,8 @@ KenConsumer: Everything Bigola makes, I really like. The first *Murmurations* wa
 I've already mentioned *Clue*, *Palimpsest*, and *Chromatic Dazzle* — I still think *Chromatic Dazzle* plays into that nostalgia idea, where the first thing that gets you into something becomes the thing you're most attached to. That was what got me into this. *Groobz Wave*, from that same first wave of things, is also fantastic — I can just put it on and let it flow. It's like looking at an alien landscape.
 
 And back to Acromats — Tingle's *Unicorn Cotton Candy* never really caught on for whatever reason, but it should have. It's beautiful, with some really great variation. I minted a bunch, sold some, then bought more on secondary before he dropped *Fall*. *Fall* is fantastic — I don't know if you've seen it over on ETH, but it's really, really good. Tingle makes lovely work, and that piece in particular is excellent.
+
+[pool: Onda | Onda — Rudxane | ]
 
 Will: Trinity, anything you want to add before we close it out?
 

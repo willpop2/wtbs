@@ -84,6 +84,8 @@ Kaloh: Exactly. There's also the question of how often an artist should release 
 
 I feel like big artists will always mint out if they've built the right image. Marcelo Soria-Rodriguez, for example — with *Contrapuntos* and *Entretiempos* — built huge hype on fx(hash) and moved on to Art Blocks with his curated series. Even with all that hype, he only released two collections on fx(hash). I think things would have gone very differently if he'd released 10 or 15 collections in that time. It's about how artists manage their drops and build expectation around their work.
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | ]
+
 Trinity: It's an interesting thing to think about, because we've seen a lot of artists drop every few days — sometimes multiple times in the same day — which clearly isn't sustainable. But it's also really hard to always play by the market's rules when those rules are constantly changing, evolving faster than you can respond to or think through. Every week is different, every day is different — sometimes it even comes down to which time zones are active right now. It's a huge amount of work to keep up with.
 
 Will: I'm curious — I tried to get you to name names earlier when I asked who you collect — but who do you think is doing it right? I have a few names in mind, but it's your interview, so I want to hear yours first. Who's hitting every mark: communicating well on social media, dropping quality work at the right frequency, pricing it right, all of it? Who are some of your favorites on fx(hash)?
@@ -101,6 +103,8 @@ Will: Yeah, there's something jazzy about them. One I'd throw out is Rudxane —
 Kaloh: Definitely, and you can see the progress in his work — it's evolved a lot over the last three or four months. I really like that.
 
 Trinity: For me, one artist who's done so well despite not releasing much is Erik Swahn — *Disegnatori*, *Farbteiler*, and *Retrogrades*. Just three projects, and nothing new this year at all, yet they all maintain healthy floors. *Disegnatori* had a big sweep earlier this week — the floor doubled through the efforts of one person. That's a project being held up by its collectors more than anything.
+
+[pool: Disegnatori | Disegnatori — Erik Swahn | ]
 
 Kaloh: Totally agree. I wonder if he'll release something soon.
 
@@ -133,6 +137,8 @@ Kaloh: We're getting close now -- what, two or three weeks away? If I had a new 
 Trinity: Well, technically you are an artist.
 
 Will: And your Twitter following is way bigger than ours, so you should definitely run that poll and get some real data. It's interesting that you buy into the narrative that beta projects -- which will be labeled genesis tokens -- could have higher value. Right now a lot of the collector community is focused on the first 20 projects on the platform: the *Logos*, *RGBs*, *Weave*, all the way to number 20, *Chromatic Dazzle* by W. Blythe. Do you think the further back in history we go, the more asymmetry we'll see -- some projects sufficiently early to be grails, some grails purely on status and quality, like Zancan or Waiting in Afton or *Loom* -- and then everything else just becomes "cool that it's a beta piece, nice piece of history," while only 10 or 20 projects actually matter?
+
+[pool: Loom | Loom — Anna Lucia | ]
 
 Kaloh: Tough question. I think it was Gary Vee -- the influencer, very vocal about NFTs -- who said probably 5% of NFTs will have value in the future, but only 1% will be really valuable. He also says that's probably very optimistic. I think that applies to fx(hash) and to NFTs generally, somewhere around those two numbers. We have, what, 40,000 or 50,000 collections at this point? It's impossible for anywhere near half of that to retain value -- there's just too much supply. I'd say maybe 0.5% of fx(hash) will have value in the future.
 
