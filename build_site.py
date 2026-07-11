@@ -13,6 +13,7 @@ import json
 import os
 import re
 import shutil
+import stat
 import xml.etree.ElementTree as ET
 from collections import Counter
 from email.utils import parsedate_to_datetime
@@ -371,7 +372,12 @@ def main() -> None:
                "platform": e["platform"]} for e in episodes if e["quote"]][:8]
 
     if SITE.exists():
-        shutil.rmtree(SITE)
+        # clear read-only bits so a stale/locked site/ (e.g. left by a cloud
+        # sync) can't block the rebuild
+        def _force(func, path, _exc):
+            os.chmod(path, stat.S_IWRITE)
+            func(path)
+        shutil.rmtree(SITE, onerror=_force)
     SITE.mkdir()
     shutil.copy(ROOT / "templates" / "style.css", SITE / "style.css")
     shutil.copy(ROOT / "templates" / "suggest.js", SITE / "suggest.js")
