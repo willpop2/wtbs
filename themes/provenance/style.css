@@ -160,6 +160,8 @@ em { font-style: italic; }
 .turn { margin: 0 0 1.15rem; }
 .turn .who { font-weight: 800; color: var(--pink); }
 .turn.cont { margin-top: -.5rem; }
+.turn a { color: var(--teal-1); text-decoration: underline; text-underline-offset: 2px; }
+.turn a:hover { color: var(--pink); }
 
 /* Change log */
 .changelog { border-top: 1px solid var(--border); margin-top: 2.5rem; padding: 1.4rem 0 4rem; }

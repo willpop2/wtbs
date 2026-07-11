@@ -117,6 +117,8 @@ em{font-style:italic}
 .body .who{font-family:var(--mono);font-size:12px;text-transform:uppercase;display:inline-block;margin-bottom:4px;background:var(--k);color:var(--w);padding:3px 8px}
 .body.transcript .who{margin-right:0}
 .body .turn.cont{margin-top:-8px}
+.body .turn a{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:2px}
+.body .turn a:hover{background:var(--acid)}
 
 /* change log */
 .changelog{border-top:3px solid var(--k);margin-top:40px;padding-top:18px}
