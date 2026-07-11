@@ -104,11 +104,15 @@ Trinity: So you were basically learning p5, I guess?
 
 Melissa Wiederrecht: I was learning p5 and shaders from scratch. Then in February, I spent a couple weeks back in America with my mom, without my kids, so I had some extra time — it was because my dad was dying, actually because he died from cancer. But while I was there I had that extra time since my kids weren't with me, and that's when I learned shaders. It became the thing that distracted me from what was going on, and I got really into it. As soon as I came back, badly jet-lagged, I woke up one night at 2 a.m. with this picture in my mind of a calligraphy line going from top to bottom on a canvas that had water spilled on it. I got up and coded the first version in about two hours. That was the first version of *Sudfa*.
 
+[pool: Sudfa | Sudfa — Melissa Wiederrecht | ]
+
 I forgot to mention — while I was in America those couple weeks, I realized Art Blocks was Erik Calderon, the same person who'd reached out to me years before. As soon as I got back, I messaged him, and he loved my work and remembered me. That was the start of it. I got into the application system, got approved, and spent months trying to get the project out and perfected. It was so hard. By May I was so frustrated and tired — I think I was waiting on the curation board — that I just wanted to release something. I don't remember how I discovered fx(hash), but that's when I decided to just do that instead. I pulled up the template, figured out how to do similar stuff there, and coded up *Untitled* in a couple hours and put it up.
 
 Trinity: I think you were competing with the likes of Punevyr and *Punevyr's Face*, which he also did really quickly and put up. But on artistic merit, for a rapidly done first project, I think you might win — no offense to Punevyr.
 
 Melissa Wiederrecht: Like you guys said, you thought I might've had a bunch of projects sitting in reserve. I didn't. Everything I've made, I've made brand new, except *Orbs* — I had a previous version, but I remade it completely from scratch.
+
+[pool: Orbs | Orbs — Melissa Wiederrecht | ]
 
 Trinity: That was the question, because when you first released *Untitled*, and maybe around the time of *Marble Opulence*, I visited your website and saw *Orbs* already there. If you'd redone it, that makes sense.
 
@@ -138,6 +142,8 @@ Melissa Wiederrecht: Totally. I made about twice the money from that one day tha
 
 Trinity: So when *Marble Opulence* came out six days later, you figured the system out?
 
+[pool: Marble Opulence | Marble Opulence — Melissa Wiederrecht | ]
+
 Melissa Wiederrecht: I wouldn't say I figured it out — I tried to do 512 editions that time, and obviously I didn't know what I was doing. I remember, Will, you texted me on Twitter after I burned it, asking if that was intentional, as if I had some brilliant plan. No — I was just filling things out, looking around at other projects, noticing that was probably too big to work, and burned it.
 
 Will: It came as a surprise — you never know what the artist's intention was when something like that gets burned. Was that project made basically in the week between releases?
@@ -150,6 +156,8 @@ Trinity: Which, to be fair, you still haven't done since.
 
 Melissa Wiederrecht: Yeah, I've never done anything bigger than 400. I don't think there was one specific transition point — I'm constantly watching, learning, and listening to you guys, seeing what happens. After *Sudfa*, and then *Solitude* and *Spaghetti*, I started getting more requests from a lot of different people for different things, and I realized I needed to slow down, plan ahead, and be more conscious of what I was doing.
 
+[pool: Solitude | Solitude — Melissa Wiederrecht | ]
+
 Trinity: Maybe that's a good time to go back to the release of *Sudfa*, since you'd been working on it for so long, banging your head against the wall trying to get it right. I don't know much about Art Blocks's process — whether it's the curation board's expectations or the requirements for storing everything on-chain — but eventually you got there.
 
 Melissa Wiederrecht: The hardest thing for me was cross-browser compatibility — I spent months getting that right. That, and it was coming in pixelated on Retina displays. So many little things like that. The Art Blocks crew is really good, though — they're on top of it with you, helping you dot every i and cross every t to make sure everything's perfect. I'd go in front of the curation board, get feedback, go edit everything again, go back to the curation board again — waiting and waiting. But they're great. It's really valuable for them to handhold you through it like that. Once your project has everything it needs to be compatible on all browsers and devices, it's so much easier.
@@ -161,6 +169,8 @@ Melissa Wiederrecht: I started in February and released at the end of June. It f
 Will: Hurry up and wait — submit something, wait for feedback, make a change, resubmit, wait again. I can see how that'd be frustrating, but it didn't stop you from doing more with Art Blocks — you released another project as an Art Blocks Presents, non-curated: *Sandalia*.
 
 Melissa Wiederrecht: Yeah, it was actually a playground project at the time. After *Sudfa*, my family and I went to Sudan, and I was sitting there with nothing to do but my laptop. The first thing I did was think: I have this following on fx(hash), and I feel bad because most of those people can't afford to come to Art Blocks. So — fx(hash) people, I haven't forgotten you. That's when I sat down and made *Solitude* and released it, about two weeks after *Sudfa*. Around the same time, I started making *Sandalia*, just from an idea: I wanted to try making a directional blur that goes in a different direction for every pixel.
+
+[pool: Solitude | Solitude — Melissa Wiederrecht | ]
 
 Trinity: You're getting blank stares. Listeners can't see them, but yes.
 
@@ -200,11 +210,15 @@ Melissa Wiederrecht: Something fx(hash) has that Art Blocks will never have, as 
 
 Will: Is that what happened with *Take Wing*? You developed this new look with *Spaghetti* and wanted to further develop it, but didn't want to take the multiple months to go through the Art Blocks process, so you just put it out on fx(hash) again?
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | ]
+
 Melissa Wiederrecht: No. What happened there is Vertical Crypto reached out to me to do an exhibition in Berlin. My mind is always working on some idea I want to make, and at that point I had the idea of going back and doing brushstrokes. I'd done brushstrokes before in surface pattern design — I have designs that are brushstrokes on a flow field, and some where I took photographs of flowers, threw them around, and used generative brushstrokes on them. So I already had that idea, wanting to play with brushstrokes again. When Vertical Crypto reached out, I just started playing with brushstrokes. I wasn't trying to build on *Spaghetti*. I feel like you guys think they're related — they're not really. They don't have hardly anything in common.
 
 Will: I think we just assumed because the two projects were about six or seven weeks apart. From our perspective, not knowing everything going on in the background, we saw one piece doing more of a digital paint thing and then another similar one. So that was just an assumption.
 
 Trinity: I think maybe it's also that, especially with *Take Wing*, *Spaghetti*, and to an extent *Orbs*, there's this richness in the colors you use that feels like it's growing upon itself, if that makes sense. There's a connection through the quality of color. I don't know if that's just the shaders talking.
+
+[pool: Orbs | Orbs — Melissa Wiederrecht | ]
 
 Melissa Wiederrecht: No, I think that's just because every time I'm working on a project, I take the old project, delete a bunch of stuff, and add a bunch of stuff. Same with colors — for all I know, I haven't even checked, but there are probably some colors in there from *Untitled*, and a lot that aren't. I'm constantly changing my palettes between projects. For example, there's a green in *Take Wing* that shouldn't have been there, so I took it out. It's no longer there, and you shall never see it again.
 
@@ -307,6 +321,8 @@ Melissa Wiederrecht: I got this idea to take the concept of *Take Wing* but make
 Trinity: It's emergent, perhaps.
 
 Melissa Wiederrecht: Yeah, I just play with stuff until I like it. The first versions looked way different — I had transparent rectangles thrown in, weird spaghetti-ish lines in blobby shapes. Super weird. I did like those early versions, but they looked nothing like this. Then one day, while working on it, I pulled over the same texture I'd used on *Sandalia*, *Spaghetti*, and *Take Wing*, and stuck it on top — but I accidentally copied the same canvas onto itself and overlaid it without realizing it. The effect was this huge jump in contrast. I thought the texture had done it. I was like, whoa, what is this? But instantly the image was way more powerful, and that's when the piece really started coming together.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | ]
 
 At some point I pulled in the lines — made them whitish on one side with a gradient, darkish on the other, so right in the middle, where the focal point is, you can barely see them at all. Sometimes they run left to right, sometimes top to bottom, and the white side switches accordingly. Then there are all these different types of lines meant to add depth and interest and lead the eye around the canvas.
 

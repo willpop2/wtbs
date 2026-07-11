@@ -203,6 +203,23 @@ def snapshot_objkt(creator: str, query: str) -> list:
     return items
 
 
+def merged_config() -> dict:
+    """discovery/*.config.json (from discover_sources.py) merged under the
+    hand-tuned CONFIG, which wins per slug."""
+    cfg = {}
+    disc = ROOT / "discovery"
+    if disc.exists():
+        for f in disc.glob("*.config.json"):
+            try:
+                d = json.loads(f.read_text(encoding="utf-8"))
+                if d:
+                    cfg[f.name[:-len(".config.json")]] = d
+            except Exception:
+                pass
+    cfg.update(CONFIG)
+    return cfg
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="single episode slug")
@@ -210,11 +227,16 @@ def main() -> None:
     base = None
     POOLS.mkdir(exist_ok=True)
 
-    slugs = [args.only] if args.only else list(CONFIG)
+    ALL = merged_config()
+    slugs = [args.only] if args.only else list(ALL)
     for slug in slugs:
-        works = CONFIG.get(slug, {})
-        data, artists = {}, {}
+        works = ALL.get(slug, {})
+        data, artists, seen = {}, {}, set()
         for work, cfg in works.items():
+            sig = (cfg["source"], cfg.get("contract"), cfg.get("project"), cfg.get("creator"), cfg.get("query"))
+            if sig in seen:          # same collection under a different label -> skip dup
+                continue
+            seen.add(sig)
             if cfg["source"] == "alchemy":
                 base = base or f"https://eth-mainnet.g.alchemy.com/nft/v3/{_key()}"
                 items = snapshot_work(base, cfg["contract"], cfg.get("project"))

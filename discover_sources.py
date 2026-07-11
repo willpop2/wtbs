@@ -239,7 +239,7 @@ def discover(slug, base, guest):
     works = works_for(slug)
     aliases = guest_aliases(guest)
     lines = [f"## {slug} — guest: **{guest}**  (aliases tried: {aliases})", ""]
-    cfg = []
+    resolved = {}
     artist_found, artist_slugs = raster_artist_slugs(aliases)
     lines.append(f"raster artist page(s): {artist_found or '_not found_'} ({len(artist_slugs)} collections)\n")
     for w in works:
@@ -247,37 +247,37 @@ def discover(slug, base, guest):
         ab = best_artblocks(w, aliases)
         eth = None if ab else find_eth(base, guest, w, artist_slugs)
         tez, tez_matched = find_objkt(aliases, w)
-        resolved = False
+        done = False
         if ab:
             am = artist_matches(ab["artist_name"], aliases)
             mark = "" if am else "  ⚠️ artist is NOT the guest — reference; verify"
             lines.append(f"- **Art Blocks**: proj {ab['project_id']} on `{ab['contract_address']}` — "
                          f"'{ab['name']}' by {ab['artist_name']} ({ab['invocations']} mints){mark}")
             if am:
-                cfg.append(f'"{w}": {{"source": "alchemy", "contract": "{ab["contract_address"]}", '
-                           f'"project": {ab["project_id"]}, "artist": "{ab["artist_name"]}"}},')
-                resolved = True
+                resolved[w] = {"source": "alchemy", "contract": ab["contract_address"],
+                               "project": int(ab["project_id"]), "artist": ab["artist_name"]}
+                done = True
         if eth:
             flag = "  ⚠️ SHARED contract — needs project #" if eth["shared"] else ""
-            proj = '"project": ?, ' if eth["shared"] else ""
             lines.append(f"- **ETH**: `{eth['contract']}` — names {eth['names']} · supply {eth['supply']}{flag}")
             if not eth["shared"]:
-                cfg.append(f'"{w}": {{"source": "alchemy", "contract": "{eth["contract"]}", {proj}"artist": "{guest}"}},')
-                resolved = True
+                resolved[w] = {"source": "alchemy", "contract": eth["contract"], "artist": guest}
+                done = True
         if tez:
             best = tez[0]
             mark = "" if tez_matched else "  ⚠️ creator is NOT the guest — likely a reference; verify"
             lines.append(f"- **Tezos(objkt)**: `{best['fa']}` — \"{best['name']}\" by {best['creators']}{mark}")
-            if not resolved and tez_matched:
+            if not done and tez_matched:
                 q = re.sub(r"\s*#.*$", "", best["name"] or w).replace('"', "")
-                cfg.append(f'"{w}": {{"source": "objkt", "creator": "{(best["creators"] or [""])[0]}", '
-                           f'"query": "{q}", "artist": "{guest}"}},')
-                resolved = True
+                resolved[w] = {"source": "objkt", "creator": (best["creators"] or [""])[0],
+                               "query": q, "artist": guest}
+                done = True
         if not ab and not eth and not tez:
             lines.append("- _no source found — reference to another artist, off-chain, or local-only_")
         lines.append("")
-    lines.append("### draft CONFIG\n```python\n\"%s\": {\n    %s\n},\n```" % (slug, "\n    ".join(cfg) or "# none resolved"))
-    return "\n".join(lines), len(cfg)
+    body = ",\n    ".join(json.dumps(k) + ": " + json.dumps(v) for k, v in resolved.items())
+    lines.append("### draft CONFIG\n```python\n\"%s\": {\n    %s\n},\n```" % (slug, body or "# none resolved"))
+    return "\n".join(lines), resolved
 
 
 def main():
@@ -299,10 +299,12 @@ def main():
         if not (FINAL / f"{slug}.txt").exists():
             print(f"skip {slug} (no transcript)"); continue
         try:
-            report, n = discover(slug, base, guests.get(slug, slug))
+            report, resolved = discover(slug, base, guests.get(slug, slug))
         except Exception as e:
             print(f"ERR {slug}: {e}"); continue
         (OUT / f"{slug}.md").write_text(report, encoding="utf-8")
+        (OUT / f"{slug}.config.json").write_text(json.dumps(resolved, indent=1), encoding="utf-8")
+        n = len(resolved)
         summary.append((n, slug, guests.get(slug, slug)))
         print(f"{slug}: {n} works resolved")
         if not args.all:

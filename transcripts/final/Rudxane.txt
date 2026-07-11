@@ -18,6 +18,8 @@ Will: It was back on May 26th or 27th. Super excited to have you here. Enough ti
 
 Rudxane: I'm Rudxane, from Amsterdam. My background is both in coding and in art. I studied photography at the art academy here in the Netherlands, quit halfway through, and went into doing photography professionally — mostly in the music scene, shooting backgrounds, following artists on tours and studio sessions. That was my main focus for the first couple of years. It slowly turned into a job in the negative sense, where it became more about hunting for work than focusing on creative output. That pushed me back into coding. I focused on how to make artists more financially secure so they could focus on their creativity through technology. So ten years ago we started a company that helped artists manage their back office — calendar management, contracting, invoicing, the boring stuff that needs to happen so you can focus on creating. That kept me busy for a while, but I was always interested in doing the creative work myself too.
 
+[pool: Rings | Rings — Rudxane | ]
+
 I'd always been a bit into blockchain, dabbled with some coins, but never really got into that side of it. I think 2017, with CryptoKitties, was my introduction to NFTs, so that's where I started following it. Around early 2021 is when I really dove in and got excited seeing that more interesting art-related stuff — not just fun images — was happening on the blockchain. Pretty much all my time has gone into it since then. Since January of this year, I actually do it full-time.
 
 Will: So only a full-time artist for the last few months, technically?
@@ -38,6 +40,8 @@ Trinity: Eating is definitely financialized, for sure. It's interesting hearing 
 
 Rudxane: I've been trying to pace myself with releases the last couple of months. I want to dive deeper into the work itself, go beyond just having a nice visual. I'm focused on releasing when the work is there, not expecting quick sellouts like maybe used to happen. But honestly, I never really chased huge sales periods — my big series were early on, before we had the big mint prices. Things like *Bingo* were priced around 2 to 10 Tezos. The only pieces I released at higher prices were already lower edition numbers.
 
+[pool: Bingo | Bingo — Rudxane | ]
+
 I don't need that much money to survive — I can do things on the side if needed. I don't want to release with a focus on the financial component, only the artistic one. That said, it all comes from the luxury I currently have. The market's slow right now — I already feel it in sales, in royalties. Less is happening. I don't know what it'll do to me mentally over time if I release something and nothing happens while the clock keeps ticking. For me, it's about diversifying — not depending on one platform or one market. If I make work that resonates with enough people, it should turn into enough money to survive, eat, and do the things that make me happy. That's the choice I started with.
 
 Will: We've talked to other artists who've made this jump, and there are probably listeners thinking, "I've had some success on fx(hash) or on ETH, and I want to go full-time, but I'm not sure if I could." Given that you made this jump, what advice do you have for someone considering it now, the way you were a year ago?
@@ -52,6 +56,8 @@ Rudxane: I don't come from an artistic family, but my parents raised us going to
 
 Will: Your career on fx(hash) feels like it's been a cornerstone of the platform — you've been around since the start, with iconic early projects like *Bingo*, and also *Glitch* and *Onda*. And you've got multiple grails to your name too — *Tych*, *Disrupt*, *Unfinished*, *Giant Steps*. Thinking about those projects, and about other artists who've released a lot on the platform, it's hard to pin down what "Rudxane's style" is. Someone like Landlines has a very specific color palette and style — it's always easy to pick out a Landlines project.
 
+[pool: Disrupt | Disrupt — Rudxane | ]
+
 Rudxane: Yeah.
 
 Will: But looking at your work, aside from *Bingo* and *Tych* where there's an obvious connection, it's difficult to find a through line. So what do you think of as your style or point of view as an artist so far? What defines a Rudxane piece?
@@ -61,6 +67,8 @@ Trinity: And how has that changed over time?
 Rudxane: I don't think you can say I have a specific visual style, but most of the ideas, concepts, or thoughts about the work follow a line. I'm always interested in the push for people to create something perfect, but also the humanity, the randomness, that we as humans always bring. There's an edge between those two parts — we're trying to aim for perfection, we have a clear idea, but we're trying to work it out into something. We don't draw a straight line. We don't do anything that's perfect, and that's what makes it perfect. Whenever something is perfect, it feels like design. But when something breaks down a little, it starts to tell a story.
 
 So most of my work revolves around that concept. *Tick* was a series about how I could make a machine act like a human that would act like a machine, where it sort of doubles itself. *Disrupt* is about weird gravity pulling thin lines and how that disrupts and breaks things. I think most of my work is trying to find some sort of beauty when things start to break down — trying to find how human randomness creates an imperfect perfectionism you don't get when everything happens exactly like the instructions say. That's a throughline in my work.
+
+[pool: Disrupt | Disrupt — Rudxane | ]
 
 But I also try not to create something that's just "a Rudxane piece." I try to create something that really resonates with me, that I'm excited about. If that means a totally different style, then it's a totally different style — I'm not trying to make a specific poster. If you collect all my work and hang the pieces next to each other, they're an evolution of each other, but that's not really the point I'm trying to make.
 
@@ -188,6 +196,8 @@ Rudxane: There was a lot of cool stuff coming out on Art Blocks, but the whole c
 
 So I was working with a friend to build a contract and infrastructure to do that on Tezos, since financially it was way more interesting for me at that point. *Tych* was originally meant to be released that way. Then randomly I came across a tweet -- someone showing what they were building on Tezos. I think it was Ciphrd, though I don't have the tweet anymore so I can't be sure. That's when I came across fx(hash). I tried to get a project on there and it didn't work out at first, then I understood what was going wrong, and that's when I minted *Bingo*. I didn't fully know what fx(hash) was yet, but it was clearly something being built at exactly the right moment.
 
+[pool: Tych | Tych — Rudxane | ]
+
 Trinity: I love hearing everyone's origin story -- it usually involves seeing a tweet from somebody at some point, and it typically traces back to Ciphrd.
 
 Rudxane: It might have been Sam's tweet, but I think it was Ciphrd's. I remember opening up the *RGBs* and thinking, "I'm not going to mint a lot of these" -- oops, even though they were free. Not the smartest choice, but I made up for it over time. Mostly it was just excitement about finally having something like Art Blocks without the curation layer and the delay, without having to be so serious about what you release -- way more freedom in terms of when and what to release.
@@ -207,6 +217,8 @@ Rudxane: We all did.
 Will: This is kind of a rapid-fire, early-work question, but I think one of the things you were really known for early on was your little games — experiments, in your mind, probably. With *Bingo*, there was actually a bingo game played for holders, where you airdropped pieces from OBJKT to folks who got lucky. Unfortunately, I wasn't one of them. Same with *Glitch* — you wrote a contract that toggled the minting of that project on and off. It would be open for one block, then closed, but because the fx(hash) front end was so slow, no one ever caught it unless they were watching at the contract level. Eventually you did open it. Do you imagine returning to that more playful experimentation of early Rudxane?
 
 Rudxane: Definitely — I'm still doing it. I think that's actually a big component of the whole blockchain: it's interactive, it's dynamic, and we can read the state of current collectors. If you go to my website and go to /game, I built a way where you can provide a seed and it will automatically find a random bingo. I'm still working on the infrastructure for the whole bingo process, because I have more ideas for it over time.
+
+[pool: Bingo | Bingo — Rudxane | ]
 
 Recently on Ethereum I did a collab with UltraDAO where there was an edition people could mint without knowing who the artist was. A couple of days ago I did a burn for that one, so people can burn it for another piece, which will eventually go into one-of-ones. There's still a lot of components I like to play around with, but I want to be wary of not becoming "the gamification artist" — an entertainer running big raffles every month that becomes a financial thing.
 
@@ -261,6 +273,8 @@ Trinity: Where do you think projects like that fit into your overall portfolio m
 Rudxane: If you look at my work over a longer period, I think the first year you see experimentation. There are a couple of series that connect to my longer-term work, but there are also pieces that are more about experimenting with what we're actually doing on this medium, what we're trying to do on this platform, and what I'm trying to say as an artist. I don't think everything has to be my final portfolio -- there are sketches in there too. It's more individual work that tells something about the path I've made as an artist and the path this medium has made, but it doesn't have to fit stylistically into all my future work.
 
 I have two series, *Rings* and *Loops*, which both use the infinity symbol. The intent there was to work within really strict parameters, have one thing that produces infinity as an output, and see how much variety could exist within that. Mostly, if you look at my work, *Onda* and *Glitch* are the biggest outliers -- more pure experimentation. The rest ties together in most senses with my future work and what I'm doing right now.
+
+[pool: Onda | Onda — Rudxane | ]
 
 Will: That's a good segue into plugs as we wrap up. What can we look forward to from you in the near future, or for the rest of the year? We've talked about the TENDER collab you're working on -- what about fx(hash)? What about the on-chain stuff when that comes in a couple months, hopefully? Are you looking at Art Blocks, your physical work? What can we look forward to collecting from you throughout the rest of the year?
 

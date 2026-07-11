@@ -46,6 +46,8 @@ Trinity: If it's not sold out, it will shortly be after we mention it.
 
 Chris McCully: Oh yeah, there are still a few hanging around. All of the original phases pretty much sold; the later ones are where it started to struggle, because I think I was reaching the limits of the system — maybe it started repeating similar compositions that weren't as interesting. That's how I learned about the limits of generative art, that you can really hit a wall with an algorithm where it's just... this is what it's capable of, and that's fine, that's the amount of variation you get from it. Everything from then on is pretty much public history — most of the projects I've worked on are on fx(hash). My very first generative work, *Bézier's Four Ways*, was my first ever piece in p5 — that was just playing around, and I decided to implement it to see what happened.
 
+[pool: Bézier's Four Ways | Bézier's Four Ways — Chris McCully | ]
+
 Will: When you first started working in p5 and thinking about putting work on fx(hash), versus the HEN derivatives that were around at the time — HEN 2000, Teia, and so on after HEN went down — were you just making stuff as an exercise? Like, you'd watch a Coding Train video, learn something new, and whatever sketch came out of that is what got put up on fx(hash)? Or was it the opposite — you had an idea, and then went and found what you needed to learn to execute it?
 
 Chris McCully: A bit of both, mostly the former in the beginning. I'd have a question about how some generative system works, go look into it, and find the best method through Coding Train videos or other coding channels that work in p5 or Processing.
@@ -53,6 +55,8 @@ Chris McCully: A bit of both, mostly the former in the beginning. I'd have a que
 Trinity: Is that how your first project came about?
 
 Chris McCully: With *Bézier's Four Ways*, I wanted to find something that isn't just putting boxes of different colors on screen — something that makes curves that look like potential shapes or brushstrokes. I was just looking at the documentation for p5, probably looking at other people's sketches to make sure I was structuring everything correctly, but I didn't find Coding Train until a few projects in. I think it was probably *Tree Rings*, where I found his polar noise loop video — a hugely helpful thing if you're a generative artist and want to learn how to make very organic shapes. Learning polar noise loops is also really helpful for making animations that loop. It's really cool.
+
+[pool: Tree Rings | Tree Rings — Chris McCully | ]
 
 Trinity: It's insane that you were basically just dabbling here and there. We were Coding Train enthusiasts pretty much from day one trying to learn, and the fact that you successfully minted out four projects before you even found it is impressive.
 
@@ -72,6 +76,8 @@ Chris McCully: Yeah, absolutely not bad.
 
 Will: Looking at your early work, you have *Bézier's Four Ways*, *What Does It Take to Be Successful*, *Jellybean Singularity*, *Floating Bookshelves*, *Tree Rings*, *Coastal Waves*, *Multibiome*, and *Creta Circulum*, released the same day as *Multibiome*. That's a two-and-a-half-week stretch. And you had a job while you were doing this?
 
+[pool: Bézier's Four Ways | Bézier's Four Ways — Chris McCully | ]
+
 Trinity: Is this like—
 
 Chris McCully: I was day trading full-time at that point.
@@ -86,11 +92,15 @@ Trinity: We've seen that a lot in the growth of artists on this platform. There 
 
 Chris McCully: Everything I've done taught me something — that's how it went for a long time. Every project was me experimenting or trying to learn something new, and I'd eventually find a path in the learning process where I could fork off and make something that was actually intelligible art, an algorithm that worked. *Floating Bookshelves* was me attempting to learn nested loops. *Tree Rings*, *Polar Noise*, *Coastal Waves* — that was figuring out an effect with noise to create overlapping lines and try to make some sort of wave effect. *Multi-Biome* was learning 3D.
 
+[pool: Tree Rings | Tree Rings — Chris McCully | ]
+
 A major turning point was probably *Fleur de Sinus*, where I was really focusing on composition — breaking the frame, building the idea that there's a world outside of it — and also really focusing on color. A lot of my color palettes from that era came out of *Fleur de Sinus*.
 
 Will: I thought that one was going to break through. I was minting it heavily — I was like, this is going to be Chris's big breakthrough.
 
 Chris McCully: In a lot of ways, I think it was. At the time, that was probably the most respected and talked-about work of mine, aside from *Protein Pelt*, which had this weird second life. It was popular, then forgotten about, and then it suddenly popped up on Tender's icons tab. I was like, what? Why am I on here? Nobody was talking about this. The project happened, was forgotten a couple days later, and then suddenly there it was. I can probably attribute a lot of that to Flood, one of the original community members on Tender. He was very into *Protein Pelt* — I think he owns something like 50 editions.
+
+[pool: Protein Pelt | Protein Pelt — Chris McCully | ]
 
 Will: *Protein Pelt* was such a price-discussion favorite, from the moment it was minted through weeks and months after. People talked about that project a lot. I don't know if you have the same memories, Trinity, but I feel like it perennially came up as an undervalued gem — "go get this piece, it's going to be a grail someday." It got talked about frequently by a lot of the original price-discussion crowd.
 
@@ -163,6 +173,8 @@ Trinity: Exactly.
 Chris McCully: I'm sure there are a thousand other artists I'm forgetting right now. But if I've ever collected anything from you, I hope you keep creating art. And if I haven't, I hope you keep creating art too, if it makes you feel good.
 
 Will: No offense if Chris hasn't collected your work — it's not a judgment. We've actually touched on a few pieces we wanted to talk about already, and you've been active on the platform basically since it began. One early piece that stands out — you got behind it and advocated for it hard — was *Bedlam*. If I remember right, you tweeted or talked in Discord about how you thought it was your best work to date, your most important project. I don't think it even minted out immediately — it took some time, and people maybe weren't as warm to it as you'd hoped. What was it about that project that you loved so much at the time? This was also the last project before you took a break — were you disenchanted after it didn't land the way you expected, or did it land exactly as expected? My memory isn't perfect, but it seemed like a really big, important project for you in the moment.
+
+[pool: Bedlam | Bedlam — Chris McCully | ]
 
 Chris McCully: I appreciate that. Without getting too deep into my life around that time — I was going through a lot of big changes and emotional turmoil, and part of it was learning to balance life with my hobbies and my work. It's not healthy for me to just sit and work continuously without going out and engaging with life and other people. So, in a very ironic twist on dealing with my emotions at the time, I just dove into work. I spent probably 60 to 80 hours on that algorithm, which was a lot for me — a lot of learning, a lot of tweaking, a lot of just throwing myself into figuring out how to make it better.
 
@@ -242,6 +254,8 @@ Chris McCully: *60lb*, for the type of paper used in comics or graphic novels. Y
 
 Trinity: I'd say your work since then — I'm going to specifically call out *Crash Euphoria*. In my somewhat trained and diligent eye, after a year of doing nothing but look at generative art, it really represents a step forward. Will made the point earlier that this may have been when you started leveraging shaders and integrating them into your work. I'd love a rapid-fire answer on what these projects mean to you, and how you feel about them in the context of your work up until that date. *Crash Euphoria* is sick, by the way.
 
+[pool: Crash Euphoria | Crash Euphoria — Chris McCully | ]
+
 Chris McCully: Thank you very much. I feel like *Crash Euphoria* was a big jump aesthetically. I never want to have a particular style, but it made me feel like I could, if I wanted to, find one. Shaders are incredibly helpful for finding texture and unlocking extra capability, because one of the things about gen art is you're always limited by compute — how much power a system has. Shaders unlock a new level of complexity you can add.
 
 It's difficult to explain fully, but instead of using your CPU, which is slow and very accurate, you're using your GPU to process every pixel all at once in parallel. So it's taking the image you generated in p5 and putting it through a list of rules, pixel by pixel, really fast and efficiently. In recent work, I'm having a lot of fun exploring what I can make, doing aesthetic studies and pushing the limits technically. I'm really starting to dig in and look inward, finding concepts and intention in the work I want to pursue — what I'm experiencing that I want to share through art.
@@ -302,6 +316,8 @@ Right now I'm really enjoying an algorithm I'm making. Just before bed the other
 
 Will: So *Bedlam 2* confirmed. That's some alpha for the podcast.
 
+[pool: Bedlam | Bedlam — Chris McCully | ]
+
 Chris McCully: It's perfect.
 
 Will: Here's another one, following up on something you said earlier: you got into crypto art through day trading. What was day trading on HEN like? I got into Tezos through HEN, but I never once sold a project—the stuff I was collecting was so random that even the idea of listing it and someone finding it felt beyond me. I don't think I had an exit strategy for most of what I collected early on. So who were you collecting, how were you flipping it—what was it like being a flipper in the HEN days? I have no idea what this was like, so I need to hear it.
@@ -344,6 +360,8 @@ Chris McCully: *Patches*.
 
 Will: *Patches* and *Protein Pelt* were two of the #price-discussion darlings.
 
+[pool: Protein Pelt | Protein Pelt — Chris McCully | ]
+
 Chris McCully: And *Xburls* too was huge for me, because I still had this idea that I wanted to make a painting — but how? I could never get the texture right. Then I'd see *Vault of Lutes* and think, here's a painting, just thrown together, and here's another one.
 
 Trinity: You were definitely ahead of your time — the whole painting thing is what everybody's doing right now, it feels like.
@@ -357,6 +375,8 @@ Will: *Aspergo* and *Bravura* — both like digital paintings. Those were system
 Trinity: Yeah, and also *Pittore*. All three of those really built on each other.
 
 Chris McCully: Another big trend I've noticed recently, aside from painting — sorry to divert — over the last couple of months, and *Crash Euphoria* actually falls into this category, which I think is part of why it worked so well: you can set up shaders with black-and-white value maps that define zones. This pixel turns this color, or this pattern. You draw a pattern in black and white, draw a bunch of other patterns, then tell an area to become this pattern or that one. *Crash Euphoria* uses something like that. There's also work I've seen from Melissa — I'm blanking on her last name.
+
+[pool: Crash Euphoria | Crash Euphoria — Chris McCully | ]
 
 Trinity: Wiederrecht.
 

@@ -26,3 +26,5 @@ transcripts/clean_numbered/
 
 # Discovery helper scratch reports (regenerable)
 discovery/
+
+*.log

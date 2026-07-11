@@ -1,5 +1,7 @@
 Will: Hello and welcome, everyone, to another episode of Waiting to Be Signed, a very special interview episode. We're joined today by Harvey Rayner, and of course Trinity is here as always. We're excited to talk to Harvey leading into his Verse Solos exhibit, *Quasi Dragon Studies*. This is perhaps the most ambitious project we've ever talked about on the show, and we're excited to dig into all the details. Harvey, how's it going?
 
+[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | ]
+
 Harvey Rayner: Very well, thank you, and thanks for having me on the show. Quite excited to be here.
 
 Will: We're very excited to have you. We've been learning a lot about you in prep for this interview, and *Fontana* is now very high on my list of things I want to acquire someday — I love the colors in that project. We'll have a good opportunity to talk about that throughout the interview, but let's start with the usual intro question: what is your background in art and coding, and how did you first discover the blockchain and NFTs?
@@ -13,6 +15,8 @@ About twelve years ago, since I was a fairly proficient coder by then, I started
 I did that for about ten years — various math projects, art projects. Then one day, walking my dog, I was listening to a podcast with Snowfro talking about Art Blocks and the model they had there. I already knew about NFTs from listening to technology podcasts, but it hadn't felt like a match. Listening to him, though, I suddenly thought: this is my home, this is where my work belongs — because I had never managed to sell anything up until that point. I'd tried in my early twenties but gave up.
 
 So I built a demo and submitted it, and several months later I got accepted. I stopped everything at that point — I was renovating houses for work, though I'd always spent two or three hours every morning making art before starting the job. I just dropped everything; my tools are still lying where I left them on the floor downstairs. Fortunately that project sold — that was *Photon's Dream* — and then *Fontana*, and the rest is history. I do this full-time now, probably more hours than is healthy.
+
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | ]
 
 Trinity: There's a lot that happened in that in-between space — loving art as a kid, discovering a love of geometry so complex you couldn't do it by hand anymore, not liking computers, and then becoming a web developer. I'd love to hear more about that jump. What made you fall in love with geometric shapes in your art versus, say, more figurative work? And how did that practice evolve to where it is now?
 
@@ -110,6 +114,8 @@ Harvey Rayner: The introduction of the blanks, which Will mentioned, was huge. I
 
 The core algorithm itself I built last year, though the underlying geometry I'd built years before, in chunks. I started working on it after *Photon's Dream* for a couple of weeks, then began *Fontana*. I put it down, and after *Fontana* spent another couple of months on it, then picked it up again for a couple more. By April the algorithm — the art piece itself — was pretty much finished. Everything since has been building the Composite Builder and working out the whole dynamic, the rules.
 
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | ]
+
 I've also spent a lot of time trying to articulate this project in words — forming docs, a white paper. The only way to do that successfully is to talk about it a lot, and that's where the community has been indispensable. I'll blurt something out — "okay, this is how it is now" — and people come back with questions, or they reframe what I said with better language, and I just steal it. Someone started using the word "tile"; I was using "basement," and I thought, okay, that describes what we've got here better. So the community's been this indispensable tool. That sounds terrible, like I'm just using them.
 
 Trinity: They're indispensable contributors to the idea space. It really speaks to the value of community — even though there's a lot of strength in working alone with your own exacting opinion.
@@ -149,6 +155,8 @@ Will: I think we've done a pretty good dive into *Quasi Dragon Studies*. One mor
 Harvey Rayner: There is a physical show, for instance — though what we'll do with those prints, we're not quite sure yet. They're going to be huge, and it's sometimes difficult to ship things like that at a reasonable cost. But this isn't the end — I see it as a multi-year project. There's a natural three-dimensional extension of this geometry that I actually explored about five years ago; I spent half a year working on it. So next year I want to make a generative sculpture project, and that may well be this three-dimensional extension of the Quasi Dragons — it'll look very different, but it'll still have that same joining quality.
 
 As for holders getting certain access down the line — I don't want to commit to anything just yet, but I'd love for this to become a kind of token that gives people special access to things I do in the future. I don't want to make a firm commitment because I'd like to keep it general — it's impossible to know exactly how the project I want to do next year will unfold. With *Vellum*, *Fontana*, and *Photon Stream* holders, I did something like 10% off future work. It might be something simpler like that. But this does feel like it could become a core project for me, where holders get access to certain things, maybe prints for certain Black Dragon holders — I don't want to say quite yet. There'll be surprises for sure. I see it as a long-term thing.
+
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | ]
 
 Will: Exciting without promises, but still exciting.
 
@@ -305,3 +313,5 @@ Will: Perfect, that's the vibe we're going for. Nailed it. Let's wrap it up. Tha
 Harvey Rayner: Thank you guys for having me. It's been a real pleasure. Great questions.
 
 Will: Glad to hear it. All right, that was Harvey Rayner, everyone. Hope you enjoyed the interview—be sure to check out his project, *Quasi Dragon Studies*, part of the Verse Solos exhibition. Try your luck matching some tiles, and keep an eye out for cool sculptures and other things next year—maybe even an fx(hash) piece if we're lucky. That's it for this one. We'll be back with another episode soon. Bye bye.
+
+[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | ]

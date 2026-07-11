@@ -52,6 +52,8 @@ Often when I'm in a program and want to capture certain features, it's almost li
 
 Will: That's what you did with *Hypergiraffe*, right -- generated titles. I fact-checked, by the way: *Ringers* was January 31st, 2021. So you were very close in your estimate.
 
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | ]
+
 Piter Pasma: Ah, okay. Then I probably heard about it in December, while it was still a work in progress.
 
 Trinity: Still didn't mint it. Oh my gosh -- it's okay, I'm just making fun. But I think what you're talking about with the features, and now that we're back on *Ringers*, it's interesting because, as you said, there are rarity things people see in it, whether it's the duck, the goose, the fox, or the frog. That's something projected by the viewer. Whereas maybe some of the generative art we see on fx(hash) is more like: I want 70% of these to look like a fox, 10% to look like a goose, and the rest to look like random stuff. So instead of going out and seeing what gets produced, you're trying to curate it upfront with intended results. It's interesting that you're looking at it the reverse way.
@@ -59,6 +61,8 @@ Trinity: Still didn't mint it. Oh my gosh -- it's okay, I'm just making fun. But
 Will: Yeah.
 
 Piter Pasma: Sometimes you get the idea that you have these features with four combinations, those with five, and the output is all the possible options times some rarity value, and that's it. I wanted something a bit more complex than that. It's not that I set out to make *Skulptuur* with that in mind exactly -- there were just two possible programs, and I never even really released the other one. It wasn't going to be quite as cool as *Skulptuur* turned out to be. So I made the right call.
+
+[pool: Skulptuur | Skulptuur — Piter Pasma | ]
 
 Trinity: Let's talk about that for a bit, because for anyone listening who only knows your fx(hash) work and hasn't looked at your work on Art Blocks -- could you give us some background on *Skulptuur*, how it was created and envisioned, and its trajectory from where it originally started?
 
@@ -146,6 +150,8 @@ Piter Pasma: I'm not even sure if you can put interactive pieces on there — oh
 
 Trinity: Going back to fx(hash) — we've talked about *Hypergiraffe*, but not much about *Dot Produkt*, which was one of the pieces you released before we were on the platform.
 
+[pool: Dot Produkt | Dot Produkt — Piter Pasma | ]
+
 Will: Yeah, we joined a little after both those releases, I think. I never got the full story either, Trinity. So what's the genesis of both of those works? Are they connected, or is there a short version you can share?
 
 Piter Pasma: fx(hash) had just appeared, and I decided to mint whatever the first thing I could come up with was. It was a fun, blobby shader piece, because I'd been toying around with those on Hic Et Nunc already, but in the form of "click for new art" interactive pieces rather than the long-form type of thing. The name is a play on words — the dot product is a mathematical operator, but it's also how the different textures of the blobs, some of which are dots, are determined by the formula. So it's the product that produces the dots — that made sense in my head at the time. It got copy-minted after thirty minutes by somebody calling themselves Peter Plasma, which is funny, especially because "plasma" is also the name for this type of blobby shape in the demoscene. We used to call them plasmas, and they were always one of my favorite effects — not just because of my last name, but because it's fun to put formulas together like that, and they're really suitable for shaders.
@@ -163,6 +169,8 @@ Will: Okay.
 Piter Pasma: Especially for generative projects.
 
 Will: To continue down the fx(hash) path — you've released some other work recently. One right before the end of beta, *Angry Noise*, and one shortly after, *Gonzion*, I think — is that how you pronounce it?
+
+[pool: Angry Noise | Angry Noise — Piter Pasma | ]
 
 Piter Pasma: *Gonzion* is named the same way as *Hypergiraffe* — after its random title generator. During the publication process of *Hypergiraffe*, you have to click through the variations to find the one you want to keep as the cover image for the set, and you see the features flipping by as you go. I saw one called "Hyper Giraffe" and thought, that's a good title. Same thing happened with *Gonzion*. I'm not sure it's a great title, but it works. I don't even know how to pronounce it — they're made-up words.
 
@@ -198,6 +206,8 @@ I'd actually wanted to do the generative-title thing for *Skulptuur* too. I want
 
 For *Hypergiraffe*, the generative titles were really an afterthought. I'd already made the program, and I thought, these random titles — fx(hash) can do that too. I felt creative because fx(hash) was new and there was room to experiment. The titles are a bit magical-realism, a bit silly, almost children's-story kind of things. I wanted *Skulptuur* to sound more important, and I could never figure out how to generate that tone. But for *Hypergiraffe*, the playful titles worked really well with the images, I think. So I added them afterward, and I was satisfied I managed to keep them tiny too.
 
+[pool: Skulptuur | Skulptuur — Piter Pasma | ]
+
 For the other fx(hash) pieces, I didn't size-optimize — you can actually read the code, and there are comments of mine inside it. I got some remarks about *Dot Produkt* from Alexis André, or Mattpan, I'm not sure how it's pronounced — he said he got some use out of the comments I'd left in there. So I thought, people actually read this. And since there's no real reason to size-optimize on fx(hash) except to show off, and I'd already done that a few times, I decided to just write nice code with jokes instead.
 
 *Angry Noise* was based on an article by Inigo Quilez about a way to create a certain type of noise in three dimensions. The way he did it was interesting, and I wanted to try it in two dimensions. I did some variations on it, and out came this very angry noise. I just wanted to showcase the texture of it, because I thought it was something special — something I hadn't seen before. That's the main intention behind it, I think.
@@ -227,6 +237,8 @@ Will: It absolutely was.
 Piter Pasma: At first when I got it, I wasn't amused, but I kept it — it's a memory now.
 
 Will: The quotes pulled out for it were very much along the lines of things people say, especially in the price-discussion channel of the Discord. On that note, I'm curious — how do you regard it when some projects sell out and do amazing secondary volume, like *Hypergiraffe*, and others, like *Angry Noise*, where we never got to see where it would go because it was ceremoniously burned at the end of beta? Now you have *Gonzion* out there too. How do you cope with the reality that when you release something as an NFT, it's going to be judged on economic metrics that don't necessarily have much bearing on you as an artist, but that's just the reality?
+
+[pool: Angry Noise | Angry Noise — Piter Pasma | ]
 
 Piter Pasma: I wish it wasn't, it would be easier, but it is what it is. The most important thing is that I can't let it affect what I'm going to make — and honestly that part isn't hard, I don't care enough for it to. What's harder is making sense of it emotionally. Sometimes I feel a bit responsible for things, sometimes I don't. Sometimes I think maybe I should make something with a very low mint price so people can go nuts on the secondary again, just for the fun of it — but then there's the question of keeping price expectations in check, which is really hard to estimate. I just multiply some numbers in my head, and it doesn't always come out right.
 

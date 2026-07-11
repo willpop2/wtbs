@@ -54,6 +54,8 @@ Will: One of the things that stood out the first time I encountered your work --
 
 Thomas Noya: Is that *HX*?
 
+[pool: HX | HX — Thomas Noya | ]
+
 Will: Maybe the one right after it -- the one that had a pretty big moment on the secondary market. I've obviously come around on it quite a bit since. What are you using to train those models? What are the underlying images? And then you're applying all this After Effects-style stuff on top too, right -- p5 dithering and other effects? Can you walk us through one of your *HX* projects, start to finish -- what goes into it?
 
 Thomas Noya: Funny that you mention the bad review -- I don't think I'd actually listened to Waiting to Be Signed back on those first couple of projects. I was aware of the show because I saw tweets about it, and I thought it was a clever name, since back then you really did have to wait days for things to get signed. Now I'm curious to hear the review, though -- I'll check that out tomorrow.
@@ -81,6 +83,8 @@ Will: PixelWank is the other artist we know who's done that, and I think the way
 Thomas Noya: That's the way, for now — unless something changes in the next couple years and you get this amazing model that only weighs 2 megabytes. That's kind of where Emprops comes in, actually — sorry, small deviation — it's an interesting platform because you can do these things all online.
 
 Will: Looking at your earliest projects in the HX series, the AI stuff — with *GHX-1* you can pretty easily tell the tree influence. But then with *MCHX* and *CHX*, I have no idea what the underlying photographs and models are.
+
+[pool: CHX | CHX — Thomas Noya | ]
 
 Thomas Noya: For *MCHX*, it's a dataset I built in the Catskill Mountains — close-up photos of rocks, trees, ground, all the textures you find in a wet environment. All the greens and grays, the rocks — that's what gives those oval shapes. For *SketchX*, I think I only used one model, trained on close-ups of dry paint from walls, streets, or paintings in museums, but really close up, so you can't tell a figure — just a line, a texture, a depth. That was the first one where I used color in an inherent way, which is why it's called *SketchX*. For the other two, the first letter doesn't really mean anything. The HX came from fx(hash) — I wanted a short, brandable name that could represent a potential series. That's how I came up with *HX1*. There could potentially be an *HX2*, though it was never going to be a *CHX2* — just, you know, the possibility was there.
 
@@ -126,6 +130,8 @@ Thomas Noya: I'm not going to stop making AI work, because I love it. I'm not go
 
 As for *THX*, I'd been thinking about culminating the HX series this year around the anniversary of the first one, *GHX*, or *CHX*. Then Verse came along and offered me the opportunity to be part of *Imperfections*, and it felt like the perfect time to finish it. So it just happened to land on Verse instead of fx(hash). Most of the collectors are from fx(hash) anyway, so it doesn't really matter.
 
+[pool: GHX | GHX — Thomas Noya | ]
+
 Trinity: As long as your next series isn't the "AB series" existing only on Art Blocks, I think we're fine.
 
 Thomas Noya: I don't think I'm close to Art Blocks, but it's in my mind to apply at some point this year, even just for the sake of applying.
@@ -158,11 +164,15 @@ Thomas Noya: I'll go in order of importance -- whoever has the most will get mor
 
 Will: Well, that bodes well for me. What do you think, Trinity -- since we opened up for Tender, should we talk a little bit about the p5 work? Technically your genesis is p5, and you've had a lot of standout projects there. The one I first collected and got excited about, and I think the one we first talked about on the show too, was *400 Flips*.
 
+[pool: 400 Flips | 400 Flips — Thomas Noya | ]
+
 Thomas Noya: Yes.
 
 Will: There's a beauty to the randomness and noisiness of it, but it also somehow feels orderly, with these nice little surprises built in. When KenConsumer was on the show around the end of the year, he had it in his top 10 drops of 2022. Let's hear a little bit about that one -- it was such a fun release.
 
 Thomas Noya: When I heard Ken say that, I was like, wow, that's unbelievable. The idea for *400 Flips* -- not the name or the concept, just the art -- came when I was working on *RTX*, because it shares the same backbone. Instead of seeing the sphere you get from rotating all those figures in 3D space, it's like a close-up of that -- the nucleus of the sphere is what forms *400 Flips*. It's not the same exact code, but it stems from the same idea.
+
+[pool: RTX | RTX — Thomas Noya | ]
 
 My visual references were Jackson Pollock, of course, but also Jonathan Horowitz -- specifically a series of his called *Leftover Paint Abstractions*. If you Google that, you'll see what I mean; it's done with paint drips, more like circular pointillism. My initial idea was to make something in that pointillism style, but when I discovered that "mistake" with *RTX*, I decided to go that direction instead.
 
@@ -203,6 +213,8 @@ Thomas Noya: Most of the development time went into finding different color comb
 Trinity: How much tweaking do you usually do on a project, AI or otherwise, to get to the point where you look at a thousand outputs and think, most of these are pretty solid?
 
 Thomas Noya: It's grown exponentially -- I do way more tweaking now than before. I don't remember exactly how many tests I ran for *CHX*, but probably fewer than a thousand. For *Aftertaste* [A4Tore], there are probably 10,000 tests somewhere -- I haven't counted, but it's at least 11,000 or 12,000. For *400 Flips*, I'd need to check my hard drive, but probably 4,000 to 5,000 tests.
+
+[pool: 400 Flips | 400 Flips — Thomas Noya | ]
 
 Will: Should we talk about *Aftertaste* then -- the big collaboration you did with TENDER? It's interesting that you mention so many test outputs, because a piece like that can be deceptively complicated even though it might look, for lack of a better term, simple -- this thing that moves across the screen and leaves streaks behind. What was that process like?
 
@@ -421,6 +433,8 @@ Thomas Noya: No, but I listed it about a week ago. It's way above floor, so I'm 
 Trinity: It's one of the rare ones. It's beautiful.
 
 Thomas Noya: I got lucky. I should have bought two that day — it was the same day I dropped *RTX*. Half the tez from *RTX* went into that *KGM*. I was tempted to mint a second one, but I was on my phone in a car and it wasn't working, so I gave up. I do remember I minted it for 666 tez, which I thought was kind of funny.
+
+[pool: RTX | RTX — Thomas Noya | ]
 
 Trinity: Hey, it worked out. You got a good one.
 

@@ -8,6 +8,8 @@ Jacek Markusiewicz: It's Markusiewicz. Markusiewicz.
 
 Will: We're super excited to have Jacek on to talk about *Barbarians*, his upcoming Verse Solos release, but also to talk about all of your work, because we've been collecting and talking about you for two years, since your earliest fx(hash) stuff.
 
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | ]
+
 Trinity: I was talking to Will on Thursday, and you're definitely in my top three, top five, somewhere in there. This is really exciting. Not to spoil it, but the only generative art piece I've printed is *Hollow*. The next thing I'm thinking about getting printed would be *Unbuilt* and/or *Barbarians*, depending. I feel like we have a lot of alignment in terms of taste and interest, so I am so excited to have you on.
 
 Jacek Markusiewicz: It's an honor. An absolute honor.
@@ -78,11 +80,15 @@ Jacek Markusiewicz: I'm not sure I've really thought about whether there's a rec
 
 Trinity: Maybe this is a great segue into your other early works on fx(hash), specifically *Unbuilt* and *Reborn*. They leverage a lot of that parametric space you used in architecture, but bring it into an art form. I'd love to hear what inspired those pieces and what made you feel confident putting them out as long-form work on the blockchain. I love those so much, by the way. I think they're fantastic.
 
+[pool: Reborn | Reborn — Jacek Markusiewicz | ]
+
 Jacek Markusiewicz: Thank you. I had a lot of fun working on those. It wasn't really a conscious decision for these to be my first strongly architecturally-inspired long-form projects, but I think the fact that they are is very consistent with my background in architecture, and with my approach to making sense of things around me. In this case, that meant architectural objects of different scales — Gothic churches and ideal Renaissance cities.
 
 The way I always try to understand anything is by building mental models of how elements work together within a system. Consistent with my artistic sensitivity, which has always been representational and figurative, I wanted to bring back archetypal architectural elements and break them down into algorithmic logic. I was always fascinated by the algorithmic approach to understanding historical architecture in works like Bill Mitchell's book *The Logic of Architecture*. So I started with Gothic architecture, took what I knew about it, translated it into algorithmic form, and gave it an aesthetic manifestation. That's how *Unbuilt* started, and *Reborn* was, to me, a logical continuation of that exploration.
 
 Trinity: Looking at *Unbuilt*, I can see the aesthetics you're describing — what fills the spaces between the columns, the diamonds and other shapes filling in that blank space. It's quite nice. I think a top-down reference point doesn't necessarily capture the internal beauty of a cathedral — the different types of vaulted ceilings. Is it a barrel vault? A double barrel vault?
+
+[pool: Unbuilt | Unbuilt — Jacek Markusiewicz | ]
 
 Jacek Markusiewicz: We'd have to expand those into 3D to really see what those lines are — whether they overlap with the intersection between the pointed barrels, which would make them ribs, or whether they connect the ribs between them, which would make them diernes, I think it's called in English. But I'll be honest — they might be geometrically consistent, but historically, the types of vaults in this piece are quite frivolous.
 
@@ -127,6 +133,8 @@ Will: Who among us is good at calculating their own hourly rate of worth? Not an
 Jacek Markusiewicz: Of course.
 
 Will: Thematically, some of the themes you were speaking to with *Hollow* really carry over into your upcoming drop, *Barbarians*, which will be for sale on March 6th but has already been exhibited in London. You were just there last week, and there are some amazing images of the prints — it looks fantastic, and even more so at scale. Can you talk about the tie-in with *Hollow*? We also see thematic similarities to *Cantera*, your project with Bright Moments — the interplay of humans and ecology, the spaces we inhabit, the aforementioned paving over a mountain to create a road. What's the backstory on this piece, what were you going for, and how did it end up on Verse?
+
+[pool: Hollow | Hollow — Jacek Markusiewicz | ]
 
 Jacek Markusiewicz: The project started as a mental image, like most of my projects do. Within that image was this vision of archetypical architectural elements — my architectural background is always there, influencing my thinking. Massive columns, walls, arches, vaults. But in this vision, they wouldn't bear the weight of a building. They wouldn't be made of concrete or brick — they'd be made of stone and soil and dirt, shouldering the weight of a natural landscape.
 
@@ -237,5 +245,7 @@ Will: I feel like this is a good place to stop. It's been awesome, Jacek, chatti
 Jacek Markusiewicz: I did. A lot.
 
 Will: Awesome. Let's wrap it up, then — everyone go check out *Barbarians* on Verse. It'll be for sale in March; the generator should be up sometime before then for everyone to start collecting their seeds. That's it for this one — thanks for listening, hope you enjoyed it. We'll be back soon with another episode. Big thanks to Jacek. Bye-bye.
+
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | ]
 
 Jacek Markusiewicz: Bye. Always — we're waiting to be signed.

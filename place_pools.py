@@ -53,6 +53,7 @@ def place(slug, per_work=PER_WORK, min_gap=MIN_GAP):
             continue
         art = artists.get(w, "")
         cap = f"{w} — {art}" if art else w
+        cap = cap.replace("|", "/").replace("]", ")")   # | and ] are marker delimiters
         sched.setdefault(pos, []).append(f"[pool: {w} | {cap} | ]")
         last = pos
 

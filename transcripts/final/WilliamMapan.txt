@@ -14,6 +14,8 @@ William Mapan: Oh yeah, definitely. French people are very heated about it, espe
 
 Will: You mentioned Tezos — your first project, at least that we're aware of, is *Dragons* on fx(hash). I assume you were collecting on Hic Et Nunc on Tezos before that. What was it like in those early days of Tezos, and how did *Dragons* end up on fx(hash)? Pretty quickly after that you crossed over to Ethereum with *Anticyclone* on Art Blocks Curated. Can you tell us about that path — from releasing on Tezos to crossing over into these more curated platforms?
 
+[pool: Anticyclone | Anticyclone — William Mapan | ]
+
 William Mapan: My first contact with NFTs and blockchain was Tezos, with Hic Et Nunc. It was Wild West, crazy times — you had to hit the sync button a million times before minting or collecting something. It felt fresh, and that's what I liked about it. I was selling stuff for $10 and buying back friends' work — it was mostly a community thing for me at first.
 
 I'd heard about Art Blocks without really knowing what it was, but I knew it was something where you press a button when you mint and it generates something. I didn't know anything about the contracts or the on-chain stuff. I thought, okay, fx(hash) sounds like that, but for Tezos, and since I was used to Tezos, why not try it? So I came up with *Dragons*. I remember having FOMO when fx(hash) came out — I thought, I need to try this now, because I don't know if I'll have time later with my baby. I worked a lot; some nights I had my baby on me, not sleeping, and I'd be bouncing on a yoga ball to get him to sleep while coding *Dragons* at the same time. Crazy times, but good ones.
@@ -215,6 +217,8 @@ William Mapan: The next one will be shorter, definitely. I'm really getting into
 Will: So if you miss the mint, maybe a commission is the way to go.
 
 William Mapan: Definitely. And also taking care of my previous releases — I know a lot of people want *Dragons* printed. *Anticyclone* is on the way too, with Artix Code. *Distance*, why not — we could explore that with other artists as well. All these things I've done aren't forgotten just because they're out. It's a long-run thing, and I want to keep developing it.
+
+[pool: Anticyclone | Anticyclone — William Mapan | ]
 
 Will: I hope you enjoy taking some restful years — it's well deserved. One option we'll give you: if you want to ask us a question before we wrap up, we can do that, and I'll do my best to come up with a thoughtful answer.
 

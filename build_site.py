@@ -276,8 +276,9 @@ def build_pools(slug: str, sample: int = 40) -> dict:
         if items:
             picks = items if len(items) <= sample else random.sample(items, sample)
             out[work] = {"artist": remote.get("artists", {}).get(work, ""), "items": picks}
-        else:
+        elif work in local:
             out[work] = {"files": local[work]}
+        # else: no snapshot pieces and no local files -> skip (nothing to show)
     return out
 
 
