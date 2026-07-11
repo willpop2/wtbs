@@ -106,6 +106,42 @@ def _objkt_rows(hits):
             for t in hits]
 
 
+AB_URL = "https://data.artblocks.io/v1/graphql"
+
+
+def artist_matches(artist_name, aliases):
+    a = norm(artist_name)
+    aw = {w for w in re.split(r"[^a-z0-9]+", artist_name.lower()) if len(w) >= 4}
+    for al in aliases:
+        if norm(al) and norm(al) == a:                 # exact (handles short names)
+            return True
+        alw = {w for w in re.split(r"[^a-z0-9]+", al.lower()) if len(w) >= 4}
+        if aw & alw:                                   # shared significant word
+            return True
+    return False
+
+
+def resolve_artblocks(name):
+    """Art Blocks / Engine projects matching a name -> contract + project_id + artist."""
+    q = ('{ projects_metadata(where: {name: {_ilike: "%%%s%%"}}, limit: 5) '
+         '{ project_id name artist_name contract_address invocations } }' % name.replace('"', ""))
+    try:
+        req = urllib.request.Request(AB_URL, data=json.dumps({"query": q}).encode(),
+                                     headers={"Content-Type": "application/json", **UA})
+        return json.loads(urllib.request.urlopen(req, timeout=20).read()).get("data", {}).get("projects_metadata", [])
+    except Exception:
+        return []
+
+
+def best_artblocks(work, aliases):
+    hits = [p for p in resolve_artblocks(work) if p.get("contract_address")]
+    if not hits:
+        return None
+    return max(hits, key=lambda p: (artist_matches(p["artist_name"], aliases),
+                                    norm(work) in norm(p["name"]) or norm(p["name"]) in norm(work),
+                                    int(p.get("invocations") or 0)))
+
+
 def _q_objkt(hits_where):
     return objkt_gql("{ token(where: %s, limit: 4) "
                      "{ fa_contract name creators { holder { alias } } } }" % hits_where)
@@ -208,26 +244,40 @@ def discover(slug, base, guest):
     lines.append(f"raster artist page(s): {artist_found or '_not found_'} ({len(artist_slugs)} collections)\n")
     for w in works:
         lines.append(f"### {w}")
-        eth = find_eth(base, guest, w, artist_slugs)
+        ab = best_artblocks(w, aliases)
+        eth = None if ab else find_eth(base, guest, w, artist_slugs)
         tez, tez_matched = find_objkt(aliases, w)
+        resolved = False
+        if ab:
+            am = artist_matches(ab["artist_name"], aliases)
+            mark = "" if am else "  ⚠️ artist is NOT the guest — reference; verify"
+            lines.append(f"- **Art Blocks**: proj {ab['project_id']} on `{ab['contract_address']}` — "
+                         f"'{ab['name']}' by {ab['artist_name']} ({ab['invocations']} mints){mark}")
+            if am:
+                cfg.append(f'"{w}": {{"source": "alchemy", "contract": "{ab["contract_address"]}", '
+                           f'"project": {ab["project_id"]}, "artist": "{ab["artist_name"]}"}},')
+                resolved = True
         if eth:
-            flag = "  ⚠️ SHARED contract — find project # from a raster token URL" if eth["shared"] else ""
+            flag = "  ⚠️ SHARED contract — needs project #" if eth["shared"] else ""
             proj = '"project": ?, ' if eth["shared"] else ""
             lines.append(f"- **ETH**: `{eth['contract']}` — names {eth['names']} · supply {eth['supply']}{flag}")
-            cfg.append(f'"{w}": {{"source": "alchemy", "contract": "{eth["contract"]}", {proj}"artist": "{guest}"}},')
+            if not eth["shared"]:
+                cfg.append(f'"{w}": {{"source": "alchemy", "contract": "{eth["contract"]}", {proj}"artist": "{guest}"}},')
+                resolved = True
         if tez:
             best = tez[0]
             mark = "" if tez_matched else "  ⚠️ creator is NOT the guest — likely a reference; verify"
             lines.append(f"- **Tezos(objkt)**: `{best['fa']}` — \"{best['name']}\" by {best['creators']}{mark}")
-            if not eth and tez_matched:
+            if not resolved and tez_matched:
                 q = re.sub(r"\s*#.*$", "", best["name"] or w).replace('"', "")
                 cfg.append(f'"{w}": {{"source": "objkt", "creator": "{(best["creators"] or [""])[0]}", '
                            f'"query": "{q}", "artist": "{guest}"}},')
-        if not eth and not tez:
+                resolved = True
+        if not ab and not eth and not tez:
             lines.append("- _no source found — reference to another artist, off-chain, or local-only_")
         lines.append("")
     lines.append("### draft CONFIG\n```python\n\"%s\": {\n    %s\n},\n```" % (slug, "\n    ".join(cfg) or "# none resolved"))
-    return "\n".join(lines)
+    return "\n".join(lines), len(cfg)
 
 
 def main():
@@ -244,13 +294,27 @@ def main():
     guests = {r["slug"]: r["guests"] for r in csv.DictReader((ROOT / "episodes.csv").open(encoding="utf-8"))}
     slugs = list(guests) if args.all else args.slugs
     OUT.mkdir(exist_ok=True)
+    summary = []
     for slug in slugs:
         if not (FINAL / f"{slug}.txt").exists():
             print(f"skip {slug} (no transcript)"); continue
-        report = discover(slug, base, guests.get(slug, slug))
+        try:
+            report, n = discover(slug, base, guests.get(slug, slug))
+        except Exception as e:
+            print(f"ERR {slug}: {e}"); continue
         (OUT / f"{slug}.md").write_text(report, encoding="utf-8")
-        print(f"wrote discovery/{slug}.md")
-        print(report[:1500] if not args.all else "")
+        summary.append((n, slug, guests.get(slug, slug)))
+        print(f"{slug}: {n} works resolved")
+        if not args.all:
+            print(report[:1500])
+    if args.all:
+        summary.sort(reverse=True)
+        rows = "\n".join(f"| {s} | {g} | {n} | {'POOL (artist)' if n else 'local/none'} |"
+                         for n, s, g in summary)
+        (OUT / "_summary.md").write_text(
+            "# Discovery summary\n\n| episode | guest | works resolved | verdict |\n"
+            "|---|---|---|---|\n" + rows + "\n", encoding="utf-8")
+        print(f"\nwrote discovery/_summary.md — {sum(1 for n,_,_ in summary if n)} poolable / {len(summary)} episodes")
 
 
 if __name__ == "__main__":
