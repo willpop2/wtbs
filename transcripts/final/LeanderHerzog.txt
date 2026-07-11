@@ -6,6 +6,8 @@ Trinity: So what song requests do you have for us today? That's our first questi
 
 Will: Can we get an audio cut of *Very Large Array* that we can just drop in here at some point? The tones and drones.
 
+[pool: Very Large Array | Very Large Array — Leander Herzog | ]
+
 Leander Herzog: That would be nice. Always with a disclaimer -- some people don't like it, some do. I always love to hear it. Sometimes it goes horribly wrong, sometimes it works out.
 
 Trinity: Did you read Will's editorial on *Very Large Array*? I think it's one of his favorite pieces of all time.
@@ -86,6 +88,8 @@ I also had a bit of a crisis with generative art in general, because it was uncl
 
 Combine that with fx(hash), where you have something interactive with infinite potential, but you're limited to selling off single JPEGs, plus the lottery aspect—you mint something and don't know what comes out. That's risky and nerve-wracking for collectors. I saw that mostly as a problem, not as the fun that it is today. There are always two perspectives on it. My breakthrough came when I realized: all these variations aren't individual prints to sell—they're actually frames of an animation,
 
+[pool: Imi | Imi — Leander Herzog | ]
+
 Trinity: Right.
 
 Leander Herzog: or states of a system. The challenge for me as a designer is to find transitions between those states and create a cool interactive experience that moves you from one state to another in some fun way. It can be interactive, it should be animated—the medium allows that, so why ignore it? It feels strange to take something generative that can evolve forever, that can move and even make sound, and limit it to static JPEGs sold off individually. It feels extremely capitalistic, and extremely limiting toward the medium. That's why it was so hard for me to enter the fx(hash) world initially—I didn't want the risk of someone minting something they didn't like, and I didn't want to regress to static JPEGs.
@@ -99,6 +103,8 @@ Will: They're endlessly different, but also endlessly the same, in that on a lon
 Leander Herzog: No, that will actually never happen.
 
 Will: In *Returns*, your first release, is there something in the code that restricts colors or shapes to guarantee every single output is unique? You don't surface parameters on any of your work, which is another interesting decision.
+
+[pool: Returns | Returns — Leander Herzog | ]
 
 Leander Herzog: Yes—it's a combination of enough parameters and randomization that it's, quote unquote, cryptographically guaranteed you'll never see the same *Returns* twice. Even if you stared at your token for a million years, it's mathematically impossible for it to regenerate what someone else saw in theirs. There are enough colors, enough resolution in the shapes, enough variables—even in something minimalistic, it will never repeat.
 
@@ -245,6 +251,8 @@ Will: That was also right when Tender was forming, and we were talking about tha
 Leander Herzog: I was also trying to make something very different from *Returns*, which is extremely minimalistic and geometric—an SVG-based project. This one's a shader, and it operates very much on the level of the pixel. It's animated, colorful, full of gradients. Visually, it's almost the opposite of something like *Aglow* or *Returns*, which I think is cool—it's a surprise, and it keeps things interesting. I'm trying not to get stuck in one visual style, and to remind collectors that they can expect very different drops over time.
 
 Trinity: All of your work still feels cohesive, though. Everything's different, but there are overlaps—not really similarities, but *Imi* and *Returns*, or *Aglow* and *Imi*, and *Very Large Array* and *Returns* feel like they're in the same family. You're definitely creating a signature style when it comes to the animations and everything.
+
+[pool: Imi | Imi — Leander Herzog | ]
 
 Leander Herzog: It's nice to hear there are still threads you can recognize. Last year, some artists really bet on one specific visual brand and style—you'd instantly recognize all their drops on fx(hash) or Twitter. A lot of people had success directly owed to that consistency, to focusing on just one thing. Financially, I'd probably have done much better doing exactly one thing and really going for that. But in the long run, I think it makes more sense not to depend on one style, and to do very different things. It's more of a mid- to long-term strategy—though it has confused some people, since things look so different from one drop to the next.
 

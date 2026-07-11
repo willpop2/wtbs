@@ -62,6 +62,8 @@ Nathaniel Stern: Sasha, you found me first. Why don't we start with that?
 
 Sasha Stiles: The long and short of it is that I was aware of Nathaniel's work because I'm a voracious reader of science and technology magazines—*Wired* is one of my bibles. I saw an article about *The World After Us*, Nathaniel's incredible show—I'll let him talk about what it actually is, but at a top level it deals with e-waste, and with the relationship between technology, from a hardware and infrastructure standpoint, and the natural world.
 
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | ]
+
 There were these beautiful images from that show in *Wired*, and they captivated me because I was doing a lot of work at the time coding using natural objects—I have a series called *Analog Binary Code* where I translate poetry into objects found in nature. I'd been spending a lot of time thinking about that, working with these objects and coding this way, and then I encountered these images from Nathaniel's show and thought: there's a lot of simpatico here in how we each think about nature's intelligence and how that syncs up with what's commonly called artificial intelligence, and what we can learn by overlaying the two. So I followed him on Twitter, and we eventually found our way to each other through the wilds of crypto Twitter and realized we had a lot in common. I didn't realize he was a poet at first—that was a happy thing to find out later on.
 
 Nathaniel Stern: When I started working on that project with Scott Kildall, called *NFT Culture Proof*, the basic gist was this: when we started researching the blockchain, we thought the best thing about NFTs was the community, but none of it was actually on-chain. It was happening on Discord, on Twitter. So we made a series where you'd write stories and communicate with each other, but every line you put out there would live completely on-chain. You'd get an NFT with your text and the seven texts before you. We were looking for writers to prompt the daily routines and stumbled upon the Crypto Writers Discord, and that's where I found Sasha Stiles.
@@ -172,6 +174,8 @@ When I work on a physical show, I think it's important—as an artist, a poet, a
 
 I also think blockchain plays a role here—what does the blockchain *feel* like? *Still Moving*, for example, is our first experiment in embodying the blockchain. It's the first fully embodied, interactive artwork that's entirely on-chain: motion tracking in real time that distributes a poem around your movements. You can actually see behind me—though you won't hear this on the podcast—that's Mother Computer, that's the show. Every poem we write will live in various forms. It'll live as a generative poem on fx(hash). Then we're taking *The World After Us*, our first big collaboration, printing it on paper, using scraps of that paper and other waste from my studio, blending it into new paper, making a generative project, and spray-painting the words back on top, taking inspiration from the fx(hash) output. How might we generate physically—which we always already do—this generative project, and what does that feel and look like?
 
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | ]
+
 *The E-Wasteland* is another project, based on *The Waste Land*. That'll be pre-curated—my images, with an AI extending my scanner work, and Sasha's written the poem. It'll drop as a stanza-by-stanza poetry "unreading," as we call them. There'll also be a media-rich version, an artist book made of transparencies for overhead projectors, and an installation of huge piles of electronic waste, spray-painted just slightly off-white to turn them into paper, with Sasha handwriting the poem across all of them.
 
 I think of my exhibitions as having three relationships I want to augment, amplify, or intervene in. The first is intimate: how might we complicate our understanding of AI? So many people have opinions but don't know the difference between DALL-E, Midjourney, and Firefly—there are huge differences in the companies investing in them, where the images are scraped from, the politics behind them, who's using them. What's the difference between Bard and ChatGPT? Between large language models and what Sasha calls "small data"? Everyone talks about datasets, but what about the parameters? The model itself? Fine-tuning, debiasing? Why is it only computer scientists doing this? That's the intimate level I want to change.
@@ -256,6 +260,8 @@ Interestingly, that's become how most of our media-rich poems work now: Chris's 
 
 The hardest part with *0RAL B1N4RY*, when we had to scrap the first version, was that this conversation happened maybe three weeks before Miami. We'd gotten a grant from Refraction Festival to drop it there. We were seriously asking, can we still do this? Are we not going to Miami anymore? Sasha was going to go regardless; I wasn't going to go if we didn't drop this. It was a really hard moment. But — and I know Sasha feels the same, not putting words in her mouth — what we ended up with was so much stronger than anything either of us would have made alone. We're so happy with it. We never expected that piece, or *The World After Us*, to sell out so quickly.
 
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | ]
+
 So we were really thrilled. Sasha, do you want to chime in?
 
 Sasha Stiles: That was a nice summary. It just made me think — you were very generous earlier calling me "particular" instead of "a pain in the ass," which is probably more accurate when it comes to some of these things.
@@ -315,6 +321,8 @@ Nathaniel Stern: I love hearing that, because admittedly it didn't appeal to me 
 Sasha Stiles: That's actually very similar to a project we recently did during Art Basel—an interactive poem in body language, made with Play Record Mint, an amazing generative platform. It created a poem with lots of different options: visitors could stand in front of the screen, interact with it, and make choices about how to write their poem into experience. By moving certain ways, they could influence the background color, the title, different completions for the poem—a simple way of showing how something like that could come to life.
 
 Nathaniel Stern: It's almost a mix between *Still Moving* and what I was just describing, except it's not interactive on-chain—it's interactive in a physical gallery space. We did two collaborations with Play Record Mint, called *Compose* and *Embody Language*. In real time, you could manipulate the poem based on body tracking, and when you were happy with it, you'd press mint, get a three-second timer, and it would mint a PNG of that current iteration.
+
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | ]
 
 Will: I think we should do one—exactly one—rapid-fire question and then end the episode, since we're already very long. Trinity, why don't you pick one?
 

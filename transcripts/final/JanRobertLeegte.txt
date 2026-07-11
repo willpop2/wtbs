@@ -70,6 +70,8 @@ Eventually someone from Folia said, "You want to do a drop? I know a programmer 
 
 Shortly after, my contact with Art Blocks became fruitful — you reach out, and two or three months later they say, "okay, we want to do something." That's when *Window* came out. Now it's nearly three years later, and I'm starting to understand how it all works. But it's completely fascinating, and it's swallowed up all my time since.
 
+[pool: Window | Window — Jan Robert Leegte | ]
+
 Trinity: The new proverbial upload-to-website, release-this-on-the-blockchain scenario.
 
 Jan Robert Leegte: Deploy contract and there it goes.
@@ -151,6 +153,8 @@ Then I thought: no, it actually does make sense. One part of the story is commen
 What's interesting is that it works two ways. On one side, it comments on NFTs that can break—except here, they've been pre-broken so they can never break any further. On the other side, the image defaults back to the placeholder, which is something in flux: as you view it on a different browser, or in the future, it will change. It mutates and reflects the technology of its time.
 
 I've done this before in my work. There's a piece called *scrollbarcomposition.com*, a web-based work from one year after I finished academy—simple HTML and JavaScript, a modernist composition of hyperlink blue, grays, and whites, with scroll bars triggered by JavaScript to move. That piece is from 2000, and it's been educating me for the last 24 years about what this medium really is: a transformative, mutating entity. It's shape-shifted through Aqua Apple style, Windows XP, Linux, phones—constantly changing. Responsiveness is always central to my work: it even changes with the type of screen and resolution you're using. That fluid, morphing quality is such a key property of browser-based and digital art in general—I find it essential.
+
+[pool: Window | Window — Jan Robert Leegte | ]
 
 So that piece is changing and will keep changing. I'm curious how it will evolve as UX changes—maybe scrollbars will disappear entirely and it'll go static as a composition. That's fine, and by then everything can be emulated, so you can go back and watch it across all its different phases. I find that absolutely beautiful about working with the computer. *Broken Images* works the same way—I've already seen it render differently in parallel browsers at a gallery show. People watching on Linux or Safari get a different icon than the one hanging in the browser I like. Web3 collectors instantly dig that. They really love it.
 

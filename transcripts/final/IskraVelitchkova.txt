@@ -36,6 +36,8 @@ Will: It's a suggestion we took to heart. Following up on books, movies, media i
 
 Iskra Velitchkova: Tough question — but honestly, nothing in particular, because I tend to watch biographical movies, things I can learn from in terms of how people in the past did things, more than the story itself. Sometimes I get inspired by movies like *Solaris* by Tarkovsky, or books, or Fellini for the new Bright Moments piece, or *Zabriskie Point* for the fx(hash) project. It's not about the story — it's something I want to bring into the project directly. With *Zabriskie Point*, it was that final explosion scene set to Pink Floyd — incredibly impressive to me. I wanted to pay homage to that scene, even though the movie itself has nothing to do with the project.
 
+[pool: Solaris | Solaris — Iskra Velitchkova | ]
+
 So it's less about connecting movies or books directly to my work, and more about what I take from them — like when I need to find the right moment to start a project, or get inspired, I'll go to some biography and think: how did they do that? Usually they'd take a house for a month, whatever it took to really take their work seriously. I need that kind of energy — seeing that people took their work seriously so I can do the same. That's how I use those references.
 
 Trinity: It's a bit like how I spend time watching TikTok over my wife's shoulder, picking up things people find helpful — except you're doing it in a very long-form way. And it's proven out by the geniuses who've done it — I remember reading *Walden* in high school, just someone sitting on the shores of Walden living a very basic, intentional life for a year. What's the most fun or helpful thing you've done, inspired by that, to reinvigorate your art — besides taking a year in 2018 to paint, plot, and throw some clay around?
@@ -51,6 +53,8 @@ Will: I mean, that's one of the nice things about being in Europe — you can ta
 Trinity: You're on your short trip to New Jersey right now. Testing it out, feeling it out.
 
 Will: It's interesting to hear you say that, because a lot of what we've seen from your work — or things I think of when I think of your work — is that influence of urban landscapes, or *Escape*, or *Edna*. They imply places in transition. I guess I'm fumbling around trying to say that a lot of your work has a real sense of place to it, and that seems like an important theme in what you're trying to explore. Maybe you could speak to how that translates into your projects, even the first one we know you from, *Uninhabitable*. By the way, Trinity has a red *Uninhabitable*, I don't know if you know that.
+
+[pool: Escape | Escape — Iskra Velitchkova | ]
 
 Trinity: I do. I'm really looking for a *Nowhere*, because that's the one that speaks to my soul the most. But we can talk about *Uninhabitable* later — I want to make sure you answer Will's question. I could geek out about it for a very long time. It was so good.
 
@@ -69,6 +73,8 @@ I would release something almost every day, a few things some days, because I'd 
 Then Hic Et Nunc went down. And the same week, or the week after, fx(hash) came up, and I thought, the family is back. I saw many people publishing projects there and I liked them, but I'd never done long-form before, and I wasn't sure it was for me. At the same time, I felt personal pressure to be part of this family, so I felt I needed to do it.
 
 *Uninhabitable*, even though it was long-form, felt fresh, because I didn't overthink the project. I just saw something and thought, wow. It started with the forest, the ellipses — I liked the yellow-toned background, which I like to use to explore things. I wanted to give it the feeling of sketches, something pure, no grain, just the shape and a black line. Then I started playing with the lines and got *Nowhere*. Once I had everything, it came together in just a few days — a very quick project. Then I thought, now I need something powerful, some drama, and I started playing with red as a fog. That felt exactly right. I released it, and it felt great being part of that moment. I love *Uninhabitable*.
+
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | ]
 
 Trinity: I think your most iconic work is really in that one-of-one space. I went to OBJKT — the best place to browse HEN work now — sorted your pieces from oldest to most recent, and just seeing all the different explorations released almost as a series is wonderful.
 
@@ -161,6 +167,8 @@ But coming into this space, I found a lot of people with data visualization back
 It would probably only work with synthetic data, though—if you want a strict one-to-one representation, real data is fine, but for something generative you need to introduce randomness into the data itself. I'd like to try, but it takes a long time to do properly. I used to do data visualization with a different library, D3.js—there are real differences, and now I'm used to p5. Still, I would like to do something more design-driven eventually.
 
 Will: That'd be super cool. I know you can't say too much, but even speaking broadly—can you give people some alpha, something to look forward to from you through the rest of 2024 and beyond? Are you going to keep exploring the series you started with *Escape*? The description you wrote for *Edno* seems to imply there's more coming in that series. Will we see more physical work, too? You did those prints with Tonic, which were awesome. What can you tell us about what's coming up?
+
+[pool: Escape | Escape — Iskra Velitchkova | ]
 
 Iskra Velitchkova: In the very short term, there's a project we shared today. There's going to be an event in Menorca, an island here in Spain, the first time our collective is doing something like that. There are two new collectors who really pushed hard to bring good names and do something great on the island. I think it's going to run from the 20th to the 22nd of June, and they'll share more details soon. It's a very nice thing because it's basically a group of friends going there — Marcelo, Ana Carreras, Ana María Caballero, Klingemann, Pixel Fool, so many good people. We're going to combine physical and digital pieces, which should be fun.
 

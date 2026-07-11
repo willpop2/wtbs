@@ -16,6 +16,8 @@ Then, on a conceptual level, the pixel is the basic element of a raster image, a
 
 Trinity: When we were prepping for this episode and speaking to some artists, so many of them cited you as an inspiration, not only for your history within the space and being one of the OGs, but also because they see something so unique stylistically in your work. Punevyr, an artist we love and have had on the show before, wanted us to ask you: how did *Reading a Book* end up on fx(hash)? Because we know it as an Art Blocks piece, but he mentioned there's a fun story behind an fx(hash) version too.
 
+[pool: Reading a Book | Reading a Book — Kim Asendorf | ]
+
 Kim Asendorf: *Reading a Book* was submitted to Art Blocks in, I think, April 2021. It's a project I'm very proud of. It's probably my most conceptual piece, where I used a neural network to create the visuals. Screens are simulated 3D objects in the work, showing text extracted from a book, mostly manipulated through a generative grammar, so it creates random sentences, which then get imported into the neural network to translate the text into an image. It's one of those works I'm most proud of.
 
 Art Blocks rejected it, which is understandable since the tech is quite heavy. It uses TensorFlow.js, a neural network library for the browser, and it's a pretty large file since a full trained model is included. On top of that, it's a 3D render with real-time text-to-image translation, so it's a heavy calculation for a machine to output that in the browser. I fully understand why Art Blocks rejected it at the time, but I still loved the project. I already had the fixed idea, the concept, the whole vision of it, so I didn't want it to just disappear in a folder on my hard drive. I was looking for a way to present it anyway, and coincidentally, that was the time fx(hash) launched. I saw it as *the* platform to use for that, since the tech basically didn't matter there — you could publish whatever file size, whatever technology, which felt very freeing, especially after being rejected for using heavy tech. And it worked out pretty well. It's one of my most beloved projects, and I'm very happy it found a place to live.
@@ -24,6 +26,8 @@ Trinity: That's amazing, and it must be so nice to see the reception change over
 
 Will: Since you mentioned Art Blocks, I did want to ask about the differences in your process between working on fx(hash) versus Art Blocks. I know *Cargo*, more recently, was an Art Blocks piece. What is it like adjusting your work to fit the specifications and requirements of a given platform? I'd assume it's not one-size-fits-all — that you have to consider file size and technology requirements when choosing where to debut a project.
 
+[pool: Cargo | Cargo — Kim Asendorf | ]
+
 Kim Asendorf: It depends. First, I need an idea, and then I think about the right place to put it. Sometimes that decision happens quite late in the process, and sometimes it's clear from the start. With *Cargo*, for instance, it was clear from the beginning that I wanted to release it on Art Blocks, mostly because of the price range you can achieve there, and because I felt it was time to have a piece on the platform. I hadn't published anything there in a long time, and I wanted to bring something fresh.
 
 *Cargo* was also, in a way, a piece made *for* Art Blocks, in the sense that I wanted to create something with a clear, comprehensible idea — a simple concept that unfolds through the algorithm, so anyone who looks at it can quickly understand the underlying idea, even without technical knowledge. That was very important to me for that piece.
@@ -31,6 +35,8 @@ Kim Asendorf: It depends. First, I need an idea, and then I think about the righ
 With fx(hash), it's a bit different, since anyone can publish anything, so I feel freer to experiment. I did a project called *Kill the Cartoon*, for example, which was rejected everywhere else — Art Blocks didn't feel right for it, other platforms didn't fit either. So I used fx(hash) as an outlet for more experimental, weirder ideas that are harder to sell but that I still wanted to share.
 
 Trinity: I feel like that's such an interesting distinction, and it aligns with what we've heard from other artists about their choice of platforms, especially the Art Blocks curation and price consideration. We wanted to ask about your background project, *Monogrids*, and its connection to your later work, *Blockendoos*. Could you tell us about the differences in process, and if you see them as connected? And why the jump into long-form generative art specifically, since I know your practice began, in some ways, more focused on single, static outputs.
+
+[pool: Monogrid | Monogrid — Kim Asendorf | ]
 
 Kim Asendorf: *Monogrids* was actually my first long-form generative project, and also my first smart contract, the first project I put on the blockchain myself, without a platform, basically hosted on my own website and with my own contract. The idea was to challenge myself. I'd seen the first wave of these long-form projects on Art Blocks, and I wanted to see if I could do that too, to challenge myself in creating a system, an algorithm capable of endless iteration that still holds up, still creates good results throughout.
 
@@ -100,6 +106,8 @@ Of course, I'm happy if there's interest in my work, because that lets me keep g
 
 Long term, there's certainly a chance that bigger institutions will put stuff like this in their collections, because it's ultra-contemporary—using the computer at the maximum level of what's possible, pushing the graphics card at high speed while still trying to have an interesting output. I can see an LED wall in a museum someday possibly showing a *Monogrid*.
 
+[pool: Monogrid | Monogrid — Kim Asendorf | ]
+
 Trinity: We've seen that with Andreas Gysin in some of his work, where it translates between the screen and light panels. That's very cool to see—you can look at both side by side and recognize, oh, this is the same piece.
 
 Kim Asendorf: Andreas is the master of turning a digital algorithm into an object-like thing. He also does a lot of other object-like installations that are aesthetically and formally interesting. For me it's a bit different—I see my work as more digital native. It doesn't need the device at all. Of course you need some output to see it, but it should run on any device. The cool thing is that a pixel translates very well to an LED—it's basically the same thing, just at a different scale. That's why a lot of my work has a high amount of black areas or black background: it displays very well on LED presentations, and it's economically friendly too—saves a bit of current.
@@ -119,6 +127,8 @@ Trinity: About 50, and this is something new and unique. Thank you for that.
 Kim Asendorf: Some people describe me as somebody who thinks out of the box, and I like that a lot. You can never really understand yourself, and you can never completely describe yourself. I just think, if everybody goes right, I have the urge to go left, and that's something I like to preserve for myself—a bit of childish behavior, being naive about what I do and just doing it without needing to explain why. That makes everything much more interesting for me, and it's also why I call this work expressive. It's a level of self-expression. I don't want to educate anybody, I don't want a message in it—it's something that's in me and wants out.
 
 Trinity: With that said—at least out of the projects we know and love you for, whether it's *Reading A Book*, *Cargo*, or *Zoom*, which is one of my personal favorites—they're all incredibly unique, and I think there's a layer of storytelling you engage in to some extent. I've seen people on Discords say they've stared at *Reading A Book* for ten minutes and felt like they were reading a book. Is there any narrative imposition you put into your work? When it comes to the theme, how it moves, how it comes to life, how you name it—how do you get to the stage where you're producing it from a narrative point of view?
+
+[pool: Reading a Book | Reading a Book — Kim Asendorf | ]
 
 Kim Asendorf: The narrative opens up to me only while experimenting and defining a concept. It's always a back and forth: I have a slight idea, a concept, then I execute it, which is already an experimental act, because the concept is so vague and technical that I don't really know how it'll look or what will come out. Seeing it is the experimental part—executing a concept, then usually going back and forth. If I see the output and think, no, this isn't really working, which happens too, I redefine the concept to push it in a specific direction. It's a constant back and forth between defining something, executing it, being surprised or not, and looking back at the concept. That process can take a week, months, or just a day, and while doing it, the narrative around the work opens up to me more or less on its own.
 
@@ -177,6 +187,8 @@ We're also working with Highlight for this show — Andreas and Leander are usin
 As for choosing partners in general, it's hard to pin down — it depends on where you are at the moment, what's possible, who reaches out, and where the nicest people are. That matters a lot. Can you actually work with them on a personal level? And, as an artist, there's also some vanity involved — wanting to be placed in nice contexts. Working with Art Blocks is nice for that reason. I've also shown with Feral File, which is run by Casey Reas and a few collaborators who understand how artists with longer careers work, and what they need to be happy — that it's not just about being an outlet to sell work.
 
 That's where, long-term, some platforms will be in real competition with others: some are just sales outlets, a primary market and nothing more, while others genuinely care about the artist and the artwork, and look for ways to keep it alive beyond the initial sale. If Art Blocks does a show in two years and still features *Cargo*, that shows they care about work that's no longer financially important to their business — it's an investment in their own significance, a statement that they still care about what they did. So yes, if I'm making choices about partners, that's something I care about a lot.
+
+[pool: Cargo | Cargo — Kim Asendorf | ]
 
 Will: What about fx(hash)? With Ethereum in the picture now, could you see releasing on an open platform like that again — not tied to one big drop, but where anyone can come and release anytime? Any chance of a surprise release from you on either chain in the future?
 

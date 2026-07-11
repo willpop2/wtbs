@@ -8,6 +8,8 @@ Steve Pikelny (Stevie P): I'm excited to be on. Longtime listener, first-time ca
 
 Trinity: I'm so proud that you've listened to us through some of this. I remember when we first discovered you through *Dopamine Machines* — it was revelatory, in many respects. Such a fun project.
 
+[pool: Dopamine Machines | Dopamine Machines — Steve Pikelny | ]
+
 Steve Pikelny (Stevie P): I was so flattered that I was getting mainstream media attention for my project.
 
 Will: I like to think of us as alt media. We're a little outsider. Since you're a listener, Steve, it'll come as no surprise: the first question for you is to introduce yourself to the audience. Tell us a little bit about your background in art and coding, and how you came to NFTs as a way to release your work.
@@ -34,11 +36,15 @@ As I started experimenting as a code-based artist, that was right off the bat so
 
 The first website I made that wasn't purely an audiovisual thing but had something of a narrative was fakebullshit.news, a fake news website, right around when Trump got elected and everyone was talking about fake news. For whatever reason, that idea stuck in my head — how you could use user interfaces to manipulate people's realities. Similar to wrestling and kayfabe, I was interested in the idea: okay, you have a fake news website, but what does it mean to make a *fake* fake news website, taking that level of reality another step up or down? Conceptually, that really resonated with me, and I liked the outcome. From there I started getting more ideas in that ballpark — what are other ways to manipulate the user's reality through the interface and the text, what stories can I tell through a website. I've never been a huge fan of reading hypertext fiction, but as a medium it's really interesting — how do you tell nonlinear stories where the user is in full control of what they click on and what they learn next, and how does that all unfold?
 
+[pool: fake | fake — Steve Pikelny | ]
+
 Will: I really like how a lot of your website projects link to each other — it ties the whole universe of these things together, literally interlinking them. What's your relationship with the internet like? Anyone who creates critique or satire does it from a place of being a fan, generally — or you have to be an expert, you have to love it to skewer it effectively. With *fakebullshit.news* I see a lot of visual nods to things like the Drudge Report and similar sites. You've also done a ton of stuff exploring online dating, which we can talk about — your dating life or not, up to you. It genuinely makes me curious — as a side note, Trinity and I both met our partners through online dating — what is your relationship with all of this? How do you holistically feel about it versus what you put out there in your art?
 
 Steve Pikelny (Stevie P): I'd define my relationship with the internet as unhealthy, largely — which is something I explored in *Dopamine Machines* too. It interacts with my brain chemistry in an unhealthy way, habituating me to always seek the next dopamine rush: did someone like my hot take on Twitter? How many likes do I have? Do I have any matches on the dating app?
 
 You rightly noticed that my experiences with dating apps were a big influence on *FinSexy*, partly because of that same reward system — has the love of your life found you on this app yet? See a little red notification, and maybe it's possible. It trains you to open the app looking for that notification, and when you get it, you get a huge dopamine rush. But you don't get matches all the time, so swiping on these apps genuinely feels like a slot machine: lose, lose, lose, lose, oh, I won a thing. Slot machines are designed the same way — you can't win all the time, or the house wouldn't make money. They want you to win just enough to keep you coming back, so it feels like this rare, precious reward.
+
+[pool: FinSexy | FinSexy — Steve Pikelny (Stevie P) | ]
 
 Trinity: There's a lot we could say about that, and about the mechanics of rarity within generative art. But staying on *FinSexy* — are any of those moments baked into the project itself? I've explored a bit, but haven't gotten through the entire set of conversations. Is there anything people engaging with it should be looking forward to or trying to find?
 
@@ -104,6 +110,8 @@ The project I'm working on right now is ostensibly the final project for that cl
 
 Will: Continuing on this thread—people probably know you best for your Art Blocks project, *Dopamine Machines*, and you can't do an Art Blocks project without monetizing it. What made you want to approach Art Blocks in the first place? Aesthetically it's very aligned with your work, but working with that platform put you in an ecosystem in a way your other projects aren't. You haven't really gone to other platforms like Verse, and I don't know if you have representation anywhere—a lot of artists have gone the route of doing more curated stuff with platform assistance, but not you. What was that experience like, and why not continue down that road?
 
+[pool: Dopamine Machines | Dopamine Machines — Steve Pikelny | ]
+
 Steve Pikelny (Stevie P): The initial reason I got into it was that, winding back the clock to late 2020, COVID was still happening, I'd been sitting around for a year not doing a lot. I'd just completed my fourth elaborate, stupid website, *Rona Merch*, which is still up—you should check it out, ronamerch.co, for all your merchandise needs. I was working at the time, so it wasn't full-time, but I'd spent a few months chipping away at it, put in all this effort and energy. My friends liked it, we joked about it for a week or so, and then it was just on the internet and no one went to it. That was the end of it.
 
 It didn't feel good to put in all that effort and have no one care. So I decided I was going to stop making art—this sucks, it's not worth it. A couple of weeks after reaching that conclusion, a friend told me things were happening in NFT land again, and there was this cool platform called Art Blocks. I checked it out and thought, actually, this is really cool. I popped into the Discord and saw a decent number of people engaging with the art, a good community. So I thought maybe I should try making generative art and selling it as NFTs, since there was a community here I could tap into—people willing to engage with something I put a lot of time into.
@@ -115,6 +123,8 @@ Later that year I did a project with Plottables, because they focused more on pe
 But I think that was the last generative project I've done. Everything since then, I just haven't needed a platform for. I don't have anything against a lot of these other platforms—I've talked to a bunch of them about maybe doing a project—but it never felt like they'd give me enough to make it worth it. Less is more. I like controlling the full pipeline of a project—the contracts, building the website, promoting it on social media—because I view it as this holistic internet experience you're building for people. It's not something I necessarily need or want help with.
 
 That said, I'm not opposed to it if the right partner comes along. With Plottables, that was the right partner for *Instructions for Defacement*. I've also worked with Ensemble—they're really cool because they focus on artistic process pieces, and those are things I'd feel weird just releasing on their own. They do a really good job of presenting the work and putting out supplementary video materials. So there's stuff I have sitting around that I wouldn't release otherwise, and they take it from zero to something. But otherwise, in general, I haven't quite seen it as worth it.
+
+[pool: Instructions for Defacement | Instructions for Defacement — Steve Pikelny | ]
 
 Trinity: So it sounds like you're feeling a little down about the space. We started this conversation with you talking about the absurdity and themes around subjective value and belief that kicked off your NFT art career, and it sounds like, reading between the lines, you're moving away from that—at least from the crypto perspective—and focusing more on the intersection of being online and having these crazy interactive experiences. Do you feel victim to your own early aesthetic around subjective value? It's very meta, because your own work is very subject to that subjective value as well.
 
@@ -133,6 +143,8 @@ One thing I really like about doing blockchain-based pieces—not just for the f
 If I did something incorporating PayPal, it would feel a lot more ephemeral—like an ongoing performance that might need maintenance because things are changing: they updated their API, my account got suspended, and so on. But if it's on the blockchain, it's an object—it exists, it's set in stone, and as long as the blockchain is there, it'll always be there.
 
 For example, my project *Money Making Opportunity*—it's not really a pyramid scheme, more a convoluted, vaguely pyramid-scheme-y game theory thing—has about 45 ETH locked up in the smart contract. There's a convoluted mechanism you can use to retrieve the money, but it might take up to 28 years to do it. In some ways, that is a 28-year performance. But if I'd locked that money up in a bank or in PayPal, I wouldn't have the guarantee that it'd still be there in 28 years, or that the custodian wouldn't do something stupid with it, disable the account, or go out of business. Granted, we don't really have any guarantee that Ethereum will be around in 28 years either—but I think that's part of the thrill of it. It at least forces you to ask those questions about permanence.
+
+[pool: Money Making Opportunity | Money Making Opportunity — Steve Pikelny (Stevie P) | ]
 
 Will: It's definitely baked in for everyone who's collecting. We're 95% sure it's going to be around, but who knows?
 
@@ -168,6 +180,8 @@ Trinity: So far.
 
 Steve Pikelny (Stevie P): I really, really like scam websites and their aesthetic. One of my favorite pastimes is going to fake news websites and clicking on the incredibly skeezy-looking ads, ending up in these weird pockets of the internet where they're trying to sell you weird, stupid shit. There's a thrill to it -- you get to step into these alternate realities, but because they look like such dogshit, you're not as worried about believing it. The delineation between scam world and real life feels a little more clear.
 
+[pool: fake | fake — Steve Pikelny | ]
+
 Will: Anything else, Trinity, or should we wrap it?
 
 Trinity: One more, for people who are dating or online dating out there: best and worst ways or services to meet somebody?
@@ -193,6 +207,8 @@ Steve Pikelny (Stevie P): Those are good conversation starters.
 Will: Hell yeah. All right, I think we leave it there -- we're about at time. Is there anything you want to plug, other than the upcoming game, Steve, before we sign off?
 
 Steve Pikelny (Stevie P): There is something I'd want to plug. I promised my roommate I would. One of the jokes on *FinSexy* is that the Stevie P FinDom has an Amazon wishlist of sexy gifts you can buy him. One of the items on that wishlist is dish soap, and I desperately need dish soap at the moment. So if someone wants to buy me dish soap from the Sexy Gifts wishlist, that would be great. There's also a $3,000 fuck bench on there — please don't buy that one, because I have nowhere to store it.
+
+[pool: FinSexy | FinSexy — Steve Pikelny (Stevie P) | ]
 
 Trinity: But we should buy it for your roommate.
 

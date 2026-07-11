@@ -12,6 +12,8 @@ Will: We definitely want to talk all about that work, but Luke, why don't you in
 
 Luke Shannon: I'm Luke Shannon. I've been coding generative art for about 6 years. I have a couple of projects — *The Opera* with Art Blocks, *Orchids* with Bright Moments — and some one-of-ones. I focus on making physical algorithmic art, physical pieces built with code. I'd been painting and drawing my whole life, but I always thought I'd be a writer. Then I found that writing code scratched the same itch of describing something with a tight syntax, while also incorporating the visual and mathematical elements I like. So when I found generative art, I went all in.
 
+[pool: Orchids | Orchids — Luke Shannon | ]
+
 My introduction to the NFT space is probably one of the more unusual ones. My parents sent me an article on NFTs — "You do digital art things," they said. I read it and didn't do anything with it. Then they sent me another one, and I followed up, found Art Blocks in early 2021, had a great conversation with Snowfro, and was blown away by the community that was already there. I immediately started working on a project with them, released *The Opera* in 2021, and followed up with *Orchids* with Bright Moments the next year. Now I'm focusing more on producing physical generative art — making tangible pieces from code.
 
 Trinity: I'm really fascinated by how that works — getting the code to the art in a 2D way, or sometimes a pseudo-3D way, I get that. But what's the process for making something long-form or generative into a physical sculpture or other tangible medium?
@@ -57,6 +59,8 @@ Trinity: Okay, we'll avoid that.
 Luke Shannon: That was a great one, by the way.
 
 Will: I want to piggyback on something you said. You did an interview last year with ArtXCode, and in that piece you said that automating systems and building algorithms helps you understand mediums better. I think you were talking about doing generative works with clay and embroidery, trying to get closer to the core concepts of working with these materials at a mathematical level. I'd love to hear more about that — and let's jump forward to the generative chair, the project you have coming up with Tonic, called *Seating Arrangements*. As far as we know, it's the first piece of generative furniture out there, if that's not too trivializing a way to put it. What did you learn about wood, and chairs specifically? When you're writing code that's going to produce something we recognize as a chair, what were some surprising things you learned about chairs and chairness in that process?
+
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | ]
 
 Luke Shannon: I'll say I'm wary of claiming "firsts" — I've seen some similar projects — but it was great to work on this specifically because I did learn a lot about chairs, which I love. It's really interesting to interface this well-defined algorithm for producing chairs with the not-so-well-defined problem of what's "sittable." That's a much more human problem, and it's not clear what's sittable even across different people. Investigating that has been fascinating — what are my biases when I look at something and think "that's a chair" versus "that's not a chair"?
 
@@ -125,6 +129,8 @@ Luke Shannon: Yeah, the structural form is literally the letters H-I repeated. N
 Will: Beyond understanding chairs better, do you find yourself thinking about the generative future of household objects in general—where manufacturing might catch up? Maybe in-home 3D printers, maybe at-scale industrial facilities, where suddenly everyone can have their own one-of-one object. What have you learned making this project—since I assume a lot of the fabrication happens out of your studio, or a nearby studio with the right machines? How far off do you think we are from that future? Or does it feel like it's still too difficult?
 
 Luke Shannon: We're working with a studio to help manufacture all of the chairs, but I've made all the prototypes myself. As for the future of these kinds of generative processes, I'm excited about it—that's where I spend most of my time thinking. With *Stitchables* and one of my previous works, *pattern.dst*, both generative embroidery fashion projects producing one-of-one instructional art, I feel like the future of fashion involves people making their own clothes, or at least being involved in the process. That's really interesting to me as a form of self-expression, and I think instructional art and algorithmic art are going to be important to that. There's something special about the relationship you develop with a piece you create yourself by minting, or in collaboration with a friend or an artist you support on a personal level.
+
+[pool: pattern.dst | pattern.dst — Luke Shannon | ]
 
 I'm also excited about the possibilities of upcycling—executing instructions like embroidering old clothes to restylize them, or mending clothes, because these instructions can be repeated and run again. I hope it's fundamentally inclusive too. There's great opportunity to make these algorithmic works have variety and function as each person needs them to function. With *Seating Arrangements*, you can rescale outputs to any size in any dimension—arbitrarily wider or skinnier, taller or shorter, more or less deep. The wood can be made thinner or thicker.
 

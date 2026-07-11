@@ -1,5 +1,7 @@
 Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're sitting today with Kjetil Golid — that's my best attempt at the pronunciation, and I'm always on the hook to try to get other people's names right on the show. We're here to talk about his upcoming release on Verse called *Monument*. Of course we're also going to get into your history — I think we'll talk about *Archetype*, that's unavoidable. Trinity's here as well. Trinity, how's it going?
 
+[pool: Archetype | Archetype — Kjetil Golid | ]
+
 Trinity: Hey there, so good to have you on for this conversation.
 
 Kjetil Golid: Hi, thanks for having me.
@@ -29,6 +31,8 @@ Kjetil Golid: We have a common origin story.
 Will: How did you end up discovering the blockchain and NFTs? A lot of the work you released prior, that's up on your website, was open source tools — open algorithms for people to explore. So what brought you to crypto and NFTs, and how did you start releasing your work that way?
 
 Kjetil Golid: It's not entirely clear to me how it all started, but I began posting my work on Twitter and Instagram pretty early and got a small following quickly. At some point someone approached me and pitched the idea of NFTs, and I didn't really make much of it then. I got sent some links about contract types, tried to buy a CryptoKitty — this was probably 2017. I also got offers to supply code for some of these generative pieces so they could be framed and turned into NFTs on a platform — that was actually a precursor to the *Paper Armada* algorithm. I don't think the platform ever became anything.
+
+[pool: Paper Armada | Paper Armada — Kjetil Golid | ]
 
 I think I'd also misunderstood the concept a bit, because I knew that algorithm could technically produce duplicates, and I thought it would be a big problem if two different hashes produced the same output. So I didn't want to hand that algorithm over without fixing that first. Nothing came of it, but it planted NFTs in my mind.
 
@@ -76,6 +80,8 @@ Will: Wow.
 
 Kjetil Golid: That skyrocketed the minting -- it sold out almost overnight. That's the story of *Paper Armada*.
 
+[pool: Paper Armada | Paper Armada — Kjetil Golid | ]
+
 Trinity: That's a crazy story. Three thousand minting out relatively overnight is so fast -- even in full bull-market mode that seems fast. Were these Art Blocks series your first real foray into what we now call, thanks to Tyler Hobbs, traditional long-form generative art, where you need an algorithm that can support a thousand or three thousand random outputs? What was it like transitioning from more of a curated-release pattern to a generator?
 
 Kjetil Golid: It wasn't that foreign to me. Although I'd only released one-of-ones or small editions before, I'd already made generators that lived on my website where you could click a button and generate a new piece. So I was already in the mindset of creating algorithms that would always produce something interesting rather than 90% duds. The harder part is making it into more of a structural challenge, where you want every piece to be at least okay, hopefully good. That wasn't really the hard part with a set like *Archetype* -- I did some cheats in the code to avoid the most basic patterns. But as it turned out, the most basic pieces are the most loved by some collectors. So maybe just let there be complex pieces and simple pieces -- there'll be something for everyone anyway.
@@ -85,6 +91,8 @@ Will: I have to ask -- do you know if that Fidenza trade was ever actually made?
 Kjetil Golid: It was, actually, and quite early, so I figured it would slow the craze down, but it didn't. I think it was already a bandwagon at that point -- a train that wasn't going to stop anyway.
 
 Will: Thinking about long-form generative work -- between *Archetype* and the *Decagon* piece you made for DECA, which isn't quite long-form, more like an open edition since anyone who joins DECA gets one -- how do you think about traits, rarity, and scarcity in your long-form pieces? It sounds like you lean toward a bell curve, a little of everything. But do you get intentional when designing traits? With *Archetype*, the rare ones that show the full cube feel like such outliers -- they almost don't feel part of the same collection, until you read the description and realize every *Archetype* is that, just with or without the full cube visible. Can you talk about designing a piece from an artistic standpoint versus how collectors will see, understand, and interact with the features?
+
+[pool: Decagon | Decagon — Kjetil Golid | ]
 
 Kjetil Golid: I've changed my philosophy on traits a bit. The *Decagons* don't really have traits at all -- barely any internal or hidden traits I'm not showing. It's much more uniform, and that was the idea: it was meant as a kind of membership card for deca.art, so I didn't want rare or common ones. Everyone should have one that's just as good as everyone else's. But emergence happens anyway -- people find their own traits, symmetric patterns, colors they like. That happened organically. When it came to *Archetype*, it was a world where we didn't have any rules. We didn't know what traits were supposed to be, and we still probably don't. But I wanted to create some variance in the set. You might say that creating the cubes and the corners was a very drastic, artificial way of doing it, because it's more of a scene change—the traits are actually called scenes. But it's a very effective thing for the NFT market. If you want to make something rare, you need a trait that's very rare, but you also need that trait to be very visible so everyone knows the piece has it. If it's hidden—something like the direction of a shadow, which you don't really notice unless you study it—it would never become a successful rare trait. It needed to be visually discernible.
 
@@ -147,6 +155,8 @@ Trinity: You seem to sit in that middle ground between the traditional, slow-mov
 Kjetil Golid: I call myself a generative artist. I don't call myself a crypto artist or an NFT artist because I don't make use of the chain as much as many others do, so those labels wouldn't make sense for me—not because I want to hide that information, but "generative art" is simply more descriptive of what I do. Then I can mention in the next sentence that my work is available as NFTs. "Generative" has suddenly become associated with AI too, so now I probably have to say "generative artist, not AI" or something like that. As for the speed of everything, it's a stress factor—the market is constantly changing, technically and otherwise, and with the bears and bulls it's hard to keep track if you're not actively engaged. But it's also exciting to be part of and at the center of. It always presents possibilities you can choose to go after or ignore, and in that way it's much more entertaining than being in a more traditional art market.
 
 Will: Definitely entertaining. We've been chronicling it for two years now, and every week we're entertained. Let's move into rapid fire and wrap up the episode. Worth noting—this is the third anniversary of *Archetype*, three-dimensional monuments, so maybe this release is kind of a celebration of that. For rapid fire, we ask some quick questions to get to know you better. One we always ask: who would you like to hear us interview on the show?
+
+[pool: Archetype | Archetype — Kjetil Golid | ]
 
 Kjetil Golid: In the generative art scene?
 
