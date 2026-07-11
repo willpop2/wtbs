@@ -19,10 +19,12 @@ FINAL = ROOT / "transcripts" / "final"
 POOLS = ROOT / "pools"
 MARKER = re.compile(r"^\s*\[(img|pool):.*\]\s*$")
 norm = lambda s: re.sub(r"[^a-z0-9]", "", (s or "").lower())
-CAP = 8   # max slots per episode
+PER_WORK = 2    # max images per work (from its different mentions)
+MIN_GAP = 3     # min transcript turns between consecutive images
+CAP = 16        # safety cap per episode
 
 
-def place(slug):
+def place(slug, per_work=PER_WORK, min_gap=MIN_GAP):
     data = json.loads((POOLS / f"{slug}.json").read_text(encoding="utf-8"))
     artists = data.get("artists", {})
     works = [w for w, items in data["works"].items() if items]   # only works that have pieces
@@ -31,29 +33,36 @@ def place(slug):
     T = len(blocks)
     nb = [norm(b) for b in blocks]
 
-    # anchor each work at its first mention (else spread to the middle)
-    anchored = []
+    # candidate placements: put an image just AFTER a block that mentions the work,
+    # up to per_work spread-out mentions per work (so popular works get more images).
+    cands = []
     for w in works:
-        refs = [i for i, b in enumerate(nb) if norm(w) and norm(w) in b]
-        anchored.append((refs[0] if refs else T // 2, w))
-    anchored.sort(key=lambda x: x[0])
-    anchored = anchored[:CAP]
+        refs = [i for i, b in enumerate(nb) if norm(w) and norm(w) in b] or [T // 2]
+        if len(refs) <= per_work:
+            picks = refs
+        else:
+            picks = [refs[round(k * (len(refs) - 1) / (per_work - 1))] for k in range(per_work)]
+        cands += [(r, w) for r in picks]
 
-    # even slots across the transcript, assigned in reference order
-    n = len(anchored)
-    slots = [min(T - 1, max(2, round((k + 1) * T / (n + 1)))) for k in range(n)]
-    sched = {}
-    for (_, w), pos in zip(anchored, slots):
+    # greedy left-to-right, keeping a minimum gap so images don't clump
+    cands.sort()
+    sched, last = {}, -10 ** 9
+    for turn, w in cands:
+        pos = min(T, turn + 1)               # right after the mention block
+        if pos - last < min_gap or len(sched) >= CAP:
+            continue
         art = artists.get(w, "")
         cap = f"{w} — {art}" if art else w
         sched.setdefault(pos, []).append(f"[pool: {w} | {cap} | ]")
+        last = pos
 
     out = []
     for i, b in enumerate(blocks):
-        out.extend(sched.get(i, []))
+        out.extend(sched.get(i, []))         # insert-before-block-i == after mention block i-1
         out.append(b)
+    out.extend(sched.get(len(blocks), []))
     (FINAL / f"{slug}.txt").write_text("\n\n".join(out), encoding="utf-8")
-    return n
+    return sum(len(v) for v in sched.values())
 
 
 def main():
