@@ -39,6 +39,7 @@ CONFIG = {
         "A Bugged Forest":        {"source": "objkt", "creator": "zancan", "query": "A Bugged Forest", "artist": "Zancan"},
         "Garden Monoliths":       {"source": "objkt", "creator": "zancan", "query": "Garden, Monoliths", "artist": "Zancan"},
         "Kindergarten Monuments": {"source": "objkt", "creator": "zancan", "query": "(kinder)Garden, Monuments", "artist": "Zancan"},
+        "Landscape with Carbon Capture": {"source": "alchemy", "contract": "0x850d754a640f640b8d9844518f584ee131a57c9d", "artist": "Zancan"},
     },
 }
 CAP = 300  # max pieces per work to snapshot
@@ -132,8 +133,11 @@ def snapshot_work(base: str, contract: str, project=None) -> list:
                 done = True
                 break
             img = (n.get("image") or {}).get("cachedUrl") or (n.get("image") or {}).get("originalUrl")
-            if img:
-                toks.append((str(tid), str(tid - lo) if lo is not None else str(tid), img))
+            if not img:
+                continue
+            mm = re.search(r"#(\d+)", n.get("name") or "")        # edition from the name
+            edition = mm.group(1) if mm else (str(tid - lo) if lo is not None else str(tid))
+            toks.append((str(tid), edition, img))
         page = d.get("pageKey")
         if done or not page:
             break

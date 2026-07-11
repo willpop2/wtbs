@@ -72,7 +72,7 @@ Will: Let's talk about the immediate aftermath, then. *Garden, Monoliths* comes 
 
 Zancan: There was no expectation. I was doing it for fun. It wasn't hard for me, since I was already using these algorithms for my standalone art on Hic Et Nunc and OBJKT. The only pressure I put on myself was that I was pretty sure releasing a long-form piece, with the code public for the first time, would kill the algorithm -- that I wouldn't be able to use it again after that. Beyond that, no expectations. The price, 18 tez, was about... $70 or something?
 
-[pool: LandscapeWithCarbon | Landscape with Carbon — Zancan | ]
+[pool: Landscape with Carbon Capture | Landscape with Carbon Capture — Zancan | ]
 
 Trinity: $70 or $100, somewhere around there.
 
@@ -98,7 +98,7 @@ Eventually I did manage to create one -- it's called Zancan Garden -- and I foun
 
 I also have my artist status, and I'm supposed to declare things there, but I've had two accountants dump me. Every time you spend ages finding someone, teaching them your situation -- even if they know crypto, they still need numbers. And where do you get numbers from the blockchain? Easier said than done. I've written countless pieces of software trying to turn blockchain data into something usable by an accountant. Months and months of work just to characterize my sales in a way that could be declared and taxed under French law. And still, I didn't know how much I had or how much tax I'd owe. Pure chaos -- time-consuming, exhausting, and I never had clarity on what was going to happen to me. I could end up rich or with nothing, and I never knew for certain how much of that crypto money was actually mine. It's still the case.
 
-[pool: LandscapeWithCarbon | Landscape with Carbon — Zancan | ]
+[pool: Landscape with Carbon Capture | Landscape with Carbon Capture — Zancan | ]
 
 There's a lot I haven't declared, and I'll have to rely on my right, under French law, to correct previous years' declarations -- you're allowed to make errors and fix them later. For instance, I haven't declared any cryptocurrency for 2022 at all. I still have to do that. But spending so much time on this administrative stuff was boring and scary in equal measure.
 
