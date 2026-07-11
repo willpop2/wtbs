@@ -38,6 +38,8 @@ Nudoru: No, he's a really cool dude. If you watch some of his talks, he's very d
 
 Will: Since you were around a lot of these scenes throughout the '90s and 2000s — did the name Nudoru originate then? Is it a name you've published work under that people might still recognize you from? We've talked to a few people on the show who came out of the demo scene — Liam, obviously, and Piter Pasma — and I'm sure there are others we don't even know about.
 
+[pool: Crayon Attractors | Crayon Attractors — Nudoru | ]
+
 Trinity: I didn't even know the US had a demo scene — I thought it was purely European.
 
 Will: Europe only?
@@ -77,6 +79,8 @@ Trinity: We would never do that today. But it was a different time.
 Nudoru: It was so new, and I was trying to figure it out, and everybody was figuring it out. I would not do anything like that today.
 
 Trinity: Setting aside *Cold Mountain*, which we can talk about in more detail later — are there any stories from that December batch that stick out to you? Inspiration, what you were learning, that sort of thing?
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | ]
 
 Nudoru: They were all inspired by very different things. *Raked Strokes* is clearly Fidenza-inspired — there's so much work out there using particles and flow fields traced with different pathing mechanisms. That was actually the first one I minted, but I'd created it during the summer, so it was minted a couple months after I finished it. It set the theme for a lot of my other work — that natural-media, brushwork feel. I was looking at *Fidenza*, trying to recreate it: doing a flow field with non-intersecting paths is one thing, but zooming in to see how the individual marks were made, and trying to reverse-engineer a path that would segment and look like a brush stroke, was fascinating. I spent weeks on that.
 
@@ -118,6 +122,8 @@ Nudoru: This is a hobby for me, so I largely follow my curiosity when I do proje
 
 To me, it was an entirely different project — same code for generating the tree shapes, but entirely different code for the rendering and the feeling, and a completely different emotional aim than *Orchard*. But you're right that it landed flat. There was an initial rush of mints, then it stalled, and I spent quite a while trying to promote it.
 
+[pool: Orchard | Orchard — Nudoru | ]
+
 On Twitter — I try not to shill too much in price discussion or on the Discord, I keep most of that to Twitter — I had some very good conversations with a couple of collectors. One collector was entirely pissed off, felt it devalued the *Orchards* he'd paid a lot for, and went completely off the rails about it. It spilled over from DMs into public Twitter. But I also had productive conversations with other collectors about how, while I didn't intend for it to be so similar — in my mind it wasn't — to an outside collector it did appear similar. That was a good learning opportunity. *Turbulence* and *Caustics* are pretty similar too, but I approached launching those differently. I ended up burning a couple hundred editions of *Grove*, minting 100-plus of them myself, and airdropping them back to people who had already minted *Growth*.
 
 I hadn't paid much attention to that dynamic because I come at this as an artist, not as a collector — and not even as a collector who appreciates the art, but as someone looking at it purely as an investment to flip for 3x profit. I hadn't considered that angle when releasing work, so it was a good learning opportunity — a somewhat public one. Going forward, there are always drafts or alternate versions of a project that are very cool and worth developing further, but I've learned not to do them directly afterward. I've held some projects back, or scrapped them entirely, because they were too similar to something I'd just dropped.
@@ -157,6 +163,8 @@ Nudoru: I've definitely slowed down. *Deep Forest* was the point where I conscio
 *Ornamental Tree* came right after, reusing some code from *Deep Forest* — I think that one was reserved only for people who owned my other tree work. Then *Symbology 437* started from a Blind Gallery piece I did, *Semicollision*, on the second Blind Gallery — I made sure it was okay to do a long-form piece after that short-form piece came out. I did the variations, then kept writing the code to introduce new patterns and styles, even reaching for some PFP-type stuff, just to experiment and see how far I could push the style without repeating what we just talked about with *Grove* — coming up with something that could be seen as derivative. I think that one failed because it was too varied and not cohesive. So I've tried to be more thoughtful and take more time with each project, extracting as much as possible before putting it away and moving to the next. That's slowed me down quite a bit, but I think it's increased the quality of what I'm putting out and made it more unique within my collection.
 
 Trinity: Is there anything you've released that you're especially proud of — beyond all of them, obviously? Especially since that December-January run you slowed down and started taking more time. If you had to pick one piece for the cover of your portfolio — this is me, this is everything I've believed in — which project would it be, and what should we go back and look at?
+
+[pool: Grove | Grove — Nudoru | ]
 
 Nudoru: For me, it would be *Deep Forest*, just because I spend so much time in the forest and the woods around here. As a kid we used to ride dirt bikes on trails in the woods, play hide and seek, army, whatever we did in the '80s. As an adult I got into mountain biking and trail running, and trees and forests and nature have been so influential to who I am as a person and to what I'm trying to represent as an artist with code. On trail runs I'd take pictures of trees, lay down on the ground, stand up, try to capture from all different angles what I wanted to represent, then come back and try to code that. I remember the local trail near my house — seeing the yellow flowers in summer with the sky in the background. Some of that comes through in the variations. Overall, that's the one I'm most proud of, because it's the capstone to everything I was doing before with the trees and the brushstrokes. Everything after that has been a little more abstract, less brushstroke-y, up until the holiday piece.
 
@@ -198,6 +206,8 @@ Nudoru: More than happy to help. All the work of my own that I know I have multi
 
 Trinity: There's still later. We're always early. There's always later.
 
+[pool: Turbulence | Turbulence — Nudoru | ]
+
 Nudoru: Absolutely. Those are on hold for later donations and giveaways.
 
 Trinity: Looking at what you collect and what you've made, and your artistic identity — you've said you're pretty clear about telegraphing what you're about to release via works in progress on Twitter and Discord. Is there anything specific in the queue you're working on?
@@ -237,6 +247,8 @@ Will: You mentioned earlier that some of your earliest coding was in making game
 Nudoru: No, I did not play Magic. My son briefly got interested in it for about two weeks because some of his classmates were into it, and my wife tried to get into it with him — he built a small deck, went to a local comic shop, and watched people play. But as a kid, I played RPGs like *Final Fantasy* and *Dragon Warrior* on the Nintendo. Once I got into the art scene in the '90s, I focused on that and stopped playing games for a while. I did play some computer games — I was big into *Doom* when it first came out. All my coworkers would lug our massive computer towers, fifty pounds each, plus monitors, to each other's houses fifteen miles away, set them up with a token ring network, and play co-op *Doom* for hours. But once I got to college, I really didn't do that at all because I was busy with art school. Earlier in the pandemic, when *Genshin Impact* came out, my daughter, who was really into anime, got into it, so I've spent an inordinate amount of time playing that game — more than any other lately.
 
 Mostly, though, I was more interested in recreating game mechanics than actually playing games — writing the code behind the interactions. *Goonies II* on the original Nintendo was the game I was playing at the time; it had a side-scroller mode and another mode with a top-down view where you navigated a maze of rooms and interacted with the walls. A lot of the games I tried to program were built around that maze-navigation idea. They were really crappy, but that's what I was going for.
+
+[pool: Caustics | Caustics — Nudoru | ]
 
 Trinity: It seems like this idea of reverse-engineering things is something you've stuck with — here's an idea, how do I do it?
 
@@ -278,6 +290,8 @@ Nudoru: I came prepared for this one. When I'm working, I usually listen to some
 
 But acid jazz — I really got into that in college, the mix of electronic and jazz has an awesome flow. I also have a playlist I call Bossatronica: a lot of Latin jazz, Afro-Cuban jazz, bossa nova, going all the way back to "Garota de Ipanema." Bebel Gilberto, Cibelle, Zuco 103, and a lot of other names I'll completely butcher. I was also really into trip-hop, and I think that continues through — Massive Attack, still the best concert I've ever been to, Nightmares on Wax, Thievery Corporation, Hooverphonic, Daft Punk, Metric. Just a whole eclectic mix.
 
+[pool: Crisis Worlds | Crisis Worlds — Nudoru | ]
+
 Trinity: Going back to drum and bass — have you ever listened to Pendulum?
 
 Nudoru: I don't think so.
@@ -317,6 +331,8 @@ Trinity: It was working until I tried to fix it. If anybody knows how to fix a '
 Will: You're in the greater New York area.
 
 Trinity: Or literally anywhere. I'm desperate.
+
+[pool: Deep Forest | Deep Forest — Nudoru | ]
 
 I think I have one last question: if we were to interview anybody in the fx(hash) community — artist, collector, or otherwise — who should we bring on the show? Call them out, ice bucket challenge style. Let's go.
 

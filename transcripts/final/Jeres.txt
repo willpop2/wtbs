@@ -42,6 +42,8 @@ Jeres: I do, yeah.
 
 Trinity: That we should not look at right now. Okay.
 
+[pool: Sinuosity | Sinuosity — Jeres | ]
+
 Jeres: You shouldn't. I'm pretty self-deprecating, so I'm probably not being fair to myself — that's what people tell me — but I don't mind if it's a little sloppy, and thank God for Webpack to obfuscate that for me.
 
 Trinity: Moving to your project work — you said you came to fx(hash) in early beta. How far into your p5 and coding journey were you when you started releasing? How long had you been working on it?
@@ -88,6 +90,8 @@ Jeres: Yeah, I don't think so either.
 
 Will: To wrap up on the TENDER piece — we've had the luxury of seeing some of it behind the scenes, and one thing that stuck out is that, as far as we know, this is your first real animated work. Obviously some of your pieces animate as they draw, but this is one of those continuous, always-in-motion pieces, which we love but which can also be a bit tougher on the market.
 
+[pool: Nightfall Moon | Nightfall Moon — Jeres | ]
+
 Jeres: I was a little hesitant to go for an animated piece for that reason, but the goal is that any frame of this could stand alone as a static piece — that's probably how most people will experience them anyway, since the previews are static, and then you can dive in and let them animate. I don't think it needs to be seen only as an animated piece; it's two sides of the same coin. Even now I'm debating whether the default view should be animated or whether that should just be an option. But it will be my first released animated piece.
 
 The only other one that comes close is *Ceremony*, which I did at SCC 0x0x0, but that doesn't start in forever mode — you have to trigger it. I think both the static image and the animated version stand on their own there too. This one goes full screen, which is really cool, and performs well, at least on my machine. So it should have a different feel.
@@ -131,6 +135,8 @@ Will: It's interesting hearing the story behind *Hereafter*, because a lot of wh
 Jeres: Some of that comes from process. A big question I ask myself while creating is: does this make me feel anything? If it doesn't, I abandon the project. So I'm glad that range of emotion comes through, because I am trying to give them that. If I don't feel anything from a piece, I definitely shouldn't assume anybody else will. With art that I collect, or that speaks to me, it's always an emotional response — even if there's an aesthetic appreciation too, I want it to have some impact. I don't have a complex strategy beyond that. I just keep playing with the algorithm until I get some kind of reaction, and then lean into it.
 
 Trinity: Is there a connection between *Hereafter* and *Outland* thematically? There's an obvious visual connection — colors, textures, overall mood — but is there anything beyond that worth knowing?
+
+[pool: Here, After | Here, After — Jeres | ]
 
 Jeres: Not too much. I saw *Outland* as a kind of prequel to *Hereafter* — barren landscapes that felt cold but also colorful and exciting, full of possibility. It was more of an aesthetic study, reducing a lot of the chaos of *Hereafter* in some ways — it's actually an adaptation of the same algorithm. I think a lot of generative artists do this: each algorithm feeds into the next. Some people start from scratch, but for me, I'll be working, get an idea, hit a fork in the road, and think, I like both these directions — I'll branch here and come back to it later, and follow the other until it feels fleshed out. So they're related in terms of code, which is probably apparent, but they have different personalities and contexts. *Outland* is a loose prequel to *Hereafter* in the sense that it's pre-humanity — empty, barren wastelands that haven't yet evolved into whatever we created as people.
 
@@ -178,6 +184,8 @@ Jeres: I put it all out there, in a lot of ways, and asked myself several times 
 
 Now I don't have regrets, but I do wonder — did I go too far, did I say too much? It seems not, because people were really happy to read it, and that makes me feel good, because I want a connection to the people collecting and viewing the art. I want them to know what it means to me. It's definitely the biggest push in that direction — I'd hinted at things in *Coronado*, but nothing that emotional. *Glossolalia* was really "here, this is who I am." I haven't seen too many people talk that deeply about their lives, and it was moving, because a lot of people DM'd me afterward about similar experiences.
 
+[pool: Vapor Trails | Vapor Trails — Jeres | ]
+
 That made me feel more connected to the community than I have before, because I'm not hyper-communicative on Discords — I'm on Twitter, but not tweeting all the time — and that can feel isolating. Being able to put this out, express what it means to me and how I got there, and have people respond personally and vulnerably in return, made me feel good. It had some kind of impact beyond "this looks cool," which is what I was going for. The piece is about repression, about hiding yourself, and I think I suffer from always feeling like I can't reveal too much about myself — imposter syndrome, insecurity about identity. So it was therapeutic to be that open, and having a response to it was even better. But even if no one had responded or related to it, I think just having expressed it would have accomplished what I wanted.
 
 Trinity: Did the work on the piece change as you leaned into the idea that this would be part of the story you wanted to share? Did it affect the code or the algorithmic work itself?
@@ -222,6 +230,8 @@ Jeres: Yeah, and that was somewhat strategic. I was mainly trying to give space 
 
 Will: *Glossolalia*, the bot slayer. For someone like you, where this is now your full-time job, I think it's an unfortunate part of the game that you have to weigh those opportunities. You also had this self-imposed embargo between Verse and the *Here and Now* Tender collab—would you have even had a window to wait gracefully? It could've been months.
 
+[pool: Attachment | Attachment — Jeres | ]
+
 Jeres: Right—I am trying to be more thoughtful with release timing. There's a lot of pressure to space things out; some collectors don't want you releasing too much because it floods the market, and I get that. It's good and bad, because I'm a little ADHD—I want to work on ten projects at once, and often I am, and then I just want to release them all without letting them hang. But that can really confuse the market. So I have to take that into account, not because it's manipulation, but because I want to keep doing this long-term. I really enjoy it—I find the whole process therapeutic. If I could just continually code up projects, pass them off, and have them released without ever thinking about pricing or timing, that'd be great. But you do have to think about the market, unfortunately. I'm happy with how I timed *Glossolalia*, though I do feel bad for anyone who minted over 100 and now sees it around 50. But I think that's the case for a lot of floors right now, and I think it'll come back. I'm really proud of the project—I felt it was a great follow-up to *Coronado*. It's a different project, and people may have opinions on whether it's the same quality, but I'm proud of it, and I hope it stands. I hope the people who buy it are buying because they like it.
 
 Trinity: We call that "it's on sale."
@@ -265,6 +275,8 @@ Jeres: It's very fun. I think you were talking about this in the last episode �
 Trinity: I'll ask it every time: who do you think we should interview next? Could be anybody, preferably within the generative art space.
 
 Jeres: I have a few people on a list here — honestly, Alejandro is number one. Other people would be Bruce or Isma. I don't think you've talked to them.
+
+[pool: Coronado | Coronado — Jeres | ]
 
 Trinity: Not yet.
 
@@ -311,6 +323,8 @@ Will: I think that more or less wraps it up. We've covered what's coming up next
 Jeres: I'm working on a number of things, not sure exactly where they'll end up, but part of me really wants to work on something on ETH that's a pure Solidity contract delivering SVG directly, with no IPFS in the mix at all — using actual Solidity to create the SVG rather than just delivering JavaScript that runs somewhere else. Some experiments there.
 
 Will: Have you looked at that new token standard?
+
+[pool: Glossolalia | Glossolalia — Jeres | ]
 
 Jeres: Briefly.
 

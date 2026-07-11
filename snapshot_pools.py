@@ -41,6 +41,25 @@ CONFIG = {
         "Kindergarten Monuments": {"source": "objkt", "creator": "zancan", "query": "(kinder)Garden, Monuments", "artist": "Zancan"},
         "Landscape with Carbon Capture": {"source": "alchemy", "contract": "0x850d754a640f640b8d9844518f584ee131a57c9d", "artist": "Zancan"},
     },
+    "Nudoru": {
+        "Cold Mountain":     {"source": "objkt", "creator": "nudoru", "query": "Cold Mountain", "artist": "Nudoru"},
+        "Orchard":           {"source": "objkt", "creator": "nudoru", "query": "Orchard", "artist": "Nudoru"},
+        "Deep Forest":       {"source": "objkt", "creator": "nudoru", "query": "Deep Forest", "artist": "Nudoru"},
+        "Grove":             {"source": "objkt", "creator": "nudoru", "query": "Grove", "artist": "Nudoru"},
+        "Crayon Attractors": {"source": "objkt", "creator": "nudoru", "query": "Crayon Attractors", "artist": "Nudoru"},
+        "Turbulence":        {"source": "objkt", "creator": "nudoru", "query": "Turbulence", "artist": "Nudoru"},
+        "Caustics":          {"source": "objkt", "creator": "nudoru", "query": "Caustics", "artist": "Nudoru"},
+        "Crisis Worlds":     {"source": "objkt", "creator": "nudoru", "query": "Crisis Worlds", "artist": "Nudoru"},
+    },
+    "Jeres": {
+        "Coronado":       {"source": "objkt", "creator": "jeres", "query": "Coronado", "artist": "Jeres"},
+        "Glossolalia":    {"source": "objkt", "creator": "jeres", "query": "Glossolalia", "artist": "Jeres"},
+        "Vapor Trails":   {"source": "objkt", "creator": "jeres", "query": "vapour trails", "artist": "Jeres"},
+        "Sinuosity":      {"source": "objkt", "creator": "jeres", "query": "sinuosity", "artist": "Jeres"},
+        "Nightfall Moon": {"source": "objkt", "creator": "jeres", "query": "night fall moon", "artist": "Jeres"},
+        "Attachment":     {"source": "objkt", "creator": "jeres", "query": "Attachment", "artist": "Jeres"},
+        "Here, After":    {"source": "objkt", "creator": "jeres", "query": "Here, After", "artist": "Jeres"},
+    },
 }
 CAP = 300  # max pieces per work to snapshot
 
