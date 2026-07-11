@@ -6,6 +6,8 @@ Rick Crane: Yeah, good.
 
 Trinity: Honestly, just so glad to have you two here. It's been a while since we've had a dual episode, and I think you've both been collaborating together since *Miniscapes* came out in beta, right?
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | ]
+
 Rich Poole: Yeah, way, way back. You guys have talked about us and we've been listening. So now we're on the other side, which is quite fun.
 
 Trinity: In terms of timeframe, that's such a long time on this platform, and I can't wait to hear everything you've been up to. You both have such a long history in the web3 world as well. I'm not calling you old at all, but you have stories to tell.
@@ -251,6 +253,8 @@ Rich Poole: Yeah, clouds drifting along. And each time, the question was: is thi
 Trinity: Thinking about the infinite space that can exist, especially with something more geometric and isometric — can you share anything about how many pieces this will be, why that number, and how many you think the space can support? It's always an interesting part of any project — it speaks to the breadth.
 
 Rick Crane: That's another challenge for artists. I'm in a lot of chats with different artists — we all support one another, learn from one another, help each other out — and it's a common refrain: I don't know how to price this, I don't know how many there should be. What we do is send out loads of outputs, look through them, and see where we need to create limitations on the number of editions. We're going similar to *Acequia* and *Miniscapes*. Obviously the market, and how well things are received, has an impact on how you plan it.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | ]
 
 Interestingly, this project has moved faster in some respects. We spent so long choosing, naming, rejecting, and refining palettes for *Acequia* — we learned from that, so this time it was more fluid and things worked. The challenge with isometric is you've got three sides that repeat, so very quickly colors can clash, or you shift one color in one direction and it starts to look like a different palette entirely.
 

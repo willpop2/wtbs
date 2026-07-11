@@ -52,6 +52,8 @@ Ciphrd: I think many well-designed systems are beautiful pieces of art in themse
 
 Trinity: That really shows up in something like *RGB*, for example — a very elegant system that produces so much.
 
+[pool: RGB | RGB — Ciphrd | ]
+
 Will: That's something we've discussed a lot on recent episodes: from a public and collector standpoint, there's such a variety of backgrounds on fx(hash). People like me who know nothing about anything, coders who come here because they love the technology and the algorithms, art collectors who don't always appreciate the code side. There's so much learning, collaboration, and effort toward education happening — which I think is what makes the fx(hash) platform and community so special.
 
 Ciphrd: I agree. There's so much — I don't know if "evolution" is the right word, maybe "effervescence," if that's even English. New ideas pop up every day, new ways to exploit the platform and use it in novel fashions. It's really interesting to watch, and it's where I want to put some focus going forward. You mentioned that a lot of people don't know exactly what's happening behind the code — they see an image, and it's just an image, with no way to articulate an appreciation of the code itself. I think we need to improve the learning experience and put real focus on it, so everyone can educate themselves through fx(hash), because we have a major resource to draw on for education, and we should use it.
@@ -95,6 +97,8 @@ Trinity: And using randomness lets you discard all of that gaming, with the hope
 Ciphrd: I think it's the right word, and I think chaos is appropriate in many circumstances, including this one. I don't especially like that all this data gets collected. What I like about web3 is that your public wallet is your identity. There are a lot of "Web 2.5" solutions where you connect your wallet, but in the background they're still collecting data on how you use their services. We need to diverge from that way of designing systems, and instead provide tools for communities to organize themselves, rather than a centralized system imposing rules on how people should connect.
 
 Will: Personally, I'm excited to build my own curated lists, or collaborate with Trinity on an official WTBS curated layer. My one concern is that despite the intention to represent a real diversity of voices and project types, there will be an economic incentive toward homogeneity — people listing RGB and Zancan because there's a share of revenue to capture. The fee collected on sales made through lists — is that part of the contract?
+
+[pool: RGB | RGB — Ciphrd | ]
 
 Ciphrd: That only applies to the primary market, not the secondary, for exactly this reason.
 
@@ -149,6 +153,8 @@ Ciphrd: That's an interesting take, and there's a lot to say about it. First of 
 I realized afterward there was some misunderstanding — I wasn't trying to make prices go higher across the board, but when I saw really good quality pieces priced really low, and knew some artists did that because they were afraid to charge more given how the Tezos ecosystem was, I was trying to push back on that a little. There's a lot to say here, but the biggest issue is that it's genuinely hard to value your work. It takes time and practice.
 
 Trinity: Side note: congratulations on *Ethereal Microcosm* selling out at 100 Tez.
+
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | ]
 
 Ciphrd: I couldn't believe my eyes. It was mind-blowing to see that happen.
 

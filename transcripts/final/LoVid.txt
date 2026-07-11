@@ -90,6 +90,8 @@ Kyle Lapidus: For the Tonic project specifically, there are two main elements, s
 
 Will: Which is a really cool aspect we'll get to in a second. But I want to ask more about the coding side. You've had a few projects — *Tide Predictor*, *Augury*, and the upcoming *Heartsleeves*, which will be with Tonic — that incorporate aspects of the analog devices you used in your past work, like the synthesizers you built, which Ken got you talking about in a previous interview. What have the challenges been in capturing those analog aesthetics? You mentioned things like heat — being in a live space physically affects the machines and what the outputs look like. Does something get lost in translation when you move into an entirely digital work? Were there happy surprises, where a coding partner found a way to simulate that live environment — almost like a "heat variable" — that really captured it well? You clearly enjoy working in code, so you must be scratching a similar itch to the one you get with analog gear. Riff on that.
 
+[pool: Augury | Augury — LoVid | ]
+
 Kyle Lapidus: I love that idea. For analog work, that stuff is super important to us — there's something about the space in which the art happens that really matters. With the physical tools and instruments we've built, it's about those tools being in a space with us, often with an audience, where a live interaction happens that involves a lot of physical variables affecting the equipment based on the inherent nature of the medium. In Web3, the audience is more distributed, but there's still a very clear, unique interaction, which has been exciting for us. That's one way we work with the medium to gain some of those same features — and it's satisfying in a similar way.
 
 Tali Hinkis: I think the translation happens a lot on the conceptual level. There's a visual relationship — we work off old recordings or old images, but it's not about imitating an analog texture for its own sake, because analog is just very dirty-looking. There are always things inside things — it's full of signals and noise.
@@ -279,6 +281,8 @@ Tali Hinkis: February 8th is the event in New York, February 9th is the launch. 
 Will: Very cool. Anything else we can look forward to from you this year -- not a full announcement, but maybe a hint?
 
 Tali Hinkis: There's a couple things we can sort of announce. One is that the Museum of the Moving Image in New York is going to have an installation of *Tide Predictor*. They have this media wall, and we're designing a really cool way to exhibit four tokens at once in collaboration with the collectors -- something we always try to bring into our exhibitions. That'll run February through April, with a couple of special announcements around it coming up soon, which should be really fun. We're very committed to placing NFTs in traditional institutions and always thinking of them as exhibition material. Ora Harvey also has a solo show around the same time at the museum. That's the only thing I feel comfortable sharing right now, but there's lots more to come.
+
+[pool: Tide Predictor | Tide Predictor — LoVid | ]
 
 Kyle Lapidus: Yeah.
 

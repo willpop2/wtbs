@@ -18,6 +18,8 @@ Architecture is a practice with a nice balance between creativity and logic or o
 
 With coding specifically, I started by coding websites — HTML, PHP, a bit of JavaScript. It's always been connected to websites, which is important for explaining *Fantasia*, because I've realized over the last few months that what we're doing is actually web development rather than art in the visual-arts sense. That's what I'm trying to push with the project, and it comes directly from where I started in my coding journey.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | ]
+
 Will: Did you study coding as part of your formal education, or pick it up on your own afterward? And where does crypto come into the picture — were you early on Bitcoin or ETH? How did you find NFTs? They're controversial; most people don't like crypto or NFTs. What pushed you to get curious about the space?
 
 Alejandro Campos: I never studied coding — it's autodidacta, self-taught. I wanted to make websites, so I had to learn. I used to have one of those MSN Spaces, the Microsoft thing, where I posted tutorials on how to customize your own banner and theme — what I thought was coding at the time. It was always connected to communities and to helping people, which later connects to the brush library and things like that.
@@ -263,6 +265,8 @@ Alejandro Campos: Probably more open source things. With p5.brush, for instance,
 Trinity: Definitely something to look forward to — maybe not for us specifically—
 
 Will: But for the other artists listening. And everyone, look forward to *Fantasia* on Verse — high supply, affordable price point, hopefully collector curated. Thanks, Alejandro, it was awesome to have you on. Great to finally talk face to face after all the DMs — even if it's still digital. So long, Trinity. So long, Alejandro. Thanks for coming on the show.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | ]
 
 Alejandro Campos: Thank you for inviting me.
 

@@ -30,6 +30,8 @@ I took up photography, then digital art experiments — 3D stuff, ray tracing, a
 
 Then the lockdown came, COVID came, and trying to sell consultancy services to other companies didn't make much sense when everything was frozen. So I started dedicating more time to coding at night, and that's when I built my first large generative system, which became *Entretiempos*, my release on Art Blocks. I didn't set out to become a full-time artist — I liked doing this, but I didn't really let myself think "I might be an artist." By the end of 2020 I learned about NFTs. I'd been in touch with blockchain for a long time, but I didn't realize this was, again, this new way of distributing content. I got interested, read for months while totally lost trying to understand the terminology and jargon, and eventually decided to try my luck and share my work too.
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | ]
+
 My first NFT was released on OpenSea in January 2021. I still didn't know about Tezos, but a few days after Hic Et Nunc launched, I discovered it and just stayed — the art was amazing, the community was amazing, the feeling was phenomenal. That's where I've spent most of my time since.
 
 Will: We love having both of you here dropping on fx(hash) — it's always a big moment whenever either of you releases, which is a nice segue into the collaboration, which was extremely exciting for everyone. Can you share how you came together? Were you aware of each other's interests and background in music, and is that what caused you to pair up, or was that a happy discovery once you started collaborating? How did you begin to conceptualize *Toccata*?
