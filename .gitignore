@@ -23,3 +23,6 @@ transcripts/raw/*.json
 transcripts/raw_numbered/
 transcripts/clean/
 transcripts/clean_numbered/
+
+# Discovery helper scratch reports (regenerable)
+discovery/
