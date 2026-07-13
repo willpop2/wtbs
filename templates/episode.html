@@ -106,15 +106,28 @@
       }
       var fc = fig.querySelector('figcaption'), alt = fig.getAttribute('data-alt') || '';
       picks.forEach(function (pick) {
+        var cell = document.createElement('div'); cell.className = 'ep-cell';
         var img = new Image();
         img.loading = 'lazy'; img.referrerPolicy = 'no-referrer'; img.alt = alt;
         img.src = pool.items ? pick.img : base + pick;
-        var node = img;
-        if (pool.items && pick.s) {   // link each piece to its token page
-          node = document.createElement('a');
-          node.href = pick.s; node.target = '_blank'; node.rel = 'noopener'; node.appendChild(img);
+        if (pool.items && pick.s) {   // still links to the token page
+          var a = document.createElement('a');
+          a.href = pick.s; a.target = '_blank'; a.rel = 'noopener'; a.appendChild(img); cell.appendChild(a);
+        } else { cell.appendChild(img); }
+        var live = pool.items ? pick.a : '';
+        if (live) {                   // generative: toggle a sandboxed live render over the still
+          var btn = document.createElement('button'), frame = null;
+          btn.type = 'button'; btn.className = 'ep-play'; btn.textContent = '▶'; btn.title = 'Play live';
+          btn.addEventListener('click', function () {
+            if (frame) { frame.remove(); frame = null; btn.textContent = '▶'; return; }
+            frame = document.createElement('iframe');
+            frame.src = live; frame.loading = 'lazy'; frame.className = 'ep-frame';
+            frame.setAttribute('sandbox', 'allow-scripts allow-same-origin');
+            cell.appendChild(frame); btn.textContent = '■';
+          });
+          cell.appendChild(btn);
         }
-        if (fc) fig.insertBefore(node, fc); else fig.appendChild(node);
+        if (fc) fig.insertBefore(cell, fc); else fig.appendChild(cell);
       });
       if (pool.items) {               // remote: build caption (per-piece if single, else collection)
         var cap;

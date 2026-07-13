@@ -131,6 +131,11 @@ def owner_of_token(base: str, contract: str, tid: str) -> str:
         return ""
 
 
+def _ipfs(uri: str, gw: str = "https://ipfs.io/ipfs/") -> str:
+    """ipfs://<cid...> -> a browser-loadable gateway URL (for live/interactive art)."""
+    return gw + uri[len("ipfs://"):] if uri and uri.startswith("ipfs://") else (uri or "")
+
+
 def snapshot_work(base: str, contract: str, project=None, name_like=None) -> list:
     """Pull a collection's pieces + owners. `project` scopes an Art Blocks-style
     shared contract to one project (token id = project*1e6 + edition). `name_like`
@@ -138,7 +143,7 @@ def snapshot_work(base: str, contract: str, project=None, name_like=None) -> lis
     contract (e.g. a raster ETH work on a Manifold-style contract)."""
     lo = project * 1_000_000 if project is not None else None
     hi = (project + 1) * 1_000_000 if project is not None else None
-    toks, page, scanned = [], None, 0          # [(tokenId, edition-or-id, img)]
+    toks, page, scanned = [], None, 0          # [(tokenId, edition-or-id, img, live-url)]
     start = str(lo) if lo is not None else None
     while len(toks) < CAP and scanned < 4000:
         u = f"{base}/getNFTsForContract?contractAddress={contract}&withMetadata=true&limit=100"
@@ -165,7 +170,9 @@ def snapshot_work(base: str, contract: str, project=None, name_like=None) -> lis
                 continue
             mm = re.search(r"#(\d+)", nm)                         # edition from the name
             edition = mm.group(1) if mm else (str(tid - lo) if lo is not None else str(tid))
-            toks.append((str(tid), edition, img))
+            md = n.get("raw", {}).get("metadata", {}) or {}       # live/animated view if any
+            live = md.get("generator_url") or _ipfs(md.get("animation_url", ""))
+            toks.append((str(tid), edition, img, live))
         page = d.get("pageKey")
         if done or not page:
             break
@@ -182,8 +189,8 @@ def snapshot_work(base: str, contract: str, project=None, name_like=None) -> lis
         o = owners_map(base, contract)
     disp = resolve_owners(o.values())
     return [{"t": disp_id, "img": img, "o": disp.get(o.get(tid, ""), ""),
-             "s": f"https://www.raster.art/token/ethereum/{contract}/{tid}"}
-            for tid, disp_id, img in toks]
+             "s": f"https://www.raster.art/token/ethereum/{contract}/{tid}", "a": live}
+            for tid, disp_id, img, live in toks]
 
 
 def objkt_gql(query: str) -> list:
@@ -197,7 +204,7 @@ def snapshot_objkt(creator: str, query: str) -> list:
     """Tezos/fx(hash) collection via objkt: image (objkt CDN) + holder (tzdomain/alias)."""
     esc = query.replace('"', '\\"')
     q = ('{ token(where: {creators: {holder: {alias: {_eq: "%s"}}}, name: {_ilike: "%s #%%"}}, '
-         'limit: %d, order_by: {token_id: asc}) { fa_contract token_id name '
+         'limit: %d, order_by: {token_id: asc}) { fa_contract token_id name artifact_uri '
          'holders(where: {quantity: {_gt: "0"}}, limit: 1) { holder_address holder { alias tzdomain } } } }'
          % (creator, esc, CAP))
     items = []
@@ -210,7 +217,7 @@ def snapshot_objkt(creator: str, query: str) -> list:
         m = re.search(r"#(\d+)", name)
         items.append({"t": m.group(1) if m else tid,
                       "img": f"https://assets.objkt.media/file/assets-003/{c}/{tid}/thumb400",
-                      "o": owner, "s": f"https://objkt.com/tokens/{c}/{tid}"})
+                      "o": owner, "s": f"https://objkt.com/tokens/{c}/{tid}", "a": _ipfs(t.get("artifact_uri"))})
     return items
 
 
@@ -226,7 +233,7 @@ def snapshot_objkt_fa(contract: str, query: str) -> list:
     the whole contract only for dedicated (non-shared) contracts."""
     def q(name_clause):
         return ('{ token(where: {fa_contract: {_eq: "%s"}%s}, limit: %d, order_by: {token_id: asc}) '
-                '{ fa_contract token_id name holders(where: {quantity: {_gt: "0"}}, limit: 1) '
+                '{ fa_contract token_id name artifact_uri holders(where: {quantity: {_gt: "0"}}, limit: 1) '
                 '{ holder_address holder { alias tzdomain } } } }' % (contract, name_clause, CAP))
     esc = query.replace('"', '\\"')
     # name-scope only: a whole-contract fallback pulls garbage from any shared contract
@@ -242,7 +249,7 @@ def snapshot_objkt_fa(contract: str, query: str) -> list:
         m = re.search(r"#(\d+)", name)
         items.append({"t": m.group(1) if m else tid,
                       "img": f"https://assets.objkt.media/file/assets-003/{c}/{tid}/thumb400",
-                      "o": owner, "s": f"https://objkt.com/tokens/{c}/{tid}"})
+                      "o": owner, "s": f"https://objkt.com/tokens/{c}/{tid}", "a": _ipfs(t.get("artifact_uri"))})
     return items
 
 
@@ -257,19 +264,23 @@ def snapshot_fxhash(project: int) -> list:
     """fx(hash) generative token by project id (from objkt.com/collections/fxhash/projects/<id>).
     Resolves the gentk contract + every iteration's owner via the fxhash API; images come from
     the objkt CDN (same path as snapshot_objkt), so rendering/credits stay consistent."""
-    q = ('{ generativeToken(id:%d){ gentkContractAddress entireCollection{ iteration id '
-         'owner{ name id } } } }' % project)
+    q = ('{ generativeToken(id:%d){ gentkContractAddress generativeUri entireCollection{ iteration id '
+         'owner{ name id } generationHash } } }' % project)
     g = (_fx_gql(q) or {}).get("generativeToken") or {}
     c = g.get("gentkContractAddress")
+    gu = g.get("generativeUri") or ""                          # project generator (for live view)
+    cid = gu[len("ipfs://"):] if gu.startswith("ipfs://") else ""   # onchfs:// etc. -> no live view
     items = []
     for o in (g.get("entireCollection") or [])[:CAP]:
         tid = str(o["id"]).split("-")[-1]
         ow = o.get("owner") or {}
         addr = ow.get("id", "")
         owner = ow.get("name") or ((addr[:5] + "…" + addr[-4:]) if addr else "")
+        live = (f"https://gateway.fxhash.xyz/ipfs/{cid}/?fxhash={o.get('generationHash', '')}"
+                f"&fxiteration={o['iteration']}") if cid and o.get("generationHash") else ""
         items.append({"t": o["iteration"],
                       "img": f"https://assets.objkt.media/file/assets-003/{c}/{tid}/thumb400",
-                      "o": owner, "s": f"https://objkt.com/tokens/{c}/{tid}"})
+                      "o": owner, "s": f"https://objkt.com/tokens/{c}/{tid}", "a": live})
     return items
 
 
