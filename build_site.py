@@ -79,7 +79,10 @@ def feed_metadata() -> dict:
 
 
 def hm(secs: int) -> str:
-    return f"{secs // 3600}:{(secs % 3600) // 60:02d}" if secs else ""
+    if not secs:
+        return ""
+    h, m = secs // 3600, (secs % 3600) // 60
+    return f"{h}h {m}m" if h else f"{m}m"
 
 
 def clean_guest(raw: str) -> str:
