@@ -128,6 +128,8 @@ So in my work and in my life, I always try to find ways to do good. Especially a
 
 With *Reiziger*, it started with a good friend of mine in the Netherlands who wanted to travel from the Netherlands to China by bike — 10,000 kilometers, I think — and wanted to raise €1 per kilometer on GoFundMe. A couple of weeks in, I saw he was in Iran, and I asked him how it was going. He said it was fine, but they were nowhere near the money they needed for this school in South Africa, where they wanted to educate children in art, music, and dance in a neighborhood where the chances of reaching an art school are basically zero.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | ]
+
 I messaged Liam that same day and said, "We're fx(hash), we're an art platform — if there's one platform that can help them reach their goal, it's us, because if just one project mints out, that's the entire amount they need to get that school running." Liam loves to help artists and loves philanthropy too — I call him the code doctor, because he literally knows everything about code. We started working on *Reiziger* for a couple of weeks. He'd tweak it, send it to me, I'd give feedback, he'd tweak it again, and so on. We wanted it to be something good, because people at fx(hash) love to help others, but it also has to be good art — our community is really critical. We know when a copy-mint is a copy-mint, and we know when an artist has put real time into a piece.
 
 I didn't actually plan to be a collaborator on the project, but Liam told me, "You've put a lot of time into this too, so I'm putting you on it — you deserve it." I said, whatever works, let's just get this money for them. It turned out amazing — I don't even remember the exact number now, but I think we raised eleven or twelve thousand euros, more than the maximum they'd asked for on GoFundMe. It was amazing, and very emotional.
@@ -145,6 +147,8 @@ Trinity: That's one of the really cool things about AI these days — there are 
 Ozzie: Good question. Liam started off with a project I didn't like, so he told me, "Go through my old unfinished projects, look at what you like, and we'll start there." I went through them — which you should do too, by the way, they're amazing — and I picked one and said, "I like this style," with specific themes in mind.
 
 *Reiziger* means "traveler" in Dutch. We wanted to create a piece where you could see something traveling through the entire artwork and, in the end, creating something beautiful. If you look at it, when you press play it always starts with a dot that travels around the canvas and creates the piece. We built the story around that and tied it to South Africa. I'm not a coder myself, so I was providing feedback on what Liam was doing and shaping the description of what the artwork should be. That was my part.
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | ]
 
 I hadn't really done that before with other artists — I've had a small part in a couple of fx(hash) projects, maybe you've seen me pop up in a description somewhere —
 

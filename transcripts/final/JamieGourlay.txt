@@ -50,6 +50,8 @@ That said, we're still giving it a go. We've been working since we started on la
 
 The piece is called *Broken Printer*. Tabor worked in a print shop at 13, and he loved the way printers would break — things coming out raw and misaligned. He was also really into clip art at the time, playing around with early Photoshop, and this whole series harks back to that nostalgia. When you generate the works, it really takes you back — I'm in my mid-30s, and it reminds me of being eight, nine, ten years old, playing on my family's computer, trying to print things out. It's a series of 4,000: he wants each piece to feel slightly disposable, which is notable given his work usually sells for a lot of money to very wealthy people. These will be much more affordable — a series of 4,000 on Solana, playing right into this new world. He's really embracing the NFT community, and we're excited to work with an artist willing to take a bit of a risk. We joked the other day that the antithesis of the Met is probably Solana — and Tabor's doing it. We're definitely going to get some art world people looking in, and hopefully they'll see how fun it is and maybe give it another go. Maybe some of Tabor's artist friends will check it out too.
 
+[pool: Broken Printer | Broken Printer — Tabor Robak | ]
+
 And hopefully, if it goes well, we'll get an article here or there in the art press that does us some favors. Really excited for it, but it still very much remains to be seen how the art world and the NFT space work together.
 
 Will: What's been the actual breakthrough with artists, then — beyond just giving them time to come up with something authentic? What's the value proposition for someone who's potentially selling an NFT that none of their traditional collectors will touch, because they don't care about crypto or don't want to go through the steps to collect, even though it's not that hard? Prices on the primary market have just continued to come down. So is this really just an exposure play — you're going to sell this for less than you normally would, but you might get a hundred new collectors, some of whom are rich and might want a gallery piece from you someday? What's been the unlock?
@@ -225,6 +227,8 @@ Looking at what the Ringers and Squiggle communities have done for Art Blocks an
 For Shettle's release a few weeks ago, we did an allowlist, which collectors really appreciated—it let Shettle say thank you to the people who'd supported him, and they felt good about how the auction played out. If a community token meant the top fifty holders were eligible for allowlists, or something like that, I think it'd be good for everyone and create a spirit that doesn't really exist in our Discord yet. I don't think we've built a real community the way Art Blocks and fx(hash) have. It's probably not a coincidence that both have these iconic emblems representing who they are. It's really just an idea at this point—not sure if anything will come of it.
 
 Will: The obvious play is getting Zancan to make something, then setting up a "burn five *Carbon Captures* to redeem" mechanism. That could finally give all the *Carbon Captures* out there a reason to be used.
+
+[pool: Carbon Captures | Carbon Captures — Zancan | ]
 
 Trinity: There aren't that many *Carbon Captures*, really—not compared to the Highlight drop. We thought *Carbon Captures* was big, but it's minuscule by comparison.
 

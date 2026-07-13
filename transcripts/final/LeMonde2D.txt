@@ -80,9 +80,9 @@ Will: They are super nice. I want to dig a little deeper into your underlying th
 
 LeMonde2D: The starting point is that I need to really like the collection. Take *Monoliths* — when I bought around 20 of them, that's one of the largest buys I've done. First, I need to really like the art. Obviously I also need a strong feeling that the value will increase over time. I don't plan to sell, but at some point there will probably be transactions to help me accumulate other collections — *Garden, Monoliths* being one example. I'm not one to stop at just one piece, which isn't usual for me, so I think I'd need to sell a few great pieces to fund acquiring others.
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
-
 I'm also not only collecting the NFTs and the images — I work with artists to get signed prints. For *Bardez*, for example, I had the idea of printing them small, in squares, and I needed a lot of them so the display would properly represent the briefness of the code. With some collections, two or three pieces best illustrate the algorithm. In other cases, like *Monoliths*, I need more pieces to show the subtle variations.
+
+[pool: Bardez | Bardez — Nat Sarkissian | ]
 
 Trinity: So at that point it's almost not even about the museum on Deca — it's about curating your own joy, rather than collecting purely because you see speculative value in it, even over the long term. It's about really seeing the entire breadth of the collection. Looking at your *Bardez* pieces, for instance—I know you minted many at the top tier, which is great because they came with a print. But then when you look at the ones you bought later, it's a nice contrast. You can see the story of how you collected, because your first mints were larger, more zoomed in, and then you bought the ones that give you the full feeling of the garden. I remember when that came out, it was mind-blowing to get the sense that you were actually looking around a garden and seeing different pieces of it.
 
@@ -103,8 +103,6 @@ LeMonde2D: Yeah, I did. But the thing with Tender is, when I get a print, I want
 Trinity: It's part of that community feel—reaching out to the artist and saying, "Hey, I'm going to ship this to you. Please send it back." I love that. It definitely speaks to the relative size of the fx(hash) community compared to elsewhere. Speaking of prints—since fx(hash) work can be relatively high resolution, especially if you reach out to the artists—have you had luck getting prints of your Art Blocks pieces? My assumption is that since those are on-chain, it's harder to get better resolution.
 
 LeMonde2D: I'm working with William Mapan to get *Anticyclone* printed—I'm actually launching a project with him at the end of the week too, so I'll talk to him about that. Getting *Marriage* printed was easy, with the website Matt built. But most of the prints I get are from fx(hash). With a few artists, there's this discussion after the collection drops where they're like, "I don't know what to do with it, which kind of paper I need"—which is interesting to me too.
-
-[pool: Anticyclone | Anticyclone — William Mapan | ]
 
 Will: For artists, there's got to be a lot of fear. They design a project to be digital—maybe they're only thinking digital—and then suddenly there's demand: "I want to own your piece. Not only do I want to own it, I want you to sign it and maybe number it." And they're like, how do I get it printed? How do I get the quality I want? That's one of the cool things about Tender's printing—they'll tell you when you upload the file, "You can only make it 30 by 30 centimeters, it's not going to support something big."
 
@@ -141,8 +139,6 @@ Will: You can imagine a museum installation with ten screens in a grid, alternat
 LeMonde2D: That's the reason I collected it, and in quantity—I think it's a museum piece. It has that instant museum standout quality, and you can imagine a lot of crazy things with it.
 
 Trinity: For me, it's one of three pieces I think are going to be instant, long-term classics that really hold up over time. The others being Zancan's work across the board—doesn't need to be any particular piece, just all of it, it's one category—and *Ethereal Microcosm*, which I noticed you don't have any of. That was one of Ciphrd's big pieces, released earlier this year. Also animated, but I think on the same level of beauty. Not to put you on the spot, but why don't you have any of those?
-
-[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | ]
 
 LeMonde2D: I'll get there. I only started collecting animated pieces two weeks ago, so it takes time.
 
@@ -184,6 +180,8 @@ Will: You're on the spot the whole interview.
 
 LeMonde2D: I don't want to make the comparison, but it brings me back to *Dragons* in a way. I had *Dragons* in the collection, and I was looking for what would go next to it. I found *Influence* and thought, okay, there's something here, this is really nice. Then I opened it and it started to animate, and I was like, okay, I need to collect a lot of this. Everything is so good in *Influence* -- the colors, the movement, the shadows. Super nice.
 
+[pool: Dragons | Dragons — William Mapan | ]
+
 Will: But it suffers from the thumbnails, I think that's what did it. People saw the thumbnail and didn't bother to click through and see the motion, see what was possible with the piece.
 
 LeMonde2D: Some pieces have thumbnails that are super dark, almost nothing happens. But then you go to the live view and it's so nice. Keep sleeping, though -- I will keep collecting.
@@ -195,6 +193,8 @@ LeMonde2D: That's actually a good idea. Honestly, *Textiles* talked to me the le
 Will: Do your own research on that, make sure it'll work for you.
 
 Trinity: *Abbreviated Curves* is another one that animates -- looking through what you have, even though I like it for the thumbnail, once you open it up it's pretty crazy cool. And I have to say, your *Absolute Error* number 28 is probably in my top ten favorite pieces on fx(hash) of all time. I think it's only second to the *Absolute Error* that Ryan Bell owns, another one of those very wide stances. This is one I could absolutely see printed out and looking beautiful somewhere.
+
+[pool: Absolute Error | Absolute Error — Landlines Art | ]
 
 LeMonde2D: In the museum, it goes so well with *Millefoglie* -- the transition between the two is really nice. I bought number 27 and number 2 to have the full scope of the algorithm.
 
@@ -250,6 +250,8 @@ Trinity: Are you the type of person who's going to follow him over to Art Blocks
 
 LeMonde2D: Yeah, definitely. You can see the sense in his upcoming Art Blocks work and its relationship with *Millefoglie* -- the link between the two. I think it's going to be a must-have for me.
 
+[pool: Millefoglie | Millefoglie — Stefano Contiero | ]
+
 Trinity: It'll be interesting to see how this performs on Art Blocks -- it has a pretty high starting price compared to some of their more recent releases. I love that if you look at Art Blocks' upcoming roster, six out of the eight artists have had recent releases on fx(hash), which is insane to me. It really speaks to the blending of the worlds and the quality of art and artists we're getting here.
 
 LeMonde2D: It's crazy, but at the same time it makes sense.
@@ -286,6 +288,8 @@ Will: No — this is something we talk about on the show all the time, something
 
 So I feel like there are two categories in generative art: pieces that stand alone, and ones you want to own a lot of. *Turner Light* is one where I feel the same way — owning just one feels great.
 
+[pool: Turner Light | Turner Light — Aluan Wang | ]
+
 Trinity: Yeah.
 
 Will: I'd love to own ten. Clearly you went the ten route, and they look amazing in your Deca — you can show off the different colorways and all the different variety.
@@ -305,6 +309,8 @@ LeMonde2D: Yeah.
 Will: What does the algorithm support? What do I think the market will support? How much am I trying to earn off this piece? There are a lot of non-artistic choices you have to make when setting the price and edition size. Are you someone who always maximally values scarcity? Or would you rather the artist push to the limit and get as much breadth of exploration of the code in one go?
 
 LeMonde2D: It's a tough question. I can't say I don't look at the value of things, but I don't really care, because I'm not trying to get value from it in the short term. I don't buy more because there's less — that's not how I do it. I just like the art, and if it makes sense to have twelve... In the case of *Turner Light*, I have this row — 253, 112, the white one, I had maybe only two — and I was like, I need more, because it would complete the line and look super nice. That's how I collect. It's not that I need ten or twelve or twenty because the value is going to increase — it's that it makes sense in the gallery.
+
+[pool: Turner Light | Turner Light — Aluan Wang | ]
 
 Will: That's so interesting, that you're collecting from the gallery standpoint. That was a breakthrough for me the first time I made a Deca — it got me to go back and buy one more of a project. I had three, but in a row of three they looked a little too small, so I needed a fourth to make two rows of two, so they'd be a bit bigger. It makes you think in such a strange way. I hadn't anticipated that.
 

@@ -38,6 +38,8 @@ Zach Lieberman: I have flat files, which helps with storing them. Usually once a
 
 Will: For *Cone Gradient Studies*, which you've been sharing a lot of over the last year on social media, and which will also be part of the Verse Solos exhibition coming up, what were you looking for as you evaluated those images that helped you tweak and tune the algorithm to arrive at the final images that'll be in the show?
 
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | ]
+
 Zach Lieberman: For me, *Cone Gradient Studies* is about seeing light move across a piece of paper, and there are qualities I really look for. One is this — I don't know the right term for it — but there are moments in the image where the colors and shading become very ambiguous. In some of the cone gradients you have solid colors meeting in the center, all the cones focused toward a point, and you wind up with a color that's like fog or liquid — hard to understand what it even is. That ambiguity is so interesting to me. I try to find images where I just don't understand them. Maybe visually they're appealing, but my brain goes, "What is going on? Let me try to read it, let me try to process it." I like that pathway: starting with your eye, going to your brain, and then back to your eye — seeing something, having to think more intensely about what it is or means, and having that feed back into how you see it. I look for images that activate that pathway.
 
 Some of the cone gradients are pretty wild — I like to take the same algorithm and turn the volume up to eleven, just to see how I can break it: how much color, noise, or texture can I add before it falls apart? With those wilder ones, I'm looking for what remains. If you keep pushing and pushing, is there some essential truth to the image that still pops through? Those are some of the qualities I look for when evaluating the work.
@@ -47,6 +49,8 @@ Trinity: So when we're looking at *Cone Gradient* — both what you've posted on
 Zach Lieberman: It's similar to long form in that you have different traits. Some push the colors in different directions — some cone gradients start black and white and move into color, some have almost a diffraction or interference pattern. You could think of those as traits in a long-form work — different flavors, even though the underlying algorithm is very simple. It's how these elements interact that leads to interesting results. It's all code-based, all algorithmically manipulated, but I'm sitting there refreshing and refreshing until I see an image that tingles my brain in some way, and then I export it. I might look at twenty images, or a hundred, and find one I like. You can think of those as a contact sheet, and then I go through and ask which of those are even better. There's a curating process to it.
 
 Will: Let's talk about your Verse Solos exhibition. Let me see if I can get the pronunciation right on the first try: *Lichtrequisite: Studies in Color, Light, and Geometry*. How close was I?
+
+[pool: Lichtrequisite | Lichtrequisite — Zach Lieberman | ]
 
 Zach Lieberman: I think that's correct. I'm no expert, but yeah.
 
@@ -66,6 +70,8 @@ Zach Lieberman: Yeah, the MASS MoCA stuff is amazing.
 
 Trinity: We've talked quite a bit about *Cone Gradient Studies*. Let's talk about *Colorblind Study* — I see there are studies numbered one through five. Will those be one-of-ones or editioned pieces?
 
+[pool: Colorblind Study | Colorblind Study — Zach Lieberman | ]
+
 Zach Lieberman: One-of-ones. The *Colorblind Studies* use essentially the same code as the *Cone Gradient Studies*, but there was a process I fell in love with — horizontally or vertically altering the image in some periodic way. Sometimes you do something and it opens up a whole new world. Here it's a simple idea: cut the image into strips and make something happen across a strip — maybe the colors are brighter at the bottom and darker at the top. Images that felt flat or gradient-y suddenly become very dimensional.
 
 It's a bit like Venetian blinds — when light moves behind them you get these beautiful patterns. As a kid I had blinds like that in my bedroom, and when cars turned the corner you'd see this interesting glow, this movement. This work really requires movement to appreciate. A lot of my interest here is in memory — you're staring at an image, the colors are moving, and they change so much that what you're really experiencing is the difference between what you see now and what you just saw. There's a charged energy in how the images change, in how your brain latches onto something — the shading suggests a meaning, and as the colors shift, that meaning seems to push in a different direction. The work is about exploring that energy: slicing an image horizontally or vertically and watching the distortions emerge.
@@ -83,6 +89,8 @@ Will: Twenty-five one-of-one pieces — that'll be exciting to watch.
 Trinity: Simultaneous auctions.
 
 Will: To jump back to *Cone Gradient Studies* — those are going to be distributed through mint passes, right? Fifty curated pieces.
+
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | ]
 
 Zach Lieberman: Yeah.
 
@@ -191,6 +199,8 @@ Will: Great shout-out — I'm sure everyone will go look up some of those images
 Zach Lieberman: Thank you, it was really great. I really appreciate everything you do for the space.
 
 Will: Oh, that's always nice to hear. Thanks. Well, that's it for this one, everyone. That was Zach Lieberman. Check out his upcoming Verse Solos exhibition, *Lichtrequisite: Studies in Color, Light, and Geometry*, starting on August 8th. It's really great to have Zach on. Thank you so much. Hope you all enjoyed. That's it for this one, everyone. We'll talk to you all soon.
+
+[pool: Lichtrequisite | Lichtrequisite — Zach Lieberman | ]
 
 Zach Lieberman: Later.
 

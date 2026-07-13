@@ -50,6 +50,8 @@ By early October I started diving in. I had a little coding background — self-
 
 Trinity: From a process perspective, given your artistic background, did you have an idea of the types of things you wanted to make? Were you working on other projects before *Clew*?
 
+[pool: Clew | Clew — Abstractment | ]
+
 abstractment: Yes — I made several things on my own that, looking back, I find pretty appalling and embarrassing. The goal was just to learn how it all worked. Then, maybe three or four weeks in, I landed on a vision for what became *Clew* and figured out how to build it. I think *Clew* is beautiful — I love it — but it's not the most innovative coding behind it. It's a well-orchestrated set of elements that come together into what I think is a really nice collection. I'm never going to be the one changing the generative art space with innovative code. I'm just trying to create great final outputs and a large, diverse collection.
 
 Trinity: That's something we were just chatting about before we started recording — that it's not really about complexity in the algorithm. I haven't looked at the *Clew* code to understand all the work behind it, but no matter how complex or simple something is — we've talked about this on our weekly podcast too — sometimes it's about the refinement: picking the right color palettes, understanding how elements work together. It doesn't matter how the vision is executed; when you hit print, it just comes out looking wonderful. What was the artistic process behind generating those outputs?
@@ -244,9 +246,9 @@ Will: Congrats on that. Let's hear from you, Trinity — you have to have at lea
 
 Trinity: I don't have as many big moments as that. There have been some fun-slash-stressful times operating with like 0.3 Tez in the wallet, where you don't even have enough liquidity to list anymore — which is how I became a big fan of the batch-relist tool on Netlify. Use it only at your own risk. Even though that's not fun, because you're gatekept out of literally every drop, including *Clew*, there's something about the scrappiness of digging yourself out of a hole. It forces you to really look at your collection, to figure out what you want to price things at and what you want to put on the market.
 
-That said, I also enjoy having liquidity. One of my favorite moments — I think it was the same day *Sequence* dropped. It was a big day; I actually went into the office, which I do maybe once every five months, so it was special timing to be sitting at my desk during a small office get-together, everyone at the bar, and me just hitting refresh constantly. *Farbteiler* came out — I'd seen some Twitter previews and thought, this is just beautiful. I already loved *The Signatory* by Erik Swahn. It had been a big day — a lot of big days back in December — and I just kept hitting the mint button on *Farbteiler* because the colors were insane, the structure and architecture were insane, everything about it was insane. I ended up minting thirteen of them. I kept looking around fx(hash) thinking, why is this taking so long to mint out? I knew I was onto something. And then just being right.
+[pool: Clew | Clew — Abstractment | ]
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | ]
+That said, I also enjoy having liquidity. One of my favorite moments — I think it was the same day *Sequence* dropped. It was a big day; I actually went into the office, which I do maybe once every five months, so it was special timing to be sitting at my desk during a small office get-together, everyone at the bar, and me just hitting refresh constantly. *Farbteiler* came out — I'd seen some Twitter previews and thought, this is just beautiful. I already loved *The Signatory* by Erik Swahn. It had been a big day — a lot of big days back in December — and I just kept hitting the mint button on *Farbteiler* because the colors were insane, the structure and architecture were insane, everything about it was insane. I ended up minting thirteen of them. I kept looking around fx(hash) thinking, why is this taking so long to mint out? I knew I was onto something. And then just being right.
 
 abstractment: Yeah.
 
@@ -259,6 +261,8 @@ Trinity: It was two Tez. Nothing is a trap. That was a great moment. And obvious
 Will: Yeah.
 
 Trinity: You'd found your way to win. And then there's the lottery component of the output itself — hitting the jackpot a few times, like getting a 1-in-4 *Akeese* dragon, feels so good. Or getting a *Sequence* with the hole in it, which is like a 2% chance.
+
+[pool: Sequence | Sequence — The Mandala In The Hindu | ]
 
 Will: Your red Iskra.
 

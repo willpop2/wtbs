@@ -326,9 +326,9 @@ Trinity: It had a big, well-deserved moment. As we casually browse the catalog w
 
 Will: I'm a big fan of *Sinuosity*, *Opacity*, and some of the early stuff. I really like those more muted color palettes.
 
-[pool: Sinuosity | Sinuosity — Jeres | ]
-
 ClownVamp: It's still mind-blowing to me. The two things I think blow people's minds these days about art—one is some of this AI art stuff, like DALL-E 2. And then generative art, when you explain it to normies, really does blow their mind, because at this point we're kind of used to it. But when you tell someone, "No one drew this—this is fully lines of code," it's genuinely magical for people. Even looking at *Vapor Trails*, it's wild that this was just a bunch of JavaScript. That's nuts.
+
+[pool: Vapor Trails | Vapor Trails — Jeres | ]
 
 Trinity: Some of the longer-form abstract stuff especially—the amount of variety and cohesion is insane. It doesn't feel code-based at all. Digital, yes. Code-based, no.
 

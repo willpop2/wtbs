@@ -10,7 +10,7 @@ clobbering existing entries):
 Everything else (non-AB raster, verse.works, tezos token urls) is reported as
 unresolved for a later pass. Prints a per-episode summary; writes nothing on --dry.
 """
-import re, json, glob, csv, sys, io, urllib.request
+import re, json, glob, csv, sys, io, time, urllib.request
 from pathlib import Path
 import snapshot_pools as sp
 
@@ -56,18 +56,78 @@ def ab_resolve(name):
     q = ('{ projects_metadata(where:{name:{_ilike:"%s"}},limit:3){project_id name artist_name '
          'contract_address invocations}}' % name.replace('"', ""))
     out = None
-    try:
-        r = urllib.request.Request("https://data.artblocks.io/v1/graphql", data=json.dumps({"query": q}).encode(),
-                                   headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"})
-        for p in json.loads(urllib.request.urlopen(r, timeout=20).read())["data"]["projects_metadata"]:
+    for attempt in range(3):                       # AB API is flaky — retry so real AB works never fall through
+        try:
+            r = urllib.request.Request("https://data.artblocks.io/v1/graphql", data=json.dumps({"query": q}).encode(),
+                                       headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"})
+            data = json.loads(urllib.request.urlopen(r, timeout=20).read())["data"]["projects_metadata"]
+        except Exception:
+            time.sleep(1)
+            continue
+        for p in data:
             if norm(p["name"]) == norm(name) and int(p["invocations"]) >= 10:
                 out = {"source": "alchemy", "contract": p["contract_address"],
                        "project": int(p["project_id"]), "artist": p["artist_name"]}
                 break
-    except Exception:
-        pass
-    _ab_cache[name] = out
-    return out
+        _ab_cache[name] = out                      # got a response — cache it (even a no-match)
+        return out
+    return out                                     # all retries failed — don't cache (retry next work)
+
+def deslug(s):
+    s = re.sub(r"-\d{4}$", "", s.split("?")[0])          # drop trailing year
+    return s.replace("-and-", " & ").replace("-", " ").title().strip()
+
+_raster_cache = {}
+def raster_page(url):
+    u = url.split("?")[0]
+    if u not in _raster_cache:
+        try:
+            html = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}),
+                                          timeout=25).read().decode("utf-8", "ignore")
+        except Exception:
+            html = ""
+        _raster_cache[u] = html.replace('\\"', '"')
+    return _raster_cache[u]
+
+CHAINS = {1: "eth", 8453: "base"}   # CAIP eip155 id -> Alchemy net (key only has eth+base enabled)
+# Art Blocks shared contracts: token id = project*1e6+edition, so a name scan from 0 never reaches
+# the project — these MUST be project-scoped via ab_resolve, never the raster name_like path.
+AB_SHARED = {"0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270", "0x059edd72cd353df5106d2b9cc5ab83a52287ac3a"}
+CAIP = re.compile(r'"contractRefs":\["([^"]+)"\]')
+def _caip_cfg(caip, name, artist):
+    if caip.startswith("eip155:"):
+        contract = caip.split("/")[-1]
+        if contract.lower() in AB_SHARED:
+            return ab_resolve(name)                       # project-scoped, or None (better than wrong)
+        chain = CHAINS.get(int(caip.split(":")[1].split("/")[0]))
+        if not chain:
+            return None                                   # unsupported L2 -> leave unresolved
+        return {"source": "alchemy", "chain": chain, "contract": contract,
+                "name_like": name, "artist": artist}
+    if caip.startswith("tezos:"):
+        return {"source": "objkt_fa", "contract": caip.split("/")[-1], "query": name, "artist": artist}
+    return None
+
+def resolve_raster(url):
+    """raster.art artwork -> config via the page's CAIP contractRef. Artist + name from the slug."""
+    m = CAIP.search(raster_page(url))
+    if not m:
+        return None
+    slug = url.split("/artwork/")[-1].split("?")[0]
+    workslug, _, artistslug = slug.rpartition("-by-")
+    return _caip_cfg(m.group(1), deslug(workslug) if workslug else "", deslug(artistslug) if artistslug else "")
+
+def resolve_raster_token(url, work):
+    """raster.art/token/<chain>/<contract>/<id> -> config (contract is right in the URL)."""
+    p = url.split("/token/")[-1].split("?")[0].split("/")
+    if len(p) < 2:
+        return None
+    chain, contract = p[0], p[1]
+    if chain == "tezos":
+        return {"source": "objkt_fa", "contract": contract, "query": work, "artist": ""}
+    if chain == "ethereum":
+        return {"source": "alchemy", "contract": contract, "name_like": work, "artist": ""}
+    return None
 
 FX = re.compile(r"objkt\.com/collections/fxhash/projects/(\d+)")
 row = re.compile(r"^- \*\*(.+?)\*\* — contract/link: `([^`]*)`(.*)$")
@@ -86,19 +146,21 @@ for ln in lines:
     if not m or not ep:
         continue
     work, url, rest = m.group(1).strip(), m.group(2).strip(), m.group(3)
-    cfg = None
     if "wired via" in rest:
-        cfg = srcidx.get(norm(work))
-    elif FX.search(url):
+        continue                        # ✅ reuse handled by apply_reuse.py (copies from committed pools)
+    cfg = None
+    if FX.search(url):
         pid = int(FX.search(url).group(1))
         artist = fx_author(pid) or (clean_guest(guests.get(ep, ep)) if section == "A" else "")
         cfg = {"source": "fxhash", "project": pid, "artist": artist}
     elif "raster.art/artwork/" in url:
-        cfg = ab_resolve(work)
+        cfg = ab_resolve(work) or resolve_raster(url)
+    elif "raster.art/token/" in url:
+        cfg = resolve_raster_token(url, work)
     if cfg:
         configs.setdefault(ep, {})[work] = cfg
     elif url and url != "________":
-        unresolved.setdefault(ep, []).append(work)
+        unresolved.setdefault(ep, []).append((work, url))
 
 if "--dry" not in sys.argv:
     (ROOT / "discovery").mkdir(exist_ok=True)
@@ -117,4 +179,9 @@ print(f"UNRESOLVED {sum(len(v) for v in unresolved.values())} works (Phase 2: no
 for ep in sorted(configs, key=lambda e: -len(configs[e])):
     u = len(unresolved.get(ep, []))
     print(f"  {len(configs[ep]):2} wired  {u:2} left   {ep}")
+if "--dry" in sys.argv:
+    print("\nUNRESOLVED detail:")
+    for ep in sorted(unresolved):
+        for w, u in unresolved[ep]:
+            print(f"  {ep:26} {w:26} {u}")
 print("\nSLUGS:", " ".join(sorted(configs)))

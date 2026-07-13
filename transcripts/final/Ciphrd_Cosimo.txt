@@ -14,7 +14,7 @@ Cosimo: One of our biggest motivators was noticing the same repetition of outcom
 
 That got us thinking that collections, as currently set up, effectively end at the drop. The mint happens, and it's over. On socials it's fun for a bit — everyone posts their iteration — but it quickly peters out, even for very successful collections, and then they're almost forgotten. That got us thinking about the lifespan of artworks. Some collections have enjoyed long lifespans — think of the classics everyone knows, *Ringers* and *Fidenza*, and on fx(hash), *Dragons* and *Garden*. Those span time, but other high-quality, successful collections don't.
 
-[pool: Fidenza | Fidenza — Tyler Hobbs | ]
+[pool: Dragons | Dragons — William Mapan | ]
 
 With Open Form, we wanted to invert that, so the mint is the start of a collection's life, not the end. The mechanics we've introduced, enabled by art coins, allow a deep level of engagement and interaction with the artwork that spans time, because there's no cap on what that interaction looks like or how long it lasts. As collectors and artists ourselves, we wanted a system that brings back fun — while understanding there's no going back to 2021. We can't keep pining for the old days; we need to look ahead and bring innovation. That's what we think we've done with Open Form.
 
@@ -140,6 +140,8 @@ Will: This ties into something else people have been discussing: what's the rela
 
 Ciphrd: This Ethereum fee is going to be the same for everyone. There's an option for artists to change it, but we're not going to immediately expose that on the UI — we want to see how it plays out initially. The system can support a different fee at this level; we just want it to be the same for everyone at first, because it's one less thing for artists to think about.
 
+[pool: Tender Pass | Tender Pass — Punevyr & Tender X | ]
+
 The idea is roughly one to two dollars in Ethereum fee and one to two dollars in art coin fee, so the total price lands between two and four dollars. That's the range we're targeting initially. We'll see, based on usage, whether there's value in tweaking the Ethereum portion, or whether this setting works best as is — there'll be some experimentation.
 
 We've already talked to artists interested in specific characteristics for how the fee grows as you go deeper into the lineage — some wanted it to increase a lot, so it's harder and harder to get the children of children. So I can see this eventually becoming an option, since it has value for specific projects. But the goal initially is the same settings for everyone, and see how it plays out. This is quite a contrast to how we did things previously, giving artists control over everything they might want. The byproduct was that artists who literally don't care about 90% of these settings still had to go through them and understand what they mean, when in most cases a default would have been more than enough. We're also thinking about maybe adding an advanced option for artists who want to go deeper and configure these settings themselves. But initially, we'll be trying it without control over these particular settings.
@@ -243,6 +245,8 @@ I always end up losing my train of thought at the end of these questions — I h
 Cosimo: But they were good ones. Something you said just now jogged something I've thought about a lot this past year and a half. That tendency toward smaller collection sizes really shows up with artists who've already run the gauntlet — they're established, so they can command that price, and their work becomes more premium. In some ways that's logical: their work becomes scarcer and the buy-in gets higher.
 
 At the same time, for artists who haven't achieved that level of recognition, and maybe aren't being seen by the curated platforms, Open Form offers a really interesting way to get heard. One example that stands out is Punevyr's *Glyph* mint. For anyone unfamiliar — Punevyr made this incredible project called *Glyph*, minted through our Farcaster integration, released via Frame. It did well over 250,000 editions, which was a record at the time — since surpassed by Phojeebus' *Count*, also on fx(hash).
+
+[pool: G L Y P H | G L Y P H — Punevyr | ]
 
 Punevyr had always been a real community legend on fx(hash), and after *Glyph*, a lot of outside attention came his way — people who'd never heard of him, or of fx(hash), minting in droves on the frame on Farcaster. A system like Open Form, which nudges artists toward big gestures, is an ideal creative ground for that kind of success — the kind of audience that earlier waves of generative artists found for themselves on their way to becoming established names.
 

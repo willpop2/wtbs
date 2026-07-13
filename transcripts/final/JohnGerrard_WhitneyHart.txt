@@ -1,5 +1,7 @@
 John Gerrard: It was, I think, an evolution more than a revolution for me. I'd been thinking about data for a very long time, and blockchain is fundamentally a data structure, so it felt like a natural extension of what I was already doing. When the opportunity came to tokenize *Western Flag*, it wasn't a huge conceptual leap since the work was already, at its core, a data object rendered in real time. What changed was the framing: suddenly this piece that lived on a screen in the desert, or in a gallery, could also live as a verifiable, ownable artifact on a public ledger. That felt like it closed a loop for me, connecting the world-building, data-driven nature of the simulation to a system that is itself entirely constructed from data.
 
+[pool: Western Flag | Western Flag — John Gerrard | ]
+
 And donating it to LACMA was significant precisely because the institution had never handled an NFT before. They had to build the infrastructure, open a wallet, work out custody, all of it, in order to accept the piece. That, to me, was its own kind of public art moment. It forced a major institution to catch up with where the work already existed conceptually.
 
 Whitney Hart: That's such a great way to put it, closing the loop. And I think that's part of why *Western Flag* resonates so much in this context, because the carbon legacy it depicts and the energy conversation around blockchain are so intertwined. Did that tension ever give you pause?
@@ -63,6 +65,8 @@ But funnily enough, that wasn't my first tokenized artwork. And that's actually 
 That's a fascinating history—about two years before the boom, and probably simultaneous with artists I really admire, like XCOPY, who was doing interesting things at that time, or PAC. I just wasn't aware of any of it. I was deeply embedded in the contemporary art world, making simulations, and the whole tokenization thing hadn't hit me yet. So, Whitney, I did that video, then stopped for a year, didn't do anything with NFTs for a year. The next tokenized project was Art Blocks.
 
 Will: It's so interesting because a lot of your work—maybe all of it—seems to carry themes of environmentalism. You seem very conscious of the world as it's changing: oil, emissions. I think even *crystalline work* speaks to this in its own way. For the longest time Ethereum was proof of work, and all of your pieces have included a carbon offset—or, back when it was proof of work, they included donations to environmental causes.
+
+[pool: crystalline work | crystalline work — John Gerrard | ]
 
 But what was that conversation like, deciding to start tokenizing? I imagine that's a big barrier for a lot of people, even setting aside the emissions issue—crypto has such a bad reputation across the world. What was that decision like for you?
 
@@ -159,6 +163,8 @@ Will: That practice predates film — they'd make the image, enjoy it momentaril
 John Gerrard: We have to talk about the date—the dating system, because that's very relevant, and so is the naming system. Whitney, help me here, because I always trip up on this. Okay, it's my work, I know I should know this, and I do. So: *crystalline work (Arctic)*. The first number you see is the work number—each day you have one through twenty-four. The second number is the ray number, one through twelve: 1 is June, 3 is July, 5 is August. It goes down the odds and comes up the evens, in case you were trying to map it. Then you have the day number of the year, one through 365. And the final number is the year number—and this is the important one for me.
 
 This isn't me becoming a weirdo, but all my works to date have been dated in Christian time—*Western Flag* 2017, *Flare* 2022, whatever it may be. With this piece—this radical performance, blockchain, prismatic piece—I decided I wanted my own calendar.
+
+[pool: Western Flag | Western Flag — John Gerrard | ]
 
 Trinity: Okay.
 
@@ -263,5 +269,7 @@ Will: Check out our episode with him — he was a great guest too.
 John Gerrard: I'd love to do that.
 
 Will: All right. That was John Gerrard and Whitney Hart from Feral File. Go check out *Crystalline Work* — it's minting now. Thanks to both of you. We'll be back again soon with another episode. Bye everyone.
+
+[pool: crystalline work | crystalline work — John Gerrard | ]
 
 Trinity: Bye.

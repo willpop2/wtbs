@@ -1,5 +1,7 @@
 Will: Hi everyone, a quick note before we start the episode. We are extremely fortunate to have Cory on to talk about *Atmospheres* right as the project releases on Verse. We are posting this episode on May 9th so it can go live to all of you on the 10th, one day before the auction starts. As of today, the details of *Atmospheres* have not been locked in, and as you might be able to sense from the episode, the choices around quantity and curation are extremely challenging for an artist to weigh. We agreed it would be best to preserve the original interview and give everyone a chance to hear Cory's thoughts in the moment, and give all of you the most candid look at the process of releasing a project from the artist's perspective. We hope you enjoy.
 
+[pool: Atmospheres | Atmospheres — Cory Haber | ]
+
 Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're here with artist Cory Haber today with another fortunately timed interview. Cory's joining us just as a project of his drops on Verse this week. Super exciting to see that, and great to talk to Cory and hopefully dig into that project a bit. Trinity's here as well, of course, on a brief break from baby duty. How's it going, everyone?
 
 Trinity: It's going great. Glad to have you, Cory. This is very fortuitous timing. I love it when people fall into our proverbial laps.
@@ -27,6 +29,8 @@ Cory Haber: My background really goes back to my childhood. I always loved art a
 In college I was actually an art major for one semester before dropping it. I figured I was never going to have a career in art — what a silly thing to think I could do. Really unfortunate that people have to make those decisions, but I went down a more practical route while continuing to make art in my spare time.
 
 Years after college, I was working in technology but wasn't a software developer — mostly self-taught up to a point. I had all these ideas in my head and kept hiring developers to build them, and eventually I wanted to build those things myself. I'm always making and creating: I taught myself electronics, taught myself how to solder, built my own 3D printer back in 2010, 2011. When I was about 33, I had the opportunity to go back to school for a software development boot camp in New York City. I was the oldest person in the class, which was really fun, and I came out the other end as an entry-level software developer.
+
+[pool: SOL | SOL — Cory Haber | ]
 
 The day I graduated, I somehow found Processing, then found Dan Shiffman and the Coding Train on YouTube, and it rocked my world. I had no idea you could use code to make art. I had this art background, this creative background, and had just become a "software developer," and I realized I could merge the two. That was around 2013, early 2014, and I started working in Processing, creating sketches. I didn't share much online — I had Twitter for a long time but rarely posted. Social media was never my thing; I'm much more of an in-person personality.
 
@@ -153,6 +157,8 @@ Cory Haber: It's not so much hard to transition into — it's that the way I wor
 Trinity: And that takes away a little of the beauty of that algorithmic space — the happenstance, being surprised. If you're getting surprised at mint time on a long-form project, that can be a bit of an "oops," right?
 
 Cory Haber: With *SOL*, I didn't even have a defined palette. I wanted to see how colors would mix on their own — I had a single palette of maybe less than 100 colors, and I'd randomly assign some number of those to form a working palette, then use those colors in a certain order for each stroke, just to see what would happen. That's what was cool about *SOL*. With *Atmospheres*, I can't be quite that wild with color — it's more controlled, but still not fully known, even to me. When you pick the same palette 100 times, the relative importance of each color isn't the same each time, so it leads to extremely different outputs. You could look at two outputs and swear they didn't come from the same palette — but they did. Hopefully that works out.
+
+[pool: Atmospheres | Atmospheres — Cory Haber | ]
 
 Trinity: We've seen that approach from some of our favorite artists too — Anna Lucia does this with her color palettes, as does Melissa Wiederrecht. Sometimes that's how you grow a palette over time: you take away from it, add to it. It opens up a lot more flexibility in the space of outputs without being too rigidly defined — a nice middle ground.
 
@@ -289,6 +295,8 @@ Trinity: That's also part of that cyclical self-improvement cycle. Especially wi
 Cory Haber: Great point. Artists should also be the ones reaching out to ask for that feedback. Though—what an honor it would be to have no pieces from a collection on the secondary market. Doesn't that mean people value what they purchased, are holding it, and aren't interested in selling?
 
 Will: *SOL* is very close to that right now. I think there were only five listed when I checked on Foundation.
+
+[pool: SOL | SOL — Cory Haber | ]
 
 Cory Haber: I don't know if that's indexed correctly—maybe 5%.
 

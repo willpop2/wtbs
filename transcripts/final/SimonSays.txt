@@ -82,7 +82,7 @@ Will: Taking the platform's brand into account is going to be difficult for arti
 
 SimonSays: There's a need for us to evolve the way we think and talk about releases. I know this runs against the whole decentralized ethos of crypto, but not everything is like everything else. Right now — it's Wednesday the 23rd as we're recording — we're in the midst of the Highlight on-chain summer releases from Melissa Wiederrecht, James Merrill, Holger Lippmann, and Leander Herzog. Those are all great — I minted a few this morning, and I like all four series. Melissa's especially is really interesting and thought-provoking. But when we're talking about 10,000, 20,000-plus mints at $9 a pop, that can't exist in the same headspace as *Take Wing*, or Melissa's *Take Root* series on Verse — finely crafted series of ten beautiful pieces that are still mind-blowing to me. Or *Ori* versus James Merrill's *His End* on Highlight.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | ]
+[pool: Take Root | Take Root — Melissa Wiederrecht | ]
 
 In the physical art world, you've got everything from mass-produced posters to signed edition posters, to large edition prints, to monotypes, to lithographs, to edition lithographs, all the way up to small paintings and big paintings. All of those exist at very different points along a price and demand spectrum. I think the open platforms are great, but they'll tend to point much more toward the mass-produced-poster end of that spectrum. I don't know how we get to a place where we have a good way to distinguish those things.
 
@@ -110,11 +110,15 @@ Will: Yep.
 
 SimonSays: I firmly believe the physical show they did in London led to better sale performance. People saw the cone gradients printed out — some in person, others saw photos or heard anecdotes on Discord from people who went and said, "holy shit, these look great." Even more so the videos — *the colorblind studies* — they did this really ambitious setup with huge, two-meter-by-two-meter LED screens.
 
+[pool: the colorblind studies | the colorblind studies — Zach Lieberman | ]
+
 Will: Yeah.
 
 SimonSays: A huge room with one on each side. Everyone who went was blown away, and they told stories of how amazing these were at scale on screen. That absolutely drove interest in the auctions and drove more people to participate at higher prices. If Zach had done all the same work and just released it on OBJKT, or an ETH version thereof, it wouldn't have done nearly as well.
 
 Will: I agree. It's not just the social media piece — Verse and Zach were posting really nice close-up shots showing the detail in the printed outputs of *the cone gradient studies*, building excitement for people in the price range to bid. But the exhibit itself also tells everyone considering it that there's a team, the Verse team, so convicted in this that they're willing to put on a show like that.
+
+[pool: the cone gradient studies | the cone gradient studies — Zach Lieberman | ]
 
 SimonSays: Yeah.
 
@@ -153,8 +157,6 @@ Will: Right — Marcel could just keep making those spirals and selling them all
 SimonSays: You still can.
 
 Will: At the price point, though, I missed a couple on Versum — that site was so janky it wasn't accepting my bids, and there were chances to get his stuff for like $100 in Tez, which is crazy. Using him as an example — maybe there's a release I haven't seen since, but the last one I'm familiar with was *It Is What It Is*, on Foundation. That's a do-it-yourself platform, no Verse doing the exhibit or the marketing push — all on you, the artist, or your team. I thought it was a really cool project, minted one, but it didn't sell out. Part of me thinks people wanted the cool, colorful plotted stuff, and he took a turn here. Mine's in the mail right now from Artfora. Is this where your role as a kind of business coach comes in — picking them up a bit, saying "it's okay"? To the extent you're comfortable talking about it, what was the postmortem like, both in your relationship with him and looking forward?
-
-[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | ]
 
 SimonSays: It was surprising to me too that it didn't sell out. We thought we'd priced it competitively — I was worried it would all go during the allowlist period.
 

@@ -22,6 +22,8 @@ Frank Manzano: I'd actually been into crypto for about five years before I got i
 
 Will: You've got the *ScheduledProgramming* exhibition coming up on the 11th or 12th?
 
+[pool: ScheduledProgramming | ScheduledProgramming — Frank Manzano | ]
+
 Artie Handz: Beginning the 11th, 24-hour auction style.
 
 Will: I've been loving going through all the videos in your collection — it really does something different for me. Even compared to other animated AI work I've seen from artists like Ivona Tau, yours has that unsettling, dreamlike quality, but it doesn't feel intentional in the same way — I get something different from your work. We'll definitely dig into that more. Artie, how did you first discover Frank's work, and what drew you to him for this release?
@@ -29,6 +31,8 @@ Will: I've been loving going through all the videos in your collection — it re
 Artie Handz: It was this past summer when Frank started releasing dailies on Fellowship. I'd say a little over a year ago, around October of '22, I started falling into the AI art rabbit hole. My first year here I had no plan — I was just buying whatever I liked. The second year, I focused more on generative art, fx(hash) being one of the obvious ones, and Art Blocks, building out that side of the collection. As I saw AI art evolving and the tools becoming so powerful, I realized regardless of whatever the popular cultural idea of AI art is, I don't really care, because it's coming and it's not going to be stopped. I wanted to be interested in new mediums and techniques and trying new things.
 
 So around October of '22 I really started digging into the history, the players, who's doing it, and the network just grows with time. Fellowship started doing the AI post-photographic work, and I love that uncanny valley feeling that kind of work has. I bought a piece — not minted, bought right after — *Life in West America* by Rupe. I think that kind of set the tone for what people picture when they think of AI art, air quotes intended. That aesthetic from that era is still sort of baked into the models, and we're eventually headed toward this perfection which — I think artists will have to figure out how to break, because perfection isn't really interesting.
+
+[pool: Life in West America | Life in West America — Roope Rainisto | ]
 
 But Frank, exactly like you said, hit the nail on the head — there's this unsettling nature to AI work, and Frank leans into it. He's saying, yeah, it looks unsettling, so let's make it more unsettling: unsettling topics, unsettling prompts, unsettling things. He's told me he's taken things out of videos because they were too unsettling — he didn't want people to think he was putting it in there just to shock. He's just exposing things for what they are instead of sugarcoating them into something nice and beautiful. I think a lot of people in Web3 are looking for two things: to make money, and some nice, pretty things. Art like this challenges both assumptions — it doesn't have to be about financial gain, and it doesn't have to be just pretty. I've been thrilled with the series. They're so cool. I just posted all thirty of them on my new Artie Gallery and on Twitter, so they're all up there for anyone to see.
 
@@ -103,6 +107,8 @@ Will: Oh, yeah. No, it's just interesting because compared to an artist who work
 Frank Manzano: Absolutely. I've actually been thinking about this—a lot of people DM me wanting to get into it, and I've thought about putting something together that shows the process. But I think it's better to approach it without knowing much, because then you're free to do whatever you want. Once you have a fixed idea, you're just going to make—
 
 Artie Handz: You've already placed yourself in a box a little bit. You've defined the endgame before you've even started.
+
+[pool: Forma y Orden | Forma y Orden — Juan Rodriguez Garcia | ]
 
 Frank Manzano: Yeah, that's kind of how I feel about it. I don't think it's good to think too much. It's better to just start moving things along and see what comes out. If you overanalyze it, at least for me, it doesn't produce anything. I find that a bunch of very simple decisions, made one after another, is what makes it. When I paint, I approach it the same way—one mark at a time, and it goes from there. If you think too much beforehand, you won't get where you want. It's better to approach it simply: I'm just going to make marks and see where it goes.
 
@@ -199,6 +205,8 @@ Artie Handz: Yeah, *Formae*.
 Will: *Ordn*.
 
 Artie Handz: That one is great, and honestly all of it is. I have a *Reflejos*, and I have the one that was given out at Marfa — got a bunch of those. He's great.
+
+[pool: Reflejos | Reflejos — Juan Rodriguez Garcia | ]
 
 Will: I heard him on a Spaces recently and he kept it very brief in English, so I got the sense maybe he's not super confident with it — which is fair enough. Those are some good ones. We're at time, so let's plug the Verse release again — coming up on the 11th. *Scheduled Programming* — will it be a ranked auction, or how's it going to be sold, Artie?
 

@@ -62,6 +62,8 @@ Landlines Art: It's hard to pin down, because happy accidents happen literally e
 
 With *Sedimentary Dissolution*, one of the special things about that project was it was one of the first times I successfully used a shader. I'd experimented with them before but never produced anything interesting. That project starts out with a 2D grid-like shape—I use recursion, with the same seed at several points in the recursion so you get internal repetition. Then the shader runs processes on top of that to distort it in different ways.
 
+[pool: Sedimentary Dissolution | Sedimentary Dissolution — Landlines Art | ]
+
 This was almost a year ago now, back in December or January. I recall playing many times with different ways of transforming and manipulating that input image, that grid—which already looked good by itself, in my opinion—but playing with the shader parameters produced such varying results. You can do such dramatic things; you can see that in the project, where you can turn things on and off. Several times, changing half a line of code made a huge difference in the visual appearance, which was very exciting because it was something new I hadn't been able to use successfully before, and it ended up producing a lot of interesting things. A lot of it didn't make it into the final project—different ways of manipulating that image within the shader—I had to pare it down, but I remember a lot of fun experimentation there. It sticks out to me as perhaps the most drastic example. In other projects, the happy surprises are a little more subtle—they still define the project in some way and inform how I move forward, but they're not as dramatic. That's my best shot at a story.
 
 Will: I think almost every artist where this subject has come up says the same thing—it's a collaborative process with the computer, discoveries along the way through prototyping. Seems to be a common theme with fx(hash) artists in particular, so it makes sense that it happens every day and it's hard to pinpoint just one.
@@ -79,6 +81,8 @@ I've long been interested in a purely generative approach to color palettes vers
 I also think the geometry, the structure, the appearance of my work really lends itself to letting the palette come through. In some styles or projects, the palette is less apparent than the structure, the shapes, the strokes—it doesn't come through in the same way. Whereas in a lot of my projects you can see polygons in some form, and those polygons usually have a fill, a color, so the palette comes through clearly in a way you might not get with different styles. I think that's part of why my work gives that feeling—I like to use color that way, irrespective of what the palette is.
 
 Trinity: Looking at the generative art specifically, the project that stands out to me as your first really big departure from those traditional color palettes—and it speaks to how you fill things, the different gradients, particulates, particles—is *Textiles*. From a color perspective it's such a huge departure from your previous work, and not just in that one way, but across many. It's so textured compared to what you were saying before, more of— —flat 2D shapes on top of each other.
+
+[pool: Textiles | Textiles — Landlines Art | ]
 
 Landlines Art: It was definitely a big change. The whole project was based on this one shader experiment where I wanted to recreate a textile — that texture, that feel. I don't even remember how I achieved it; it was some really strange method. But I'm really pleased with the result, and I always appreciate the depth you can get from layering. If you look at textiles and strip off that texture, you're back to flat polygons with a particular color. But you put the texturing on, and then there's another layer that does shadows or something, and suddenly it creates a completely different feel. In a lot of ways, I think in this layered way — I approach one layer at a time. *Textiles* is a great example of putting several layers together to achieve an interesting composite effect.
 
@@ -99,6 +103,8 @@ Landlines Art: I don't know.
 Trinity: It was one of those two projects.
 
 Will: I think it was *Textiles*.
+
+[pool: Textiles | Textiles — Landlines Art | ]
 
 Trinity: I remember it being a very different project. I mostly just remember Will being very—
 
@@ -152,6 +158,8 @@ I didn't fully realize what taxes I'd be liable for. I try to do things the hone
 
 Will: I have a statement and a question. Statement first: I'm excited about what you're going to do with fx(params). Looking at your work, especially from *Sedimentary Dissolution* forward, I think a lot of these projects probably could have gone higher in edition count. From your answers, it sounds like you're very conscious of finding product-market fit with what you release, which makes sense — it's kind of a necessary evil of releasing art this way. I'm optimistic, as someone who loves when projects shoot for 1,000 or 2,000 editions and really let the algorithm flex, that fx(params) will upend that paradigm a bit and move that window of "what's optimal" outward. So take that as encouragement to experiment a little when that feature finally releases next year — step on the gas and be ambitious with it.
 
+[pool: Sedimentary Dissolution | Sedimentary Dissolution — Landlines Art | ]
+
 Now the question, which might seem unrelated but I think actually is: what's your postmortem on the *Extracurricular Activities* iteration series and how it all played out — the collect-'em-all aspect, the work itself? Did you start with one piece that had a lot of different options behind it and couldn't settle on one, which is why you did the iterations? Do you consider each a sketch, with the final one released as the true project? The only thing we've been able to compare it to is the Ippsketch sketch series, which has a similar mechanism for collecting and occasionally getting reserves or airdrops. So where does it sit in your mind — what was the idea, and how do you think it worked out?
 
 Landlines Art: The idea was for it to be more of a sketch — that's how it started. The algorithm itself, if you explain it in words, is quite straightforward, but I found it produced very interesting results depending on recursion depth and things like that. I was happy with it, and it came together quickly.
@@ -190,6 +198,8 @@ If you want to get into game theory territory, there's that dynamic too — "no 
 
 Will: We interviewed Ciphrd a couple weeks back and talked about that as part of the params feature announcement, and we've covered it in thought-experiment territory since — that's all we can really do until the feature releases. It's so interesting, and impossible to predict what will happen when it launches. We have so few data points — *QQL* and some of the Verse releases that allowed small amounts of control over outputs. Pretty exciting.
 
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | ]
+
 Landlines Art: I do think the idea of selling a seed is interesting too — under the assumption that there's no randomness in the project, and it's purely determined by the parameters you select. As I understand fx, that would be possible, but I think it'd violate the ethos of what fx(hash) is trying to do. Still, it seems technically possible. The idea of selling a hash, with people spending hours curating a very particular look, and other collectors who just want something that looks good — I think it'd be interesting to see that kind of market develop. Maybe not, but it's another possibility, and we definitely saw a bit of that with *QQL*.
 
 Will: Right, they built it into the contract in a way. We have a bunch of rapid-fire wrap-up questions, but before we move on — Trinity, anything else on the project level?
@@ -221,6 +231,8 @@ Will: Have you ever considered going back down that path? In my opinion, that pr
 Landlines Art: Definitely. This is something we haven't touched on at all, but I'm always bashing my head against: how do I create generative art that renders in the browser, on most devices — pretty much never on mobile — in a relatively short time frame? I can think of ways to enhance or build on what I did in that project, but the challenge is always fitting it into a "renders pretty quick" time frame. So yes, I'm definitely interested in exploring that technique more thoroughly. Knowing what I know now, there'd be different, maybe more efficient ways to accomplish that aesthetic — using shaders, whereas what I did for that project was just a bunch of lines, which was obviously very intensive with thousands and thousands of lines involved. So it's something I'm looking into, but I don't want to do something just because everyone else is doing it. That's not a good enough reason on its own.
 
 Trinity: I'll take one rapid-fire too. When you collect work, what do you look for? You have pieces like *Dragons*, *Urban Flora*, and *Grian*, which were huge at the time.
+
+[pool: Dragons | Dragons — William Mapan | ]
 
 Landlines Art: When *Dragons* was coming out, I knew I wanted many of them. Unfortunately, being an effective collector — able to get mints when there's high demand — is quite difficult, and I just wasn't able to pull off getting more than one. I don't remember why, but I definitely wanted more. For a lot of projects, it takes a lot of time to stay on top of what everyone is releasing while also doing your own thing, so it seems like I'm always one step behind. That kind of makes sense, since my primary role isn't collecting — it's creating art. By the time I catch up, the pieces I really want are already at the top of the secondary market and a little less accessible.
 

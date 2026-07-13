@@ -58,6 +58,8 @@ Pierre Casadebeig: Great ideas.
 
 Will: This is why people love the show. Another way you use data — I noticed this looking at *Despair* and some of your other projects — is that in addition to adding noise, you're discarding data. You start from a full set and remove parts of it. Is what's removed replaced algorithmically by code you've written, or is it just gone?
 
+[pool: Despair | Despair — Pierre Casadebaig | ]
+
 Trinity: And is it the same data being removed every time, or does it vary per piece?
 
 Will: How do you decide what to take out?
@@ -74,6 +76,8 @@ Pierre Casadebeig: The one behind me is actually one of the first outputs — it
 
 Trinity: Going back to *Despair* — I know we want to talk about the upcoming collaboration, but this collection has so much variation built in. Was that variation intentional in the curation? Is it a function of different algorithms being used? How did you arrive at such a broad range of interpretations of mountains? Some pieces are almost photorealistic, some are very similar to *Meridian*, and *Polyline Hiking* barely reads as a mountain at all — it's pure interpretation. How did you get to some of these outputs?
 
+[pool: Despair | Despair — Pierre Casadebaig | ]
+
 Pierre Casadebeig: That was the goal for this work with Verse — I work with data, I make mountains, but with this algorithm the simplest output is the most realistic one, with a large number of lines. From there, depending on the sampling locations and the order in which you chain different functions — filter the dataset first and then remove data, or the other way around, then add smoothing — you get a whole range of variations, just from the parameters of those functions.
 
 I could go very realistic, or, at the other extreme, get down to *Polyline Hiking*, which is just two lines per location. The idea was to sample 60 locations across the range and put them in columns — no link to geography, except that if you know the place, it's the Pyrenees, with the Atlantic Ocean to the east and the Mediterranean to the west. Cross a transect through the mountain range and you get a transect of altitude, so the first samples are very quiet, there's more noise in the middle, and it's quiet again at the end. That one's more abstract.
@@ -83,6 +87,8 @@ With Verse, I realized I could do all of that without it being "the same algorit
 That manual control is one thing for a single piece, but it gets much harder when you want each cell to be generative across, say, 100 outputs instead of a short series. That's the main challenge with the new release: how do you guarantee the iterations remain comparable, that the composition across different cells or pages still holds? I'm still learning this. There's a lot of theory in graphic design — grids and so on — but it's hard to know how to actually operate with it. In the end you use a grid and then rely on instinct. Code doesn't help you learn that part.
 
 Will: Let's talk about the upcoming Verse drop — 128 pieces, in collaboration with Tender. It's been a long time coming; I think your collaboration with Adam was announced back when the Tender Pass first sold, at least eighteen months ago, if not longer. Walk us through that journey with *Ridge Regressions*. Were there a lot of starts and stops? How many times did you come close to releasing it before the plan changed? What have the last eighteen months been like working on this?
+
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | ]
 
 Pierre Casadebeig: Maybe the key thing is that the generative art space moves so fast that if you're not putting out a lot of work, you constantly feel behind. When I first discussed this with Adam, we connected through a common collector who was kind enough to introduce us and say Pierre was interested in doing a release with TENDER. My goal was to do long form, which wasn't the norm for me but felt like the right direction. I said, I want to do that, I need to learn JavaScript, I want to use fx(hash), and I need to find a subject that isn't mountains, because of my dependency on data there.
 
@@ -168,6 +174,8 @@ Trinity: Cool.
 
 Will: We usually wrap up with a few rapid-fire questions to get to know you better. One we like to ask: what do you listen to while you work? What kind of music do you like? And feel free to throw in any media recommendations — I actually really enjoyed a French film this year called *After the Fall*.
 
+[pool: After the Fall | After the Fall — Mikkel Hartmann | ]
+
 Pierre Casadebeig: I don't know if you—not in it, but yeah, them too.
 
 Will: It was really good, and a lot of it was in English, which was great for me. What do you like to listen to while you're coding?
@@ -207,6 +215,8 @@ Will: Not yet—he's definitely on the list. Especially after hearing him on Ken
 Pierre Casadebeig: Also Aluan Wang—he makes a lot of interactive art. He doesn't post reactions much, but when he does, I really enjoy his thoughts. I wonder how he sees the movement, since a lot of people here have been around since way before Web3. That's the hard part for newcomers: acknowledging all the development that came before, learning it, and finding our place within that. I'm very curious about the people who've been here a long time.
 
 Will: We've both collected some of his work on fx(hash), but no, we haven't had him on either—he'd be a great guest. Thank you for those suggestions. Lastly, tell us what else might be coming up from you, other than *Ridge Regressions*, which comes out February 6th on Verse. Anything else you're working on that you want to get us excited about? I guess this is one of your two releases of the year, maybe?
+
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | ]
 
 Pierre Casadebeig: Maybe, yeah.
 

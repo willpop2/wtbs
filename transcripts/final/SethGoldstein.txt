@@ -60,6 +60,8 @@ It so happened that the first artist we reached out to was Jeff Davis -- an amaz
 
 That leads into how we got started with *CryptoVenetians* and *CryptoCitizens*. We were preparing for Jeff's opening in the middle of June 2021. Venice Beach is a weird place, full of tourists and foot traffic, and we wondered: what do we do during the daytime to bring people to the gallery we'd just put down, at something like $10,000 a month in rent? It'd be great to bring people in the evening once a week for shows, but how do we keep the gallery busy during the day?
 
+[pool: CryptoVenetians | CryptoVenetians — Bright Moments | ]
+
 The idea was to give away NFTs to people who showed up live, onboard them into Ethereum wallets, help them download MetaMask, teach them how to write down their seed phrase -- so they'd be ready when they came back to the art show in the evening to maybe buy something. It was a pragmatic, entrepreneurial marketing technique to drive foot traffic. As we thought about what kind of NFTs to make, we landed on *CryptoVenetians*, modeled after CryptoPunks -- characters with attributes drawn from the Venice Beach community. Since we were working with Jeff to prepare for his show, he said, "You could do these on Art Blocks. They could be generative."
 
 I said, "What do you mean?" He explained we could live mint these and reveal them on the spot -- people would send a token into the smart contract, and it would generate a unique one-of-one in real time. Lo and behold, in a few weeks we put the project together. We were the 95th project on Art Blocks -- they're all numbered.
@@ -84,6 +86,8 @@ We thought, what if we made 1,000 *Crypto New Yorkers* and went to New York in t
 
 That's when the mint pass concept emerged, very pragmatically, because we'd given away all the *CryptoVenetians* for free — we never sold them. But there was so much interest that we said: what if we mint 1,000 *CryptoNewYorkers* and sell mint passes for 200 of them in advance to pay for us to go, like, Muppets Take Manhattan? We rent a gallery, put on shows. Sure enough, we listed 200 mint passes — I think we called them golden tokens at the time — and sold them for 2 ETH each. ETH was close to $3,000, so that was more than a million dollars. We went to Manhattan, rented a gallery on Wooster Street, subletted apartments for a few months, and pretty much all of us headed to New York.
 
+[pool: CryptoVenetians | CryptoVenetians — Bright Moments | ]
+
 Good things started happening just because we were genuinely enjoying what we were doing, and we were so dedicated to this craft of IRL minting and revealing NFTs on big screens that other artists started to take notice. People like Aaron Penne and Tyler Hobbs came to us and said, I've got a project I think would work really well in a live setting. That's what led to *Rituals* with Aaron Penne and Beretta when we were in Venice, and it's what led to *Incomplete Control* with Tyler Hobbs in December of 2021. Before we knew it, these crypto citizens we were minting became like a passport to other forms of generative art we were exhibiting for third-party artists, not just ourselves. That became our model.
 
 When we moved from New York to Berlin last April, we minted 1,000 Berliners, working with ten different artists, one each night, each minting their own collection of 100 NFTs live IRL. That's what we've carried from Berlin to London to Mexico City, and now, in the biggest way yet, here in Tokyo.
@@ -97,6 +101,8 @@ The other thing you touched on: for creative people, there are times we're comfo
 Trinity: What are some examples of art projects using tokenization successfully? This speaks to the corporatization of the art space too, which isn't a bad thing — it's always been necessary, just expressing itself in new ways. I assume you mean something different from a typical PFP roadmap project?
 
 Seth Goldstein: Right. I'd point to what Tyler Hobbs has done across a number of his projects on Art Blocks, especially *QQL*. *QQL* isn't a company, and it's not just a piece of art either — it's not quite a platform, but it has aspects of all three. There's a very sophisticated set of dynamics aligned through the tokens — those 1,000 *QQL* mint passes, a couple hundred of which have been minted into *QQL* NFTs — that pulled together a lot of different constituencies: parametric artists and collectors alike. Pace, on the traditional side, has been helping showcase his work; Artmatr helped print the *QQLs* Tyler chose into 4-by-5-foot paintings; and Bright Moments was even involved a couple weeks ago in New York, helping people live-mint their *QQL* seeds. There's a lot to unpack, but to me that's a genuinely successful tokenized art project — more artistic than most startups, and more successful than most art projects.
+
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | ]
 
 Trinity: It's the culmination of both.
 
@@ -115,6 +121,8 @@ Trinity: Harbinger tax.
 Seth Goldstein: Harbinger tax, sorry, I was close. *QQLs* don't have that, so one issue is there's no incentive to mint — why not just sit on the optionality of the pass? It becomes too speculative. But when Pace puts on a show, and at a certain time in New York, Tyler is available to sit with you as a collector and go through your seeds, help you choose, and then you reveal those choices together with other collectors at the Pace Gallery in Chelsea one evening — that's a really interesting example, similar to the social context you felt minting the *Charcoal Seed*. We need these real-world experiences and physical frictions to make crypto more successful, make NFTs more successful, and make generative art more useful, memorable, and meaningful. It's not a choice between physical or digital — they're starting to resonate and reinforce each other in really interesting ways.
 
 Trinity: Sitting with Tyler Hobbs in person to mint your *QQL* seed obviously isn't a scalable event, putting my business strategy hat on, but something like what fx(hash) is doing with fx(params) is. It helps when there's that social pressure, or social camaraderie, to really drive it forward. But ultimately what you're pointing to is interactivity. A lot of what we've seen in generative art has just been: click the mint button, get a random output. It's very dopamine-heavy in its execution, but you don't have agency within that. Adding agency, some kind of interactive experience — like going to an in-person Bright Moments event to mint your pass — that's what makes it feel human.
+
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | ]
 
 Seth Goldstein: There's probably a lot of attachment theory work to be done around this. Of all your fx(hash) mints, if you had to choose one or three to hold onto — if you had to let go of everything else on a desert island — what would they be? It's not necessarily the one worth the most based on current floor price. It's the one most meaningful to you. That might be purely economic, but it might also be about where you were in your life, how quickly you found out about it, how well-known the artist was when you minted it. There's a whole bunch of factors in how you value something, and value it as part of your identity — partly economic, but also emotional and social. What's your story, and what's your own roadmap as a collector and as a person?
 
@@ -157,6 +165,8 @@ Seth Goldstein: It depends on the moment, it depends on the artist — we've gon
 Trinity: *Flower Arrangement*?
 
 Seth Goldstein: *Flower Arrangement*. And the other one, the sci-fi one.
+
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | ]
 
 Trinity: *Travelers*.
 

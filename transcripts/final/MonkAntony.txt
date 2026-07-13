@@ -244,8 +244,6 @@ MonkAntony: Yeah, I'd need one of those too.
 
 Trinity: That's just built in. I mean, you two know fx(hash) better than I do -- what would you choose? I'd be curious. I hadn't thought about an infinitely animating piece, but from my collection, probably *Ethereal Microcosm* -- forming bonds with the different types and colors of particles, projecting personality onto them and their activity. We'll see who wins out over the course of ten or twenty years.
 
-[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | ]
-
 MonkAntony: And every day you woke up it would look different, having morphed and evolved into something new. That's a really good choice. How about you, Will?
 
 Will: Let me think -- I wasn't prepared to answer this one myself.
@@ -256,9 +254,9 @@ Trinity: Love it.
 
 Will: Infinitely animating is cool. I'm tempted to say something like *Very Large Array*, since then at least you get audio too -- though you'd need to be able to turn it off and on, since sometimes you want to hear it and sometimes you don't.
 
-[pool: Very Large Array | Very Large Array — Leander Herzog | ]
-
 Trinity: There's *Toccata*.
+
+[pool: Toccata | Toccata — MonkAntony | ]
 
 Will: *Toccata* could be a really nice one -- probably the right answer. The one I personally own isn't my favorite of the musical variations, but one that's right in that pocket, because it degrades. You'd want one that's on a weeks-long degrading process, so you have a nice way to keep track of time. I'll take *Toccata*.
 
@@ -269,8 +267,6 @@ Trinity: Very nice desert island.
 MonkAntony: High quality display.
 
 Trinity: It doesn't have to be a castaway-style desert island -- it can have amenities. Also, technically infinitely animating would be *Hollow*, just to throw that out -- you could see who's visiting the museum today. Or the Ismahelio drop, where you can watch your grasses grow.
-
-[pool: Hollow | Hollow — Jacek Markusiewicz | ]
 
 Will: Oh yeah, that would be a fun one.
 

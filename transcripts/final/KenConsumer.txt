@@ -52,6 +52,8 @@ As a person who also makes art, I had friends in the street art world telling me
 
 Over time I got more interested in other parts of how Tezos works. Then HEN went down, and I was on crypto Twitter and saw Wblut had posted a GIF of this chromatic dazzle thing. I thought, man, that's really awesome — what is this fx(hash)? Oh, it's on Tez, I have some Tez, I'll go buy a few. So I minted a few. Then I saw ToyMento was on there, and Gruub. I recognized some of these names because I'm also involved in generative art over on ETH, and some of those people had dropped there too. So I thought, this is cool, I'll mint some of this and some of that. And I kept thinking: on ETH I just spent like $1,000 to get a work from one of these guys, and here I'm spending like $5 for work from the same artist.
 
+[pool: Chromatic Dazzle | Chromatic Dazzle — Frederik Vanhoutte | ]
+
 Trinity: That's something that's really interesting to me — that difference between prices on ETH and Tezos. From an artist's perspective, where you know you can command a certain price over there, what do you think are some of the drivers that push people to put work on fx(hash) instead? Obviously there's the whole clean-NFT movement, and I understand the move away from ETH for that reason, but the deals you can get here are just astounding.
 
 Will: I have a theory, though I have no idea how to actually prove it. I think fundamentally, the pricing of art between the two chains is driven by a multiplier of the gas fee. Gas on ETH can cost $50 to $150, sometimes more if you're competing on a really hot mint. So for a generative or PFP project, the price has to be some multiple of what the gas is going to cost. You end up with mints priced at 0.2 or 0.5 ETH — on Art Blocks they can be a full ETH to mint. We don't have that issue on Tezos. So artists who come here, who might be used to selling their work for $50 to $100 in a coffee shop or on the street, can price at a level they could never manage on ETH, because there people will look at it and go, "You're charging me $50, but it cost me $250 just to mint it."
@@ -176,6 +178,8 @@ I often buy things because the artist made it. Other times I buy it because I li
 
 From this year, from 2022, I've found that *Palimpsest* is fantastic. I had a piece from *Unruly Unroll*, their very first drop, called *Trails*, and I really liked that. So I kept paying attention to what they were dropping over time, but I hadn't bought anything else from them. Then when I was asleep, they dropped *Palimpsest*, and man, I was super bummed. I woke up and the price was like $50. I was low on Tez and thought, dang, I can't afford this. But the price came back down, I got some Tez, and I ended up getting one—not at the floor, though. My wife and I went through and looked at a bunch. She helps me curate our collection and what goes into the vault—if she doesn't like something, generally it doesn't go in, though there are a few things I like that she doesn't and vice versa. When we saw *Polymythia*, we looked at them and thought, this is great. We chose one we really liked and vaulted it.
 
+[pool: Palimpsest | Palimpsest — Unruly Unroll | ]
+
 This year's actually been pretty good so far, interestingly.
 
 It's slowed down—there's a lot more art, so it's a little more difficult to pick through now. Luckily, in the price-discussion channel there are some pretty good eyes. There are people I can look at and go, okay, that person likes that for whatever reason, and they help me figure things out—some of them know about artists I've never heard of. General is a mess for me. I can't really go into general very much on the Discord because it's too difficult to pick through.
@@ -234,9 +238,9 @@ KenConsumer: Everything Bigola makes, I really like. The first *Murmurations* wa
 
 I've already mentioned *Clue*, *Palimpsest*, and *Chromatic Dazzle* — I still think *Chromatic Dazzle* plays into that nostalgia idea, where the first thing that gets you into something becomes the thing you're most attached to. That was what got me into this. *Groobz Wave*, from that same first wave of things, is also fantastic — I can just put it on and let it flow. It's like looking at an alien landscape.
 
-And back to Acromats — Tingle's *Unicorn Cotton Candy* never really caught on for whatever reason, but it should have. It's beautiful, with some really great variation. I minted a bunch, sold some, then bought more on secondary before he dropped *Fall*. *Fall* is fantastic — I don't know if you've seen it over on ETH, but it's really, really good. Tingle makes lovely work, and that piece in particular is excellent.
+[pool: Chromatic Dazzle | Chromatic Dazzle — Frederik Vanhoutte | ]
 
-[pool: Onda | Onda — Rudxane | ]
+And back to Acromats — Tingle's *Unicorn Cotton Candy* never really caught on for whatever reason, but it should have. It's beautiful, with some really great variation. I minted a bunch, sold some, then bought more on secondary before he dropped *Fall*. *Fall* is fantastic — I don't know if you've seen it over on ETH, but it's really, really good. Tingle makes lovely work, and that piece in particular is excellent.
 
 Will: Trinity, anything you want to add before we close it out?
 

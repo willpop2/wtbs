@@ -162,6 +162,8 @@ Trinity: I think the mechanics were spot on. Some people said it doesn't feel as
 
 Jamie Gourlay: The vast majority of things I've bought on fx(hash), I've bought because I really like them and think they're some of the most interesting pieces in a series. I struggle to see the benefit in not giving people a choice, when so many people end up with things they don't like and have to flip just to find something they do. Melissa was a little worried that people would perceive the sparser, emptier outputs as rare and everyone would end up choosing those. But it worked out beautifully—I love the series as a whole. There's so much diversity, and it's amazing how differently people responded to different parts of it. I wouldn't say there's one overriding "type" of *Cosmic Ray*—they're all pretty different.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | ]
+
 Trinity: Do you have any stats on how many were generated or saved by people in the week leading up to the mint?
 
 Jamie Gourlay: *QQL* had that feature where you could generate 100 at a time and pick your favorites—we probably should have done that too, it would have saved people a lot of time. Maybe next time. But I think we had 15,000 to 16,000 saved.
@@ -200,9 +202,9 @@ Jamie Gourlay: At risk of contradicting everything I've just said — and this i
 
 Obviously there was a lot of concern afterward that the supply was going to be problematic. Michael and I were texting just before New Year's debating this, and I stand by this — it's not just because of *Carbon Capture* — but Warhol became Warhol partly because his supply helped him become Warhol. Everyone was able to own one of his prints; it helped get him out there. How exciting it is to own a piece by an artist is a function of how famous that artist is. Zancan is a genius marketer, and I feel like that plus big supply is only going to help him get out there. We sold works to 2,500 people that week. Yes, people feel he's flooded his market, but I see it as just another series — if he did another fifteen series, sure, I'd feel my series was being diluted, but it's been diluted by one.
 
-Coming back to the Warhol thing: I suspect in the long run this just helps get his name out there more. Warhol's Marilyn canvases sell for $250 million because he's the biggest name in the world. Maybe *Carbon Capture* will be Zancan's Warhol prints, and *Garden, Monoliths* will be the Marilyn canvases. Who knows? As someone who owns his work, it doesn't concern me at all. But I could well be wrong.
+[pool: Carbon Capture | Carbon Capture — Zancan | ]
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+Coming back to the Warhol thing: I suspect in the long run this just helps get his name out there more. Warhol's Marilyn canvases sell for $250 million because he's the biggest name in the world. Maybe *Carbon Capture* will be Zancan's Warhol prints, and *Garden, Monoliths* will be the Marilyn canvases. Who knows? As someone who owns his work, it doesn't concern me at all. But I could well be wrong.
 
 Will: Look at another recent project that was kind of an open edition — *Friendship Bracelets* on Art Blocks. Anyone who'd engaged with Art Blocks with a wallet got two for free, and there's something like 30,000 of them. If those can approach a 1 ETH floor at that quantity over time, I think it's really just a function of the total market we have and the number of collectors we have. Ten thousand, or wherever it ended up — that's a lot for generative art right now, because there aren't that many people collecting generative art. But there are a lot of people collecting NFTs generally — enough to support multiple 10,000+ PFP projects and something like *Friendship Bracelets*. So I'm not so worried about it in the long run. It's definitely caused some people's brains to get a little deranged, though.
 
@@ -231,6 +233,8 @@ Trinity: Going back to the parallels between these two open editions, or pseudo-
 Jamie Gourlay: I'm so proud of that. That makes me so happy.
 
 Trinity: Compared to *Carbon Capture*, it speaks to you, the collector, at the collection level — what it means, what it stands for, what it represents. There's a lack of that personal connection to the individual piece with *Carbon Capture*, unless you happen to get a black one or a pink one, or you collected one on secondary and think, "yes, this is the thing I was looking to get." It speaks to how personal collecting can be, outside of any minting or market dynamics.
+
+[pool: Carbon Capture | Carbon Capture — Zancan | ]
 
 Jamie Gourlay: It's so hard to compare the two as projects. I got a couple of Melissas and I hope to hold onto them forever. I'm holding the Zancans for a different reason — less because I feel they're special artworks, more because they're mementos of a point in history for me personally. That's not to say there aren't some really special ones within the series, but they're obviously not all grails. They're just different.
 
@@ -273,6 +277,8 @@ Trinity: There's also the ownership angle — that's where people are able to un
 Jamie Gourlay: A few people, myself included, experienced something quite unexpected with *Hypnagogic*, Rudxane's piece, in December — seeing it framed, on a gallery wall, feeling how important it was. I tried to buy it and failed, missed out annoyingly, but it didn't feel like buying a JPEG the way it does on fx(hash). That was totally unexpected. Seeing it physically made it feel special, more real, more exciting.
 
 Trinity: Your tweet — the video of the cosmic rays as you walked into the gallery — in 100% pure honesty, that was the thing that sold me. Obviously it's great work objectively, but that was the moment I thought, I have to have that. I want the experience of walking into my space and being awed every time I see it — what was that, five feet tall?
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | ]
 
 Jamie Gourlay: Yeah.
 
@@ -387,8 +393,6 @@ Jamie Gourlay: Yeah, they're awesome.
 Trinity: I know it's representational, but whatever.
 
 Jamie Gourlay: Yeah, they're great. Thomas Noya, love — I'm just looking at *400 Flips*, I love this series. I don't really understand what's happening with *Everlasting Building*, but I got a few of them. They're intriguing, and I really like them.
-
-[pool: 400 Flips | 400 Flips — Thomas Noya | ]
 
 Will: They were super hot around this time last year, or even a little earlier.
 

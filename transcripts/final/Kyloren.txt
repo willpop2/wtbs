@@ -106,15 +106,17 @@ I think both smaller collections and larger ones will do well — each will have
 
 Will: Taking the long view — some projects bled a lot this year, several of which you hold a lot of, some you're even the top holder of. Things like *Sequence* and *Repeater*, to name a couple, have dropped a lot, partly because of the price of tez, but also because their floors haven't kept pace. Do you see a future where those come back, or do you think they've started to become a bit forgotten as volume shifts to other projects?
 
+[pool: Repeater | Repeater — Michael Connolly | ]
+
 Kyloren: I can't predict the future, but I still love those projects and believe in them completely. *Repeater* is one of my favorites — not just because I'm biased as the top holder, but because of what the artist did with the palettes. It's genuinely unique; you don't see that anywhere else, and some of the shapes that came out of it are quite unusual.
 
 It actually launched the same day as *Garden, Monoliths* — everyone loved GM, obviously it didn't mint out that day. Back then fx(hash) still had breaks between minting windows, so I had to wait for the next one and then minted as many as I could, partly because I'd missed out on the artist's collection on Art Blocks and loved it so much. Once he launched on fx(hash), I wanted as much of it as I could get.
 
-[pool: Window | Window — Jan Robert Leegte | ]
-
 I still love the art, and I think eventually people will recognize it — it was one of the early collections, and it doesn't have that large a supply, maybe 300 to 500 pieces. But there are so many great collections now, many of the newer ones I don't even own. They'll keep coming. What I hope eventually matters is which collections were both good *and* early — though obviously great collections still to come will have value too. But for anything to hold value, you need more and more collectors who love this kind of art. People have limited money to spend, so they can't own everything. I'm still holding my *Repeater*s.
 
 Another example is *Defrag* by Toxy — one of the OG collections that did very well. That raises the old debate about static versus dynamic art — art that's interactive or video-based, unlimited in duration like *Defrag*, versus static work. You really need to spend time with it to understand what it's about, not just glance at the thumbnail, so maybe it trades at a slight discount right now. But eventually, when we have screens in our homes made specifically for displaying art — as ubiquitous as our phones or laptops — interactive art like this could become more valuable. Toxy himself has been a pioneer in coded art, and this was his first collection on fx(hash). I just thought of it today scrolling through my earliest mints. I'll let the market do its thing — I'm just going to hold on to pieces I believe are great art.
+
+[pool: Defrag | Defrag — toxi | ]
 
 Will: Toxy's a great example of a project whose price has stayed pretty flat in tez terms. It had a couple of runs over the year, but nowhere near enough to keep pace in USD terms. Still super affordable, and one I look at all the time when I'm buying.
 
@@ -123,8 +125,6 @@ Kyloren: One thing I forgot to mention — a lot of artists are minting a lot of
 I've seen artists with more than 10, 20, even 25 collections, using fx(hash) as a place to experiment. In the end, quality shows. Even if an artist mints ten-plus projects, collectors will gravitate to their best work, and the rest won't hold as much value. That's true of everything — collectors buy what they like, not purely for speculation. Speculation is temporary; what lasts is great art — something new, something that looks cool, something with a story that resonates.
 
 That's what I look for. When fx(hash) first launched, everything was new and speculative, so I bought pretty much everything. Now I try to be more selective. Even with artists whose other projects I don't own — you mentioned I don't own *Ethereum Microcosm* by Ciphrd. I think I owned one at some point and sold it, but I like *RGB* much more, so that's where I've concentrated my collecting. You also mentioned I don't own *Uninhabitable* — I did own three or four at some point, but I love that artist's other collections and hold a lot of those instead. So in a lot of cases, I don't own everything from an artist — just the work I connect with.
-
-[pool: RGB | RGB — ciphrd | ]
 
 Trinity: Going through your overall collecting thesis — obviously collecting great art is a big part of it, but how much is also about collecting from artists you believe in? You're the number-one holder of some seemingly random items — for example, you might be the top collector of Chris McCully's *Bezier's Four Ways*, his first project. You're also the top holder of work by Lars Wander, who's had huge runs, and of Piter Pasma, people who've released a lot on Art Blocks. How do you weigh art versus artist — not in a controversial way, just from a collecting standpoint?
 
@@ -180,19 +180,17 @@ You see things mint out, and then flippers immediately sell higher on the market
 
 It really is tough to keep track of all the drops, though. I was just checking the highest volume over the last seven days, and there's a project by Anna Lucia, *Action System*, which is pretty cool — a small 50-edition work that's done well. It actually minted out on my birthday, so I wasn't online for the Dutch auction. I like that collection — maybe at some point I'll get in on that, and on *September* too.
 
+[pool: September | September — Tyler Boswell | ]
+
 Will: I'll send you a picture of my framed Coronados. Maybe that'll get you interested in that project.
 
 Kyloren: Yeah, tell me more about the Coronados. What's this all about?
-
-[pool: Coronado | Coronado — Jeres | ]
 
 Will: Maybe a fun question as we wrap up: are there any projects you went really hard on, where you loved the art or the artist, and were surprised the market didn't agree?
 
 Kyloren: There are a few. One is the unicorns. I thought they were going to be like the PFPs of fx(hash), and it turned out they weren't. There was a frenzy in the beginning, and I collected a whole bunch — I don't regret it, I probably spent 1,000 tez on it or so, and I've hedged my bets, so I'm okay.
 
 There's another project called *Window* by Damien Seguin, one of the earliest projects. I really liked it, and it's way down from where it used to be. Sometimes that's availability bias — at the time you only had a few projects to choose from, and a lot of scams were being minted since fx(hash) was an open platform. So anything even remotely good, or by a known artist, was already pumping hard within a few months. As more art becomes available, the market naturally gravitates toward what's genuinely amazing — it's not really people thinking about it more, it's just the market doing its thing.
-
-[pool: Window | Window — Jan Robert Leegte | ]
 
 There's another project I thought was pretty cute — I forget what it's called. I mentioned it on Toxy. One second.
 
@@ -208,9 +206,9 @@ Will: Yep.
 
 Kyloren: Another early project is *Loom* by Andreas Rau — again, a great artist, and I think it's stayed pretty stable around its original price. Great project, the texture really comes through, it doesn't look coded at all. As for ones that got the recognition they deserved, *Contrapuntos* has done really well, even though it's a large collection. Another one I like is by Machio — I forget the name.
 
-[pool: Loom | Loom — Anna Lucia | ]
-
 Will: *Shattered Moons*?
+
+[pool: Shattered Moons | Shattered Moons — Lionel Radisson | ]
 
 Kyloren: Yeah, I like *Shattered Moons* as a collection, but I don't think a lot of action has happened on it recently.
 
@@ -224,6 +222,8 @@ Will: *Kingdom of U2*.
 
 Kyloren: Yeah, *Kingdom of U2* — I thought that was a pretty cool collection too. *Hash Cities* I love, because the moons change over time. Collections like that have done really well on Ethereum — *Gazers*, for example, has done really well recently. *Hash Cities* is beautiful to look at, but it also changes with time, and there's a special secret date when there are fireworks and explosions. What else am I a big owner of? Maybe we can talk about those.
 
+[pool: Hash Cities | Hash Cities — Yazid | ]
+
 Will: *Contra*, definitely — you're the top holder with 27, which is insane.
 
 Trinity: *Gossamer* is a big one too, especially because Lars Wander is having what we might call a moment right now, with a bunch of his projects pumping to $1,000.
@@ -233,6 +233,8 @@ Kyloren: Those used to be 2 tez.
 Trinity: What made you go in on them?
 
 Kyloren: If you look at my OBJKT profile, there are a couple of early works by Lars Wander that I own. So it was really about knowing what this artist was capable of, not the *Gossamer* algorithm itself. For that, I have to thank TheFunnyGuys, because he posted about Lars — he'd probably bought Lars's first work on Hic Et Nunc or OBJKT. I saw it on my Twitter feed, immediately loved it, and went in. Then Lars eventually dropped on fx(hash), and at that time nobody really knew who he was. I just knew he was capable of amazing art, so I thought, it's a great artist, it's $2, I'm going to buy as much as I can. It worked out, but it happened purely because of information asymmetry.
+
+[pool: Gossamer | Gossamer — Lars Wander | ]
 
 That's exactly what I was discussing with TheFunnyGuys — what's so exciting about fx(hash) is the information asymmetry. Everyone on Ethereum had no idea this was going on. Eventually, when they find out and those collectors come in, this is going to be another Art Blocks, where a piece bought for one tez goes to 100 or even 1,000 times that, just because people didn't know about it.
 

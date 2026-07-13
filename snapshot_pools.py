@@ -131,36 +131,47 @@ def owner_of_token(base: str, contract: str, tid: str) -> str:
         return ""
 
 
-def snapshot_work(base: str, contract: str, project=None) -> list:
+def snapshot_work(base: str, contract: str, project=None, name_like=None) -> list:
     """Pull a collection's pieces + owners. `project` scopes an Art Blocks-style
-    shared contract to one project (token id = project*1e6 + edition)."""
+    shared contract to one project (token id = project*1e6 + edition). `name_like`
+    keeps only tokens whose name contains it — guards against a shared/multi-work
+    contract (e.g. a raster ETH work on a Manifold-style contract)."""
     lo = project * 1_000_000 if project is not None else None
     hi = (project + 1) * 1_000_000 if project is not None else None
-    toks, page = [], None                      # [(tokenId, edition-or-id, img)]
+    toks, page, scanned = [], None, 0          # [(tokenId, edition-or-id, img)]
     start = str(lo) if lo is not None else None
-    while len(toks) < CAP:
+    while len(toks) < CAP and scanned < 4000:
         u = f"{base}/getNFTsForContract?contractAddress={contract}&withMetadata=true&limit=100"
         if start:
             u += f"&startToken={start}"
         if page:
             u += f"&pageKey={page}"
-        d = _get(u)
+        try:
+            d = _get(u)
+        except Exception:
+            break                                  # unreachable contract/chain -> return what we have
         done = False
         for n in d.get("nfts", []):
+            scanned += 1
             tid = int(n.get("tokenId"))
             if hi is not None and tid >= hi:
                 done = True
                 break
+            nm = n.get("name") or ""
+            if name_like and name_like.lower() not in nm.lower():
+                continue
             img = (n.get("image") or {}).get("cachedUrl") or (n.get("image") or {}).get("originalUrl")
             if not img:
                 continue
-            mm = re.search(r"#(\d+)", n.get("name") or "")        # edition from the name
+            mm = re.search(r"#(\d+)", nm)                         # edition from the name
             edition = mm.group(1) if mm else (str(tid - lo) if lo is not None else str(tid))
             toks.append((str(tid), edition, img))
         page = d.get("pageKey")
         if done or not page:
             break
         time.sleep(0.2)
+    if name_like and not toks:                 # filter matched nothing -> dedicated contract
+        return snapshot_work(base, contract, project, name_like=None)
     # owners: per-token for a project slice, else the whole-contract map
     if project is not None:
         from concurrent.futures import ThreadPoolExecutor
@@ -191,6 +202,38 @@ def snapshot_objkt(creator: str, query: str) -> list:
          % (creator, esc, CAP))
     items = []
     for t in objkt_gql(q):
+        c, tid, name = t["fa_contract"], t["token_id"], t.get("name") or ""
+        h = (t.get("holders") or [{}])[0]
+        hd = h.get("holder") or {}
+        addr = h.get("holder_address", "")
+        owner = hd.get("tzdomain") or hd.get("alias") or ((addr[:5] + "…" + addr[-4:]) if addr else "")
+        m = re.search(r"#(\d+)", name)
+        items.append({"t": m.group(1) if m else tid,
+                      "img": f"https://assets.objkt.media/file/assets-003/{c}/{tid}/thumb400",
+                      "o": owner, "s": f"https://objkt.com/tokens/{c}/{tid}"})
+    return items
+
+
+# fx(hash) shared gentk contracts — a name scope is mandatory (whole-contract = every project)
+FX_SHARED = {"KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE",   # v1
+             "KT1U6EHmNxJTkvaWJ4ThczG4FSDaHC21ssvi",   # v2 gentk
+             "KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr"}    # v3 / fx(params)
+
+
+def snapshot_objkt_fa(contract: str, query: str) -> list:
+    """Tezos collection by fa_contract (from a raster tezos:.../KT1 contractRef),
+    scoped by work name for shared contracts like the fx(hash) gentks. Falls back to
+    the whole contract only for dedicated (non-shared) contracts."""
+    def q(name_clause):
+        return ('{ token(where: {fa_contract: {_eq: "%s"}%s}, limit: %d, order_by: {token_id: asc}) '
+                '{ fa_contract token_id name holders(where: {quantity: {_gt: "0"}}, limit: 1) '
+                '{ holder_address holder { alias tzdomain } } } }' % (contract, name_clause, CAP))
+    esc = query.replace('"', '\\"')
+    # name-scope only: a whole-contract fallback pulls garbage from any shared contract
+    # (fx(hash) gentks, objkt editions like KT1RJ6Pbj…) so we skip rather than mis-attribute.
+    rows = objkt_gql(q(', name: {_ilike: "%s #%%"}' % esc))
+    items = []
+    for t in rows:
         c, tid, name = t["fa_contract"], t["token_id"], t.get("name") or ""
         h = (t.get("holders") or [{}])[0]
         hd = h.get("holder") or {}
@@ -251,7 +294,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="single episode slug")
     args = ap.parse_args()
-    base = None
+    key = None
     POOLS.mkdir(exist_ok=True)
 
     ALL = merged_config()
@@ -260,15 +303,21 @@ def main() -> None:
         works = ALL.get(slug, {})
         data, artists, seen = {}, {}, set()
         for work, cfg in works.items():
-            sig = (cfg["source"], cfg.get("contract"), cfg.get("project"), cfg.get("creator"), cfg.get("query"))
+            sig = (cfg["source"], cfg.get("contract"), cfg.get("project"), cfg.get("creator"),
+                   cfg.get("query"), cfg.get("name_like"))
             if sig in seen:          # same collection under a different label -> skip dup
                 continue
             seen.add(sig)
             if cfg["source"] == "alchemy":
-                base = base or f"https://eth-mainnet.g.alchemy.com/nft/v3/{_key()}"
-                items = snapshot_work(base, cfg["contract"], cfg.get("project"))
+                sub = {"eth": "eth-mainnet", "base": "base-mainnet", "arb": "arb-mainnet",
+                       "opt": "opt-mainnet", "matic": "polygon-mainnet"}.get(cfg.get("chain", "eth"), "eth-mainnet")
+                key = key or _key()
+                items = snapshot_work(f"https://{sub}.g.alchemy.com/nft/v3/{key}",
+                                      cfg["contract"], cfg.get("project"), cfg.get("name_like"))
             elif cfg["source"] == "objkt":
                 items = snapshot_objkt(cfg["creator"], cfg["query"])
+            elif cfg["source"] == "objkt_fa":
+                items = snapshot_objkt_fa(cfg["contract"], cfg["query"])
             elif cfg["source"] == "fxhash":
                 items = snapshot_fxhash(cfg["project"])
             else:
