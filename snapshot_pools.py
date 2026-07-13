@@ -312,6 +312,9 @@ def main() -> None:
     slugs = [args.only] if args.only else list(ALL)
     for slug in slugs:
         works = ALL.get(slug, {})
+        if not works:            # no config -> don't clobber an existing pool with an empty one
+            print(f"{slug}: no config — skipping (existing pool kept)")
+            continue
         data, artists, seen = {}, {}, set()
         for work, cfg in works.items():
             sig = (cfg["source"], cfg.get("contract"), cfg.get("project"), cfg.get("creator"),
