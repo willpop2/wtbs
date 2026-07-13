@@ -65,12 +65,12 @@ em{font-style:italic}
 .chip.on{background:var(--k);color:var(--w)}
 .chip:hover{background:var(--acid);color:var(--k)}
 .chip.on:hover{color:var(--acid)}
-.rows .r{display:grid;grid-template-columns:70px minmax(160px,1fr) 1.5fr 160px 70px 40px;align-items:stretch;border-bottom:3px solid var(--k)}
+.rows .r{display:grid;grid-template-columns:54px minmax(150px,1fr) 1.5fr 160px 70px 40px;align-items:stretch;border-bottom:3px solid var(--k)}
 .rows .r>div{padding:16px 14px;border-right:3px solid var(--k);display:flex;align-items:center}
 .rows .r>div:last-child{border-right:none;justify-content:center}
 .rows .r:hover{background:var(--k);color:var(--w)}
-.rows .i{font-family:var(--mono);font-size:14px}
-.rows .nm{font-weight:700;font-size:22px;letter-spacing:-.01em;text-transform:uppercase}
+.rows .r .i{font-family:var(--mono);font-size:12px;opacity:.5;border-right:none;justify-content:flex-end;padding-right:0}
+.rows .r .nm{font-weight:700;font-size:22px;letter-spacing:-.01em;text-transform:uppercase;padding-left:10px}
 .rows .tt{font-size:14px;line-height:1.25}
 .rows .ty{font-family:var(--mono);font-size:12px;text-transform:uppercase}
 .rows .du{font-family:var(--mono);font-size:13px}

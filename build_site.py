@@ -181,6 +181,7 @@ def load_curated() -> dict:
     if p.exists():
         for r in csv.DictReader(p.open(encoding="utf-8")):
             out[(r.get("slug") or "").strip()] = {
+                "guest": (r.get("guest") or "").strip(),
                 "guest_type": (r.get("guest_type") or "").strip(),
                 "display_title": (r.get("display_title") or "").strip(),
             }
@@ -366,13 +367,13 @@ def main() -> None:
             continue
         m = meta.get(r["title"], {})
         dt = m.get("dt")
-        guest = clean_guest(r["guests"])
+        cur = curated.get(r["slug"], {})
+        guest = cur.get("guest") or clean_guest(r["guests"])
         raw = src.read_text(encoding="utf-8")
         bio = (ROOT / r["bio_file"]).read_text(encoding="utf-8") if (ROOT / r["bio_file"]).exists() else ""
         role, platform = role_and_platform(r["title"], r["guests"], bio + " " + raw[:3000])
         asr_path = RAW_ASR / f"{r['slug']}.txt"
         asr = asr_path.read_text(encoding="utf-8") if asr_path.exists() else ""
-        cur = curated.get(r["slug"], {})
         dtitle = cur.get("display_title") or display_title(r["title"], guest)
         gtype = cur.get("guest_type") or guest_type(role, bio)   # curated multi-value, else auto
         episodes.append({

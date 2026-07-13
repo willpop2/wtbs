@@ -1,83 +1,83 @@
-slug,guest_type,display_title
-McLlama,"Collector, Artist",Turning Pokemon Cards into fx(hash) Grails
-Remnynt,Artist,Cave Painting In The Digital Age
-CCDDBB,Artist,Following The Line
-Haiver,Artist,Artist Commons: Art Whispering with Haiver
-Jammasterlee,Artist,Can't Live A Normal Life
-Pronoia,Collector,Big Yapping about $fxh with Pronoia
-Ciphrd_Cosimo,Platform,Navigating The New $fxh Token Protocol
-Zancan,Artist,Beautiful Utopias
-NukCZ,Collector,Getting Art Focused
-StevePikelny,Artist,Holistic Internet Experience
-KevinEsherick,Artist,On Generative Anesthetics
-MimiNguyen,Platform,How To Start A Gallery On Another Continent
-TravessSmalley,Artist,"Zoom In, Zoom Out"
-JohnGerrard_WhitneyHart,Artist,Public Art & The Dance Between The Virtual and the Real
-JamesMerrill,Artist,Making Generative Art Less Random
-BjrnStaal,Artist,Entangled Cities
-ErickCalderon,"Platform, Artist",Magic Is Not Real
-AlejandroCampos,Artist,Generative Art is a Website
-IskraVelitchkova,Artist,The Distance of a Bird
-RichPoole_RickCrane,Artist,Uncompromising Collaborations
-ErikSwahn,Artist,Computational Creativity
-JamieGourlay,Platform,Evolving Verse
-ErickCalderon_2,"Platform, Artist",Building The Next Wave of GenArt Lovers
-NicolasStreschinsky,Platform,What Is Etherlink?
-JacekMarkusiewicz,Artist,"Baudrillard, Blockchains & Barbarians"
-KjetilGolid,Artist,Structural Complexity Through Visual Clarity
-JanRobertLeegte,Artist,Sculpting The Web
-LoVid,Artist,Feeling Infinity
-PierreCasadebeig,Artist,Minimum Viable Mountain
-FrankManzano_ArtieHandz,Artist,Perfection Isn't Interesting
-BrePettis,Collector,The Cult of Generative Art
-KimAsendorf,Artist,The Aesthetic of a Pixel
-UltimateGuide,Platform,Your Ultimate Guide to fx(hash) 2.0 w/ Ciphrd & Adam Berninger
-LukeShannon,Artist,Waiting To Sit
-MarcelSchwittlick,Artist,Cursor Lines & Drawing Machines
-SusannahMaybank,Platform,Physicals in a Digital Art World
-WilliamMapan,Artist,Translating Hand to Code
-NatEmodi,Artist,Building The Generative Bazaar
-SimonSays,Collector,Helping Artists Achieve Their Goals
-MayaMan,Artist,There Is No Offline
-Artnome,"Platform, Collector",A Different Kind Of Nerd
-Ciphrd,Platform,Unlocking A Generative Future
-ZachLieberman,Artist,Living With Images
-HarveyRayner,Artist,Creating Decentralized Art
-SashaStiles_NathanielStern,Artist,The Technology of Poetry
-AndreasGysin,Artist,Digital. Mechanical. Kinetic. Materialized
-MonkAntony,"Platform, Collector",Telling the Story of Generative Art
-ValrieWhitacre,Platform,A New Art Movement
-Ozzie,Platform,No Experts
-CoryHaber,Artist,Every Day Obsession
-SethGoldstein,Platform,Peak Bright Moments
-Rudxane,Artist,Imperfect Perfectionism
-Lonliboy,Collector,Rabbit-Hole of Passion
-Jeres,Artist,Brute Forcing Beauty
-ThomasNoya,Artist,Following The Errors
-JamieGourlay_2,Platform,Legitimizing The Space
-MelissaWiederrecht,Artist,Throwing Color Around
-Kyloren,Collector,Information Asymmetries
-EmilCorsillo_IraGreenberg,"Platform, Artist",What Is Long-Form Generative A.I. Art?
-Nudoru,Artist,"Building Tools, Solving Puzzles"
-Bayamese,Collector,Who's Mr. Tezos?
-ChrisMcCully,Artist,Tuning The Frequency
-LandlinesArt,Artist,What Landlines Art Is
-ciphrd_2,Platform,The First Year of fx(hash)
-Zeneca_Jaime,Collector,Left-Brained Art
-LeanderHerzog,Artist,Creating Infinite Systems
-LiamEgan,"Platform, Artist","Coder, Artist, Sheriff, Mod"
-AndreasRau_MarceloSoriaRodriguez,Artist,Encoding Emotion
-LeMonde2D,Collector,Building The Museum
-LisaOrth,Artist,Always Moving Forward
-AJBerni,Platform,Hooked on Art
-IvonaTau,Artist,Exploring In-Between States
-KRPDMDAO,Collector,Buying Through the Bear Market
-AnnaLucia,Artist,The Importance of Color
-PiterPasma,Artist,Playing Code Golf
-ClownVamp,"Collector, Artist",Interview with ClownVamp
-AmyGoodchild,Artist,Interview with Amy Goodchild
-Ciphrd_EndOfBeta,Platform,Ciphrd End of Beta
-Kaloh,Platform,Interview with Kaloh
-MJLindow,Artist,Interview with MJLindow
-abstractment,Artist,Investigating Clews
-KenConsumer,"Collector, Artist",Breaking G L A S S
+slug,guest,guest_type,display_title
+McLlama,McLlama,"Collector, Artist",Turning Pokemon Cards into fx(hash) Grails
+Remnynt,remnynt,Artist,Cave Painting In The Digital Age
+CCDDBB,CCDDBB (Claudio Dalla Bernardina),Artist,Following The Line
+Haiver,Haiver,Artist,Artist Commons: Art Whispering with Haiver
+Jammasterlee,Jammasterlee,Artist,Can't Live A Normal Life
+Pronoia,Pronoia,Collector,Big Yapping about $fxh with Pronoia
+Ciphrd_Cosimo,Ciphrd & Cosimo,Platform,Navigating The New $fxh Token Protocol
+Zancan,Zancan,Artist,Beautiful Utopias
+NukCZ,NukCZ,Collector,Getting Art Focused
+StevePikelny,Steve Pikelny (Stevie P),Artist,Holistic Internet Experience
+KevinEsherick,Kevin Esherick,Artist,On Generative Anesthetics
+MimiNguyen,Mimi Nguyen,Platform,How To Start A Gallery On Another Continent
+TravessSmalley,Travess Smalley,Artist,"Zoom In, Zoom Out"
+JohnGerrard_WhitneyHart,John Gerrard & Whitney Hart,Artist,Public Art & The Dance Between The Virtual and the Real
+JamesMerrill,James Merrill,Artist,Making Generative Art Less Random
+BjrnStaal,Bjørn Staal,Artist,Entangled Cities
+ErickCalderon,Erick Calderon,"Platform, Artist",Magic Is Not Real
+AlejandroCampos,Alejandro Campos,Artist,Generative Art is a Website
+IskraVelitchkova,Iskra Velitchkova,Artist,The Distance of a Bird
+RichPoole_RickCrane,Rich Poole & Rick Crane,Artist,Uncompromising Collaborations
+ErikSwahn,Erik Swahn,Artist,Computational Creativity
+JamieGourlay,"Jamie Gourlay, Founder of Verse",Platform,Evolving Verse
+ErickCalderon_2,Erick Calderon,"Platform, Artist",Building The Next Wave of GenArt Lovers
+NicolasStreschinsky,Nicolas Streschinsky,Platform,What Is Etherlink?
+JacekMarkusiewicz,Jacek Markusiewicz,Artist,"Baudrillard, Blockchains & Barbarians"
+KjetilGolid,Kjetil Golid,Artist,Structural Complexity Through Visual Clarity
+JanRobertLeegte,Jan Robert Leegte,Artist,Sculpting The Web
+LoVid,LoVid (Tali Hinkis & Kyle Lapidus),Artist,Feeling Infinity
+PierreCasadebeig,Pierre Casadebeig,Artist,Minimum Viable Mountain
+FrankManzano_ArtieHandz,Frank Manzano & Artie Handz,Artist,Perfection Isn't Interesting
+BrePettis,Bre Pettis,Collector,The Cult of Generative Art
+KimAsendorf,Kim Asendorf,Artist,The Aesthetic of a Pixel
+UltimateGuide,Ciphrd & Adam Berninger,Platform,Your Ultimate Guide to fx(hash) 2.0 w/ Ciphrd & Adam Berninger
+LukeShannon,Luke Shannon,Artist,Waiting To Sit
+MarcelSchwittlick,Marcel Schwittlick,Artist,Cursor Lines & Drawing Machines
+SusannahMaybank,Susannah Maybank,Platform,Physicals in a Digital Art World
+WilliamMapan,William Mapan,Artist,Translating Hand to Code
+NatEmodi,Nat Emodi,Artist,Building The Generative Bazaar
+SimonSays,SimonSays,Collector,Helping Artists Achieve Their Goals
+MayaMan,Maya Man,Artist,There Is No Offline
+Artnome,Artnome (Jason Bailey),"Platform, Collector",A Different Kind Of Nerd
+Ciphrd,Ciphrd,Platform,Unlocking A Generative Future
+ZachLieberman,Zach Lieberman,Artist,Living With Images
+HarveyRayner,Harvey Rayner,Artist,Creating Decentralized Art
+SashaStiles_NathanielStern,Sasha Stiles & Nathaniel Stern,Artist,The Technology of Poetry
+AndreasGysin,Andreas Gysin,Artist,Digital. Mechanical. Kinetic. Materialized
+MonkAntony,MonkAntony,"Platform, Collector",Telling the Story of Generative Art
+ValrieWhitacre,Valérie Whitacre,Platform,A New Art Movement
+Ozzie,Ozzie,Platform,No Experts
+CoryHaber,Cory Haber,Artist,Every Day Obsession
+SethGoldstein,Seth Goldstein,Platform,Peak Bright Moments
+Rudxane,Rudxane,Artist,Imperfect Perfectionism
+Lonliboy,Lonliboy,Collector,Rabbit-Hole of Passion
+Jeres,Jeres,Artist,Brute Forcing Beauty
+ThomasNoya,Thomas Noya,Artist,Following The Errors
+JamieGourlay_2,Jamie Gourlay,Platform,Legitimizing The Space
+MelissaWiederrecht,Melissa Wiederrecht,Artist,Throwing Color Around
+Kyloren,Kyloren,Collector,Information Asymmetries
+EmilCorsillo_IraGreenberg,Emil Corsillo & Ira Greenberg,"Platform, Artist",What Is Long-Form Generative A.I. Art?
+Nudoru,Nudoru,Artist,"Building Tools, Solving Puzzles"
+Bayamese,Bayamese,Collector,Who's Mr. Tezos?
+ChrisMcCully,Chris McCully,Artist,Tuning The Frequency
+LandlinesArt,Landlines Art,Artist,What Landlines Art Is
+ciphrd_2,ciphrd,Platform,The First Year of fx(hash)
+Zeneca_Jaime,Zeneca & Jaime (2 Bored Apes),Collector,Left-Brained Art
+LeanderHerzog,Leander Herzog,Artist,Creating Infinite Systems
+LiamEgan,Liam Egan,"Platform, Artist","Coder, Artist, Sheriff, Mod"
+AndreasRau_MarceloSoriaRodriguez,Andreas Rau & Marcelo Soria-Rodriguez,Artist,Encoding Emotion
+LeMonde2D,LeMonde2D,Collector,Building The Museum
+LisaOrth,Lisa Orth,Artist,Always Moving Forward
+AJBerni,AJBerni,Platform,Hooked on Art
+IvonaTau,"Ivona Tau, PhD",Artist,Exploring In-Between States
+KRPDMDAO,KRPDM DAO,Collector,Buying Through the Bear Market
+AnnaLucia,Anna Lucia,Artist,The Importance of Color
+PiterPasma,Piter Pasma,Artist,Playing Code Golf
+ClownVamp,ClownVamp,"Collector, Artist",Interview with ClownVamp
+AmyGoodchild,Amy Goodchild,Artist,Interview with Amy Goodchild
+Ciphrd_EndOfBeta,Ciphrd,Platform,Ciphrd End of Beta
+Kaloh,Kaloh,Platform,Interview with Kaloh
+MJLindow,MJLindow,Artist,Interview with MJLindow
+abstractment,Abstractment,Artist,Investigating Clews
+KenConsumer,KenConsumer,"Collector, Artist",Breaking G L A S S
