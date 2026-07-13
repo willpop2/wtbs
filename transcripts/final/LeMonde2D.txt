@@ -62,7 +62,7 @@ LeMonde2D: Thanks, I do. It also helps me collect new pieces — sometimes I loo
 
 Trinity: Just scrolling through your collection of *el inefable momento* — I think you're one of the top collectors of that piece. I don't even know if you're displaying all the ones you have, but row by row by row, all the colors next to each other, it's a beautiful juxtaposition — you really see the full breadth of the collection. I think it might be one of Marcelo's best. I might like it even better than *Toccata*.
 
-[pool: Toccata | Toccata — LeMonde2D | ]
+[pool: Toccata | Toccata — LeMonde2D | | 3]
 
 LeMonde2D: Okay.
 
@@ -76,13 +76,15 @@ Trinity: Before I say something I regret.
 
 LeMonde2D: I wouldn't say it's the best, but there's a lot of it in the museum, so it means a lot to me. I really like this collection — the whiteness and the briefness of it, and there's this grainy, matte shell quality that I truly love. It's pure artistic. I could watch them all day.
 
+[pool: Toccata | Toccata — LeMonde2D | | 1]
+
 Will: They are super nice. I want to dig a little deeper into your underlying thesis for collecting — you've said it's just art that you like. But given the quantities you sometimes buy, if you're picking up 8 or 10 or 20 or 30 of something, it seems implied that you can only display so many, so at some point some of them must be destined to sell. What's your thinking there? Are you hoping certain deep collections will someday hit a multiple where you'd sell a couple just to break even? How are you thinking about eventually selling?
 
 LeMonde2D: The starting point is that I need to really like the collection. Take *Monoliths* — when I bought around 20 of them, that's one of the largest buys I've done. First, I need to really like the art. Obviously I also need a strong feeling that the value will increase over time. I don't plan to sell, but at some point there will probably be transactions to help me accumulate other collections — *Garden, Monoliths* being one example. I'm not one to stop at just one piece, which isn't usual for me, so I think I'd need to sell a few great pieces to fund acquiring others.
 
 I'm also not only collecting the NFTs and the images — I work with artists to get signed prints. For *Bardez*, for example, I had the idea of printing them small, in squares, and I needed a lot of them so the display would properly represent the briefness of the code. With some collections, two or three pieces best illustrate the algorithm. In other cases, like *Monoliths*, I need more pieces to show the subtle variations.
 
-[pool: Bardez | Bardez — Nat Sarkissian | ]
+[pool: Bardez | Bardez — Nat Sarkissian | | 3]
 
 Trinity: So at that point it's almost not even about the museum on Deca — it's about curating your own joy, rather than collecting purely because you see speculative value in it, even over the long term. It's about really seeing the entire breadth of the collection. Looking at your *Bardez* pieces, for instance—I know you minted many at the top tier, which is great because they came with a print. But then when you look at the ones you bought later, it's a nice contrast. You can see the story of how you collected, because your first mints were larger, more zoomed in, and then you bought the ones that give you the full feeling of the garden. I remember when that came out, it was mind-blowing to get the sense that you were actually looking around a garden and seeing different pieces of it.
 
@@ -96,6 +98,8 @@ Trinity: I hope you have a lot of wall space.
 
 LeMonde2D: Yes. At some point—I don't have a timeline yet—but at some point I'm going to need to display these to people, whether it's a physical show or something like that. I'm still getting my head around how to display it. I think my role as a collector is first buying art and supporting artists, but it's also my mission, I'd say, to talk about generative art. Every time I'm at dinner with friends who don't know anything about it, I'm like, I need to show you something really cool. Then I open the Pandora's box with them, and it's like, "Oh man, I want to buy it—tell me what to do." So the mission is not only collecting; there are a few other things coming next that I'm really excited about.
 
+[pool: Bardez | Bardez — Nat Sarkissian | | 1]
+
 Will: Did you order any of your prints off of Tender? Were you able to do that internationally?
 
 LeMonde2D: Yeah, I did. But the thing with Tender is, when I get a print, I want it signed. So I had to get the artist's address, send the print there, and get it back to me. It was kind of a pain. We managed to do that twice.
@@ -108,11 +112,15 @@ Will: For artists, there's got to be a lot of fear. They design a project to be 
 
 LeMonde2D: Right.
 
+[pool: Bardez | Bardez — Nat Sarkissian | | 1]
+
 Will: Then you either have to go to the artist and figure it out. There's no real standard between artists for how a work becomes printable.
 
 LeMonde2D: And some of these artists are just coders, developers—they don't know much about paper or printing. So it's new for them too. But it's good.
 
 Trinity: Artists with more of a coding background are learning more about it every time. With some of the early projects, there might not have been easy ways to get high-quality exports, but I think the space is maturing over time. That actually connects to something I noticed about your collection: it's anchored toward still work rather than animated work, with the very notable exception of *Toccata*, which we touched on earlier. Is there a reason for that in terms of display? I'd love to hear your thinking on still versus animated work.
+
+[pool: Toccata | Toccata — LeMonde2D | | 1]
 
 LeMonde2D: This relates to something we've talked about in private too—RGB, for example. Some of the pieces I don't have in the collection yet, I need time to understand what's behind them, the original idea, why people are so fond of them. With animated work, because I had printing in mind, my vision was kind of reduced to the still. But I collected *Toccata* a lot, and now I'm starting to enjoy animated pieces more and more. So I'm evolving as a collector.
 
@@ -120,13 +128,15 @@ Will: We talked a lot in the early days of the show about this disparity on fx(h
 
 You'd think that we're all here trying to be Web3, digitally native people, so why wouldn't we embrace the wildest, most experimental aspects of this—pieces that evolve, like *Toccata*? But at the end of the day, it's the digital tree or the garden that ends up capturing the most mindshare and value in terms of what people are willing to pay. I feel like there's an investment angle here—that at some point that paradigm is going to shift, and people are going to go for pieces beyond just *Toccata*. Like recently, you collected some *Tr4ns4ctions* from Kim Asendorf.
 
+[pool: Toccata | Toccata — LeMonde2D | | 1]
+
 LeMonde2D: I think the animation has to be more than just animation—it has to be artistic. *Toccata* is mind-blowing in the way the animation and sound are used so artistically. That's maybe the main reason this kind of work isn't increasing in value yet.
 
 Will: Not yet.
 
 Trinity: Would you say *Toccata* is an instant icon, though?
 
-[pool: Toccata | Toccata — LeMonde2D | ]
+[pool: Toccata | Toccata — LeMonde2D | | 1]
 
 LeMonde2D: Yeah.
 
@@ -140,6 +150,8 @@ LeMonde2D: That's the reason I collected it, and in quantity—I think it's a mu
 
 Trinity: For me, it's one of three pieces I think are going to be instant, long-term classics that really hold up over time. The others being Zancan's work across the board—doesn't need to be any particular piece, just all of it, it's one category—and *Ethereal Microcosm*, which I noticed you don't have any of. That was one of Ciphrd's big pieces, released earlier this year. Also animated, but I think on the same level of beauty. Not to put you on the spot, but why don't you have any of those?
 
+[pool: Toccata | Toccata — LeMonde2D | | 1]
+
 LeMonde2D: I'll get there. I only started collecting animated pieces two weeks ago, so it takes time.
 
 Will: You mentioned this in our conversation prior to recording, on Discord too. When we first started talking to you, you said you weren't really into the animated, pixelated stuff—you weren't into RGB. You did get some RGBs recently, though that's not animated. What brought you around to grabbing a couple of those in the last few weeks?
@@ -151,6 +163,8 @@ Will: Do you own any Chromie Squiggles?
 Trinity: No.
 
 Will: That's the comparison people often make—I'm sure you're familiar with the collector GalaxyRGB. He wrote a piece, or was interviewed by RightClickSave, where he talked about RGB as basically a way of buying a share of equity in fx(hash) the platform, rather than about whether or not you like the art. I love my RGB, but when I look at a lot of them, I don't necessarily think, "I love the way these look." They have this historical meaning to the platform, I think, in the same way Squiggles do for Art Blocks.
+
+[pool: Toccata | Toccata — LeMonde2D | | 1]
 
 LeMonde2D: Yeah. I saw the floor price going crazy, and I thought, okay, I need to act quickly. Even if I don't understand it today, I'm pretty sure I will at some point. But I needed to act.
 
@@ -164,6 +178,8 @@ It seems like habitually Landlines releases work, it mints out, and then it just
 
 LeMonde2D: First of all, it's just gorgeous by itself, so it's everything I like. The body of work is insane -- I haven't collected every collection, maybe I will tonight after the show, but the quality is very high, especially for fx(hash). When you have artists with ten collections, there's usually one or two where the level isn't quite there. I don't know why people are sleeping on Landlines, but I'd say: keep sleeping, and I will keep collecting. It's good for me.
 
+[pool: Toccata | Toccata — LeMonde2D | | 1]
+
 There's also a very mystical thing about Landlines. He's not very talkative, super shy maybe, doesn't express or talk a lot, but the body of work is insane. All the collections are so different, yet you can feel that working on one project brings him to the next. There's a link between the projects, but they're also so different from each other.
 
 Will: You can always tell it's Landlines, right? There's always something about it.
@@ -176,11 +192,11 @@ Will: Yeah, it got burned.
 
 Trinity: What made you love *Influence* specifically? It's one of the pieces you have the most of -- seven of them. Not to put you on the spot again, but we are in the driver's seat here.
 
+[pool: Toccata | Toccata — LeMonde2D | | 1]
+
 Will: You're on the spot the whole interview.
 
 LeMonde2D: I don't want to make the comparison, but it brings me back to *Dragons* in a way. I had *Dragons* in the collection, and I was looking for what would go next to it. I found *Influence* and thought, okay, there's something here, this is really nice. Then I opened it and it started to animate, and I was like, okay, I need to collect a lot of this. Everything is so good in *Influence* -- the colors, the movement, the shadows. Super nice.
-
-[pool: Dragons | Dragons — William Mapan | ]
 
 Will: But it suffers from the thumbnails, I think that's what did it. People saw the thumbnail and didn't bother to click through and see the motion, see what was possible with the piece.
 
@@ -190,13 +206,15 @@ Will: They're definitely a very shy artist. We've been trying forever to get the
 
 LeMonde2D: That's actually a good idea. Honestly, *Textiles* talked to me the least, even though I can see the quality is very high and the work behind it is crazy -- you can feel it instantly. Now I'm looking at it again and I want to buy it because of the print idea you mentioned.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Will: Do your own research on that, make sure it'll work for you.
 
 Trinity: *Abbreviated Curves* is another one that animates -- looking through what you have, even though I like it for the thumbnail, once you open it up it's pretty crazy cool. And I have to say, your *Absolute Error* number 28 is probably in my top ten favorite pieces on fx(hash) of all time. I think it's only second to the *Absolute Error* that Ryan Bell owns, another one of those very wide stances. This is one I could absolutely see printed out and looking beautiful somewhere.
 
-[pool: Absolute Error | Absolute Error — Landlines Art | ]
-
 LeMonde2D: In the museum, it goes so well with *Millefoglie* -- the transition between the two is really nice. I bought number 27 and number 2 to have the full scope of the algorithm.
+
+[pool: Millefoglie | Millefoglie — Stefano Contiero | | 3]
 
 Trinity: It'd be interesting to hear about the pieces you've gone really deep on. We already mentioned Landlines, but another is *Monoliths*, where I'm pretty sure you're the number one collector with 20. Absolutely insane.
 
@@ -210,6 +228,8 @@ Trinity: Question -- are those baubles in the sky on some of them, or just weird
 
 LeMonde2D: I think they're baubles.
 
+[pool: Millefoglie | Millefoglie — Stefano Contiero | | 1]
+
 Will: That was our guess too, that they were some kind of Easter egg reference to his other project.
 
 LeMonde2D: There's also the ones with lines down the middle. If you look at number 130 in *Monoliths*, there's a line, and I keep thinking there's a reason for it.
@@ -221,6 +241,8 @@ LeMonde2D: Yeah.
 Will: With Ganchitecture, a lot of the work he was doing prior to fx(hash) always included games, puzzles, codes. As far as I know, nothing's been revealed about this project yet, but I can't imagine him releasing something without little bits of hidden information. It almost looks like it could be Morse code or something.
 
 LeMonde2D: I just can't wait. I'm pretty sure this will give the collection another life and level, and people are going to get interested in it again. But I can assure you, I don't know anything about it -- I tried, but I had no information.
+
+[pool: Millefoglie | Millefoglie — Stefano Contiero | | 1]
 
 Will: We have quite a number of artists and collections written down here, but it'd be nice to throw it to you -- is there a particular artist we haven't talked about yet, or a collection you want to shout out? People you think are undervalued, or properly valued but you want to celebrate anyway. Who should we talk about next?
 
@@ -234,6 +256,8 @@ Will: It is such a nice collection, and the decision to make it free was so biza
 
 We've only had this system since April or May, so we don't have that long a timeline yet.
 
+[pool: Millefoglie | Millefoglie — Stefano Contiero | | 1]
+
 Trinity: It works in your favor if you're looking to collect as many as possible.
 
 Will: Exactly.
@@ -246,11 +270,11 @@ Trinity: Have you been following Stefano's Art Blocks collection? It's due to re
 
 LeMonde2D: In a few days, yeah.
 
+[pool: Millefoglie | Millefoglie — Stefano Contiero | | 1]
+
 Trinity: Are you the type of person who's going to follow him over to Art Blocks?
 
 LeMonde2D: Yeah, definitely. You can see the sense in his upcoming Art Blocks work and its relationship with *Millefoglie* -- the link between the two. I think it's going to be a must-have for me.
-
-[pool: Millefoglie | Millefoglie — Stefano Contiero | ]
 
 Trinity: It'll be interesting to see how this performs on Art Blocks -- it has a pretty high starting price compared to some of their more recent releases. I love that if you look at Art Blocks' upcoming roster, six out of the eight artists have had recent releases on fx(hash), which is insane to me. It really speaks to the blending of the worlds and the quality of art and artists we're getting here.
 
@@ -259,6 +283,8 @@ LeMonde2D: It's crazy, but at the same time it makes sense.
 Will: I've heard from a number of artists who've had work rejected by Art Blocks, or had to wait too long to get through the whole system, and they've said, why would I wait? I'll just put it on fx(hash) and get it out, because I want to start on my next thing, I don't want to sit on this project. So it seems like Art Blocks has become aware of fx(hash) and of artists they maybe should have said yes to in the past, and it seems like they're accelerating their process a bit too -- because I've heard you sometimes had to wait months. You get accepted, and then they make you wait a long time to get the piece finished and fully approved. For an artist, especially someone trying to be a professional and live off their work, that's difficult -- you're not getting paid during that time, sitting on a project that might be almost done and you can't monetize it.
 
 LeMonde2D: I think even I felt this way at the beginning. When I started collecting on fx(hash), it felt like more of a hacker's platform. It's difficult to say, but once I started to dig more and more, I found the true artists. Maybe that "hacker" feeling came from the less beautiful projects, the ones you'd sometimes see on the homepage.
+
+[pool: Millefoglie | Millefoglie — Stefano Contiero | | 1]
 
 That makes some artists not want to be associated with those collections. But it starts to change with the top collections — Zancan, for example, or the Iskra and Zach collection, and many others like Marcelo's. It's becoming more and more artistic. So maybe now we're going to see more people from Art Blocks coming over. Matt DeLorean needs to.
 
@@ -272,6 +298,8 @@ Will: There are still a few big names out there who haven't come over, and there
 
 Trinity: Or maybe they've already released under pseudonyms and we just don't know.
 
+[pool: Millefoglie | Millefoglie — Stefano Contiero | | 1]
+
 Will: We would've figured that out.
 
 Trinity: No, we wouldn't have. I've heard that there are multiple artists releasing under fake names and fake accounts, essentially with split personalities at this point. How would you know, other than doing deep wallet forensics on work that you think is just a little too good?
@@ -284,11 +312,11 @@ Will: even if the projects, especially on Art Blocks, can feel a little basic co
 
 Trinity: Are you pumping your bags a little bit so Didi buys more?
 
+[pool: Millefoglie | Millefoglie — Stefano Contiero | | 1]
+
 Will: No — this is something we talk about on the show all the time, something I bring up from time to time: I feel like there are some projects where owning one is enough. Take Holo — would I love to own ten? Sure. But my one Holo scratches the itch of owning Holo for me. I get to see the big empty space and that feeling of loneliness, and whether or not mine has birds in it doesn't change much about what I like about it. But pieces like what eltono does, which are very design-driven — or another good example might be Studio Yorktown — people who like Bruce's work probably want multiples, because seeing them arrayed next to each other, the sum is greater than the individuals.
 
 So I feel like there are two categories in generative art: pieces that stand alone, and ones you want to own a lot of. *Turner Light* is one where I feel the same way — owning just one feels great.
-
-[pool: Turner Light | Turner Light — Aluan Wang | ]
 
 Trinity: Yeah.
 
@@ -298,11 +326,15 @@ LeMonde2D: I kind of disagree.
 
 Will: Go ahead — let's talk about that one, since it's one of our favorites from this year.
 
+[pool: Turner Light | Turner Light — Aluan Wang | | 1]
+
 LeMonde2D: When you collect generative art, especially long-form generative art, only owning one reduces the scope of the collection. It doesn't make sense to me. You show it to someone and they say, "So what?" *Turner Light* is a good example — of course it's kind of always the same thing, but seeing twelve at the same time gives you a sense of the algorithm and the code. The readability is easier, at least.
 
 Trinity: And you can see that in the ones you've collected — you always do a great job getting diversity. Will's big point is that *Turner Light* could have just kept going. It could have been a thousand pieces, five thousand pieces. And just seeing how all these different little things grow is amazing.
 
 Will: Each piece does contain multitudes, so maybe that was a bad example — I was trying to do a segue. I only own one, so maybe this is some copium for only owning one, too. But how do you feel about pieces like *Turner Light*, where maybe they could have done a thousand if the algorithm supported it? Artists make a lot of decisions when they release their work.
+
+[pool: Turner Light | Turner Light — Aluan Wang | | 3]
 
 LeMonde2D: Yeah.
 
@@ -310,7 +342,7 @@ Will: What does the algorithm support? What do I think the market will support? 
 
 LeMonde2D: It's a tough question. I can't say I don't look at the value of things, but I don't really care, because I'm not trying to get value from it in the short term. I don't buy more because there's less — that's not how I do it. I just like the art, and if it makes sense to have twelve... In the case of *Turner Light*, I have this row — 253, 112, the white one, I had maybe only two — and I was like, I need more, because it would complete the line and look super nice. That's how I collect. It's not that I need ten or twelve or twenty because the value is going to increase — it's that it makes sense in the gallery.
 
-[pool: Turner Light | Turner Light — Aluan Wang | ]
+[pool: Turner Light | Turner Light — Aluan Wang | | 1]
 
 Will: That's so interesting, that you're collecting from the gallery standpoint. That was a breakthrough for me the first time I made a Deca — it got me to go back and buy one more of a project. I had three, but in a row of three they looked a little too small, so I needed a fourth to make two rows of two, so they'd be a bit bigger. It makes you think in such a strange way. I hadn't anticipated that.
 
@@ -320,7 +352,7 @@ Will: Yeah.
 
 LeMonde2D: In a curator's way — I think it's really nice. Over time, I'm coming to the point where I have almost two of everything. I still need another *Meridian*.
 
-[pool: Meridian | Meridian — Matt DesLauriers | ]
+[pool: Meridian | Meridian — Matt DesLauriers | | 3]
 
 Trinity: Me too, I need another *Meridian*.
 
@@ -334,6 +366,8 @@ LeMonde2D: It's a catalog — all the pieces I bought, whether on fx(hash) or OB
 
 Will: Wow.
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 LeMonde2D: Yeah, this one is going to be good. I think people are going to build something like it afterward, or maybe someone will build an easy way to display your wallet.
 
 Will: That process sounds like a great fx(text) article, if you ever feel like publishing something there.
@@ -345,6 +379,8 @@ Will: That hasn't stopped a lot of people from publishing already, so don't worr
 LeMonde2D: Let me build the catalog first, and then maybe I'll write about it. I think it's another great way to display your collection that also helps you collect new things.
 
 Trinity: To transition a little — one of the topics we discussed while chatting online over the last couple of weeks was around the time the collaboration between Zach Lieberman and Iskra came out. You were of the mind at first, "No, I'm not going to get it." Now, looking at your collection, you have it — seven pieces.
+
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
 
 LeMonde2D: Not only two.
 
@@ -358,6 +394,8 @@ Will: Go.
 
 Trinity: What's the evolution of your thinking on this piece?
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 LeMonde2D: I'm not sure I have all the answers. First — why did I change my mind? I had a wonderful discussion on the TENDER Discord, and overnight I changed my mind. It was quick. First, I love that it provoked, and still provokes, such debate. I think it's a very passionate debate, which is what art is made for. I love this love-hate relationship, the discussions we can have about it.
 
 Will: Yeah.
@@ -369,6 +407,8 @@ Will: I wanted you to say the things you like about it. I want you to celebrate 
 LeMonde2D: It's a tough one for me to truly understand right now, but I think it's going to be a major collection in the future, for sure. There's also the fact that they call it a "collaboration" — I think that's a bad framing. They should have promoted it differently.
 
 Trinity: As a conversation.
+
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
 
 LeMonde2D: Yeah, it's more of a battle to me, in the hip-hop way. I don't see it as a conversation, because in a conversation you reply to someone, there's some give and take, some sort of mix. This has more confrontation to me — it's more of a battle. "I see you like that, you know — I'm this, and you see me as this." It's more of a battle.
 
@@ -382,6 +422,8 @@ LeMonde2D: I'm pretty sure they don't. But it makes more sense to me framed as "
 
 Trinity: I think that's what most people are saying these days.
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 LeMonde2D: That's another reason for it to be a battle — you have to pick someone. I don't get 100% of it right now, but I love the fact that it's passionate. Everyone is talking. I don't like it for that reason, I love it for that reason. It's what art is made for.
 
 Trinity: The discussion around it.
@@ -393,6 +435,8 @@ LeMonde2D: Exactly, the perception you have about it. That's what I meant about 
 Will: That's kind of the point I made when we first talked about it — that it should not have been all one collection.
 
 Trinity: It's a choice to make it one collection.
+
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
 
 LeMonde2D: Right, you couldn't unsee that once you talked about it.
 
@@ -406,6 +450,8 @@ Trinity: Exactly. So do you collect them independently? When I'm looking at your
 
 LeMonde2D: I don't. I'm not focusing my collection on 1-of-1s — it's really generative only.
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 Will: But you did collect some Qubibi, I noticed.
 
 LeMonde2D: Yeah.
@@ -417,6 +463,8 @@ LeMonde2D: Sometimes I see something on Twitter and think, "tell me this is a lo
 Will: We're all holding out for the day Qubibi drops on fx(hash). I think it'll happen.
 
 Trinity: I don't have a prediction for when, but I think it'll probably happen at 2 a.m. Eastern, when everybody in the US is asleep.
+
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
 
 Will: That's true, actually, because they're Japanese — that'll make it tough.
 
@@ -430,6 +478,8 @@ Will: Yeah, yeah.
 
 LeMonde2D: I put him in the same category as *Landlines* for me.
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 Will: That makes total sense.
 
 LeMonde2D: The bodywork and the quality are just absolutely insane.
@@ -441,6 +491,8 @@ LeMonde2D: Live minting could be a good discussion too.
 Will: Have you been to any of those events?
 
 LeMonde2D: No.
+
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
 
 Trinity: Not yet.
 
@@ -454,6 +506,8 @@ LeMonde2D: I wish, but sadly no — I have to go back home to Marseille, in the 
 
 Will: Is that vacation or work?
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 Trinity: Retired.
 
 Will: Oh, okay. So your vacation's getting in the way of your art collecting.
@@ -465,6 +519,8 @@ Will: That would be a great Instagram account — every time you're buying on th
 LeMonde2D: That's actually a good idea. But yeah, no live events, and I'm very frustrated by that. It's okay, though.
 
 Trinity: You'll get there.
+
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
 
 Will: We're fortunate there's an event this weekend in New York. I don't know that we'll actually make it to the convention to participate in live minting, but some of the artists are here, and we're hopefully going to meet up with them. Like we've talked about throughout — the artists are so generous and interested in meeting people in the community. We might get to go to dinner with some folks, which is really cool.
 
@@ -478,6 +534,8 @@ Trinity: That would be the dream.
 
 LeMonde2D: Let's make it work.
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 Will: We've DM'd with him a little, and I think there's interest. It's kind of like with *Landlines* — whenever he's ready, we're here. We're not going to say no. We'll take a day off work if we have to. If that comes out of this, it'd be amazing to get something in the books, because I think he's only done a few short Twitter Spaces, nothing really substantial. It'd be great to have the first big long talk with him.
 
 LeMonde2D: That would be something.
@@ -490,6 +548,8 @@ LeMonde2D: Funny enough, I had this discussion at lunch with a friend today. Wha
 
 For once, "we are early" is true — not necessarily in terms of resale value, but from an artistic point of view. I think we're at the beginning of a big movement in art in general. It's exciting.
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 Will: Awesome, I love it.
 
 Trinity: Can't wait.
@@ -501,6 +561,8 @@ LeMonde2D: Thank you for having me.
 Will: Thank you so much. We'll be looking for you in the sales feed while you're traveling — I'm sure you'll still be there. All right, that's it. That was LeMonde2D, Didi.
 
 Trinity: Lemonade.
+
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
 
 Will: Lemonade.
 

@@ -50,7 +50,7 @@ That transformation is a big part of my exploration—how those features get rew
 
 Trinity: Looking at some of your more specifically AI-driven work that isn't on fx(hash), you see this romantic interplay—like in *Under the Waves*, where you have incredibly organic, top-down waveforms in the ocean alongside buildings. But in the interplay within the loops, it's something that is neither one—this very liminal in-between as it moves from one morphological shape to the other. How does that work with your vision? You mentioned it's very much a dreamlike state that inspires a lot of this. I'd love to hear about that interplay between two different types of trained images.
 
-[pool: Under the Waves | Under the Waves — Ivona Tau | ]
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 3]
 
 Ivona Tau, PhD: Absolutely. This is something I really like exploring in terms of the limitations of AI and how its representation of the world differs from ours. I think it's the closest we can get to AI imagination, because when we train AI on cities or oceans or forests, we just show it examples of what's real and it tries to mimic that. But in *Under the Waves*, what I did was show two different distributions and nothing in between. As humans, we'd normally just learn those separate distributions and say, this is it—I can imagine a thousand oceans and a thousand cityscapes as distinct things. But AI works very differently, and I like exploring how continuous, how infinite, the space it learns actually is. In that continuity, there are no blanks—there's always a path from one representation to another. That's how I was able to discover those in-between states, and it was amazing to see them happen, since there was nothing like that in the training data. It's like going one step further than just showing AI what it has to learn—leaving it to its own imagination of the in-between states. This is also why I like working with my own training data: it lets you give the model a goal that isn't as simply defined as usual. That's where the magic happens.
 
@@ -64,6 +64,8 @@ Ivona Tau, PhD: This is an extremely relevant question right now, and having a b
 
 I'm not saying it's impossible to create art with Midjourney or DALL-E, but it's harder to find your own individual voice. To do that, you have to push toward a very different kind of prompting, or build something on top of the process—maybe using Midjourney outputs as one part of a process that you then recombine in Photoshop or other tools. That's actually very in line with what we see from top AI artists today. Artists like Claire Silver or Jenny Pasaña use text-to-image tools, but they're amazing, accomplished artists because they've found their own voice within those tools, as part of their process. So I'd say there are two ways to find your voice in AI art: either by finding that individuality within public tools, or by working with your own data and your own models—which is far more flexible, though again, I'm not saying the other way isn't possible.
 
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
+
 Trinity: That seems to relate to some of the conversation happening on fx(hash) and in the Discord shortly after *Mythic Latent Glitches* came out, where it was unfortunately tagged as "image composition"—just, here's a PNG file on top of a PNG file, maybe we did something to it, but that's it. I guess there's a world in which that's technically what you did from a platform-categorization perspective, but without accounting for all the intentionality, work, and training behind the actual images that were then processed through the code.
 
 Ivona Tau, PhD: With using GAN outputs and then combining them in a more procedural process typical of fx(hash), the issue is that someone called image-composition tools "non-pure code." That's not really true when you're using GANs, because you're just doing some of the calculations offline. But I do understand the need to have different categories, to have the conversation about what is pure code, what is website code, what is in-browser code.
@@ -75,6 +77,8 @@ Ivona Tau, PhD: There are many different ways to divide those.
 Will: A lot of the work you did prior to fx(hash) seems to have been distributed on other platforms, not in a long-form generative series the way fx(hash) requires when you publish there. What inspired you to experiment with that long-form format? It's not just the output—there's code layered on top of the image that further distorts and warps it, creates different colorways, and so on. What brought your attention to fx(hash)? What got you interested in pursuing it—was it the more democratic nature of it, versus something going to auction or existing as a one-of-one, more exclusive piece? I'm just curious what brought you over here.
 
 Ivona Tau, PhD: Going to fx(hash) was going out of my comfort zone in a very strong sense. Curation has always been an important element of working with AI art for me — there's a curatorial process in preparing a dataset, in shooting the photographs. That was true with both *Metaclet* and *Glitches* and *City of Atom*. But with fx(hash) I decided to experiment with not having the final say, and with working more in what I'd call "defined code." Both GANs and something you'd create in Processing are code works, but the process is very different: in Processing or JavaScript, you define the boundaries yourself. With GANs, you don't. You feed examples into the model and see what gets generated — sometimes it's an extrapolation of what you showed it.
+
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
 
 So I was curious how I could work with something where I had more control over the final output, but where that control is still handed over to stochastic processes and random variables. Curiosity is my main driver — curiosity about the world, about methods, about learning new programming languages. So I was genuinely scared with both of my drafts, waiting to see what would get generated — whether there'd be enough variation, whether the outputs I really loved would actually appear. You can never be sure. But the experience showed me different ways of creating, and working with long-form generative art has been very enriching.
 
@@ -88,6 +92,8 @@ Ivona Tau, PhD: Yes, there's one project — *Moon Crescents*, I think.
 
 Will: Cyril Diagne, yeah.
 
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
+
 Ivona Tau, PhD: Right. The only limitation right now is that the outputs from the Mobile StyleGAN they used have to be something like 20 by 20 pixels, because the model is too big to fit in the repo. So there's still a limitation that makes it hard for me to use with my own data or process — but there have been some really interesting attempts.
 
 Trinity: It would be the GAN x 8BitDo ultimate showdown.
@@ -99,6 +105,8 @@ Trinity: Yes.
 Will: Ivona, you mentioned exhibiting your work to people from the traditional art world — people used to buying physical work, seeing it in a gallery, owning it, not having to go, "Oh, actually, if you want that piece, you've got to talk to this person with a .tez address who owns the NFT." I'm curious to hear more about the resistance you've encountered. We ask this of a lot of artists on the show, because it's not typical for creative folks to embrace blockchain technology — there's resistance to it pretty much everywhere outside the people who already like it.
 
 So what has it been like explaining to people from the traditional art world why some of your work is on the blockchain? And as a side note — to whatever extent you're allowed to say — I'd love to hear what it's actually like selling something at auction at one of the major auction houses, and how different that process is from just putting something up on fx(hash), where everything lands in your wallet immediately and you collect royalties after the fact.
+
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
 
 Ivona Tau, PhD: Starting with the second question — it's just so much more stressful, honestly, I don't recommend it. When you're in a virtual auction, you're sitting with your coffee and a blanket on the sofa, it's cozy. But when you're physically in the auction house watching all those people bid live, time slows down, your heart races — it's a completely different world. The physicality of it is something humans still experience so much more intensely. It was an amazing experience, but also quite stressful.
 
@@ -112,6 +120,8 @@ Trinity: It's been proven — you are a peer of Salvador Dalí. Let it be spoken
 
 Ivona Tau, PhD: Honestly, if a lot of those surrealists, pop artists, and Dadaists were alive today, Andy Warhol would probably be a top NFT artist for sure.
 
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
+
 Trinity: It's interesting to hear about your experiences, because I think we've seen such a digital art explosion over the last couple of years — even though digital art has existed for decades and never needed to be tied to the NFT world. We've talked about this a lot on the show, but it seems like the larger global conversation around blockchain has really invigorated things, and museums and galleries seem to especially embrace curated pieces or one-of-ones, maybe precisely because it's a one-of-one — what you see is what you get, there's just an NFT receipt attached. Nothing radically different about the work itself.
 
 But going back to your earlier point about showing long-form generative art to galleries, where it's just random hash outputs — the trepidation there seems to be more like, "There are 400 of these, and none of them actually exist yet." That's a huge paradigm shift in how people think about it. Do you think there's a world where long-form random hash generation becomes accepted as just another layer of output — not curated, exactly, but more open to that randomization? How do you think that gets interpreted?
@@ -123,6 +133,8 @@ Will: Here's one we've talked about and also kind of haven't — it stems from a
 Ivona Tau, PhD: The first one, and I think it's the biggest one right now, is that with all the hype surrounding Midjourney and DALL-E, 80% of people think AI art is just text-to-image prompt generation. I've been so surprised talking to people and having to explain that this is just a small part of what AI actually is. It's just the part that got picked up by the media and became popular. But AI is so much more than text-to-image. First, there are GANs, where artists use their own datasets and train their own models. And we don't have to only create images — people are generating sound, text, poetry, all kinds of modalities with AI.
 
 The second misconception is about training text-to-image methods. The thing is, there's actually no training happening on the user's end with those methods. They've been pre-trained by huge companies — OpenAI, an entity with an enormous number of GPUs, memory, computing power, and money that normal people, or even normal huge companies, don't have. Those models have been trained and made public by them, but that means you can't retrain them on your own dataset. I get asked this a lot: "How can I retrain my DALL-E?" You just can't. You'd need a billion bucks and access to the whole internet — basically, you'd need to be OpenAI. So there are real limitations there, and there are the biases we talked about, which is part of why those models aren't made fully public. Artists are testing them, but when something is trained on the internet, it contains a lot of nasty stuff — a lot of preconceptions, racism, et cetera. It's a scary thing to work with.
+
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
 
 The third misconception, which I get asked about a lot once people hear I'm a photographer and a GAN artist, is people saying, "I really like what you do — how can I make my photographs morph from one to the other?" And I'm like, oh no, that's not how it works. All the frames in my work, even when they look super realistic, have been completely generated. Even when you're looking at a realistic forest or realistic waves or ocean, every single pixel was created with code — it doesn't exist, wasn't captured on camera, wasn't painted by hand. It's something the network has learned. To do that, you don't just take five photographs and morph them together — you create something from scratch. So when people see something surrealistic, they're usually wary that it's generative, but when it looks photorealistic, they don't realize it is too.
 
@@ -136,6 +148,8 @@ Will: To summarize, it's a discussion about the legality of the training sets us
 
 So, if this is too hypothetical, no worries — but for you, it seems like this doesn't really apply, since you're working from your own photographs, from scratch. Maybe you can shed light on this: with something like DALL-E, if I give it a prompt like "Barack Obama something something," does it literally take a Barack Obama face from somewhere, or does it compose individual pixels checked against everything it's learned? Is it really sampling and recomposing existing images, or are the outputs completely original in a way that sidesteps concerns about the training data?
 
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
+
 Ivona Tau, PhD: That's exactly the problematic question. Let's imagine a photographic collage. Can you do that, and how much copyright do you have to the images you use? If you take 50% of someone else's picture, you clearly have a problem. But what if you take three pixels from someone else's photograph? Maybe no one notices, but you're still technically using their work.
 
 The problem with training AI on huge collections of data is that, essentially, a single pixel contains a tiny fraction of thousands of photographs combined — and it's not even technically accurate to say that, because not a single pixel is "real." Everything has been reimagined by the AI based on what it's seen. If it's seen a hundred photographs of Barack Obama, it has a kind of internal vision of what Obama looks like, but it isn't taking any single photograph of him. That's where the problem becomes real: you don't know which photograph it learned from — it learned from all of them, but more from some than others. The concept of authorship gets really fuzzy, and there's not much you can do, even technically, to attribute which training data influenced which output most. You can compare which images an output is most similar to, but pixel by pixel, you'll find they're just different images with no overlapping fragments.
@@ -147,6 +161,8 @@ Trinity: It's such an interesting thing to think about, because the intentionali
 Will: It seems so challenging, because these images are composed from potentially a thousand underlying images, but the result isn't pixel-level identical to anything. Still, these systems couldn't exist without all that underlying data. So even though the end result doesn't share identity with any individual training piece, that doesn't quite feel like enough of an answer on its own.
 
 Ivona Tau, PhD: Exactly. That's why the safest thing you can do is work with your own data. That's why I do it.
+
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
 
 Trinity: That transitions into a question that's been at the back of our minds. There are all these ethical concerns, and you train on your own data, your own photography — you have a background in photography, which is actually how you got into this space. So much photography is used as baseline training material for everything out there. Even though your work goes through a huge GAN and AI process, and the outputs are very liminal and dreamlike, do you still consider yourself a photographer? Or is your output photography, within that same realm?
 
@@ -160,6 +176,8 @@ Ivona Tau, PhD: That's a very accurate comment, and it's something I don't run a
 
 Will: We're just a little bit over an hour here. I came up with an idea for a question that might be fun to wrap the episode with. Trinity, do you have anything else you want to cover before I give my wildcard question?
 
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
+
 Trinity: Let's do your wildcard question, and then I'd like to end with understanding what you're working on and anything that might be coming out for fx(hash). That's probably the best way to wrap. Go for it.
 
 Will: Since you're getting a PhD in AI, or something AI-adjacent, and you work in the field, I'm sure you saw the recent story about the Google employee who claimed their AI had become sentient. I'm not going to ask you to judge whether that actually happened — it increasingly seems like it wasn't a sentient AI. But I'm wondering if you're familiar with the thought experiment called Roko's Basilisk, and whether you'd give your more professional opinion. It's the kind of thing a classic 4chan or Reddit philosopher might dream up. Are you familiar with it?
@@ -172,6 +190,8 @@ Will: Does working in this field make you reconsider how your own brain, or the 
 
 Ivona Tau, PhD: Absolutely. I'm fascinated by what defines our consciousness and personality. I've been reading a book called *Being You* — I actually found it through Refik Anadol's Instagram — about the perception of oneself. It's fascinating to think that our brains sit hidden inside our skulls with no light, no sound, just neurons receiving countless noisy, information-dense signals, and from that we construct our own Bayesian guesses about reality. It's very similar to what neural networks do, and thinking about that shapes how I think about my own perception.
 
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
+
 I like to work both ways: thinking about my own perception, and then feeding those ideas and that philosophy back into training my models. Of course it's a very simplified version of how perception actually works, but the notion of forgetting, and of the perception of oneself, is something I really like to explore in my creative practice. It's often a theme of my work.
 
 Will: I wanted to ask that on behalf of my brother, who has a PhD in neuroscience and studies this stuff — I thought it'd be a good crossover question for him to hear. Thank you for that. Trinity, do you want to take the last question and we'll wrap it up?
@@ -183,6 +203,8 @@ Ivona Tau, PhD: I can't give many details, but I can say I've started working on
 Will: That doesn't sound close.
 
 Ivona Tau, PhD: No — more like autumn, September or so. I'll be taking a couple weeks off in August, off social media completely, off-grid. So I'll be working a bit less until then.
+
+[pool: Under the Waves | Under the Waves — Ivona Tau | | 1]
 
 Will: Thank you so much, Ivona. This has been amazing. I do want to restate that I actually knew all of this before the interview, so this was really informative for everyone else — but not for me. I knew all of it. It's been a pleasure having you on. I feel like we've packed so much into this hour, and I think it's going to be super beneficial for anyone who's a fan of your work or just curious about the space in general. I hope you enjoyed the process and coming on the show with us. It's really been a pleasure.
 

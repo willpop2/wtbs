@@ -22,7 +22,7 @@ Kaloh: Thanks for the shout-out. I've created NFTs in the past — some of my ne
 
 Then I made *Impossible Sneakers*, which I released a couple of weeks ago. I was very excited — the whole process was fascinating, putting myself in the shoes of the artist and coding it. I learned a lot, from the initial idea all the way to the final algorithm, and then seeing the reception. I wasn't expecting it to mint out in forty seconds. I made it a small collection on purpose — I didn't want five hundred or a thousand pieces, so it was seventy-five. Creating a generative collection is complicated — you have to account for a lot, run many tests, and look at many iterations to understand what's happening. You can't judge it one output at a time; you lose the feel of how the whole collection looks together. You need to view them in batches, like fifty at a time, trying different outputs. Getting feedback from my readers on Twitter was also great — I tried the build-in-public approach, sharing my progress over time and seeing what people thought, whether they liked it, what ideas they had. That was very rewarding, getting feedback while I was still coding it.
 
-[pool: Impossible Sneakers | Impossible Sneakers — Kaloh | ]
+[pool: Impossible Sneakers | Impossible Sneakers — Kaloh | | 3]
 
 Will: Very similar to what we've been doing with the podcast — releasing an NFT on fx(hash) once a month as a way to fundraise so the community can support the show if they enjoy it. It was really rewarding — Trinity, you were away when this happened — someone in the gallery section of the Discord posted a picture of their gallery with one of our fractal NFTs in it. I said, "Oh, thanks for supporting the podcast," and they said, "I don't even listen to the podcast, I minted it because I thought it was cool." Which made me think, okay, two and a half months of learning p5 is starting to pay off. Super cool that you went down that same path into creating. I assume you use p5?
 
@@ -36,6 +36,8 @@ Will: That'll be the p5 corner of the podcast — first time we've really talked
 
 Kaloh: It's very hard to say, because it's still a very new space -- a completely greenfield. I think the best way to predict what could happen is to look at Ethereum, which has been around a bit longer. What I've seen there is that there are trends, ups and downs, cycles. The NFT space, regardless of what kind of art or platform you're on, is driven a lot by hype and news -- certain triggers cause more traffic to flow to one platform or another.
 
+[pool: Impossible Sneakers | Impossible Sneakers — Kaloh | | 1]
+
 fx(hash) started out impressively. In less than a month the platform was around, we already had many artists and collectors, and something like 60-70% of projects were minting out. When something grows that fast at the beginning, it's hard to maintain that rhythm -- it's not sustainable for those numbers to keep happening every day. I think we're in a more stable zone now. We need to look at volume, but we also need to look at the numbers in terms of users: how many new artists, how many collectors, how many unique wallets are on the platform. That's growing constantly. Every time I do my analysis, we're up on a weekly basis -- probably 5 to 15% monthly. Those are great numbers. If we keep that rate for a year or two, we'll be in a great spot in terms of users. The volume is a little down compared to the peaks, but averaged out, it's still going up.
 
 A good comparison is Ethereum versus Tezos. I was running some numbers the other day, and Tezos volume is still about 1% of what Ethereum's is right now. Of course, there are some very high-value collections on Ethereum driving that volume -- the Apes, and all these over-10-ETH collections. But imagine if Tezos just grows to become 5% or 10% of Ethereum -- we'd be looking at 10x, 20x of what we have at the moment. And fx(hash), being the only generative art platform with this solid community of artists and collectors, will get noticed even faster -- volume will grow from month to month much quicker. So yes, something to think about. I like to compare things, track key stats monthly -- number of users and number of artists. I think that's what's most important.
@@ -48,7 +50,7 @@ Will: He's got other Darryls. It's one of those tricky things -- I agree the pla
 
 Kaloh: About two months ago, when fx(hash) was getting all this attention, a lot of the people collecting there were coming from Ethereum, and they expected fx(hash) to reach the same floors and volume Art Blocks had at its peak last year. That's very hard -- Art Blocks' volume was crazy high, very hard to replicate. When they saw that wasn't going to happen in the short term, they kind of left. They were expecting that from one month to the next we'd see a new *Fidenza* on Tezos that everybody wants to collect, don't miss out. But it's going to take more time for that to happen.
 
-[pool: Fidenza | Fidenza — Tyler Hobbs | ]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 3]
 
 Trinity: When you're expecting these giant floors and then you leave, you're kind of preventing that floor rise from happening. A lot of floors have been at their highest when we have the most active and ardent collectors, and obviously you don't want to be the person single-handedly pulling the floor up as you buy higher and higher -- but it's an interesting market action to look at from a long-term perspective. It would make sense that being early on fx(hash) means something different than it did for Art Blocks back when NFTs were at the tippy-top of their height. Buying an Art Blocks piece for 8 tez and holding it long-term seems like a no-brainer. So the fact that people would just leave the platform altogether, instead of buying on the primary or picking things up on the secondary when they're getting flipped really low, is an interesting chain of events.
 
@@ -62,6 +64,8 @@ I collect what I like in terms of art, but I pay a lot of attention to the artis
 
 Trinity: Seascapes, trees.
 
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
+
 Kaloh: Right. At the beginning that was unique -- when Zancan created his piece, *the garden, monoliths*, that was amazing, still very unique. Now I'm trying to find things that are still unique, and I look at how the code was made -- I don't read the code, but I try to get a feel for how complex it was to create that piece. Mostly I'm collecting for the long term. I've sold two or three things on fx(hash), but listing and checking floors takes a lot of time. Anybody can do it, and you can earn some income that way, but it's not rewarding for me. I'm trying to collect things for the long term -- some I might flip eventually, some I'll never sell. Probably 15% of my collection I'll never sell. The rest, if the price is right, maybe -- but I don't think we're there yet; I expect it to keep growing. I really enjoy what I'm doing and what the artists are doing, and I believe that if fx(hash) is still around in five or ten years and keeps growing at this pace, the collections from the first five or six months will be very valuable.
 
 Trinity: That's something we're all looking forward to -- it's just hard to hold that long-term view when we're still so young and new to it. When it comes to the stable, down market we've been experiencing over the last month or so, has that impacted the way or the volume with which you collect?
@@ -73,6 +77,8 @@ I was collecting a lot in December. I also sold some things on Ethereum and move
 Will: Trinity and I were both there during the honeymoon phase in December, when it seemed like you literally could not miss on a mint — everything you minted was immediately worth 10x. That was really the heyday.
 
 Trinity: It was so much fun.
+
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
 Will: It was a lot of fun, and stressful, because you didn't want to miss anything, but it was quite a ride and got us addicted enough to make this show. You mentioned it can be hard to compete for mints now. I don't disagree, and a lot of that is driven by people who are really logged on and want to flip, behaving within normal human limits, but also by people running bots, multiple wallets, and scripts. Do you have a view on what that's doing to the platform? Is it a long-term problem? I'm sure it exists on Ethereum too, but I haven't traded enough there to know how much of an impact it has on those economies.
 
@@ -86,9 +92,9 @@ Will: We flip too, so we're not against it either — we try to flip ethically. 
 
 Kaloh: Exactly. There's also the question of how often an artist should release collections. I don't think it's sustainable to release every two or three days — better to work on longer-term projects and release every month or two. That way there's always an expectation that people will be looking for your mint. But it's an open platform, so people can do different things — maybe you're experimenting, maybe it's a hobby, maybe you have the time now and won't later.
 
-I feel like big artists will always mint out if they've built the right image. Marcelo Soria-Rodriguez, for example — with *Contrapuntos* and *Entretiempos* — built huge hype on fx(hash) and moved on to Art Blocks with his curated series. Even with all that hype, he only released two collections on fx(hash). I think things would have gone very differently if he'd released 10 or 15 collections in that time. It's about how artists manage their drops and build expectation around their work.
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
-[pool: Contrapuntos | Contrapuntos — msoriaro | ]
+I feel like big artists will always mint out if they've built the right image. Marcelo Soria-Rodriguez, for example — with *Contrapuntos* and *Entretiempos* — built huge hype on fx(hash) and moved on to Art Blocks with his curated series. Even with all that hype, he only released two collections on fx(hash). I think things would have gone very differently if he'd released 10 or 15 collections in that time. It's about how artists manage their drops and build expectation around their work.
 
 Trinity: It's an interesting thing to think about, because we've seen a lot of artists drop every few days — sometimes multiple times in the same day — which clearly isn't sustainable. But it's also really hard to always play by the market's rules when those rules are constantly changing, evolving faster than you can respond to or think through. Every week is different, every day is different — sometimes it even comes down to which time zones are active right now. It's a huge amount of work to keep up with.
 
@@ -96,7 +102,7 @@ Will: I'm curious — I tried to get you to name names earlier when I asked who 
 
 Kaloh: If you think about success rate, Mark Knol on fx(hash) has done a lot of things right, and it's working out very well for him. He has a solid community, a real brand with *Smolskull*, and he's released many collections — not just two or three, probably over ten — while experimenting with different things along the way. I can't fully explain what it is, but people like his style, and he was early on the platform, having been on Tezos even before fx(hash).
 
-[pool: Smolskull | Smolskull — markknol | ]
+[pool: Smolskull | Smolskull — markknol | | 3]
 
 I also think Yazid is doing great work. He's released a lot too — not a lot, but probably around ten collections — and they're consistently high quality. Beyond that it's hard to single people out, because if you look at the top 25 Tezos collections by market cap, many are worth over 10,000 tez, and they're all doing well. But Yazid and Mark Knol are good examples, even if it's hard to pin down exactly what they're doing right. What about you two — who's on your list?
 
@@ -110,7 +116,7 @@ Kaloh: Definitely, and you can see the progress in his work — it's evolved a l
 
 Trinity: For me, one artist who's done so well despite not releasing much is Erik Swahn — *Disegnatori*, *Farbteiler*, and *Retrogrades*. Just three projects, and nothing new this year at all, yet they all maintain healthy floors. *Disegnatori* had a big sweep earlier this week — the floor doubled through the efforts of one person. That's a project being held up by its collectors more than anything.
 
-[pool: Disegnatori | Disegnatori — Erik Swahn | ]
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 3]
 
 Kaloh: Totally agree. I wonder if he'll release something soon.
 
@@ -124,6 +130,8 @@ But the token and the DAO -- those are very important for keeping the community 
 
 I was hearing Ciphrd on a Twitter Space -- it's amazing what they're releasing. I hope they can stick to their timeline. It's very optimistic, but they've been delivering time after time, so I'm sure they have the right people for it. If they can stick to it, in a couple of months this becomes a very solid platform all around -- top five in the whole NFT ecosystem, compared to any other chain.
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 Trinity: That's high praise. I don't have as much experience with other NFT platforms, but from everything I've experienced on fx(hash) and Tezos, it is, in my opinion, de facto the best -- usability, community, the way it's structured. It's well suited to the excitement, the hype, and to enabling people to keep driving the market.
 
 That said, a lot of this -- the fx(hash) token, the DAO -- is coming with the full launch, which is allegedly next month or so. People have been saying the slowness of the market right now could partly be due to everyone waiting for beta to end. What do you think happens as we transition out of beta into the full release?
@@ -136,6 +144,8 @@ Kaloh: But will you still be able to trade the old tokens? I think from a viewin
 
 Trinity: I'm not sure why it needs to work that way, unless it's just a way of marking status -- "this is an OG project." I think the bigger concern is that you won't be able to mint any unminted beta projects anymore. Whatever's left unminted gets burned, and that set remains fixed as is. If anything, that'll help -- it'll naturally drive up the prices of projects that haven't sold out, since it makes them a smaller set.
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 Will: There's also a lot of new features coming with the new contract -- multiple artists or wallets listed on a single project, so collaborative contracts, or built-in Dutch auctions so you don't have to manually manage the pricing. So there are quality-of-life reasons too: maybe I want to do a Dutch auction, but I don't want to babysit my drop for two hours adjusting the price.
 
 Kaloh: We're getting close now -- what, two or three weeks away? If I had a new collection ready in a week or two, I'd probably wait for the new contract to launch. But if someone had a collection ready last week, during February, I think they'd still release it. I'm not sure, though -- maybe that's a good question for more active artists. I could run a Twitter poll on that.
@@ -144,7 +154,7 @@ Trinity: Well, technically you are an artist.
 
 Will: And your Twitter following is way bigger than ours, so you should definitely run that poll and get some real data. It's interesting that you buy into the narrative that beta projects -- which will be labeled genesis tokens -- could have higher value. Right now a lot of the collector community is focused on the first 20 projects on the platform: the *Logos*, *RGBs*, *Weave*, all the way to number 20, *Chromatic Dazzle* by W. Blythe. Do you think the further back in history we go, the more asymmetry we'll see -- some projects sufficiently early to be grails, some grails purely on status and quality, like Zancan or Waiting in Afton or *Loom* -- and then everything else just becomes "cool that it's a beta piece, nice piece of history," while only 10 or 20 projects actually matter?
 
-[pool: Logos | Logos — Fxhash | ]
+[pool: Loom | Loom — Anna Lucia | | 3]
 
 Kaloh: Tough question. I think it was Gary Vee -- the influencer, very vocal about NFTs -- who said probably 5% of NFTs will have value in the future, but only 1% will be really valuable. He also says that's probably very optimistic. I think that applies to fx(hash) and to NFTs generally, somewhere around those two numbers. We have, what, 40,000 or 50,000 collections at this point? It's impossible for anywhere near half of that to retain value -- there's just too much supply. I'd say maybe 0.5% of fx(hash) will have value in the future.
 
@@ -158,6 +168,8 @@ Trinity: Those numbers roughly line up -- there are about 150, maybe 200 project
 
 Kaloh: And as there's more supply, there will be more valuable collections in absolute terms -- that's just how it works -- but it gets harder for the percentage to hold. We need more collectors, more users, for that. Still, 1% or 5% of this is a lot. As a collector, maybe your goal is to try to find the projects that will land in that 1%. Look at a piece or a collection and ask yourself: is this going to be in the top 1% of fx(hash) ten years from now?
 
+[pool: Loom | Loom — Anna Lucia | | 1]
+
 Will: I wish I'd studied art in college so I'd have some real basis for making that assessment. That's one of the challenges we often run into on the show -- there are things that appeal to us, and there are things we know influencers say are good, and I think a large portion of the community is genuinely at a loss for how to appraise art in that sense. Anything that's actually valuable in 10, 20, 50 years is probably also going to be judged by the standards of the larger art community -- unless this space completely cleaves off and crypto becomes its own outsider community making its own rules.
 
 Trinity: It's interesting to think about, because obviously artists are a huge part of our community on fx(hash). But outside of that group -- the people who are pure collectors, not designated artists -- how many of them actually have an art background outside of NFTs? Are we getting that kind of qualitative analysis from anywhere besides the more established members of the community who also carry the "artist" tag?
@@ -170,6 +182,8 @@ Will: I know you're embarking on this adventure in March of writing about an art
 
 Kaloh: I'm running this challenge — thirty NFT artists for thirty days. I'll be writing an article each day, nothing too long. I want them to be short reads you can take five minutes to look at in the morning and discover new artists. It'll be a mix of interview and me talking a bit about their art, and I'm planning to ask them questions like: what do you consider to be good generative art, and where should other artists and collectors look for resources to get more educated in this field?
 
+[pool: Loom | Loom — Anna Lucia | | 1]
+
 I'm looking forward to it — trying to showcase artists who maybe aren't getting noticed yet, and learning from them and their process along the way. Hopefully people will enjoy it. It'll be on my newsletter, kaloh.xyz.
 
 Will: We'll link to that in the show notes along with your Twitter. Kaloh, thank you so much for coming on. I hope you enjoyed it.
@@ -181,3 +195,5 @@ Kaloh: It was very nice to talk — video calls, talking fx(hash), it's a very p
 Will: It's great to have you on to talk about the market, something we all love. Follow Kaloh, check the show notes, and that's it for this one. Thank you everyone, we'll talk to you soon.
 
 Trinity: All right, thanks, Will.
+
+[pool: Loom | Loom — Anna Lucia | | 1]

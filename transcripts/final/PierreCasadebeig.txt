@@ -44,7 +44,7 @@ I also don't live far from a big mountain range, the Pyrenees, so it was temptin
 
 With mountains, I'm much more interested in incremental change than in making wildly different pieces from week to week. It started with an idea: take a surface from elevation data, cut it, analyze it, and shape the output to resemble my early mountain pieces, which were an imitation of *Meridian* by Manolo Gamboa Naon -- I really liked that and wanted to try to reproduce it. Once you do that, you start messing with the parameters. Some outputs end up much simpler, and you notice some stand on their own while others could be combined -- and that's how composition enters the picture.
 
-[pool: Meridian | Meridian — Matt DesLauriers | ]
+[pool: Meridian | Meridian — Matt DesLauriers | | 3]
 
 That became another branch of the algorithm: not just representing geography, but creating a synthetic, almost artificial place that still resembles a mountain, but carries more emotion, where you're more involved in shaping the algorithm's output. From there it's about how to lay these forms out on the page, questions of composition. That path led me to discover a lot of authors and guidelines on graphic design -- a whole domain I realized I needed to learn, and I found it fascinating.
 
@@ -58,7 +58,7 @@ Pierre Casadebeig: Great ideas.
 
 Will: This is why people love the show. Another way you use data — I noticed this looking at *Despair* and some of your other projects — is that in addition to adding noise, you're discarding data. You start from a full set and remove parts of it. Is what's removed replaced algorithmically by code you've written, or is it just gone?
 
-[pool: Despair | Despair — Pierre Casadebaig | ]
+[pool: Despair | Despair — Pierre Casadebaig | | 3]
 
 Trinity: And is it the same data being removed every time, or does it vary per piece?
 
@@ -72,15 +72,17 @@ Some of these modifications were designed with a plotter in mind. If you just dr
 
 Will: It's fascinating — you incorporate data, noise, and other functions, and the final output still feels like a mountain. You start from a factual mountain and end up with a synthetic, algorithmically determined one, but looking at the plots behind you, they're still completely believable. That balance has to be intentional.
 
+[pool: Despair | Despair — Pierre Casadebaig | | 1]
+
 Pierre Casadebeig: The one behind me is actually one of the first outputs — it spreads out into these abstract maps, almost like a true map. It gets very hard to know what you can remove. It's easy to add things, much harder to remove them well. That's what I was aiming for with the more brush-like pieces in the first drop.
 
 Trinity: Going back to *Despair* — I know we want to talk about the upcoming collaboration, but this collection has so much variation built in. Was that variation intentional in the curation? Is it a function of different algorithms being used? How did you arrive at such a broad range of interpretations of mountains? Some pieces are almost photorealistic, some are very similar to *Meridian*, and *Polyline Hiking* barely reads as a mountain at all — it's pure interpretation. How did you get to some of these outputs?
 
-[pool: Despair | Despair — Pierre Casadebaig | ]
-
 Pierre Casadebeig: That was the goal for this work with Verse — I work with data, I make mountains, but with this algorithm the simplest output is the most realistic one, with a large number of lines. From there, depending on the sampling locations and the order in which you chain different functions — filter the dataset first and then remove data, or the other way around, then add smoothing — you get a whole range of variations, just from the parameters of those functions.
 
 I could go very realistic, or, at the other extreme, get down to *Polyline Hiking*, which is just two lines per location. The idea was to sample 60 locations across the range and put them in columns — no link to geography, except that if you know the place, it's the Pyrenees, with the Atlantic Ocean to the east and the Mediterranean to the west. Cross a transect through the mountain range and you get a transect of altitude, so the first samples are very quiet, there's more noise in the middle, and it's quiet again at the end. That one's more abstract.
+
+[pool: Polyline Hiking | Polyline Hiking — Pierre Casadebaig | | 1]
 
 With Verse, I realized I could do all of that without it being "the same algorithm" — it's hard to even define what counts as one algorithm versus another. It's just functions patched together in different orders, using the same set of tools. For example, one piece is close to the first drop, with a more comic-style look and precise ridges in different frames — but for that one I chose the seeds manually, so which ones would work well together. The algorithm produced the output, but the layout was manual composition. It's like designing a postcard: you make a lot of decisions, but it's hard to articulate the rules behind why the text goes in one spot and not another.
 
@@ -88,7 +90,7 @@ That manual control is one thing for a single piece, but it gets much harder whe
 
 Will: Let's talk about the upcoming Verse drop — 128 pieces, in collaboration with Tender. It's been a long time coming; I think your collaboration with Adam was announced back when the Tender Pass first sold, at least eighteen months ago, if not longer. Walk us through that journey with *Ridge Regressions*. Were there a lot of starts and stops? How many times did you come close to releasing it before the plan changed? What have the last eighteen months been like working on this?
 
-[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | ]
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 3]
 
 Pierre Casadebeig: Maybe the key thing is that the generative art space moves so fast that if you're not putting out a lot of work, you constantly feel behind. When I first discussed this with Adam, we connected through a common collector who was kind enough to introduce us and say Pierre was interested in doing a release with TENDER. My goal was to do long form, which wasn't the norm for me but felt like the right direction. I said, I want to do that, I need to learn JavaScript, I want to use fx(hash), and I need to find a subject that isn't mountains, because of my dependency on data there.
 
@@ -102,6 +104,8 @@ So that, plus the technical possibilities with Verse, made us say, okay, let's g
 
 If I can add some precision on why R is interesting to me: on the purely computational side, I'm not sure it's that different -- it might be slower than other languages, but I'm not certain even of that. The two things that really stand out are, first, its focus on functional programming. You don't often write iteration, or at least not using indices or complex calculus-style constructs. You just say, I want to apply a function over all the leaves in my stems, and it reads much closer to natural language. A lot of biologists gravitate to it for that reason -- you can write code, come back six months later, and still understand what you wrote. The other thing -- not little, actually significant -- is that there's a lot of theory in R around visualization, with a clear separation between the data and how you visualize it. Once you've coded the part that generates the data, you can try many different visualizations, and the code changes needed are tiny and very interactive. Both of those were things I missed when experimenting in JavaScript.
 
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
+
 Will: That answers the question of whether you've experimented with other languages -- sounds like you did quite a bit. If you ever go back to that flower project, you could always consider releasing it under a pseudonym on fx(hash) and see how people take to it. Apparently it's not uncommon for artists to keep secret alt accounts, so keep that in mind.
 
 Continuing on -- you mentioned the design elements you added for this piece. Something that comes up in a lot of the outputs is the paneling, the breaking up of the mountains into almost a comic-book-style composition. But there's also this asemic writing, which I don't think I saw in any of your previous work -- or if I did, I missed it. What role does that play in the theme and exploration you're going for with *Ridge Regressions*? Why the writing, and also the style -- there's quite a bit of variation, some with thinner plotted lines and some with really thick calligraphy, almost like a single stroke. I'd love to hear about all the different elements you've incorporated, their significance, and how you arrived at them.
@@ -113,6 +117,8 @@ A more recent example is Golan Levin's *Yazidographia* drop. He explained that a
 As for the writing -- once I had the mountains, I wondered how to bring in other ideas. Some outputs felt complete on their own, with very thin ridges and a lot of emptiness -- some of those could be rendered with a brush pen and stand thicker, standing on their own. Others needed to be complemented, or could at least support additional systems. My scientific background came back here too -- like scientific figures, where you have one figure, one legend, and by the time it's all typeset it looks beautiful, but there's a lot of work behind it that you don't see because the elements were carefully separated.
 
 This also carries over from a previous project with TENDER, where I tried to make each page feel like part of a book. What would the story of a book be -- front pages, intermediate pages, and so on? It seemed like a good number of the outputs could support that kind of page treatment. Others could stand alone. One could support clouds. Again, these are like bigger branches -- variations, but not different enough that they needed to be separated into different drops.
+
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
 
 Trinity: Looking at the previews on Verse right now, they're actually scans -- not digital outputs, but actual scans of the plotted work. Can you speak to the importance of having this physical element baked into the release from the start, rather than it being purely digital?
 
@@ -126,6 +132,8 @@ Will: I didn't put this in the notes, but I want to ask some market-related ques
 
 To kick it off: you've only been doing this for a bit more than a year, and some of your initial one-of-ones sold for a lot of money. I don't know how the *Ridge Regressions* auction will pan out, but some people bought TENDER passes specifically because they were excited to collect your work. What do you think allowed you to break through all the noise so early on?
 
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
+
 Pierre Casadebeig: Yeah.
 
 Will: Where do you think your success came from? Random luck? Offering something that looked different? It's on OBJKT, right -- you didn't even put your earliest work on fx(hash), where there are a lot of eyeballs. I find it can be hard to find things on OBJKT. Talk a bit about those early days -- what it felt like to say, I'm going to make some mountains, I'm a scientist but I'm going to make mountains, and then suddenly have people trying to spend thousands of dollars on them.
@@ -137,6 +145,8 @@ The other part, and I don't have a clean explanation for this, is that represent
 Will: Have you ever considered doing abstract work, or have you only explored these natural themes so far?
 
 Pierre Casadebeig: Yeah, no, I'm very bad at it. Something I use to guide myself when watching my own output is an analogy with music: if you hear a catchy tune, you get excited immediately, but usually I notice that it doesn't get a lot of play over the years. So I try not to keep the things I'm very impressed by at first. I prefer things I understand slowly. In this case, I try to stick to that rule when choosing what to release.
+
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
 
 Will: Gotcha. Trinity jumped off for a second, but she'll be back.
 
@@ -150,11 +160,15 @@ You also mentioned crypto a while back. One effect I've noticed is that it creat
 
 Will: Have you explored or talked to other platforms? I doubt Art Blocks would work unless you went back to JavaScript, but a platform like Tonic — I don't know if you're familiar with them — every release they do has a physical component. They even did a generative chair last year. Have you explored other platforms, or is it more inbound, people like Jamie from Verse or Adam from Tender coming to you? Do you just sit back and let the requests come in?
 
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
+
 Pierre Casadebeig: No, it's really about the people. I knew Adam first — he's very accessible, gives me feedback, and doesn't try to control the interaction too much. That's why I felt comfortable working with him despite not releasing much before. With Verse, I don't even remember if I contacted them or the reverse, but the fact that they proposed physical installations and an exhibition was reassuring — it was the first time my art was hanging on an actual wall, not just something on-chain. Those are the two reasons I've stuck with them, and I'm happy with that for now.
 
 Will: What kind of notes or feedback did you get from Adam? We've had him on the show a couple times, and he's always reluctant to talk too much about his process. To the extent you feel comfortable saying — what did Adam bring to the collaboration that you really benefited from? Did he play a big role in helping you craft those initial p5 projects, get them into a state where you were happy? Did he influence *Ridge Regressions* in ways you wouldn't have thought of yourself? I'm curious what the collaboration was like for you.
 
 Pierre Casadebeig: There was a difference between this project and the one that wasn't released. On that earlier one, he was very active, saying "this is working, this isn't," giving stricter and stricter guidelines. Eventually there was so much to explore that I just stopped and went back to my own language and expressions. On *Ridge Regressions*, it was more about reassurance — saying, okay, the stuff with the brush pen, simple as it is, works, don't worry. You always hit a point where you think your work isn't enough, especially seeing other artists progressing so fast, and you think, "I'm not going to release anything." So it helped a lot to have him say, "this path is working."
+
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
 
 The other thing that helped a lot on the first release was curation. For each style, we generated about 500 outputs, and then went through a curation step shaped partly by geography. It was good to let go and have outside eyes selecting things — that was really valuable.
 
@@ -168,13 +182,15 @@ Pierre Casadebeig: One option is to go with more detail. There are lasers embedd
 
 The other direction is what you mentioned — new sources of data. Scientific simulation models, for instance: you can simulate the level of stress on a crop field day by day for different crops, and that's also three-dimensional data. I haven't had time to explore it, but you could also use generative models that produce chunks of data, then patch my process onto that and explore from there.
 
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
+
 Another option is something like global temperature data — thinking about what story you could tell with it. Maybe properties of the data could change with time, temperature, water level. I tried something with rising sea levels over time in the Pyrenees, but it came out a bit gloomy — I'm not sure it's something people want to easily see, or whether "time passes and we're going to flood" is too simple a message. So that one didn't quite work. But there are still many possibilities within the constraints of data.
 
 Trinity: Cool.
 
 Will: We usually wrap up with a few rapid-fire questions to get to know you better. One we like to ask: what do you listen to while you work? What kind of music do you like? And feel free to throw in any media recommendations — I actually really enjoyed a French film this year called *After the Fall*.
 
-[pool: After the Fall | After the Fall — Mikkel Hartmann | ]
+[pool: After the Fall | After the Fall — Mikkel Hartmann | | 3]
 
 Pierre Casadebeig: I don't know if you—not in it, but yeah, them too.
 
@@ -188,13 +204,15 @@ Pierre Casadebeig: Yeah, it happens with classical music too — Steve Reich, fo
 
 Will: Another one we sometimes ask, since you've made some money from your sales — any artists you collect that you want to shout out? Have you explored much on the collecting side?
 
-Pierre Casadebeig: I don't collect much. The key pieces I have are from Zancan, and from Emily Edelman — she makes a series called *Asemica*.
+[pool: After the Fall | After the Fall — Mikkel Hartmann | | 1]
 
-[pool: Asemica | Asemica — Emily Edelman - Dima Ofman - Andrew Badr | ]
+Pierre Casadebeig: I don't collect much. The key pieces I have are from Zancan, and from Emily Edelman — she makes a series called *Asemica*.
 
 Will: Yes.
 
 Pierre Casadebeig: And recently one from Golan Levin. Beyond that, the things I'm drawn to are just unreachable — *Meridian*, of course.
+
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
 
 Will: We actually just talked about the Golan Levin release last night, on our weekly episode where we cover new drops. I've seen a lot of big artists talking about how much they love that release, but when you look at the market reaction, it sold out and did fine, but underneath, I think, the value a lot of artists expected. Where do you think the disconnect is between artists who really appreciate it and collectors who bought it but now can't seem to sell it for a profit?
 
@@ -208,6 +226,8 @@ Pierre Casadebeig: I'm not embracing it too much myself, but I can definitely se
 
 Will: Looks like Trinity isn't coming back—she had a work emergency. Let's do one or two more and wrap up. Another question we like to ask: who would you like to hear us interview? Who would excite you as a guest on Waiting to Be Signed?
 
+[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+
 Pierre Casadebeig: I'd need to read through the podcast's history to know better, but I've listened to a bit of Marcel Schwittlick. Did you ever get the chance to speak to Matt DesLauriers? I'm curious about him—he has some really striking work, and he's also very active in the open source community, giving a lot back while balancing that with crypto. I've never met him, and I'd love to hear him speak about it.
 
 Will: Not yet—he's definitely on the list. Especially after hearing him on Ken's show, he sounds like a really interesting guy to talk to. We haven't reached out yet. Sometimes it takes us a few months to get warmed up and figure out how to build an episode—though we got yours done quickly. But yes, he'd be an amazing guest.
@@ -216,7 +236,7 @@ Pierre Casadebeig: Also Aluan Wang—he makes a lot of interactive art. He doesn
 
 Will: We've both collected some of his work on fx(hash), but no, we haven't had him on either—he'd be a great guest. Thank you for those suggestions. Lastly, tell us what else might be coming up from you, other than *Ridge Regressions*, which comes out February 6th on Verse. Anything else you're working on that you want to get us excited about? I guess this is one of your two releases of the year, maybe?
 
-[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | ]
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
 
 Pierre Casadebeig: Maybe, yeah.
 
@@ -230,6 +250,8 @@ Pierre Casadebeig: Do you know what that is? There are a lot of different things
 
 Will: I've seen so many weird plant science things on TikTok. There's one where if you put a plant in a room with random lights, the plant predicts where the light is going to be. Have you seen this one?
 
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
+
 Pierre Casadebeig: No, not at all.
 
 Will: I'll find it and send it to you on Discord. I think they're trying to prove it's either plant intelligence or some kind of quantum link between plants and light—without training, they'll grow toward a future light source that's being determined randomly, with statistically significant consistency in picking right versus wrong. We can talk about that next time.
@@ -241,6 +263,8 @@ Will: I sent it to my brother, who's a PhD, but I don't think he actually looked
 Pierre Casadebeig: In short, I think cybernetics originally was just a definition of taking in different signals, integrating them, and reacting—a form of reaction and intelligence. If you stick to that and say plants are interacting with different signals, there is a form of intelligence there, even memory. But if you push the idea too far, you get all these wild theories. Still, definitely a cool topic.
 
 Will: Mushrooms are aliens, all that stuff. Well, Pierre, it's been awesome to have you on. We're really looking forward to your upcoming release on Verse, and to seeing something from you at the end of 2024 too. It's been great getting to know you—hope you enjoyed it. I think that's a wrap.
+
+[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
 
 Pierre Casadebeig: Thanks so much, Will, and Trinity too. It was definitely enjoyable, and easier than I expected to explain all this. Thanks for the thoughtful questions.
 

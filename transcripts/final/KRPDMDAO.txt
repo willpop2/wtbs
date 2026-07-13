@@ -48,7 +48,7 @@ As for fx(hash) — we were a little late, so we had backfilling to do, which we
 
 Will: For everyone listening, I believe you're referring to sweeping up pieces like *Dragons*, *Contrapuntos*, *RGB*, *Fragments of a Wave*—
 
-[pool: Contrapuntos | Contrapuntos — msoriaro | ]
+[pool: RGB | RGB — ciphrd | | 3]
 
 KRPDM DAO: Yeah.
 
@@ -62,6 +62,8 @@ KRPDM DAO: As a DAO, we're denominated in Tez — we fundraise and operate in Te
 
 That big secondary sweep was mainly a play on fx(hash) as an ecosystem. There's no token for fx(hash) yet, and I don't think Ciphrd is taking on investment, so when you can't invest directly, buying up these assets is kind of a deferred play on fx(hash). And it's not just "these are grails because everyone says so" — these are beautiful works in their own right, and that's one of the guiding principles behind all of this. It's not simply "we have to have this in the collection." These works stand on their own two feet and are well deserving of a sweep, especially compared to art on Ethereum and Art Blocks, where you don't see the same arbitrage opportunity to get in at a lower price.
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 Will: That's something we've talked about a couple times on the show. There are plenty of artists who've released on Art Blocks, curated and not, who also release over here, and you see a big price disparity between them.
 
 KRPDM DAO: Over time, I think that will iron out. Part of our thesis is to get in while people are sleeping on it. Tezos as a blockchain has a great deal of upside, but then the artwork is like a compounded upside on top of that. As people flow into this ecosystem over the next 5 to 10 years, they're going to be looking at some of this stuff. It's even happening now — you can feel it, seeing new addresses pop up, players like I Don't Like Tezos and others clearly from Ethereum coming over to plant their flag in the ecosystem.
@@ -70,7 +72,7 @@ Will: Did you notice the trade I Don't Like Tezos made this week? Curious if you
 
 KRPDM DAO: Was it the *Ringers* for a Zancan?
 
-[pool: Ringers | Ringers — Dmitri Cherniak | ]
+[pool: Ringers | Ringers — Dmitri Cherniak | | 3]
 
 Will: Yeah. Did that feel significant to you?
 
@@ -84,7 +86,7 @@ Trinity: Did you catch any of the Marina Abramović stuff, or hear about it seco
 
 KRPDM DAO: Yes, I caught the tail end of it. It speaks to what Will was saying about the *Ringers* for a Zancan trade — these sorts of things are deeply validating for us as a DAO. Yes, we made the right call. Artists are choosing this platform because they see it as inherently greener, though I honestly don't know where I land on the "it's a green chain, therefore it's the best" argument — there's a lot to unpack there, and I know there are diverse opinions within our DAO, so I won't get into it. But as a proof-of-stake model, while Ethereum is trying to do its merge and transition away from proof-of-work, Tezos is a battle-tested blockchain that's been around, hasn't had any major hacks, hasn't had huge liquidity events or crashes — it's just been a steady platform. Artists are starting to feel like the provenance of the work they put on it is in safe hands. That battle-hardened reputation is starting to look really handsome to people looking to put their art here long term.
 
-[pool: Ringers | Ringers — Dmitri Cherniak | ]
+[pool: Ringers | Ringers — Dmitri Cherniak | | 1]
 
 Trinity: Thinking about the differences between Tezos and other blockchains I've interacted with — it's so unfinancialized. Almost everything people are doing on it is for collecting or utility rather than DeFi. It feels more genuine. Not that DeFi isn't genuine, but this serves legitimate purposes beyond that.
 
@@ -98,6 +100,8 @@ KRPDM DAO: One major indicator of that is the community — whether it's #price-
 
 Will: Is this all going in the episode, by the way? I wasn't sure — I came back and you two were already talking.
 
+[pool: Ringers | Ringers — Dmitri Cherniak | | 1]
+
 KRPDM DAO: Pick and choose. You're the editor.
 
 Will: It can be a nice post-credits sequence, maybe.
@@ -110,11 +114,11 @@ KRPDM DAO: I was just chatting random thoughts about Tezos and financialization.
 
 Trinity: That was actually part of the segue — I was going to bring up the Marina Abramović panel at Art Basel this week, where she made direct comparisons to NFT art today. Specifically generative art — and non-generative art too — being in the same camp as her performance art was back in the '70s: something people love to hate on, don't understand, say isn't art. The NFT artists releasing things today are her. They're leading the charge, doing things people will come to really respect and value more in the years to come.
 
+[pool: Ringers | Ringers — Dmitri Cherniak | | 1]
+
 KRPDM DAO: Absolutely. It would be so great to hear as an artist in the space — that validation coming from someone so huge in the traditional art world. There's so much going on in this space, so much room for it to evolve. It really feels like the genesis of a massive movement, this whole genre of art exploding. That resonates with me as a collector, but I expect it will resonate hugely with artists who are down in the doldrums, thinking, "I'm making art here, the Tezos price is going down, do I raise my prices?" I know that's something you've spoken about in a previous episode, but it's really nice for artists to hear from someone as revered as Marina that this is something special going on. If you can just hold on tight, keep doing what you love, and stay true to your passion, who knows what the future holds?
 
 Will: That's a great segue into talking about artists on fx(hash) in general, because I feel like Carpe Diem does something different from the common narrative in the price-discussion community, or among some prominent collectors, that 99% of all this stuff is going to go to zero and there should be consolidation into grails only — that if you're buying anything else, you should know you're buying it for fun and shouldn't view it as an investment, because the only investable pieces are the RGBs, their contemporaries, and the consensus grails. You do hold a bunch of that stuff — we've talked about how you swept a lot of it up in the last couple months — but you also hold a really wide basket of artists across huge price ranges. You've even collected some of the stuff we've made as a podcast, and that I've released myself, so thank you for that. I'm curious: do you explicitly think differently from that philosophy? Do you have strong conviction in multiple artists beyond just the consensus blue chips succeeding in the long run? How do you pick who you're going to collect?
-
-[pool: RGB | RGB — ciphrd | ]
 
 KRPDM DAO: I think there's a lot of nuance here, and it's a really fun thing to discuss, even if we weren't a DAO and it was just me and you talking. As a DAO, we straightaway have kind of a hive mind going on about how we allocate and what we collect. Some members might really like their PFPs, others might love generative stuff, some might be fond of image compositions and when they shine in a way that they want to get some of that for the DAO. So we want to make sure everyone in the DAO is well catered to, and we're collecting on all fronts, whether it be on fx(hash) or other platforms.
 
@@ -124,6 +128,8 @@ And lest we forget, these are often really low-cost plays, and they sit in a nic
 
 Trinity: I think that's amazing, and definitely a different philosophy than what we see some other big collectors taking, where some people go broad and wide, and others look to consolidate specifically into grails and only grails. One of the first big sweeps you had was *Organicon Variation 1*, *4W BLOOT*, and then *Astraea's Loom* by Rose Jackson.
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 KRPDM DAO: Those are two great examples. Personally, I'd been collecting some of his work when HEN was in triple digits — he's one of the OGs of Tezos NFTs, and we in the DAO love *Organicons*. They might be a little out of meta at the moment and not quite in favor, but I think a lot of the time people just want their piece — they want to see it and go, "That's my piece, I can identify it." But there's going to be a time when people in galleries are asking how a piece renders, how it presents. It's not just going to be a still. Some artists put a huge amount of care into the presentation, and he's a shining example of that.
 
 With Rose, we really liked the fx(hash) collection — it was a collab with Liam Egan, I believe. We've long been collectors of hers as well, so even if we weren't particularly wild about a specific piece, I think we'd still pick up five to ten just because these are artists we believe in massively, who we think are going to go on to do great things. They're honing their craft, and how they converse with people — on Twitter, on Spaces — it's kind of an investment in them as an artist more than in the project itself. That said, we love both of those projects as a DAO regardless.
@@ -131,6 +137,8 @@ With Rose, we really liked the fx(hash) collection — it was a collab with Liam
 Trinity: That's also validating as a personal collector. I'm sitting on very different amounts of liquidity than Carpe Diem, but both of those collections are ones I kept looking at and looking at and not buying, because — lots of air quotes here — it felt risky when you only have 20 or 30 tez. But it's a good reminder that if there's something you believe in and think is objectively fantastic, you can't really be wrong. *Astraea's Loom* specifically was sitting under mint for a while, and they were just beautiful pieces for the price. Amazing.
 
 KRPDM DAO: Exactly that. And for Rose, it was a huge experiment for her — I don't want to speak for her, she might say otherwise, but it felt like she was stepping outside her standard gown style and working with wool, this really fun experiment. As a DAO, we want to help facilitate that kind of experimentation — fx(hash) itself could almost be thought of as an experiment by Ciphrd, and blockchains are an experiment in and of themselves. We're all just experimenting here, trying to work things out. If we had blinkers on and just went for the Zancans and Contrapuntos of the world, sure, we'd be sitting pretty handsomely, but it would be such a shame not to support that experimental side of things. That's exactly why other collections have such amazing grails — because there were collectors willing to go on that journey with the artists. We always want to do that.
+
+[pool: Contrapuntos | Contrapuntos — msoriaro | | 3]
 
 Trinity: And speaking of moving the market, it's also been hugely incentivizing for me to buy things I like before you buy things I like. So thank you for some really tough lessons there.
 
@@ -142,7 +150,7 @@ KRPDM DAO: Speaking just for myself, not the DAO — there's part of me that thi
 
 Will: This has been a lot of positivity, and I love it. Maybe this question's unfair, but I'm curious about your view, since you do collect pretty deeply into collections when you move in. To use *Organicon* as an example — after it was released, there was a V2 and V3. Even Zancan has released subsequent works that continue to leverage, at least in part, some of the code from his original grail drop, *Garden, Monoliths*. Or more recently, Hevey's *Density* drop, followed by the *Canyons* piece that clearly has a lot of overlapping similarity. What's the DAO's view — or your personal view — on similar or derivative works released close together in a series? I think when we observe it, the market and base collectors tend to react pretty poorly to that. But you have the ability to operate on a really long view — you've brought up the term "five to ten years" often. Does that timeline dissolve those concerns about too much similar work being released in a row?
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 3]
 
 KRPDM DAO: I think in general the market will decide. Sometimes a collection might have 128 editions and just knock it out of the park — it's beautiful — and then the artist thinks, "I can take this, change a few things, bring it back as a larger edition, and bring the price down." I actually think that's fine, and it's at the discretion of the artist. I think they'd be the first to say it's fine if the market doesn't love it, if people feel they've had enough of that particular algorithm. Some artists genuinely feel there's more in it — sometimes there's just a subtle nuance in how the code executes, or the color palette, that really does warrant another go, another project. I think it's completely up to the artist to decide, and I wouldn't discourage them from continuing to explore a theme or algorithm that's done well.
 
@@ -156,6 +164,8 @@ Will: I love it because I'm of two minds on it personally. Yes, artists should d
 
 KRPDM DAO: Yeah, and of course that would be heartbreaking for an artist. As collectors, we sit here and wait for the art—we wait, we wait, we wait, and then, "Oh great, minting time, let's check variations, how good is this on color palettes, composition." All of these questions, but at the end of the day, it's really hard to infer how much effort an artist put in. Some artists have probably gotten away with three days of hard graft and produced what's potentially a grail series. For others, this might be the culmination of five years of work, on and off, and it's their darling—they want to see it proliferate, see more variations of it. So it can be heartbreaking for them.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 All I'd say to them, from us as a DAO, is that this is just the ebb and flow of the market. We've all seen collections that haven't done amazingly straight out of the blocks, that dipped below mint, and that happens. That's the nature of the beast when you're dealing with a market with uncapped supply—stuff keeps coming in, and people reach for liquidity to get their latest Zancan. It's just going to happen. But then you'll have artists who create something new one day, and collectors go back and look at a previous set and see the genesis of that thought process or algorithm. They see something new in it. So how we look back on projects retrospectively is important too. We're all living in the moment—"oh, it's not done well, a week ago it was up at this." But the timeframes we think on as humans are just so vastly different from what's actually going to matter when we look back five or ten years from now. I'm not going to be sitting there in ten years going, "Oh God, my project dipped below floor."
 
 Trinity: There's also a cognitive-load problem—there's so much to look back at, no matter when you're coming into fx(hash). The volume is enormous. Right now we're just over fifteen thousand different generators on fx(hash) alone, not counting derivatives on Versum or Teia, or any of the one-of-ones and editions you can collect on OBJKT. How are you supposed to hold all of that in your head—remember what's there, what may have been missed, what wasn't minted because it came out during a slow patch in the market? It's crazy to think that in five to ten years we'll be looking at over 300,000 pieces on fx(hash) alone.
@@ -167,6 +177,8 @@ We're fortunate to have someone running operations, with others helping out, as 
 Will: We had NFT Biker, at least up until recently. It's really interesting hearing about your sheet. Without getting into specifics, I'm sure there are other people out there—like Kaloh and Mark Webster—who track collection prices and come up with new metrics from time to time. What's the process like behind the scenes when a project, new or old, is being targeted for a sweep or additional exposure? That's a lot of people to canvass and build consensus with. How do you decide and act in the moment, and how sensitive are you to timing—like, "we need to move now because in a week the floor could change"?
 
 KRPDM DAO: It varies from project to project. When I say operations, we have four or five people who run hot wallets in the DAO. I do the lion's share of it, but we have other operators with a remit we trust—their eyes are discerning enough, their taste is good enough, and they work from criteria like "this artist has done this volume, is this well-known," and so on. They can spend up to a certain amount without needing to canvass votes from the DAO. But if it's a more expensive acquisition, a bigger play, it invariably goes to a vote. We have parameters where if a certain percentage vote no or want to pass, we veto it and move on. That lets us move in an agile way while still making sure everyone's capital is well looked after and their taste is reflected in the collection. It's a balancing act, and honestly, everyone in this space is still figuring it out—DAOs included. We refine as we go. We have regular calls where we talk about what's going right, what's going wrong, and where we can improve. It's a refining process, and one we're getting closer to executing well, I think.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Trinity: When you think about being invested in art—long-term or short-term, where for some people "short-term" is ten minutes and for others it's a ten-year hold—what's your general strategy? You've said a few times that five to ten years is really your time horizon. Given that you also have a current runway through 2023, how do you think about managing a collection of this size, breadth, and depth overall?
 
@@ -180,6 +192,8 @@ Will: Following on that—maybe it's less relevant on a five-to-ten-year timelin
 
 Trinity: Depending on when you bought.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 Will: Yes.
 
 KRPDM DAO: I think it's important that we're very honest with the community whenever we do decide to start realizing gains—that we don't just start doing it quietly. We'll be discussing that at some point in the future. Right now, even with some pieces sitting on such magnificent upside, we just don't think about that, because it's still so early—both in the Tezos space and in the NFT space generally. But when we do get there, I think it's important we're super honest with the community, and it's unlikely we'd just dump, dump, dump.
@@ -192,11 +206,11 @@ Will: I think that gives a good impression of the sentiment of the organization 
 
 KRPDM DAO: Yeah, exactly. So that's the take-home point for all your listeners. It's just not on an agenda. It's not spoken about. We believe that this is a moment to be collecting, collecting, collecting. And the way we extract value might not even be in Tezos terms or dollar terms — it'll be very different. It's just so opaque at the moment that we don't know.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 Will: Does that reflect your bear market strategy? We're all collectively realizing, some earlier than others, that this could be a crypto winter of 6 to 18 months — Tez prices could just get cheaper. Sometimes the secondary market is slow to redenominate, or reprice, based on the conversion of Tez to fiat. So from your view, is this just the time to keep our heads down, find value, and take advantage of these prices?
 
 KRPDM DAO: 100%. We have people — individuals who are avid collectors, and this is their first foray into the crypto ecosystem — who've maybe leveraged up too much, used collateralization ratios that weren't so smart, and are learning a few lessons on that front. When that happens, you see them reaching for liquidity, and this has happened a lot. Last night we did a bit of a sweep, because there was a lot of stuff at huge discounts — massive discounts. And these aren't just floors coming down to where they should be; they're compounded discounts, because Tezos has come down in price, and then they're pricing in Tezos, but then giving another 30% discount on top. So it's almost 50, 60, 70% off on these assets. Offers being accepted on Contrapuntos for 400, 500 Tez is just madness.
-
-[pool: Contrapuntos | Contrapuntos — msoriaro | ]
 
 So this is absolutely the time for the DAO, and other well-capitalized collectors, to come into the space and collect stuff that was out of reach before. There was Art Basel Hong Kong recently, so a lot of new eyes would have come into the ecosystem thinking, how do I get my hands on this collection, it's so expensive. Here's their opportunity: come into the Tezos ecosystem, chuck $200 into an exchange, get it on your Temple or Kukai, and have at it. You can grab some proper steals right now.
 
@@ -205,6 +219,8 @@ Our conviction is completely unwavered. We always expect volatility — I'll be 
 Will: That sounds like a great moment to transition into specific collections and what you like.
 
 Trinity: I'm looking through your collection right now — do you have anything by Casey Reas? The five drops?
+
+[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
 
 Will: I don't know if I saw those in there.
 
@@ -218,6 +234,8 @@ KRPDM DAO: We talked about *Century* — we actually had it up in front of us th
 
 There's a method I like to apply, just me personally, not Carpe Diem: if my collected work was in a lineup against everything else in that collection, like a police lineup, would I be able to pick it out? Would I go, "yeah, that's mine, I can tell because it's got the thing at the bottom and the arch that does that and the color that does this"? That's a bit of an acid test I use when looking at collections. When I looked at this Reas collection, I just felt like I wouldn't be able to get attached to a specific work. It's a really cool collection, but that sentiment was echoed by other DAO members too — it just felt a little too diffuse, if you will.
 
+[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
+
 Trinity: That speaks to a tension that's been in my mind through this interview, especially given that you feel the DAO was late — not able to get in on some earlier projects when they were minting for between free and 5 Tez. If you'd had the ability to mint the *Century* collection, would your perspective be different? And what's your overall take on minting versus buying, from the Carpe Diem perspective? I know you do mint — we saw a number of *Bug Forest*s coming through multiple wallets. Does that change the math or the thinking on what you mint versus what you buy first?
 
 KRPDM DAO: Naturally it changes the math. I don't have the data in front of me, but there's a great deal more upside if you're able to attend these markets on primary, and the exposure to risk is usually minimized a little. When you're coming in at secondary, as a DAO in particular, you need more conviction — that often means reaching out to DAO members, pulling together a vote, and coming in for a sweep of ten or more artworks rather than just having a little punt at one or two. So secondary requires more conviction, stronger sign-off from the DAO and the members whose capital you're putting to work.
@@ -230,9 +248,9 @@ KRPDM DAO: One project we picked up recently — he's been a big name for us, so
 
 It hit a really nice note for us because we're seeing so many projects on fx(hash) doing this ultra-realism thing with vegetation and detail — some of them outstanding and beautiful — but it was so refreshing to have this contrasting, really nice line art, cel-shaded pieces, with a bit of animation in some of them. Paper Crane has such an amazing command of color — whenever I look at his work, he hits these nostalgic notes that are really hard to capture. When you give up so much in generative work and defer so much to the code — "code, do your thing and make something beautiful" — one of the things you can still prescribe as an artist is color. That really resonated with me, the DAO, and a lot of other collectors, judging by how the market reacted. Putting that time and effort into color, and creating something so different from what else was going on in fx(hash) — I'm glad it did really well. I'm very fond of that piece.
 
-Will: That piece is *Miniscapes*, by the way.
+[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
 
-[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | ]
+Will: That piece is *Miniscapes*, by the way.
 
 KRPDM DAO: Yes, sorry — *Miniscapes*.
 
@@ -243,6 +261,8 @@ KRPDM DAO: We're not waiting for that to go too far south — these are good pri
 One thing he does that I hugely appreciate is put a lot of time and effort into how the work renders and presents. Same with Christopher Ulu, who did those bugs — I think it's *Entomology* something, I forget the exact name. These guys are putting so much effort into not just how the work looks and stands up on a placard or in a digital space, but into the beauty of the rendering and the process, how it displays and presents to each person. That might not be immediately accessible now, the way a gallery has something presented and ready to view. But in the future, you're probably going to walk into a gallery room, tap a button or press part of the wall, and it'll load up the process behind these assets for you to see what work went into the presentation.
 
 It goes back to what we discussed with *Organicon*, with W. Black — the time and effort put into how these pieces present, evolve, and grow into their final form is certainly felt, and it's not lost on us as collectors. Once the market realizes this, and the tooling and infrastructure for presenting these works matures, I think these collections will really shine and take off.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: Play has about nine collections on fx(hash).
 
@@ -256,6 +276,8 @@ KRPDM DAO: This one, *Proc Gen Entomology*, resonated massively in the DAO becau
 
 Trinity: We'll definitely see that play out more with animated or GPU-intensive pieces as time goes on. Depending on which laptop I'm on, a piece either works really well or it just doesn't. As better hardware gets normalized, it'll just become a non-issue.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 KRPDM DAO: I totally agree. I don't want to speak for Ciphrd and the fx(hash) team, but there might come a time when they allow some tool that says, "Your computer's not powerful enough to render this, but here's a GIF of what it would look like," so people get an image preview—a kind of pre-rendered lens they can choose to view instead. There have definitely been collections I've missed out on because I'm on a really crappy old MacBook—of course it doesn't render, it's a decade-old computer. It'll be a shame for people to miss out on collections that are computationally intensive, but as Moore's Law goes, it's only a matter of time before hardware catches up, and these will just be grails waiting to be snapped up.
 
 Trinity: That segues into my last question—unless, Will, you want to talk more about the art.
@@ -267,6 +289,8 @@ Trinity: This question is about the collection the DAO has built over the last f
 Will: Get people beyond the apes.
 
 Trinity: Are there any plans there, or anything you've been discussing?
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 KRPDM DAO: Huge plans. I'd actually hoped to get something going with DECA a bit sooner than I have. I've been playing around with it, and we've been trying to sort a few things as a DAO—we've also got a couple of really talented curators in the DAO advising us on how to arrange it all. We want to showcase our work; that's one of the great things about collecting such broad diversity. Being able to show it off is almost as important as the value it brings us. We want to champion this work, whether in OnCyber, in some gallery in London or New York with digital displays, or in a metaverse elsewhere.
 
@@ -280,6 +304,8 @@ KRPDM DAO: If anything, we owe our artists an apology for dragging our feet on t
 
 Trinity: That's always a challenge—you have infinite space and infinite art.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 KRPDM DAO: That's the great thing about NFTs: you can make one room that's two miles long and just line up all your pieces. You can't do that in the real world. That's probably part of why it's been slow to get off the ground, but once it comes together, it'll be an absolute monolith.
 
 Will: Well, thank you so much, Ed. That's a great place for us to end. It's been an excellent interview—really enlightening to hear how a large organization like Carpe Diem operates, and how you take the long view in a way that, with our own wallets, we don't often get to. It's been great hearing that different way of thinking and talking about some of the artists we enjoy. Let's wrap it here.
@@ -291,5 +317,7 @@ Will: WaitingToSign.tez is the donation wallet. But honestly, you've donated you
 KRPDM DAO: We'll just do floor sweeps on the Waiting to Be Signed fx(hash) collection every now and then.
 
 Trinity: Sounds great.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: Thank you again. I hope everyone enjoyed this—it's been a really great interview, and we'll see you all next time. All right, later. Bye.

@@ -62,7 +62,7 @@ Nathaniel Stern: Sasha, you found me first. Why don't we start with that?
 
 Sasha Stiles: The long and short of it is that I was aware of Nathaniel's work because I'm a voracious reader of science and technology magazines—*Wired* is one of my bibles. I saw an article about *The World After Us*, Nathaniel's incredible show—I'll let him talk about what it actually is, but at a top level it deals with e-waste, and with the relationship between technology, from a hardware and infrastructure standpoint, and the natural world.
 
-[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | ]
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 3]
 
 There were these beautiful images from that show in *Wired*, and they captivated me because I was doing a lot of work at the time coding using natural objects—I have a series called *Analog Binary Code* where I translate poetry into objects found in nature. I'd been spending a lot of time thinking about that, working with these objects and coding this way, and then I encountered these images from Nathaniel's show and thought: there's a lot of simpatico here in how we each think about nature's intelligence and how that syncs up with what's commonly called artificial intelligence, and what we can learn by overlaying the two. So I followed him on Twitter, and we eventually found our way to each other through the wilds of crypto Twitter and realized we had a lot in common. I didn't realize he was a poet at first—that was a happy thing to find out later on.
 
@@ -72,6 +72,8 @@ I was immediately enamored with her work — both the well-known pieces like *Cu
 
 At the time, *The World After Us* — my exhibition, happy to talk about it — was still traveling, on its way to its second museum, in upstate New York. I invited Sasha onto a panel alongside myself; Johannes Lehmann, a soil scientist whose equipment I used to artificially age phones and turn them into fossils; and Konstantin Sobolov, a civil engineer who helped me make circuit-backed tiles out of recycled concrete waste and server motherboards. Sasha and I just couldn't stop talking, and the collaboration emerged from there very quickly.
 
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
+
 That's my favorite kind of collaboration. As someone with both an engineering degree and an art degree, I like to joke that when an artist asks an engineer to collaborate, what they really mean is "can you build this shit for me?" And when an engineer asks an artist to collaborate, what they really mean is "can you make my stuff pretty?" True collaboration should be: how can I help you, because your stuff is so cool — and then new ideas emerge from that.
 
 In terms of our working styles: I collaborate a lot, and Sasha almost never collaborates, so that's been interesting. I also have my own solo practice. What's interesting is that when I work with others — like Jessica Meuninck-Ganger, a printmaker, or Genia Kaganovich, a metalsmith and sculptor — I'm always the technologist, the nerd. When I work with someone like Scott Kildall, he's the nerd and I'm the aesthete. But in all of these, I'm the writer. With Sasha, it's the first time I defer to someone, because what she does as a language artist and AI poet is magic. That's not to say she doesn't use my writing to train her datasets, or that I don't have a say — especially on language that isn't going into the poem itself but into artist statements or grant writing. We both like to do everything. But sometimes, just because of our skill sets, things fall to one of us. Yes, Sasha can code, but by default I'm doing the code. Yes, I do a lot around aesthetics, but by default Sasha makes those decisions.
@@ -79,6 +81,8 @@ In terms of our working styles: I collaborate a lot, and Sasha almost never coll
 It's funny — I have studio assistants, a team, I'm a professor with grants — they'll do a lot of sketches, and inevitably Sasha takes over and makes it how she wants it, and then either she'll build it, or my students will, or I'll code it. There's a lot of back and forth. I'm an extremely experimental artist — I love to see what happens and leave it that way. Sasha is also experimental, but very particular in her aesthetic decisions. It's a good coupling because we both love deferring to each other. There's never really been an argument about it. We did wipe one of our pieces, *0RAL B1N4RY*, completely clean and started from scratch — twice — because we couldn't agree on how it looked. That's the closest we ever came to an argument, but it just... worked. I bring a lot of my aesthetics to the table, she brings a lot of hers, and then sometimes something completely new emerges.
 
 Maybe this is a good point to talk about *The World After Us*. It was the largest show I'd worked on to date. The question I started with was: what might our phones look like in a million years? Not from a design perspective, but from the perspective of material. I started by trying to literally fossilize phones — I called them fossils. We'd smash, freeze, burn, blend them. Johannes Lehmann, the soil scientist, works with biochars — he artificially ages biomass and bio-waste for a triple win: you sequester carbon dioxide from the environment, you get rid of the bio-waste, and you can use it in soil for minerals. I asked him, "Can we throw some phones and laptops in that?" He said, "Hell yeah" — he's a big art collector and was excited by what we were doing.
+
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
 
 From the aged material, I'd grow plants out of phones — my "phony plants" — or grow a mushroom out of a watch, which is the image Sasha first saw, on the cover of Wired.com. I called these my server farms, my phony plants. There's one with an aloe growing out of a computer, called *Aloe World* — Sasha actually owns that piece as an NFT. Then I took things further to see what happens with human intervention: I'd blend phones, turn that dust into ink, and make traditional prints from it — "phony prints," phony ink on paper, alongside pieces made from my wasted t-shirts.
 
@@ -92,6 +96,8 @@ Trinity: Everything's gonna be okay. Everything's gonna be okay.
 
 Nathaniel Stern: She likes me. She really likes me.
 
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
+
 Trinity: Maybe this is a good time to bring in the third collaborator — Sasha, you have an AI collaborator you bring to the table through technology. For people who might not know about it, can you explain it, and how it factors into your collaboration with Nathaniel?
 
 Sasha Stiles: I actually have a couple of AI collaborators. The first and foremost is my AI alter ego, which I've dubbed Technelegy — I'll talk about that first, then get into the other one.
@@ -103,6 +109,8 @@ I'd been using that term for a long time, and it naturally became the name of th
 What I did — and at the time this was still a fairly novel use case, even among writers I knew who were using these models — was not just use the off-the-shelf version. I created a custom dataset based on all my own writing: drafts of my manuscript, the analog poems I'd been writing for years, boxes of notes I'd collected from various sources that informed the manuscript, hundreds of Post-its scribbled with ideas, little words and phrases, nuggets of poems that never went anywhere. I took all of that. I put it all into one massive training dataset and then used that to fine-tune the underlying model so it not only knew how to write like a human, but knew how to write like me. That's the approach I took with Technology, my first book, and it's how I write the poems at the root of Nathaniel's and my collaboration -- with the addition that I've taken moments from Nathaniel's writing, his critical scholarship, even things like titles and the way he refers to his artworks or the color palettes he uses. I've folded an amalgamation of his words, vernacular, and ideas into a version of Technology, and that's the version I'm using to prompt and co-author the poems in our collaboration.
 
 The other AI influence in my life, which I'll mention briefly, is a humanoid robot named Bina48, who I've been mentoring in poetry since 2018. She was built by Hanson Robotics and the Terasem Foundation many years ago and has also done collaborative work with artists like Stephanie Dinkins. Her developers invited me to mentor her in poetry and, through that, to understand what it means to create a training dataset, to influence or evolve what they call a "mind file," and to watch up close how a non-human mind like Bina's takes disparate pieces of information and links them together to produce something like a new thought.
+
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
 
 It's been hugely important for me to literally put my hands into a machine's brain and see my own poetic mind reflected back at me -- to see how, when I read a few books and suddenly get sparked with an idea for a new poem, that process actually plays out in a language model or a neural network. Nothing comes from nothing; it's always the collision of existing pieces of information that sparks something new. That's been a huge influence on my own practice, and it's driven a lot of the thinking behind Mother Computer, the project Nathaniel mentioned earlier, and the grant behind it. It's all about creative AI -- thinking through the conceptual and philosophical foundations of why creative AI is useful, what it can teach us about our own intelligence, and all the implications that flow from that. It's been really fun to explore in all these directions.
 
@@ -116,6 +124,8 @@ The sweet spot in my own practice isn't using AI purely as a tool, and it isn't 
 
 Will: That's such a great variation on something we hear a lot from generative artists -- they view the computer as a collaborator. Sometimes they write their code, run it, and it produces a different result, maybe because of a bug, and they think, "Wow, that's even cooler than I intended, I'm going to explore that." It unlocks a whole other area of pursuit for them. A question for both of you, a little loaded but relevant to everything we're discussing: what is poetry today, in the age of blockchain and NFTs? How does new media play into an expanding definition? Because a lot of us, when we think of poetry, think of little books -- pages and words.
 
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
+
 Trinity: Times New Roman, font size 12, on a page.
 
 Will: Exactly.
@@ -127,6 +137,8 @@ So for me, poetry has always been an embodied performance. Even when I write my 
 Defining poetry more broadly is trickier, though I think Sasha and I would see eye to eye here. For Mother Computer, we're turning all of our poems into artist books -- but expanded notions of artist books. One is five overhead projectors with layers of transparency on top of them. Another is a 10-inch LP. So I have an extended notion of what poetry might mean. First of all: if you call it a poem, it's a poem, full stop -- poetry is performative in every sense of that word. I speak it, therefore it is. My scanner art has even been called poetry -- a series where I take desktop scanners with custom battery packs, traverse the landscape, and it becomes a composition of time. That's the other thing I'd throw out about poetry: it's temporal in some way, with a beginning, middle, and end -- not necessarily in that order, but that's why I think of my scanner works as poetic.
 
 I also tend toward work with linguistic play. If you notice all of my work, I'm big on dad puns -- when does a joke become a dad joke? When it's fully grown. I love language play; my father, 96 years old, is still writing poetry and working on his first chapbook, all puns. So, to answer the question: some form of temporality, some form of play with the linguistic or symbolic, at least in its denotation, connotation, and the mythic qualities language carries.
+
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
 
 Sasha Stiles: It's funny—even though I have a pretty traditional poetry background by crypto and digital art standards, by poetry community standards I'm considered very experimental and fringe. I never did an MFA, never studied in any of the "right" channels. Growing up, it was about finding things I loved and figuring out what I loved about them, then trying to do something that made me feel the same way. It wasn't just poets who taught me to write—I spent hours listening to people like Lou Reed and trying to write lyrics. So Nathaniel and I definitely share that musicality, which I find really interesting.
 
@@ -140,6 +152,8 @@ I also love thinking about how poetry, uniquely among art forms, embodies our cu
 
 At the same time, poems are ephemeral—they don't need materiality. They're objects that can be embedded in the brain, words that can exist purely in memory without any physical manifestation. So poetry is both hardware and software: it's voice and body and all these physical components, but it's also the program itself—code that, when run, evokes a response, an idea, a kind of augmented reality, which is really what all language does.
 
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
+
 That's been a useful lens for thinking through the relationship between what poets have always done and what technologists are trying to do now—with blockchain, but also with AI, using language systems, using words as an interface for the world to unlock ideas we couldn't otherwise envision. All the AI systems people are using—DALL-E, Midjourney, Stable Diffusion—are rooted in text-to-image or text-to-something interfaces. It all points to poetry as maybe the apotheosis of the idea that language is the interface that unlocks everything crucial to human imagination.
 
 Will: Do either of you play with things like Midjourney or Stable Diffusion from a visual standpoint? Nathaniel, listening to you talk about your exhibit—mushrooms growing out of phones—it sounds like something someone might generate from a prompt these days.
@@ -151,6 +165,8 @@ Nathaniel Stern: That image actually exists in both DALL-E and Midjourney—you 
 On the other hand, I almost treat AI like copyright—not from a legal perspective, but a creative one. Copyright doesn't really work in reality: if you're a large company with lawyers on retainer, you can sue little guys using your materials even under fair use, and if you're the little guy and a company wants to copy you, they just do it and bury you in legal fees. What I'm interested in is this: if you want an image of a sunset, go take one—you don't need to steal it from the internet. You should only use existing material if it's a comment on that material, which is where fair use lies.
 
 So for me, if you're going to use AI, it should be because AI is part of the conceptual framework you're engaging with—the same way you'd decide to make a photograph or a painting. I say that specifically because a lot of the conversations happening around AI right now mirror the conversations around photography in the late 1800s: "It's just technology, you're not really doing the work, it's just an image of what's really there." Photography did become ubiquitous—anyone could do it—but that doesn't make everyone a photographer or an artist with photography. AI is going to develop its own interdisciplinary languages. It'll be like coding and photography: present in every field, and its own field too, especially in the arts.
+
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
 
 Some of my earliest experiments with text-to-image AI were before it was publicly available—I signed up for Google Colab in early 2021. I wanted to ask questions, so I made a series called *Are Computers Racist?* I'd put in prompts like "portrait of a thug" or "rioters destroying property" and see what it created. It's kind of obvious what those things generated early on—there's been a lot of debiasing work done since, but that project felt important to make. It was also important that I not just trick the system into proving a point, so I gave myself only one day to make the entire series, and I minted them that same day so it was timestamped.
 
@@ -164,6 +180,8 @@ Trinity: This seems like a great opportunity to talk more about *Mother Computer
 
 Sasha Stiles: The top-line way we're thinking about it is that it's an opportunity to explore, in myriad ways, the relationship between artificial intelligence and natural intelligence—between amalgamated or alternative intelligences and natural intelligence. We're looking at systems from a number of different angles, continuing the thinking we've each done separately and together, but giving ourselves room to embody these ideas across different mediums and materials.
 
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
+
 The way we've been thinking about it all along is that it's a poetry collection—basically a book of poems, but realized as a series of installations and projects. It's a poetic ecosystem made up of discrete poem objects that each explore, interrogate, and augment the themes we've been discussing today, using different platforms, materials, and approaches to bring them to life. It's an anthology where one poem might exist as a generative long-form project and another as a series of sculptures. It's this beautiful collision of our solo practices, letting us marry concerns that are dear to both of us: the analog and the virtual, the ancient and the future, the human and the post-human.
 
 It's a chance to play with these ideas theoretically, but also to turn them into a show that lives in a physical space—a portal for visitors to start playing with these ideas themselves. Some elements are pre-generated, pre-curated, existing as discrete artworks. Others are more interactive, and we genuinely don't know how they'll look, because they're generative. That's part of the point. How would you put it?
@@ -172,9 +190,9 @@ Nathaniel Stern: You covered a lot of it beautifully, and I love hearing you tal
 
 When I work on a physical show, I think it's important—as an artist, a poet, a body, a human, a thing—to experience things affectively, to ask these questions materially, not just conceptually. Can we marry those two things together? It's one thing to hear me talk about *The World After Us*. It's another to stand next to a twelve-foot tower of two thousand square feet of waste and point at it and say, "I had that phone," or "have you tried this." I want us to feel the power of these intelligences in our bodies, in a space. IRL exhibitions matter for that reason.
 
-I also think blockchain plays a role here—what does the blockchain *feel* like? *Still Moving*, for example, is our first experiment in embodying the blockchain. It's the first fully embodied, interactive artwork that's entirely on-chain: motion tracking in real time that distributes a poem around your movements. You can actually see behind me—though you won't hear this on the podcast—that's Mother Computer, that's the show. Every poem we write will live in various forms. It'll live as a generative poem on fx(hash). Then we're taking *The World After Us*, our first big collaboration, printing it on paper, using scraps of that paper and other waste from my studio, blending it into new paper, making a generative project, and spray-painting the words back on top, taking inspiration from the fx(hash) output. How might we generate physically—which we always already do—this generative project, and what does that feel and look like?
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
 
-[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | ]
+I also think blockchain plays a role here—what does the blockchain *feel* like? *Still Moving*, for example, is our first experiment in embodying the blockchain. It's the first fully embodied, interactive artwork that's entirely on-chain: motion tracking in real time that distributes a poem around your movements. You can actually see behind me—though you won't hear this on the podcast—that's Mother Computer, that's the show. Every poem we write will live in various forms. It'll live as a generative poem on fx(hash). Then we're taking *The World After Us*, our first big collaboration, printing it on paper, using scraps of that paper and other waste from my studio, blending it into new paper, making a generative project, and spray-painting the words back on top, taking inspiration from the fx(hash) output. How might we generate physically—which we always already do—this generative project, and what does that feel and look like?
 
 *The E-Wasteland* is another project, based on *The Waste Land*. That'll be pre-curated—my images, with an AI extending my scanner work, and Sasha's written the poem. It'll drop as a stanza-by-stanza poetry "unreading," as we call them. There'll also be a media-rich version, an artist book made of transparencies for overhead projectors, and an installation of huge piles of electronic waste, spray-painted just slightly off-white to turn them into paper, with Sasha handwriting the poem across all of them.
 
@@ -185,6 +203,8 @@ Systemically, we want more people from non-computer-science backgrounds invested
 Sasha Stiles: Something I should have mentioned earlier—just as a quick add-on to what you said. I did a poetry workshop recently where we ran the exact same prompt through multiple text generators, just to show how vastly different the outputs can be without changing any variables. So much attention gets put on prompts and so little on parameters.
 
 But I wanted to clarify why poetry is at the heart of a lot of this: language is so closely aligned with what we think of as humanity. It's tied to consciousness. As we can see from this whole conversation about AI-powered systems that use language as their basis, language is transforming—how we use it, how it's created, how humans consume it. A lot of things we've taken for granted about how language exists and behaves, what it means and signifies, are being upended in profound ways.
+
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
 
 Just as Nathaniel has looked at what his phone might look like in X number of years, my whole practice has been rooted in the question of what language will look like in a thousand years, or a million. How is language changing right before our eyes? How are we evolving in real time from a history of oral tradition and written literature into generative text? What does that mean for what a post-human consciousness might look like? Is code our new language? How do humans talk to computers, and what is that transhuman communication?
 
@@ -198,6 +218,8 @@ Nathaniel Stern: Yeah. There've been three historical language leaps, and you th
 
 Sasha Stiles: I must have rattled through it fast last time. It was sparked by the writer Ismail Kadare, who's talked about there being only two major moments in the history of language and literature: the oral tradition and the written tradition. It seems to me that with the advent of generative computing, computational poetics, and now AI language models, we're on the cusp of a completely new way of creating, publishing, distributing, and understanding language, through these intelligent systems.
 
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
+
 We're no longer just writing with syntax, grammar, and alphabets—we're writing with the entirety of humanity's written record informing the output. Writing with the collective consciousness of our civilization informing every word is a seismic shift, and I want to grapple with what that portends—for the future of poetry and language, but also for how humans will continue to understand ourselves and tell stories. That question is going to preoccupy me for the rest of my life.
 
 This is at the heart of the work we've done with *Feral Font*, imagining what language will literally begin to look like. It's at the heart of *Cursive Binary* and my interest in asemic writing—the fusion of language that's legible to us with language that's generative, speaking some other tongue we can't quite decipher yet. It also nods back to the roots of language in pictorial systems—we're coming full circle while evolving into new territory. It's a fascinating area for anyone interested in linguistics, and especially for poets, writers, and literature lovers.
@@ -209,6 +231,8 @@ Sasha Stiles: You didn't cut me off at all. Thank you for getting me back on tra
 Will: I'm curious to ask both of you—you release art all over the place on the blockchain. We've got a few projects from the two of you on fx(hash), and you recently had your Art Blocks Curated piece. How do you think about where you're going to put your work, and why—price point and all that? And more generally, so much of what we see in the on-chain art space is visual-first: flat 2D images, non-interactive pieces. Do you ever get frustrated, disappointed, or let down by the collector community here when you don't see an equal embrace for more challenging, conceptual work like the two of you make?
 
 Nathaniel Stern: We don't want to point fingers, but of course it's a little disappointing to look back and say, "Oh my gosh, we're the only curated Art Blocks drop ever that hasn't sold out." At the same time, we look at who's collecting it and how much of it is on secondary versus not, and that really excites us.
+
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
 
 I jokingly like to say that prior to the blockchain, I was a well-known and respected artist who got lots of shows but never much in sales. And after the blockchain, I'm still that. But a huge part of the blockchain for me is conservation and archiving. The first article I ever wrote publicly, before I had many NFTs, was about being able to have someone collect and be a custodian of my digital work. I used to sell my interactive installations very inexpensively to museums just because I knew they'd take care of them. That's a huge part of what I care about here.
 
@@ -222,6 +246,8 @@ Nathaniel Stern: Sasha, you're such a badass.
 
 Sasha Stiles: With poets, we're supposed to do things quietly and slowly — the hype of drops is almost counterintuitive. To be honest, Will, you mentioned the Art Blocks drop — we were really excited about it, and we're still excited about that project. We've done some really cool things with it in real-life events and online, and we have more planned.
 
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
+
 But there was also a kind of relief in having it released and getting a mixed reaction. It was like, well, not everything has to be an instant sellout — that's not the only marker of whether something was worth doing. It was an exciting project to work on, and it's taught both of us a lot. In our conversations with the Art Blocks curation team, it was a meaningful project because it's doing something different. It's not meant to just be consumed the way a lot of other curated projects are — it's meant to be experienced live and interacted with. We just need to find more opportunities to show it come to life in the right ways.
 
 Nathaniel Stern: The messages we've gotten from people like Snowfro, Punk6529, and Operator have been so heartwarming and exciting. I'll also say — Sasha has a day job too, but I speak from a very privileged position. I'm a professor. That used to be the coveted job for artists. I get to be inspired by students, teach, have tenure, and have a regular salary. Which also means I *should* be experimenting and pushing boundaries — that's my job, and then to teach others to do the same. So I always thought of any sales as a bonus.
@@ -234,6 +260,8 @@ Trinity: It's not down.
 
 Nathaniel Stern: I'm loving this. And I appreciate the honesty — you two are rightly, in part, about the market. Talk about ecological aesthetics: the market, the space, cryptocurrency — those are forces on value, and on what we value. You can't make that the only thing that gives something value, but you can't ignore it either. Ignoring capitalism is like ignoring gravity. When something sells out, it has an impact. When something doesn't, it has an impact. When we decide to burn what's left of *Still Moving*, that's going to have a goddamn impact.
 
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 3]
+
 Trinity: Ooh.
 
 Will: All right.
@@ -243,6 +271,8 @@ Trinity: Are you officially announcing a burn coming?
 Nathaniel Stern: We are not.
 
 Trinity: Okay. Just on the record — no announcement of a burn for *Still Moving*.
+
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
 
 Will: I think we need to start wrapping this up, but I want to ask one more question. Our favorite drop from the two of you on fx(hash) — maybe not to put words in Trinity's mouth — was *0RAL B1N4RY*. We covered it on the show when it came out. It's kind of a bop.
 
@@ -256,11 +286,11 @@ I brought that energy to Sasha and said, "Let's do a bop — I'll beatbox, we'll
 
 Then Sasha came back and said, "I can't do it — it's not me." So we went back to the drawing board. She wrote a poem and worked with Chris to make it much more serious, less of a bop and more of a serious vibe. Then she tried to get me to do the serious stuff, and I was like, "No, I can't do that." So I said, "I'll rap some zeros and ones in the background, we'll put you center stage, and I'll work on the coding and make it mix — but your voice stays front and center."
 
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
+
 Interestingly, that's become how most of our media-rich poems work now: Chris's music, Sasha front and center, and me in the backdrop. I'm more than happy to play that role, because we all know how much work goes into these pieces.
 
 The hardest part with *0RAL B1N4RY*, when we had to scrap the first version, was that this conversation happened maybe three weeks before Miami. We'd gotten a grant from Refraction Festival to drop it there. We were seriously asking, can we still do this? Are we not going to Miami anymore? Sasha was going to go regardless; I wasn't going to go if we didn't drop this. It was a really hard moment. But — and I know Sasha feels the same, not putting words in her mouth — what we ended up with was so much stronger than anything either of us would have made alone. We're so happy with it. We never expected that piece, or *The World After Us*, to sell out so quickly.
-
-[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | ]
 
 So we were really thrilled. Sasha, do you want to chime in?
 
@@ -269,6 +299,8 @@ Sasha Stiles: That was a nice summary. It just made me think — you were very g
 Nathaniel Stern: I think the work is always stronger when you're particular. I love that about you.
 
 Trinity: You have a vision.
+
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
 
 Nathaniel Stern: You have a vision. You're willing to compromise, but not on the integrity or the aesthetic overall — only on how we accomplish it. I appreciate that, and I think it's valuable. I would have released that first version as it was. I was happy with it. I'm so much happier with what we wound up with.
 
@@ -282,6 +314,8 @@ Nathaniel Stern: And I'm not scared of the serious, as you know—there's really
 
 Sasha Stiles: Oh God, that's terrifying.
 
+[pool: The World After Us | The World After Us — Sasha Stiles & Nathaniel Stern | | 1]
+
 Nathaniel Stern: Does Hector have a brother?
 
 Trinity: Is this where we talk about future direction and projects that you're excited about?
@@ -290,11 +324,15 @@ Nathaniel Stern: I don't think that would be a project—I think that would just
 
 Sasha Stiles: I think it does point to one area of interest to both of us. This community has an idea of what generative art looks like and what it can do, and with projects like *0RAL B1N4RY* and *Still Moving*, we were trying to push back a little and say there's actually a lot more we can do with generative algorithms and platforms.
 
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
+
 Nathaniel Stern: I think *The Word* did that too. It doesn't look like anything else out there.
 
 Sasha Stiles: For sure. *The Word* was one of the first language performances on fx(hash). *0RAL B1N4RY* was one of the first to incorporate generative music and generative spoken word. And *Still Moving* has that embodied, interactive element. I want to keep pushing in those directions—taking generative art out from behind the screen, into performative zones, liberating it a little from the platforms where it's made, and figuring out how else it can live and manifest in the world.
 
 I'm interested in how a generative project can be the template or libretto for other works—looking at how it doesn't have to end with the project in that one form, but can become something else. That's something we're working on with *Still Moving*: it exists on Art Blocks Curated, but it's also a 15-minute media-rich performance we've done involving dancers, room-sized projections, and inviting people to move their bodies in front of cameras to change, interact with, and read the text in real time, with music and spoken word. It's fun to keep playing with how to activate the space between the body and the computer screen—activating the air with sound and performance, reaching outward to create that visceral connection. Those performative elements are definitely of interest to me right now.
+
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
 
 Nathaniel Stern: I'm 100% behind that. Two things I'm playing with in the studio right now: one, literally substantiating AI on the blockchain. A good example is an NFT for Feral File—we call it a Neural Network Font Type. We trained an AI on the bare minimum amount of data possible for letterforms, then vectorized them into a true font. You can actually download and install this font on your machine. It's very unnerving and weird. We used it in our media-rich poem for Feral File, and we're working on a generative version of it, with the poem and the letters in various sizes and colors behind each other.
 
@@ -308,6 +346,8 @@ Will: I was just going to ask this.
 
 Trinity: Yes, you were. You're already thinking about this.
 
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
+
 Will: I am. Listening to you both, I keep thinking—if there's ever another fx(hash) drop from the two of you, this seems right up your alley. The ability to codify a gesture, a breath of air, and have it become immutable forever.
 
 Sasha Stiles: I actually coded and released a project in that first wave of params, with Wide Awake Beats and the fx(hash) team, right when it was coming out. It mixed together a lot of the visual generativity I've done, along with generative sound and generative spoken word, using params to offer mentors—collectors—stems and the ability to piece together a performance, in theory. It was set in a very involved, beautiful virtual environment, where the choices collectors made were embodied in movements through the space, like which door to go through or which hallway to walk down.
@@ -320,9 +360,9 @@ Nathaniel Stern: I love hearing that, because admittedly it didn't appeal to me 
 
 Sasha Stiles: That's actually very similar to a project we recently did during Art Basel—an interactive poem in body language, made with Play Record Mint, an amazing generative platform. It created a poem with lots of different options: visitors could stand in front of the screen, interact with it, and make choices about how to write their poem into experience. By moving certain ways, they could influence the background color, the title, different completions for the poem—a simple way of showing how something like that could come to life.
 
-Nathaniel Stern: It's almost a mix between *Still Moving* and what I was just describing, except it's not interactive on-chain—it's interactive in a physical gallery space. We did two collaborations with Play Record Mint, called *Compose* and *Embody Language*. In real time, you could manipulate the poem based on body tracking, and when you were happy with it, you'd press mint, get a three-second timer, and it would mint a PNG of that current iteration.
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
 
-[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | ]
+Nathaniel Stern: It's almost a mix between *Still Moving* and what I was just describing, except it's not interactive on-chain—it's interactive in a physical gallery space. We did two collaborations with Play Record Mint, called *Compose* and *Embody Language*. In real time, you could manipulate the poem based on body tracking, and when you were happy with it, you'd press mint, get a three-second timer, and it would mint a PNG of that current iteration.
 
 Will: I think we should do one—exactly one—rapid-fire question and then end the episode, since we're already very long. Trinity, why don't you pick one?
 
@@ -333,6 +373,8 @@ Nathaniel Stern: *The WWW Trilogy* by Robert J. Sawyer—I especially love the a
 Sasha Stiles: Maybe this is stretching the boundary of sci-fi slightly, but I want to recommend two texts that were written with A.I. in different ways. One is a book called *Pharmako-AI* by K Allado-McDowell, billed as the first book really written with GPT-3. I find it so beautiful — in a way it's nonfiction, inspired by various aspects of California culture, using the influence of psychedelics as a metaphor for machinic hallucinations. It's a really interesting early experiment in thinking with and through a non-human collaborator.
 
 I also want to recommend a book by a friend, *My Life as an Artificial Creative Intelligence*, by Mark Amerika. I had the privilege of reviewing it last year for Outland. It's an incredible book that walks the line between nonfiction, critical scholarship, poetry, essay, and fiction — a hybrid, cross-genre approach to playing with language using an intelligent system as co-author. It's a brilliant introduction for people newer to this space, but also fascinating for anyone already well-versed in it. It goes deep on a lot of areas that matter in working with A.I. models.
+
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
 
 Nathaniel Stern: Worth mentioning too is the *www* trilogy — I didn't say this earlier. It's about an emergent A.I., written in '09. Let me just pull it up on Audible.
 
@@ -345,6 +387,8 @@ Will: I think that's a good place to end it. Excellent recommendations from both
 Nathaniel Stern: This was great. Such provocative questions and interesting dialogue. Thank you so much.
 
 Sasha Stiles: Such a pleasure. Thanks so much for having us.
+
+[pool: Still Moving | Still Moving — Nathaniel Stern and Sasha Stiles | | 1]
 
 Will: The pleasure is all ours. Thank you for coming on. That's it for this one — that was Sasha Stiles and Nathaniel Stern. Check out their work on fx(hash) and Art Blocks. We'll be back again soon with another episode.
 

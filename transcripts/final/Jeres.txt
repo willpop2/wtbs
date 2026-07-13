@@ -20,7 +20,7 @@ I found my way here through having a little spare time to try to redefine my lif
 
 So I started exploring more with p5, minted a few things on Hic Et Nunc, but when I found fx(hash) I knew that was what I wanted to work toward. Given my software engineering background — I'd been writing code professionally for 25 years — I thought, this is really fun, and I just set out to create a collection for fx(hash). I didn't know what would come of it, and that turned into *Sinuosity*, since it's on the blockchain, you can go see what I did first. It was really fun to get to that point.
 
-[pool: Sinuosity | Sinuosity — Jeres | ]
+[pool: Sinuosity | Sinuosity — Jeres | | 3]
 
 Will: Did you have a background in art prior to that? Even early on, your work stood out to us as feeling more developed than a lot of what was around — there was so much, for lack of a better term, random stuff dropped in the early days of fx(hash). So did you have a background in painting, or other digital art?
 
@@ -34,6 +34,8 @@ Throughout those twenty years doing tech work, I always tried to have my own sid
 
 So my history with art has been more on the appreciation side than actively making visual art, until recently — but I was always concerned with aesthetics, design, and how that interface happens between people.
 
+[pool: Sinuosity | Sinuosity — Jeres | | 1]
+
 Trinity: What comes to mind hearing all this is that intersection between art, tech, engagement, and systems. When I think about developers I know who get entrusted with front-end frameworks and design work, it's about making things look good, but — no offense to designers — it's also about creating the underlying framework: what interfaces do, why they do it that way, and making it scale across a ton of different interactions and touchpoints. That seems to me like a baseline for generative art too — creating frameworks of stuff that looks good together. Obviously it's way more complex than that, but that's a take we haven't really heard before from people with development backgrounds — they usually just jump straight into ray tracing and impossible dunes, all the fun stuff Piter Pasma likes to talk about.
 
 Jeres: I think my approach is very different. I love Piter Pasma and have so much respect for his skill, but I'm not too worried about what the algorithms look like underneath, or how many lines of code they are. I'm more of a brute-force programmer — it's aesthetics over almost everything else. I want what I'm using to be reusable to some degree, but I'm not too concerned with every line of code. One of the fun things about developing projects like this is that once they're done, you don't really need to maintain them — you get to the point where it creates the outputs and the experience you want, and you can cherry-pick from it later if you need to. For the most part I judge it by the outputs it creates and the experience there. I do care about performance — a long loader really doesn't feel great and affects the experience for the viewer — but that's the only time I put a lot of effort into optimizing code.
@@ -46,13 +48,15 @@ Trinity: That we should not look at right now. Okay.
 
 Jeres: You shouldn't. I'm pretty self-deprecating, so I'm probably not being fair to myself — that's what people tell me — but I don't mind if it's a little sloppy, and thank God for Webpack to obfuscate that for me.
 
+[pool: Sinuosity | Sinuosity — Jeres | | 1]
+
 Trinity: Moving to your project work — you said you came to fx(hash) in early beta. How far into your p5 and coding journey were you when you started releasing? How long had you been working on it?
 
 Jeres: Pretty early. I set up some constraints for what I wanted to use and fine-tuned them toward an aesthetic I really liked — I decided to use Bezier curves, work on some grain, and put a lot of time into getting the shadows and texture the way I liked. But I tried to keep it as simple as possible because I was just learning. You can probably see through my many projects that the techniques got more complex over time, with focus shifting to different areas as I learned more about what was possible. So yes, pretty early on — I'd say I learned p5 in order to make that first project.
 
 Will: One thing that stood out about your earliest work — looking at that initial run from *Sinuosity* through *Station to Station*, and carrying forward into *Nightfall Moon* and some of the projects after — was the palettes you landed on. We were both here in December and January when you first started dropping, and your work was instantly identifiable because no one else was using color the way you were. Not just the pinks and blues, but the early emphasis on black and white and the in-between colors — even the thumbnails you chose for projects like *Sinuosity* and *Clix* and *Numa*. What's the story behind those palettes? Even now, though they've evolved, there's still a real Jeres-ness to the colors you pick.
 
-[pool: Nightfall Moon | Nightfall Moon — Jeres | ]
+[pool: Nightfall Moon | Nightfall Moon — Jeres | | 3]
 
 Jeres: I do care about color a lot. I was actually going to make the first couple of collections completely monochrome, but then decided to add some color. That came from exploring palettes I enjoyed — it may have been taken from sweaters I own, or just going to a palette generator, finding things I liked, and mixing and matching to create a vibe I enjoyed. They evolved a lot, and I think especially with my later projects, they've become very identifiable as "the Jeres palette."
 
@@ -66,6 +70,8 @@ Trinity: One of the main differences between generative art and the traditional 
 
 Will: Do you think of the upcoming TENDER collab as marking a shift? From what we've seen of it, it's different from everything else you've done.
 
+[pool: Nightfall Moon | Nightfall Moon — Jeres | | 1]
+
 Jeres: I'm really excited about it. It's been great working with Adam, and yes, it's going to feel a little different. For one, Adam is bringing a lot of great palettes to it — he's great with color, and it's been fun finding a good mix of how those balance against mine. This is also a shift because it's the first time I'm using shaders. Hopefully it doesn't feel like a "first shader project." It's been fun to explore, and it seemed like the right tool for the prompt — Adam came to me with a number of ideas, all very well fleshed out, and it was lovely getting that welcome package into the TENDER collab process.
 
 This piece grew out of a tangent from one of his ideas: chemical reactions in Polaroid film — the old peel-apart instant packs. I loved that, and I felt the kind of animation and shapes you could get from a shader using fractal Brownian motion would be a great match for it. Exploring shaders for this project gave it a completely different feel, so I'm excited about what comes out of it. It's also just nice to have a new skill under my belt.
@@ -78,7 +84,7 @@ Will: We're excited for that — it should be launching just before this episode
 
 Jeres: Maybe the week before, a few days before. It's probably going to drop right after the *Here, After* thing too, so a lot of things happening at once.
 
-[pool: Here, After | Here, After — Jeres | ]
+[pool: Here, After | Here, After — Jeres | | 3]
 
 Will: Sometimes it works out that way. I'm sure at some point it all seemed like it would be nicely spaced apart, and then it just landed on top of each other.
 
@@ -92,6 +98,8 @@ Will: Personally, I don't think it's going to get delayed at this point.
 
 Jeres: Yeah, I don't think so either.
 
+[pool: Here, After | Here, After — Jeres | | 1]
+
 Will: To wrap up on the TENDER piece — we've had the luxury of seeing some of it behind the scenes, and one thing that stuck out is that, as far as we know, this is your first real animated work. Obviously some of your pieces animate as they draw, but this is one of those continuous, always-in-motion pieces, which we love but which can also be a bit tougher on the market.
 
 Jeres: I was a little hesitant to go for an animated piece for that reason, but the goal is that any frame of this could stand alone as a static piece — that's probably how most people will experience them anyway, since the previews are static, and then you can dive in and let them animate. I don't think it needs to be seen only as an animated piece; it's two sides of the same coin. Even now I'm debating whether the default view should be animated or whether that should just be an option. But it will be my first released animated piece.
@@ -104,6 +112,8 @@ Will: That one dropped two or three weeks ago, so it would've been right as you 
 
 Jeres: I just looked it up because I'm terrible with names, but I do remember *Seekers* — I really enjoy it. What we're doing with the collab feels less frantic, less intense — more of a mood piece. I like this direction of things becoming more animated and making that viable on the market. Honestly, I've been meaning to go this direction for a while. I was really inspired by your interview with Leander — that was great, and it made me think, okay, for digital art, making it animated, full screen, reactive to the screen it's shown on, that makes a lot of sense.
 
+[pool: Here, After | Here, After — Jeres | | 1]
+
 But I also love making art that would look great on a wall, which is a very different approach. I think a lot of collectors can comprehend static art they can picture on a wall much more easily than an animated piece where they're not sure how to process it. But animation does feel more native to this environment.
 
 Trinity: It's a new era.
@@ -112,7 +122,7 @@ Jeres: A new era of sorts.
 
 Will: Super exciting. To keep going through your catalog — we've had a few artists on recently who've been around since the early days and have been releasing semi-consistently across the entirety of fx(hash) history. What distinction do you draw between your earliest work on fx(hash) — let's say up through *Attachments* — and everything after? I feel like *Attachments* kicked off a real banger-after-banger era for you, and *Vapor Trails* obviously had its big moment. How do you see the line between your earliest work and what you're making now? And bonus points if there are any early pieces you're not thrilled you released in retrospect, or any you think are underrated and deserve more attention.
 
-[pool: Attachment | Attachment — Jeres | ]
+[pool: Vapor Trails | Vapor Trails — Jeres | | 3]
 
 Jeres: Masquerade, for sure. Masquerade is my masterpiece, and I don't understand why it doesn't have the highest floor. There's a big division in my work, and it's funny that you called out *Attachment*, because I think that's when I was first trying to take being a full-time artist more seriously. Up until that point, I still felt like I was learning in public and the stakes were a lot lower. I wanted to make sure I liked and was proud of everything I released, but I didn't really think of myself as an artist yet. At the same time, I was writing Solidity contracts for other random projects, still trying to figure out what I wanted to do with my life.
 
@@ -120,13 +130,15 @@ Jeres: Masquerade, for sure. Masquerade is my masterpiece, and I don't understan
 
 After that I explored a bit, but with *Attachment*, that was the first time I released something I felt could have real impact — something that really reflected what I was trying to do as an artist. As dumb as this sounds, I actually thought about creating a new wallet to distinguish it, like: that was Jeres in school, and this is what I'm putting out as an actual artist. What I settled on instead was switching to capital letters. So stupid, but I wanted these to be taken more seriously, because I was taking them more seriously myself. That's the dividing line for me. Not that I'm not proud of anything before it, but my mentality changed — how I released things, marketed them, spaced them out, tried to have a more linear path. It was also a kind of reset: with *Attachment* I went back to something simple, but with enough elements to give it real depth, rather than just a couple of lines on the screen.
 
-So to answer your question about pieces from before that era I'm proud of: *Vapor Trails*, *Nightfall Moon* — though I was pretty bummed about how *Nightfall Moon* went, honestly. The biggest problem was I didn't do enough quality assurance on it; a number of the outputs were just duds. That's a good reminder that so much of being a generative artist is going through endless outputs and making sure the algorithm doesn't betray you. It's always a balance — you want to leave it open enough to let something unexpected and beautiful emerge, but controlled enough that you're not worried you'll get an empty screen.
+[pool: Attachment | Attachment — Jeres | | 3]
 
-[pool: Nightfall Moon | Nightfall Moon — Jeres | ]
+So to answer your question about pieces from before that era I'm proud of: *Vapor Trails*, *Nightfall Moon* — though I was pretty bummed about how *Nightfall Moon* went, honestly. The biggest problem was I didn't do enough quality assurance on it; a number of the outputs were just duds. That's a good reminder that so much of being a generative artist is going through endless outputs and making sure the algorithm doesn't betray you. It's always a balance — you want to leave it open enough to let something unexpected and beautiful emerge, but controlled enough that you're not worried you'll get an empty screen.
 
 Trinity: One of the other things — and I think this ties into the marketing piece that started a little with *Vapor Trails*, but definitely with the WTBS Olympics Poster Edition, which we could talk about for a couple of hours, probably your best project to date, and a whole other episode in itself — is that from that point forward, we've seen a lot more of *you* in the piece. *Glossolalia* and *Coronado* stand out, and even *Hereafter* — there's almost a different aura, something different. I don't know if it comes from your soul versus marketing tactics 101, but I'd love to hear about the storytelling and the perspective behind the descriptions.
 
 Jeres: With *Hereafter*, *Outlanded*, and *Glossolalia*, I was trying to be more vulnerable with what I was creating, especially with *Glossolalia*, but with *Hereafter* too. With both, I started with the general aesthetic I wanted to go toward, but I let what was coming out through the compositions and colors guide me — how it made me feel emotionally, what it made me think of.
+
+[pool: Glossolalia | Glossolalia — Jeres | | 3]
 
 With *Hereafter*, I wrote that little poem, but I had a much longer description I didn't go with, because it felt like it was exposing too much and I wasn't ready to talk about it. You've known I lived in New York for a long time — what this piece was really triggering, or helping me process, was 9/11. I lived in the South Street Seaport in the early 2000s and was down there that morning when the towers fell. That was a traumatic day for the country, experienced by so many people in different ways, and I was in the dust clouds. I've been processing that for a long time. As I was making the piece, I didn't expect it to turn into all these towers and plumes of smoke or fabric or whatever they are — I just let that feeling guide what I wanted to create. There's a darkness to it, but also an optimism, and a coldness too. I don't know if I'm summing it up well, but I was trying to let my experience and emotions come through more vulnerably.
 
@@ -138,11 +150,15 @@ Jeres: Sure, let's do that.
 
 Will: It's interesting hearing the story behind *Hereafter*, because a lot of what you've just exposed is stuff we talked about when the project came out — and I think a lot of your work in general rides that line between optimism and depression, or dourness. You often find ways, through color or composition, to contrast those two things. You can look at *Hereafter* as a celebration if you want, but then some of the more black-and-white pieces look like they're being inundated by rain, or there are these streaks through the sky — you can see such a variety of emotion in them. You've found a way to create that balance, and I think it's present even more so in your more modern work.
 
+[pool: Here, After | Here, After — Jeres | | 1]
+
 Jeres: Some of that comes from process. A big question I ask myself while creating is: does this make me feel anything? If it doesn't, I abandon the project. So I'm glad that range of emotion comes through, because I am trying to give them that. If I don't feel anything from a piece, I definitely shouldn't assume anybody else will. With art that I collect, or that speaks to me, it's always an emotional response — even if there's an aesthetic appreciation too, I want it to have some impact. I don't have a complex strategy beyond that. I just keep playing with the algorithm until I get some kind of reaction, and then lean into it.
 
 Trinity: Is there a connection between *Hereafter* and *Outland* thematically? There's an obvious visual connection — colors, textures, overall mood — but is there anything beyond that worth knowing?
 
 Jeres: Not too much. I saw *Outland* as a kind of prequel to *Hereafter* — barren landscapes that felt cold but also colorful and exciting, full of possibility. It was more of an aesthetic study, reducing a lot of the chaos of *Hereafter* in some ways — it's actually an adaptation of the same algorithm. I think a lot of generative artists do this: each algorithm feeds into the next. Some people start from scratch, but for me, I'll be working, get an idea, hit a fork in the road, and think, I like both these directions — I'll branch here and come back to it later, and follow the other until it feels fleshed out. So they're related in terms of code, which is probably apparent, but they have different personalities and contexts. *Outland* is a loose prequel to *Hereafter* in the sense that it's pre-humanity — empty, barren wastelands that haven't yet evolved into whatever we created as people.
+
+[pool: Here, After | Here, After — Jeres | | 1]
 
 Trinity: So what I'm hearing is that 9/11 is the definitive demarcation between before and after in all of human history.
 
@@ -154,13 +170,15 @@ Will: Well, no, let's talk about—
 
 Trinity: Okay, we'll talk about *Coronado*.
 
+[pool: Coronado | Coronado — Jeres | | 3]
+
 Jeres: The poster is more important.
 
 Will: The poster is very important, and it got a nice bump off *Coronado*, so we'd love to see it. I'm sitting right next to mine, printed right over here. *Coronado* was the first piece where you wrote a substantial amount alongside it. I'm curious about this leaning into storytelling through the articles and longer marketing cycles for pieces. Do you feel like it's helped as you've broken through? *Coronado* feels like the breakthrough, even though there were smaller breakthroughs leading up to it, like *Vapor Trails* before that. I think *Weep* was one that even Artnome tweeted about and that had its moment. There were so many projects where you had these blowups into the couple hundred tez range and then receded back. But *Coronado* was the one that hit the highest secondary sale, 725 tez, 54,000 tez in secondary sales. With each of these successive projects, as you kept minting out and kept the floor sustained, did you feel like this was bound to happen? When you had *Coronado* going, did you have huge optimism for it, or was all of this just an incredible surprise?
 
 Jeres: I don't make assumptions about how any of them will go. I put a lot of time into *Coronado* and was delighted it was received so well, but I didn't know this one was going to break out any more than *Hereafter* or *Attachment* did.
 
-[pool: Attachment | Attachment — Jeres | ]
+[pool: Coronado | Coronado — Jeres | | 1]
 
 To go back to your other question about the articles and storytelling: I'm so grateful for fx(text). I'm comfortable sitting and taking a lot of time to write, form thoughts, and tie them together. It's made it so easy to communicate what a piece was about and how I got there. I think with all my major pieces going forward, I'm going to try to write, partly because I enjoy it, but also because that context really helps, especially with abstract work. I want to help the viewer build a connection and communicate what I'm trying to say, or what I feel, even if it's not an explicit statement.
 
@@ -168,11 +186,15 @@ That part I really enjoy, and it's something I feel far more comfortable doing t
 
 Will: All right, Trinity, let it rip. *Glossolalia*. I know you want to talk about this one.
 
+[pool: Glossolalia | Glossolalia — Jeres | | 1]
+
 Trinity: Did you get your *Coronado* stuff out of your system? You're steeped in it all day, every day — I think you have 25% of the collection. That's a hard number.
 
 Will: I do not have 25% of the collection. We've talked about it so much on the show already, with the article and everything, that I was more curious about the personal success story. It's your interview, Jeres, so say more if you want.
 
 Jeres: The release of *Coronado* and its reception, and then Le Monde picking it to show at Art Basel — it was mind-blowing. I was like, what is going on, this doesn't make any sense. I'd been slowly building with each release, and it felt like it was growing, but I didn't expect this one to jump the way it did. I'm really proud of it, but it's also created a bit of pressure for me now, because *Coronado* was a lot of people's favorite among my releases, and sometimes it's hard to follow that. I'm worried about a sophomore slump, even though it's nowhere near my second release — I've had 30 projects across a number of identities.
+
+[pool: Coronado | Coronado — Jeres | | 1]
 
 I'm grateful for the success, but it's given me a certain anxiety about people's expectations. Ultimately I'm trying to work toward not caring so much about that, and just creating work I'm proud of — telling myself, before I hit publish, that it doesn't matter what people think about this, how it lands, or even if it sells. I love this, and I would put it on my wall. This is probably why I collect a lot of my own art — I'm mostly making art for myself, something I like, and trying not to tune too much into expectation. How much of that is subconscious, I don't really know.
 
@@ -180,13 +202,15 @@ Trinity: Before we move on, I want to connect a couple of dots that have come up
 
 Jeres: Good question. *Sinuosity* was a bit of a coding exercise, but the question I needed to answer before releasing it was: do I love this aesthetically? The bar was about creating something visually striking, not just proving I could draw lines a certain way. I did try to apply a metaphor to it, around being flexible — which was genuinely true to where I was at the time, trying to be flexible with my life and with where I wanted to go. Now my intent has changed. I want to create art that expresses a part of me, that has a purpose in communicating something about myself or how I feel.
 
-[pool: Sinuosity | Sinuosity — Jeres | ]
+[pool: Sinuosity | Sinuosity — Jeres | | 1]
 
 Will: That's perfect, though — it seems like that's working. If you're saying that in this more recent era you're being more intentional with what you communicate, and it happens to coincide with your rise in success, that suggests it's working for you.
 
 Jeres: I want the art to be about something, to be an emotional expression. I'm not so concerned with proving something technically, or with "look at this interesting algorithm that creates this intricate sketch" — if it doesn't feel like it has a soul, it's kind of pointless. My intention is to use whatever skills I have, and grow them as necessary, to communicate the feeling and emotion I want the work to project. If it doesn't, I don't release it, and I go a different direction. I'm hoping that by being vulnerable, by talking about myself and my relationship to the art I'm creating, it imbues the work with a soul that's well received.
 
 Trinity: That sounds like a perfect transition into *Glossolalia*, which I think is perhaps the most intensely personal piece I've seen on fx(hash), or on any generative art platform to date — it goes into such intense personal history. Reading it, it comes across as incredibly vulnerable and revealing.
+
+[pool: Glossolalia | Glossolalia — Jeres | | 1]
 
 Jeres: I put it all out there, in a lot of ways, and asked myself several times whether I wanted to. My friend Steve proofread it and didn't tell me until after: "This is great — I've learned things about you, but do you want to be exposing this much about yourself to folks out there?" While I was writing it, I felt like I did, even though I hadn't meant to go that direction when I started the piece. I was just playing with some techniques, seeing how they made me feel and where they wanted to go. At one point it became more expressionistic, and I started forming these upward strokes that reminded me of catharsis — something rapturous, like letting go. So I decided to talk about my history, why this meant something to me, and it felt good to release.
 
@@ -200,6 +224,8 @@ Jeres: Not in how I approached the code, but definitely in how it looked aesthet
 
 Trinity: I think it's also not just pure joy and pure expression. There are quite a number of the palettes here that have more somber colors—the reddish browns, the deep greens—where it's still an expression outwardly, but not necessarily the pure fantastical joy you might see in the ones with pinks or bright blues or lilacs, which are just so lovely. But there's definitely a place for the dark ones too, because they're also intensely beautiful.
 
+[pool: Coronado | Coronado — Jeres | | 1]
+
 Jeres: I definitely wanted that range of emotion. The bright ones push toward a feeling of liberation, but the dark ones are just as important for catharsis. Sometimes that process is messy, sometimes dark, sometimes there are tears involved—a lot of different types of processing. I wanted it to reflect all the different emotions that we, as people, tend to keep down for whatever reason.
 
 Will: That's a perfect segue. Talking about a couple of your projects and how the diversity of outputs can elicit so many different emotions, even though they're all coming from the same intention, the same code—you recently released *Tragedy Static Heaven* on Verse just a couple days ago as of this recording. Before that, you'd mentioned considering a collector-curated release, where whatever intention you built into the code gets surrendered to the people buying it. You ultimately decided against that and went with a self-curated release instead, which is fairly common among generative artists. But it feels so connected to this conversation about your work—the ability to weave all those different emotions across the palettes, and giving up some of that control. How do you feel about that decision in retrospect, now that we've seen a few more of these drops play out?
@@ -211,6 +237,8 @@ Will: Earlier you mentioned having other accounts—you've got 30 or so projects
 Trinity: Are you publicly anon.tez?
 
 Jeres: I think some people figured it out. That was a fun conceptual side project, and I'd like to pick it up again at some point.
+
+[pool: Coronado | Coronado — Jeres | | 1]
 
 Will: The question was: what's the purpose of having these alternate accounts? What's the appeal of different identities and projects like that, and the tongue-in-cheek nature of hiding your identity, but not really?
 
@@ -224,11 +252,15 @@ Jeres: Does it really? That's a crime.
 
 Trinity: It's bogus. The fix is in. It's Kevin Rose personally railing against podcasts that talk about Tezos.
 
+[pool: Coronado | Coronado — Jeres | | 1]
+
 Jeres: It definitely has something to do with us. The market's been all over the place, and that's just the nature of crypto sometimes. It's emotional, especially considering this is my main source of income—it's stressful being in a downturn, wondering if I'll be able to make rent.
 
 Trinity: I never actually got to the question. How much do market cycles impact your decisions on edition sizing or pricing, given how volatile the crypto market can be?
 
 Jeres: So many factors go into pricing, and even into timing a release. Right now, for instance, is a bit stressful because people seem hesitant to mint as much or buy on secondary. You have to take that into account, without trying to exploit the moments when people are willing to spend a lot of money versus when they're not. That's the stressful part of doing this. I'm not a market expert by any means—a lot of times I'm just guessing and hoping for the best, because there are so many factors. Like pricing *Coronado* after *Outland*, which came in a bit lower—you never really know where the right spot is.
+
+[pool: Coronado | Coronado — Jeres | | 1]
 
 Trinity: You can't time these things. Not to keep harping on *Glossolalia*, but that was interesting from a market perspective—you released it at exactly the right time, when everything was going toward the top tiers of Dutch auctions. It minted out at over 100, right?
 
@@ -236,9 +268,9 @@ Jeres: Yeah, and that was somewhat strategic. I was mainly trying to give space 
 
 Will: *Glossolalia*, the bot slayer. For someone like you, where this is now your full-time job, I think it's an unfortunate part of the game that you have to weigh those opportunities. You also had this self-imposed embargo between Verse and the *Here and Now* Tender collab—would you have even had a window to wait gracefully? It could've been months.
 
-Jeres: Right—I am trying to be more thoughtful with release timing. There's a lot of pressure to space things out; some collectors don't want you releasing too much because it floods the market, and I get that. It's good and bad, because I'm a little ADHD—I want to work on ten projects at once, and often I am, and then I just want to release them all without letting them hang. But that can really confuse the market. So I have to take that into account, not because it's manipulation, but because I want to keep doing this long-term. I really enjoy it—I find the whole process therapeutic. If I could just continually code up projects, pass them off, and have them released without ever thinking about pricing or timing, that'd be great. But you do have to think about the market, unfortunately. I'm happy with how I timed *Glossolalia*, though I do feel bad for anyone who minted over 100 and now sees it around 50. But I think that's the case for a lot of floors right now, and I think it'll come back. I'm really proud of the project—I felt it was a great follow-up to *Coronado*. It's a different project, and people may have opinions on whether it's the same quality, but I'm proud of it, and I hope it stands. I hope the people who buy it are buying because they like it.
+[pool: Glossolalia | Glossolalia — Jeres | | 1]
 
-[pool: Coronado | Coronado — Jeres | ]
+Jeres: Right—I am trying to be more thoughtful with release timing. There's a lot of pressure to space things out; some collectors don't want you releasing too much because it floods the market, and I get that. It's good and bad, because I'm a little ADHD—I want to work on ten projects at once, and often I am, and then I just want to release them all without letting them hang. But that can really confuse the market. So I have to take that into account, not because it's manipulation, but because I want to keep doing this long-term. I really enjoy it—I find the whole process therapeutic. If I could just continually code up projects, pass them off, and have them released without ever thinking about pricing or timing, that'd be great. But you do have to think about the market, unfortunately. I'm happy with how I timed *Glossolalia*, though I do feel bad for anyone who minted over 100 and now sees it around 50. But I think that's the case for a lot of floors right now, and I think it'll come back. I'm really proud of the project—I felt it was a great follow-up to *Coronado*. It's a different project, and people may have opinions on whether it's the same quality, but I'm proud of it, and I hope it stands. I hope the people who buy it are buying because they like it.
 
 Trinity: We call that "it's on sale."
 
@@ -249,6 +281,8 @@ Will: It's an opportunity.
 Jeres: Yeah, it is an opportunity.
 
 Will: With several projects releasing back to back in these first couple months of the year, what's your approach for the rest of 2023? You mentioned working on a lot of things at once—are you going to be more intentional going forward? I don't know if you saw Alejandro recently tweeting that he's taking a major slowdown—"you'll be lucky if you see one thing from me on fx(hash) this year." A lot of artists seem to be rethinking this year versus last. What's your thinking?
+
+[pool: Coronado | Coronado — Jeres | | 1]
 
 Jeres: Create ten more alt accounts and just keep releasing under those—just kidding. I've done two collabs in a row now, plus the Verse release, so I think I'm going to take some time and work solo, figure out where to go next. I have a couple of projects in motion I can play with, but I think I'll take a bit more time between things and hope the market comes back, and try to time things well with that.
 
@@ -262,6 +296,8 @@ Jeres: That's ultimately my goal. I'm implying I'm going to work and release, wo
 
 We should start working towards wrapping up the interview now.
 
+[pool: Coronado | Coronado — Jeres | | 1]
+
 Will: Here's one we ask a lot of artists. Looking through your collection, you've been collecting on fx(hash) for a long time — are there any artists or projects you want to shout out that you feel are undervalued or underappreciated? Or maybe just speak to what you gravitate toward when you collect.
 
 Jeres: I'm always excited for what Melissa's releasing — her texture, her color, her expression are just so wonderful. I got three *Spaghetti*s right away, I was so excited about that, and *Take Wing* was beautiful too. I'm always excited about what Thomas Noya is doing. I'm a huge collector of Ty Vek. There are so many folks I look up to — Marcelo, Andreas, Erik Swahn. No particular project to call out, but as far as underappreciated goes — it's not like she hasn't gotten coverage, but Ada Ada Ada, I just love her work so much. Even her first collection — I was obsessed with it and bought all the works in progress she put on Versum. I love her approach.
@@ -273,6 +309,8 @@ Jeres: I have four or five saved. I'm really excited about it — I'll probably 
 Trinity: Four or five? Only?
 
 Jeres: I know. I try to allot blocks of time in my life — like, "okay, I'm going to stress about the Verse release for an entire week and not be able to do anything else." But then this interview came up, so I told myself, "I'm not going to do anything until I have this interview with WTBS, and then I'll stress about the release." That's scheduled for after this — it comes out Thursday, and I'm planning to spend a few hours with it. So far I've only spent about twenty minutes. I love the texture, I love the colors. I've had more fun just scrolling through the Discord channel where everyone's dumping mints, seeing the breadth of the algorithm. Now I'm going to spend some real time finding the ones I want, but I haven't gotten to that yet. I'm such a fan of Farbteiler and Punktwelt that I really just want to get a couple of these.
+
+[pool: Coronado | Coronado — Jeres | | 1]
 
 Will: It's fun.
 
@@ -286,6 +324,8 @@ Trinity: Not yet.
 
 Jeres: Please do, they're all lovely — I'd love to hear about their process. Have you talked to Yazid yet?
 
+[pool: Coronado | Coronado — Jeres | | 1]
+
 Will: No.
 
 Jeres: Okay, that's another one, please.
@@ -297,6 +337,8 @@ Jeres: I have Iskra and Anna Lucia on here too. Did you talk to either of them? 
 Will: Anna Lucia, we did.
 
 Jeres: You mentioned that earlier — I must have missed it.
+
+[pool: Coronado | Coronado — Jeres | | 1]
 
 Will: We were lucky to get her pretty early on in the show.
 
@@ -310,6 +352,8 @@ Will: I'll do another rapid-fire round — I'm curious about your answers since 
 
 Jeres: Depends on the mood. Do you know NTS Live? It's independent radio — great app, great website, just two streams, usually broadcasting out of London, New York, or LA. Very eclectic — sometimes it's random house music, but it goes deep into bizarre genres all over the place. I hear music there I haven't heard anywhere else, even free jazz from Japan in the '70s, '80s, '90s. I listen to it a lot because it opens things up. But when I want music I already know, so I can focus, I loop things — a lot of shoegaze. A Place to Bury Strangers, from New York. Moaning, an LA band. I listen to a lot of Beyoncé — the *Renaissance* record is perfect, I can't imagine anything better. Panda Bear a fair amount. Starfucker is a vibe, all over the place. Sometimes it's just bossa nova for two days straight.
 
+[pool: Coronado | Coronado — Jeres | | 1]
+
 Trinity: You gotta get your Bebel Gilberto in there. Also known as "The Girl from Ipanema" — it's on loop in our house.
 
 Jeres: It's great.
@@ -318,13 +362,15 @@ Will: All good recommendations. Shoegaze feels like a good one to zone out and c
 
 Jeres: Yeah, obviously *Vapor Trails* is a reference to that.
 
-[pool: Vapor Trails | Vapor Trails — Jeres | ]
+[pool: Vapor Trails | Vapor Trails — Jeres | | 1]
 
 Trinity: Do they still make shoegaze? I don't know.
 
 Jeres: They do, at least they did a few years ago. In LA there are so many shoegaze bands happening, or at least somewhere between post-punk and shoegaze. Moaning is my recommendation there — they're modern, and I feel like they picked up where that left off. Which reminds me of a band from San Francisco a long time ago called Weekend. They had an album called *Sports* — hard to search for, because "weekend sports" — but it's a really great shoegaze record. And also some Sondheim, some musicals — I love *Merrily We Roll Along* and *Company*. Those are on repeat at my place. My cats love it.
 
 Will: I think that more or less wraps it up. We've covered what's coming up next — usually we end by having you plug stuff, but we've talked about *Here, After*, the TENDER drop, and possibly some one-of-ones. Anything else in the universe you want to preview?
+
+[pool: Here, After | Here, After — Jeres | | 1]
 
 Jeres: I'm working on a number of things, not sure exactly where they'll end up, but part of me really wants to work on something on ETH that's a pure Solidity contract delivering SVG directly, with no IPFS in the mix at all — using actual Solidity to create the SVG rather than just delivering JavaScript that runs somewhere else. Some experiments there.
 
@@ -338,6 +384,8 @@ Jeres: That's really cool.
 
 Will: It comes with its own risks, of course. I'm not sure what happens if the wallet delegating the gas runs out. But it's exciting to see what people will do with it.
 
+[pool: Here, After | Here, After — Jeres | | 1]
+
 Jeres: I need to look more into it. I saw a couple of tweets about it and thought it was more about a new way to set up wallets, social recovery, things like that.
 
 Will: Seems like there's a lot to it. What about the dreaded Art Blocks? Is that something in consideration?
@@ -349,6 +397,8 @@ Trinity: Any questions for us?
 Jeres: No, I'm good. Thank you so much for having me on — I should have had some questions prepared.
 
 Trinity: It's fine.
+
+[pool: Here, After | Here, After — Jeres | | 1]
 
 Will: Sounds like we might get to meet up in real life soon, so that'll be fun.
 
@@ -362,13 +412,15 @@ Will: That sounds like such an artistic thing to do, honestly.
 
 Jeres: I was debating whether to smoke through the whole interview, but I didn't want my apartment to smell like it.
 
+[pool: Here, After | Here, After — Jeres | | 1]
+
 Will: Your cats probably appreciate that too.
 
 Jeres: It's true.
 
 Will: That was Jeres, everyone — we're hugely grateful to have him on. Big thanks again for the poster collab. Super excited for everything Jeres will be doing this year. Be on the lookout for the TENDER Club, be on the lookout for the *Here, After* drop. Thanks again, Jeres. We'll see you all later.
 
-[pool: Here, After | Here, After — Jeres | ]
+[pool: Here, After | Here, After — Jeres | | 1]
 
 Jeres: Bye.
 

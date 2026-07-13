@@ -108,7 +108,7 @@ So, sorry, you were saying some other things too — I can't remember what I was
 
 Will: It's okay. You wrote a really great blog post about *Maplands* that came out in early January, is that right?
 
-[pool: Maplands | Maplands — Amy Goodchild | ]
+[pool: Maplands | Maplands — Amy Goodchild | | 3]
 
 Amy Goodchild: Yeah, January, I think.
 
@@ -122,6 +122,8 @@ Amy Goodchild: Meta.
 
 Trinity: That one's free. But I think it's interesting — there's that classic learning curve where you start with high confidence when you know nothing, and then you hit the lowest-confidence point once you know enough to realize you know nothing, before it climbs back up into a higher-confidence area.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Amy Goodchild: I think that stage — where you've just learned enough to know you know nothing — is actually the majority of the time. As soon as you understand a little bit, you're like, "Oh God, there's so much more, I'm never going to get all this." So you're constantly learning.
 
 Trinity: When you're looking at other people's work — since you have this background where you know a lot, but there are also things you haven't fully explored — how do you evaluate it? Do you think about the art, the code, or the intersection of the two?
@@ -133,6 +135,8 @@ Trinity: Any examples of that?
 Amy Goodchild: Anything with shaders — Will Staal's work specifically comes to mind, and Piter Pasma. I've dipped my toe into shaders a little and really want to get into it more, but it blows my mind looking at what they create and trying to think about how you get from an idea to an output that way, because it's a completely different way of coding.
 
 Trinity: That's where we don't know enough to know how complicated that is.
+
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
 
 Amy Goodchild: Super complicated — dark magic, just take my word for it.
 
@@ -146,6 +150,8 @@ Will: I want to read a quote we pulled from one of your blog posts, Amy, because
 
 Amy Goodchild: It's interesting, because I don't think it's that different from before. Those thoughts have always been there. It feels very similar to posting anything on social media and counting the likes, thinking about how many people have commented, whether those comments feel genuine, how excited people seem about it. In person, too, you're trying to read people's reactions to the work. When it comes to the monetary side of NFTs, it feels similar to me. Obviously there's a different aspect, because this is what I do full-time now, so that adds another layer. But in terms of the existential questions -- am I good enough, why am I doing this, should I quit, is this thing garbage or is it the best thing in the world -- all of that applies whether or not money is involved. It's always applied, from the first time you drew a picture in school and someone said they liked it or they didn't.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 So much of making art is about that connection with the audience, about making things for other people. Maybe that's not healthy, I don't know, but people's reactions really do matter to me. Social media already leveled that up a thousand percent -- it creates these literal metrics, graphs comparing this post to that post. But you have to step back and remember that doesn't mean one artwork is actually better than another. It just means you posted at 2 a.m. instead of 4 p.m., or the first ten people who saw it didn't like it, so Instagram decided not to show it to anyone else. There are so many variables at play.
 
 There's also an ebb and flow -- like I mentioned in that quote, the algorithm pushes you for a while and then it holds off. It's very difficult not to think "my art sucks this week" or "my art's great this week." I try to separate that from my own judgment -- to look at the work myself and decide which piece I like better, which is more worthwhile, which I should develop further. I take the feedback from social media and the NFT market on board, absolutely, but I try not to treat it as gospel, as the be-all and end-all of what I should be doing as an artist. It's difficult.
@@ -158,17 +164,23 @@ Trinity: —there's so much variability in this space, and so much is changing. 
 
 Amy Goodchild: It definitely does. It's on my mind. I'm fairly engaged with the NFT market -- there's a gradient of how much artists tend to engage with that side of things, and I'm often in the fx(hash) Discord, keeping my finger on the pulse. So it affects my thinking, but I try to take it as just one piece of information among many, and make my decisions based on all of it rather than being led purely by market thinking.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Trinity: How does it feel when you actually let something go -- pressing that mint button and putting it out there, whether on fx(hash) or elsewhere?
 
 Amy Goodchild: Incredibly nerve-wracking, for one, especially with how fx(hash) works with long-form generative art -- you don't know exactly what the pieces will look like. You wonder if it'll produce outputs you didn't expect, whether you did enough testing, all of that. So it's nerve-wracking from that perspective, but incredibly exciting too. I want to see the pieces that get produced just as much as anyone else does, and I really want to see how it's going to go -- are people going to like them, are they going to jump on it?
 
 When I released *Maplands*, it sold out in exactly 2 minutes -- I went and looked at the transaction history afterward. Two hundred fifty-six pieces. I was hopeful it would sell out; my previous piece had sold out in a few hours, so I was hoping for something similar. When it sold out in 2 minutes flat, I'd put that moment right up there with being in the space tunnel, surrounded by people enjoying the work -- it hit that same level of excitement.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 I was in the fx(hash) Discord at the time too, and I was maybe five or ten minutes late posting it -- something was uploading slowly -- so I'd been posting updates in the Discord, letting people know, and people were replying. There was this feeling of community and connection with the audience. Then when it sold out immediately, it was a huge rush to think that people liked what I'd made. That's all I want.
 
 Trinity: It's truly, truly awesome. I know Will has picked up more than a few on the secondary in just the last few weeks -- not out of excitement for the interview, but because looking at it, you were really amazed, right?
 
 Will: Yeah. Revisiting the piece was actually part of my preparation for the interview -- I reread the *Maplands* blog post, and I've had these extra few months studying p5, by which I mean learning from YouTube.
+
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
 
 Amy Goodchild: That's the only way, as far as I'm aware.
 
@@ -177,6 +189,8 @@ Will: There is a book -- the Dan Shiffman one. It's a little out of date, it sti
 Amy Goodchild: Oh, okay, that one. Yeah.
 
 Will: I was looking at *Maplands* and thinking, okay, I really understand the complexity of this now -- I'd always loved the colors. So I went into the secondary market -- the trend the last month or so has been that we've seen a lot of great work at a pretty solid discount, this months-long accumulation phase on fx(hash). I found two really good pieces skewed toward a particular size that I loved -- different palettes, different densities. And there's one more I'm looking at, so I'd have three, because I'm really into building galleries right now.
+
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
 
 Amy Goodchild: Mm-hmm.
 
@@ -190,6 +204,8 @@ Amy Goodchild: That feature -- the skew from one size to the other -- was one of
 
 Luckily, I managed to figure it out.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Trinity: Last-minute additions -- I love that. What prompted it? You just thought of it and knew it was going to be amazing?
 
 Amy Goodchild: The idea had actually come to me earlier. I have a bunch of Post-it notes on the wall here -- I'm very much a Post-it note person, always got ideas written down. This one had been hanging around for a while, and I kept going back and forth on whether to do it. Then, last minute, I thought, let's just try it and see how it looks. As soon as I saw it, I knew it was going in for sure.
@@ -202,6 +218,8 @@ But yeah, I've been posting some of it on social media. There's one piece that's
 
 Will: As an amateur coder, I get those little moments of inspiration where I think, oh, I could try doing this, I think I know how to do it. But sometimes the thing that gets me is the grunt work of actually implementing it. Now I have to go back and refactor everything, change the way I'm populating my array, change my class or add another element to it. Sometimes I'll have an idea and just think, I don't want to do that, it's going to take hours.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Trinity: Post-it note. Write it down for later.
 
 Amy Goodchild: Future problem.
@@ -212,7 +230,7 @@ Amy Goodchild: Definitely, it's a lot of work. I think as well, there are certai
 
 Trinity: That was really interesting to see with *Maplands* specifically. I think it was January 2021 when you learned how to do the triangle packing, and then to see you use that a year later, with obviously a ton of other work built on top of it, it really felt like it was coming full circle. Pun not intended.
 
-[pool: Maplands | Maplands — Amy Goodchild | ]
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
 
 Amy Goodchild: Full triangle.
 
@@ -226,6 +244,8 @@ Amy Goodchild: That's definitely something I relate to. I have folders and folde
 
 Will: Random question — I was looking through your Twitter and saw a work in progress, and I haven't been able to talk to anyone about this yet, so I'm curious. You're into the AI thing.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Amy Goodchild: Oh yeah, Midjourney.
 
 Will: How afraid of Midjourney should we all be? This stuff looks so crazy — a bunch of artists from fx(hash) are posting a phenomenal number of images, caveating it by saying it's really curated and you have to work with it. But how crazy is that thing?
@@ -237,6 +257,8 @@ That said, I do think the work is very recognizable as Midjourney. I've seen peo
 Trinity: It just means that Midjourney as an artist has a style.
 
 Amy Goodchild: Exactly, it's a style — something we can all recognize and appreciate. It reminds me of that same DeepDream thing, where the edges are kind of curvy, there's a waviness to it. And then there's the thing we were talking about before, about how important the code is and how it relates to the output. For me it's all about the process — the process an artist goes through to make a piece is incredibly important to the output. So as soon as you know a piece was created by Midjourney, it creates a completely different context. I'm not saying that's worse or better, it's just a different thing. There's still a place for human-created art, certainly.
+
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
 
 Will: If you have a moment, you should make a Waiting to Be Signed logo in the style of something through Midjourney for us.
 
@@ -250,6 +272,8 @@ Will: The first NFT project we did is just a very basic, cheesy take on the logo
 
 But with something like Midjourney, the artist just says, "I typed in this string of words and it gave me this output," which further divorces the amount of work from the output. I worry that becomes ammunition for detractors of digital art in general to say, look how trivialized it is to make something beautiful — all you have to do is give it instructions. Then I think of Sol LeWitt, and the idea of the instruction itself being the art, like his murals where he wrote the instructions and a draftsman executed them. So there's history there. But everyone has their own level of knowledge and their own opinions, right or wrong, and I get overly concerned about how confused people are going to get.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Amy Goodchild: I could see that being a concern — people mixing up generative art and things like Midjourney, if they haven't been educated about the difference. But does it matter if some people don't know what they're talking about? That's an education thing — someone would only make that mistake if they aren't educated. It's like people walking into art galleries and saying, "my five-year-old could have done this." There are always going to be people who aren't interested in art and aren't educated about it who will dismiss things. That's a shame, but maybe it's not a problem you can fix.
 
 Will: It certainly hasn't stopped us from having this podcast, I'll tell you that.
@@ -261,6 +285,8 @@ Amy Goodchild: I think that's true. When I say flippantly that there are always 
 Trinity: I think it's also about being empowered to actually try it. That might be something missing across all the art spaces in general — people don't sit down and write a short story for fun, and honestly that's a shame. Maybe the world would be a better place — broad conjecture here — if people took more time out of their day to create rather than consume. Consumption is obviously an important part of culture; that's how we share things and have shared experiences. But taking time to actually invent things for yourself, to play, to come up with fun interactive or non-interactive works — I think we could all stand to do more of that, and let little pieces of ourselves out there for others to enjoy.
 
 Amy Goodchild: It's interesting you end on putting ourselves out there for others to enjoy, because there's a real balance between multiple reasons to create things. There's creating something because the process itself is enjoyable — you want to spend an afternoon making something, and that's nice. I paint sometimes with watercolors, I have coloring books and things like that, and that kind of creating is just for me — I'm having a nice time, listening to music, not sharing it with anyone. Then there's the art I usually make, which is so much about the audience. It's interesting to think about the different reasons to create — is it so you can have a nice time with yourself, express yourself, enjoy the process? Or is it also about sharing it with somebody else, putting more creativity out into the world? It operates on a lot of levels.
+
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
 
 Trinity: When I think about sitting down to write a short story, I do not get warm fuzzy feelings — I think it would be a lot of unfun work. But I still appreciate the exercise of doing something that feels uncomfortable or unnatural, just to explore parts of ourselves and see what's actually in there.
 
@@ -274,6 +300,8 @@ Trinity: We wanted to have Amy on because she's great.
 
 Will: Don't twist my words.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Amy Goodchild: There can be more than one reason why I should be here.
 
 Will: We've had other artists on where we talk more holistically about their art and background. This is the first time we've had someone on to talk specifically about a topic — code, art, the education gap — something we've talked about a lot privately on Discord. Seeing that blog post is what made us think of you as a great candidate for that discussion. That work is so invaluable. So even though you don't like doing it — tough, you gotta keep doing it.
@@ -285,6 +313,8 @@ Trinity: It's like running a marathon. Nobody actually enjoys the process, but y
 Amy Goodchild: I want to have run a marathon.
 
 Trinity: Exactly.
+
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
 
 Will: This has been really great. I know it's early, and the workday's about to start soon — for Trinity, at least.
 
@@ -298,6 +328,8 @@ Trinity: Ironically, written down on a Post-it note.
 
 Amy Goodchild: Fittingly written down. Oh, and this one's from Tyler Hobbs: "Programs don't have to be complex to be beautiful." That helps me a lot, because my background isn't very technical, and I worry sometimes that I'm not writing the most technical code. I'm developing on that, but you really can make something incredibly beautiful with very simple code. I'd encourage people to give it a try — check out Coding Train on YouTube, you can pick up p5.js really quickly and start making stuff. Just give it a try.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Will: Shiffman is the most charming educator I've ever seen — total "favorite teacher in high school" vibes. Amazingly entertaining videos that actually teach you how to code. It's insane.
 
 Amy Goodchild: He's amazing.
@@ -310,6 +342,8 @@ Amy Goodchild: I'm trying.
 
 Will: I actually know some people at NYU — I need to hit them up and see if I can get introduced, because I'd love to have him on the show. I don't actually know if he makes anything privately, though. I know he spends all his time teaching p5 and enabling people to do this, but I'm not familiar with him as an artist, I guess I should say.
 
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
+
 Amy Goodchild: Yeah, I don't know that he releases work in that way.
 
 Will: Maybe that should be a goal for 2022 — get Dan on the show. That would be amazing. Amy, thank you so much, it's really been a pleasure having you on. Trinity, I know you have to go to work, I'm sorry.
@@ -321,6 +355,8 @@ Will: I'm gonna go take care of my baby.
 Amy Goodchild: I'm gonna go enjoy the sun — it's sunny in London for once.
 
 Trinity: Take advantage of that.
+
+[pool: Maplands | Maplands — Amy Goodchild | | 1]
 
 Amy Goodchild: Thank you so much for having me on. This has been great.
 

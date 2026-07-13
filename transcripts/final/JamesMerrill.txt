@@ -174,7 +174,7 @@ James Merrill: I have not. I love them, I speak to them regularly, but I haven't
 
 Will: Any possibility *Busy* ends up there?
 
-[pool: Busy | Busy — James Merrill | ]
+[pool: Busy | Busy — James Merrill | | 3]
 
 James Merrill: I don't know.
 
@@ -188,6 +188,8 @@ James Merrill: They're fun. I'd say they're kind of like a body of water, but wi
 
 Will: Gotcha. We've been going for a while now, James — let's do some rapid fire and call it an episode. What do you listen to while you code?
 
+[pool: Busy | Busy — James Merrill | | 1]
+
 James Merrill: The Lane 8 Summer 2024 mixtape, as of yesterday.
 
 Will: Is that hip hop? What is it?
@@ -199,6 +201,8 @@ Will: Yeah, *Untrue* — I know the classic stuff, but I haven't kept up with hi
 James Merrill: He's the world's coolest artist, in my opinion. He invented his own genre of music, he's completely anonymous, doesn't play live, and just makes stellar music. He put something out two days ago with Kode9, so check that out.
 
 Will: Wasn't his original stuff what people were calling dubstep before dubstep changed — like that was dubstep first, and then it became the bass-heavy, wubby stuff it is now? Am I wrong?
+
+[pool: Busy | Busy — James Merrill | | 1]
 
 James Merrill: That's accurate, but I think that was a sign of how immature the dubstep scene was at the time. To me, dubstep was more about these really low-end frequencies with a magnetic effect. Burial really created future garage, which isn't dubstep, but there wasn't really a term for it yet, so he got slapped with that label since dubstep was so popular around the same time he came out.
 
@@ -212,6 +216,8 @@ James Merrill: Correct.
 
 Will: We'll reach out to her. Last one — other than *Busy*, is there anything else you're working on? Any code-only or digital-only release you can preview for us?
 
+[pool: Busy | Busy — James Merrill | | 1]
+
 James Merrill: I do have another thing going — a collaboration with an artist I truly love who doesn't do generative art. It plays with the idea of extracting randomness, but instead injecting this person's mindset, their decisions, the way they look at art — turning that into data and feeding it into the algorithm. It's an exciting way to explore what happens if generative art isn't so random — using randomness to the smallest extent necessary to achieve long-form or unique outputs, rather than leaning on it everywhere.
 
 Will: Right on — maybe that's a Studio release. James, anything else before we go? Did you have a good time recording?
@@ -224,7 +230,7 @@ James Merrill: A couple. I've been pretty quiet this year because I've been head
 
 Will: Glad to hear it. Everyone should follow James on all his socials to keep up with *Busy* and find out where it might release. I'm excited to see the video and some higher-res images soon. Thanks so much — we'll call it an episode there. Bye, everyone.
 
-[pool: Busy | Busy — James Merrill | ]
+[pool: Busy | Busy — James Merrill | | 1]
 
 James Merrill: All right, see you guys.
 

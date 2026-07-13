@@ -1,6 +1,6 @@
 Will: All right, hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode. We're back for round 2 with Erik Calderon, who you might better know as Snowfro, founder of Art Blocks, creator of the *Chromie Squiggle*, and probably the fastest returning guest to the podcast ever.
 
-[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | ]
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 3]
 
 Erick Calderon (Round 2): Sweet. I'll take that title.
 
@@ -14,6 +14,8 @@ Erick Calderon (Round 2): On that shot.
 
 Will: Yeah, your hoodie is the same color as your room right now, Trinity.
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+
 Erick Calderon (Round 2): Pretty awesome.
 
 Trinity: All green. I am my own green screen. I'm glad to hear the good response, and thanks for coming back. It wasn't a wild conversation last time, but I think we covered a lot of ground -- and there's infinite ground to cover within this space. One of the big things last time was that you were traveling multiple days every week for like six weeks straight. Things weren't slowing down, you weren't resting. Follow-up: same pace, or are you accelerating?
@@ -25,6 +27,8 @@ Will: You're making me think of the fact that I'm about to go to Japan next week
 Trinity: Are people excited?
 
 Erick Calderon (Round 2): So much has changed since I last talked to you. This is a "floor is lava" ecosystem right now, and it feels like that. Coming back, I've noticed that if a brand has a Web3 person on staff, they automatically have certain expectations that need to be met by being a participant in Web3 -- and oftentimes those expectations are financial, which, in the current state of the ecosystem, is maybe not a good sign for anyone trying to move quickly in this space. Exempt from that, I'd say, are the artistic, gallery-level brands and the people who genuinely use the platform.
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
 
 I don't have the luxury of traveling specifically for generative goods or specifically for Studio -- I travel for whatever reason I'm getting called to speak, or to be part of a conference or an experience, and whatever's most top of mind ends up consuming most of the conversation. I can't remember exactly when we last chatted, but Paris was very much bouncing ideas off artists and doing a vibe check. Venice was also a vibe check, getting a feel for where artists are at. A lot of the feedback I got from artists and collectors was gratitude that I'd called out the supply and demand issues we talked about. It's a hard pill to swallow, but I think it's a pill that has to be swallowed. Even since that interview, it's become even more clear how out of sync supply and demand are in this ecosystem right now.
 
@@ -38,6 +42,8 @@ I think 2024 is a year for reflection, and things could pick up before long. But
 
 Will: I think a lot of us, hearing "2024 is a year of reflection," feel a little disappointed, because in retrospect we all considered 2023 the year of reflection, and we don't want another one. We've reflected -- now we want to proceed back into a bull run and get back that sense of community, buzz, and conversation, not just sales. This actually came up in an interview we released today with Iskra -- this idea of recapturing the magic of 2021. How do we do it? Can we do it?
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+
 Trinity: Spoiler alert.
 
 Will: Spoiler alert: we can't, or it'll be difficult.
@@ -49,6 +55,8 @@ Will: 100%.
 Erick Calderon (Round 2): That's exactly the sentiment we're feeling across the board as artists, as collectors, as platforms. That is magic—magic in the sense of *Magic Is Not Real*. Magic happened. Money doesn't just grow on trees; things happen, people get smart, people get more deliberate. Artists are taking a moment, and maybe it doesn't have to be all of 2024, but we're going to see phenomenal works released by phenomenal artists that have phenomenal success. Some artists have gained enough notoriety that it'll be easier for them to sell or to charge a higher price. Some artists haven't released anything in so long that I'll be thrilled when they come back, even if it's an edition of 500—it'll be exciting just to get their work again.
 
 We have a lot of artists who are very prolific, and that's great—we love that our medium allows for that. If you're prolific and relentless about releasing stuff and you don't care whether it sells, I love you. Keep putting your work out there, that's awesome. But if you're relentless and prolific *and* angry or frustrated that your stuff isn't selling—because the collectors aren't here, because the platform isn't doing it for you, because Web3 is dead—that's where I feel a certain anxiety, because that's not something I can solve or answer for you, and I can't promise it's all going to be okay.
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
 
 That goes back to the supply and demand issue we talked about last episode: there are just way more artists than collectors today, or at least it feels that way. And there are only going to be more artists, while collectorship keeps dwindling. There are a million people signed up on Blast, if you look at their website. So there's a huge audience out there—they're just not collecting digital art. How do we get them excited about that? That's where I'm excited about generative goods, and about Studio, and about being able to leave little breadcrumbs for new people to fall into the rabbit hole—not based on hype, but based on curiosity for the medium and the technology.
 
@@ -62,13 +70,15 @@ Trinity: Just as a nice mirror to the conversations from 2020 and 2021—GameSto
 
 Erick Calderon (Round 2): Hey!
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+
 Trinity: So maybe we're coming back, who knows? Q3, Q4 2024, that's where it's at.
 
 Will: Let's hope. Interestingly, the closest we've come to recapturing that "we're back" buzz—or at least that feeling of excitement—has been around some recent generative releases that were open editions and free. Most notably, Highlight did a release with Bright Moments plus a few others—like a five-way release—where Zancan's *Aux Arbes* did over 70,000 mints. Then even more recently, Punevyr on fx(hash) did 275,000 mints on a free project that used a Farcaster frame. Thinking back to our conversation last time about Studio giving artists more tools than were traditionally available beyond just long-form on Ethereum Layer 1—it's really interesting, the power of free. There were almost 50,000 unique wallets that minted that Punevyr piece. That's probably a lot of the same people who are on Blast but aren't collecting art—they got interested because they saw this thing hit critical mass and break out. How reproducible is that, or how well can you engineer it? It kind of feels like everyone gets one shot at doing their own version of it. Did you track any of that through your travels recently?
 
-[pool: Aux Arbes | Aux Arbes — Zancan | ]
-
 Erick Calderon (Round 2): I've heard about it, yeah. There's a lot of really fun stuff out there that's essentially free, a lot happening on Base in general. There's a sustainability question around minting huge editions for free—it depends on the platform's model. But look, 250,000 mints today—when I released the *Chromie Squiggle*, I didn't expect to get 10,000 mints. There are at least 25 times more people here now than there were back then. My intention with the *Squiggle*, and the reason it was priced at $20, was just so it wouldn't get botted—people will abuse systems if they can—but otherwise the goal was to get it into as many hands as possible.
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
 
 That's my guidance, I guess, when people ask, because I don't want to be just another collector telling artists what to do. I worry about that, even with the best intentions. But if someone asks my opinion: my dream, my excitement, is getting work into people's hands, and then seeing that potentially materialize into physical things they walk around with and use to spread the word. "Oh, cool hat—what's that rainbow thing on it?" "Oh, it's a squiggle." "What's a squiggle?" It doesn't have to be expensive. We have Heart and Craft, and more fun stuff happening with generative goods. We need to embrace anything that helps get art into people's hands so they can have a conversation about art, especially if it's their first time. Seeing things like that happen makes me ecstatic—I'm happy for the artists, happy for the platforms.
 
@@ -82,6 +92,8 @@ So the 250,000 mints, the Pudgy Penguin stuff, and on a much slower and more del
 
 I don't even remember how this question started, so sorry, another ramble as usual.
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+
 Trinity: Rambling is great, we're here for it. But something's shifted since the last time we talked. You're talking about onboarding the next million, ten million people into the NFT space—which theoretically involves transacting, whether through a traditional wallet with a passcode or a Google account. But we've also seen a huge proliferation of sharing, primarily through Farcaster—which I used briefly and then dropped because it's too much work—where artists got compensated not necessarily through sales, but through the social side of things, via $degen and tipping. You could do the same through Warps or other tipping coins from that space. I think that's also widening the funnel through social minting, which is ultimately how we got to those 275,000 *Glyph* mints. Do you think that's another arena for expanding that aperture? If Twitter incorporated minting frames à la Farcaster, that's another great way of expanding things, and doing it on your phone—albeit probably at a lower cost than $200.
 
 Erick Calderon (Round 2): 100%. We just have to be careful, because once you start getting into a ton of mints, the infrastructure starts having real costs—especially for platforms that aren't necessarily killing it right now. I don't think any platform is truly profitable, or very few of them are. So there are real implications there, and a lot to unpack.
@@ -93,6 +105,8 @@ I know that sounds like a nuance, but it goes back to this app-based process. Yo
 I've been spending a lot of time internally with my team and externally on this: we are all logging in—
 
 Trinity: Yeah.
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
 
 Erick Calderon (Round 2): —to the same computer, and your ETH address is like your home folder on that computer. When I buy a piece of art from you, you're transferring it from your home folder to my home folder on one computer. That's how I know it doesn't exist on multiple computers, that it hasn't been sent to 25 other people. We keep talking about onboarding people into "blockchain" the way we'd talk about silicon chips or diodes—the micro-level stuff that runs a computer—when really people just need to understand that we're all on the same computer, everybody has access to it, and this is how we keep track of what's real and what isn't.
 
@@ -106,6 +120,8 @@ In the last year, in this down market, we can sulk about art sales—not just ge
 
 When you log into Twitter from your phone, you're logging into a network on a different computer. When you log into Farcaster, I'm sharing art and buying art on the same computer as everybody else. Once we understand that the Ethereum gods and the other smart contract chains have essentially created one computer, and that maybe one day we'll all be operating on this single computer, the unlocks are huge—especially with L2s. That's why it's so nice to have L2s within the EVM ecosystem: everything settles onto that same computer. There's something really powerful and exciting there.
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+
 It almost took a 250,000-piece drop happening through a social app like this to demonstrate that at scale and open our minds to this "world computer" opportunity. It's always been called the world computer, but we don't often let that really sink in—that we're all logging into a computer everybody in the world can access. There's some incredible opportunity there.
 
 Will: As amazing as it would be to onboard another million people to generative art, or art in general, even if it happens to be through NFTs—as two podcasters in this space, we'd love to see that, since it means more potential listeners for us. But setting Studio and generative goods aside, looking at the other half of Art Blocks—the Curated side—and what other platforms have been doing, narrowing the scope—
@@ -117,6 +133,8 @@ Will: —fewer releases, right, addressing the current market—to what degree d
 Trinity: Right.
 
 Will: A lot of the intentional moves being made with Curated seem designed around that. It's not just fewer releases, but more support behind each release, which is partially why the fee is going up for Curated—because there will be additional services. Maybe you can talk about what that's going to mean. And this isn't unique to Art Blocks—platforms like Verse are doing shows and putting a lot of effort behind each solo release, which is their version of Curated. Can you speak to those changes, and where things stand on the next Curated release? It's been a few months since we last spoke, so I don't know if we're any closer.
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
 
 Erick Calderon (Round 2): It's been a few months, and yes, we have stuff lined up for Curated. We haven't announced when or what yet, but we're already in talks with some artists about it. What we're trying to make sure is that what we bring forth on Curated meets audiences where they are — that's something the product team at Art Blocks is very obsessed with, and I love that we think about it that way — and also meets collectors where they are psychologically and emotionally in their process of collecting, of wanting to collect, of getting excited about collecting new work.
 
@@ -130,7 +148,7 @@ Art Blocks Curated has said for years that we're looking to raise the bar, and t
 
 An example of something that did raise the bar: the *Operators* project last year. That raised the bar — not just because the visuals were stunning, but because of how it was presented, the whole presentation built around it. I was sitting there buzzing, thinking, "Oh my God, this is going to be on Art Blocks." As a founder, as a generative artist, as a creator in this ecosystem, I was just proud that this was going to be on Art Blocks. It wasn't just screen-based work — there was a choreography component, a human element, a follow-up.
 
-[pool: Operators | Operators — Operator | ]
+[pool: Operators | Operators — Operator | | 3]
 
 You can have phenomenal generative art that's always going to be appreciated purely as a digital, on-screen work, and it's going to be incredible — we're going to keep releasing plenty of that through Curated too. But if we really want to say we're raising the bar, we should be raising the bar. That's what we're looking for in the next solo Curated release: something that truly feels different. Our goal is for our next release to have a major presence at Marfa — even if people can't buy or afford a piece, using out-of-bounds mints so everyone can participate, or making it actively part of the dialogue so people come together and have an unparalleled experience. That means leveraging the distribution mechanism of algorithmic art — the automated element of making everything unique — and thinking about what it means for a bunch of people to own something unique to them as part of a bigger family.
 
@@ -144,7 +162,7 @@ Erick Calderon (Round 2): reigniting a more meaningful cultural connection with 
 
 Trinity: I think Art Blocks Curated has struck a good balance on that in the past. From a viability perspective, you've had some of the more experimental pieces — the *Operators* piece is a great example, what Sasha Stiles and Nathaniel Stern were doing. Another great example — one that didn't mint out, or at least hadn't last time I checked, which is a shame because it's a really cool piece —
 
-[pool: Operators | Operators — Operator | ]
+[pool: Operators | Operators — Operator | | 1]
 
 Erick Calderon (Round 2): It's a shame. It's such a good project.
 
@@ -158,6 +176,8 @@ Erick Calderon (Round 2): To draw more people in—to get people excited about i
 
 If you have the best work in the world and it goes on Art Blocks Curated and it doesn't sell out, that doesn't help anybody. And if we feel the market is in such a place that even exceptional digital work could be released on Art Blocks and not sell out, what does that mean? Does that mean you're a bad artist? No. And I hope people don't take it to mean Art Blocks isn't a good platform. It's just the reality of being in a canoe with tiny paddles, going down rapids very quickly, with very little control over the entire ecosystem, and not having enough hands on deck to pull a bigger swath of people back in and get them to fall into that rabbit hole. And some of the people who did go through the rabbit hole—even the ones most passionate about collecting art—might have gotten worn out, lost money, or realized it's harder to make money than they thought. So they've slowed down and started falling off our timelines too.
 
+[pool: Operators | Operators — Operator | | 1]
+
 Web3 is so much about paying attention, listening, putting your ear to the ground, and understanding what the vibe is. It is awful to have built something at Art Blocks capable of minting tens of thousands of pieces every day and then make the deliberate decision to slow it down. It's awful that we don't give as many opportunities for artists to release through the Curated platform, which is what it was originally meant for. But if it's not going to sell your work, that doesn't do you any good, and it doesn't do us any good either.
 
 So let's hear things out. I really want artists to spend time in the studio understanding the relationship they have with their collectors. An artist is more likely to have a highly lucrative and successful Curated drop on Art Blocks in the future if they nurture their collectors over however long it takes—maybe by releasing some smaller editions in the meantime. One thing I'm most excited about with Studio: this isn't the end of generative art. This is just the end of whatever we experienced in the last few years.
@@ -169,6 +189,8 @@ Trinity: So wait—it's one-of-ones. Their daily, a one-of-one on an algorithm t
 Erick Calderon (Round 2): Not even for sale. I'm saying not even for sale.
 
 Trinity: Oh, not even for sale, just to exist.
+
+[pool: Operators | Operators — Operator | | 1]
 
 Erick Calderon (Round 2): We spent ten years in the generative space sharing artwork with zero thought that anybody would ever buy it. Very few of us had any exposure to a gallery—plotter drawings sold, obviously, and a few of us had little stores—but very few generative artists were making art because they thought they could sell it. They were making art because they loved it.
 
@@ -182,11 +204,11 @@ Trinity: Yeah.
 
 Erick Calderon (Round 2): —and document it the way a lot of artists documented their careers before, like sketches for a sculpture. Ensemble has done a tremendous job helping artists document their work—love what Mac is doing over there. This is just another way of saying, hey, we also document our generative processes. Some people did that a bit on Prohibition, on fx(hash)—people documented their work, but it was often followed by "here's a link to mint." I'm saying we can potentially use this to document our work now that L2s make it so cost-effective.
 
+[pool: Operators | Operators — Operator | | 1]
+
 That leads to this other thought: trying to make art as passive as possible for collectors. If I walk into a shopping mall and there's someone standing at the front of every store going "come in, come buy something, come buy something"—I'm not going back to that mall. But obviously everything's for sale. What does it look like to be more like a normal shopping mall, where you just walk around and window shop and experience what's going on? That's what Twitter is like right now—maybe the biggest art gallery in the entire world. Maybe Farcaster too. If we look at Twitter as a medium to demonstrate our work, not necessarily a place to sell it, but as an exhibition space and a way to document what we're doing—I see a vibe change coming. I could be wrong, this has yet to be proven, but I see an opportunity for a vibe change when the thousands of prolific generative artists out there go back to their roots as generative creators, posting work they've created, but this time documenting it using blockchain technology—putting it on-chain so it has all the merits and exciting parts of on-chain art—and spending time on the relationship, actually hearing what art collectors have to say.
 
 Instead of posting a video of an animated artwork, it's the live view of the animated artwork. Maybe Warpcast and Twitter start upgrading so you could pull up a *Chromie Squiggle* in Warpcast, click the frame, and it would just animate the squiggle. That feels like low-hanging fruit from a development perspective. We have a lot of artworks on Art Blocks that would benefit from animation being live in the browser and in the feed—really leaning into the idea that we can get the vibes back by turning into an exhibition center, an art gallery.
-
-[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | ]
 
 When I walk from one room to another in my house, I don't stop and soak up every artwork every single time. I love this artwork, I love my artwork, but it's just there—it's passive. Spotify can be so ubiquitous because you can drive and listen to music. It's really hard to drive and look at art. So art will maybe never be as passive as Spotify. But art is passive in my house. Art is actually pretty passive on Twitter—we're just scrolling through. Sometimes I like it, sometimes I don't, and not always because I hit the like button; sometimes I'm just scrolling faster than others. But I love that my timeline is three-quarters people sharing and posting artwork, and half the time it's not even for sale—it's just artists posting their dailies.
 
@@ -195,6 +217,8 @@ I think we can embrace and harness this technology to empower our dailies to: A,
 Will: A lot of what you just said speaks to the long-term preservation of things—almost archiving. That's something that doesn't get talked about much in this space beyond "is it on-chain or off-chain, on IPFS or a similar service." We've seen good discussion about the merits of both, and Art Blocks has been, from the beginning, almost entirely on-chain—every now and then someone points out some tiny piece that maybe isn't fully on-chain, but for the sake of discussion, let's say Art Blocks is on-chain. The fact that a piece is on-chain doesn't automatically protect it for 50 or 100 years. We've been busy this week—we interviewed someone yesterday who tried to go back into their Hotmail account from 15 years ago, and it had been migrated and they couldn't access it. So the idea that digital preservation is inherently better than physical preservation is perhaps a very flawed view.
 
 Erick Calderon (Round 2): It's very flawed. Paper is actually what has survived the test of time more than anything else.
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
 
 Will: There's 2,000-year-old paper still around. Do you consider the role of the platform in not just stewarding artists to put their work on-chain, but helping them future-proof it -- developing best practices? What's the plan if ETH goes down? What's the plan if browsers stop supporting JavaScript and people can't actually view this stuff? I assume you do think about it -- so where are you at with it? What can we do? What should we be doing?
 
@@ -208,6 +232,8 @@ So, number one, I believe we'll preserve what we find most valuable. ETH going d
 
 I think we can emulate, and I think we should also consider that for many, many years, paper was the de facto medium because it was the only medium necessary -- computers didn't exist, pixels didn't exist, nothing was animated yet. This is just a whole new generation of data. Forget about the art for a second -- the majority of our data in society is on the line here too. Granted, we have these caves in Sweden or Finland where people are storing paper copies of the internet, and I think GitHub has some crazy deep cold storage doing something similar. It would be nuts if we all had to wait in line for our turn to access that data again -- totally unfeasible.
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+
 But I do think we'll come to preserve digital data as vehemently as we once preserved paper, simply because back then our lives could operate fully on paper, and today they don't. My hand hurts if I have to write five words by hand -- I don't even use pens anymore. What happens with the next generation, when we don't go to college anymore because everything's in VR and there aren't even textbooks? When paper is no longer how we count on learning -- maybe a generation or two from now -- we'll have to think hard about how the digital world gets preserved.
 
 There are a lot of cool things happening already. I loved when Alba.art came out with the ScriptyPy library to keep everything more on-chain. Art Blocks has always wanted to do something like that too. But then you think: is p5.js going to go away today? In the next year? Five years? Ten? Maybe ten. I don't know -- it would mean something much greater and bigger came along to replace it.
@@ -220,11 +246,11 @@ Erick Calderon (Round 2): And ultimately Art Blocks did put p5 on-chain, even th
 
 In the end, the most valuable artworks in the world are hanging in people's homes on paper. They don't necessarily need to be transacted on a 24/7 permissionless ledger -- though I do see that as the future, where everything is on-chain all the time. So yes, I think this is something worth thinking harder about. When I'm asked to donate a Squiggle to an institution, I get this long piece of paperwork asking: if the Ethereum blockchain goes down, will you accept putting it on another blockchain? Would you accept us printing it? How do you prefer this to live? Who has the ability to fix this if something goes wrong? Institutions are thinking far in advance because they've had to deal with this question for years. So if institutions continue to show interest in what we're doing -- not just collectors with a financial or emotional stake, but institutions with a genuine preservation interest -- that expands the likelihood our work survives. We already have a number of institutions collecting digital and generative art, and hopefully the institution itself gets to take on some of that preservation role.
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+
 Trinity: Do you see that playing out differently across core curated pieces -- which I assume will primarily be ETH L1 -- versus pieces an artist might just mint as part of their daily practice, which could exist on an L2, or another chain entirely, like Solana? Is the onus of preservation different for those different types of work?
 
 Erick Calderon (Round 2): L2s are super early, so there is an inherent risk there. But this is the dilemma: I was on a Twitter Spaces call with Matt Hall and John Watkinson the other day for the *CryptoPunks* book that's being released, and John stated very clearly that you have that triangle — it's either fast, cheap, or, in the case of our ecosystem, decentralized, and you can only pick two. So if we're talking about getting art into people's hands and getting consumers excited, we have to make a sacrifice. With any L2, you're sacrificing security. How big that sacrifice is varies a lot — a lot of them settle on the L1, and some even let you recover assets by calling L1 transactions directly. Arbitrum has some really interesting emergency protocols for pulling state from L1 like that.
-
-[pool: CryptoPunks | CryptoPunks — Larva Labs | ]
 
 If I were releasing an artwork for the sake of art itself — something people expect to hold value — I'd probably do it on L1. If I want to have fun with something, make a designed product, a super-accessible mint, or a free mint, that doesn't mean I care any less about the work, but I'm making a sacrifice to make sure it gets into the right hands. Some artists in this ecosystem have had enough success that they could mint their dailies on L1, and I'd love to see that — they've got enough investment in their studio and career that spending $15 or $20 a day to mint, not even counting the upload cost of the algorithm, would be nothing.
 
@@ -233,6 +259,8 @@ Speaking of which, huge shout out to Riley on the Art Blocks team, who keeps mak
 L2s will be great for documentation. An artist can document something on L2, and if they don't sell it, they can burn it there and remint it on L1 if they later want to commit to it. There are a lot of different ways to approach this — it's all so new that it's hard to know the right direction. But ultimately, the black swan event for an L2, like an L1, is losing the ability to transact. It's hard to imagine we'd actually lose the stored data — the art would persist with whoever last owned it on that chain. Forks complicate things, though.
 
 Remember when Ethereum forked over the DAO, and then again with the move to proof of stake, when some people talked about keeping proof of work going? There was real speculation about that. It's expensive to mine those blocks, but does that mean there'd suddenly be 20,000 *Squiggles* because two different chains exist? Thankfully that fear just died away. But that's why consensus is so critical — look at the V1 Punk versus V2 Punk debate. Consensus says the V2 Punks are the real Punks and carry the value, but there's a whole community that's rallied around the V1 Punks, and they actually have value too — the floor price is nuts, honestly, for something that wasn't even intended to be the real artwork.
+
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
 
 I think that V1/V2 debate is going to be looked back on as a precedent for exactly the issues you're raising, Trinity — what happens when an L2 forks and we have to decide which chain is "real," or when an L2 dies and we have to figure out who owns the artwork or whose state is final. We'll have to work through those questions as they come, guided by precedent.
 
@@ -246,6 +274,8 @@ Will: Go for it.
 
 Erick Calderon (Round 2): What if—
 
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
+
 Will: Put it on Tezos.
 
 Trinity: Exactly. Put it on Tezos. Already on L1, forkless upgrades, low cost to mint, superior security because it's not Solidity. There you go. Wild idea.
@@ -257,6 +287,8 @@ Trinity: Yeah.
 Erick Calderon (Round 2): Oh gosh. But then we'd have to build smart contracts and indexing for non-EVM chains, and that's—
 
 Will: They actually have a new L2 that's EVM-compatible. We did a whole episode about it.
+
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
 
 Erick Calderon (Round 2): Wait, so Tezos settles to Ethereum?
 
@@ -270,6 +302,8 @@ Erick Calderon (Round 2): What you're suggesting, Will, is kind of like the lazy
 
 But something that's really shifted in my thinking over the last year is that we still tend to treat L2 as a second-class citizen, often without meaning to. There's already talk of L3s, even L4s.
 
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
+
 Trinity: Mm-hmm.
 
 Erick Calderon (Round 2): So once we're deep into L4s, L2 will be offering the security promises we currently expect from L1. By the time we're at, I don't know, L75, I have no idea what that world looks like, but it's coming — when a billion people are all logged into the same world computer, we'll have different tiers of security, and you'll pay more for a higher standard. It'll all become more homogenized eventually.
@@ -281,6 +315,8 @@ Will: Erick, we're coming up on our hard stop — Trinity and I both have baby d
 Trinity: I think we had similar closing questions. I wanted to ask if there's anything else creators or collectors should know about Studio. You've already teased a lot of exciting stuff, including Melissa Wiederrecht's upcoming work — is there anything else people should look out for, both in terms of releases and any new capabilities or functionality that's different from what's available with Curated or Art Blocks Engine?
 
 Erick Calderon (Round 2): So, clarifying: every artist gets their own contract, and they can choose regular or flex. As on-chain maxi as I am, I'll probably ask for a flex contract, because that gives me the opportunity to do something like what one of the coolest people in our ecosystem, Rudxane, did with that wonderful project in Marfa, where he took photography and added generative elements to it. I love that, and I've thought about those kinds of things for a long time, so I don't want to close myself off from it.
+
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
 
 We have flex contracts and regular contracts, and you own your own contract now. Initially, Art Blocks is going to be very controlling of the first projects on the studio, because we want to get it right — there are a lot of moving parts. With engine partners, we let them do their own thing, but we still know everything about what they're doing and when, because we're supporting them; it's rare for someone to just drop something on Art Blocks without our knowledge. For the first few months of the studio, we want to know what's going on, but we know that at some point it's going to get out of our control, because the whole point of the studio is that you do what you want with your contract, when you want.
 
@@ -294,6 +330,8 @@ It's a risk, but the studio is building a little collective of some of the best 
 
 Trinity: It's kind of like the best of both worlds. Love to hear it.
 
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
+
 Erick Calderon (Round 2): I hope so. We'll see.
 
 Will: Only time will tell. When we do round 3, we'll check in with you. But before we close out — here's a fun one for the last few minutes. Suppose you were a podcaster who could optimistically sell 500 units of a generative good. What would you make? A shirt? A hat? If you were a generative art podcast that wanted to make a piece your fans could collect, how would you go about it — and how much would it cost us?
@@ -305,6 +343,8 @@ Here's what I think would be really cool, considering you have some of the coole
 Then, like those $10 recordable Christmas cards, you make a physical version — a one-of-one card with a tiny recorder in it, playing that glitched clip. It comes with an IYK chip, so people can transfer the NFT into their wallet — and soon, with Privy, they won't even need a seed phrase to do that. So you'd have this beautiful little card that, when someone presses the button, plays this weird glitch of, say, Snowfro's voice. I think that'd be really fun. And that's just off the top of my head — we could come up with more.
 
 Will: What about shirts? Is there a way to make generative shirts, or is that too complicated given the setup cost of screens?
+
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
 
 Erick Calderon (Round 2): No, it depends — you can do direct-to-garment UV printing. Generative Goods has done some awesome stuff with shirts. What we're also trying to prove out with Generative Goods is one-of-one-of-X embroidery. At Consensus, two weeks from now, we've created a generative version of the Generative Goods logo — we're calling it "logo with brackets." You mint one, and immediately the embroidery machine starts stitching your unique version of that logo, so you walk around with a Generative Goods hat that's unique to you.
 
@@ -318,6 +358,8 @@ Will: We'll follow up by email, because it's about time we made something physic
 
 Trinity: I need more hats, definitely — I wear one almost every day. I just don't know where mine is right now, or I'd be wearing it.
 
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
+
 Erick Calderon (Round 2): I would rock a WTBS hat.
 
 Trinity: Exactly. Who wouldn't?
@@ -329,5 +371,7 @@ Erick Calderon (Round 2): Cool. Thanks, guys.
 Will: That's it for this one, everyone. Hope you enjoyed it — that was Erick, round 2. We'll be back again with another episode. Bye-bye.
 
 Trinity: Bye.
+
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 1]
 
 Erick Calderon (Round 2): Always. We're waiting to be signed.

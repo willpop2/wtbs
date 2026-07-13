@@ -32,7 +32,7 @@ Because I'm a mediocre coder — or really, just a beginning one — early on I'
 
 I released three pieces on fx(hash). *Fractured Time* was one I was really proud of. Another was inspired by those old Saul Bass movie posters — that 1950s, '60s Hitchcock vibe. The last one I released was on Alba, called *Lace Factory*. I made it during Piter Pasma's project where you're given 30 prompts over 30 days. The prompt was to make something in ten minutes — I failed on that front, it took me twenty, but still fast. The idea was crystal clear, and the essence of the piece I ultimately released five months later on Alba came from that exact moment.
 
-[pool: Fractured Time | Fractured Time — Haiver | ]
+[pool: Fractured Time | Fractured Time — Haiver | | 3]
 
 Will: Everyone listening — January 2026 is coming up. Not that far away now.
 
@@ -46,6 +46,8 @@ Will: Two and a half years. So you got into collecting generative art — Art Bl
 
 Haiver: Oh, it was. It was.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 Will: It was! Okay, take it away — tell us about Alba, the idea behind it, and what it was like starting a generative art platform as the market was cooling across the board.
 
 Haiver: Accurate. We started building at a time when there was no open platform on ETH for minting generative art. That had always been Erik Calderon — Snowfro, the founder of Art Blocks — whose original idea was an open platform, but success kicked off and the influx of work required a curation board. That left a gap in the market. And I think if you spend thousands of hours on anybody's tool or platform, you start wishing it did certain things a little differently, and you start envisioning features that don't exist yet. That's what Alba came out of — building the things I wished I'd had when I was browsing other platforms.
@@ -57,6 +59,8 @@ FX Gems got read by a lot of curators and artists, and it led to an opportunity 
 Will: I remember — I think you had a Lisa Orth in the mix at some point, and strangerintheq, which I collected. And Whitekross — you definitely had a Whitekross piece.
 
 Haiver: Love that piece.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 Will: I definitely collected some of the stuff there, but a lot of platforms arose at the wrong time, even though they might've been trying to fulfill a need that was there. You probably heard from a lot of people that they wanted an easier way to put stuff on Ethereum. We also know from the collector side that people are still talking about finding ways to bridge Tezos work to Ethereum, whatever their motives might be. So what happened that wound down Alba, and what did you do between then and now? I've been talking to you on and off for two years whenever we meet up, and you're always like, "I'm working on an idea, I've got something going on, I'm not ready to talk about it yet." So this has clearly been in your head for a while — what I assume is Artist Commons. Catch us up on post-Alba, and how you arrived at this new endeavor.
 
@@ -70,6 +74,8 @@ That's what ended up happening with Alba. The whole time, I'd been noodling on w
 
 Will: Let me take a shot at explaining what I understand it to be, and you can fill in the gaps. Broadly, it sounds like an educational platform for artists to level up their careers, or turn art into a career if they haven't found that success yet. You're approaching it from a number of directions — one being some kind of market aspect, growing your brand, figuring out release strategies. Not just NFTs, either — this is for artists who release anywhere, so it could include understanding the economics behind galleries and things like that. There's also going to be critique and direct feedback, which we should definitely talk about, since that's an interesting wedge in a space where everyone is so positive all the time. And there's an education component with guest speakers. Am I on the right track?
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 Haiver: You are. It's kind of like a big art school — designed as a year-long program for artists to level up their practice. Over the last year and a half, going to Marfa for the Art Blocks Digital Art Week, to Berlin for the Generative Art Summit, to the closing city launches for Bright Moments in Paris and Venice, I kept asking artists what they needed right now. What I kept hearing was that they needed feedback on their work. Many of them never went to art school — a lot of artists in our space come from technology backgrounds, computer science, engineering. Generative art, digital art, and the blockchain movement have opened up the possibility for them to be artists in a way many never expected, but it's also left a knowledge gap they still need to fill.
 
 Artist Commons is designed to fill that gap for artists who didn't get an MFA — but it's also for artists who did get an MFA and are missing the cohort-based mentorship of a small group of ten artists together, with someone focused on your long-term growth. In our space it's easy to get really invested in platforms and galleries, but since those galleries aren't signing long-term contracts with artists, they're invested in you through the release. They might check in every six months, but they're not knocking on doors for you. I think that's starting to change with new galleries like HEFT — I'm excited about what Adam is doing there — but by and large, artists don't have that person in their corner.
@@ -81,6 +87,8 @@ Will: The thing I most identify with, and have heard discussed on the side a lot
 Haiver: William Mapan is still doing incredible paint-like drawings — the most recent ones he tweeted, that Layla was reposting, are breathtaking in scope. I think part of the difficulty is that we want affirmation as artists. Even the ones marching to their own drumbeat, who are going to go into their studio and create something incredible whether you like it or not — we still need at least one person to affirm we're headed in the right direction. That pushes us toward aesthetics people are responding to, and toward more purely digital-native aesthetics — the kind of work p1xelfool or Nicholas Sassoon does, or Kim Asendorf — natively digital aesthetics that embrace the pixel, that play with light and the experience of motion. There's a group of collectors who respond to that, and if you're happy and satisfied in that lane, you can persevere.
 
 But there's a flip side: we have a real blind spot for art history in our space — both the pioneers who came before us, and simply the fact that when we're making conceptual work, we spend so much time talking about firsts, about what's new. "This person did something new." But so much has already been done before. If we could get a little more art history into our curriculum, into our knowledge bank, we could build on the shoulders of giants. Art history is the through line connecting what came before to what's happening now to what happens after — that's how art history gets written, in museum shows, in books about art. For our movement to be part of those history books and those exhibitions, we have to fit into that lineage, so a curator can draw connections to what comes before and after.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 Will: It's the subtlety of reproduction — taking something you see and reproducing it in code, versus what a gallery or museum would call being "in conversation with." And by the way, when I said derivative, I'm holding up my William Mapan art card right now, from his most recent release — I'm not saying it to be critical. I just think there's an appetite for artists to do more. What you said is perfectly phrased: they have to learn this stuff so they can build with it and build on it, not just duplicate it as a coding exercise.
 
@@ -94,6 +102,8 @@ One of the things I love about doing feedback sessions is that not everyone is e
 
 One of the best compliments I got in the last few years came during a studio visit with the artist Fahad Kareem, who released several well-received projects on Art Blocks and was a finalist for the Lumen Prize. We were doing a feedback session around one of his pieces, and he called me an "art whisperer" — said I should put that on my business card. I'm still flattered by that.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 I taught college undergrads for seven years — lens-based art: film, photography, media — and that sharpened my ability to give feedback constructively, in volume, until it became a defined skill of mine. When I started curating in web3, I carried that skill in and got to serve hundreds of artists. I did hundreds of studio visits in the six months leading up to *Alba*, while prepping the release with Verse, and then over the two years I ran Alba on the artistic direction side.
 
 One thing I've learned along the way: it's really important not to say "I think you should do this." The "I should" is language that has to get removed. I talk instead in terms of "perhaps this would work" or "perhaps you could try this" — it opens up a menu of possibilities the artist can choose from, based on what resonates.
@@ -105,6 +115,8 @@ When I was studying at the International Center of Photography, we'd pin our pho
 For the sessions themselves, there are three goals. One is to help you sharpen your craft and your intention — how you're thinking about why you're making what you're making, as well as the technique you use.
 
 Structurally, the program is a year long, broken into four ten-week quarters. Cohorts of ten, paired with a mentor, meet every week of those quarters. Lectures are spread out across the month in different formats, but there's always a lecture every week. For feedback itself, two artists go per week and get forty-five minutes apiece — real time to dig deep.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 If I were an artist thinking about applying to Artist Commons, my first thought would be: that means I only get feedback on my own work every five weeks. Fair criticism. So we've set up a private community app where people can share their work and get text-based feedback throughout the week, whenever they've made a step forward or want to celebrate a win.
 
@@ -118,6 +130,8 @@ I want to talk more about the market side, because this is *Waiting to Be Signed
 
 Haiver: We're going to have guest speakers coming every month. As you mentioned, we'll have an art history lecturer talking about various modern and contemporary movements, and people from the museum and gallery world talking about the business of art. Those are two core pillars, in addition to the feedback sessions. We'll also have a whole bunch of other activities we can talk about.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 On the business side, take something as simple as pricing and editioning — a question that comes up all the time. At times I feel like we're reinventing the wheel in web3 when there are disciplines we could look to. Photography, for instance, is an editioned medium that has often struggled to get market share against painting and sculpture, which are one-off pieces. So what can we learn from those disciplines and the history of pricing and editioning over the last 50 years?
 
 Another piece is how to deal with gallery contracts — who pays for the framing, who pays for shipping. This is stuff I absorbed from being around the art world, art nonprofits, and residencies, and I want to pass it on to members who apply and get accepted into the program. Take framing: I was shocked the first time I learned that the artist pays for framing, not the gallery. A gallery might pay for a marquee artist's framing because they're trying to entice someone who could go anywhere. But most of us, at the level we're working at, pay for our own framing. This was shocking to me because I was making large-format photographs that were very expensive to frame. The reason is simple: if you send work to a gallery and it doesn't sell, and the gallery paid for the framing, what are they going to do with it? They can't just send it back — the image belongs to you. But they paid for the framing, which means they hand you a bill: sorry, we failed to sell your work, now you're on the hook for it. That's a terrible position to be in as an artist, and a hard lesson to learn on your feet.
@@ -129,6 +143,8 @@ Artist Commons is a tuition-based program, and one of the great things about tha
 Will: The auction thing is so interesting — we saw so much of it early in NFTs. An fx(hash) artist releases low, the secondary price gets really high, the work gets flipped, then they try to raise prices on the primary, and suddenly it doesn't sell out. Success can cripple you early on in a strange way. I'd never really thought about that applying to someone doing traditional painting or photography too — having one successful auction, and if you don't hit that mark again, people ask why that piece sold for less, or why it didn't sell at all, didn't meet the minimum.
 
 And the framing thing, on the business side — it's not just about who keeps the piece, it's that framing being expensive means you have to calculate your margins. Once the gallery takes its cut, and you've paid for framing, what are you actually walking away with? And then you've got to pay taxes on top of that. That math gets complicated fast. Is there going to be a session on that — like, did you have this in school, learning how to write a check? Are you going to walk people through a little spreadsheet exercise so they know what they can actually, predictably make?
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 Haiver: That's a fantastic idea. Hunter College, where I've been taking art history classes, has a business-of-art minor that undergrads can take, including an accounting class — I think that's fantastic. I've got the first two quarters mapped out in terms of what the sessions will cover, but you've got my brain buzzing on this one.
 
@@ -142,6 +158,8 @@ That said, we'll definitely be featuring artists' work from the community and ce
 
 Right now, success for artists means selling, because money in your pocket buys time and space to make more work, and I'm all for getting artists paid. But there are a lot of opportunities that may not pay much, or pay only a small stipend — not the same money as selling out a collection for $20,000, because traditional art-world spaces don't traffic in that kind of money until you reach the larger galleries. But they're the things that get your work in front of critics and writers at publications. Who doesn't want their work written about in a major art publication? It gets your work in front of gallerists and curators. You've planted seeds, and you don't know where they'll go a month or a year from now — they may have a show later and remember that piece that stood out to them. Curators are always looking for what's new, and there's a real crisis right now in contemporary art about where the field is going, what makes a piece matter. We're part of a movement that's vibrant and incredible, and when people see it, they respond. I show generative art on my phone to my mother-in-law and her friends at the holidays, and they get excited and ask how they can collect it — especially when I tell them I'm selling pieces for $60. Then I get sad, because I think about the hoops they'd have to jump through to actually buy it. But there's this vibrant movement that people respond to once they see it, and we simply have to give them other avenues to engage with it, and find ways to put it in front of them.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 That means applying to traditional art-world spaces and getting comfortable sending out ten applications to get one yes back. I don't want to call the other nine "rejection," because it all comes down to who's on that particular review board at that particular moment — it has nothing to do with your work. Here's a story on that point: in 2022, during the Omicron wave, a lot of film festivals went online. Sundance was supposed to be in person that year but had to move online. I sat on the couch next to my wife, who's a film critic, and watched movies with her — she'd watch three, four, five a day, and I'd watch six or seven after she went to bed. I ended up seeing every movie that played at Sundance that year, all 80-some films plus the shorts. When the judges announced the awards at the end, it was liberating, because I disagreed so strongly with so many of their choices, and I trust my own taste — I've been engaging with film for a long time. Realizing how wrong the judges were on so many fronts taught me that awards are great, but they're not any kind of indictment of your practice. You can just let that go. The point is to send as many seeds out into the world as possible — some will take root, some won't, but you have to send a volume of them if you want the traction you're hoping for.
 
 So those are some of the things I'm hoping we can equip members to do for themselves — to get their work in front of people who will respond to it. We just have to get it out there, out of our corner of the internet.
@@ -153,6 +171,8 @@ Haiver: Yeah.
 Will: And you still have it. I'm sure if someone came along and said "I'll be the tech person," you'd hook it back up and try to get it going in parallel. So what do you think for artists who've become reliant on NFTs only? We always talked in this space about trad art eventually coming to us, putting their stuff on the blockchain. But instead we kept hearing about artists trying to get out of the blockchain and into the trad world, maybe still with NFTs attached. Those two things do feel like they're cohering a bit in New York with HEFT and Mimi's gallery. What's your take on it overall?
 
 Haiver: I love this question. I take a lot of inspiration from other art disciplines for making sense of how to move through this space — music in particular. You see musicians turn into moguls with multiple revenue streams they're pursuing simultaneously, and I think visual artists could get a lot better at that: giving different types of people different ways to enter into their work. If I suddenly fall in love with Taylor Swift, I can stream her music, buy the record, buy merch, attend a live event, join a fan community — there are multiple ways to enter into her ecosystem. For visual artists in our space, it tends to be "come mint on this day at this hour and be there right at the opening gun." That's not enough. We live in an attention economy competing with so many other types of content and media, so we have to design multiple entry points for our careers: selling prints on your website and marketing that through Instagram, doing a joint release with a gallery of a 1,000-edition generative piece while recognizing it's not about the mint-out day but about showing up and selling that work over time.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 If a gallery does on-demand prints right there in the space — I've talked to a couple of gallerists in New York about doing this with generative art — I think that's a fantastic idea. Someone off the street walks in, pushes a button a few times, goes "oh, that's the one I love," and gets their piece right there in that moment at a very competitive, affordable price point.
 
@@ -166,6 +186,8 @@ Will: I love the idea of walking into a gallery and getting a 1-of-1 print for $
 
 Haiver: Mm-hmm.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 Will: But at this smaller level, we have the opportunity to create experiences where someone can walk into a gallery and actually leave with a piece of art. It becomes Instagrammable, it can go viral — for the gallery to post, or for the collector to post individually: "here's my piece getting printed, I just got this, and you can get this too." There's so much low-hanging fruit there, minus the cost of getting the printer set up.
 
 Haiver: Mm-hmm.
@@ -177,6 +199,8 @@ Haiver: The cost of printing is about a dollar per square foot. For a small 8x10
 I think the hope for those artists, at some point, was: this is like YouTube, I put up my work and it will be found, the algorithm will surface it, it'll spread on social media, maybe I'll go viral. That's how we treated open platforms for a long time. But the model, at least with the web3-oriented galleries and platforms at this point, has moved in a much more curated direction — because you need to know your collectors, know who you're selling to, have relationships with them. The idea that you can simply throw something up and hope it sells still happens, and I think it's important for artists to give that a swing, but it's much better to have someone in your corner whispering about your work to a collector.
 
 For the money to have left the space the way it did — that was the wrong money to begin with, and I think that gets overlooked. The money that was here was based on pure speculation, treating art as a financial derivative you take a risky bet on and then strike it big. When I went to Marfa for the third time back in October, for Art Blocks' digital art week there — I call it that because so many other galleries and art companies are showing there now too, lots of pop-up events — it feels like a broader community has rallied around this very inconvenient but magical place to get to. You see 500, 600 people who are true believers. We found a collector base that didn't exist five years ago, and they've coalesced into a powerful group of people who are accessible, friendly, and love the weirdest art. The artists are accessible too — you can DM them. That's how I got my first piece on fx(hash), DMing an artist and starting a relationship as I struggled to set up a wallet, and they talked me through it. The collectors here are passionate about making sure digital art is a big chapter in the history books someday.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 My big fear right now isn't the success of this movement for us today — it's how we get written about 50 or 100 years from now. AI art has kind of overshadowed algorithmic generative art, the code-based work we love, and that's clearly going to be the big chapter when people talk about this first quarter of the century. But will Art Blocks, fx(hash), and Verse be a sidebar, or can we make sure the art they've championed stays a core chapter of this moment? I think we're at a real critical juncture for making sure that happens.
 
@@ -190,6 +214,8 @@ Haiver: They weren't ready for the major leagues at the beginning, but they defi
 
 Will: If I wasn't making this podcast, there's no way I'd remember a tenth of what I can recall — and only because I sit every week, take notes, read Discord, browse the collections, build the run of show. That's way more dedication than the average collector puts in, so it's not surprising at all that people just become forgotten.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 Haiver: I hope you play a large role in writing the history of this moment someday — you have those notes. I have my notes from writing FX Gems. There's a handful of us who've seen every project. Bre Pettis up at Bantam Tools is another, and Lonliboy, who's now back at fx(hash). There's a handful of us, and this is really important work — it's one of the largest repositories of a certain type of generative art at a particular moment in history. And that matters.
 
 Will: Don't worry, I'm backing up the podcast offline. I always say I aspire to get at least the interviews up onto a website, but transcription is a hell of a job, and AI still isn't there to make it that much easier, unfortunately. Maybe in a couple years it'll be simple.
@@ -201,6 +227,8 @@ Back in the day, Landlines was so prolific — not just because he had ten proje
 Haiver: I forget the name of that project, but it was like, here's A, B, C, D. As the project evolved, it was the same piece.
 
 Will: That wasn't Landlines. That was Ippsketch.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 Haiver: Oh, Ippsketch.
 
@@ -214,6 +242,8 @@ Haiver: Expanding your collector base is what most artists need to be doing on s
 
 If I were to critique platforms overall over the last four or five years, I'm disappointed in their efforts to onboard new types of collectors. At the same time, the community we've built, the collectors I see at Marfa or at Bright Moments events when those were running — those true believers did not exist five years ago. They created an entirely new set of collectors, and the art world would be envious of that on some level.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 I think the difficulty is that we in Web3 built something kind of like a Segway. It looks cool to a handful of people, but it doesn't quite solve a particular need for them. We saturated our early adopter market and never crossed over into the mainstream. I'm worried that working in crypto and releasing art in this space is like a Segway — it looks cool to the people on the inside, and the people on the outside think it's kind of dumb to be a part of. The difficulty is bridging that chasm. That's always a startup's problem: how to bridge the chasm between early adopters and the mainstream. You actually have to build a different type of product to appeal to the mainstream — what attracts early adopters isn't what attracts a mainstream audience.
 
 Art coins double down on the audience that's already in crypto, which may or may not be the right decision. I'm excited to see what new types of minting, and types of art beyond generative, they empower. But it's still an admission that we didn't do well onboarding new users who wanted to collect. Some of that might simply be that we went to a lot of ETH events and Tezos events and spoke to people already on our side of the fence, and never figured out how to reach the events outside. Tezos did a booth at Art Basel years ago — but how were they following up with those collectors? What were the calls to action? Were they building email lists to follow up later? That's what open platforms don't do — they want to be a platform, not a gallerist.
@@ -225,6 +255,8 @@ Will: The most recent thing I've bought is a Jeres piece that HEFT was showing. 
 I think some crypto people would bristle at that — it feels anti-crypto to have this insider thing, like, "oh, I got an early pick." But that's kind of where the business is now. It would've felt unimaginable four years ago that you'd be soliciting individual pieces to a preferred collector. But now that's how you sell out a show.
 
 Haiver: Part of this is that momentum builds momentum. It's not about being exclusionary by reaching out to collectors who are faithful in this space and support the artists we care about — it's much more convincing to someone who comes across the project to see it's already half sold by the time it opens. I don't love when a show sells out entirely on the first day — that's kind of a bummer, though fantastic for the gallery. If you're committed to the type of art these galleries show, you reach out to the gallerists, get on those lists, and see the PDF pre-show.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 But yeah, if I land on a page and it's already 50% sold, I'm much more inclined to buy right now. You and I both had the experience on fx(hash) of flipping through daily releases and seeing a piece that had only minted two or three editions and just wasn't moving — you're much less inclined to collect that piece in that moment.
 
@@ -238,6 +270,8 @@ Will: A lot of the reason I collect, or have stayed collecting, is personal conn
 
 Haiver, we've gone for a while now — I have one rapid-fire question for you. Is there anything you feel like we didn't cover that you want to talk about with Artist Commons?
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 Haiver: The ways to get involved with Artist Commons right now: check out the website, artistcommons.art. We're on six different social media platforms as @artist_commons, so follow us there. There's an email subscription list on the website — sign up there for additional info about program details and when new cohorts are launching. We're going to onboard new members two to four times a year, depending on how this first round goes — at most once per quarter, so it won't be that often. We really want to spend most of our time focusing on the artists in the program rather than out here marketing it and spreading the word. The hope is that artists who sign up quickly realize how much material they're getting. We're doing discussion groups, reading groups, portfolio reviews, website reviews. If you haven't built your artist website—curators are looking for art to champion, art to get excited about, and it's hard to scroll X or Instagram and get an overview of an artist's growth, body of work, and what they're about, especially if you're mostly just retweeting other people. It's great that you're championing artists you care about and your friends, please keep doing that, but there need to be links I can click, or repositories of a body of images.
 
 So we're doing website reviews, close-looking exercises—which is big in museum education, learning how to see art more clearly—and writing clinics to help you develop your voice as a writer and how you talk about your work. That's really important once you start getting outside Web3. I remember some fx(hash) projects where the artwork description is just a sentence at best, or a bunch of emojis. If we want to expand our collector base and be part of the narrative of contemporary art right now, we have to be able to write artist statements. It's just being a good host: someone walks up to your art, they don't know what you're about, and you're welcoming them into your practice, giving them a couple handholds so they can make sense of what they're seeing more quickly—which lets them go deeper on their own. So we'll do writing clinics. And like I said, the opportunity list is going to be a big part of this too.
@@ -249,6 +283,8 @@ Will: And you can use the referral code WTBS2026 if and when you go sign up.
 Haiver: The program is tuition-based—next year it'll be $2,400 for the year, which is 40 weeks of material for less than the cost of one college class. This year we're doing a founding membership of $1,850; we put that as low as we can go. So the referral code isn't a discount this year, though it will be in future years—but it does support Waiting to Be Signed. We're also going to try to put members who sign up with those referral codes into cohorts together, since they're aligned with the mission of Waiting to Be Signed, and keep Will and Trinity up to date on how those cohorts are doing.
 
 Will: Wow, I didn't know about that part. Just know if you sign up with our code, we're going to see what you're doing—Santa's watching. Haiver, that's all amazing. I love the writing stuff too, glad you mentioned that at the end, because it's super relevant to NFTs. Back when we were making this show more regularly, it was so hard sometimes to scrape together any information about a release. I'm still almost offended at how little gets written, even on a curated platform, about releases they've put a lot of time behind—two paragraphs, and most of it's no information. So yes, super important stuff. I want to hit you with a rapid fire before we go, since you mentioned movies and Sundance.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 Haiver: Please.
 
@@ -262,6 +298,8 @@ Haiver: They are, yeah.
 
 Will: Oh my gosh, okay. I don't know if you're familiar with that creator—I'm not, really.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 Haiver: Tell me, please.
 
 Will: I actually haven't seen nearly enough of his stuff—it's on my list to dig into more. The thing you might know him best for is he did the *BlackBerry* movie.
@@ -274,6 +312,8 @@ Haiver: Oh, yeah, yeah.
 
 Will: —very polarizing, because it was about a school shooting. But apparently the things they do in this new movie are really wild. The reaction coming out of Sundance was that because a lot of it was made in America, it might actually be illegal to release. But I guess they found a way around it. His whole thing is skirting the law.
 
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
+
 Haiver: There's a good model for that kind of film—the *Borat* movies. You don't have a right of image in the US the way you do in, say, the EU. Making an image of somebody in public, like a documentary or a mockumentary, falls under the First Amendment. Making an image of someone is like whispering to my friend my opinion about them—what I choose to include in the frame, what moments I pick to include. It's been a great year for movies. There have been some really fantastic things—I think *One Battle After Another* and *Hamnet* are probably going to go the distance.
 
 Will: Did you like them?
@@ -285,6 +325,8 @@ It's helpful for a digital artist to realize we're part of an ecosystem of fine 
 Will: Right on. That's the perfect way to end it, honestly. Haiver, thanks so much for coming on—I'm glad we finally got this done. Sorry Trinity couldn't make it, I know it was a close call. Again, it's Artist Commons, code WTBS2026. Follow on the socials, sign up for the email, get your application in order. Thanks, man—hope you enjoyed it.
 
 Haiver: Thanks for having me. I love this show so much and love supporting you guys.
+
+[pool: Fractured Time | Fractured Time — Haiver | | 1]
 
 Will: Right on. That's it for this one, everyone. We'll be back again at some point with another episode, I'm sure. Hope you all enjoyed. Bye-bye.
 

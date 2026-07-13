@@ -22,7 +22,7 @@ Frank Manzano: I'd actually been into crypto for about five years before I got i
 
 Will: You've got the *ScheduledProgramming* exhibition coming up on the 11th or 12th?
 
-[pool: ScheduledProgramming | ScheduledProgramming — Frank Manzano | ]
+[pool: ScheduledProgramming | ScheduledProgramming — Frank Manzano | | 3]
 
 Artie Handz: Beginning the 11th, 24-hour auction style.
 
@@ -32,7 +32,7 @@ Artie Handz: It was this past summer when Frank started releasing dailies on Fel
 
 So around October of '22 I really started digging into the history, the players, who's doing it, and the network just grows with time. Fellowship started doing the AI post-photographic work, and I love that uncanny valley feeling that kind of work has. I bought a piece — not minted, bought right after — *Life in West America* by Rupe. I think that kind of set the tone for what people picture when they think of AI art, air quotes intended. That aesthetic from that era is still sort of baked into the models, and we're eventually headed toward this perfection which — I think artists will have to figure out how to break, because perfection isn't really interesting.
 
-[pool: Life in West America | Life in West America — Roope Rainisto | ]
+[pool: Life in West America | Life in West America — Roope Rainisto | | 3]
 
 But Frank, exactly like you said, hit the nail on the head — there's this unsettling nature to AI work, and Frank leans into it. He's saying, yeah, it looks unsettling, so let's make it more unsettling: unsettling topics, unsettling prompts, unsettling things. He's told me he's taken things out of videos because they were too unsettling — he didn't want people to think he was putting it in there just to shock. He's just exposing things for what they are instead of sugarcoating them into something nice and beautiful. I think a lot of people in Web3 are looking for two things: to make money, and some nice, pretty things. Art like this challenges both assumptions — it doesn't have to be about financial gain, and it doesn't have to be just pretty. I've been thrilled with the series. They're so cool. I just posted all thirty of them on my new Artie Gallery and on Twitter, so they're all up there for anyone to see.
 
@@ -46,6 +46,8 @@ Will: That spontaneity is a common theme with a lot of the code-based artists we
 
 Frank Manzano: I think some people would get the impression that I'm very cynical. I'm not, by no means. We can't control what's going on in the world — we can barely control ourselves, for the most part. But I think we can always sit back and think, and that's kind of the hope: that we can take ourselves out of situations and use our minds the best we can to move forward.
 
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
+
 The work is an exaggeration. It's satire, but I work in kind of an expressionistic fashion, and I hope people get more out of it than just something topical. My intent — and I think this is the case for most people who make art — is that there's always something internal driving it. It's not just what's going on in the world; there's something internal that drives you to make art, or whatever it is that a person does. Maybe they don't make art, maybe they work on their car. There's just something that drives us.
 
 Then there's boredom, which I think can be a good thing. Boredom is one of those things where you're kind of alone, preoccupied, and you find a way to escape that temporarily. Whatever is going on within a person — little by little, if you keep at it, you might get to something, or you might not. That's the idea: you keep at it and maybe you'll stumble across something. And I think that's true of all art, not just working with AI. That's just art in general.
@@ -57,6 +59,8 @@ Artie Handz: I'm also a football fan — I don't know if you've heard the term t
 I've been upfront with him from the very first message: this is my first gallery show, I don't really know what I'm doing, but I'll do my best and work hard to promote it — I want the work to be you. I'm happy to help or answer questions if he wants to bounce ideas off me — I've served in that capacity for artists many times before, unofficially, and I enjoy having a small part in the work. But once someone has it, you let them run with it. You don't want to be like a TV show with 40 different people writing comments, losing the center, the real soul of the thing, because of too many cooks in the kitchen. So I let Frank cook and tried to do as much as I could for him behind the scenes.
 
 From the beginning, I started contacting his previous collectors and asking them for quotes on the work — partly to help contextualize it myself, but also because I think what this space is missing is context around the work, and hearing other people talk about it. The quotes I got were things I wish people would just tweet — "I bought this piece and this is how it makes me feel" — but not many people are that open and vulnerable on their Twitter/X accounts. When they're just writing a paragraph because they want to, people do want to talk about their feelings about the art; they're just afraid to do it publicly, where if you have 20,000 followers someone's going to say "that's stupid." But in a safe space, sent privately to me, then put in a PDF and tweeted out, it's not as big a deal.
+
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
 
 It was clear his collectors were very passionate about the work. Cold-DMing people — "I'm planning on doing this thing, will you write a thoughtful paragraph for me, which will take some time?" — I got over an 80% response rate. And even the people who didn't do it said they wanted to but just couldn't at the moment. That shows the passion people have for the work. It was that snowball effect again — I took these quotes, wrote them all down, thought more about it, and as the works came in, I wrote the exhibition statement. It's been a very natural process. Like Frank said, it's just: okay, we create this thing, see how it goes, keep looking at it so it doesn't go sideways. It's not unplanned, but it's letting it ride, then trimming and editing as it develops.
 
@@ -70,6 +74,8 @@ I feel that very intensely. I lived in New York from 2010 to 2015 and would stro
 
 Will: Got it. What do you think, Frank?
 
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
+
 Frank Manzano: I don't really have a problem with that structure, because, speaking for myself, even working full-time in art, there's just not the time to do everything. You're busy working, so it's difficult to develop the social media side too — it takes time away from what you're doing. Especially with digital work, there are a lot of non-creative components eating up your time. I have a decent following on social media, but my work really gets out there when somebody with a following, or a gallery, is promoting it. That, to me, is the better way to do it — if somebody's a collector, they're focused on collecting, and they have a community of people they're in communication with.
 
 I've spoken to many artists about this, and many agree it's just easier — it takes work off of you that you might not even have the knack for. It's hard for a lot of people to promote themselves. It can be uncomfortable for artists to sell themselves. That's what galleries do.
@@ -81,6 +87,8 @@ What the NFT space has done is make it possible to do this without a gallery, an
 Frank Manzano: On another note, I think galleries are good because—if you're an academic writing journals and papers, you have peers review it, and that validates what you're saying. Having your work come from a gallery validates it a bit more, because you have curators who are tuned into everything going on, examining the work critically before it gets to the public. They're not determining what should be sold, exactly, but they're steering things. If you're just putting out whatever you have without going through that process, you're missing something. There's an art to curating—having another set of eyes, or multiple sets of eyes, on the work and making sense of it. I think that's beneficial.
 
 Will: We've seen so much of that in the last year with platforms like Verse and Tonic. I'm part of a group called TENDER where we release curated, collaborative projects with artists, and it's been a really interesting trend to follow.
+
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
 
 I wanted to jump back to your process—how you work with AI, film, and other tools like Blender. When you make these videos, are you starting from found footage, or footage you've shot yourself? What models are you using? Are you training your own models through Stable Diffusion? I'm trying to get a sense of how much of this is AI versus how much is your own work with AI layered on top, because to many of us it's a mystery—most of us don't know AI beyond Midjourney and prompting.
 
@@ -94,6 +102,8 @@ Frank Manzano: No, no, I don't have any secrets. I'm willing to share anything.
 
 Will: My experience with Midjourney was just prompting in Discord and getting a still image back. But your final product is these videos that run minutes long. Is there a second process on top of the prompting that knits the images together into animations? Are you generating a series of three-second clips that you then edit together into the final video? I've seen shorter GIF-like animations generated by AI, but nothing like yours, so I'm curious how it comes together.
 
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
+
 Frank Manzano: When I use Midjourney, I never did much prompting there—I would blend different images together. Then I'd take those images into either Midjourney or Stable Diffusion and convert them into two-second or four-second videos, depending on which tool I'm using. Once I have all the images I've generated, I'll storyboard them out a little, lay them out the way I'm thinking about the piece—I like to keep a kind of stream, the way I want things to appear in the clips. After I generate the video, I move to editing in Final Cut, and that's where it all comes together. After that comes the audio, which isn't generative—I don't have much experience with that. Actually, the way I've been doing sound is something I've only gotten into in the last couple of months.
 
 Will: That's where I was going to follow up—how do you create those soundscapes? Are you composing them, using found sound, or is it AI as well?
@@ -106,9 +116,9 @@ Will: Oh, yeah. No, it's just interesting because compared to an artist who work
 
 Frank Manzano: Absolutely. I've actually been thinking about this—a lot of people DM me wanting to get into it, and I've thought about putting something together that shows the process. But I think it's better to approach it without knowing much, because then you're free to do whatever you want. Once you have a fixed idea, you're just going to make—
 
-Artie Handz: You've already placed yourself in a box a little bit. You've defined the endgame before you've even started.
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
 
-[pool: Forma y Orden | Forma y Orden — Juan Rodriguez Garcia | ]
+Artie Handz: You've already placed yourself in a box a little bit. You've defined the endgame before you've even started.
 
 Frank Manzano: Yeah, that's kind of how I feel about it. I don't think it's good to think too much. It's better to just start moving things along and see what comes out. If you overanalyze it, at least for me, it doesn't produce anything. I find that a bunch of very simple decisions, made one after another, is what makes it. When I paint, I approach it the same way—one mark at a time, and it goes from there. If you think too much beforehand, you won't get where you want. It's better to approach it simply: I'm just going to make marks and see where it goes.
 
@@ -119,6 +129,8 @@ Frank Manzano: This is a big thing for me, and I've discussed it with other arti
 I think it's a great way to make art. A hundred years from now, I think we'll have some kind of apparatus in our heads, and that will just be how people do things—it won't be seen as cheating. Why wouldn't you use it? I think it frees your mind for more creativity, because you're outsourcing some of the extra movement and leaving more room for conceptualizing. And without you, it's not going to produce anything on its own—in a sense, you're curating what comes out of it too. It's a two-way street.
 
 Will: Artie, anything to add?
+
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
 
 Artie Handz: There's a lot of things, I think, similar to putting a camera in your hand — it gives you the ability to create if you couldn't otherwise. I can't even draw stick figures. There's something between my brain and my hand that just doesn't work for drawing. But I can prompt, I can use these tools. So I think it's interesting in terms of opening up a new audience of potential artists who couldn't do it before without years and years of training, or in some cases just couldn't do it because of hand-eye coordination or whatever. So there's that.
 
@@ -132,6 +144,8 @@ I accumulate photos by walking around places and shooting them. Other people hav
 
 We often call it an uncanny space, but I think it might actually be more of a representation of what's really out there — a mirror, in a way. Not an exact replication, but some other kind of truth. That's what it shows us. It can seem uncanny or unsettling, but there's something there, and I think we're probably a hundred or two hundred years away from even understanding what it all means — what this uncanny space even is. I don't think we're ready to really understand it. We can only unearth it, examine it, do what we can with it. We won't have the full context in our lifetime. What we're doing today will probably look, two hundred years from now, like something crude and primitive — but it will still mean something. Things will change exponentially in the next two hundred years, and it'll be a completely different world. But I think there'll still be something to everything we're doing now.
 
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
+
 Will: Hearing both of you talk about it makes me think we're in this age of nascent archaeology of the collective emotion of the internet — all these models trained on Instagram, Wikipedia, random blog posts, whatever. We're just starting to unearth this stuff and look at it, and we're interpreting it through the eyes of the machine rather than our own. It's almost like having someone analyze your dreams, Jungian-style, but for the whole world at once.
 
 It also raises a question — I don't know what kind of lawyer you were, Artie, but there are obviously lawsuits happening right now over all this. ChatGPT being sued by the New York Times is the one that comes to mind. Even when you're incorporating your own elements like Frank does, you're still calling on all that scraped information underneath. So, as someone who's art-adjacent, especially as a collector getting into this — I wonder if there's a risk of a permanent mark being left on some of this work, depending on how these lawsuits play out. What do you think?
@@ -143,6 +157,8 @@ I wasn't a patent or copyright attorney — I have friends who are, though I hav
 So it's difficult, because you want to keep things open and let people build on human knowledge, but you also want some protection. After being a lawyer, I worked in the shipping industry, building a large-scale machine that attached to cranes to help unload boats faster. We partnered with a Chinese state-owned company called ZPMC, and we didn't have enough money for full patent protection across everything we needed. We had to trust them — and they just took it all. So when you're creating something you want to monetize, and someone can take it before you're able to, that's a real problem too. It disincentivizes creation. It's this inherent tension between your incentive to create and the value of learning from others. Not an easy question. It'll be interesting to see how it turns out.
 
 Will: I'm still struggling with my own opinion on it.
+
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
 
 Artie Handz: Mine changes all the time too. You hear someone say something, it reframes things slightly, and you end up thinking about it completely differently.
 
@@ -156,6 +172,8 @@ You've described yourself as someone who just collects what they like and goes t
 
 With AI work, I try to look at it multiple times — it often hits for me. These post-photographic video art pieces have really been hitting for me lately. I think once they get more perfect and look more real, I'll actually be less interested — right now feels like a sweet spot. But a lot of AI art does tend to look the same. Can you immediately tell whose piece it is without a distinct, set style? There aren't that many artists where you instantly know who made it — not that that's a requirement, plenty of great artists range all over the place. But in AI art especially, it helps to have an aesthetic that's distinctly yours, because so much of the medium looks alike.
 
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
+
 So I look at pieces multiple times over time to suss out their deeper aspects. It's harder — AI is probably the hardest medium for me to curate. Other mediums are quite a bit easier. But when you do find someone whose work really hits, it's incredibly fun, because what's coming out of AI right now is just crazy. I enjoy people pushing the limits from a technological perspective, but also asking, hey, what can you handle? The weirder the better, in my opinion. Frank's work is certainly weird from a purely aesthetic viewpoint. It's been an incredible journey curating and trying to project not what I think about it, but what other people think about it, or what I want to help other people think about.
 
 Will: Were there any pieces in the series where at first you thought, this is cool, but I wouldn't want to own it — and then after hearing someone else's take, you turned around and wanted to collect it?
@@ -167,6 +185,8 @@ Will: Friend of the show.
 Artie Handz: Now it's absolutely my favorite one. It's perfect — sometimes you need to be hit over the head with the fast motion and everything. You can watch these a hundred times and see something different depending on what part of the screen you're focusing on, or what mood you're in. That's one of my favorite things about Frank's work. It's hard to watch them repeatedly — curating them, I've watched all 30 in a row a couple times, and afterward it's like I just had an exorcism. But if you pick up a piece, it's something you want to come back to a lot. I have four or five of his one-of-ones that he put out through Fellowship before, and I find myself returning to them more often than a lot of other work I own. There's just so much going on.
 
 Will: To wrap up, we usually do some rapid-fire questions. First one for both of you: any music or media recommendations? Frank, is there music that helps you get in the zone while you work? Artie, same for you.
+
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
 
 Frank Manzano: It's not new music, but I like Tangerine Dream and Klaus Schulze — that's what I listen to pretty often. I also like early-'80s Italian disco.
 
@@ -180,6 +200,8 @@ Will: Another one we like to ask: who would you like to hear us interview? Could
 
 Frank Manzano: There are about 5,000 people I know that I don't *know*, if that makes sense — so I'm trying to think of someone I haven't already heard speak.
 
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
+
 Artie Handz: Not a generative artist, but I know him and have talked to him — I don't think he's ever done any media — Joe Peas.
 
 Frank Manzano: Yes, there we go. Joe Peas for sure.
@@ -191,6 +213,8 @@ Frank Manzano: I don't know if he uses AI as a primary tool. From what I've seen
 Artie Handz: As far as I know, it's purely video editing.
 
 Will: Okay, Joe Peas. Anyone else?
+
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
 
 Frank Manzano: KingKhan2K — an AI artist I really like. He's similar to Joe Peas in that there are never really any interviews; he's pretty ambiguous. But his work is really interesting. He doesn't use AI-generated images exactly — he pulls a lot of imagery from around 1998 to 2003, then brings that into AI video environments and plays with it there. Great sound on his videos too.
 
@@ -204,9 +228,9 @@ Artie Handz: Yeah, *Formae*.
 
 Will: *Ordn*.
 
-Artie Handz: That one is great, and honestly all of it is. I have a *Reflejos*, and I have the one that was given out at Marfa — got a bunch of those. He's great.
+[pool: Life in West America | Life in West America — Roope Rainisto | | 1]
 
-[pool: Reflejos | Reflejos — Juan Rodriguez Garcia | ]
+Artie Handz: That one is great, and honestly all of it is. I have a *Reflejos*, and I have the one that was given out at Marfa — got a bunch of those. He's great.
 
 Will: I heard him on a Spaces recently and he kept it very brief in English, so I got the sense maybe he's not super confident with it — which is fair enough. Those are some good ones. We're at time, so let's plug the Verse release again — coming up on the 11th. *Scheduled Programming* — will it be a ranked auction, or how's it going to be sold, Artie?
 

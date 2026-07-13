@@ -36,7 +36,7 @@ Will: It's a suggestion we took to heart. Following up on books, movies, media i
 
 Iskra Velitchkova: Tough question — but honestly, nothing in particular, because I tend to watch biographical movies, things I can learn from in terms of how people in the past did things, more than the story itself. Sometimes I get inspired by movies like *Solaris* by Tarkovsky, or books, or Fellini for the new Bright Moments piece, or *Zabriskie Point* for the fx(hash) project. It's not about the story — it's something I want to bring into the project directly. With *Zabriskie Point*, it was that final explosion scene set to Pink Floyd — incredibly impressive to me. I wanted to pay homage to that scene, even though the movie itself has nothing to do with the project.
 
-[pool: Solaris | Solaris — Iskra Velitchkova | ]
+[pool: Solaris | Solaris — Iskra Velitchkova | | 3]
 
 So it's less about connecting movies or books directly to my work, and more about what I take from them — like when I need to find the right moment to start a project, or get inspired, I'll go to some biography and think: how did they do that? Usually they'd take a house for a month, whatever it took to really take their work seriously. I need that kind of energy — seeing that people took their work seriously so I can do the same. That's how I use those references.
 
@@ -50,19 +50,23 @@ I'm originally from Bulgaria, so from time to time I go back for a few days, not
 
 Will: I mean, that's one of the nice things about being in Europe — you can take all these short trips to places and see so much. We have that here in the States too, I guess, but I don't know people who really explore the States the way people explore Europe.
 
+[pool: Solaris | Solaris — Iskra Velitchkova | | 1]
+
 Trinity: You're on your short trip to New Jersey right now. Testing it out, feeling it out.
 
 Will: It's interesting to hear you say that, because a lot of what we've seen from your work — or things I think of when I think of your work — is that influence of urban landscapes, or *Escape*, or *Edna*. They imply places in transition. I guess I'm fumbling around trying to say that a lot of your work has a real sense of place to it, and that seems like an important theme in what you're trying to explore. Maybe you could speak to how that translates into your projects, even the first one we know you from, *Uninhabitable*. By the way, Trinity has a red *Uninhabitable*, I don't know if you know that.
 
-[pool: Escape | Escape — Iskra Velitchkova | ]
-
 Trinity: I do. I'm really looking for a *Nowhere*, because that's the one that speaks to my soul the most. But we can talk about *Uninhabitable* later — I want to make sure you answer Will's question. I could geek out about it for a very long time. It was so good.
+
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 3]
 
 Iskra Velitchkova: I think there is something there. Icon, the collector — a very good friend — once wrote to me something I've been thinking about a lot since. He said, "I hope you're fine, because I feel like you're escaping from something." You always bring this literal idea of escape into your projects, this running away from something, looking for something all the time. I realized that was true. It's not a bad thing for me — I'm not escaping from any bad life or bad situation. But I'm very conscious that we have a lot of things we can do, explore, feel, and not so much time to do it in. That's something I really carry inside. So a lot of my explorations are about finding this place where you can really be you, where you have a strong connection to the place.
 
 As you said, here in Europe it's very easy — you can drive five hours and be in a different country, Portugal or France, a bit more and you're in Italy, and everything changes. I really connect places to moments, to people, to the ground itself. There's something about that nostalgia, about being in a place where something happened, or a place where you can imagine something happening. We'll get to *Uninhabitable* — it's probably the best example of that. None of the places in it are actually pleasant, but they have something, for me. And then I have these projects behind the curtain, one-of-ones — I have the system, and from time to time I find something behind the curtain and release it. You can always see these places clearly through the curtain, but there's something happening — sometimes fire, sometimes an ocean. Problematic places, let's say, where you can maybe find something.
 
 Trinity: We've talked about how you came into NFTs, how you discovered Hic Et Nunc and Tezos. A lot of the work you released there was within the realm of edition-based projects. How did you find your way to releasing traditional long-form generative art through fx(hash)? What did that space open up for you, especially with something like *Uninhabitable*, where you get this whole range of emotion within a single series?
+
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
 
 Iskra Velitchkova: I clearly prefer one-of-ones. I was so lucky — I don't know if you were active in the very early days of Hic Et Nunc. I know we sound like old people talking about the glory days, but they really were. There was something about that place that, for the good, just disappeared — it protected that moment in time instead of letting it get destroyed by its own success.
 
@@ -74,7 +78,7 @@ Then Hic Et Nunc went down. And the same week, or the week after, fx(hash) came 
 
 *Uninhabitable*, even though it was long-form, felt fresh, because I didn't overthink the project. I just saw something and thought, wow. It started with the forest, the ellipses — I liked the yellow-toned background, which I like to use to explore things. I wanted to give it the feeling of sketches, something pure, no grain, just the shape and a black line. Then I started playing with the lines and got *Nowhere*. Once I had everything, it came together in just a few days — a very quick project. Then I thought, now I need something powerful, some drama, and I started playing with red as a fog. That felt exactly right. I released it, and it felt great being part of that moment. I love *Uninhabitable*.
 
-[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | ]
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
 
 Trinity: I think your most iconic work is really in that one-of-one space. I went to OBJKT — the best place to browse HEN work now — sorted your pieces from oldest to most recent, and just seeing all the different explorations released almost as a series is wonderful.
 
@@ -88,6 +92,8 @@ Now we're seeing platforms with perfect UX and everything done right, but you ca
 
 Will: Even so, artists like yourself have to live in the current environment and survive, even thrive. How do you think about the present moment when it comes to platforms and chains? We've talked a lot on the show about how fx(hash) got so many artists started on their long-form journey and helped them cross over into ETH. You're one of the few who came back, with *Edno* — and not just to ETH, you put that one out on Tezos. How do you think about where your work should go? Do you ever consider optimizing for success — thinking, if I'd put that one on ETH, it could have made more money, or gotten into Verse or Art Blocks? How do you think about releasing in this moment we're in?
 
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
+
 Trinity: Follow-up: how do you define success? I feel like that's also a very broad term.
 
 Iskra Velitchkova: It's hard. I think I'm a bit lost, as many of us are, for the last year and a half or two, which isn't bad, but it's a bit hard. Regarding the chain, as I mentioned earlier, in the very beginning there was this idea that you needed to choose a side. I regret that, because I think I put so much emotion into the community that we weren't open enough to say, "We can really do whatever." At the time, if you were in the Hic Et Nunc scene and then dropped something elsewhere, everyone would be like, "What the hell are you doing?" It was weird. At some point I just realized: stop, go back to your adult life, and accept that you can do whatever you want. But I really felt connected to that Tezos culture — I'm part of that community, of course — and I felt sad because I wanted to be on different platforms in a more agnostic way, yet I felt tied to that scene, and the market perceived me that way too: "You're from Tezos." Which is fine, but it was confusing — where should you even release things now?
@@ -99,6 +105,8 @@ So I basically stopped releasing for a while, because I didn't know what to do. 
 So my decision was basically to stop, because I didn't know how to price my work. Last year was difficult — I struggled with that a lot. This year, I don't know why, I just kind of woke up and thought: just do your work, price it reasonably, don't chase anything, because you're not in a rush. This is a long-life project, so I'm focusing on doing great work and waiting for the best opportunity.
 
 Trinity: We've talked about this recently too — the intrinsic versus extrinsic reward of doing something because it feeds your soul versus something that feeds your bank account. I think one leads to the other, but if it doesn't lead to financial compensation, you have to be okay with that. I don't know that we've heard many artists say that so plainly, so I appreciate you being honest about it. You mentioned working with other forms of distribution — are you working with people on things that aren't NFTs, more within the traditional space?
+
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
 
 Iskra Velitchkova: We did an exhibition in Paris in November with Kate Vass Gallery, and none of the works were NFTs — we wanted to do a generative show with no NFTs. I'd like to do more things that aren't NFTs, but the opportunities haven't been there yet. I believe there's a need to find a bridge between what we do and the contemporary art scene — we're part of it, even if they don't know that yet.
 
@@ -112,6 +120,8 @@ Iskra Velitchkova: I understand that, though. It's normal that it comes from the
 
 Trinity: For sure.
 
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
+
 Iskra Velitchkova: Whatever — now you see everything, all the time, and that's both good and bad.
 
 Will: It comes from the collectors mostly being people who've never collected art prior to NFTs and generative art. So they establish a simple checklist: is it code-based? Okay, check. That's something they can collect and understand. But when an artist veers into other aspects of the discipline, or hybridizes it by including pre-rendered images or something different, that evaluation process breaks down for a lot of collectors. They just think, "It's not for me, because here's what I've collected, here's what I feel comfortable valuing." It's symptomatic of the space not growing — if anything it's gotten smaller. It's just us freaks who only want the code-based stuff. Or now, probably, A.I. is the dominant thing people seem to want.
@@ -123,6 +133,8 @@ Will: Iskra, you describe yourself as an artist who works with technology, and o
 Iskra Velitchkova: It's time for this question. This is a very hard one, but it's the core of everything. When I bring this up, a lot of people push back—"come on, you're one of those people who love technology, but we're losing our human touch in life." And I completely agree with that. But what I'm trying to say is a bit broader, a bit deeper. Let me try to keep it short, though it's not easy.
 
 That project I mentioned earlier was a big one for me, and it's the reason I quit my job. I was asked to visually represent a recommendation system. This was 2016, during the whole hype around Spotify recommending you music, or apps recommending restaurants or dates. Back then you had a handful of algorithms based on popularity or simple similarity to your preferences. Then you had deep learning techniques, which were black boxes—you didn't really know how they worked. So I told my team, I need a few weeks to figure out how to represent this visually. I'm going to take my motorbike and a GoPro and film every single street in Madrid. Literally every street. They said, sure, do whatever you want.
+
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
 
 So I spent a month riding around, trying to understand how my life would change if I found a restaurant this way instead of just typing "best restaurant near me" into my phone and getting an answer in a second. I realized time itself had changed with these technologies—what would have taken me two months to discover now takes one second. That's not a small thing. And the distance between me and the things around me had changed too: a restaurant 300 kilometers away, in terms of my motorbike, becomes "close" because my phone gets me there in two minutes.
 
@@ -136,6 +148,8 @@ Iskra Velitchkova: Exactly. What fascinated me was that if something emerges fro
 
 I really believe generative techniques have the potential to explain how things are made. And if we understand how birds, trees, clouds, or the sea are made, we get closer to understanding how we are made. We're made of blood and skin and bones, but there's something else—our mind—that we still don't understand. If we could map everything: how I move, how I walk, how I drink, why I'm sick right now—we'd get to almost 100%, but not quite. That tiny remaining percentage is probably our essence. That's why I think machines can make us more human—which is the opposite of "machines are taking over." There's still something at the threshold we haven't crossed.
 
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
+
 Will: Do you believe in free will? Is that little bit the free will that can't be described, or are you a full determinist? Because what you're describing sounds almost deterministic.
 
 Iskra Velitchkova: I think we're here to understand what's around us—everyone should agree on that. We invented the plane so we could travel and see things; we've basically been discovering the physical world. Now we're trying to discover new kinds of distance: how we think, how we process things, what ChatGPT actually is. It's not a monster—it just gives you information so you can decide what to do with it.
@@ -147,6 +161,8 @@ But I'll stop being so philosophical—you did ask, though.
 Trinity: I'm sitting here like, are we still talking about long-form generative art, or the nature of humanity, or whether we're all just somebody's Art Blocks project as a society? I don't know.
 
 Iskra Velitchkova: Who knows? I don't have answers—but those are the questions I like.
+
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
 
 Will: People will enjoy that. Don't worry about getting too philosophical.
 
@@ -160,6 +176,8 @@ Have you thought about going back to some of those older datasets, if they're st
 
 Iskra Velitchkova: Definitely. I really enjoyed that work, and I've been thinking a lot about starting a project from a dataset again—it's a very different process. I ended up hating it at the time, but I'd like to go back to it now.
 
+[pool: Uninhabitable | Uninhabitable — Iskra Velitchkova | | 1]
+
 Back then, it was fascinating to figure out: okay, the X and Y axes represent this, the length of the line represents that, the color represents this, the boldness of the line represents something else. Working out that whole disposition of variables was genuinely interesting. But eventually it got ugly—the data itself wasn't beautiful, and I'd be trying to represent a forest or flowers and end up with ugly flowers. So I said, forget data, I just want to make beautiful flowers.
 
 But coming into this space, I found a lot of people with data visualization backgrounds—Zach Lieberman, who I'd followed for years at conferences because he was a master of this, Marius, and others. I kept wondering, why isn't anyone doing data visualization here? Maybe open data is harder to find now, I don't know. But I've thought about doing a tribute to that background at some point, something a bit different.
@@ -168,7 +186,7 @@ It would probably only work with synthetic data, though—if you want a strict o
 
 Will: That'd be super cool. I know you can't say too much, but even speaking broadly—can you give people some alpha, something to look forward to from you through the rest of 2024 and beyond? Are you going to keep exploring the series you started with *Escape*? The description you wrote for *Edno* seems to imply there's more coming in that series. Will we see more physical work, too? You did those prints with Tonic, which were awesome. What can you tell us about what's coming up?
 
-[pool: Escape | Escape — Iskra Velitchkova | ]
+[pool: Escape | Escape — Iskra Velitchkova | | 3]
 
 Iskra Velitchkova: In the very short term, there's a project we shared today. There's going to be an event in Menorca, an island here in Spain, the first time our collective is doing something like that. There are two new collectors who really pushed hard to bring good names and do something great on the island. I think it's going to run from the 20th to the 22nd of June, and they'll share more details soon. It's a very nice thing because it's basically a group of friends going there — Marcelo, Ana Carreras, Ana María Caballero, Klingemann, Pixel Fool, so many good people. We're going to combine physical and digital pieces, which should be fun.
 
@@ -182,6 +200,8 @@ Will: No worries.
 
 Iskra Velitchkova: I'm taking my time, I'm super happy, I'm doing great things. My approach now is: once a project is ready, I start pushing it out there, rather than working backward from a strong deadline — that never worked for me in the past.
 
+[pool: Escape | Escape — Iskra Velitchkova | | 1]
+
 As for the black-and-white works — I have quite a lot of systems, maybe 10 or 20, that I worked on early on. They're not really finished; I just have them somewhere, and from time to time I go back, check them, see if maybe I can evolve them somehow. The black-and-white thing is going to stay a part of my practice, I think, because I like the idea of avoiding color, which I love playing with otherwise. There's a certain honesty for me in black and white.
 
 Trinity: Yeah.
@@ -193,6 +213,8 @@ Will: I have to follow up on the smells — I saw Trinity's face light up while 
 Trinity: Perfumeries.
 
 Will: Perfumeries, right. What do you actually do to research all that?
+
+[pool: Escape | Escape — Iskra Velitchkova | | 1]
 
 Iskra Velitchkova: Same as I said before — I've equipped my house with everything I need to extract smells. I have a lot of plants, chemical things that enhance the smell of things, and a still where you put in water, boil everything, and extract the oil. So I'm reading everything I can and extracting these super weird smells — I'm not even sure if they'll work, but it's a fun project.
 
@@ -206,6 +228,8 @@ Trinity: Do you have any tips for people who want to bring this into their own l
 
 Iskra Velitchkova: Forget about it if you have a baby! But honestly, I think this is such a personal thing that I'd never give advice — everyone's life is hard enough as it is. I've talked to people, in this space and outside of it, who say, "I'd like to be a full-time artist, but I have my job and I don't want to quit it," and I completely understand that.
 
+[pool: Escape | Escape — Iskra Velitchkova | | 1]
+
 The only thing I can offer is my own experience: I quit with €5 in my account, because that's all I had — no savings, no family to fall back on at the time. And somehow you survive. You need some luck, but luck usually doesn't come without work, so make sure what you're doing is solid.
 
 When I worked at a company — I'm not a company person at all — I remember crying every morning those last few weeks. I couldn't do it anymore, going in 9 to 5 to do things that would just get thrown out because someone told me "do that" and then it wouldn't happen. I felt like I wasn't adding any value to the world. We feel good saying "I'm in the office, I'm working," but are you really? Sometimes not.
@@ -217,6 +241,8 @@ Will: Let's go get loans, Trinity. We'll become professional Hearthstone players
 Trinity: Pretty sure that's exactly how that works. But honestly, you're right — it's so easy to get stuck in the mundanity of life. Sometimes it's about taking a step back and reclaiming even just a little piece of the day for something inspiring, then figuring out how to make that sustainable long-term.
 
 Iskra Velitchkova: And only if you actually want that — some people genuinely like the 9-to-5 life, and that sounds perfect to me in its own way. I'm just not that person, which makes it harder to find your path. But it's also hard to show up every day at 9. Everything has its ups and downs, and it depends on who you are — whether you really need to get out and be free. The only thing I can say is: you can. It's not an empty phrase, I think you really can — but it depends on your circumstances. Maybe you can't right now, but in a few years, maybe.
+
+[pool: Escape | Escape — Iskra Velitchkova | | 1]
 
 Will: I think we should wrap it up with one rapid-fire question. To close out the episode, we ask almost everyone: who would you like to hear us interview? I know you might not know our whole back catalog, but who would get you excited to listen to an episode?
 
@@ -230,6 +256,8 @@ Iskra Velitchkova: So many names.
 
 Will: Throw them all out there.
 
+[pool: Escape | Escape — Iskra Velitchkova | | 1]
+
 Iskra Velitchkova: Pixel Fool, if he hasn't been on already — he's one of the nicest, most interesting people I know from this space, with a lot to say about many things. So, maybe Pixel Fool.
 
 Trinity: Add it to the list.
@@ -241,3 +269,5 @@ Iskra Velitchkova: So much fun. I hope you did too, because sometimes I just tal
 Will: That's your job — this is your episode, we're here to listen. I think it went splendidly. Everyone, I hope you enjoyed Iskra on the show — finally got her, folks. Thank you so much again for taking the time to come on. We'll be back soon with another episode. So long, bye.
 
 Iskra Velitchkova: Thank you.
+
+[pool: Escape | Escape — Iskra Velitchkova | | 1]

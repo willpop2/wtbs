@@ -66,7 +66,7 @@ Nudoru: Getting rich is great, but I didn't go into it trying to make a fortune.
 
 Will: Does that explain the 19 projects we saw in December, from *Raked Strokes* on December 8th to *Crayon Attractors* on December 28th, and everything in between?
 
-[pool: Crayon Attractors | Crayon Attractors — Nudoru | ]
+[pool: Crayon Attractors | Crayon Attractors — Nudoru | | 3]
 
 Nudoru: Like 90% of that was work I had done earlier in the year. I had all these experiments sitting around on GitHub — at that time I had a public repo for all of it. So when I started on fx(hash), I looked back at everything I'd done to see what would stick, what would find an audience. Up until then, I'd been sharing on Reddit, generative Discord, throwing things into the wild on Twitter, trying to find people who were interested in this stuff. I found that on fx(hash). I didn't think all of it would sell out — I just thought it was interesting and wanted to see what kind of home it would find on the platform. A couple of those pieces were new that month; I think *Terrain Quilt 1* and *2* were. But most of it was work I'd done earlier in the year, which I went back and wrapped with the fx(hash) random number generator and cleaned up to make more visually interesting. I hadn't been creating them for edition sizes of hundreds — I was just doing them locally, saving the interesting ones, printing them off, giving them to my wife, putting them on my wall. So they needed a little work, but I had a lot of projects queued up and ready to go.
 
@@ -80,7 +80,7 @@ Nudoru: It was so new, and I was trying to figure it out, and everybody was figu
 
 Trinity: Setting aside *Cold Mountain*, which we can talk about in more detail later — are there any stories from that December batch that stick out to you? Inspiration, what you were learning, that sort of thing?
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | ]
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 3]
 
 Nudoru: They were all inspired by very different things. *Raked Strokes* is clearly Fidenza-inspired — there's so much work out there using particles and flow fields traced with different pathing mechanisms. That was actually the first one I minted, but I'd created it during the summer, so it was minted a couple months after I finished it. It set the theme for a lot of my other work — that natural-media, brushwork feel. I was looking at *Fidenza*, trying to recreate it: doing a flow field with non-intersecting paths is one thing, but zooming in to see how the individual marks were made, and trying to reverse-engineer a path that would segment and look like a brush stroke, was fascinating. I spent weeks on that.
 
@@ -94,15 +94,17 @@ Nudoru: I like to make life hard for myself. I was doing this as a hobby, a full
 
 Learning React, Angular, Vue — the popular frontend libraries — it was always easier for me to look under the hood and build my own versions to understand them than to just watch a tutorial. That goes back to the Flash work I was doing in the 2000s, too. There was a popular library called Robot Legs for building applications; I built my own version of it and learned all about dependency injection and metaprogramming in Flash. That's what I really like — figuring out how things work from the internals rather than just using the tools. I'd much rather build the tools than be the person who uses them later. Taking something apart and understanding it at a core level interests me the most.
 
-Will: Going back to what you said about your earliest work recreating brush strokes and textures — I hadn't quite made that connection. I saw it more in your later work, January and February, especially *Cold Mountain* and *Orchard*, where things get more impressionistic and painterly, more refined. But looking at your earlier work, a lot of it is exploring different techniques for brushstrokes, crayon, pen — mediums from the real world. Is that the puzzle-solver in you, figuring out how to wrangle code into something you recognize from the art world? Or is it an attachment to a certain style — do you just like impressionistic work, and that's what you strive to create? Where's the line between puzzle solver and artist?
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
-[pool: Orchard | Orchard — Nudoru | ]
+Will: Going back to what you said about your earliest work recreating brush strokes and textures — I hadn't quite made that connection. I saw it more in your later work, January and February, especially *Cold Mountain* and *Orchard*, where things get more impressionistic and painterly, more refined. But looking at your earlier work, a lot of it is exploring different techniques for brushstrokes, crayon, pen — mediums from the real world. Is that the puzzle-solver in you, figuring out how to wrangle code into something you recognize from the art world? Or is it an attachment to a certain style — do you just like impressionistic work, and that's what you strive to create? Where's the line between puzzle solver and artist?
 
 Nudoru: It's both. I've been doing art on the computer for a long time and I've explored several different methods of creating it — pure digital, using circles and lines and primitives to build complex compositions, which is pretty native to the medium. But using loops and lots of small geometry — small circles, small rectangles — to approximate a crayon or a pencil on the computer is a very interesting puzzle to me. I could just draw a line from A to B, but breaking that line down into a series of steps and adding texture by drawing lots of small circles to make it look like a pencil stroke, or arranging dots in a circle and smearing them from point A to B to mimic a brushstroke — that's very interesting to me, and it's where I'm at right now.
 
 I wasn't very productive as an artist for a long time, so coming back into it, I wanted to draw on the media I experimented with in my college art program and push it to be something it's not. Yes, these are pixels on a screen, and it's easy to slap a bunch of pixels up there, but breaking that down so it doesn't look like a pixel — to me that's very fun and very fulfilling. When I'm able to make something look like a paintbrush or oil pastels instead of what it actually is, that's exciting. I've experimented with more primitive shapes too, but this is what excites me most.
 
 With *Orchard*, I was thinking about my grandmother — a very classic Southern woman who loved apples, had pictures of apples she'd bought at little art fairs all around her house. That naive art you'd find at a craft fair in some small town and hang in your home. *Orchard* is primarily a colored-pencil kind of piece, and doing that in a digital medium really interested me. That's something I wanted to recreate.
+
+[pool: Orchard | Orchard — Nudoru | | 3]
 
 Will: That's a good opportunity to talk about that project, its follow-up, and the market side of being an artist on fx(hash). *Orchard* came not long after *Cold Mountain*, which was probably your first big success — I'm sure other pieces felt big before that, but *Cold Mountain* was the one where people were paying literal hundreds of dollars for pieces on the secondary market, and it minted out really quickly.
 
@@ -116,19 +118,19 @@ Nudoru: We were discussing how much to charge and how many editions. A few peopl
 
 Trinity: Must have been so exciting.
 
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+
 Nudoru: It was. I haven't had another minting experience like that since. Absolutely amazing.
 
 Will: *Orchard* also went really quickly — pretty instant success. Then *Grove* came after it, and there was some market backlash, some community backlash. I remember, whether it was in price discussion or on Twitter, you trying to explain something we've run into a lot over the past year: issues with code literacy. Just because two projects look similar to a collector doesn't mean the code behind them is similar, or that the same amount of work went into each. It's not a retread from the artist's point of view, even if it might feel that way from a collector's point of view. This isn't a "why did you release the same project twice" question, Nudoru — I'm curious what that was like from your side. What did it do to you mentally? How did it change how you thought about the market going forward? I think you eventually ended up burning that project, and were probably surprised it didn't mint out and got that backlash.
 
-[pool: Grove | Grove — Nudoru | ]
-
 Nudoru: This is a hobby for me, so I largely follow my curiosity when I do projects rather than paying attention to what's going on around me. *Orchard* was a pretty good success, but while I was making it, I thought: I've got these brushstrokes I've used before, and I could tilt the plane a bit more, since *Orchard* is pretty flat-on 2D. I'm really influenced by the Impressionists, so I had ideas for tilting the perspective, switching up the rendering toward more of a brushstroke style, and introducing color tints through atmospheric haze, shadow colors, and highlight colors — tinting the whole piece to give it a different feel, more like an impressionistic painting.
+
+[pool: Orchard | Orchard — Nudoru | | 1]
 
 To me, it was an entirely different project — same code for generating the tree shapes, but entirely different code for the rendering and the feeling, and a completely different emotional aim than *Orchard*. But you're right that it landed flat. There was an initial rush of mints, then it stalled, and I spent quite a while trying to promote it.
 
 On Twitter — I try not to shill too much in price discussion or on the Discord, I keep most of that to Twitter — I had some very good conversations with a couple of collectors. One collector was entirely pissed off, felt it devalued the *Orchards* he'd paid a lot for, and went completely off the rails about it. It spilled over from DMs into public Twitter. But I also had productive conversations with other collectors about how, while I didn't intend for it to be so similar — in my mind it wasn't — to an outside collector it did appear similar. That was a good learning opportunity. *Turbulence* and *Caustics* are pretty similar too, but I approached launching those differently. I ended up burning a couple hundred editions of *Grove*, minting 100-plus of them myself, and airdropping them back to people who had already minted *Growth*.
-
-[pool: Caustics | Caustics — Nudoru | ]
 
 I hadn't paid much attention to that dynamic because I come at this as an artist, not as a collector — and not even as a collector who appreciates the art, but as someone looking at it purely as an investment to flip for 3x profit. I hadn't considered that angle when releasing work, so it was a good learning opportunity — a somewhat public one. Going forward, there are always drafts or alternate versions of a project that are very cool and worth developing further, but I've learned not to do them directly afterward. I've held some projects back, or scrapped them entirely, because they were too similar to something I'd just dropped.
 
@@ -138,13 +140,15 @@ Will: The 2022 recap episode.
 
 Trinity: Right, *Mountain Moves*.
 
+[pool: Grove | Grove — Nudoru | | 1]
+
 Nudoru: I remember that.
 
 Trinity: That was rough. I don't envy artists at all — I've said it many times and I'll say it again. But I do enjoy watching you latch onto a concept or style and not just reuse it, but actually grow it. You mentioned *Turbulence* and *Caustics*, and we've seen it elsewhere too, as you've moved into different abstract styles — especially with recent releases like *Crisis Worlds*, *Splinter*, and *Sphera*, where you seem to be expanding the styles themselves. Is that cognizant on your part, or just following your interests as you explore these abstract styles?
 
-[pool: Caustics | Caustics — Nudoru | ]
-
 Nudoru: A combination. *Crisis Worlds* is closer to *Fractured Cells* in how it uses the Voronoi texture — I was exploring a pen-rendering technique, jittering the lines, trying to build something. Like *Cold Mountain* and *Deep Forest*, I tried to have a theme or feeling behind it. Each project grows out of everything before it. I think it's very difficult for an artist to do something original without some throwback to past work — not always hard, but difficult, because when you have ideas you didn't fully realize in a past project, it's tempting to draw from them in the new one.
+
+[pool: Deep Forest | Deep Forest — Nudoru | | 3]
 
 *Feral* wasn't really intended as its own project — it came out of the fxhash Turns 1 event. I wanted to do something for that, so I cleaned up code from an experiment I'd had, to have something to contribute and donate — I think 75% of the sales went to the Processing Foundation. That used curl noise, which I hadn't used before, and some whirly noise I'd just started messing around with. You accumulate so many ideas, and it's a shame to let them go to waste, so pulling from them to create something you can share — that's what I'm trying to do.
 
@@ -158,21 +162,25 @@ Nudoru: Inside each of us is infinite worlds. It goes on forever.
 
 Will: You had that backlog running into December, maybe spilling into January. Since January you've slowed down, maybe two releases a month — still a good pace, but as you said, it's a hobby. Now that you've been on the platform a year, do you think more consciously about whether you have a style as an artist? About treating this more professionally, about pacing, about which concepts to follow? We talk a lot on the show about the meta — you were doing brushstroke stuff way early, and now that's huge, but you haven't really come back to it. I guess you did a little, with your holiday release.
 
+[pool: Deep Forest | Deep Forest — Nudoru | | 1]
+
 Trinity: And *Deep Forest* too — oh my gosh, so good.
 
 Will: Right, from months back. But how do you think about the future, going into year two of fx(hash), looking back on your first year?
 
 Nudoru: I've definitely slowed down. *Deep Forest* was the point where I consciously tried to force myself to sit on something for a long time and get out every idea I could possibly have in a piece — not just for the variations, but so I wouldn't leave anything on the floor. I think I overthought that one quite a lot. *Deep Forest* and *Symbology 437* both got me kind of stumped, locked up trying to think of everything I could possibly do to push those ideas forward. Since then, I've tried to either put everything I can into a piece, or have it singularly focused on one idea, so that each project is unique.
 
+[pool: Deep Forest | Deep Forest — Nudoru | | 1]
+
 *Deep Forest* is clearly an evolution of what I was trying to do with *Grove* and the impressionistic style. There was a Twitter challenge to recreate Gustav Klimt's birch forests in code — someone tagged me in it months prior. I was looking for a new project after *The Space Inside*, remembered that tweet, and went back to try to do rich, lush, colorful forest scenes — everything I'd tried to do before but didn't have the technical skill to implement at the time. By then I'd learned more.
 
 *Ornamental Tree* came right after, reusing some code from *Deep Forest* — I think that one was reserved only for people who owned my other tree work. Then *Symbology 437* started from a Blind Gallery piece I did, *Semicollision*, on the second Blind Gallery — I made sure it was okay to do a long-form piece after that short-form piece came out. I did the variations, then kept writing the code to introduce new patterns and styles, even reaching for some PFP-type stuff, just to experiment and see how far I could push the style without repeating what we just talked about with *Grove* — coming up with something that could be seen as derivative. I think that one failed because it was too varied and not cohesive. So I've tried to be more thoughtful and take more time with each project, extracting as much as possible before putting it away and moving to the next. That's slowed me down quite a bit, but I think it's increased the quality of what I'm putting out and made it more unique within my collection.
 
-[pool: Grove | Grove — Nudoru | ]
-
 Trinity: Is there anything you've released that you're especially proud of — beyond all of them, obviously? Especially since that December-January run you slowed down and started taking more time. If you had to pick one piece for the cover of your portfolio — this is me, this is everything I've believed in — which project would it be, and what should we go back and look at?
 
 Nudoru: For me, it would be *Deep Forest*, just because I spend so much time in the forest and the woods around here. As a kid we used to ride dirt bikes on trails in the woods, play hide and seek, army, whatever we did in the '80s. As an adult I got into mountain biking and trail running, and trees and forests and nature have been so influential to who I am as a person and to what I'm trying to represent as an artist with code. On trail runs I'd take pictures of trees, lay down on the ground, stand up, try to capture from all different angles what I wanted to represent, then come back and try to code that. I remember the local trail near my house — seeing the yellow flowers in summer with the sky in the background. Some of that comes through in the variations. Overall, that's the one I'm most proud of, because it's the capstone to everything I was doing before with the trees and the brushstrokes. Everything after that has been a little more abstract, less brushstroke-y, up until the holiday piece.
+
+[pool: Deep Forest | Deep Forest — Nudoru | | 1]
 
 Will: I'll take the opposite side. You've released — what was the count?
 
@@ -182,6 +190,8 @@ Will: 41 projects. Is there one where you think, man, I wish I hadn't released t
 
 Nudoru: Anyone that didn't mint out is a failure — not really a failure, but disappointing to me. Taking that part first, I think *Symbology 437* is the one that surprised me most, because it was so different from anything I'd released previously. It went back to the ANSI/ASCII stuff I did in the '90s, using those characters overlaid on each other as texture. I think I went way too far down the rabbit hole on that one — spent almost two months on it — and then seeing it not receive much support from the community was probably my biggest point of frustration out of everything I've done. Other than that, most of what came out in December I'd probably like to erase from the portfolio, just because I've matured so much since then. Everything before *Crayon Attractors* is largely one-trick, one-effect kind of work that doesn't use many complex systems and isn't very artistically appealing to me at this point. *Lily Pads* and *Ocean Waves* are probably the biggest exceptions. I've seen some *Lily Pads* going in the secondary pretty recently, which is always nice to see for an old project like that.
 
+[pool: Crayon Attractors | Crayon Attractors — Nudoru | | 1]
+
 Trinity: People do love *Trouché Tiles*. Out of your December projects, it's the one with the highest floor by a really big margin.
 
 Nudoru: Is it? I haven't even looked. Wow, yeah, 18.
@@ -190,7 +200,7 @@ Will: I'm really partial to *Fractured Cells*. That released before there was a 
 
 Nudoru: That's after *Crayon Attractors*.
 
-[pool: Crayon Attractors | Crayon Attractors — Nudoru | ]
+[pool: Crayon Attractors | Crayon Attractors — Nudoru | | 1]
 
 Will: I think it was favorite of the week, right, Trinity? We talked about it on the show.
 
@@ -204,6 +214,8 @@ Nudoru: The most direct thing I could say is that natural, organic forms are wha
 
 Will: I've got a slightly different direction, since we've talked a lot about your art and your history on the platform. One aspect we haven't covered is your collecting. For somebody who's been around a long time, you have an eclectic, diverse collection — though scrolling through it again, I notice you only ever seem to collect one of everything. I'm not seeing multiples of any project other than some of your own stuff. What's your philosophy behind collecting? Honestly, looking at this, it's hard to say "what Nudoru likes" or "what he collects."
 
+[pool: Crayon Attractors | Crayon Attractors — Nudoru | | 1]
+
 Nudoru: I haven't focused a lot on collecting — I'm primarily focused on my own work as an artist. Since I try to save as much Tezos as possible, I usually collect at the end of a project: after release, I'll take a percentage, put it into my holding wallet, and use what's left to collect work. Generally I try to collect from smaller artists, or artists I've talked to in the feedback-critique or works-in-progress channels, on Twitter, or elsewhere — people I've had conversations with, whose work interests me. I try to collect work I just generally like the look of, maybe not the most technical or the deepest. I don't like AI-generated work much, and I'm not big on image composition either — I think I did too much Photoshop in my life to want to collect much of that on a platform like fx(hash). I've tried to collect some of the bigger grail pieces, but I'm not always successful minting those, because you have to gas a lot, and I've never quite figured out the magic number to put in the box to guarantee a mint. I'm not really big on going into secondary and buying something for hundreds of tez, so if I can't get it on primary, I usually won't get it on secondary either — I'll just stare at it from afar, or message the artist to tell them how much I appreciate the work. It probably is quite an eclectic collection. I don't think I've gone back to look at it in a while, but I was pretty lucky today — I got one of RevDanCatt's *Vents* and *How to Draw Bubbles*. I was very surprised those went through.
 
 Trinity: I think *Vents* had 600 editions, so that plus the holiday probably helped.
@@ -216,11 +228,15 @@ Trinity: There's still later. We're always early. There's always later.
 
 Nudoru: Absolutely. Those are on hold for later donations and giveaways.
 
+[pool: Crayon Attractors | Crayon Attractors — Nudoru | | 1]
+
 Trinity: Looking at what you collect and what you've made, and your artistic identity — you've said you're pretty clear about telegraphing what you're about to release via works in progress on Twitter and Discord. Is there anything specific in the queue you're working on?
 
 Nudoru: A couple weeks ago I tweeted a video of a spinning cube with spinning particles leaving trails, and that was the most viral tweet I've ever posted — something like 1,100 likes, which is insane. I dropped that in the morning and went off with my family to do a hayride through some Christmas lights, and just kept refreshing Twitter watching the like count go up. So that will clearly be something I release in the future — not sure what form yet. I started looking into 3D shaders early in December and haven't produced anything useful with them yet. A lot of what I try to do is blast as many interesting-looking pixels to the screen as quickly as possible, so it renders within the four-minute fx(hash) capture window, and that's becoming increasingly difficult using 2D canvas alone. Shaders are definitely the key to unlock the performance I'm after. I've been slow to adopt them, partly because of earlier issues with the fx(hash) preview not capturing them accurately, and seeing people have problems on their phones or laptops due to GPU differences — that scared me off. But capping off this first year going into the second, it's absolutely something I'm going to look into. I've also been sharing work in progress on some brushstroke-y circles on Twitter — the Happy Holidays piece I dropped was the first to use this new brushstroke method, lots of colorful line segments if you zoom out. I intend to release a couple more pieces with that method before probably taking a month off to figure out shaders, then releasing something with that.
 
 Trinity: You should release something that breaks everybody's brains on January 14th — the *Cold Mountain* anniversary.
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
 Nudoru: Oh, that's a good idea.
 
@@ -230,7 +246,7 @@ Nudoru: How long is that, three weeks?
 
 Will: Maybe a shader implementation of *Cold Mountain*. It does seem like every artist we've talked to recently is going into the hyperbolic time chamber to learn shaders, because everyone's running up against the same performance issue. We released an interview with Chris McCully a few weeks back, and he had a run of tokens where the signer just couldn't catch up with them. So — shaders it is.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | ]
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
 Trinity: *Landlines* is all in on shaders. And even our interview with Amy Goodchild, way back in the ice age — she was already saying, "shaders, we're learning them."
 
@@ -244,6 +260,8 @@ Will: Right on.
 
 Trinity: And that balance is so hard. Even just paying attention to the fx(hash) community and podcasting around it is one thing, but that doesn't involve debugging, concept creation, all of that work. Is this your only hobby? Is it your second or third child at this point?
 
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+
 Nudoru: Pretty much. I've channeled all the ADHD hyperfixation I have available to me this past year into focusing on gen art and not doing very much else. I even neglected the yard — the whole middle-class-suburbia, keep-the-grass-mowed thing has fallen by the wayside in favor of gen art. I stopped running to make time for it. Coming into my second year, finding a better balance between everything I want to do — my family, my job, and this work — is definitely something I need to get better at.
 
 Trinity: Well, you're already pretty damn good.
@@ -255,6 +273,8 @@ Will: You mentioned earlier that some of your earliest coding was in making game
 Nudoru: No, I did not play Magic. My son briefly got interested in it for about two weeks because some of his classmates were into it, and my wife tried to get into it with him — he built a small deck, went to a local comic shop, and watched people play. But as a kid, I played RPGs like *Final Fantasy* and *Dragon Warrior* on the Nintendo. Once I got into the art scene in the '90s, I focused on that and stopped playing games for a while. I did play some computer games — I was big into *Doom* when it first came out. All my coworkers would lug our massive computer towers, fifty pounds each, plus monitors, to each other's houses fifteen miles away, set them up with a token ring network, and play co-op *Doom* for hours. But once I got to college, I really didn't do that at all because I was busy with art school. Earlier in the pandemic, when *Genshin Impact* came out, my daughter, who was really into anime, got into it, so I've spent an inordinate amount of time playing that game — more than any other lately.
 
 Mostly, though, I was more interested in recreating game mechanics than actually playing games — writing the code behind the interactions. *Goonies II* on the original Nintendo was the game I was playing at the time; it had a side-scroller mode and another mode with a top-down view where you navigated a maze of rooms and interacted with the walls. A lot of the games I tried to program were built around that maze-navigation idea. They were really crappy, but that's what I was going for.
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
 Trinity: It seems like this idea of reverse-engineering things is something you've stuck with — here's an idea, how do I do it?
 
@@ -268,6 +288,8 @@ Will: Someday we're going to have a guest who's actually played Magic: The Gathe
 
 Trinity: Sorry, we'll get there.
 
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+
 Nudoru: That should be a screener question for interviews: have you played Magic? Then you're in.
 
 Will: It should be. Genshin is an interesting one for you to pick up — it could explain where some of the Tez profits went, knowing the mechanics of that game. Do you want to talk about creating on fx(hash) and building an art career over the last year while watching Tez decline along with the rest of crypto? What does it mean financially to be an artist on fx(hash) for a year?
@@ -279,6 +301,8 @@ Late in the summer, into the fall, I actually looked at the tax implications of 
 So if you're an artist, research your financial liability if you intend to follow the law in your country, and get a handle on it as early as possible. That's really one of the reasons my releases slowed down toward the end of the year — I was freaking out about liability and didn't want to increase it. It's also why I haven't collected as much since the summer: I was trying to save every last Tez so I could meet my tax obligations without dipping into my family's finances, since I'm trying to keep those two things separate. I started this to build a nest egg for my kids' college fund — my wife has retirement covered, so this was meant to be money stashed for later. Having to hand over most of what I've earned to the US government in taxes this year has been nerve-wracking and challenging from an artist's point of view.
 
 Will: Do you have optimism for the next year? Now that you have a strategy and this knowledge in hand — even though that original goal got dashed a bit by the broader macroeconomic conditions, and it's hard to find anyone who's up this year in any sense — you still have the skills, you can code, you can make art, you have a method to produce and mint work and find secondary success. Do you feel optimistic?
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
 Nudoru: I do. I believe in the artists in the community. Regardless of Tezos going to zero and everybody running nodes under their desks to keep it alive, there's an amazing community of artists and collectors that has sprung up around Tezos and fx(hash), and I think that will keep going for as long as it can. I want to be part of this community — I really value the collectors, you guys, everybody I've met here, and I want to keep creating art for as long as I can. My wife reads, does Sudoku, plays games on her phone, and I open my laptop and code beside her on the sofa. This is fun for me, it's problem solving. So I'll keep going as long as I'm able to type — until we all get neural implants and just prompt ChatGPT to code it for us.
 
@@ -292,6 +316,8 @@ Nudoru: That's a difficult question. I want everybody interested in this space t
 
 Will: I like that — feels like we're moving back in an uplifting direction. One more rapid-fire question we've been asking lately, hopefully a fun way to end the episode: when you code, do you listen to anything, and do you have any music recommendations?
 
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+
 Nudoru: I came prepared for this one. When I'm working, I usually listen to something with either no vocals or non-English vocals so it doesn't interfere with the flow. I'll admit to listening to a number of liquid drum and bass mixes on YouTube — I even downloaded a handful locally so I don't have to be online to listen. There's a channel called My Analog Journal with wonderful mixes — DJs spinning records, top-down view of the decks, about 45 minutes to an hour long, with great exposure to '70s and '80s music and styles from all over the world. I also listen to the Acid Jazz and Grooves Radio channel on YouTube. I can't do lo-fi too much — it's a little too melancholy and repetitive for me.
 
 But acid jazz — I really got into that in college, the mix of electronic and jazz has an awesome flow. I also have a playlist I call Bossatronica: a lot of Latin jazz, Afro-Cuban jazz, bossa nova, going all the way back to "Garota de Ipanema." Bebel Gilberto, Cibelle, Zuco 103, and a lot of other names I'll completely butcher. I was also really into trip-hop, and I think that continues through — Massive Attack, still the best concert I've ever been to, Nightmares on Wax, Thievery Corporation, Hooverphonic, Daft Punk, Metric. Just a whole eclectic mix.
@@ -303,6 +329,8 @@ Nudoru: I don't think so.
 Will: I was thinking of that too.
 
 Trinity: There's one album I really—
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
 Will: One of Trinity's favorites. Add it to your list, Matt.
 
@@ -316,6 +344,8 @@ Trinity: For me, the mid-to-late 2000s was such a key point, because we were sti
 
 Nudoru: Napster.
 
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+
 Trinity: Exactly.
 
 Will: I feel like there was a point in high school, college, maybe even a little after, where it was all about how big your library of ripped CDs or pirated music was. I had a terabyte of movies and music, and if you knew the guy who had the good stuff, you could just plug into their hard drive and get whatever you wanted. Now, with Spotify, Apple Music, and all these subscription services, it's rare you can't find something. Every now and then you have to go to Bandcamp because an artist is independent and doesn't want to sign onto those services. But otherwise it's so available now, it barely makes sense.
@@ -327,6 +357,8 @@ Nudoru: There's something to having the CD or the vinyl. This won't mean much fo
 Will: This is Trinity's reminder to get that record player working. Have you gotten it working?
 
 Trinity: Not yet. Someday. I might just get a new one.
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
 Will: It's only been a couple of years.
 
@@ -340,6 +372,8 @@ I think I have one last question: if we were to interview anybody in the fx(hash
 
 Will: "Call them out" makes it sound like you want us to run an aggressive interview. Just name them.
 
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+
 Nudoru: Oh geez.
 
 Trinity: This has been an aggressive interview.
@@ -351,6 +385,8 @@ Will: I love this question though, Trinity. I want to hear Matt's answer.
 Nudoru: RevDanCatt is really the first name that popped into my head. He's such a great guy — he already has an established YouTube channel where he talks and shares, he's active on Discord, active on Slacks. He's such an interesting full-time artist. You've already talked to Lisa Orth, who's accomplished in her own right, but RevDanCatt would make a great, really interesting person to talk to.
 
 Will: Check out his interview with Ken on the *Arbitrarily Deterministic* podcast.
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
 Nudoru: Didn't know he did that.
 
@@ -364,6 +400,8 @@ Will: Alejandro, yeah.
 
 Nudoru: His work is very interesting, especially with his natural-media bent — crayons and pencils — and he's actually using shaders for some of his newer work. Newer artist on the scene, doing some really great work.
 
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+
 Trinity: He's on the list.
 
 Will: Plus the A.I. experiment he did.
@@ -375,3 +413,5 @@ Will: Love both of those — definitely 2023 targets for us. Schedule pending; w
 Nudoru: Absolutely. Thank you both.
 
 Will: All right, it's getting late here, and we all have kids and babies to attend to. Thanks again to Nudoru for taking the time to come on the show. We hope you all enjoyed it. That's it for this one, everyone. We'll be back again soon with another. Until then, later.
+
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]

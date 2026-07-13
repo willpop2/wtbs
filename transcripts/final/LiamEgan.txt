@@ -24,7 +24,7 @@ Liam Egan: An online friend of mine, Gérard Ferrande, @g1doot, was tweeting a l
 
 Then at the end of 2021, I saw a tweet from Ciphrd looking for beta testers for his new generative art platform. It just felt right. I'd been looking into Art Blocks for a while before that, and this felt like a good chance to try something similar on Tezos. It was on my back burner for a while because I was busy with work, and then I saw Zancan's first drop, *Lobbies*, and it really gave me a kick — I was like, I've got to get into this right now. That was when *Particulate Hash* came about. It was a bit of a rush job, built on previous work, but that's how I ended up there.
 
-[pool: Particulate Hash | Particulate Hash — Liam Egan | ]
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 3]
 
 Then I got involved in the Discord, which was very young at that point. I'd been involved in forums and online communities like that since the very beginning of my career, so my natural urge was to try to help out, provide feedback and technical assistance. One thing I've always found interesting — a complete aside about fx(hash) — is that I expected most of the artists to come from a technical background like mine, and that just wasn't the case at all. Most of them come to generative art via p5 and p5 alone, and their foundational JavaScript knowledge isn't as advanced as I expected. So it felt good to provide that kind of help. From there I was asked to become a moderator on the Discord because of the help I was providing, and the rest is history — it just developed from there.
 
@@ -38,6 +38,8 @@ Liam Egan: One of the biggest, and one I talk about often, is progressive render
 
 Trinity: That makes a lot of sense when you put it that way. I always think of that as the computer science side of the house — how do we make things efficient, not just beautiful. If you're just going through the Coding Train videos, which are awesome, kudos to Dan Shiffman for putting those out, but they don't really go into how to make things efficient.
 
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
+
 Liam Egan: Right.
 
 Trinity: For me the quintessential example was trying to learn how to do circle packing in a way that didn't crash my browser all the time.
@@ -49,6 +51,8 @@ Will: That's actually a problem we still see with a lot of drops, even now, goin
 Liam Egan: There has been talk of that. We've gone back and forth over those kinds of documentation pieces. The problem we always run into is that it's too easy to get opinionated with those things, and the last thing we want to do as a team is tell people how they should be writing code. We're not here to curate your art, and we're not here to curate your code. Unfortunately, the end result of that is that some people just write bad code. But one thing that's been on my mind lately is writing a series of articles on best practices — like the one I wrote recently, I forget who wrote it, oh wait, it was me, about writing tokens that are resolution independent. That was a fun article to write, and I'd love to see more of those. Progressive rendering in particular is probably something that's been on my mind for a while and would make a great article.
 
 Trinity: There are some documentation and guidelines native to fx(hash), usually more in the realm of how-tos, and I understand the need not to dictate how things are done, because really the beauty of fx(hash) as a platform is that it's so open — it's not dogmatic. Any value judgment happens elsewhere, in the mind of the individual. I think that sounds like a really excellent idea, because it's a way to help the community keep growing and to make people better, whether it's on fx(hash) or not.
+
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
 
 One of the things you mentioned earlier, when you talked about how you got into this scene — I don't mean to change the topic, we can come straight back — came up in our interview with Piter Pasma too: the demo scene. We didn't get a chance to ask Piter what the demo scene actually was. We knew about it because we'd done some research ahead of time, but it does seem like it would have a huge impact on how you view the efficiency of the code you're creating. It speaks to this whole process of looks meeting performance, I suppose.
 
@@ -62,6 +66,8 @@ Will: That's a side neither of us, being non-coders, really knows much about. I 
 
 Liam Egan: There's a great French website for anyone interested, called Pouet, p-o-u-e-t dot net. It's a really difficult site to navigate, but it's where all the demosceners hang out, I think.
 
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
+
 Trinity: Looking at this website — it is pure GeoCities, 1999. This is absolutely the type of unusable... I was going to say unusable garbage site, that I feel like people who are deep into something love, because they're the only ones who know how to use it.
 
 Liam Egan: That's it, right? It's that insider knowledge. It's pretty crazy. But there's some incredible stuff on there for anyone willing to dig a little.
@@ -73,6 +79,8 @@ Liam Egan: Yeah, and this changes frequently too — the design, the logo, every
 Will: It's so interesting. I feel like there are a lot of old-school artists who drop on fx(hash) from time to time who originated doing that type of thing, and that's probably a topic for a few fx(hash) articles to bring that history out. But, Liam, you have a full-time job, and you also have this unofficial official job with fx(hash) as a team member. I feel like the whole fx(hash) team and the platform itself is shrouded in mystery at times — who's doing what, what's going on in the background. I'm not asking you to reveal anything that isn't ready to be announced, but maybe you can give us some insight into — — what it's like being on the team, what your role is, in general, to the extent that you can share.
 
 Liam Egan: Yeah, for sure. I don't think it's meant to be shrouded in mystery — I think that's just kind of happened. My role on the team now is community moderation, obviously, so I'm pretty present on the Discord. I do a lot of investigation and scam finding, I think because I'm just good at finding those things. I'm pretty present on OpenProcessing and CodePen, so I recognize a lot of code pretty quickly, and it just felt like a natural fit for me there. My other role, which has just really been getting started, is trying to bring some new structure to the product development
+
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
 
 Will: Okay.
 
@@ -86,6 +94,8 @@ Will: fx(text) just kind of came out of nowhere. It was alluded to a little bit 
 
 Liam Egan: I can answer maybe the implied question.
 
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
+
 Will: Do you just need one more person on the team who does comms?
 
 Liam Egan: I think part of what we're going through at the moment is trying to introduce a little more transparency — more visibility into the features that are coming up, and communicating those a bit better. What feels like secrecy was probably just disorganization on the communications side, and that's hopefully something we'll address over the next few months. You touched briefly on events — they've been really important to fx(hash), but they've also been eating up a lot of oxygen. They take a lot of time, effort, and energy to organize and be a part of.
@@ -97,6 +107,8 @@ Liam Egan: The strategy behind building up these events and our live minting pro
 Trinity: I assume a lot of it is about overcoming friction. When we talk about NFT shows especially, there's this idea that the people there already love crypto, love the NFT space, have 25 Ethereum wallets — and that's it, maybe Solana too, who knows. It's really about overcoming that friction: how do you get somebody to not just make a wallet, but fund it, and keep coming back? How do you create sticky experiences?
 
 Liam Egan: Exactly. The whole wallet creation and funding experience is an ongoing area of friction — it's one place we're spending a lot of time trying to figure out. As for the sticky experience, I think that's being approached on two fronts. One is the technical front — here's how you do this, here's some information, here's how you get back into it. The art people collect is a really important part of that, because it has to inspire them to carry on and come back. The other part is communication — the how, the why, and why you'd want to, is just as important.
+
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
 
 Will: How much of that communication is about the art versus the proof-of-stake nature of Tezos? At these events, is it purely art- and artist-focused, or does it extend into defending the Tezos chain to people who may not know about it or may be suspicious of it?
 
@@ -110,6 +122,8 @@ Trinity: Preferably, yeah.
 
 Liam Egan: It's interesting — the question of fx(hash) versus Art Blocks comes up not infrequently. I think the two platforms have such vastly different offerings, and what fx(hash) is doing is something very different from what Art Blocks is doing. I think both are equally important to the ecosystem, and they complement each other really well. We see this in a lot of artists who either get started on fx(hash) and drop on Art Blocks and see great success there, or the other way around.
 
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
+
 Will: Liam, you've had quite a role in the history of fx(hash), helping to grow the platform by getting artists on here. You've already talked about your earliest days helping people troubleshoot their code, but you were also probably one of the original collaborative participants — well into the early days of the beta, before the contract was upgraded. You can find projects that just have a little note in the description saying "Liam helped on this." Did that come out of being in the help sections of Discord, people saying "I have this drop I don't know how to make work"? Or did it come through your networking with other digital artists? I have quite a list here of some of your earliest collaborations — *Astraea's Loom*, *Letter to Young Poets*, the Stupids avatars, and of course *The Conjured* with GoldCat. Tell us how you became the collaborator in beta.
 
 Liam Egan: Most of those came out of networking prior to fx(hash) — I met all of those people on Twitter in various capacities during my days on Hic Et Nunc. I felt really strongly about fx(hash) as a platform to bring in more traditional artists rather than purely generative artists, which spawned a lot of really interesting conversations on the Discord over time. Every single one of those collaborations was with somebody I already had a reasonably strong connection with prior to fx(hash) being a thing. In all cases — except *Astraea's Loom*, which was a true collaboration, the two of us sitting down and figuring out how to make it work — it was really the artist coming to me and saying, "How can I do this?"
@@ -121,6 +135,8 @@ Liam Egan: Maybe, but also just as somebody they know who programs generative ar
 Will: A good number of the early projects you helped on would now be classified as image composition. Did PixelSymphony put you out of business a little bit?
 
 Liam Egan: Maybe, I don't know. PixelSymphony's framework is actually a really important part of the ecosystem now. Whatever you think about image composition and PFP projects, their framework is obviously important — it's used quite often, and they've codified it in a way that makes sense to non-programmers. That absolutely needs to be celebrated.
+
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
 
 Will: A hundred percent. I've mentioned on the show before that I'm slowly trying to talk my sister into doing a project using that framework, because she's an illustrator who's made a lot of cool characters, and it seems exactly the type of thing she could put out on fx(hash) — using that template and my help, or maybe your help, not to volunteer you. It does seem like an interesting tool that way. People often have an idea, and then there's that gap of executing it — that's the code part.
 
@@ -134,6 +150,8 @@ Liam Egan: For sure. Ivona's work absolutely needs to be called out in this spac
 
 Trinity: The other one that comes to mind is *Gearheart*, the collaboration between Richard Nadler and Leander Herzog, which I think does use a texture.
 
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
+
 Liam Egan: Yeah.
 
 Trinity: But it's still super rad.
@@ -145,6 +163,8 @@ Liam Egan: I think the biggest fear, as with most of the decisions we make aroun
 Trinity: It's definitely a huge quality-of-life improvement. Will, you're the number one person who'd rage-quit Discord anytime a PFP project dropped, because the sales feed was blowing up with apes or unicorns or whatever. Turning hands so many times at 0.2 tez — it just felt very spammy, perhaps.
 
 Liam Egan: Felt very Solana.
+
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
 
 Will: I wouldn't know.
 
@@ -158,6 +178,8 @@ Liam Egan: Yeah.
 
 Will: I'll send it to you later. When I saw that, it was like, "oh geez, this is not the path we want to be going down" — people pre-rendering images that look really good and then adding a bit of code on top to reveal it, making it seem like it's being rendered live when it's not. Now, if someone released a drop like that, they'd have to tag it, otherwise it would get moderated. Back then we didn't have those tags. To me, that's really good, because it prevents that very gray-area scam attempt.
 
+[pool: Particulate Hash | Particulate Hash — Liam Egan | | 1]
+
 Liam Egan: That's exactly why we introduced that tag in the first place — we were seeing people pre-render whatever fractals, throw them in as an image composition, and reveal them in some deceptive-feeling way. Unfortunately it's caught a few people who legitimately use images, but I think ultimately it's led to a healthier perception among collectors.
 
 Trinity: I definitely feel better not looking at the animal of the day, as Will so eloquently put it — much more able to stay focused on the kinds of things I want to look at. One thing worth touching on: some of these PFP projects, because of how they're constructed, can get to 1,000, 1,500, 2,000-plus editions very easily. I think Unicorns was 10,000 or something crazy like that.
@@ -168,7 +190,7 @@ Trinity: That's insane. That's one of the things Will loves about your work — 
 
 Will: Especially the more recent stuff, Liam — looking at your solo, or at least solo-credited, work. A lot of your earlier stuff, which was probably partially testing in the early days of the beta, has smaller edition sizes, but most notably *Euphonic*, *Reisiger*, and *Original Thread*, you tend to push your code and your generative work well beyond the typical expectation. There are a lot of factors that go into an artist deciding how many editions to run, and especially as the market's gotten worse, we're seeing artists hedge and bring that number down. That's just the reality of it, but it hasn't seemed to stop you. What's your philosophy there? What's your practice like, and how do you find the confidence to go, "this one's going to be 1,500," like in the case of *Euphonic*?
 
-[pool: Euphonic | Euphonic — Liam Egan | ]
+[pool: Euphonic | Euphonic — Liam Egan | | 3]
 
 Liam Egan: Thanks, that's a big compliment. The conclusion I've come to in my work is that edition size is probably one of the most important factors in developing a long-form generative piece. If I want as much detail and variability as possible while retaining an obvious core thematic, I need to push that as far as I can. There have been times I've seen other people's tokens — I won't mention any — where I've been disappointed that they haven't seen their potential reached, because the artist got nervous about sales and reduced the edition size. That's the primary factor for me: making sure there's enough room for the token to reach its potential. Whether they all get purchased or not is another story, but that's my motivation.
 
@@ -176,9 +198,9 @@ Will: Can you expand a little? Aside from executing on a cool vision, do you set
 
 Liam Egan: The primary method I use is to take my feature space — the things that are variable in the generative code — and isolate groups of those into different pillars. *Euphonic* is maybe a good example: there were different pillars, one being compositional layout — is this horizontal, is this vertical — and within that, different kinds of groupings, different layer varieties. I try to have as much internal consistency as possible within those, while pushing their variability as far as it can lead. With *Euphonic*, I spent days tweaking each of those verticals so they could go as far as possible while remaining consistent, then brought it all together to try to produce interesting outputs, and at the very end added little flourishes on top — the different UV layouts, the circular ones, the spiral ones, and so on.
 
-To gut-check it, with *Euphonic* I was producing 500 outputs at a time, running it overnight, and trying to check all of them. I don't know that I'm always consistently good at this, but I try to be. For me, the technical consistency of my tokens is much more important than the artistic consistency — which probably makes me a bad artist, but maybe an okay programmer.
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
 
-[pool: Euphonic | Euphonic — Liam Egan | ]
+To gut-check it, with *Euphonic* I was producing 500 outputs at a time, running it overnight, and trying to check all of them. I don't know that I'm always consistently good at this, but I try to be. For me, the technical consistency of my tokens is much more important than the artistic consistency — which probably makes me a bad artist, but maybe an okay programmer.
 
 Trinity: That's a tension I think we see often. As you were alluding to before, some people come at this from an artistic background and mindset, others from a technical one. It sounds like you're more from the technical side with an eye toward the artistic. But that tension exists in a lot of the work we see released, and we're seeing a bunch of really great developers starting to develop their eye, their sense of taste and nuance.
 
@@ -189,6 +211,8 @@ Trinity: From a technical perspective, or overall?
 Liam Egan: Both.
 
 Trinity: Hevey's description of the creation of *Density* is almost like a book at this point — I'm about halfway through, picking it back up here and there. It does come across as a technical masterpiece, absolutely.
+
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
 
 Liam Egan: Very much so. *Density* is probably one of my favorite tokens, for sure.
 
@@ -202,6 +226,8 @@ Liam Egan: Definitely. I should call out Rudxane as well — his work is equally
 
 Will: Maybe you can stop conscripting him into these live events so he can release some projects again. It feels like every single live event features a token by Rudxane, and it's like, come on, we want our regular fx(hash) drops back, please.
 
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
+
 Liam Egan: Maybe you should call that out to him yourself. One of the interesting new developments in the live-minting feature Ciphrd's been putting together is that it now uses allowlist functionality. So increasingly, I think you'll see tokens that have a live component, a live-minting component, and a public component, because that's something we can actually accomplish now.
 
 Trinity: Oh, that's another excellent feature not reflected on February's roadmap.
@@ -213,6 +239,8 @@ Trinity: So we should expect more live-minting events in the future, perhaps les
 Will: Waiting for the artist to accidentally open it without implementing the allowlist, without implementing the reserves, and then the bots get them all.
 
 Liam Egan: Or scheduling it for a year from today, as was the case with *Mythologic*. My personal hope is that there'll be more inclusion like that — a lot more development in the live-minting experience as well.
+
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
 
 Will: Since we've circled back to platform discussion — you are the biggest moderator, in the sense of someone who's moderated projects. Every time you look at the crime feed, it's "moderated by Liam Egan, moderated by Liam Egan." What goes into that? How much of it is you snooping it out versus stuff being reported to you? What are some of the most common scam attempts? And how many of them do you feel are purely bad faith, versus accidents, versus people just not knowing any better?
 
@@ -226,6 +254,8 @@ Trinity: At least from the collector angle, there are a couple of ideas that hav
 
 Liam Egan: Absolutely, the token is an interesting one — it's stuck in a regulatory holding pattern at the moment. Curated Spaces is another feature currently tied to that token, but we're exploring ways to introduce it more approachably under the current program. So much of not getting caught out by scams comes down to doing your own research. I hate saying that, because it feels like a cop-out — it feels like there should be ways to protect people from these kinds of scams. But people ape into scammy drops all the time, and I sit back and wonder why they're not doing their own research. What I've come to realize is that so many collectors and artists just don't have the mental models or tools to do that. I've been trying to figure out how to write an article about doing your own research in this context, because it has its own nuances here.
 
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
+
 Trinity: One reason people don't do as much of their own research these days is that you and the rest of the team have done such a great job of keeping scams from reaching the surface. The three-hour lock was one — that was for unverified artists, right? Will and I have both lost tez to scam artists with trailing spaces in their username, dropping something the same day Will and Mapan were dropping *Dragons*. So many things have come out to prevent that kind of thing, and it does feel like a much safer space than it was nine months ago.
 
 Liam Egan: I'm very pleased to hear that, thank you. I've also lost quite a bit of tez over time to those sorts of scams and others. I like to keep those pieces in my wallet to remind myself not to be so gullible next time.
@@ -237,6 +267,8 @@ Trinity: Scam confirmed? I don't know.
 Will: Only on the last one, I think — I don't know if the previous tokens went back and got moderated. It may have been more of a punishment than actual code being found stolen. We could probably do an entire episode on the history of scams and the after-the-fact moderation.
 
 Liam Egan: Absolutely. Honestly, my favorite moment in this whole experience of moderating is when people go back and rename their profiles to something really offensive to me.
+
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
 
 Will: But that was in particular a flipper who did that, not an artist?
 
@@ -250,6 +282,8 @@ Will: You are kind of the sheriff, so—
 
 Liam Egan: It's fine, I'm okay with that.
 
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
+
 Trinity: I thought you were going to say your favorite moment in fx(hash) scam history was Adam Meierowitz.
 
 Liam Egan: Oh my God, no, that was definitely not my favorite time.
@@ -261,6 +295,8 @@ Trinity: It was so long ago — that was like December.
 Will: End of November, early December. There were probably a tenth of the people on the platform then compared to now, if not less. That whole controversy, and the archived chat, is still down there in the Discord. I've had this interest in talking to the more gray-area characters — I haven't had a lot of success booking them, but I'd love to have them on the show, because they're part of the history and the story.
 
 Liam Egan: For sure, I think it'd be interesting. I think Adam was understandably quite upset about the whole experience in the end, but I still stand by the decisions the team made.
+
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
 
 Will: And the issue wasn't the art, it was some of the marketplace practices, right? I'm assuming there was some blockchain analytics and sleuthing done on the team side to confirm that.
 
@@ -274,6 +310,8 @@ Will: Have there been any other similar close calls with behavior like that? I f
 
 Liam Egan: There's definitely been other moderations. Accusations are obviously never enough on their own, and those fly around the Discord from time to time, but yeah, there have been other cases — you can search for "price manipulation" or "market manipulation" in the scam channel and find a few examples. Nothing quite so public or divisive, though.
 
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
+
 Will: This has been awesome — we've asked so many random questions, a bit less formal than our usual interviews, but there's so much interesting stuff in the history of fx(hash). Is there anything we missed, Liam? Anything else we should talk about before we wrap up?
 
 Liam Egan: No, nothing I can think of. I think it was a great conversation, thank you.
@@ -285,6 +323,8 @@ Liam Egan: I've been doing some work with people in TENDER Collabs, working with
 Will: Will you be on the contract in some capacity, like "helped by Liam" at the bottom of the description?
 
 Liam Egan: I won't, no.
+
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
 
 Trinity: Maybe — we'll all know. It'll be in our memories, just making sure those very complex Tender Collabs render efficiently.
 
@@ -298,6 +338,8 @@ Liam Egan: I didn't realize you two were part of Tender, actually.
 
 Will: We used to do consistent disclosures at the beginning of episodes, especially in the weeks leading up to the Tender Pass, when we were talking about it a lot. And when the collaborations started coming out and doing well, we felt like we had to cover them on the show — it would be weird to omit them. We try to cover everything and be pretty historical in that sense. The financial benefits of being in Tender aren't huge — it's not like we're taking in thousands of dollars a week. But there's also a whole transparency statement and a list of everyone in Tender, on Tender. I don't know if anyone's actually gone and looked at that as much as it's been tweeted about and promoted, but in an attempt at being transparent: we just got in early.
 
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
+
 Liam Egan: Yeah, that's it. It's grown so much over time.
 
 Trinity: The use of L2s within the fx(hash) space — that's a whole other hour of conversation. Perhaps we can save that.
@@ -309,6 +351,8 @@ Trinity: There are so many people who want to do so many different things, espec
 Will: Okay.
 
 Trinity: As our legal IP expert.
+
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
 
 Will: Yeah, I am a lawyer. I've got one last question to wrap it up — unless, Trinity, you want to ask anything?
 
@@ -322,6 +366,8 @@ Will: I would be excited if there was a way for the hosts of this show to have a
 
 Trinity: Give us things.
 
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
+
 Liam Egan: That's actually a really cool idea. I like that a lot.
 
 Will: All right, get it done. Add it to the Notion board, or Asana, or whatever you're using. Throw it up there.
@@ -333,6 +379,8 @@ Will: That's actually the thing I'm missing so much. I was so excited talking to
 Trinity: There's a feature request board. I've requested many features, and some of them have actually come true -- I get an email when they've been added to the roadmap and successfully executed.
 
 Will: Maybe I need to shout in there more.
+
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
 
 Liam Egan: You can always reach out to me too, and I can communicate those things. Actually, a bit of an advertisement: we're looking for a lead developer at the moment, which will make all of this go more smoothly. Right now Ciphrd is in the position of lead developer, and it's taking up too much of his time. So if anyone out there is experienced in blockchain and Tezos, with a full-stack developer background, please get in touch.
 
@@ -346,6 +394,8 @@ Will: That was an awesome conversation, Liam. I hope you feel good about it.
 
 Trinity: And expect to get pinged by Will every day about new feature requests and ideas. You're going to regret saying that.
 
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
+
 Liam Egan: I had this idea... yeah, sure.
 
 Will: If you can make the QR code thing come true, that would be sick. I don't know how much it'd get used, but it would be very fun.
@@ -358,6 +408,8 @@ Liam Egan: I'm good. It was great to talk to you both.
 
 Will: Thank you again for getting up early. Hope you enjoy the rest of your Sunday, Liam.
 
+[pool: Euphonic | Euphonic — Liam Egan | | 1]
+
 Liam Egan: Thanks, you too.
 
 Will: Get out there moderating -- get those criminals off the street.
@@ -369,3 +421,5 @@ Trinity: Everything's gonna go to hell.
 Liam Egan: Yeah, exactly, exactly.
 
 Will: All right, that was Liam Egan, everyone. Be sure to say hello in Discord next time you're there. Thanks again to Liam for coming on the show, and thanks to Trinity for getting up on a Sunday to record with me. Hope you all enjoyed -- we'll be back again soon. Later.
+
+[pool: Euphonic | Euphonic — Liam Egan | | 1]

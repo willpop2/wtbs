@@ -269,7 +269,7 @@ def render_figure(m, slug: str) -> str:
 
 # Random-pool slot: [pool: <work-prefix> | caption | credit-url]
 # Filled at page load with a random image from images/<slug>/<prefix>_*.
-POOL_RE = re.compile(r"^\[pool:\s*([^|\]]+?)\s*(?:\|\s*([^|\]]*?))?\s*(?:\|\s*([^|\]]*?))?\s*\]$")
+POOL_RE = re.compile(r"^\[pool:\s*([^|\]]+?)\s*(?:\|\s*([^|\]]*?))?\s*(?:\|\s*([^|\]]*?))?\s*(?:\|\s*(\d+))?\s*\]$")
 
 
 def pool_manifest(slug: str) -> dict:
@@ -306,6 +306,7 @@ def render_pool(m) -> str:
     work = m.group(1).strip()
     caption = (m.group(2) or "").strip()
     credit = (m.group(3) or "").strip()
+    count = int(m.group(4)) if m.group(4) else 1     # pieces to show side by side
     cap = ""
     if caption or credit:
         inner = htmllib.escape(caption)
@@ -313,7 +314,8 @@ def render_pool(m) -> str:
             inner += (" &middot; " if caption else "") + \
                 f'<a href="{htmllib.escape(credit)}" target="_blank" rel="noopener">source</a>'
         cap = f"<figcaption>{inner}</figcaption>"
-    return (f'<figure class="ep-figure ep-pool" data-pool="{htmllib.escape(work)}" '
+    cls = "ep-figure ep-pool" + (" ep-multi" if count > 1 else "")
+    return (f'<figure class="{cls}" data-pool="{htmllib.escape(work)}" data-count="{count}" '
             f'data-alt="{htmllib.escape(caption)}">{cap}</figure>')
 
 

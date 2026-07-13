@@ -128,7 +128,7 @@ Marcel Schwittlick: Yep.
 
 Will: This is a continuation of the *luminograms* series you've been working on, which I think started with *It Is What It Is*. In one sense you're still working with a plotter, but with a different medium — light instead of ink, in a darkroom, on photography paper. I know from the descriptions that this piece is influenced by concrete art and concrete photography. That word "concrete" — to collectors like us without a deep art background — we've seen it come up before in generative art, typically around typography, but here you're working through photography and light. Can you talk about the concrete art movement and its influence on you, and what you're going for with these *luminograms*?
 
-[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | ]
+[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | | 3]
 
 Marcel Schwittlick: It's a big topic that found its way into all kinds of different media and art forms — concrete poetry, concrete photography, concrete art in general. It has one really strong aspect: freedom, independence from abstraction or figuration. There's no point of reference — the medium itself stands for itself. It's fascinating, and there's a lot out there for people interested in generative art specifically — there's a fantastic encyclopedia called *Against Abstraction*, for example, or Oulipo. A lot of this happened well before computers were practically accessible, which is funny, since it's an idea artists have been drawn to for a long time. It's absolute freedom in itself, and very concrete. I'm drawn to it a lot.
 
@@ -142,6 +142,8 @@ In this series, I also split things — which I hadn't really done before, since
 
 I also scaled these up — the previous *luminograms* were fairly small compared to the recent works. That meant dozens of liters of chemicals, huge trays — it doesn't scale easily, and it was a genuinely tough process. Not that I cried a lot, but it was difficult to tame the idea.
 
+[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | | 1]
+
 Will: Does this series have a title?
 
 Marcel Schwittlick: *Composition No. 92*.
@@ -153,6 +155,8 @@ Marcel Schwittlick: I don't think so. Sometimes the title just comes to itself, 
 Will: When I first saw the digital versions being shared, I assumed they were a blueprint for the physical pieces. Will these be sold in pairs — if you buy the physical, do you get the digital twin as the NFT? Traditionally — well, not traditionally, but a lot of the NFT work you've done has been a picture of the physical piece tokenized, functioning as proof of ownership, like a receipt. Are these separate, or tied together in some way?
 
 Marcel Schwittlick: Completely separate — two series, one digital, one *luminograms*. I was honestly playing with the idea, but there are straight organizational issues. The worst position to be in as an artist is turning yourself into a print service. Imagine collecting digital pieces and people saying, "this one, please." I want to decide which works go which way, and go with the flow a little, rather than being forced to imitate a digital piece physically. I don't want to print something out just because it exists digitally — they have a connection through the fundamental algorithmic approach to how they're created, and that's it.
+
+[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | | 1]
 
 Will: Got it. So we can look forward to both the physicals and the digital pieces being sold on Verse around the time of Paris Photo — which, we're recording this mid-October, is mid-November, right?
 
@@ -166,6 +170,8 @@ What's your policy, as an artist who has the ability to reproduce something like
 
 Marcel Schwittlick: If you accidentally tear apart your Octet piece, it's over. The piece is gone. I don't do things twice — I think it's boring. I don't want to repeat, I don't want to copy, I'm not remaking anything. It's kind of the nature of the pieces, too, especially with the *Octet*, where everything happened live, so I wouldn't even have the data to do it again.
 
+[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | | 1]
+
 I grew up on the internet, so I have a technical inclination in my life, and I use blockchains because, fundamentally — I trust it, you know. It's something I'm more likely to trust than other systems. For me it's one of the only ways I could think of to digitally catalog works — not archive, catalog — because I don't have to take care of it myself. Whereas my website, I could just stop maintaining at some point. If there are other websites like Artsy, in a couple of years they might decide it's not lucrative anymore and shut it down, and that whole overview is gone.
 
 That's the whole idea of decentralization, and I'm a huge fan of it — I think everybody working with software in art has an inclination toward that. At the same time, it's completely out of my control what happens if things go south. I could host a Tezos node to make sure it stays up, but then that's kind of pointless, because then I'm the only point of failure — which is contrary to the whole idea of decentralization. In the end it's like two rails: whichever fails first, the other one is there to verify it.
@@ -177,6 +183,8 @@ Will: I figured that with *Octet* being performance-based, restoration wouldn't 
 I think with the bear market, people are starting to look at the prices of things like Tezos and think more critically about the longevity and security of these chains, even if there's another bull market coming. I've seen some concern bubbling up about Tezos versus Ethereum, and it seemed like a parallel to physical artists who have the ability to restore damaged work. But I think it's a fair policy to say, "No, that's it."
 
 I was going to ask you more directly about Tezos versus Ethereum, but it sounds like you're pretty chain-agnostic. You have a decent amount of work on both, though more recently you've skewed toward ETH. Is that a price point thing, or more of an experiment to see what it's like to put work on ETH?
+
+[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | | 1]
 
 Marcel Schwittlick: It kind of just happened — after ETH went proof of stake, I was fine using it. In the end, ETH is technically much more mature, and there are real advantages. With smart contracts, you can literally copy the code, modify it, deploy, and you're ready to go. Whereas on Tezos, everything is in Michelson, low-level — you can't just learn by example. It's an absolute disaster for people like us who just want to learn. It's probably good for businesses, because nobody can copy your IP, your contract architecture, whatever service you're offering — nobody can reverse-engineer and redeploy your thing.
 
@@ -190,6 +198,8 @@ Will: Marcel, let's move toward wrapping up with a few rapid-fire questions. Bas
 
 Marcel Schwittlick: I'm actually not a gamer. The games I've played in my life, I can count on one hand — Counter-Strike 1.5, 1.6, Warcraft 3, Diablo 2, and Diablo 4. Right now I'm playing the one with the extra skeletons.
 
+[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | | 1]
+
 Will: Necromancer.
 
 Marcel Schwittlick: Necromancer.
@@ -202,6 +212,8 @@ Will: Both Trinity and I are huge Magic: The Gathering players. We're always fis
 
 Marcel Schwittlick: I think I touched it ages ago, but it didn't stick.
 
+[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | | 1]
+
 Will: All good. Another question we like to ask: who would you like to hear us interview on the show?
 
 Marcel Schwittlick: Oh my god, that's difficult. I'd lean toward people who have nothing to do with NFTs, honestly — what I like about these conversations is that I draw a lot from them. I'm really interested in the people behind the work I like; it makes it personal. So, an artist not really working with NFTs — Karoline Kriczeki, for example. She's doing fantastic work, and I'd love to hear her speak about it. I'm not sure she's ever done anything like this before.
@@ -213,6 +225,8 @@ Marcel Schwittlick: No clue. I'm working on a couple of things, but I have no id
 Will: All right, well — keep your eyes open for Marcel's work. Check out his website; it's full of amazing documentation, a lot of it accompanied by video. It's really cool seeing the lasers moving in the photo lab. Tons of amazing stuff to find there — we'll include links below, and in the notes if you're listening on a podcast app or Spotify. I think that's it. I think we did it, Marcel. Hope you had fun. That's the episode.
 
 Marcel Schwittlick: Thank you, Will. It was fantastic. Thanks a lot, appreciate it.
+
+[pool: It Is What It Is | It Is What It Is — Marcel Schwittlick | | 1]
 
 Will: That was Marcel Schwittlick. Look out for the upcoming release on Verse — it'll be exhibited at Paris Photo. Thanks to Marcel, I hope you all enjoyed it. We'll be back soon with another episode. Until then, bye everyone.
 

@@ -50,7 +50,7 @@ By early October I started diving in. I had a little coding background — self-
 
 Trinity: From a process perspective, given your artistic background, did you have an idea of the types of things you wanted to make? Were you working on other projects before *Clew*?
 
-[pool: Clew | Clew — Abstractment | ]
+[pool: Clew | Clew — Abstractment | | 3]
 
 abstractment: Yes — I made several things on my own that, looking back, I find pretty appalling and embarrassing. The goal was just to learn how it all worked. Then, maybe three or four weeks in, I landed on a vision for what became *Clew* and figured out how to build it. I think *Clew* is beautiful — I love it — but it's not the most innovative coding behind it. It's a well-orchestrated set of elements that come together into what I think is a really nice collection. I'm never going to be the one changing the generative art space with innovative code. I'm just trying to create great final outputs and a large, diverse collection.
 
@@ -58,11 +58,15 @@ Trinity: That's something we were just chatting about before we started recordin
 
 abstractment: As I think is pretty evident from the write-up or the description of *Clew*, one of my big priorities was creating art that people would want to put on their walls. I think that comes from my appreciation for all the art we've collected in the various countries where we've lived — we've got work from Rwanda, Colombia, Florida, Pakistan, Afghanistan, Samoa, and a few other countries. I love being able to have that on the wall and enjoy it daily. So going into *Clew*, it was all about increasing the likelihood that this would end up on walls, and I knew the details were going to matter for that.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 A lot of what I did was create those really high-quality outputs you can get from *Clew*, then zoom in and look around at what everything looks like up close. When I saw something I didn't like, I'd dive back into the code and tweak it. It was a lot of back and forth between the outputs and the code. I think every generative artist goes through this — it's an important step in understanding what your code is going to produce and whether it meets the standards you have for the work. I have really high standards for myself, and I know what I like and what I don't. On *Clew*, for me, it was a lot about depth — how do I create depth with this very 2D piece? I tried to do that through the backgrounds and through the way the clews, if you will, kind of construct themselves. So a lot of the tweaking was about making sure I was getting the right depth I was looking for.
 
 Will: That's really cool. As someone newer to coding than you, working on another project, hearing that inspires me to really dig in and refine the things I have more direct control over — color, alignment, little tiny adjustments that might make it just that much better but are within my capabilities. That's a great takeaway.
 
 I'm curious — with *Clew*, we see so many new artists come to the platform, and some of them struggle for a long time before they really blow up. They have small Twitter followings, they're in the Discord not even shilling their work, just trying to share it and let people know it's coming. Despite you having a pretty small Twitter following, I wasn't aware of you until the day it came out, or right around when people started talking about it. You somehow hit critical mass with the hype before it even released, despite being new. So aside from the quality of the work — and maybe that's just the whole answer — what do you think you did to really maximize your chance of breaking through?
+
+[pool: Clew | Clew — Abstractment | | 1]
 
 abstractment: That's a great question, and I'd like to think part of it is the quality of the work, after putting so many hours into refining the traits and finding the outputs I was really trying to achieve. I'll also note I had 18 different traits in *Clew*, and looking back, that might have been a bit of a mistake — when you're trying to get the right effect for one trait, you then have to test it against all the others and make sure the whole thing isn't losing the exact effect you're going for.
 
@@ -70,11 +74,15 @@ Beyond quality, I was sharing tweets ahead of time to try to get additional cove
 
 And then, probably more obviously, there's the model I set up — if you own five *Clews*, you're a member of the Clew Crew. There's a lot to that, but I'm sure it also helped spark interest. Trinity, I think you noted this on one of the early podcasts, right after *Clew* was released — that the mint price was very affordable and accessible.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 Trinity: How did you come up with that? It seems so stupidly cheap, especially in retrospect.
 
 abstractment: That gets into a lot of the dynamics I was trying to manage with *Clew*. When I was thinking about mint price and collection size together, I figured: if you need five to have this lifetime membership, if you will, to the Clew Crew, that's going to result in roughly 1,500... 1,513 or something, potential Clew Crew members. That's manageable for me long-term in terms of output, so that set the drop size.
 
 Then, for the mint price — I really wanted a diverse group of collectors, and I know very well what it's like to have a small wallet. So when I landed on 0.89 tez, it was about making this accessible — not just a piece of *Clew*, but full Clew Crew membership, at an affordable price. My hope was that a lot of those early minters, even within a few days before the price took off too much, could still get in if they wanted. I was really focused on making this accessible to everyone, because I wanted it to be inclusive from the beginning and bring in a diverse group of collectors. I also worry it's become somewhat exclusive from here on out, and it'll be harder for smaller wallets to participate if they weren't already in the Clew Crew.
+
+[pool: Clew | Clew — Abstractment | | 1]
 
 Trinity: I think we've seen that meteoric rise. Those first few days were relatively slow on secondary — well, "slow" isn't really fair or accurate. But after that, things really took off, and at some point the floor price hit the 50s or 60s after some big wallets swept.
 
@@ -88,6 +96,8 @@ abstractment: I got one.
 
 Will: Crazy that you got five.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 Trinity: I just spammed the button — didn't matter, just kept refreshing and mashing it.
 
 Will: I got one, and then I really failed in my planning. If you're an avid collector watching the market, you know prices tend to spike immediately, then decline over the course of a week or longer before hitting a second spike, if it ever happens. So my plan was: sell my one nice mint at a markup since it had a really good palette, then buy five floor pieces later and get into the club.
@@ -99,6 +109,8 @@ Will: But the floor just caught up to the price of my piece before I could. Bad 
 Trinity: I have a quick question about the drop itself — we did a logo drop just last week. How did it feel hitting that mint button, putting it out into the world, and then watching all the conversation swirl around it — discovering the reaction on primary and secondary, through Twitter, Discord, wherever?
 
 abstractment: Drop day — I was walking around my house earlier that day, and it was the first time it really hit me: wow, this is insane. I'd been working on this collection for two months, and I had a general idea of what it was going to look like, but I actually didn't know. I'd thought about this as a collector many times before, but this was my genesis drop, and it was remarkable how amazing this space is — you put something out there and have no idea what's going to come back. It's a fascinating space from that angle.
+
+[pool: Clew | Clew — Abstractment | | 1]
 
 After hitting mint, I actually thought I was going to be in trouble for three hours. I'd announced a drop time, but it turned out I'd been verified without realizing it since the day before. So I minted, then had to wait three hours before actually unlocking it for others, because I wanted to stick to the original timeline in case people were paying attention to my earlier Twitter announcements. A little less than ideal, but I think it worked out fine — people got to review the code and the outputs and look them over before deciding to buy, which I think is always a good thing.
 
@@ -112,6 +124,8 @@ Trinity: Number 1 that we should be thinking about?
 
 Will: I know this is something you wanted to talk about — maybe this is a good time to divert.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 abstractment: I was interested in hearing about your top moments with fx(hash) too, but is it okay if I mention a couple of things first?
 
 Will: Yeah, let's keep going on *Clew*.
@@ -122,11 +136,15 @@ Will: Is there any anxiety for you around this model you've created, which you n
 
 abstractment: Great question. The short answer is no — that may change long-term, especially depending on the price of *Clew*, but right now I don't feel pressure. What I do feel is... I don't know the right word for it. A rejuvenated commitment, maybe. Or just motivation — a strong motivation to return value to the Clew Crew.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 When I was doing Art Blocks Curated, one thing I loved about that space was that it was all about the artist: they choose the drop size, the mint price, and the members are along for the ride, participating as they want. Reflecting on that, I thought: well, I'm the artist now, so what do I actually care about? Not really any of those details. So why not flip the concept on its head and focus on the collectors instead? I think that approach was smart from my perspective — it gives me long-term motivation to provide value to Clew Crew members.
 
 Nobody should be buying *Clew* because of anything I'm saying on this podcast. Buy *Clew*, or any art, because you like it. I don't want this to turn into a sales pitch — but I am very focused on how I create value for collectors. Let me touch on one more thing: we've talked about the airdrops, and I've committed to one airdrop for all Clew Crew members for all of my fx(hash) work moving forward. But I've also recently decided that there will be times I airdrop two pieces to the Clew Crew instead of one.
 
 Something I've struggled with a lot in the past is feeling liquidity-strapped. When you don't have liquidity, it's stressful — especially if you want to get into another project. I don't know about anyone else, but I'd sell something at its low point so I could buy something else at its peak, then feel really crappy the next day. Rinse and repeat, over and over, just because I felt liquidity-strapped. That ties into the diversity in collectors I mentioned earlier and how I like to maintain it. When I think about smaller wallets, I ask: how can I help them feel comfortable remaining part of the Clew Crew? One way is airdropping two pieces from some collections — not all, probably seldom — so they can keep one piece of the artwork and have an extra one to sell if they're feeling liquidity-strapped. It just gives them one more option for managing their portfolio and collecting art. My hypothesis is that if I create value for collectors, it gets reciprocated — they value and appreciate my art and what I'm trying to do to support them.
+
+[pool: Clew | Clew — Abstractment | | 1]
 
 Will: Maybe this is a good opportunity to talk about the project you previewed a little in a tweet yesterday — our time, might have been morning your time.
 
@@ -134,11 +152,15 @@ Trinity: Rocking some Twitter banners you released yesterday, or at least at the
 
 abstractment: Yeah. The only real promise I've made to the Clew Crew is one airdrop for all future pieces or collections. The banner piece was just a little icing on the cake — I saw a few people adopting them as Twitter banners and thought, that looks awesome, so I decided to formalize it and mint some for anyone who wants one.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 As for what's coming next: coding isn't my strong suit, I'm self-taught, so everything I do takes time — me figuring out my vision and then how to actually get there. Some of these pieces are going to take a while to fully develop. But here's the tease from yesterday: there's a very special clue in *Clew* — number 205.
 
 Trinity: Oh, okay.
 
 abstractment: It's the only piece in the collection with both a symmetry trait and a special trait. I'm going to build a small collection in honor of that one piece — basically a zoomed-out variation on the "lost/not lost" special trait, which is what *Clew* 205 has. I think I'll call it *Symmetric Clew*, since the vast majority of the collection will be symmetrical in some way.
+
+[pool: Clew | Clew — Abstractment | | 1]
 
 *Clew* 205 also has the Dune Lakes color palette, so I'm actually going to remove that palette from *Clew* altogether and replace it with the new one I teased yesterday — neon-inspired, makes me say "bam" every time I look at it. I'm calling it Neonomatopoeia. Get it?
 
@@ -152,6 +174,8 @@ abstractment: I can't — every time I need to, I have to go search how to spell
 
 Will: The official *Clew* style guide.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 Trinity: All right, bam.
 
 abstractment: Also — the podcast comes out Wednesday or Thursday?
@@ -159,6 +183,8 @@ abstractment: Also — the podcast comes out Wednesday or Thursday?
 Will: Probably the 9th, US time, midday.
 
 abstractment: Then let's announce the drop here. I've shared on Twitter that I give a one-week advance notice before drops — consider this that notice. It'll drop on Wednesday. I'd encourage people to listen to the podcast first. And let's make this a nice start for the collectors: we'll do a drop of two pieces for the whole Clew Crew. I'll probably reserve five of the minted pieces for a Dutch auction or something like that — still working through the details — but my goal is for about 95% of this collection to go to the Clew Crew.
+
+[pool: Clew | Clew — Abstractment | | 1]
 
 Trinity: Sounds like I need to get onto the secondary market.
 
@@ -170,6 +196,8 @@ Trinity: Not financial advice, just talking about myself. And I can't wait to se
 
 abstractment: You've already seen the teaser for it in yesterday's tweet, but I'll share more details as we get closer. I want to start off with a bang for the Clew Crew and make sure I'm bringing value back to them.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 Will: Given the funkiness of the fx(hash) opening windows right now — looking at the calendar, cycle 87 closes and cycle 88 opens on Wednesday — you'll have to check your time zone, Preston, and figure out which cycle this lands in.
 
 abstractment: Yeah.
@@ -180,6 +208,8 @@ abstractment: Yeah.
 
 Trinity: Congratulations on putting out something people are really going to look forward to. You were upfront on Twitter when you dropped *Clew* and announced the Clew Crew that this isn't your full-time job — you have a day job, family, friends, all these other responsibilities. I'm really glad you've been able to take that motivation and keep making beautiful new things. Kudos.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 abstractment: Thank you. It's just a lot of fun—I really enjoy it. It's surprising how many hours I put in, and it's quite difficult with the full-time job, but it's very rewarding. I've really enjoyed the space so far.
 
 Will: I'm trying to think of the number of hours just to get that logo project done for us—and you were thankfully a part of it too, in that final week, when I was sprinting to get everything figured out and wrapped for fx(hash). For how simple that logo project is, going from not coding to getting that done took a lot of hours. I can only imagine, for a project at the scale of *Clew* and the refinement of it, how much sleep you've siphoned away working on it.
@@ -187,6 +217,8 @@ Will: I'm trying to think of the number of hours just to get that logo project d
 abstractment: Yeah, absolutely.
 
 Will: We're at 45 minutes, so let's spend the last 15 talking about some non-*Clew* stuff. Want to talk about what you collect on fx(hash), or keep going down the future path?
+
+[pool: Clew | Clew — Abstractment | | 1]
 
 abstractment: Let's talk collecting. I'll admit I am not a great collector. I've recently realized I collect physical art in a very different way than digital art, and I've decided to start putting my physical-art hat on when I'm looking at things. With physical art, I think: this is going to be on my wall for the next 20 years, I want to love this piece. I don't apply that same standard digitally, but I need to start looking at my wallet as if it's my wall—if it's going in there, it's something I love and want to keep. I'm saying this out loud partly to commit myself to it.
 
@@ -200,13 +232,15 @@ So we need these L2s to celebrate that work—and that's part of what we're tryi
 
 abstractment: Absolutely. And I don't think it should be overlooked that the fx(hash) Discord community is really good at finding good art—spotting things with a lot of potential, including older pieces that have been overlooked, and bringing them back to life. I've been really impressed by some of the collectors and what they've identified in the Discord.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 Trinity: We've all benefited from some of KenConsumer's alpha over the years—or weeks, I guess, though it feels like years. I've learned so much from people in the Discord and on Twitter helping communicate what makes a work great. Always indebted to them. So what are some things you've collected that have really given you joy—pieces you knew could go on your wall for 20 years?
 
 abstractment: The other day, during the *Mountain View* drama, I took advantage of the opportunity and picked one up—was really excited to add that to my collection. I'd also been wanting to get a *Stitch* but missed the mint window, which is one of my recent regrets. I minted several *Glass* pieces that I really like, and I like the *Smolskulls* too. More than anything, though, I love the community around them—it's a great example of where this space can go with the right community built around it. It's kind of what I'd like to eventually build with the Clew Crew, obviously on a much smaller scale.
 
-[pool: Glass | Glass — punevyr | ]
-
 Trinity: Two for two on our interviews loving *Glass*. I need to make that our intro icebreaker question: on a scale of one to ten, how much do you love *Glass*?
+
+[pool: Glass | Glass — punevyr | | 3]
 
 Will: How much *Glass* do you own?
 
@@ -220,6 +254,8 @@ Trinity: I'm not a podcaster. I don't even listen to podcasts.
 
 Will: Neither am I. But we're just naturals—we've got radio voices.
 
+[pool: Clew | Clew — Abstractment | | 1]
+
 Trinity: We've got six years of banter going for us.
 
 Will: So yeah, I think that's the obvious one for me.
@@ -228,7 +264,7 @@ Trinity: I'm surprised you didn't say the NFT drop. That was such a fun moment f
 
 Will: I'll offer some market and collection-related ones, because I don't think we would have gotten to the podcast if it weren't for one key sale I made. I'll complement that with one key purchase I'm really proud of: when Toxy released *Defrag 2*, I think I got two of them. At that point I was still very much in hardcore flipper mode — learning the platform, viewing it purely as a way to accumulate Tez, not really engaging with the art yet. I sold one immediately, probably for 2 or 3x mint. Then the next day, as collectors started coming in, I sold my second one after it revealed for about 700 Tez.
 
-[pool: Defrag 2 | Defrag 2 — toxi | ]
+[pool: Defrag 2 | Defrag 2 — toxi | | 3]
 
 That gave me a month's worth of room to make mistakes — collecting, figuring things out, actually engaging with secondary instead of just minting and flipping, which was the mint-two-sell-one strategy we talked about on our collection-oriented episode. If it hadn't been for that one windfall sale, the momentum could easily have fizzled out for me. It helped me get my feet into the community and feel good about spending and playing without it really impacting my personal finances. Just very, very lucky — a big moment.
 
@@ -242,13 +278,15 @@ Will: I've listed it a couple of times and delisted it. It hasn't been listed fo
 
 abstractment: That's awesome.
 
+[pool: Defrag 2 | Defrag 2 — toxi | | 1]
+
 Will: Congrats on that. Let's hear from you, Trinity — you have to have at least one.
 
 Trinity: I don't have as many big moments as that. There have been some fun-slash-stressful times operating with like 0.3 Tez in the wallet, where you don't even have enough liquidity to list anymore — which is how I became a big fan of the batch-relist tool on Netlify. Use it only at your own risk. Even though that's not fun, because you're gatekept out of literally every drop, including *Clew*, there's something about the scrappiness of digging yourself out of a hole. It forces you to really look at your collection, to figure out what you want to price things at and what you want to put on the market.
 
-[pool: Clew | Clew — Abstractment | ]
-
 That said, I also enjoy having liquidity. One of my favorite moments — I think it was the same day *Sequence* dropped. It was a big day; I actually went into the office, which I do maybe once every five months, so it was special timing to be sitting at my desk during a small office get-together, everyone at the bar, and me just hitting refresh constantly. *Farbteiler* came out — I'd seen some Twitter previews and thought, this is just beautiful. I already loved *The Signatory* by Erik Swahn. It had been a big day — a lot of big days back in December — and I just kept hitting the mint button on *Farbteiler* because the colors were insane, the structure and architecture were insane, everything about it was insane. I ended up minting thirteen of them. I kept looking around fx(hash) thinking, why is this taking so long to mint out? I knew I was onto something. And then just being right.
+
+[pool: Sequence | Sequence — The Mandala In The Hindu | | 3]
 
 abstractment: Yeah.
 
@@ -262,7 +300,7 @@ Will: Yeah.
 
 Trinity: You'd found your way to win. And then there's the lottery component of the output itself — hitting the jackpot a few times, like getting a 1-in-4 *Akeese* dragon, feels so good. Or getting a *Sequence* with the hole in it, which is like a 2% chance.
 
-[pool: Sequence | Sequence — The Mandala In The Hindu | ]
+[pool: Sequence | Sequence — The Mandala In The Hindu | | 1]
 
 Will: Your red Iskra.
 
@@ -276,6 +314,8 @@ Will: When you've designed a deck to behave a certain way — I don't know if yo
 
 abstractment: That was great. It's the adrenaline that keeps us going, those little wins. Same thing for me on the generative art side — when I overcome one of those challenges that's been driving me nuts for days, that adrenaline is what keeps me going for the next two weeks.
 
+[pool: Sequence | Sequence — The Mandala In The Hindu | | 1]
+
 Trinity: And solving that problem, figuring out the breakthrough moment — there's got to be something really nice about that too.
 
 abstractment: Absolutely.
@@ -287,6 +327,8 @@ abstractment: Cool.
 Will: I feel like we're at an hour, and it's getting late on your side. Anything you want to wrap up with, put a bow on this, and send us out?
 
 abstractment: Just a big thank you to the two of you for putting this together. This is where I get my fx(hash) news every week — updates on what's going on and the big drops. I really appreciate it, and I've gotten a lot of value from it as someone who's trying to collect more but gets wrapped up in the creating side. It's nice to have this space to catch up on everything.
+
+[pool: Sequence | Sequence — The Mandala In The Hindu | | 1]
 
 Trinity: Thank you for everything you do, and for the exclusive drop info — I think everybody's going to be really excited to see what you have in store.
 

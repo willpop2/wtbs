@@ -1,6 +1,6 @@
 John Gerrard: It was, I think, an evolution more than a revolution for me. I'd been thinking about data for a very long time, and blockchain is fundamentally a data structure, so it felt like a natural extension of what I was already doing. When the opportunity came to tokenize *Western Flag*, it wasn't a huge conceptual leap since the work was already, at its core, a data object rendered in real time. What changed was the framing: suddenly this piece that lived on a screen in the desert, or in a gallery, could also live as a verifiable, ownable artifact on a public ledger. That felt like it closed a loop for me, connecting the world-building, data-driven nature of the simulation to a system that is itself entirely constructed from data.
 
-[pool: Western Flag | Western Flag — John Gerrard | ]
+[pool: Western Flag | Western Flag — John Gerrard | | 3]
 
 And donating it to LACMA was significant precisely because the institution had never handled an NFT before. They had to build the infrastructure, open a wallet, work out custody, all of it, in order to accept the piece. That, to me, was its own kind of public art moment. It forced a major institution to catch up with where the work already existed conceptually.
 
@@ -9,6 +9,8 @@ Whitney Hart: That's such a great way to put it, closing the loop. And I think t
 John Gerrard: Of course, and I don't take it lightly. I've spent my career thinking about energy, about the carbon legacy, about the relationship between power and image-making, quite literally, electrical power. So to then engage with a technology that has its own energy footprint required real reflection. I didn't want to be hypocritical about it.
 
 Part of how I've reconciled that is by supporting environmental initiatives directly tied to the proceeds and the platforms I work with, and by being conscious of the shift happening within the blockchain space itself, moving away from proof-of-work toward far less energy-intensive systems. But I also think there's something honest about making work that sits inside that tension rather than pretending it doesn't exist. *Western Flag* is about the legacy of oil and power. Putting it on a blockchain doesn't erase that irony, it sharpens it. And I'd rather sit inside that discomfort and make people think about power, in every sense of the word, than avoid the conversation entirely.
+
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
 
 Will: Can we go back for a second? I want to hear about your first tokenized work. I believe it was on the Bitmark chain, is that right?
 
@@ -22,6 +24,8 @@ The second is a kind of conceptual resistance to value, this idea that because a
 
 Once artists and collectors get past those two hurdles, the conversation usually opens up really quickly, because at that point they start to see the actual creative possibilities, generative systems, on-chain logic, real-time data, the things that excite me about this space in the first place.
 
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
+
 Trinity: It also feels like the traditional gallery and art fair system just hasn't caught up yet with how digital contemporary practice already is.
 
 Whitney Hart: Exactly, and that's a huge part of why I do the work that I do. So much contemporary art practice is already fundamentally digital, artists are already working in code, in real-time systems, in simulation, exactly like John. The infrastructure around exhibiting and collecting that work, the fairs, the white cube gallery model, is what's lagging behind, not the artists. Part of my job is helping institutions and collectors catch up to where the artists already are.
@@ -33,6 +37,8 @@ John Gerrard: Sure. *Crystalline (arctic)* is, at its heart, a simulation of ice
 Whitney Hart: From the Feral File side, our role was really building the technical and curatorial scaffolding to let that generative, real-time quality actually live on-chain in a way that's faithful to John's practice. That meant a lot of close collaboration on how the piece is minted, how the data feed is sourced and verified, and how collectors actually experience an artwork that is not a static image or video but a continuously evolving simulation. We wanted the presentation to honor the slowness and the patience the work asks for, rather than forcing it into a format built for quick consumption.
 
 Trinity: That patience question feels important. We live in a moment of shrinking attention spans, feeds built for instant gratification. How do you think about asking an audience to sit with something that unfolds slowly?
+
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
 
 John Gerrard: I think about it constantly, honestly. I don't think the answer is to fight the attention economy head-on, I think it's to offer a genuine alternative to it, a kind of counter-rhythm. Public art has always taught me that people will slow down if the work gives them a real reason to, that family pulling off the highway to walk across the desert wasn't rushing. I think there's still a hunger for that kind of encounter, even now. *Crystalline* is built on that bet, that slowness itself can be the invitation, not an obstacle.
 
@@ -46,6 +52,8 @@ Trinity: That connects to something else I wanted to ask about, this idea of New
 
 John Gerrard: I do, in a strange way. Newgrange is a five-thousand-year-old structure in Ireland built with such precision that the sun only enters its inner chamber on the winter solstice. It's an extraordinary act of collective, long-term thinking, aligning a human-made structure with a cosmic cycle for millennia to come. I think blockchain has that same latent potential, a shared, distributed structure that isn't owned by any single power, that could in principle outlast the institutions and currencies we currently depend on.
 
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
+
 I've thought about it as a genuine alternative to oil-backed currency, a system that isn't tethered to the geopolitics of energy in the same way. There's something almost utopian in that, a globally uniting structure rather than a nationally fragmented one. Of course, right alongside that utopian reading, there's also a pirate history, a wild, ungoverned frontier quality to it, and I find that combination fascinating rather than troubling. Both things are true of blockchain at once, the cosmic and the piratical.
 
 Will: The dance between the unreal and the real feels like the thread running through everything you make.
@@ -58,6 +66,8 @@ Whitney Hart: Thank you so much for having us, this was a pleasure.
 
 John Gerrard: Thank you, Will, thank you, Trinity, it's been a real pleasure. That's pretty straightforward. Number one, the work that went to LACMA, which is called *Western Flag*, was and is the only video I've ever made in my whole life. It's a 30-second, perfectly looping extract from the middle of *Western Flag*, which is actually a piece of software—a 365-day simulation. It's an annual solo simulation which you acquire, and it unfolds over a year.
 
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
+
 Now, in 2021—March, I think—the whole Beeple bomb went off, and I was appalled in a lot of senses. I thought, this is digital art? This JPEG? And the whole conversation was about the transaction—the scale of it felt offensive to me. I wanted to ask, can we talk about digital art using another framework here? So "Grumpy John" released the NFT as a kind of protest. I tokenized a little video extract of this piece to say, guys, there are other histories here—let's remember them. Eventually that made its way to LACMA, which is a beautiful, fitting place for it.
 
 But funnily enough, that wasn't my first tokenized artwork. And that's actually quite interesting, because Casey Reas—who is amazing, founder of Feral File, but also very famous for founding Processing, the incredible tool that's taught artists to code for two decades—I'd met Casey at Ars Electronica when I was a young one. Casey reached out to me in '19 about a project called A2P, Artist to Peer, and asked if I'd submit a work. I submitted a small JPEG of a drip of gasoline on water. It was a swap project between a bunch of incredible artists—Kim Asendorf and others. If you Google Casey A2P, you'll find it. Those works were all tokenized on the Bitmark chain in '19.
@@ -66,7 +76,7 @@ That's a fascinating history—about two years before the boom, and probably sim
 
 Will: It's so interesting because a lot of your work—maybe all of it—seems to carry themes of environmentalism. You seem very conscious of the world as it's changing: oil, emissions. I think even *crystalline work* speaks to this in its own way. For the longest time Ethereum was proof of work, and all of your pieces have included a carbon offset—or, back when it was proof of work, they included donations to environmental causes.
 
-[pool: crystalline work | crystalline work — John Gerrard | ]
+[pool: crystalline work | crystalline work — John Gerrard | | 3]
 
 But what was that conversation like, deciding to start tokenizing? I imagine that's a big barrier for a lot of people, even setting aside the emissions issue—crypto has such a bad reputation across the world. What was that decision like for you?
 
@@ -76,6 +86,8 @@ I'd been very geographic. I showed work in museums, galleries, and biennales for
 
 But in terms of mental health—literally—the Beeple thing was so big in its implications for me that I went kind of wild. I released *Western Flag* as an NFT so quickly, at such a scale, that it was bad for me mentally. I took fright, stepped back, and took time off. There was a slightly weird little project in the middle that didn't really work out. But then the next thing was coming into Art Blocks and doing it in a much more orderly way, with a piece called *Petronational*. That's where *Crystalline* began.
 
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
+
 With that very first NFT, *Western Flag*, I quickly set up a kind of miniature ecological fund called regenerate.farm, which would take a percentage of the sale and put it toward regenerative farming, something I really believe in. In the end that particular work took a different path and was donated to the museum, so that didn't happen there. But Art Blocks did substantial work supporting an entity called Hometree, getting trees in the ground. By the time Art Blocks happened, I felt I could make 195 works because of the shift from proof of work to proof of stake. I can't work in the Bitcoin context, because they will not—and have not—made that shift.
 
 The last thing I'll say: if I had to nominate one subject that's run through my work consistently over twenty years, it would be power—in its full, complicated sense. Power as energy, what makes things move and change, but also power as in political power, violence to a degree. These threads run through the work, all centered on power. And working with technology, you're also dealing with power—remember, I work in a game engine that comes out of wargaming. So there are multiple relationships with different forms of power, and in a sense violence. It's a rich environment to operate in. I couldn't work any other way. I could not make a film, for instance—not really possible. So I'm stuck here forever.
@@ -84,7 +96,7 @@ Trinity: That's such a cool thing to think about. Speaking of power—introducin
 
 John Gerrard: And not only that—*World Flag*, my last Art Blocks project, emerged from attending multiple UN climate change conferences, and asks: if we continue to gather in this national framework, is that an effective way to tackle climate change? Where are we, really, right now, having this conversation? What do these forums do to geography? What can blockchain achieve? What can cryptocurrencies achieve in relation to climate change?
 
-[pool: World Flag | World Flag — John Gerrard | ]
+[pool: World Flag | World Flag — John Gerrard | | 3]
 
 I'm soft-launching an endeavor for next summer called *Art.farm*, which addresses exactly these questions. Whitney, I have to talk about *crystalline work*—I'm getting completely off subject here.
 
@@ -98,6 +110,8 @@ Will: Great question to ask. Before we jump into *Crystalline*, I want to throw 
 
 Whitney Hart: It's a great question. I hear two sides of the spectrum. The first is from artists and traditional art collectors trying to acquire tokenized work for the first time, wrestling with the hype, the scams, the rugs -- how do you assess which artists will endure for centuries versus which are less scrupulous? That's a huge challenge, and part of the problem is that so much of our communication in this space happens on Twitter/X, which is incredibly ephemeral. Trying to use it as any kind of archive is a fool's errand. The hype cycle that drove so much liquidity in 2021, around the Beeple moment John mentioned, has had a long-term negative effect on perceptions of value and pricing for this work. A lot of doubt and skepticism is wrapped up in that, and it takes a while to talk people through it.
 
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
+
 The flip side is that the technology itself is genuinely hard for artists to understand. Last summer I spent time in Athens and Hydra with traditional artists, one of whom is represented by Hauser & Wirth. We had a 30-minute conversation about his practice and potential explorations of blockchain. In the end, he told me the real fundamental problem was that he didn't understand the technology -- his practice probes very specific themes, usually through performance and the physical body. He said if he could find a good creative coder to help him bring his ideas together with this technology, he'd be happy to use blockchain as a medium and expand his practice. But without that partner and translator, the learning curve felt far too steep.
 
 So I do think tokenized work -- using blockchain as both medium and material -- has real potential for traditional artists, but there's a large reputational issue to overcome. Time heals all wounds; some of that will soften and come into context. But there's still this challenge around education and bringing artists together with coders. Rhizome's *7x7* has been working for decades to bring those two camps together, and more efforts like that would help enormously. John himself found an amazing group of programmers to support him this way, through his own work -- going back to do his MSc at Trinity College Dublin, then on to Ars Electronica in Linz, building a group that's helped him realize his creative visions over three decades.
@@ -110,6 +124,8 @@ Funny enough, tonight in New York the artist Kim Asendorf is launching a mint wi
 
 Trinity: You mentioned Pace Gallery earlier. If we're talking about the intersection of NFTs, galleries, digital art, generative art, and blockchain -- not necessarily a blockchain-centered future, but one that's inclusive of art on the blockchain -- what needs to happen in the conversation between artists and traditional galleries, and the new social experiences happening through word of mouth, Discord, Twitter, to enable that future? What have you seen so far?
 
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
+
 John Gerrard: That's going to be both a Whitney answer and a John answer. There was an interesting article in Artnews or the Art Newspaper this year from Basel -- about "the digital deluge" at the gates of Art Basel, and what they're going to do about it. It was about the Digital Art Mile, which is very early days -- a young entity founded by Jorrit Back, running a mile from the fair through Basel. What I'd say is: it's not representing contemporary conditions, it *is* contemporary conditions. Here are the kids working in AI, the kids working in code, the kids making contemporary art, and also historic computer art going back to the '50s -- histories you may not have been aware of. In a weird way, I'd turn it completely around: the fair better pay attention, because the future is banging on their door, and if they don't, they'll be in trouble soon.
 
 Trinity: What about you, Whitney? How do galleries and the art world need to shift to be inclusive of this?
@@ -120,6 +136,8 @@ Part of it is display -- how do we improve the actual screens and display techno
 
 John Gerrard: I'd also say we shouldn't focus too much on those environments. There are biennales, museums, doing different things too. If I want to be really radical about it: what is this thing? If we get away from the stream -- the Instagram, Facebook stream -- as the defining cultural form of the last decade... Let me open the Feral File app. I love that my work lives here -- it's like an album of digital art. All my works are in there, even the earlier ones. So I'm sitting with someone, and here's my collection. Say I pull up a world flag -- here's Brazil, running as a smoke flag on this app. What is the cultural impact of that moment? Am I holding a museum in my hand? A gallery in my hand? Honestly, I'd say yes. And that's going to ruffle a few feathers.
 
+[pool: World Flag | World Flag — John Gerrard | | 1]
+
 But genuinely, that's where I live, that's where I've gone. There were two reasons tokenization caused me to have a nervous breakdown in 2021. One: suddenly here were all these technology collectors everyone had been looking for -- they just hadn't had a way in. Two -- and Whitney and I have talked about this in relation to artists like Pak -- tokenization lets you think at global scale in a completely different way as an artist. It just lets you think at a different scale, full stop, for better or worse. The chaotic qualities Whitney pointed to are an illustration of the radical, revolutionary power of what that means. And now we have to talk about *Crystalline*.
 
 Will: I'm just about to segue us there. A lot of what you're describing applies to the *crystalline* work. For everyone listening, Casey did a great in-depth interview with you about this that went up last week. You noted there that this is probably your most generative project yet. This is a generative art podcast for the most part, and the origins of this project go back to a web-based snowflake algorithm -- your team resurrected and expanded it to create what you're calling archetypes. As the arm moves the crystals, it forms various masks, trees, and other shapes. Can you talk about the process of introducing randomness? There are going to be 8,700 of these.
@@ -127,6 +145,8 @@ Will: I'm just about to segue us there. A lot of what you're describing applies 
 Trinity: Wait -- can you give us an overview of the piece first?
 
 John Gerrard: Okay, Will, I will get to that. So Crystalline Work, first of all, is an experiment. That's a big deal for me, and it's an experiment that has been supported in a really radical way by Feral File, who have hosted a virtual robot that will run on their platform for twelve solar months, from the solstice of 2024 through to the solstice of 2025, when the performance will end. Each day, the work performs — makes — 24 artworks. That isn't 24 works per 24 hours, because some works are more complicated than others; some might take 20 minutes, others 3 hours.
+
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
 
 So what's going on: we have a sort of ambiguous platform sited on a virtual Arctic North Pole. On it is an industrial robot, which I call a prismatic robot, because its color is shifting every millisecond of the day across the visible prism. The first day of the year after the summer solstice it's red, and all the way round the other side it's blue — it travels across the prism in real time. My term for that is an unstable state. The prismatic robot is an unstable state, which in a sense intersects with *Western Flag*, which is also an unstable color state in its way.
 
@@ -140,6 +160,8 @@ John Gerrard: They came on their own; we identified them afterward. We had a cor
 
 Will: They're emergent — that's a key part of generative art, being surprised by what comes out once you introduce randomness, and it tends to compound on itself. Were there things you had to exclude, or happy accidents you kept?
 
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
+
 John Gerrard: One thing we had to exclude very carefully was swastikas. They kept coming up, because we have these beautiful mandalas, and the swastika is an ancient symbol — it goes back to Indian belief systems — and it emerges naturally from our logic. Not because it isn't beautiful, but we just can't have it here. The most surprising forms, I'd say, were these near-perfect wheels — like literal sun wheels — that would occasionally appear. The honeycombs were among the earliest forms, conceptually formative for me, and they led to a lot of what came after. And the masks were quite surprising too — a little like the gliders from Conway's Game of Life. You can see all these visual languages across the artworks, and I personally love them.
 
 Will: Whitney, what was it like on the Feral File side? How did you encounter this project, and were there big technical barriers to implementing it? You're talking about selling 8,760 pieces over a year — how did you wrap your organization around that? To me it seems like a no-brainer, but I don't have to make it.
@@ -147,6 +169,8 @@ Will: Whitney, what was it like on the Feral File side? How did you encounter th
 Whitney Hart: John and Casey had emailed about doing a project together, with John hosting a solo show on our platform — that conversation dates back to before my arrival. In mid-February I got a forward from Casey saying "let's discuss," with John's original email underneath containing the early ideas for the whole project. Casey and I talked and both wholeheartedly agreed we needed to find a way to make it work — not only because it was important for John's career, but for generative art and the discourse around it. We were also really enthusiastic about supporting Hometree and the ecological dimension of the exhibition. We thought it was beautiful.
 
 We had a conversation with John in mid-March, then again in late March, and roughly sixteen to eighteen weeks later we launched *Crystalline Work* on Feral File. It was an extremely fast turnaround and a completely custom exhibition for us — an entirely new layout, an entirely new interface. We had to figure out how to let the robot perform for an entire year while selling the NFTs continuously throughout that year. That meant a lot of technical changes on our platform side, working closely with John's producers to make sure the WebGL ran effectively across devices — mobile testing in particular became a huge focus — and we redesigned a lot of our page layouts and gallery views to accommodate it. It's been wonderful and hugely challenging, and it's really required the whole Feral File team. But it's been hugely rewarding — the work is beautiful, and it's an important contribution to long-form generative art. I can't wait to see what forms come out as we move into autumn.
+
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
 
 Trinity: Sounds well worth the effort, and it makes me hopeful we'll see more works of this scale on Feral File now that the infrastructure exists. I wanted to save this question for now, because I think it connects to the performance of *Crystalline* — not just the yearlong arc, but the robot building each structure over the course of an hour or so. In the blockchain and NFT world, most of the people who listen to this podcast are used to things happening in six-second or thirty-second blocks. Combined with TikTok and social media, we swipe through things so fast our attention span is scientifically shorter than a goldfish's. How do you reconcile a longer-form performance like this with an audience that might only sit with it for ten seconds? Or is that tension part of the work itself?
 
@@ -160,11 +184,11 @@ John Gerrard: Oh yeah.
 
 Will: That practice predates film — they'd make the image, enjoy it momentarily, then let it scatter. Now we can capture that whole process on film, document it. Here, you can imagine something similar: the robot just acts perpetually, but now we're able to witness these performances and capture them through tokens.
 
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
+
 John Gerrard: We have to talk about the date—the dating system, because that's very relevant, and so is the naming system. Whitney, help me here, because I always trip up on this. Okay, it's my work, I know I should know this, and I do. So: *crystalline work (Arctic)*. The first number you see is the work number—each day you have one through twenty-four. The second number is the ray number, one through twelve: 1 is June, 3 is July, 5 is August. It goes down the odds and comes up the evens, in case you were trying to map it. Then you have the day number of the year, one through 365. And the final number is the year number—and this is the important one for me.
 
 This isn't me becoming a weirdo, but all my works to date have been dated in Christian time—*Western Flag* 2017, *Flare* 2022, whatever it may be. With this piece—this radical performance, blockchain, prismatic piece—I decided I wanted my own calendar.
-
-[pool: Western Flag | Western Flag — John Gerrard | ]
 
 Trinity: Okay.
 
@@ -173,6 +197,8 @@ John Gerrard: My own private, personal John calendar. It begins for me with year
 Will: I'm thirty-nine, so only ten years younger than you. But yes, I remember the AOL discs and getting online when I was—
 
 John Gerrard: Trinity, you've been in the whole time.
+
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
 
 Trinity: I'm only two years younger than Will. I also hoarded AOL discs.
 
@@ -184,7 +210,7 @@ Trinity: It's also how we save the planet—transforming our own bodies into lig
 
 John Gerrard: Yeah, maybe. It's funny, because in these liminal moments I get these slightly weird thoughts. One of them was that this generation of kids who've come up on the data-light network is prismatic. And prismatic, fundamentally, means borderless. Look at a world flag—hard borders. The British flag is the Union Jack, blue and red and white and all these borders. The American flag is stripes and stars. But a prism is just flow, just transition. It's beautiful, it's just color—this beautiful prismatic thing.
 
-[pool: World Flag | World Flag — John Gerrard | ]
+[pool: World Flag | World Flag — John Gerrard | | 1]
 
 So in a funny way, the robot in this piece is almost a freedom flag, a hippie flag, always unstable, always drifting. I wanted to position it, in my own personal universe, as a line where I say: I'm not going to work in Christian time anymore—this patriarchal time, which I link to toxic material cultures of oil and plastics. My next big project is called *Spirits*, and it's about plastics—I'm deeply, viscerally troubled by plastics right now, and I'm dedicating my energies to fighting it going forward. But anyway. This crystalline work is definitely a new calendar for me, personally.
 
@@ -198,6 +224,8 @@ Whitney Hart: There's this interesting thing John is doing—manipulating time w
 
 John Gerrard: And let's not forget—it's a mystery, but the people buried in Newgrange, the bones found there, were Anatolian. They weren't even Irish, whatever Irish means—they came from 3,000 miles away. Ireland existed within a set of solar networks stretching across Europe, and people came to these important Neolithic and Paleolithic solar sites for reasons unknown.
 
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
+
 Blockchain is a new type of network. The world is doing so badly on climate change—fiat currencies, oil-backed currencies, are doing so badly—that maybe we have to look at alternatives. What that means on the ground is another question, but I think the idea of blockchain as a network with real potential is huge. It's almost the opposite of the media narrative—almost the mirror image of it, this idea that it's purely a destructive force used by things like pirates. Pirates are fascinating—always ambiguous. The fact that pirates are literally kidnapping oil tankers and demanding ransom in cryptocurrencies, I find fascinating. And let's not forget, we romanticize pirates all the time now—we just don't romanticize contemporary pirates, but they're much more interesting.
 
 Will: We're getting close to time. Normally we do rapid fires, but we haven't even gotten through half our list. I wanted to ask—this performance is set virtually in the Arctic, the North Pole. Where else might *crystalline work* be performed? Do you imagine ever staging it somewhere else?
@@ -209,6 +237,8 @@ Whitney Hart: Wow.
 John Gerrard: But nobody's committed to that yet. We need a little more community engagement first. I'll tell you that for free.
 
 Will: You could put it on Tezos, really go for the polar thing. Trinity, any other questions before we wrap up?
+
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
 
 Trinity: We can keep talking about crystals—ice crystals, snow crystals. But looking at it before I'd read anything about it, you can also think about salt flats, salt crystals, the geological formation of the Earth in terms of quartz crystals emerging out of magma. Is there a reason, other than climate change, that ice and snow are so central to the project?
 
@@ -222,6 +252,8 @@ Whitney Hart: You asked earlier how the project came to be on Feral File. Lookin
 
 John Gerrard: And also taking ownership of their own cultural spaces. I think that's very important too, but that's almost an entire new podcast.
 
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
+
 Will: We could do three or four podcasts. There's so much I feel like I want to get into now talking to you more, John. Honestly, it would probably become more of a politics podcast than an art podcast — a politics and action podcast.
 
 John Gerrard: Will, there is no difference. Never has been, never will be.
@@ -233,6 +265,8 @@ John Gerrard: Always.
 Will: We could go with both of you easily for another 90 minutes, but unfortunately we have to wrap it up here. Thank you both, John, Whitney. It was great to have you on.
 
 John Gerrard: Thank you guys. Come to Art Farm next year. We're going to have a dance.
+
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
 
 Will: You let us know the details.
 
@@ -246,6 +280,8 @@ Trinity: His work is amazing. We've collected so much on Tezos specifically.
 
 John Gerrard: So did I — I got one of the *Monogrids*. When you say we, Trinity, what do you mean?
 
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
+
 Will: Us individually.
 
 Trinity: There's the two of us.
@@ -257,6 +293,8 @@ Trinity: No, just a podcasting couple. Longtime friends.
 John Gerrard: You collect simultaneously.
 
 Will: In parallel, but often synchronized — we tend to have similar tastes about things.
+
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
 
 John Gerrard: Okay. Trinity, when you said us, I thought you meant it in a kind of structure, like a DAO.
 
@@ -270,6 +308,6 @@ John Gerrard: I'd love to do that.
 
 Will: All right. That was John Gerrard and Whitney Hart from Feral File. Go check out *Crystalline Work* — it's minting now. Thanks to both of you. We'll be back again soon with another episode. Bye everyone.
 
-[pool: crystalline work | crystalline work — John Gerrard | ]
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
 
 Trinity: Bye.

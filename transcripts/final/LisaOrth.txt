@@ -190,7 +190,7 @@ The sketchbook thing I want to keep as low editions — maybe continuing Dutch a
 
 Will: For someone who may hold an edition of *Physical Culture 1*, the first project you put out on the sketchbook — you mentioned some TBD utility for the first 10 minters. Suppose one of the hosts has one of those, without any promises, of course — are there any ideas floating around for what that utility might be?
 
-[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | ]
+[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | | 3]
 
 Lisa Orth: For sure. Something that'll probably happen is that for future releases, you'll automatically get airdropped one that matches your number from the first 10. I want people who got in on that Dutch auction when it was high to feel like they got something special, and that they'll continue to get something special — because that told me, "I'm in this." So: airdrops of future releases, special projects even outside of fx(hash) that you automatically get. I was thinking about making physical prints and sending them to people. I just want to reward the people who are basically saying, "I love your work and I believe in you." I'm not promising anybody anything, but I want to give things to the people who took that stance.
 
@@ -204,6 +204,8 @@ Trinity: It's all about how we bring our real-world ethics and values into these
 
 You just seem to be on the cutting edge of "what can we do, let's try it." Even the way you used the allowlist for the Burroughs quote — very matter-of-fact: this is what we're doing, this is how we're doing it, it's going to be fair, do not ask me for reserve lists on Twitter.
 
+[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | | 1]
+
 Lisa Orth: What you're saying makes a lot of sense to me. In my life, I've always done art. I had one job as a waitress for two weeks that was disastrous, but otherwise I've never done anything except art and graphic design, and in most cases I've run my own businesses. I'm also an overthinker of everything, and something that's been really important to me across all the different careers I've had is finding a way to treat the people I'm working with really well — doing things the way I'd want them done to me. There's rarely a time in my life where I'm going to do something I consider important without having tried to find the best way to do it, or a way that makes sense to me, or a way that gets a better outcome for the people I'm working with. It's a wild world out there in terms of what you can and can't do. There are no rules I can find about how you have to run your drops or allowlists. I just want to do stuff that would seem fair to me, or that I'd want done to me. That's how I try to approach everything.
 
 Trinity: Do you think more artists should be doing this? Or is it more important for you to do it for yourself?
@@ -215,6 +217,8 @@ Trinity: I think that latter piece is the logical business owner in you coming o
 Will: We talk about this so much on the show. It seems like a lot of artists announce first and think about what they announced second. That open-allowlist example — we've seen it so many times, an artist says, "Send me your wallet address," and ten minutes later they're like, whoa, way more people replied than I planned to have editions for. Now people who replied in good faith probably aren't getting a spot. It just takes an extra level of consideration — if I do this, what are the possible outcomes? It's funny, because when you're making code-based art, you'd think you'd already have a brain wired for "if this, then that" thinking. But we see it backfire spectacularly on a weekly basis in this space.
 
 Trinity: They only got to the "if this" part — they haven't figured out the "then that."
+
+[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | | 1]
 
 Lisa Orth: Any decision I make artistically, or share in public, I've thought through — I've done the whole "what are the five chess moves that come after this?" Even something as simple as "sign up on a Google Form" — I already know I'll have to export those responses, put them into an email program, and so on. I've thought about how much extra work that's going to be. I think people get so excited about an idea that they just put it out there, and then think, oh shit, now I have to deal with the repercussions.
 
@@ -228,6 +232,8 @@ Lisa Orth: Oh my God, yes — this is absolutely the tattoo artist speaking. It'
 
 Will: This is such a pseudo-philosophical "guys talking podcast" question, but I think it really applies to you: what's the secret to success? Throughout your many careers — and not even just careers, but hobbies, community building, everything you've been part of — you always seem to find success, or end up being a cornerstone of it. Watching the documentary, I kept wondering: have you failed at things? Did that just end up on the cutting room floor? It feels like you're just good at doing things authentically and succeeding. Can you distill that at all? I know it's a tough question.
 
+[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | | 1]
+
 Lisa Orth: There are things I'm really bad at — I can't cut hair, I can't work in clay, I'm a terrible beader. But I think what brings me success is that I don't try to do things I'm not really, really passionate about, and I say no to things I have no interest in. The people closest to me — my girlfriend, my sister — would be the first to admit I'm a very selfish person. But I'm selfish in the sense that I know what will make me happy and what won't, and I don't invest my time and energy into things I don't love. Being passionate about what you're about to undertake is extremely important.
 
 I also think not being afraid to try something new is key — my personality loves that. When you learn something new, you have to look at what's been done before to figure out how to do what you want to do. But once you've reached that point, it's very important to find your own authentic voice. It's fine to look at people doing great work and try to copy it to learn how — but once you know how, stop doing what everyone else is doing. If you're not contributing something authentic, there's no way you can give back anything of value with your art. That's so important for every artist to keep in mind: be yourself, even if you think no one else will like who you are or what you put out there. What you put out is your reputation — how you act, how thoughtful you are about what you share — and ultimately you have to feel good about what you've done and what you've brought into the world. That's what I'd share about that.
@@ -239,6 +245,8 @@ Lisa Orth: I feel like I'm an innately self-sufficient person — a self-centere
 With this journey into NFTs and generative art, I had so much learning to do starting out, and I knew it, and I was eager to do everything all at once. Now, for the first time in this journey — short as it's been, only a couple years — I've started saying no to things I'd otherwise consider important, once I realize I don't actually get excited thinking about them. That's a big step for me: this project might be really cool, it might be great, but right now I want to take time and only do things for me — things where I don't have to meet anyone else's deadline or expectation. Maybe it's because I'm older, and the older I get, the more I realize how valuable my time is. Artistically, I have to focus on bringing joy into the creation and having less stress about meeting others' expectations. That's really hard to balance in the whole crypto/NFT world — it's such a struggle — but putting what makes you happy first is a good way to start finding that balance.
 
 Trinity: My follow-up is that you need to write a book — or a Twitter thread — on "how to quit your desk job in three easy steps."
+
+[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | | 1]
 
 Lisa Orth: I can tell you how to do that. If you want to make any change at all, take the situation you're thinking about leaving — a job, a relationship, a place you're living, doesn't matter — sit for a moment and imagine doing that very same thing for the rest of your life. Imagine just staying with it forever. If that thought fills you with depression and desperation, that's all the motivation you need. Just imagine your life doing the same thing over and over again. That's how I've made a lot of career changes — by following the path that makes me most excited.
 
@@ -252,6 +260,8 @@ Lisa Orth: I'm really excited about those t-shirts. Generative art looks so cool
 
 I've also been working on some larger pen-and-ink pieces on really nice handmade paper, generative work from algorithms I've made up for myself while sketching. If I ever stop putting out work in a variety of mediums, something's happened to me. So expect a lot more from my main account on OBJKT. I do have an email list if anyone wants advance notice on drops — it's at lisaorth.xyz/email. If anyone cares to know what I'm up to in advance, I'll give them the information.
 
+[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | | 1]
+
 Trinity: One last follow-up question I've been meaning to ask: is there an intersection between plotter art and plotting on skin for tattoos?
 
 Lisa Orth: I got so excited about that handmade generative work — the bigger pen-and-ink pieces, the t-shirts — that my sister, who's always up for getting tattooed whenever I have an idea, agreed to get the first generative tattoo. We're building a grid where we'll figure out the number of lines, the number of grids, and the size generatively, using a little random-number generator I put together on my phone. I'll be doing the actual tattooing, but we'll hit the random number generator each time to determine the design. She's making me wait a week because she wants to go swimming first, but it's happening soon.
@@ -264,6 +274,8 @@ Trinity: A generative tattoo.
 
 Will: Especially a generative one — that would be wild.
 
+[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | | 1]
+
 Lisa Orth: New York is one of the places I've done guest spots before, so that's definitely not out of the question.
 
 Will: Well, you've got our DMs.
@@ -275,5 +287,7 @@ Will: Thank you so much, Lisa. This has been a dream of ours since the earliest 
 Lisa Orth: It definitely has. It feels very special to have been asked — that's really nice. I've had a lovely time chatting with the both of you. Thank you so much.
 
 Will: That was Lisa Orth. Check her out on fx(hash), and check all the links in the show notes to find her documentary, her website, and where to get her merch and see all her drops. That's it for this one. Later everyone. Bye.
+
+[pool: Physical Culture 1 | Physical Culture 1 — Lisa Orth | | 1]
 
 Lisa Orth: Woo-hoo!

@@ -40,7 +40,7 @@ KenConsumer: I'd heard about NFTs quite a while back. I've been in the crypto sp
 
 Then I started thinking about how NFTs would reshape the concept of ownership for anything — your car, your house, whatever — and that really fascinated me. I got interested in how this was going to change everything. Then I started learning about how smart contracts work, and got interested in how this could reshape royalties for artists, because the secondary market for artists is terrible as it stands. An artist sells on the primary market for, say, $1,000, and then the buyer puts it up at auction for $20,000 — the seller gets the $20,000 and the artist gets nothing. The idea of royalties on art is pretty novel. It's always existed in some form in the music industry, even if imperfectly, but at least it's there. Now, for visual artists, this is a whole new way of building generational wealth and maintaining it across generations. That fascinated me.
 
-[pool: Onda | Onda — Rudxane | ]
+[pool: Onda | Onda — Rudxane | | 3]
 
 While I was viewing all this peripherally, one of the collectors who's also a bar customer started talking to me about NFTs — he'd heard about them somehow and asked what I knew. I told him very little, but that I thought it was going somewhere. He asked, "If I wanted to buy an NFT, how would I do that?" I had no idea — I hadn't actually gone down that path yet. So I said I'd look into it, and I found OpenSea, started poking around, and thought: okay, I don't want any of this junk. There's very little of it that... it's really difficult to maneuver OpenSea. It wasn't really well organized. It's still not very well organized. But back then, when I first found out about this a year and a half or two years ago, it was a mess. Just a whole bunch of stuff everywhere. Then they started slowly organizing things by collection, and you could start finding stuff.
 
@@ -52,7 +52,7 @@ As a person who also makes art, I had friends in the street art world telling me
 
 Over time I got more interested in other parts of how Tezos works. Then HEN went down, and I was on crypto Twitter and saw Wblut had posted a GIF of this chromatic dazzle thing. I thought, man, that's really awesome — what is this fx(hash)? Oh, it's on Tez, I have some Tez, I'll go buy a few. So I minted a few. Then I saw ToyMento was on there, and Gruub. I recognized some of these names because I'm also involved in generative art over on ETH, and some of those people had dropped there too. So I thought, this is cool, I'll mint some of this and some of that. And I kept thinking: on ETH I just spent like $1,000 to get a work from one of these guys, and here I'm spending like $5 for work from the same artist.
 
-[pool: Chromatic Dazzle | Chromatic Dazzle — Frederik Vanhoutte | ]
+[pool: Chromatic Dazzle | Chromatic Dazzle — Frederik Vanhoutte | | 3]
 
 Trinity: That's something that's really interesting to me — that difference between prices on ETH and Tezos. From an artist's perspective, where you know you can command a certain price over there, what do you think are some of the drivers that push people to put work on fx(hash) instead? Obviously there's the whole clean-NFT movement, and I understand the move away from ETH for that reason, but the deals you can get here are just astounding.
 
@@ -66,13 +66,15 @@ Will: Ivona Tau — her stuff has sold at auction for like $30,000, and she's ch
 
 KenConsumer: I have no idea either. In gen art, they let the artist decide how much to charge. If an artist wants to drop a thousand pieces at 0.1 ETH, they're getting 100 ETH out of that — minus platform fees, of course. I honestly don't know how that dynamic comes about. But I find it harder and harder to justify minting or buying on ETH, because it's such an expensive proposition to keep running.
 
+[pool: Chromatic Dazzle | Chromatic Dazzle — Frederik Vanhoutte | | 1]
+
 Now, do I believe ETH is an incredibly safe, very good chain? Absolutely — the security of Ethereum is unrivaled. But is it where art should be getting minted? No, not at all. It's crazy that we have to pay so much to mint art there. For underground artists who are just starting out, it's prohibitive and doesn't make a lot of sense.
 
 There are a few artists minting on fx(hash) who charge a fraction of what they'd charge on ETH, and people still say, "That's so expensive, that's crazy." Well, maybe — but the reality is it might be a really good piece and worth that. If you think about the artist's time, the effort, the years behind it, you can't really price that in. Pricing art is already a difficult proposition, and when people think about it in investment terms — because it is a token — it gets even harder, because they're thinking, "If I spend 5, I'm hoping to make 20 off of it." Fine, sometimes that's the right lens. But other times it just doesn't work out that way.
 
 For example, I'm a big fan of an artist on Tezos whose work I think is fantastic and really interesting — but it's never going to appreciate. Reselling it is probably never going to be a realistic option. And I'm okay with that. I'm not buying it with resale in mind; I'm buying it because I find it interesting. When I throw it up on my TV, it just runs and looks really cool. A lot of the work I own, I do that with. *Defrag* is fantastic — *Defrag V2* is amazing on the TV. It just keeps running and running, and every time you look over you think, that's really awesome.
 
-[pool: Defrag | Defrag — toxi | ]
+[pool: Defrag | Defrag — toxi | | 3]
 
 Trinity: This morning I had my Kim Asendorf transactions just running on my screen. So chill — I can eat breakfast to this.
 
@@ -81,6 +83,8 @@ KenConsumer: I don't own one of those, so I keep forgetting about it. I should b
 Trinity: There are a few at mint price right now on the market. I was just checking this morning.
 
 Will: You can get your pick of backgrounds and everything. Ken, following up on the sentiment you were expressing — you've had some posts in the Discord about pricing and the way people collect. Given your background as an artist, someone who's worked with high-net-worth individuals helping them acquire art, and someone currently running and curating a gallery, what's your view on the FOMO behavior in this space — the frustration with bubbles and secondary market pricing? What do you think the community is doing right, and what's it doing wrong?
+
+[pool: Onda | Onda — Rudxane | | 1]
 
 KenConsumer: Everybody's doing right by themselves, in their own view. There's no right or wrong, as I see it. If you like what you're buying, cool. If you're comfortable with it going to zero, buy it. But if you're buying purely to flip it — and I'm not 100% against that, I'm guilty of it myself — I recognize there are things that are good, that other people will like, that I personally don't care whether they're in my collection or not. I've bought some things with the express intent of turning them around, because I know someone else will value them more than I do. Building a secondary market also supports the artist — it helps build their royalty structure on the back end. So from my perspective, that's okay.
 
@@ -94,6 +98,8 @@ Trinity: I think, as consumers, we're still so new to this, relatively speaking.
 
 KenConsumer: Sure. I've spent more money on things than I'd like to admit, and then I think about it later and I'm like, why the hell did I do that? It was ridiculous—I just spent 20 Tezos on something I don't even want. If I like something, it ends up in my vault. The stuff that stays on my main wallet, if it's still there a week later and I still don't want to move it to the vault, I'm going to put it up for sale at some point.
 
+[pool: Onda | Onda — Rudxane | | 1]
+
 Trinity: I like the mentality you have around this. Our last special episode was about the philosophy of flipping, especially when you come at it from the lens of: there's some stuff I'm going to get, I don't care if it goes to zero, because I love it on my TV. But buying something speculative and being able to sell it for a multiplier of what you paid just enables you to get more of the stuff you actually love. It kind of enables the spread of wealth, so to speak, rather than everything being concentrated into the blue chips. That's something I might start considering a bit more.
 
 KenConsumer: What do you mean, considering?
@@ -104,7 +110,7 @@ Will: I was looking into digital frames toward the end of last year, and there a
 
 KenConsumer: The other day we were figuring out what would actually run on the smart TV's GPU—some things just don't work, but some things do. We had people over recently and I put up Leander Herzog's *Returns*. It slowly, subtly shifts from orange to pink to blue, each part moving and changing, and I threw that up on the TV because it isn't GPU-intensive—my TV can handle it. But if I try to run *Defrag* without it connected to my laptop, it doesn't like that at all—it slows down. Some pieces won't even show unless the laptop's hooked up. Like that flockaroo piece, the oceans one—it can't even process that. I tried pulling it up and thought, this is so cool, then threw it on the TV and it was just black. Nothing.
 
-[pool: Defrag | Defrag — toxi | ]
+[pool: Returns | Returns — Leander Herzog | | 3]
 
 We also discovered the soundboard—was that a first?
 
@@ -118,6 +124,8 @@ KenConsumer: That's part of the nature of having an NFT. We buy this receipt—w
 
 This is why a lot of the blue-chip stuff ends up on Ethereum—the chances of Ethereum not succeeding are pretty low, and I think that's why people make bigger bets there than on other chains. Not that I believe Ethereum is the be-all end-all or that it's where we should only be making art, but it is where we should be storing some of this stuff, because it's not going anywhere. Budweiser and these other huge companies are making massive bets on Ethereum too—they believe it's the future as well. As for what happens to the information stored on IPFS, or even on a personal server—that's tough. I don't know, man. I really don't.
 
+[pool: Returns | Returns — Leander Herzog | | 1]
+
 Will: It's a question for a few years from now, maybe.
 
 KenConsumer: Right now it all seems safe. But who knows?
@@ -130,7 +138,7 @@ There's another guy who's also an NFT skeptic, but he always comes at it from th
 
 I like having NFTs. I like the idea of the generative concept, and the singularity of these pieces is what makes it super interesting. One of my favorite projects on fx(hash) is *Glass*. I think it's such a cool example of what generative art can do. If it's a really clean piece, it's a cube, and the cubes are a color. But once you get multiples of the cubes, you get colors bleeding out in different directions, stuff going here and there, and sometimes the colors overlap. That's a really fascinating thing that would be nearly impossible to do by hand — getting all those variations manually just isn't feasible. So the idea that generative art can give you all these different variations, that you can look at a hundred different iterations of the same thing, is pretty fascinating. And the one you end up with ultimately is pretty cool. Maybe you like it, maybe you don't, but it's a pretty neat technological advancement that we get to have that option.
 
-[pool: Glass | Glass — punevyr | ]
+[pool: Glass | Glass — punevyr | | 3]
 
 Trinity: I think that's the fine line between the generative art we see on fx(hash) or Art Blocks and the NFT piece. You can have the generative art side without the NFT piece — it's this perfect marriage of two different core types of technology that really enable each other to thrive in new ways.
 
@@ -138,11 +146,11 @@ When you were talking about the particleization of NFTs, having this one little 
 
 Kind of hand in hand with that: we're talking about the monetization of NFTs, and how artists can use this as a way to generate profit. As somebody who's been on the marketing side of things, do you have any thoughts on royalties on royalties on royalties? For example, using *Glass* again — if you use this particular form of *Glass* and then it's put on a soup can, we'll do the reverse Andy Warhol. How do you see that as a way of potentially benefiting artists as well?
 
+[pool: Glass | Glass — punevyr | | 1]
+
 KenConsumer: Tough question, good one. I think as long as the smart contract is written so that anytime it's used, some piece of that goes back to the artist, and you honor that smart contract — that's the important part. There are obviously sites out there where you can trade without honoring the smart contract, and I think that's problematic. I like that fx(hash) forces this.
 
 Now, we could still do an over-the-counter deal. If you wanted to offer me your piece of *Glass* and I wanted it in my collection, I could just send you the Tez and you could send me the piece, and the artist gets cut out. That would be a little immoral and not very cool, but it can be done. That involves a layer of trust, though. You hope that any platform built for trading NFTs has protections built in — that anytime an artist mints through their own contract, they've written all that in, and anytime these pieces get traded around, that's being honored. That's why we do this through a platform and not just some other way.
-
-[pool: Glass | Glass — punevyr | ]
 
 Trinity: I think that's one of the things we're seeing with these NFT-based platforms. I'm assuming, based on your history, the traditional art world moves at a glacial pace — you have to have a large number of conversations just to get to "yes, we want to spend millions on this Warhol" alongside these other local Cleveland artists, figuring out all those contracts, which is obviously much easier and faster digitally. As these marketplaces erupt, it's so easy — I can make twenty-five transactions in an hour, partly because that's the speed at which the network runs, and partly because it's so frictionless. There's still that middle ground where, if you're having trust-based transactions, even over the blockchain, it brings things back down to that middle area of speed — where it's not just a seamless transaction, it's a conversation.
 
@@ -151,6 +159,8 @@ KenConsumer: And people can buy — that's the thing. This allows regular people
 Will: You're recording from a gallery right now, aren't you?
 
 KenConsumer: No, I'm in my house. I'm not talking about me — I mean a lot of art galleries. When you go to Chelsea in New York, they're immediately sizing you up. When you walk through that door, they're looking at you and thinking, "I'm not selling to them." If you ask for a price list, most of the time they'll just say no, because they're not going to sell you art.
+
+[pool: Glass | Glass — punevyr | | 1]
 
 The way that system works is very different from any other system. They want to know you're going to help that artist throughout the remainder of their career. They don't want you to buy a piece and put it in your house — they want you to buy it, have it in your collection, and then eventually gift it, and continue buying art from that artist, so you're continually building and gifting their work.
 
@@ -164,6 +174,8 @@ KenConsumer: It is absolutely a whitelist. The whitelist is a whole other realm.
 
 Will: It's so wild to hear about. I have friends who are artists, not on the Basquiat level, and just hearing their frustrations about their inability to even break in — let alone be given the opportunity to strive for that level of collectible fervor and acclaim as an artist. That's why you see a lot of young artists finding cheap places deep in Brooklyn, or whatever the Brooklyn equivalent is in your city, and starting their own venues to display work, because they find themselves completely at odds with the system that's considered legitimate.
 
+[pool: Glass | Glass — punevyr | | 1]
+
 KenConsumer: The system doesn't want you. It's not letting go, man.
 
 Will: I'm always the time police here — we're at forty-five minutes almost. I want to be respectful of everyone's time, especially yours, Ken, so let's try to keep this at an hour. If everyone's cool, I'd love to shift to hearing more about the collections or artists you like. I know you leaked a bit of your top-5 list from 2022 so far this morning — I'd love to get more into Ken as a collector and Ken as an fx(hash) community member. Who do you like? What do you look for when you're collecting a piece — not just to flip, which we've all done, but for that "whoa, this appeals to me and my personal taste" feeling? Can you give us a little insight?
@@ -176,9 +188,9 @@ KenConsumer: The work Landlines does is fantastic. And anything Rudxane makes, I
 
 I often buy things because the artist made it. Other times I buy it because I like it. I like to make a distinction between good and liked — just because I think something is good doesn't mean I like it, and just because I like something doesn't mean it's good. I think there's definitely a distinction there. I know Justin Timberlake is good. I don't like it, and that's kind of a way for me to put those in their place. I only use him as an example because I actually do like Justin Timberlake—but that's a whole other conversation. You get the point.
 
-From this year, from 2022, I've found that *Palimpsest* is fantastic. I had a piece from *Unruly Unroll*, their very first drop, called *Trails*, and I really liked that. So I kept paying attention to what they were dropping over time, but I hadn't bought anything else from them. Then when I was asleep, they dropped *Palimpsest*, and man, I was super bummed. I woke up and the price was like $50. I was low on Tez and thought, dang, I can't afford this. But the price came back down, I got some Tez, and I ended up getting one—not at the floor, though. My wife and I went through and looked at a bunch. She helps me curate our collection and what goes into the vault—if she doesn't like something, generally it doesn't go in, though there are a few things I like that she doesn't and vice versa. When we saw *Polymythia*, we looked at them and thought, this is great. We chose one we really liked and vaulted it.
+[pool: Glass | Glass — punevyr | | 1]
 
-[pool: Palimpsest | Palimpsest — Unruly Unroll | ]
+From this year, from 2022, I've found that *Palimpsest* is fantastic. I had a piece from *Unruly Unroll*, their very first drop, called *Trails*, and I really liked that. So I kept paying attention to what they were dropping over time, but I hadn't bought anything else from them. Then when I was asleep, they dropped *Palimpsest*, and man, I was super bummed. I woke up and the price was like $50. I was low on Tez and thought, dang, I can't afford this. But the price came back down, I got some Tez, and I ended up getting one—not at the floor, though. My wife and I went through and looked at a bunch. She helps me curate our collection and what goes into the vault—if she doesn't like something, generally it doesn't go in, though there are a few things I like that she doesn't and vice versa. When we saw *Polymythia*, we looked at them and thought, this is great. We chose one we really liked and vaulted it.
 
 This year's actually been pretty good so far, interestingly.
 
@@ -186,9 +198,9 @@ It's slowed down—there's a lot more art, so it's a little more difficult to pi
 
 But from 2022: I like *Palimpsest* a lot. I like *Clue*—I think it's great. I really like *Abstractment*; I think that artist is making excellent work. I know they built out a nice website and world around it. What they're doing with dropping to a specific number of holders is cool—they wrote on Twitter about what they're doing and how. I don't think more artists necessarily need to do that, but it's a great way to encourage holding, and it encourages people to keep paying attention to what they're up to.
 
-Back in the beginning of 2022, I liked *Charcoal Brutalism*—that was really nice. *String Art Generator*, from Daniel Julia, is pretty good too. *Stitched Trauma* is great because it's wild and chaotic, and I like it so much. I like *Stitch*, but I like *Stitched Trauma* even more, for various reasons. I liked *Ammonites* this year. *First Ignition* was quite good. Rudxane's *Disrupt* was good.
+[pool: Palimpsest | Palimpsest — Unruly Unroll | | 3]
 
-[pool: Disrupt | Disrupt — Rudxane | ]
+Back in the beginning of 2022, I liked *Charcoal Brutalism*—that was really nice. *String Art Generator*, from Daniel Julia, is pretty good too. *Stitched Trauma* is great because it's wild and chaotic, and I like it so much. I like *Stitch*, but I like *Stitched Trauma* even more, for various reasons. I liked *Ammonites* this year. *First Ignition* was quite good. Rudxane's *Disrupt* was good.
 
 Will: So, *First Ignition*—I'm not trying to criticize the piece. I'm more curious as someone new to collecting art. I went to liberal arts school, I have artist friends, but I've never been an artist myself. When I looked at that piece, I had a hard time understanding what was going on with the number of editions and what the goal was of doing that many. This might sound derogatory, but it feels very palette-swappy to me. Some generative art that tends not to do well gets distilled down to that—oh, this is just these triangles in a certain pattern, but they're palette swapped. I'm curious, since you called that one out as a favorite, and the artist is quite well known even prior to fx(hash)—can you dig into what stands out about that piece for you?
 
@@ -199,6 +211,8 @@ You're right about it being palette-swappy. I had two, and I chose to sell one�
 I don't know—I like it. I think it's interesting because it has that jazz to it, that movement around it, and that was really the only reason I bought it in the first place. I didn't know Okaz necessarily before that—I'd seen some of the work pop up on Twitter and thought, that's cool. Then when I looked up who the artist was, I thought, that's neat, I'm going to get one of those. I ended up minting two.
 
 Trinity: I think that's interesting too, because a lot of it isn't just about the art—it's about the artist. Somebody said today that what you're buying is the artist—you're buying a share of their body of work. With Okaz, I did the FOMO thing and bought at what ended up being the peak so far. This is clearly someone with, as Will said, some prominence—you both like the piece, think it's good, it has that jazziness. But there are some things that just don't take off the way you might expect. I'm really trying to understand that. You've been in this industry a while—have you noticed anything that causes one piece to take off versus another?
+
+[pool: Disrupt | Disrupt — Rudxane | | 1]
 
 KenConsumer: No idea. I'm clueless—I'm no good at the investment part of it. I'm not going to throw shade at anything, but there are things people really dig that I just don't get, and things I really dig that people don't get. Whether they translate into money, I don't know how that works.
 
@@ -212,6 +226,8 @@ Trinity: Very much an accumulation mindset, a value-driven mindset. I'm interest
 
 KenConsumer: It's not going to matter. Pretty soon it won't matter what chain something's on—you're not going to care if you're buying it with Ether or Tez or Solana or whatever. You're just going to open up whatever app is selling it and buy it from that app.
 
+[pool: Disrupt | Disrupt — Rudxane | | 1]
+
 Trinity: I'm thinking about it from the people perspective—like my mom. She listens to our podcast, and we were talking about it, and once I said "blockchain," she said, "I don't know what that is," and the conversation ended there. There's a whole world of people who might find this interesting, but they're not participating because the barrier to entry is perceived to be high.
 
 KenConsumer: The barrier to entry is high. Think about what you've had to learn just to get to fx(hash). There's so much terminology to absorb. My wife, who's pretty savvy about this stuff, still can't listen to podcasts or anything else around me because there's just too much jargon — words and concepts that don't make any sense to her.
@@ -222,7 +238,7 @@ Then there's a second barrier: figuring out what you actually want to collect. A
 
 That's exactly what comes up when collectors ask me for help. They'll say, "I don't want to buy ETH, but I want that *Fidenza*." And I have to tell them, well, you need ETH to get that *Fidenza* — and that might mean 100 ETH, which is a lot of money. There's a whole process to get from not wanting to touch crypto to actually owning the piece.
 
-[pool: Fidenza | Fidenza — Tyler Hobbs | ]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 3]
 
 So no, I don't think we're anywhere near mass adoption. I think we're quite a ways off — though maybe closer than some people assume, because millennials are already internet-native. People of my generation didn't grow up that way. I didn't get the internet until I was 21 — my brain had already formed by then. There's a real difference there. And I'm not even that old — I might look old, but I'm not.
 
@@ -232,13 +248,15 @@ Will: Timecop checking in — we're at an hour. I think this is a good place to 
 
 KenConsumer: Mark Knol is incredible. Everything Rudxane does is great. I personally love *Onda* — it just resonates with me for whatever reason. *Confini*, by Twisty, was fantastic.
 
+[pool: Onda | Onda — Rudxane | | 1]
+
 Will: Twisty.
 
 KenConsumer: Everything Bigola makes, I really like. The first *Murmurations* was excellent — the circular one less so, but whatever. Pxlshrd makes great stuff too, I like that quite a bit.
 
 I've already mentioned *Clue*, *Palimpsest*, and *Chromatic Dazzle* — I still think *Chromatic Dazzle* plays into that nostalgia idea, where the first thing that gets you into something becomes the thing you're most attached to. That was what got me into this. *Groobz Wave*, from that same first wave of things, is also fantastic — I can just put it on and let it flow. It's like looking at an alien landscape.
 
-[pool: Chromatic Dazzle | Chromatic Dazzle — Frederik Vanhoutte | ]
+[pool: Palimpsest | Palimpsest — Unruly Unroll | | 1]
 
 And back to Acromats — Tingle's *Unicorn Cotton Candy* never really caught on for whatever reason, but it should have. It's beautiful, with some really great variation. I minted a bunch, sold some, then bought more on secondary before he dropped *Fall*. *Fall* is fantastic — I don't know if you've seen it over on ETH, but it's really, really good. Tingle makes lovely work, and that piece in particular is excellent.
 
@@ -251,6 +269,8 @@ KenConsumer: I don't think so.
 Will: A little shade at Elon at the end there, which I'm okay with. Thanks so much, Ken.
 
 KenConsumer: Thanks a lot, y'all. Thanks for having me. And shout-out to Ciphrd, man — what an amazing thing he's built. What a great thing.
+
+[pool: Onda | Onda — Rudxane | | 1]
 
 Will: We love it, obviously.
 

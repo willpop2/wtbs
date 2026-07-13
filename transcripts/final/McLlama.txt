@@ -22,7 +22,7 @@ McLlama: Starting on Hic Et Nunc, it felt raw. There was a certain aesthetic to 
 
 At first I was doing the "mint two, sell one, cover my cost basis" thing. That works for a while, but then you realize what you missed out on when it comes to the real grails, and I learned a lot through that. It was months to a year after that initial fx(hash) rush that I really started connecting with the projects. *Farbteiler*, for example — I kept coming back to it and realized I wanted to hoard these, that it wasn't enough to just have a few. I developed real connections to certain projects, and from there my feed became purely art. It went from crypto Twitter meme-posting to — wow, most of my followers are artists and art collectors now. It was a lot of content to take in, but over time I've realized I genuinely connect with certain projects and artists, and it's more than just making a trade.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | ]
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 3]
 
 Will: Have you gone as far as getting prints and plots made, arranging stuff around the house? When we talked to Erik, I tried to suss out whether *Farbteiler* was plottable — he said he'd done some experiments he never sold. For someone like you, who owns so much of his work, do you have anything from Erik on the wall, or from other artists?
 
@@ -36,6 +36,8 @@ McLlama: I wouldn't say I have hard rules. Sometimes I'm just browsing historic 
 
 Will: How do you feel about the long term? There were so many narratives — auction houses adopting NFTs, which happened to a small degree; institutions adopting them, with some high-profile donations and the odd museum purchase — but none of that turned out to be the inciting event the community expected back in 2021. Do you hold out hope for crossing into the mainstream, either toward traditional art institutions or in the other direction — forget those institutions, crypto just scales 100x from here, and these collectibles become interesting in their own right once there are that many more people who want to collect this stuff?
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 McLlama: I could see it being a combination of those, ideally. I'd love to see more institutional adoption, but that's a really long-term horizon, and I don't think institutional investors have that kind of patience right now. A lot of the crypto market has shorter-term horizons, and that's why everyone is so frustrated waiting for the NFT bull run this cycle. I don't know exactly how it'll play out, but I see a lot of opportunity in this price action, as horrible and illiquid as it is. As just a normal person, you can acquire pieces that two or three years ago would have been absolutely impossible to buy. The pink GM I bought a month or so ago, for example, would have been unfathomable just two years ago. I see it as an opportunity to make your place in the history of whatever plays out. I can't tell you what's going to happen, but it's been really fun.
 
 Will: It was probably about two and a half years ago that Le Random acquired their pink GM, and it was a big deal. I can't remember the USD equivalent, but it was certainly tens of thousands of dollars. Quite expensive.
@@ -44,7 +46,7 @@ McLlama: You might want to fact-check me, but I think it was over $100K.
 
 Will: I know they timed it very closely with the purchase of *RGB #1* too. So they made their mark, grabbing two keystone pieces from fx(hash) history. Anyone who was building a collection two and a half years ago has got to be looking now and thinking, imagine what we could have had. I've browsed your collection a bit -- you're very Erik Swahn heavy, and a lot of that increase has come from recent activity, as we've seen so many longtime collectors, for whatever reason, starting to divest, at least from fx(hash) if not across all chains. Did you see this trend and decide now's the time to jump in because we're down 90% on this stuff? Or have you been slowly acquiring along the way? What inspired you to jump in now, in all of this chaos?
 
-[pool: RGB | RGB — ciphrd | ]
+[pool: RGB | RGB — ciphrd | | 3]
 
 McLlama: I've been collecting the Farbs pretty heavily for the last few years, so that's just a constant. I could keep buying them, but at a certain point it gets ridiculous. More recently I've been focused on the grails -- the *Garden, Monoliths* pieces, the dragons, and so on. Part of it is what you said: prices are down so much that it's very appealing to buy right now. But it's also the timing of another market I've been participating in. I actually bought quite a few vintage Pokémon cards around 2024 -- more than I was buying NFTs at the time -- and they did really, really well early this year. So I started selling some of them, and that's been funding my grail purchases on fx(hash). Life handed me this opportunity and the timing just made sense. I like the price of the art right now, and I've got liquidity to tap into. It's a combination of things. And honestly, the fact that people are even listing these grails at all is fortunate too.
 
@@ -58,6 +60,8 @@ Will: I noticed that Raster thing and thought it was brilliant. I'd connected to
 
 McLlama: Right. It's more fragile than I thought. Even some of the on-chain stuff on fx(hash) sounds like more of a headache than the IPFS projects, from conversations I've seen. So it's definitely concerning. Am I panicking? No, definitely not.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Will: I have my fingers crossed that no matter what goes down, Ciphrd won't leave us completely screwed. He still seems to be plugging away, and if they're ever put in a position to shut down the platform, I hope -- and maybe even expect -- that he'll come up with something to make sure things still function in some fashion. Let's talk about fx(hash), though, because it's been such a crazy few months, and honestly a crazy two years for a show that's primarily covered it, trying to track everything going on with them and all their pivots. I shared some notes with you in advance: they moved to ETH, then Base, announced a curated program called Vertex that had one release and then nothing, and then things like *fx(params)* and OpenForm and the fx(hash) token. You've been here the whole time, collecting and engaging. What's your holistic take on the platform's history? Start wherever you want -- the tokens, or further back.
 
 McLlama: Over-engineering has been one of my fears for the platform for the last couple of years -- not just the recent art coin thing. I feel like creating novelty was prioritized over a more curated approach, over getting big projects to mint there. We had the big grails, and then the artists who really succeeded moved on to different platforms and blockchains. So I feared the over-engineering thing for a while. More recently, I felt it was a bit much to drop art coins and OpenForm at the same time. It was Ciphrd's project -- the OpenForm project -- that unveiled the whole art coin thing.
@@ -69,6 +73,8 @@ McLlama: No, this was after *Genomes*. This was *Generations*.
 Will: *Generations*. Okay.
 
 McLlama: Right. It was fully open form, meaning an unlimited number of iterations -- you could evolve your outputs, mutate them, create new outputs after minting. Technology-wise and art-wise, that's cool, but as a collector I think it totally removes the scarcity and value of the work. Why would I put any significant money into minting something I can change after I mint it, when there's an unlimited number of outputs?
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 So I thought it was really cool, but it removes the financial aspect completely. And simultaneously, you're dropping art coins, which have nothing to do with art -- it's all financial, all about community and cult followings. That combination didn't quite land for me. If they'd paired art coins with, say -- just as an example -- Zancan dropping a really cool project the same day, it could have generated a lot of buzz. Instead the release fell flat.
 
@@ -82,6 +88,8 @@ Will: I don't know if you listened to the episode we did with Ciphrd around that
 
 It just felt tough. And when you don't have a follow-up quickly, you see the price action and volume stagnate on those tokens, because once all the natural minting is done, all that's left is to buy and sell the token and do nothing else with it. You're just waiting and waiting. I think we only saw one or two artists ever create a follow-up project using their same coin — it's a thing that needed years to prove itself out, and crypto doesn't have time for that. Neither did the platform.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 McLlama: That's the risk you take getting into that territory. Within a bull run, many cycles happen really fast, and once you lose that momentum, it's kind of over.
 
 Will: What do you think about their more recent ideas around opening up the platform, doing a DAO? Are you fully out of $fxh? I'm sure you got a decent chunk in the airdrop.
@@ -93,6 +101,8 @@ Will: It would be awesome if the platform could persist in some way. I think the
 McLlama: That's what Art Blocks is doing right now, right? If I understand correctly, just a few releases, having encapsulated those 500 projects and really focusing on preserving them as best as possible.
 
 Will: Art Blocks is in such a weird place. They're not really doing formal curated stuff, but then they have whatever their new version of Playground is — in theory anyone who's worked on those contracts before can, without permission, come publish work there. But without the prestige of being curated, or even the tier just below curated —
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 McLlama: Art Blocks Presents.
 
@@ -106,6 +116,8 @@ McLlama: A few thoughts. One, Verse had an announcement recently about going ful
 
 Will: They did.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 McLlama: I have no idea what's going on there, but they seem to be moving that way. And there are other little platforms popping up, like Bootloader — kind of like early fx(hash) in terms of functionality. So I don't think that opportunity is gone for someone who just wants to dabble and mint something and see what happens.
 
 Will: I don't understand Verse. They've been expanding their contracts out to more galleries, going through branding and rebranding — "we're the gallery," then "Solos is the gallery," then there are other curators, then those curators aren't part of us anymore, but they can still... Lonli's no longer there, but he's spun up his new thing, *the garden*, and his first project is of course on Verse with their contracts. Their whole identity and role has been all over the place. We've interviewed Jamie probably three times over the course of this show, and I feel like he's always been skeptical of the open-platform idea, because you want your brand to have some kind of premium, some prestige. The second you let anyone jump on the platform and muck it up with random sketches, you run into the same problem fx(hash) struggled with: how do you let anyone publish, but also elevate and curate the projects you think will actually make money? OBJKT has gone through that too — people salty about never being on the front page after publishing there for three years. The whole politics of who gets front-page notoriety.
@@ -118,6 +130,8 @@ Will: Bootloader is a side project from them too, and they finally added p5 and 
 
 McLlama: That'd be wild. I don't fault fx(hash) for wanting to move toward ETH and Base — that's how they got that Coinbase venture funding. It's unfortunate there wasn't a breakthrough moment where a big project generated a lot of hype. But it's also kind of funny, as someone who loves Tezos and Tezos art, to see that pretty much all the volume now is Tezos legacy grails — partially thanks to people like me.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Will: I'm so tempted to talk to you about Pokémon because of my history with it. But I also want to ask, since you've been in the crypto space for so long — this last cycle felt so weak. Not just that it never really shifted to NFTs, which sucked for all of my art, but I held Bitcoin and ETH since 2020 and missed the window to sell in 2021. Then I just held. I finally got out close enough-ish to the top this cycle, but still nowhere near what anyone doing the charts and cycle theory would have predicted. You've been here one cycle longer than me, maybe one and a half. What do you feel about the space in general — how PvP it's become, how we keep getting these shallower and shallower cycles? Do you hold out hope for the tech, or as a speculative asset at all?
 
 McLlama: Longer term, I'm always a long-term Bitcoin bull. All I hold right now is Bitcoin and NFTs — I've completely liquidated all my meme tokens, whatever you want to call them. I don't hold any ETH, I don't hold any Tezos long term. Bitcoin is digital gold, and that thesis still holds up.
@@ -128,6 +142,8 @@ For another NFT cycle to happen requires a convergence of a lot of different fac
 
 Will: How much more buying do you think you'll personally do — Erik Swahn aside? Are there other things you're still targeting, or just watching and putting in offers? We've moved down probably 90% twice on a lot of these projects, so there's always the potential to go down again — what's $30 today could be $15 in a year. Your Farbteiler collection is pretty complete — you've got all your monos, so many awesome ones. I was actually looking at your stuff because I minted a mono myself, and I was disappointed, so I flipped it — I loved the project, loved the colors, but got this weird mono piece. I wondered if you'd incidentally ended up with mine, but it wasn't — I think I had a green one. There's probably more stuff on Verse you could still get from him or other artists. Is there a point where you'll say, I've got enough of the old stuff — or if it goes down 90% again, are you straight back in the Farbteiler zone?
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 McLlama: If it goes down 90% again, I'll be buying more *Garden*, *Monoliths*. But yeah, I still have a few goals with the Farbs. Obviously I'm extremely happy with what I have, but I've got a couple more specific targets. I have the primary and secondary color wheel for mono outputs — I'm just a few away from getting all 12 colors, including tertiary.
 
 Will: Oh, okay. I didn't know you were going to say that.
@@ -135,6 +151,8 @@ Will: Oh, okay. I didn't know you were going to say that.
 McLlama: That's one goal. It'll require some outreach, since these wallets are hard to track down and there are really only a couple mono outputs for each color. It might happen. It would be incredible — the fact that the algorithm produced mono outputs across all 12 colors is already amazing, and to be able to collect all of them would be pretty insane.
 
 I'm still interested in more *Dragons* and *Garden*, *Monoliths*, to be honest. They're the top dogs, and the more grail hunting I do, the more laser-focused I've become on those collections. And to go back to the Pokémon cards — I've been trimming my collection down. Obviously I love these cards, but do I love them more than a *Garden*, *Monolith*? Usually the answer is no. So I'll be selling more Pokémon cards regardless of whether that market has topped. I enjoy setting off the sales bot in the Discord, and I think it'll happen a few more times. I don't want to say too much, since there are some specific pieces I have my eye on.
+
+[pool: Dragons | Dragons — William Mapan | | 3]
 
 Will: No, don't —
 
@@ -148,6 +166,8 @@ Will: Right, not a paper one or a gold one or any of the other really rare, scar
 
 McLlama: 6K Tez. The one I call the ancient dragon I got for, I think, 5.5. It's interesting — I actually looked into their wallet. They'd just been holding around 40,000 Tez for a year or two, did nothing with it, then suddenly started buying.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Will: Did they have any other art, or was it just a dormant Tez-only wallet?
 
 McLlama: They sent Tezos from Bybit, collected staking rewards, and did absolutely nothing else until recently.
@@ -158,7 +178,7 @@ McLlama: I like the pieces they've selected. It almost seems like they're making
 
 Will: Let me see what else they have. Their fx(hash) wallet is only two dragons and two *Garden*, *Monoliths*.
 
-[pool: Dragons | Dragons — William Mapan | ]
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 McLlama: They did also buy a rare tezard.
 
@@ -172,6 +192,8 @@ McLlama: Entirely aesthetics, for me. The Pokémon cards I bought in 2024 were a
 
 So for me it's all about aesthetics and rarity. I do keep track of the pop report — I also collect PSA 10 graded cards, so that population report is really helpful information when you're collecting. It has nothing to do with playability. I dabbled with that as a kid, going to Toys "R" Us, battling kids, trading and whatnot.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Will: Does playability even matter in the high-end collector hobby? So many of these cards, it seems like people are either sitting on sealed product or cracking packs and grading them. It feels like a nightmare scenario if a genuinely desirable card is also competitively good — more of them end up in slabs than in decks. Do the designers have some awareness of this, making sure the chase cards aren't the playable ones, so people can actually still play?
 
 McLlama: Good question. For the modern stuff, I don't know. The modern cards have crazy designs, very busy artwork and textures — cool, but as far as value goes, I don't think playability is strongly associated with value from what I can tell.
@@ -183,6 +205,8 @@ McLlama: Always graded, on eBay. That's really the only resource I use for buyin
 Will: Do you buy into any of the skepticism around the grading companies? I'm sure you've seen those videos where someone cracks a card, resubmits it, and it comes back two grades higher. What's your take on that?
 
 McLlama: There's been some pretty crazy situations. I don't look too much into it. There's a bias toward newer certifications — cards graded more recently tend to face more stringent standards than those graded years ago. So there's a real bias there, but I don't dig too deep into it, honestly. If it's a 10, it's a 10, and the Pokémon market is actually fairly liquid — you can move these things in a matter of days if you want to. The PSA 10 is respected despite the inconsistencies people point out. That's just going to happen. It's impossible to avoid entirely — there are some egregious examples for sure, but I don't look too much into it.
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Will: Gotcha — you got in last year, already 10x'd, and you're just selling and buying art without following the controversy. Do you see yourself continuing with the hobby, or will you keep the ones you like and call it there?
 
@@ -196,6 +220,8 @@ Will: When you decided to jump in in 2024, was it purely the arbitrage thing you
 
 McLlama: There was a lot of buzz around Pokémon in general — it all came full circle. I did start buying the modern cards, but that felt kind of corny. Then I started looking at the prices of cards that were legendary to me as a kid, and they were so cheap. It wasn't a calculation of "this will be a 10x" — it was just, wow, these are cheap and I want to buy them. And it played out really well.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Will: What you just said is one of the things that informed my more recent collecting of vinyl records. I got back into collecting vinyl in a real way about two and a half years ago. I'd go on Discogs, the main site for trading vinyl records — it's also the database of everything — and find a record I wanted. You'd see the original pressing and all the subsequent represses, and on some of these, the price difference between an original '70s pressing and a 2025 repress is only about $20.
 
 That didn't make sense to me as a lifelong collector of various things. Sure, there were points in history when they were printing huge quantities of records because it was basically the only format people could get music on. But that's when I decided to start collecting only first pressings, because if I want my collection to hold value moving forward, I can't just be buying represses at Walmart and Target — even if the music sounds mostly the same.
@@ -207,6 +233,8 @@ McLlama: When you find that lane — something undervalued that you also appreci
 Will: I do play them, though there's some I probably shouldn't. The whole slabbing thing hasn't come over to records in a big way yet, partly because so much of the hobby for people is also about their system, fidelity, and sound quality — I don't have the space or money for that. For a lot of those folks, owning an original pressing and putting it under plastic means you can't play the record, and you can't demonstrate it's a nice copy. How else do you show it's in mint condition?
 
 But I have seen people like Steve Aoki slabbing music media they collect, so there are people on the edge of it starting to do that. I'd be curious what the hobby looks like in five or ten years. There's one label or distributor now that, in addition to retail, sells pre-graded copies on their website — like fifty slabbed 10s of the new Taylor Swift album. Getting a 10 in the wild is probably difficult. It's funny to see — it's the Pokémon-ification of other hobbies. They see the premium out there and know it could come over. It'll be an interesting day when that happens.
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 I want to jump back to Verse real quick. We talked a bit about their curated stuff and how they might be changing the platform — you've collected some of their most recent release, the Brainrot stuff. It's been interesting seeing them succeed in the PFP space by hybridizing it with art, between that and the Tabor PFP. I minted a few of the Tabor ones because they were free to me, given how they dripped those out, but I didn't mint any of the Brainrot ones. It's clearly attracted a lot of new people to their platform who are more than happy to come in and complain in the Discord.
 
@@ -220,6 +248,8 @@ Will: Did you ever collect on Emprops?
 
 McLlama: Yes — and actually, I dropped a few projects of my own on Emprops.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Will: Oh, did you?
 
 McLlama: That's how into it I got. It's not something I expect people to notice, but having done that with AI — prompting, inputting images, then seeing the results after people mint and thinking, "that wasn't quite random enough, those weren't quite the outputs I wanted" — it gave me more respect for generative artists and other types of artists too. It's hard to get a set of outputs as diverse as you want within your parameters. I don't know if Emprops is still up and running, but yeah.
@@ -231,6 +261,8 @@ McLlama: I think that platform was revolutionary. It may have just been a little
 Will: The Brainrots really weren't interesting to me aesthetically or thematically, but I know artists who've dabbled in it and their feedback was, "it's just so well done" — to do 10,000 of those and have them all look —
 
 McLlama: Ten thousand is a lot.
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Will: Right. So there must be a lot of craft to that, even if I think they're just kind of goofy.
 
@@ -244,6 +276,8 @@ Will: Is there anything else you want to touch on before we wrap up? Anything we
 
 McLlama: We touched on everything — long-form AI, Pokémon, my obsessiveness with Zancan and Erik Swahn and those collections.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Will: I feel like we got through a lot. It's been great chopping it up with another collector and talking about the space. I hope we get some good news from fx(hash) at some point — that would be ideal.
 
 McLlama: Just to add on to that — if fx(hash) were to shut down, I don't know if OBJKT would perpetuate the existing listings or not. But if they don't, I think that would actually be really interesting: clear the order books, have a fresh supply and demand. Not necessarily a bad thing in the long run.
@@ -255,6 +289,8 @@ McLlama: Some of the ones that got bought recently were actually listed years ag
 Will: Back when Tezos might have been a much different price.
 
 McLlama: Yeah, it's interesting.
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Will: Well, we're still here, still watching and lurking and making these episodes from time to time. Thankful to folks like you who are still happy to come on and talk with us.
 
@@ -268,9 +304,9 @@ Will: Pompous LL. Wait, maybe we should close on this — where'd the McLlama na
 
 McLlama: Great question. Back in 2017, everyone on crypto Twitter was basically some sort of animal — you had Wassis, some unidentified animal-creature things. I started out as the Pompous Llama; that's how I created the account. It was a real-life nickname someone had passively given me, and I thought it was funny. It was too long to type as a Twitter tag, so it became Pompous LL instead of Pompous Llama. Then the bear market happened and people started putting McDonald's hats on their PFPs — the joke being that we're all going to need a job flipping burgers — and I turned into McLlama. That's how it started, and it's just the name people know me by.
 
-Will: Throw him a follow @PompousLL — we'll put that down below, and we'll link to your Raster collection too so people can browse it and see all the Farbteilers and the other great stuff you've collected. I scrolled through, and you've got stuff from all eras of fx(hash), plus a bunch of A.I. and other digital art. I saw some Culture Hacker in there too.
+[pool: Dragons | Dragons — William Mapan | | 1]
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | ]
+Will: Throw him a follow @PompousLL — we'll put that down below, and we'll link to your Raster collection too so people can browse it and see all the Farbteilers and the other great stuff you've collected. I scrolled through, and you've got stuff from all eras of fx(hash), plus a bunch of A.I. and other digital art. I saw some Culture Hacker in there too.
 
 McLlama: Yeah, I like glitch art as well.
 
@@ -281,3 +317,5 @@ McLlama: And thanks to everyone who's still active on fx(hash). I see all of you
 Will: Legendary status achieved. Well, thanks again for coming on. We'll be back soon-ish with another episode. Later, everyone.
 
 McLlama: Thanks again for having me.
+
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]

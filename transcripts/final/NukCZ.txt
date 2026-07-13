@@ -16,7 +16,7 @@ Trinity: What did you mint?
 
 NukCZ: Dmitri Cherniak's *Ringers*. I hopped in the Discord and chatted with Dmitri: "Hey, I don't really know what just happened, but I'm studying data analytics for my MBA and would love to learn more about what you're doing, or if you have any resources." He was so helpful, so welcoming. Art had always felt disconnecting and foreign to me -- my grandfather, growing up, was an orthodontist, no art background, and he'd get rejected from art fairs he applied to for not being "artsy" enough. So I always had this taste in my mouth that you needed to be a certain way to "get" art. It never felt like it was for me.
 
-[pool: Ringers | Ringers — Dmitri Cherniak | ]
+[pool: Ringers | Ringers — Dmitri Cherniak | | 3]
 
 But then I get in this Discord and everyone's so friendly, so helpful, willing to send me resources. This was the exact opposite of what I think my grandfather felt, and that's really when it clicked for me. Generative art unlocked the whole world of art for me. My Twitter now is half Japanese woodblock prints, half generative art -- it's allowed me to connect to my grandfather's work in ways I never thought imaginable. That ties into the Walk and Talk series we'll get to in a bit. That's my seven-to-ten-minute "this is how I got here."
 
@@ -30,6 +30,8 @@ NukCZ: It starts with my grandfather. In his studio, he'd walk me through some o
 
 The first artist -- if you go back in the YouTube channel -- was ADHD, an incredible artist, not generative but more digital abstraction, absolutely phenomenal, highly recommend checking him out. We were chatting at Art Basel Miami and I had this idea, and we said we should do this sometime. You never know if something like that will come to fruition, but I decided we should definitely do it. I picked out a few of his pieces -- some he hadn't even seen or talked about in a long time, if ever -- and it was a wholesome, fun experience learning more about the work from him. The beauty of this space is that we're around these legendary artists and we have the opportunity to ask them anything we want about their work -- how cool is that? It's almost selfish, getting to do all this, and I think it's the coolest thing. With OnCyber, anybody in the world can be in the room with us while we're having this discussion, whereas in my grandfather's studio, it was just me and him. Technology has so much to offer there.
 
+[pool: Ringers | Ringers — Dmitri Cherniak | | 1]
+
 That's where the Walk and Talk series came from, and it ties into this overarching theme I'm starting to realize: where I fit in this space is around elevating artists and telling their stories. Anything I do here, I want it to attach to that in some way.
 
 Trinity: Within this Walk and Talk series -- you mentioned it's specifically in OnCyber, and I've dabbled with a couple of different gallery platforms, OnCyber and DECA among them. OnCyber, I find, is definitely the most immersive -- it supports that VR walk-through experience. Was that important when choosing how to do this, versus a more flat webpage like you might get with DECA?
@@ -41,6 +43,8 @@ It was actually kind of funny on the most recent collector walk and talk I did w
 Will: How do you approach that, exactly? When I first saw the series, I assumed you reached out to these people and had them create the OnCybers, and then you'd walk through and ask about it. But actually you're the one who goes into their wallets and builds these galleries, then invites them in and interrogates them about what's going on with each piece. What's that process like? Someone like Blockbird must have thousands of pieces across multiple chains—how do you bring it all together?
 
 NukCZ: For the collector episodes, I typically have them send over 20 or 30 pieces that I then pick through, partly because OnCyber has some limitations, so I want to make sure I have enough to work with. Those are a little more difficult—usually I go by how the pieces physically look, or the vibes I'm getting from them.
+
+[pool: Ringers | Ringers — Dmitri Cherniak | | 1]
 
 On the artist side, it's different. For the Cory Haber *Blooms* project, for instance, I laid it out entirely chronologically. Viewing things in chronological order is fascinating—you see the progression of the artist, that through line of them learning a new technique here, and then a few projects later, you see it fully take shape.
 
@@ -54,6 +58,8 @@ NukCZ: That's a good question. My family still has a lot of my grandfather's art
 
 In terms of exploring different areas and color palettes, we definitely see that same instinct in artists today, just taken to another level because of technological advancement. You can't make an animated oil painting—it just doesn't work that way. Now you have artists doing incredible work with 3D, with animated work, with crazy pixel-sorting algorithms. There's so much more that can be done. If my grandfather saw some of the art being made today, he'd think it was pretty wild and out there. I don't think he was trying to push boundaries so much as he was trying to perfect his own craft.
 
+[pool: Ringers | Ringers — Dmitri Cherniak | | 1]
+
 Will: I want to rewind to your intro—that initial feeling of minting your first piece and jumping into the Discord. Aside from the community, how do you relate your past collecting to the bug you caught for generative art? What's your philosophy on it? Why do you think generative art and digital art grabbed you and pulled you in, versus other forms of art you could have been collecting all along?
 
 NukCZ: That's something I've been constantly thinking about over the last few years. The easiest, surface-level answer is that it's probably the equivalent of opening a pack of baseball cards. Opening cards with my dad was always my favorite thing to do, and part of generative art has that same feeling—the first time, I didn't even know what I was doing. Then I'd realize, "Oh, I got this one, and this other person got one that kind of looks like mine but is different—oh, this one's slightly more rare." I thought that was really cool.
@@ -62,7 +68,7 @@ But then you realize this is a performance art piece unfolding, and you're part 
 
 Going back to collecting philosophy: for the *Ringers* mint, I think it was $100 for everything, and I had $500 to start with, some of which I'd made through Top Shot. I was a student at the time—I wasn't putting in any more than I was willing to lose. $100 for this seemed like a fun experiment, so I tried it. My whole strategy this whole time, and I still do this today, is that I need to discover and research artists before I can no longer afford them. That's been my strategy on fx(hash), on OBJKT, on HEN. A lot of this happens on Tezos just because it tends to be more affordable, but the art is amazing, and if I can get art I love before it's out of my price range, that's what I'm going to do. I don't see that changing, because I don't have unlimited funds for this, so I need to get creative.
 
-[pool: Ringers | Ringers — Dmitri Cherniak | ]
+[pool: Ringers | Ringers — Dmitri Cherniak | | 1]
 
 Will: Collecting must have changed a lot over the last few years, then, because we've seen such consolidation—the artists we used to collect affordably are no longer so affordable. At the same time, at least on the generative art side, there hasn't really been a second wave of people who might be the next Iskra or the next Zancan, ascending to those price levels. I feel like none of us would have gotten as into this if it hadn't been so affordable in the beginning—it's not attractive to look at art that's $1,000-plus and think, "well, I guess it's not for me." But at $10 or $50 or $100, it suddenly feels attainable. That's flipped somewhat, along with a lot of the sentiment toward doing things cheaply, doing things randomly, getting that fun of opening one of a thousand pieces in a series. Is that bittersweet to you? Have you adapted a lot, or are you still digging and finding stuff the rest of us maybe aren't finding?
 
@@ -76,7 +82,7 @@ Trinity: Well, I think now is a perfect time to start naming names, unless you w
 
 NukCZ: A few come to mind. YXK, who did *Traveler* and *Ukiyo-e In Bloom*. I love Japanese woodblock prints, and I love generative art, so I've been keeping my eye on that project for a long time, and I now have each of the different palettes. I can just imagine having them all on a wall next to each other looking amazing, because I want as much Japanese-inspired work together as I can get.
 
-[pool: Traveler | Traveler — Ykxotkx | ]
+[pool: Traveler | Traveler — Ykxotkx | | 3]
 
 Michael Perouse is also one of my favorite artists. He's only done a few projects on fx(hash), but my favorite is *Theatergoers* — the black backdrop with little blobs, some with hearts. Such an awesome project. For a long time they were probably 200 tez plus, but over the last few months I've seen some go through for 20 or 30, and I'm just like, how did I miss that? He also has a collection called *Clara Story* that's really, really great. I've been picking up a few of those when they've come across, or by putting in offers. Those are the two that really come to mind.
 
@@ -90,6 +96,8 @@ Will: Same — I only mint from the browser, and I basically just check in the m
 
 NukCZ: As time has gone on, we've definitely seen that. But I think that's good from their perspective — it means more people are using the platform. I do think there need to be better ways to sort through it, though. What's been helpful for me — since I'm similar to you, checking twice a day, once in the morning when I do about 80% of my minting, and maybe once in the afternoon — is putting notification bells on for the artists I don't want to miss. Every morning I go to my notifications tab, and when it says so-and-so just posted, I'll Ctrl-click to open ten links at once and go through and make sure I hit all the artists with new stuff up. It's been a great way not only to collect but also to find new artists.
 
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
+
 Did you see my post recently about Antonis Tsigaridis? Such a cool artist making really amazing work. One of the pieces he put on Rodeo was very reminiscent of an art book I took from my grandfather — it took me right back to that moment, and I thought, who is this artist, what else does he have? I went through his Linktree, saw he had an OBJKT page, stuff on Solana, went through all his work — so much of it is absolutely incredible. I picked up probably eight one-of-ones of his, talked with him, got amazing vibes. That's the part of this world I enjoy the most: finding a new artist, connecting with them, talking with them, understanding how they came to be an artist and what else they're working on. I find that so enjoyable. Rodeo's been a fun way to explore and find new artists that way.
 
 Will: I did not even know you could set alerts like that for artists. So that's huge.
@@ -101,6 +109,8 @@ Trinity: I think Rodeo introduces some interesting social mechanics, and it's co
 NukCZ: It's a really good question, and something I've been thinking a lot about. A lot of the early work on Rodeo was, "hey, these are sketches, works in progress of things I've been working on." It took me back to a Bridget Riley exhibit where I saw all her sketches and works in progress, and how that helped tell the story of her as an artist. That instantly resonated with me — how cool would it be to have these Rudxane pieces next to my other Rudxane pieces that I've collected from fx(hash) or OBJKT. It's hard to delineate exactly what we'd call them.
 
 Again, with my love of Japanese woodblock printmaking — back in the day, a lot of Ukiyo-e woodblocks were made for advertisements, for marketing. It wasn't deemed art at the time; these were just prints people were collecting, and it became art later when people realized how amazing it was. I get similar vibes from Rodeo, though it's hard to say this early on. For $0.25, if an artist is able to mint 100 pieces, that can be significant money if they do that a few days in a row. So it's hard to say — I don't think you should view it as, if you're the only one to collect it, that makes it a one of one. I don't think that's necessarily the goal. It's meant to be a social platform where you can collect, so it's hard to say how it plays out.
+
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
 
 But having these pieces be part of a collection, especially if you have more of that artist's work, and being able to show the story — hey, this was a work in progress they did a year before this project — I think that's interesting and cool to have. But I'm curious what you two think.
 
@@ -114,6 +124,8 @@ NukCZ: We can talk about this — I plan on a bigger announcement on my birthday
 
 So Art Focused is the project I'm working on, and the mission is to elevate artists and tell their stories. Walk and Talks is one way of doing that, and as time goes on I'm sure there will be other avenues for anybody to enter this world, be a patron of the arts, and help tell those stories and lift artists up. The Walk and Talk series is the first tangible step. I'm really excited to see where it goes, because I've had hobbies that fizzle out after four or six months — you can just feel when their time is coming. But with this, I think I'm going to be doing it until I die. I deeply care about it, and I find it so fun and enjoyable. I'll be launching a website and continuing the walk and talks, and we'll see how it all shapes up. No roadmaps, no $10K PFP projects — just a website, and hopefully people watch some of the YouTube videos we've done. I'm really excited about it. I think it's going to be a fun journey.
 
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
+
 Will: We'd love to see it. Trinity, if there's nothing else from you, should we hand it over to Nuk here?
 
 Trinity: Hell yeah, let's do it.
@@ -125,6 +137,8 @@ NukCZ: I don't want to grill you guys too hard, but this has been such a fun dis
 Will: Trinity, you want to go first?
 
 Trinity: I think it's really exciting to have a reason to nerd out about something you love. You can do that easily in high school or college or on online platforms, but this has been a great excuse to actually put our thoughts into words each week. It's been a great time for reflection, and it's been fun building something together around a core theme — partly getting into the market and the art, seeing how this whole world has progressed, but a lot of it has also just come down to chatting about stuff I love with a friend.
+
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
 
 NukCZ: I love that.
 
@@ -138,6 +152,8 @@ NukCZ: You spend hours with these people — like, Trinity, I know her first con
 
 Trinity: I'd have to go back through my collection history to find the earliest examples.
 
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
+
 NukCZ: Is there one piece you remember minting on a certain day and time? I feel like there were a couple, especially in that December 2021 window — it was just an iconic moment.
 
 Trinity: For me, it was almost before I even started collecting — it was the anticipation of it. Will had gotten into it a couple of weeks before I did, so he'd laid out how it all worked. I remember when Will sent me his list of potential blue-chip projects. At the time, fx(hash) had eight-hour minting windows — maybe even six-hour windows — and I just remember having that list open, going to each project, seeing what was still available, opening them all in separate tabs, waiting for the mint window to open, and then clicking mint on all of them at the same time. I had no idea what a block was, how gas worked, that you couldn't have multiple transactions in the same block at the time — it was just like sitting at the starting gate waiting to go. That clicked for me. Maybe that's not really "digital art collecting," maybe that's just prepping to flip with insane micromanagement, I don't know. But it was an amazing moment. I think I was at work — or we were probably still working from home at that point, honestly.
@@ -149,6 +165,8 @@ NukCZ: This is so cool.
 Will: It just hit my feed and I thought, this is so random, so weird, such a strange piece. But the thing that really pulled me in was fx(hash) — finding the community, finding the fun of generative art, getting into early artists like Mark Knol and Kjetil Golid, always minting a couple of their pieces. And what really kept me in was the hype of minting and flipping, the mania of it. That was such an addictive rush for a few months — and obviously that's what spawned the show.
 
 NukCZ: Yeah, that's how we got into it. But then you realize there's so much more than just minting and flipping. You meet so many people — artists, other collectors — and I think that stuff brings you in, but the other stuff keeps you here. That's fairly normal for pretty much anybody. So for new people who want to come in, what can we do to help them have that same feeling? Because if somebody's coming in and sees a piece that minted for 1 Tez now selling for 1,000, and it's like, "buy this 1,000 Tez piece" — that's not a great entry point.
+
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
 
 I think there are hopefully new and exciting ways to get newer people in. What Snowfro is doing with generative goods is such an incredible way to get generative art out into the real world, because I think we do a pretty poor job in the Web3 ecosystem of leaving our bubble. We're in Discord, we're on Twitter, talking with the same people. If we want more people to understand our world and enjoy it, we need to find other people who'd be interested in this stuff.
 
@@ -162,6 +180,8 @@ Will: I have samples from US Union Wear — a union-owned, union-operated plant 
 
 NukCZ: That'll be a really cool way to bring the Waiting to Be Signed world to life. The more we can bring it into the physical world for people to experience, the better. Some of my favorite moments in this world have been meeting up with people in real life — not even exchanging physical goods, just exchanging conversations about literally anything besides art. The friendships we've made have been the alpha the whole way. I know that sounds corny, but it's been one of the best parts of all this — meeting so many new people. As you get older, it's harder to meet new people; your day-to-day routine doesn't change that much. But we've been able to meet people from all over the world because of this. How cool is that? Wouldn't other people want to experience that same thing? So how do we get people into this world so they can feel that same joy?
 
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
+
 Those are just some of the things I think about. I'm curious how you two think about growing generative art, growing the digital art ecosystem — what comes to mind for you?
 
 Trinity: That's a really hard one. You were talking earlier about getting a sense of who we are just from listening to us talk into the ether for an hour-plus every week — and I think that feeling goes both ways. We have a sense of who we're talking to, even if it's just 30, 50, 100 people, because those are probably people we've talked to in Discord every day. I think getting people into that back-and-forth is going to be one of the bigger challenges, especially as the places where people are sharing the most shift toward fringe social networks like Rodeo or Farcaster, which don't have that mainstream appeal to slowly suck people into the funnel.
@@ -173,6 +193,8 @@ Will: I've become increasingly skeptical that we can grow the space 10x or 100x 
 What Trinity described is very much the thing that gets people interested. But getting someone to actually engage with the community and find the things to like here takes a specific psychographic profile. A lot of collectors have similar backgrounds — they've collected other things, they come from gaming, or from an investment angle. Very few people who come over are just normies who've never sat down and made a spreadsheet of all their baseball cards. You need that specific, borderline spectrum-y personality to really get into this. You either find them — I found Trinity and brought her in, and I knew that would be an easy sell — or you don't. Other real-life friends of mine who know about the hobby and the show are not at all interested in collecting. Even when I say, "I got this for $20 and now it sells for $500," they're like, "okay." They don't want to buy it for $500, and I can't tell them with confidence which ones they can buy cheaply that'll go up. Absent that, I really don't know. I think things like Highlight and Base Chain, for all the fear and concern around them, have the potential to get more people interested in collecting generally, and finding the fun in it. But how do you convert them into collecting on fx(hash) or Verse or Art Blocks? That's a much bigger question, and no one's cracked it.
 
 NukCZ: It's not an easy problem to solve, but the worthwhile ones typically aren't easy. I still go back to my RuneScape days, with people collecting party hats that had no utility in the game — they just looked cool. Millions of people played RuneScape and agreed these were the most coveted items. People understand the concept of digital collectibles; they understand wanting their character to look cool even without extra armor.
+
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
 
 If the next wave brings in a lot of Web3 gamers, maybe they discover they loved art all along. If you'd told me four years ago I'd be on a Waiting to Be Signed podcast talking about generative art and digital collecting, I would have laughed you out of the room. It seemed far-fetched, but now it just seems like, of course this is what I'd do — it makes so much sense. It's hard to extrapolate forward, but if people find their way into this Web3 world through, say, Web3 gaming worlds — imagine players displaying artwork they've collected on fx(hash) on the wall of a guild, and somebody says, "Oh, that's so cool, what is that?" — they click in, end up on fx(hash), and start searching around. I think there are ways for it to happen, but it won't be easy, and it'll probably take longer than we anticipate.
 
@@ -186,6 +208,8 @@ Will: Hell yeah, dude. What kind of music do you DJ?
 
 NukCZ: All over the place, typically electronic. I've only really DJ'd for friends' parties — a couple times publicly, but mostly for a crowd where I can play what I actually want, which is trance and house from about 2010 to 2015. If I'm feeling zany, I've got some dubstep from that era too. It's basically a time capsule of the music I was into at my peak; I still love new music, but nothing's come close to that era for me.
 
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
+
 Justice puts on incredible shows — I went to Lollapalooza this past year, and while there were DJs playing cool stuff, a lot of them are just playing other people's music. Justice plays Justice music in their own way, especially live, and that's incredible. That's what feels missing from a lot of live acts today.
 
 I haven't DJ'd much recently, but about a year ago I went on a Twitch stream spree using this Google Chrome extension called ArtTab — I think the creator goes by Quantized on Twitter. Every time you open a new tab, it curates NFT art, or you can plug in your own URLs. I'd have that running while DJing on Twitch — a fun way to combine music and art curation. I'm trying to find other ways to get back into DJing, because I really enjoy it. Did you two ever get heavily into the electronic scene?
@@ -197,6 +221,8 @@ NukCZ: Did you guys play instruments or music growing up?
 Trinity: I did — French horn, and drums from a young age. I was actually in a community concert band up until COVID, pretty much.
 
 Will: Oh, that's right, I forgot you had to go to band practice as an adult.
+
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
 
 NukCZ: What kind of band — like an orchestra?
 
@@ -210,6 +236,8 @@ Will: Can you go the other way — if there are certain songs or artists you lik
 
 NukCZ: I think if you click on songs, you can see which DJs have played them. So yeah, you can play the Wikipedia hyperlink game.
 
+[pool: Theatergoers | Theatergoers — Michael Perusse | | 1]
+
 Will: I'll check that out.
 
 Trinity: Fascinating. The most-liked playlist on there is Skrillex Live at Lollapalooza. Were you there?
@@ -220,7 +248,7 @@ Will: His look has changed so much. He used to have that very distinctive underc
 
 NukCZ: He's not the same Skrillex of old, that's for sure, and the music he plays has always been all over the place — even more so now. He's more into house and deep house trap vibes versus the pure dubstep, brostep of his first couple albums, which I enjoyed the most — unlike anything I'd heard before. That reminds me of reading a book by Kim Asendorf and thinking, this is unlike anything I've seen before — like *Zancan*'s *Garden, Monoliths*, totally different. That's always been a common theme for me: artists willing to do something so different, crazy, and recognizable. People being true to themselves and trying something new — that's what I've always enjoyed, in both digital art and audio.
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 3]
 
 Will: 100%.
 
@@ -234,6 +262,8 @@ Will: Having babies. From a podcast perspective, it would've made scheduling a l
 
 Trinity: I think we spent a lot of time doing the show and not enough time talking about doing the show — having a strategy, setting goals. We did some of that at the beginning, but it's hard to maintain. If anything, the change for me isn't having babies, it's having jobs.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 Will: Yeah, that works too. One thing we could have done earlier is start the Patreon sooner. From a brand perspective, it seemed right to have the show supported by crypto donations, being an NFT show. Eventually enough people told us they didn't want to support us that way, and we resisted for a while. It might've made a big difference to have that ready from the very beginning — or maybe not. We definitely wouldn't have quit our jobs either way; even at the height of our listenership, we'd never have been at that level.
 
 Another thing: we probably chased some trends we shouldn't have, trying to grow the show by booking certain guests who weren't the best fit but had their own audience, hoping for reciprocation — going on their show to grow ours. I don't think any of that actually worked. But that's the kind of thing you don't know unless you try. Looking back, knowing it didn't yield much growth, I probably wouldn't have spent so much time trying to get on other podcasts or random YouTube shows, or having hosts of other shows on ours, unless there was a really compelling reason to do it.
@@ -246,6 +276,8 @@ Trinity: Yeah, I think we all learned a lot, and it's been really — I mean, we
 
 Will: We just released the Stevie P interview today, and we're still wrangling dates for the last guests of this run, but the door's totally open to come back. We're doing the hat, and we're still engaged in the space.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 NukCZ: So there will be other ways for Waiting to Be Signed to flap its wings, I'm sure.
 
 Trinity: It's been a really fun part of this community to be part of.
@@ -257,6 +289,8 @@ NukCZ: That should be out, provided everything's working properly — hopefully 
 Will: Be on the lookout for Art Focused, the website — we'll link to that below, and to the YouTube channel for anyone who wants to go back through some of the gallery walk and talks. And I'll offer up that I'd be happy to come on and do one if you'll have me.
 
 NukCZ: I'd love that — both of you. Start thinking of twenty pieces you'd want to talk about, and we'll do it.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Trinity: Let's do it.
 

@@ -30,7 +30,7 @@ I took up photography, then digital art experiments — 3D stuff, ray tracing, a
 
 Then the lockdown came, COVID came, and trying to sell consultancy services to other companies didn't make much sense when everything was frozen. So I started dedicating more time to coding at night, and that's when I built my first large generative system, which became *Entretiempos*, my release on Art Blocks. I didn't set out to become a full-time artist — I liked doing this, but I didn't really let myself think "I might be an artist." By the end of 2020 I learned about NFTs. I'd been in touch with blockchain for a long time, but I didn't realize this was, again, this new way of distributing content. I got interested, read for months while totally lost trying to understand the terminology and jargon, and eventually decided to try my luck and share my work too.
 
-[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | ]
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 3]
 
 My first NFT was released on OpenSea in January 2021. I still didn't know about Tezos, but a few days after Hic Et Nunc launched, I discovered it and just stayed — the art was amazing, the community was amazing, the feeling was phenomenal. That's where I've spent most of my time since.
 
@@ -44,6 +44,8 @@ Marcelo Soria-Rodriguez: He did get in touch with me. I'd already been contacted
 
 It was a fantastic discovery to learn he was a musician — I didn't know that. Music came up very quickly; he mentioned that my pieces had some kind of musical rhythm or reference to them, which honored and humbled me, because music is very important to me, even though in a lot of my pieces I'm not consciously looking for a connection to music when I do the visuals. Somehow it conditions everything I do anyway. So hearing that from him was special. Very early in the conversation we landed on musicality flowing through both our artistic interests, and thought maybe we could actually bring music into the piece itself.
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
+
 Trinity: How did the collaboration continue from there? There's so little insight into how these processes actually work — we've talked to others who've done collaborations, but it's a real treat to have both of you here together. Once you land on this initial idea — we want to do something in the sphere of music — what happens next? How does it progress from that initial spark into something full and final that everyone ends up loving?
 
 Andreas Rau: If only we would know. It's really interesting how everything just went organically. I've done collaborations before, but never online collaborations in that sense — Marcelo and I have never met in person, which I also find remarkable. When we first started talking, we quickly found a shared interest in music, obviously, but also in this idea of things that evolve over time, that change in ways you'd never guess they could. And it was also the time when the war in Ukraine had just broken out, so it was very much a period of change — things we'd taken for granted for years were suddenly not so given anymore. That became the other main topic we agreed on quickly, because both of us were really interested in exploring that and bringing what was happening in Europe into the piece. Do you have anything to add, Marcelo?
@@ -55,6 +57,8 @@ All of that happened in conversations that had no real direction, and I think th
 Looking back, I think it was so important to let things mature, to let those conversations take their time. We skipped deadlines for weeks — we'd agree, "I'll try to do this thing," talk again next week, and: "I didn't get the chance to advance on this." I was a complete disaster throughout, honestly, because I had other things going on, other things I had to look into, and new ideas that came along that I tried to squeeze in. But looking back, I think all of that was very good. If I'd had a completely clear table, I think I would have rushed the search for the concept. In my experience, the result is always so much better when you let things rest for a while. Don't you think, Andreas? I really did want to work — I'm not saying I left things intentionally — but I think it was good to leave some of those ideas hanging around and see what happened to them after a week or two. And since you're busy with other things in the meantime, those other things feed little ideas back into the general thought that eventually brings you to whatever you end up doing.
 
 Andreas Rau: I 100% agree. It was so fruitful that both of us had different things going on at the same time. What Marcelo just said is only half the truth, honestly — because even when he'd come back a week later and say "I didn't get to work on this," he'd actually have worked on a ton of other things: "We could do this and that as well, I tried this here." That's kind of how we progressed — we both experimented constantly, organically, taking our time to find out where we actually wanted to take this. There was no real goal, no vision in mind when we started. There was just a path we wanted to walk together, figuring things out along the way. Taking our time — that's something I really appreciate, both about this collaboration and in general in life. Letting things sit and ripen makes everything so much better.
+
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
 
 Trinity: It sounds like the initial concept around music came together almost immediately. But *Toccata* is incredibly complex and rich, and clearly took a lot of time to mature. At what point did you decide on the form you were pushing toward, and what was that like?
 
@@ -68,6 +72,8 @@ You asked when it clicked — it's hard to pinpoint, but I think it had to do wi
 
 Will: I think for both of us co-hosts, it was that combination of the music with the flowing, rhythmic motion of the holes—
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
+
 Trinity: And the decay.
 
 Will: —and the decay that drew us into the piece. It's phenomenal hearing the story, how organically it came together, neither of you working from pre-made or half-made projects — because where you arrived is so unique for fx(hash) in particular. This is an fx(hash) show: very often pieces are static, two-dimensional. To make something animated, 3D, with a music element, is almost like setting yourself up to fail, given how the community tends to react to projects like that. A lot of animated or 3D work just doesn't get collected at the same level. So it feels like such a breakthrough to have *Toccata* come out and resonate the way it has — that emotional pull, primed by the music and the animation together. I don't know if there's a real question in there — it's kind of amazing it worked out like that.
@@ -79,6 +85,8 @@ Marcelo Soria-Rodriguez: We discussed many concepts, and this isn't a linear sto
 We'd both independently loved the idea of recomposing works, and there was also this concept of the decay of a musical piece. What does it mean for a piece to decay? Is it audio distortion? Notes sounding offbeat, or off pitch, or missing entirely? Music carries such strong emotional weight — it's one of the best ways to encode emotion — and your relationship to how a piece develops is emotional too. That's why *Toccata* by Prokofiev became such a beautiful reference, brought in early on by Andreas. We wondered whether we should make variations on it, record it, distort it — how would we translate this piece into the work?
 
 We didn't want to build our own entire sequencer inside the piece. In the end, that's exactly what we did — we have a full-blown sequencer and composing tool in there, among other things. It started from a simple question: how do we technically add music to the piece? We explored p5.sound first, but it was buggy. Then Andreas tried Tone.js, and it worked much better, so we built on that foundation. Should we use synthesized sounds? Prerecorded segments combined as audio files? It kept evolving, in a constant dialogue between the technical possibilities, our time constraints, and the—
+
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
 
 Andreas Rau: The—
 
@@ -92,6 +100,8 @@ It's built very much around the idea of jazz. In jazz you have a set structure �
 
 Early on, we gave each variation an arbitrary name just to identify it. I remember the moment I was typing the name for the first fully generated one — that was exciting, because I'd tried writing generative music systems for years and they always sucked, and I never put one out into the world.
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
+
 Marcelo Soria-Rodriguez: Yeah.
 
 Andreas Rau: This time was different because we had a clear foundation: composed parts that we could enrich with generative elements and vary over time. Coming back to jazz — you play through the theme once or twice, then improvise. That's basically what *Toccata* does: it improvises on top of a given scheme, given chords or chord progressions. And I think it works.
@@ -103,6 +113,8 @@ Will: What are your favorite variations? I'd love to know.
 Andreas Rau: That's really hard to answer. I've listened to all of them over and over. A couple of weeks before release I had a breakdown where I thought, I hate all of them, I never want to hear them again — we kept tweaking them, playing with the effects, and so on. Things played out well in the end, but I honestly can't say I have a favorite.
 
 Marcelo Soria-Rodriguez: I agree completely. I had the same moment of "I can't listen to this anymore," from debugging — reload, reload, reload, hearing the same music again and again. Visuals don't wear on you the same way; you don't get fed up looking at something quickly, but audio is different. It made me think about how the pieces always start from the same position, and most people don't stare at a piece for one or two hours, so they never discover the variations that happen later on.
+
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
 
 That was a conversation we had late in development, not far from release: until then, the pieces played out their pre-composed sections before moving into improvisation. But after hitting reload too many times, we realized it's much better to let them roam freely in the musical landscape and see where they take you.
 
@@ -116,6 +128,8 @@ Andreas Rau: That's really touching to hear. Thanks for sharing that.
 
 Marcelo Soria-Rodriguez: Thank you.
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
+
 Trinity: Marcelo, you mentioned the time element earlier — it sounds like you introduced it because you didn't want people always hearing the pieces from the same starting point. How did you arrive at the practice of implementing a timestamp, so the piece always exists in time rather than always starting from the same spot — like you're just poking your head into the door of an amazing concert already in progress?
 
 Marcelo Soria-Rodriguez: Ever since we thought that it would be a piece with cycles of degradation and blooming—getting old and getting young again, let's say—the truth is there's no other way to do the piece than by having it live an eternal life with cycles, and you just happen to be there in a moment of that cycle. If you always start from the very beginning of the piece, it's very hard to experience the decay we were thinking about. As we said earlier, this was a topic that already interested us, so the idea clung on to the project very strongly.
@@ -127,6 +141,8 @@ Andreas Rau: What I find really beautiful about this way of engaging with a piec
 Marcelo Soria-Rodriguez: We talked a lot about creating a piece that would foster spending time with it, which isn't so common. That also makes the piece harder to experience, because it demands time. A static image is instant—of course you need some time to look at the details, but your vision captures the whole piece at once. It's immediately there. But with something that happens in time, you need to spend time to fully experience it. And if you go back and experience the same thing again, it might lose some of its interest.
 
 There are wonderful videos you just want to watch again and again. But we thought the experience could be very different if you go and see the same thing, but different—like Andreas said, a musical performance. I can watch the same concert by the same composer five times because I love it, and every time I'll find new nuances. Here, the differences are even bigger. It was interesting to let the piece be different at different moments in time and let it evolve—it also gives you room for different reactions to it.
+
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
 
 I don't know how to properly explain this, but your emotions take place in time. Your cognition takes place in time. If you only take a single fraction of time, there is no emotion, because emotion is an evolving thing—the biochemistry of emotion happens over time. There's no such thing as a photograph of your emotion; emotion cannot be frozen. The piece plays into that. It evolves because everything has to progress—because the notion of stillness, the notion of permanence, is false in nature and in reality. And so the piece also has to move forward with time.
 
@@ -140,6 +156,8 @@ So to me, it's not possible to experience the piece only visually. If you had mu
 
 The experience is very personal. Even at a concert with a thousand people all listening to the same music, everyone processes it differently. With visuals and music together, having many playing at once would be like listening to two songs simultaneously—you can't do that. Because of the time aspect, if you're going to experience it, you experience one. You can shift to another, or go to the next room. I doubt anyone will devote many rooms to *Toccata*, but who knows—if anyone does, please send pictures. Videos, even.
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
+
 Trinity: I'm just imagining a dinner party where you go through a bunch of different variations—let each sit for thirty minutes, then move on. Dinner and a show.
 
 Andreas Rau: It's also really nice to just play *Toccata* from your phone—I've been doing this a lot lately. I was at the hospital with a newborn, and I played *Toccata* a few times because she actually recognized the music and reacted to it from pregnancy. It was obviously the music she'd listened to the most, by far.
@@ -151,6 +169,8 @@ Andreas Rau: As you said, we're planning to set up a system where collectors can
 What we think is really nice about this recording system isn't just the shareability, though that's wonderful too—it's that you can relate to one moment more than others in *Toccata*, which is totally fine. It's evolving, it's changing. Life isn't beautiful every day—some days you're tired, some days you're pissed off, some days you're really happy, and some days you want to play something over and over again. The idea of having these slices of *Toccata* minted, so you can showcase the moments you really like and appreciate, was important to us. That's why we decided to build in this possibility.
 
 Marcelo Soria-Rodriguez: I want to stress one more point: the ability for a collector to select their moment in the piece probably changes how they experience it. It's no longer just a spectator's point of view — it becomes yours. Like Andreas says, this clip is my happy part of the day. The day has a lot going on, but this is the part I choose, the part I get to select and hold in my gallery, my wallet, whatever. That creates a new relationship to the piece and gives you room to experience it further.
+
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
 
 To me, one of the nice things about making art is helping people be in touch with themselves. That's always my reaction when I experience a piece of art I really like — any art form, but maybe especially music. Certain pieces move me so deeply, and when I spend more time with them, that feeling only grows stronger. So giving collectors this option might trigger some extra interest, some extra time spent with the piece, and that exploration might be good for them. I'm not saying it's some grand statement — but I do find it interesting that letting someone explore a piece in different ways can deepen the experience.
 
@@ -164,6 +184,8 @@ I'm wondering if you'd both indulge a couple more random questions about the pro
 
 Andreas Rau: I'm fine.
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
+
 Will: One thing that's a little more nuts and bolts: obviously there's the visual element and the music element, and fx(hash) limits you on file size. Was there anything you originally intended for the project that had to get scaled back to fit fx(hash)'s constraints, or was that never really an issue?
 
 Andreas Rau: I actually found it a very fruitful constraint. Since we were working with samples, the sound files take up space, obviously, and at one point we started adding different instruments — different layers on top of the music. We probably could have gotten away with it within fx(hash)'s restrictions. But then the question became: should we? Should we really not just stick to the basics — the piano, this very restricted aesthetic? That's what we decided to do: not add more, but keep removing and removing until we had the bare minimum — the piano, some effects, a few small additions here and there.
@@ -175,6 +197,8 @@ So, coming back to your question: it was really healthy to have that restriction
 Marcelo Soria-Rodriguez: I concur.
 
 Will: Trinity, anything else you want to add?
+
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
 
 Trinity: This conversation has been so wonderful and enlightening. You had such an excellent write-up on the piece too, which Will was very happy you released—
 
@@ -188,6 +212,8 @@ Trinity: This time it's appropriate that our first deep dive is for *Toccata* sp
 
 Will: It's really awesome this worked out — thank you both for coming together so quickly and finding the time to do this. I think this is a good place to wrap up. Is there anything we didn't ask that we should have?
 
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
+
 Andreas Rau: There's one thing we touched on but didn't really get into — the write-up, the little article we posted before releasing the piece. We're actually working right now on a more in-depth version of that article. It was written pre-release, so there was a lot else to take care of at the time. But there will be an extended version coming out sometime soon. When, who knows — but it'll be there, and we'll let you know.
 
 Marcelo Soria-Rodriguez: Nothing more to add on my side, except to say it's an honor that you'd be interested in doing a full show about one piece. Thank you for that.
@@ -199,6 +225,8 @@ Trinity: One last question: if you had to collaborate again in the future, would
 Andreas Rau: I can wholeheartedly say yes. I'd love to create the fugue after the toccata. Who knows?
 
 Marcelo Soria-Rodriguez: Yes, I would too.
+
+[pool: Entretiempos | Entretiempos — Marcelo Soria-Rodríguez | | 1]
 
 Will: Thank you both, Andreas and Marcelo. It's such a pleasure to have you — I think you've inspired us to do more shows like this, where we deep dive on a single project. This was really fruitful, and I think everyone's going to enjoy hearing directly from you about the piece. It's a special one to both of us — we were so excited to collect it and to talk about it on the show. And of course, we'd love to have both of you individually for a regular artist interview sometime too — no pressure, we'll work that out another time.
 

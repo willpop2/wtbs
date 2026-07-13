@@ -122,7 +122,7 @@ They go through the history, the archaeology, or search for things, and then the
 
 As for artists I like—I'll pull up my collection. In general, if I like the aesthetics of something, I'll support it, and if it has a physical component, even more so. I went back and bought a bunch of earlier Shawn Kemp work. Then when fx(hash) 2.0 went live, his *Luminous Echoes* project launched—the previous one was called *Mini Dahlias*, such a great set. *Luminous Echoes* is in the same vein: he makes artworks that, when you redeem them, become stacks of card and paper in different colors that assemble into this amazing layered 3D experience—he laser cuts and assembles them himself. It's clearly a labor of love, because the resale value is like 100 times what you can buy them for from him directly. So I got my *Mini Dahlias* and then a bunch of *Luminous Echoes*. It's the only thing I've ever seen like it.
 
-[pool: Mini Dahlias | Mini Dahlias — ShawnKemp | ]
+[pool: Mini Dahlias | Mini Dahlias — ShawnKemp | | 3]
 
 I still go through and get excited about old stuff on fx(hash) too—PixelSymphony, I got a bunch of those. The outputs from that project are truly delightful, clearly programmed, with an element of randomness while still being beautiful—every single one is beautiful. I also like an artist called Vector Zero. They just did one called *The Machine*—it looks like a TARDIS in space with an asteroid and a black hole. I wish it were an SVG, because it's totally vector line art, but they didn't have that output option. I sort of wish I were a programmer so I could just add an "SVG output" button myself. I can keep going if you like.
 
@@ -136,7 +136,7 @@ Bre Pettis: Yeah, and unfortunately his color data is in the fill, not the line 
 
 One of my favorite artists is Piter Pasma, because he's done a lot of work that's both configurable after purchase and plottable. My favorite series is *Yip and Yap's Imaginary Playground*—38 out of 100 are minted, it's a 200 Tezos purchase, and I've probably bought 8 of them. I love these because when you run them in your browser, you can add "LW=" for line width—by default it's something like 0.7 or 0.4—and set it to 0.1, meaning the lines go from 0.4 millimeters to 0.1 millimeters, filling the space with four times as many lines. So a drawing he essentially intended as a postcard-sized plot—
 
-[pool: Yip and Yap's Imaginary Playground | Yip and Yap's Imaginary Playground — Piter Pasma | ]
+[pool: Yip and Yap's Imaginary Playground | Yip and Yap's Imaginary Playground — Piter Pasma | | 3]
 
 Will: Oh, wow.
 
@@ -148,7 +148,7 @@ Trinity: Really?
 
 Will: Something about it just didn't connect for me compared to some of his other work, like *Industrial Devolution*. I just couldn't figure out what these little guys were doing.
 
-[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | ]
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 3]
 
 Bre Pettis: The other piece I love of his is *Geomorphism*—I've got a bunch of those, plus one of the *Nano Panoramas*, one *Industrial Devolution*, and several from *Universal Ray Hatcher*. Even though you can't scale those the same way—messing with the parameters destroys the original composition—it's still incredible. For those who haven't played with it: Piter Pasma made a project that's basically access to his Universal Ray Hatcher. In the parameters, there's a place where you can input math that generates a 3D model, and then the Ray Hatcher applies light, shadow, and lines to it. Go down the rabbit hole on *Universal Ray Hatcher*—it's one of the champion projects of generative art on fx(hash). He just handed out tickets and said, "play with it."
 
@@ -158,7 +158,7 @@ Bre Pettis: 100% agree.
 
 Will: A great Easter egg too—if you go back and listen to our episode with Piter, probably a year and a half old at this point, we talked to him about his plotted work and how he'd never done a long-form generative piece. He was hesitant about whether he could pull it off for long form. I don't know if that conversation inspired him or if he'd just been working on it independently, but about six or eight months after that episode he finally released *Industrial Devolution*—he'd figured it out, and then the dam broke and he put out all these amazing projects.
 
-[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | ]
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
 
 Bre Pettis: Awesome.
 
@@ -172,6 +172,8 @@ Trinity: I'll follow up with this: you've talked a lot about physical pieces alr
 
 Bre Pettis: Oh my goodness. My current favorite plotted fx(hash) piece—really a set of them—is Joanie Lemercier's *Nuages Possibles*. I'd previously collected Joanie's work: I have an ocean piece, and I have mountains. Then he did the clouds, and I was like, okay, I'm on the train. One thing I really like about Joanie Lemercier, beyond making beautiful artwork, is that if you follow him on social media, he's active in an anti-extinction environmental group and does aggressive work confronting environmental polluters—which adds a whole other layer to his nature-based artwork. He's also gone out into the desert, flown a drone to do landscape scanning, and run a plotter on battery in the middle of the desert.
 
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
+
 My favorite physical piece right now—I just got it in the mail this morning—is an Antigoon. Someone on the TENDER Discord was letting go of one of those artworks, and I was able to grab it. I just opened it this morning, so I'm looking at it now.
 
 Will: Must have been *Clown Vamp*, right?
@@ -183,6 +185,8 @@ Will: People are pretty good about making sure they fulfill, which is another as
 Bre Pettis: That's something that gets overlooked in this community. Most people see the digital artworks and assume everyone just sits at home in their underwear interacting with the NFT space through a computer. That's not actually very descriptive — the people who are into this regularly meet up. Even though this is a podcast, we're getting to look at each other over video, and it's great to see. Now I'll recognize you when we're in person. Being in these Discords and at physical events means there's an actual sense of community, accountability, connection, and friendship-building. That's what got me into NFTs — realizing there was community and friendship building to support artists. I think that's the thing that will persevere and make sure this digital platform for artworks, and transacting with cryptocurrency, continues to move forward: there's an underlayer of community and relationships as close to IRL as you can get.
 
 Will: I don't know if that's particular to or owned by Tezos, but I feel like it's definitely emphasized and more common here. I can think of so many times, even before Tender, in the fx(hash) Discord, someone fat-fingering and accidentally selling a piece they intended for thousands of dollars for one Tez — and then someone buys it before a flipper can and returns it to them.
+
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
 
 Trinity: Oh.
 
@@ -196,6 +200,8 @@ Bre Pettis: I went to Marfa, Texas for the Art Blocks event, and I think Art Blo
 
 Will: Speaking of parties, you mentioned before the show that you're a Magic: The Gathering enthusiast, but we don't know to what degree. It's rare that we actually have a confirmed Magic: The Gathering fan on. So tell us, Bre — do you still play? Are you a past pro we forgot about? What's your story with Magic?
 
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
+
 Trinity: Can you get to Brooklyn?
 
 Will: Yeah. Can you come play with us?
@@ -207,6 +213,8 @@ Me and Clay Martin found a theater in Seattle that would let us use it for almos
 There were about a dozen puppeteers in Seattle at the time, which is a lot for any one place — it's one of those communities where there are only dozens of people around the world in it, and you're in an elite club as soon as you become one, just by making a bunch of puppets and putting on a show. Our primary audience ended up being employees of Magic: The Gathering, since the company was based in Seattle at the time. Pretty much every audience member worked there, and they were such an awesome audience — if they weren't high or drunk, they were acting like it. What a delightful group. We'd perform for them and they would just howl. We became friendly acquaintances with a lot of the Magic: The Gathering employees. So when you ask about Magic: The Gathering, I get a warm place in my heart for the people who were creating it in the '90s. I have to assume they were all so passionate — I bet every single one of them is still kicking butt at Magic now. That's my story about Magic: The Gathering.
 
 Will: Any names you remember? I wonder if Mark Rosewater or Aaron Forsythe would've been there in '97 — Trinity, I don't know if they started that early since Magic launched in '92, '93.
+
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
 
 Trinity: I'm trying to find the list of people who used to be part of that team.
 
@@ -220,6 +228,8 @@ Bre Pettis: Their offices were in this dungeon in Seattle on University Ave, whe
 
 Will: You've got your Vera Molnars, we've got our Magic cards — time will tell who picked wisely. Trinity, anything else? Should we wrap up, or one more question?
 
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
+
 Trinity: One more. We've talked a lot about the artists in your collection and the art you love — anyone you'd like to shout out, someone people should be paying more attention to?
 
 Will: Yeah, even if it's not an artist — just someone we should go check out.
@@ -232,6 +242,8 @@ Bre Pettis: I'd point people to Adafruit, a New York company run by PT and Limor
 
 Will: Physicals was one of our big themes for 2023, and it sounds like it'll continue into '24. I wouldn't be surprised if we have occasion to talk to more folks on that side of things — great shoutouts.
 
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
+
 Bre Pettis: I think you called it. People on audio can't see it, but I can see the books and artwork behind you — living with art matters. I have 800-some-odd pieces on fx(hash) in my collection, but the ones I really know are the ones hanging on my wall; I feel a much stronger relationship to them. I think you're on target — the physicals trend started in 2023, and I think we're going to see it really take off in 2024.
 
 Will: Well, Bre, this was great, really cool to have you on. This was so much more than just "I like to collect this and I'm going to sell it at this price." Delightfully unexpected in a lot of ways, and you're not that far away — maybe someday we'll drop by your studio, say hi, and check out some of your Vera Molnars.
@@ -243,6 +255,8 @@ Will: That would be sick. Let's plan on it, a year in.
 Trinity: That's my birthday weekend, so yes.
 
 Bre Pettis: Yes, let's celebrate your birthday.
+
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
 
 Trinity: Let's celebrate my birthday. At the Whitney.
 

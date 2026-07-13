@@ -12,7 +12,7 @@ Will: We definitely want to talk all about that work, but Luke, why don't you in
 
 Luke Shannon: I'm Luke Shannon. I've been coding generative art for about 6 years. I have a couple of projects — *The Opera* with Art Blocks, *Orchids* with Bright Moments — and some one-of-ones. I focus on making physical algorithmic art, physical pieces built with code. I'd been painting and drawing my whole life, but I always thought I'd be a writer. Then I found that writing code scratched the same itch of describing something with a tight syntax, while also incorporating the visual and mathematical elements I like. So when I found generative art, I went all in.
 
-[pool: Orchids | Orchids — Luke Shannon | ]
+[pool: The Opera | The Opera — Luke Shannon | | 3]
 
 My introduction to the NFT space is probably one of the more unusual ones. My parents sent me an article on NFTs — "You do digital art things," they said. I read it and didn't do anything with it. Then they sent me another one, and I followed up, found Art Blocks in early 2021, had a great conversation with Snowfro, and was blown away by the community that was already there. I immediately started working on a project with them, released *The Opera* in 2021, and followed up with *Orchids* with Bright Moments the next year. Now I'm focusing more on producing physical generative art — making tangible pieces from code.
 
@@ -26,6 +26,8 @@ Luke Shannon: Plotters, laser cutters, embroidery machines, CNC machines — a w
 
 Will: What was your background like in coding? You're able to approach all these different machines and get into their native languages and scripting, but I imagine you're also using something like Processing or JavaScript, maybe Python, to build the actual algorithms that generate the work. When you were in school, were you studying computer science, or computer science and art, or have you just been picking this up off YouTube as you go?
 
+[pool: Orchids | Orchids — Luke Shannon | | 1]
+
 Luke Shannon: A lot of YouTube. I'm still in school studying computer science and visual art — the closest I can get to generative art as a major. I tend to start very hacky, just seeing what I can get working and connected, then refining that process over time, trying to learn more about what's intrinsic to the material or the medium and pushing on that to tease out something interesting. I'm tremendously indebted to p5.js and Processing, the work of Casey Reas and Loren McCarthy, early Tyler Hobbs videos, Daniel Shiffman — the sharing, open-source nature of the community. I've benefited a lot from that, and I try to open source as much as I can too.
 
 Will: What's the vibe like being a student in this space? Our impression as millennials in crypto is that the younger generation doesn't like NFTs — they seem turned off by blockchain in general, and honestly, pretty deservedly in a lot of cases. You can dislike the environmental issues, especially with proof of work, or dislike the attitudes of people who collect things like Bored Ape Yacht Club. But you pushed yourself into embracing it, or at least accepting and understanding it. Do people around you know you sell stuff as NFTs? Does anyone ever come at you in a seminar and try to undermine you for being a "sellout" who uses blockchain?
@@ -37,6 +39,8 @@ Trinity: So you're saying you're not the most famous person on campus?
 Luke Shannon: Not yet.
 
 Trinity: Okay, after this interview, I'm sure.
+
+[pool: Orchids | Orchids — Luke Shannon | | 1]
 
 Luke Shannon: Yeah, this will be the one.
 
@@ -50,6 +54,8 @@ Trinity: That's humanity at practice — we're all special, unique algorithms of
 
 Luke Shannon: There's also a very non-human perspective on it. There are these amazing systems — a classic example is life and DNA as a kind of code and randomness, following that code while randomness changes the trajectory and produces such amazing variety all around us.
 
+[pool: Orchids | Orchids — Luke Shannon | | 1]
+
 Trinity: We're living in a hologram, guys.
 
 Will: Save it for the Maya Man interview.
@@ -60,7 +66,7 @@ Luke Shannon: That was a great one, by the way.
 
 Will: I want to piggyback on something you said. You did an interview last year with ArtXCode, and in that piece you said that automating systems and building algorithms helps you understand mediums better. I think you were talking about doing generative works with clay and embroidery, trying to get closer to the core concepts of working with these materials at a mathematical level. I'd love to hear more about that — and let's jump forward to the generative chair, the project you have coming up with Tonic, called *Seating Arrangements*. As far as we know, it's the first piece of generative furniture out there, if that's not too trivializing a way to put it. What did you learn about wood, and chairs specifically? When you're writing code that's going to produce something we recognize as a chair, what were some surprising things you learned about chairs and chairness in that process?
 
-[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | ]
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 3]
 
 Luke Shannon: I'll say I'm wary of claiming "firsts" — I've seen some similar projects — but it was great to work on this specifically because I did learn a lot about chairs, which I love. It's really interesting to interface this well-defined algorithm for producing chairs with the not-so-well-defined problem of what's "sittable." That's a much more human problem, and it's not clear what's sittable even across different people. Investigating that has been fascinating — what are my biases when I look at something and think "that's a chair" versus "that's not a chair"?
 
@@ -74,6 +80,8 @@ Luke Shannon: Yeah.
 
 Trinity: How are you incorporating "chairness" into an algorithm? How does that translate from a rules perspective?
 
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+
 Luke Shannon: There's some things you can do. Tonic curates the hashes too, so it's like a long-form project, but they pick some of the hashes, and that can help fine-tune the process into interesting sections of randomness. There's also graph theory involved—connecting all the components of the chair and searching for connected components to see if it's one structure.
 
 There's an interesting area of math and computer science called percolation theory. Once you reach a certain probability of pieces connecting, there's a turning point where something goes from likely disconnected to likely entirely connected. Some of the most interesting chairs sit right on that boundary between what's obviously well-connected and what's obviously not a chair. I've also developed a whole set of chair operations where I take existing chairs and do comparisons or Boolean operations between them to see what the resulting structure is like. It's changed my perspective a lot on how to think about things I'd used without thinking too deeply about before.
@@ -85,6 +93,8 @@ Luke Shannon: It started with a printmaking process. I was interested in the com
 At the time I was working with woodblock matrices, so I was thinking about how to turn the woodblocks into the center of the piece. I also think of these systems as things to really live with—so combining those ideas, I thought: what do you do with wood? You make furniture. That feels like a fundamental human direction. Coming at it from an algorithmic perspective, the objects take on their own selfhood, their own objecthood, because they're created outside of what I'm predicting or what the viewer expects—constrained by rules apart from our comfort. Tonic was great to work with because they focus on making physical pieces, and this is a very physical-piece-intensive project. The team's been a pleasure to work with.
 
 Trinity: That brings up an interesting point around production and distribution. Maybe I missed this if the information's out there, but will every NFT come with a chair?
+
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
 
 Luke Shannon: Every NFT is the instructions to produce a chair.
 
@@ -98,6 +108,8 @@ Luke Shannon: We could make them all sittable, but I think it's more fun not to.
 
 Trinity: Do you have to define sitting? Is a lean a sit? Is a slouch a sit?
 
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+
 Luke Shannon: Right, and it's different for different people—that's exactly what I mean. It's really hard to define, but defining the chairs well and then interfacing them with that problem brings out a lot of interesting constraints, a lot of interesting insights into what is sittable, what is a chair.
 
 Will: In the artist statement you shared with us before this interview, one thing you pointed out was that well-designed objects tend to recede from memory, losing prominence in day-to-day life. Do you think we need more friction in daily life? You could also argue the opposite—that well-designed objects recede *because* they're so well-designed they don't need to occupy any space in your mind. Where does this idea of objects having agency, of objects inserting themselves and being present, come from? I'd love for you to unpack that a bit for people like us without a hardcore art or design background.
@@ -107,6 +119,8 @@ Luke Shannon: I don't think there necessarily should be more friction in our day
 A lot of modern design—really good UI/UX—isn't designed to be "pain-free" for our sake. It's pain-free for its own reasons: to keep us on the app, to serve the company. Or take a modern office chair—great, super comfortable, I sit in one and work all day—but part of why it's designed that way is precisely so you'll sit and work all day. There's an app I use and recommend called OneSec, which intentionally adds friction to opening a new app—you try to open it and it makes you wait five seconds. That's intentionally making the UI worse, but it's helpful when I want to consider whether I actually want to open this thing, or whether it's just really easy to open right now. I guess there are some parallels there in my mind.
 
 Will: Seating Arrangements.
+
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
 
 Luke Shannon: It's a series of chairs defined entirely by words, entirely by code, but also very much a chair produced by technology. Should a chair produced entirely by technology be perfectly comfortable? Is that even a good thing? Some would say yes, some would say no. I don't know.
 
@@ -120,6 +134,8 @@ Luke Shannon: Totally. Some outputs from the algorithm you immediately recognize
 
 Will: It's funny contrasting this with a lot of popular generative art projects where the pieces are meant to be abstract, and collectors browse the outputs looking for emergent forms—like *Ringers*, for example, a famous case. Or more recently, the collector-curated projects on Verse where people find faces or animals depending on the project. This is kind of the opposite: you start with the chair, you're going to get a chair, but what you get might actually look like something that's not a chair. It flips that on its head, whether intentional or not, and I think that's pretty funny.
 
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+
 Luke Shannon: I love the serendipity of those algorithms—when you're running something unrelated and suddenly see something that reminds you of something else. To me that connects to ideas of interdependence between things, seeing in one system something from another. That's still present here, but it starts from this very constrained view of chairs and moves toward letters, words, names, or images. I have a lot of fun seeing what kind of chairs I can design to mimic something else—there's a chair that just says "hi" all over it, spelled out in the structure. I don't know why that makes me laugh.
 
 Trinity: And that's within the form of the chair itself?
@@ -130,7 +146,7 @@ Will: Beyond understanding chairs better, do you find yourself thinking about th
 
 Luke Shannon: We're working with a studio to help manufacture all of the chairs, but I've made all the prototypes myself. As for the future of these kinds of generative processes, I'm excited about it—that's where I spend most of my time thinking. With *Stitchables* and one of my previous works, *pattern.dst*, both generative embroidery fashion projects producing one-of-one instructional art, I feel like the future of fashion involves people making their own clothes, or at least being involved in the process. That's really interesting to me as a form of self-expression, and I think instructional art and algorithmic art are going to be important to that. There's something special about the relationship you develop with a piece you create yourself by minting, or in collaboration with a friend or an artist you support on a personal level.
 
-[pool: pattern.dst | pattern.dst — Luke Shannon | ]
+[pool: pattern.dst | pattern.dst — Luke Shannon | | 3]
 
 I'm also excited about the possibilities of upcycling—executing instructions like embroidering old clothes to restylize them, or mending clothes, because these instructions can be repeated and run again. I hope it's fundamentally inclusive too. There's great opportunity to make these algorithmic works have variety and function as each person needs them to function. With *Seating Arrangements*, you can rescale outputs to any size in any dimension—arbitrarily wider or skinnier, taller or shorter, more or less deep. The wood can be made thinner or thicker.
 
@@ -144,6 +160,8 @@ I think this all corners the same idea. With generative art, there's the questio
 
 Trinity: Or is it the NFT?
 
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+
 Luke Shannon: The NFT, exactly—some people would say that. I think the answer is somewhere in the middle. All of these are cornering what the art in generative art is; none of them fully capture it themselves, but it's tied to all of them. In my opinion, it's the core idea behind the algorithm, even if it's not written in code—even if it's a natural-language instructional thing. That's a really broad view to take, and my friends will definitely make fun of me for calling all kinds of random things "generative." But I'm interested in trying to describe the ideas foremost.
 
 Will: Continuing on the question of NFTs merging the physical with the digital—this is a bit hypothetical, but we asked it in an interview we released today, so I want to ask you too. If I have a chair or a piece of embroidery from you, or some future project, and it's a physical piece that comes with an NFT, how do you think about the long-term preservation of these works? On one hand, there's blockchain stability—you've released pretty much all your work on Ethereum so far, not on any other blockchain, so if there's a reason for that, maybe it's because you believe it's the most stable or long-term viable. What role does that NFT play as proof of ownership, or as a kind of receipt? Say I get a chair from you, then I move and it gets destroyed by the movers—the NFT has the hash, so it could be reproduced. Do you think that as long as the NFT persists, that person should have the right to a physical replacement if the original is lost or destroyed? Or is it more one-and-done—the physical is just part of it, but as long as you have the NFT, you still kind of own the art, even if the physical won't be reproduced? How do you think about preserving your work over 50 or 100 years or longer, across these two intersecting mediums—the digital and the physical?
@@ -155,6 +173,8 @@ Trinity: Looks like we're going to have to continue on without Will—he's havin
 Luke Shannon: It is canonical in that way. It's kind of nice that you don't have to be so precious with the work. It can quickly become a source of stress for me if I'm maintaining a one-of-one that I really care about—wanting to make sure it continues to exist and be enjoyed in the state I'm able to enjoy it. That can produce some anxiety.
 
 Trinity: How so?
+
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
 
 Luke Shannon: It's a kind of responsibility to the artist, for preservation. Preserving work in general is really hard, and preserving digital work, ironically, can be even harder—code from a decade or two ago doesn't run anymore, and who knows what things will look like in 20 years. I think blockchain is a great way to handle some of that preservation, especially when the code is on-chain. That's another reason NFTs make special sense for generative art—they can be reproduced from on-chain assets. There's a more complicated conversation there that I'm not fully versed in, but I think objects take on a nice, new quality when they're lived with and negotiated with a little. For the chairs, for example, the act of sitting in one is more of a negotiation—it's an object subject to certain constraints, and there are more comfortable positions. Sometimes surprising—there are weird handles you can hold onto in unique places, that kind of thing.
 
@@ -168,6 +188,8 @@ Luke Shannon: It's generative.
 
 Trinity: The human connection to everyday objects—I think that's such an important counterpoint to art on the blockchain, because so often it lives on the blockchain, or points to code on the blockchain, but isn't necessarily something you live with. As we start to live in virtual worlds almost exclusively, maybe that becomes more tied to what it means to be human. It also ties back to what we were talking about before regarding friction—not just the friction of using a chair, but the friction of blockchain and NFT marketplaces versus real-world marketplaces. NFTs reached extreme popularity so quickly partly because of the frictionless nature of most markets—you buy on Art Blocks, sell on Art Blocks or OpenSea, connect a wallet, list a price, hit enter, done. But that's not necessarily geared toward the longer-term love and appreciation that comes with the friction of getting your chair made, or making your spoon and having it become part of your life.
 
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+
 Luke Shannon: That's a really interesting point. The openness of marketplaces is great—it's great to have that frictionless interaction when it should be frictionless. But I also think that when an artist releases something on a contract they produced, and you can only interact with it through the site they made, that's great too—and maybe an important friction, in their opinion. Being intentional about where to involve friction is great. And I love the point you made about how, as we move to a more digital time, these digital things become more a part of the human experience. Another thing that gets talked about a lot in generative art is skeuomorphism -- the idea that digital things imitate physical things to make clear what the digital thing does. The Notes app is the classic example. But I think there's something really interesting happening in reverse, where the physical world imitates the digital world to make what the physical world does more obvious -- or where the physical world is being informed by the digital world first. Instagram is a great example: the way we interact with it has totally changed how hotels, resorts, restaurants, physical spaces of all kinds design themselves. They want their Instagrammable moments. Instagram has tangibly changed physical space. Engaging with skeuomorphic tendencies in that direction is part of why I'm interested in producing physical work with generative art. These machines have tendencies, biases -- focusing on those directly and bringing them into the physical world is an interesting artistic practice for me.
 
 Trinity: It's bringing the code to life in a very tangible way.
@@ -179,6 +201,8 @@ Trinity: Are we now going to say the blockchain is physical? A physical represen
 Will: It is.
 
 Luke Shannon: There's got to be some server somewhere running stuff. There are computers maintaining it -- it's a community of physical places and people. Abstraction is really useful in computer science, but it's worth questioning how much we should separate these things.
+
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
 
 Trinity: That speaks to what we were saying earlier about preserving pieces as technology shifts. Flash is the classic example -- everything was done in Flash 15 years ago, and now it barely exists. It's so hard to reproduce.
 
@@ -192,6 +216,8 @@ Luke Shannon: See you in 100 years. We'll figure it out.
 
 Trinity: Hell yeah, we'll do part two. Let's aim for 2100 -- we won't quite make the full centennial of this episode, but we should definitely plan to sync back and see how the blockchain's doing.
 
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+
 Luke Shannon: I'll put it on my calendar. We'll see if that calendar's still around too in 100 years.
 
 Trinity: True -- everything feels somewhat permanent these days, but it's often the physical things we tote around with us that really stick. Physical photographs from the '90s versus digital photos I took five years ago, for instance.
@@ -203,6 +229,8 @@ Luke Shannon: I don't think I've ever been particularly good at this, or had a r
 As for pricing, that's a genuinely difficult question. I mostly leave it to a Dutch auction or similar. The ideal is to get the work into the hands of the people who'll appreciate it most, and an auction is typically seen as the way to do that -- though it's not exactly right, since it also privileges people with more money.
 
 Trinity: They're able to acquire things more easily, or in multiples -- imagine having a full dining set of chairs. Four seats, six seats, a twelve-seater, who knows?
+
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
 
 Luke Shannon: A twelve-seater! I'm excited just to see a bunch of the chairs together -- there'll be a show as well, and that's what I'm most looking forward to.
 
@@ -216,6 +244,8 @@ Luke Shannon: No, I think we've covered a lot. I just love talking about them.
 
 Trinity: I love listening about them. They're so fun, and so new and unique within the space -- I haven't seen anything quite like this at this scale. Hats off to you and everyone you've been working with at Tonic.
 
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+
 Luke Shannon: Thank you. It's very much an experiment at this scale, and it's exciting to put it out there and see how it does. I've been thinking about chairs for months now. A lot of the artists who've inspired me -- Bruno Munari, Enzo Mari -- Munari especially has such a playful, fun attitude toward his work. I like that you're saying you think these are fun, because that's a goal too: for this to be lighthearted. It's a bit of an outlandish idea.
 
 Trinity: If things aren't outlandish, where's the fun in that?
@@ -227,6 +257,8 @@ Trinity: Same. We'll reconvene in 77 years to talk about the longevity of the fu
 Will: Yeah.
 
 Trinity: Cheers -- we really appreciate it. And to everyone listening, hope you enjoyed it too. See you next time.
+
+[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
 
 Luke Shannon: Thanks.
 

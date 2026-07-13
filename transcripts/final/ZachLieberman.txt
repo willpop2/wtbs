@@ -38,7 +38,7 @@ Zach Lieberman: I have flat files, which helps with storing them. Usually once a
 
 Will: For *Cone Gradient Studies*, which you've been sharing a lot of over the last year on social media, and which will also be part of the Verse Solos exhibition coming up, what were you looking for as you evaluated those images that helped you tweak and tune the algorithm to arrive at the final images that'll be in the show?
 
-[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | ]
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 3]
 
 Zach Lieberman: For me, *Cone Gradient Studies* is about seeing light move across a piece of paper, and there are qualities I really look for. One is this — I don't know the right term for it — but there are moments in the image where the colors and shading become very ambiguous. In some of the cone gradients you have solid colors meeting in the center, all the cones focused toward a point, and you wind up with a color that's like fog or liquid — hard to understand what it even is. That ambiguity is so interesting to me. I try to find images where I just don't understand them. Maybe visually they're appealing, but my brain goes, "What is going on? Let me try to read it, let me try to process it." I like that pathway: starting with your eye, going to your brain, and then back to your eye — seeing something, having to think more intensely about what it is or means, and having that feed back into how you see it. I look for images that activate that pathway.
 
@@ -50,7 +50,7 @@ Zach Lieberman: It's similar to long form in that you have different traits. Som
 
 Will: Let's talk about your Verse Solos exhibition. Let me see if I can get the pronunciation right on the first try: *Lichtrequisite: Studies in Color, Light, and Geometry*. How close was I?
 
-[pool: Lichtrequisite | Lichtrequisite — Zach Lieberman | ]
+[pool: Lichtrequisite | Lichtrequisite — Zach Lieberman | | 3]
 
 Zach Lieberman: I think that's correct. I'm no expert, but yeah.
 
@@ -59,6 +59,8 @@ Will: I know the title is a reference to another artist's work, from reading the
 Zach Lieberman: Last year I did some work with Verse — I was part of a group exhibition, I think it was called *Chromatics*. I'd done some light studies with them, and it was great; I really enjoyed their curatorial sensibility and the way they presented the work. I'd been following Verse for a long time — in NFT time scale, anyway — and have been excited by the energy they put into the space.
 
 I was approached by Mimi, a curator there, who asked me to do a show about light in the summertime. I'd been doing light studies I'm really proud of, similar to what I did for Verse last year, but I told Mimi I wasn't tired of them, I just wanted to do something different. I had this cone gradient approach I was excited to explore. The original intention of the exhibition — which is where the name *Lichtrequisite* comes from — was to create work in response to another artist. Mimi suggested Laszlo Moholy-Nagy, which is where the title comes from. I threw out other artists I was interested in — Gottfried Jäger, who does generative photography, and another artist whose name escapes me who does beautiful light paintings. As we got into it, it seemed easier to frame the show as a solo exhibition specifically around color, light, and geometry — forms I think about every day. So the original intention was to respond to another artist, but it transitioned into being about these two bodies of work, which I'm happy about.
+
+[pool: Lichtrequisite | Lichtrequisite — Zach Lieberman | | 1]
 
 Will: I think the other artist is James Turrell, right?
 
@@ -70,7 +72,7 @@ Zach Lieberman: Yeah, the MASS MoCA stuff is amazing.
 
 Trinity: We've talked quite a bit about *Cone Gradient Studies*. Let's talk about *Colorblind Study* — I see there are studies numbered one through five. Will those be one-of-ones or editioned pieces?
 
-[pool: Colorblind Study | Colorblind Study — Zach Lieberman | ]
+[pool: Colorblind Study | Colorblind Study — Zach Lieberman | | 3]
 
 Zach Lieberman: One-of-ones. The *Colorblind Studies* use essentially the same code as the *Cone Gradient Studies*, but there was a process I fell in love with — horizontally or vertically altering the image in some periodic way. Sometimes you do something and it opens up a whole new world. Here it's a simple idea: cut the image into strips and make something happen across a strip — maybe the colors are brighter at the bottom and darker at the top. Images that felt flat or gradient-y suddenly become very dimensional.
 
@@ -84,13 +86,15 @@ Will: Very cool. And those are going to run as auctions, correct?
 
 Zach Lieberman: Yeah, auctions.
 
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
+
 Will: Twenty-five one-of-one pieces — that'll be exciting to watch.
 
 Trinity: Simultaneous auctions.
 
 Will: To jump back to *Cone Gradient Studies* — those are going to be distributed through mint passes, right? Fifty curated pieces.
 
-[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | ]
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
 
 Zach Lieberman: Yeah.
 
@@ -104,6 +108,8 @@ Zach Lieberman: Exactly — 150 passes for a maximum possibility of 250 editions
 
 Will: The exhibition's going up on Verse probably around the time this episode comes out, maybe a little after. Before we move on — can you talk more about the process? Were these pieces fully baked before you brought them together into the show with Verse, or was there back-and-forth? Did they play a role in helping curate the pieces? Were there any pivots or interesting tidbits from that process worth mentioning before we move on?
 
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
+
 Zach Lieberman: Yeah. I don't know if there are any cool pivots here, but these are algorithms I've been working on and off with for years. The cone gradients, for instance—I probably made the first cone gradient work in 2017. It's become a kind of classic for me; I keep coming back to it. I often think creativity is about navigating between known and unknown spaces. The cone gradients are a known space I feel really familiar and excited about, but I love returning to it with new eyes and new ideas.
 
 In terms of curation, I exported thousands of images and picked about 150. The first curatorial job was figuring out what to print for the show. I made a deck, categorized the images, and explained the different styles and approaches. The folks from Verse made suggestions, we went back and forth, and picked four candidates to print for the exhibition. We're still settling on the 50 for the drop.
@@ -115,6 +121,8 @@ Trinity: That seems interesting not just because you have so much work you love,
 Zach Lieberman: For sure. To me, those approaches are like your style as an artist. I think of style almost like desire paths—you know, where two paths of a sidewalk meet at a corner, but people take a shortcut through the grass instead of walking the long way around. Making art means you're always coming up with these shortcuts. The cone gradients are a form of shortcut: a way of making an image where you pick some points, some angles, some colors, and see what emerges. It's something I come back to time and again because it's such a beautiful way to make an image, and I always learn something new. There's joy in returning to older approaches with new eyes and new knowledge, seeing what they bring. So yes, I can certainly imagine doing other things with this in the future.
 
 Trinity: That speaks to something we talked about last year—the conversation around curated versus long-form work that often comes up in relation to your work. There's this sense that Zach doesn't do long-form, with the exception of the collaboration on fx(hash) last year, and maybe a few other specific pieces.
+
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
 
 Zach Lieberman: Well, I also did the Bright Moments one.
 
@@ -128,6 +136,8 @@ I think long-form is another totally valid way to work, though it's one I person
 
 Will: I wasn't actually sure what they were trying to accomplish labeling that collection as long-form and curated. It sounds like they did something similar to what you're doing—creating a lot of outputs and then picking—which doesn't really fit what we'd think of as long-form from fx(hash) or similar sites.
 
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
+
 Zach Lieberman: It doesn't, but I don't know how many outputs there were—maybe 400 or 500—there's still something amazing about seeing the range of the system. It was nice to know Vera was involved in selecting the work.
 
 Will: I'm just nitpicking the verbiage. I feel like they wanted to say "long-form" but also had to own the fact that it was actually curated. It felt like a bit of doublespeak from the platform. But that's a conversation for Friday's episode, Trinity.
@@ -139,6 +149,8 @@ Will: So there was never any consideration of releasing the cone gradients as lo
 Zach Lieberman: Long-form is mentally taxing enough that it feels like something you can only do once a year. I can't sleep, I'm thinking too much—it puts a lot of pressure on you as an artist. There are moments where it makes sense, certain approaches where you feel like this is the way to do it. But I see a lot of people use long-form in a playful, lightweight way, experimenting with collections, and I think that's great. I personally feel like I can only do it about once a year. This particular work has always been so curatorial to me—I love printing it, thinking about it, noodling over every image, being in the weeds. This approach to presenting it works really well for that.
 
 Will: Moving a bit off the Solos exhibition—I want to dig into something you mentioned, that a third of your work is corporate work, presumably work-for-hire with a brief for some space. I want to connect that to NFTs: we've been in this bear market for about a year now, and since you don't release work weekly or even monthly, it probably hasn't felt hugely different for you—or maybe it has. Has the bear market leeched into the corporate side too, or is this uniquely an NFT phenomenon?
+
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
 
 Zach Lieberman: I haven't felt a bear market in corporate work. I've been working professionally for 20 years, and the work naturally changes—there'll be periods where I'm doing events and installations, touring convention centers, and other periods where I'm doing motion graphics, package design, or generative design. It shifts based on what people are excited about.
 
@@ -152,6 +164,8 @@ Zach Lieberman: I think that's one reason I like having balance. I'm a professor
 
 Will: That's great advice, coming from someone who's been doing this for quite a while by NFT standards, at least. Zach, I know you need to head out soon, so let's start wrapping up with some rapid-fire questions, if that's okay — lighter ones. One we always like to ask: what do you listen to while you code, and do you have any music recommendations for us?
 
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
+
 Zach Lieberman: Let me pull out my phone. I love NTS Radio — they're always running live streams, and I find a lot of cool music that way. There are some DJs I really love there, like Merlot. I also love mixes; I don't know why, but I like being on some sort of journey, so I go to SoundCloud a lot to find DJs and mixes. Overmono has a really great mix I've been listening to recently. In terms of musicians, I really like Beatrice Dillon. I've also gotten into exploring '90s techno — LFO and some of that music from England — I've been super into that recently. I don't know if any of this is helpful.
 
 Will: All recommendations are helpful. Everyone brings their own thing — some people listen to a lot of punk and hardcore, some listen to improvisational jazz — but yeah, we definitely hear a lot of electronic in there too. My '90s techno is basically just Orbital, one of my favorites from back then.
@@ -163,6 +177,8 @@ Will: The Lot Radio in Brooklyn has great DJs too — Fortet did one recently, a
 Who would you like to hear us interview in the future? This could be a great chance for you to give us some more traditional art-world recommendations, not just fx(hash) artists, so go nuts on this one.
 
 Zach Lieberman: I don't know if she'd be up for it, but I would love to hear Vera Molnar — she's 99 years old. Ken Knowlton just passed away, Charles Csuri just passed away. I would love to hear more from that generation. I'm excited about how the NFT space has offered a lot of these artists a chance to share their work in different ways, but I want to hear their stories. Lillian Schwartz is a good example — I love her work so much, I teach about her work, and if there were more ways to hear stories about Bell Labs and her body of work, that would be amazing. Those are the artists I'd be really excited about.
+
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
 
 Will: I'm sure you know Ira Greenberg — he offered to connect us with Roman Verostko potentially, who's also still living and also very old. Honestly, it's a little intimidating. Unlike you, we don't have that deep art background — we're doing our best to read up and catch up.
 
@@ -176,6 +192,8 @@ Will: I think we discussed it a little as an icebreaker, but yeah — we both go
 
 Through Bitcoin and Ethereum, I found Hic Et Nunc. Tezos wasn't expensive, so every time I had a little remainder money on an exchange, I'd convert it to Tezos and play around on Hic Et Nunc. Then HEN closed and fx(hash) opened, and that's when we really discovered the community here. I brought Trinity in quickly because it was so exciting — I told her, "You have to see this, it's unlike anything else." She got in hard and fast, just like I did. We were staying up all night on Discord waiting for drops, because back then things weren't so telegraphed.
 
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
+
 After about a month of that — end of December, only six or seven weeks after fx(hash) had even opened as a platform — we thought, we should make a podcast about this and start chronicling what's going on every week. It felt so special, the community, the electricity every time a cool piece dropped. There was so much good work coming out those first few months especially — this pent-up body of work that had no place to be published, and suddenly it did. That was really exciting. Now the show's expanded, since a lot of those artists have migrated to other platforms and blockchains, so we're trying to cover more of the space. But that's the short version of the story.
 
 Zach Lieberman: Nice — it started with gaming.
@@ -187,6 +205,8 @@ So I don't know what your view is — we've talked to people like Jamie from Ver
 Zach Lieberman: That's an interesting question. I don't really think about timeframes — the idea of ownership itself is exciting, whether somebody owns a work for six months, six years, or sixty years. I don't know if I have a great answer. In general, I love just sharing work, and I find I grow community through sharing and creating spaces around the things I do.
 
 Will: I think your instinct to create physicals has been really wise — you were doing that before it became a big trend over the last six months. From the few pieces I have printed or plotted, it really creates a stronger feeling — like, now that I have this, I'm probably never going to sell it. I got this great plot from Zancan, signed, and now how could I possibly sell that NFT? They feel connected, even though technically they aren't — there's this aura of connectedness.
+
+[pool: Cone Gradient Studies | Cone Gradient Studies — Zach Lieberman | | 1]
 
 Zach Lieberman: Exactly. It's about living with the work — that's the number one thing, finding ways to live with the work through printing, having it on my walls, and so on. I actually just found the name of the artist I was blanking on earlier, so I'd love to shout them out.
 
@@ -200,7 +220,7 @@ Zach Lieberman: Thank you, it was really great. I really appreciate everything y
 
 Will: Oh, that's always nice to hear. Thanks. Well, that's it for this one, everyone. That was Zach Lieberman. Check out his upcoming Verse Solos exhibition, *Lichtrequisite: Studies in Color, Light, and Geometry*, starting on August 8th. It's really great to have Zach on. Thank you so much. Hope you all enjoyed. That's it for this one, everyone. We'll talk to you all soon.
 
-[pool: Lichtrequisite | Lichtrequisite — Zach Lieberman | ]
+[pool: Lichtrequisite | Lichtrequisite — Zach Lieberman | | 1]
 
 Zach Lieberman: Later.
 

@@ -110,7 +110,7 @@ Trinity: Very scientific research.
 
 Will: Very, very non-scientific research into the fiat price of some of the "top" projects on the platform as Tez fell. If you're holding *RGB*, *Contrapuntos*, or Zancans, despite how much Tez is down and how bad the markets are, you're still up in dollar terms — which is crazy to think about. Kind of shows we're in the right place building, collecting, and hanging out.
 
-[pool: RGB | RGB — ciphrd | ]
+[pool: RGB | RGB — ciphrd | | 3]
 
 ciphrd: That's a great marker, you're right to highlight it. As mentioned, when the price of the currency crashes, our sales increase in the other direction — there's compensation. I think that's really because the pieces genuinely hold value.
 
@@ -124,6 +124,8 @@ Trinity: One last question here, related to the wonderful community we have and 
 
 ciphrd: We're actually building internal tools to monitor that more carefully, because up until now we haven't had decent tools to do it properly. So I'm using the same resources you have — App Radar, the community graphs people build. My judgment is based on those, so maybe not the most accurate data, but it's something.
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 I feel like we've reached a steady pace. There's not so much growth in new users — we see new people coming, but also users who don't interact with the smart contracts as much as they used to. I think that's fine. We're out of the initial fire-rush of the platform coming to life, and it's great that we've reached a stable state to grow from.
 
 We haven't made much effort toward growing our ecosystem, which is worth pointing out — we're not actively marketing. We're just releasing new tools and helping artists interact with the platform. When we do start meaningful marketing, I mean live events with conceptual installations that highlight generative art and the ways we have to interact with it. I think that could bring a new influx of users who see the platform in a new light, or discover generative art and blockchain in a new light — because we're still not really public. When you say "fx(hash)," nobody understands what it is on average. I believe we're going to try to change that in the years ahead.
@@ -135,6 +137,8 @@ ciphrd: Oh, hell yeah, 100%. I stand by this value. This will remain.
 Will: If anything, it feels like Art Blocks is sliding more toward openness than not.
 
 ciphrd: Maybe, but that's not something I've observed. I've looked at their recent features, and I don't think they're going to be open at all — if anything, it's the opposite. I think they really want to keep their focus on curation rather than opening up more. That's the feeling I have, at least.
+
+[pool: RGB | RGB — ciphrd | | 1]
 
 Will: My interpretation of them removing the seasons, and just the sheer number of announcements, was that they were net doing more art. But maybe that's not the case.
 
@@ -148,6 +152,8 @@ So while my initial intent was to bring more context to pieces, I started to der
 
 It can be used in many other ways we haven't built tools for yet. In the future, fx(text) will be a separate platform where you can link to projects uploaded on OBJKT, or Versum, or any platform. The idea is to create an ecosystem that ties all the art together in one space. Say you want to create a new platform and want people to write articles about the projects published there — I want that to be easy to integrate, so with a few clicks you can add a section to your website where all the articles get published.
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 The reception from writers has been great — we've seen so much great content uploaded. Collectors haven't quite caught up yet; it's used much more as a tip than as collecting something valuable for the long term, and I think that's fine for now. Once this whole ecosystem is tied together into its own tool, people will start seeing more value in the tokens that are written. fx(text) is also a building block for a much more complex creation system I have in mind — I've written a bit about it in some documents somewhere, maybe published, I don't exactly know. But it's going to be one component of a much bigger curation system.
 
 Will: That sounds like a good segue into new features. Next week there are going to be a couple of announcements celebrating the one-year anniversary. What's going to be announced? Let's hear it.
@@ -159,6 +165,8 @@ Artists will still be able to use pure randomness. But they'll also have the opt
 Trinity: A quick question on how this functions, because we've seen similar features elsewhere — Versum has a much lighter take, where you pick between option A or B, or reroll once. How would this interact with the very speedy minting process we experience today, even with Dutch auctions and reserves? Can you play with it before the project is in the queue?
 
 ciphrd: Good point. It wouldn't be meaningful to offer a parametric space to explore with no time to explore it. So this will be a two-step process. First, you mint a pass, which locks in your ability to mint the iteration later. Then you can play with the parametric space for as long as you want — but not quite as long as you want, there's a twist.
+
+[pool: RGB | RGB — ciphrd | | 1]
 
 Mint passes will actually be NFTs, so you'll be able to trade them on the platform, but they'll be subject to a Harberger tax. The idea is that if you want to hold onto it, you have to pay the artist for as long as you hold it. You get seven days where you don't have to pay anything and can just mint. But once those seven days pass, you have to pay a fee to the artist to keep it in your wallet — otherwise, someone else can claim it. The tax is meant to incentivize people to actually mint their iteration, so we don't end up with projects that are half-minted and half stuck as mint passes sitting in wallets — we don't want a collection to be fully "sold" but not fully minted.
 
@@ -172,6 +180,8 @@ Will: That's a lot to unpack. I feel like when this goes live, we're going to be
 
 ciphrd: Yeah.
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 Will: This came up recently with Tyler Hobbs and *Dandelion*. A personal question for you, ciphrd: do you feel that allowing the minter or collector to control features like this, at some level, is still long-form generative art? Is it just regular generative art? Does the category shift a little when it's no longer truly random?
 
 ciphrd: I wouldn't be so keen on putting labels on what we're doing. I get the idea of long-form versus short-form, but it's important for artists to have as many tools as possible, and a range of tools to choose from for their projects. I've been talking to lots of artists who wanted collectors to have the ability to go through what they go through when they create their pieces. When you're making your own set of generative art, you go through thousands of iterations and pick the one you like — that process itself tells you a lot about the artist. Some artists wanted this for their pieces because it was meaningful to the work. I think it'll be like that: where it's meaningful, it'll be used; where it's not, it won't be.
@@ -183,6 +193,8 @@ Trinity: It's such an interesting concept, and as Will said, a little mind-blowi
 ciphrd: This will actually be the theme of our exhibition at Art Basel Miami: subjective rarity. Right now there's this rarity-by-number metric, where you're evaluating the rarest item by the occurrence of traits across the collection. I'd prefer to see new kinds of rarity emerge. As you said, if everyone likes the blue iteration, they'll all mint blue, but someone will mint the red one — and suddenly the red one becomes the rarest, even though maybe it's the ugliest. We'll get this interesting new dynamic for the long-form life of a piece after the mint. I'm curious what will be considered rare once this feature is released. It'll be different for every collection, which fits the narrative of us being a framework rather than a platform that assigns a number and declares "this is the rarest item."
 
 Once we have this new set of tools, it'll be much more important for communities to figure out for themselves what they consider rarest in a set. Now that people can mint the most beautiful traits, do we value that? Or do we value the ones who sacrificed a beautiful output for the sake of getting something different?
+
+[pool: RGB | RGB — ciphrd | | 1]
 
 Trinity: That also gets at the subjective nature of beauty. What we consider beautiful now could change completely next month, or in 10 years, or 100 years — especially looking at an artist's trajectory and how they grow across their body of work. Incredibly fascinating.
 
@@ -196,6 +208,8 @@ Trinity: White background. Come on, man.
 
 Will: Both are pretty desirable, but—
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 ciphrd: That'll make for some interesting theory, because you'll have to pay a lot to keep the mint pass — anyone can buy it away from you at any time if they pay the amount you set. So you'll have to keep paying just to keep it in your wallet in the first place.
 
 Will: I'm most interested to see — I expect huge adoption immediately once this feature comes out, because every artist will want to play with it. But what's the medium-term breakdown? Personally, I'd hate to see it become overused. There's so much charm and fun in truly random mints, and it pushes artists to work on their algorithms — to make sure there aren't a lot of duds, and to hone their taste and style. Some of the best collections go to 500-plus pieces and every single one is awesome. I wonder if the community will pressure artists to just release it customizable and "we'll figure it out." I wonder what the ultimate breakdown will be between artists who lean into this heavily and artists who stick with pure randomness. Assuming this comes out in the next several months, maybe early next year, it'll make for a very interesting year.
@@ -207,6 +221,8 @@ Will: Yeah.
 ciphrd: To tell them: if you do this, you may face these consequences, but you're still free to do it — here's what we've observed over time. That kind of data is valuable for artists, because the market is so obscure when you first arrive in the crypto space. You think, "Cool, I can make money, I'll push out tens of projects," without really thinking through what that means for you as an artist. This will be another iteration of us, as a platform and community, educating artists about what it means to publish in these ways.
 
 Trinity: Good transition point to talk about the other feature coming out around the same time — fx(lens), I believe. What is it, and how does it play with fx(params)?
+
+[pool: RGB | RGB — ciphrd | | 1]
 
 ciphrd: It's a tool you use locally to build projects for fx(hash). With fx(params), you'll have sliders and other controls to select what you want, so we needed a tool artists can use in their own environment to preview what a piece will look like on the platform. It's fairly sophisticated, because we needed to give artists as much freedom as possible while still respecting the platform's constraints, all within the same tool. It's not something collectors interact with — it's for artists building projects for fx(hash), and it's a much more sophisticated way to work than what we used to offer, which was basically a pretty bad boilerplate.
 
@@ -220,6 +236,8 @@ ciphrd: Hopefully none.
 
 Will: You alluded to this earlier, but another new feature coming is an evolution of live minting. Does this mean you and the fx(hash) team won't necessarily need to be around for people to host live minting events? What's coming there?
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 ciphrd: Opening live minting tools to the public is going to happen much later. Right now there's a lot of monitoring required to make sure everything works — we need services running specifically for specific events, and abstracting that into a publicly usable framework is very hard. Even for our own events, we haven't reached the stage where our tools are what we want them to be — there's friction with wallets, lots of things that need fixing before it's as good as it can be for us. Only then will we start thinking about opening it up. It's not really a single feature — it's us continually building tools in the background that we'll eventually make public.
 
 One feature that is coming soon out of a real need: for our one-year anniversary, we wanted to sell shirts for fx(hash). We considered setting up a standard Shopify or WordPress e-commerce site, but that didn't feel like the web3 way to do it, and wasn't very interesting. So we brainstormed, and landed on an idea we really like: consumable tokens. For now, we'll set up one token to be consumable on our backend, and on the frontend you'll see that a project has iterations marked as consumable. When an iteration is consumable, you can "consume" it to trigger an action — in this case, ordering a shirt. So if you buy our token, you can consume it for free to get a t-shirt. It's a way to both hold the NFT and redeem it for a real-world product.
@@ -231,6 +249,8 @@ Will: That's cool — selling merch on the blockchain is a genuinely hard proble
 ciphrd: You keep the token once it's consumed.
 
 Will: Okay.
+
+[pool: RGB | RGB — ciphrd | | 1]
 
 ciphrd: "Consuming" isn't quite the right term — you're only consuming its value, in a way. You still have the NFT in your wallet afterward. That was important to me to preserve — it'd be a shame to burn the actual NFT. Instead it gets marked as non-consumable on the platform. So on the marketplace, you'll see which iterations of a consumable project are still consumable and which aren't, which I think will be interesting in itself.
 
@@ -244,6 +264,8 @@ Trinity: It is now.
 
 Will: That would be the way to do it, right?
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 Trinity: You just put it on our radar. I think there's also something interesting in thinking about tokens having utility elsewhere — people building things to support these tokens, having things in your wallet as a way of identifying your journey through the blockchain. There are so many options that could be built on top of that, so it continues to provide value long after you've spent it. We'll have to see it in action to really understand everything it enables, but there's a lot of cool stuff already being talked about. My brain is breaking.
 
 Will: Since we'll need to see them in action — do you have estimates for when fx, live minting, and consumable tokens are going to go live?
@@ -255,6 +277,8 @@ Will: And the live minting tools already exist, so it's really just a matter of 
 ciphrd: For now, yes, we want to keep it by request, because we're going to do some quality assurance on the exhibitions we work with — the live minting, the quality of the screens representing the artist correctly, all the things we've learned over the last year doing these installations. We want to open live minting on a per-case basis, gather more experience, and eventually release it to the public once it's really ready.
 
 Will: That's an amazing summary of everything that's going to be announced this week, by the time the episode goes live. Before we wrap up — I know we're already over an hour, which is amazing — let's talk about what's still on the previous roadmap. I don't think that document's been updated in a while, but there's curated spaces, which you mentioned might end up being an extension of fx, and then DAO governance and the token. What order do you want to tackle those in? What's still being worked on, and is there an end in sight for any of it?
+
+[pool: RGB | RGB — ciphrd | | 1]
 
 ciphrd: The roadmap on the website is definitely not updated, and we need to fix that. Honestly, the lack of communication has been a byproduct of us working internally to find a new way of working together. We've been overflowing with things to process, and figuring out how to share more with the community, setting up real pipelines where everyone has a defined role. That's why you're seeing these community updates now, and you'll see them more regularly going forward. Updating the roadmap is another item on our to-do list — the whole documentation needs to be cleaned up.
 
@@ -268,6 +292,8 @@ Trinity: Someday.
 
 ciphrd: Someday.
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 Will: Soon. What about market features? We talk a lot about the market on the show. Are there any more contract-level features planned for Dutch auctions? What we have now is great, but we've talked about wanting the ability for artists to stop a Dutch auction once the open portion of the reserves is minted out, so reservation holders don't automatically get the bottom tier price. We've also seen artists manually refund the difference for people who minted at a higher tier than the final resting price. Any plans to add features like that to the contract in the coming months or year?
 
 ciphrd: We're talking about several complex systems that would need to interact in an abstract way, dictated by the minter, and that's very complex to build. Just having reserve lists and Dutch auctions on-chain, with different pricing methods and reserves on-chain, is already a complex system — especially keeping it modular the way it is today. I'll look into the possibility for the next iteration of the smart contract, which will come with fx, but I'm honestly not sure it'll make it in, just because of the complexity. It's probably possible, but we also have to consider that the minting UI becomes way more complex if we let these systems interact. Maybe a few projects need it, but all the others would suffer from the added complexity. That's on us to simplify. So — I'll think about it, but I haven't established whether it's viable to implement.
@@ -279,6 +305,8 @@ Will: January sounds like a big month.
 Trinity: Every month's a big month.
 
 Will: It's also the one-year anniversary of the podcast, in January.
+
+[pool: RGB | RGB — ciphrd | | 1]
 
 Trinity: That's true.
 
@@ -292,6 +320,8 @@ Will: The natural next question — what's coming from you, Ciphrd? It's been a 
 
 ciphrd: I don't know. I'd like to, but I'm pretty in the mood of building for fx right now. Maybe at some point I'll hit two weeks where I can't stand fx anymore and just want to work on generative art, but I'm not in that mood currently. I've forced myself out of the gen-art mindset, because when I'm in it, I'm very monomaniacal — is that a word in English?
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 Will: Yeah.
 
 ciphrd: If I'm into gen art, I can't work on fx for two weeks — I have to work on my own projects. So I'm forcing myself not to go there for now.
@@ -304,6 +334,8 @@ Will: We saw something that looked like it might've been a new project of yours 
 
 ciphrd: Yeah, I threw that project away.
 
+[pool: RGB | RGB — ciphrd | | 1]
+
 Trinity: Oh no. Okay.
 
 Will: All right, so nothing new coming from Ciphrd — no alpha there. To wrap up: how are you feeling? Optimistic about the next year? Have your feelings about fx(hash) — the mission — changed at all over the last year? It sounds like they haven't, but what's the vibe? Where's Ciphrd at?
@@ -315,6 +347,8 @@ Will: Ciphrd, thank you so much for your time. Amazing having you on the show ag
 ciphrd: Thanks for having me, and for the work you're putting out there. Always a pleasure, as I said at the beginning.
 
 Trinity: We'll talk to you in another year or so, I suppose.
+
+[pool: RGB | RGB — ciphrd | | 1]
 
 Will: Less than that, hopefully.
 

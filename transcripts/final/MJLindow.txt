@@ -38,7 +38,7 @@ MJLindow: One thing that's really nice is being my own employer — I have a lot
 
 Trinity: I think that sounds amazing. We've all seen *Waiting in Afton* and that landscape, that amount of beauty in there. Do you also get some solace and recharge from the outdoors?
 
-[pool: Waiting in Afton | Waiting in Afton — MJLindow | ]
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | | 3]
 
 MJLindow: I do. I try to get out hiking every Monday morning — a five, six-mile hike, get out into the mountains.
 
@@ -52,6 +52,8 @@ MJLindow: Not quite that idyllic. If you find that place, send me a link.
 
 Will: If it's listed in Tezos.
 
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | | 1]
+
 MJLindow: Right, if it's like 50 Tez, I'll take it.
 
 Trinity: We'll land into the metaverse. How about that?
@@ -63,6 +65,8 @@ Will: Let's jump back — Trinity, I saw you highlight this question in the doc.
 MJLindow: Definitely more the latter. I'd been making art for a long time, not professionally — painting and drawing as a hobby for many years — and I also had the technical background. So it was like, okay, I think I have the skills needed to do well in this space, I'll take a bet. But I was expecting a much longer process. I'd done Etsy, Amazon, and things like that, and based on those experiences I was prepared to give it six months, a year — that would stretch out our savings, but I thought we could do it, and hopefully something would come of it. So it was a surprise to have things gain recognition as quickly as they did.
 
 Trinity: That recognition is really well deserved — everything you've put out is beyond amazing, so thank you from the bottom of my heart. My first day on fx(hash), I saw *Waiting in Afton*. I had no idea who you were, hadn't seen any of your other work — I just thought, that's the one I want to save up for. It speaks to people on a primal level.
+
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | | 1]
 
 Will: Unfortunately, the way prices go, it's one step forward, two steps back trying to save for one of those.
 
@@ -76,7 +80,7 @@ MJLindow: Definitely. The two years prior to quitting my job were basically four
 
 Trinity: We may be seeing some of that representation specifically in the two works that seem most personal to you. Not to put words in your mouth, but obviously *Waiting in Afton*, which we've already talked about, and also *Caught in a Void*. When you talk about the two years prior to quitting your job, that basically lines up with COVID and the remote lifestyle—which is so much more all-in, I find, than working in an office.
 
-[pool: Caught in a Void | Caught in a Void — MJLindow | ]
+[pool: Caught in a Void | Caught in a Void — MJLindow | | 3]
 
 Will: Piggybacking off that—I'd love to hear if you've had a shift from your "earlier days," in heavy quotes, since that's really just going back to November. But has there been a shift in what you're pursuing creatively? There's kind of a demarcation between everything that came before *Caught in a Void*, then *Caught in a Void* itself, and then *Kunza* after. Do you feel like you're moving into a different phase of creative inspiration or style right now? *Kunza* feels very different from a lot of your past work, and *Caught in a Void* is obviously different too, inserting a graphical representation of yourself. What's interesting you right now in terms of creating?
 
@@ -90,6 +94,8 @@ MJLindow: It's definitely been interesting to watch. It's easy to get too wrappe
 
 Trinity: Absolutely agree. There are two different paces here—the traditional art world is more methodical, slower at times, whereas we're living in a digital world where a week feels like a year. It's healthy to be able to take a step back and disconnect from it all sometimes.
 
+[pool: Kunza | Kunza — MJLindow | | 1]
+
 Will: I've noticed a lot in the last couple weeks—artists on Twitter of varying levels of success, people who've released work that minted out but wasn't heavily traded, now releasing work they feel is of similar or better quality, and it's not even getting minted anymore. Even artists who've come up in this blockchain era are having a hard time separating themselves from the timelines people care about in crypto. Crypto is about the hourly and the daily, not about the fact that there are artists who create for thirty years, die, and then their art becomes valuable with massive retrospectives. We always say fx(hash) is, in our opinion, the purest platform for art and blockchain—everyone here really likes the art, and the prices are just this weird byproduct of how we're experiencing it. But there's still this bias of "if this is so good, why isn't the price high right now?" which is a pretty awkward viewpoint in the history of art itself.
 
 MJLindow: In the longer term—I don't think it'll take thirty years, but maybe months or years—things will sort out. Part of it is just how quickly everything is moving. There needs to be a bit of a correction and a slowdown as more users come on and awareness of generative art builds. On crypto timescales, what happened ten minutes ago can seem like an eternity, but I'm not too concerned for the long term.
@@ -101,6 +107,8 @@ MJLindow: I've maybe seen it peripherally, haven't followed it in great depth, b
 Will: There was a question from a community member, Charlie Surf, asking you to weigh in—I labeled this the "hot take" question, so feel free to pass if you're not close to it. To summarize: there's work on the platform generated this way that isn't always obvious, especially to someone who's not a coder or an experienced collector. People have bought and minted it thinking it looks amazing—and it does look good, that's not the issue—but the question is how you compare it to something purely code-based, and whether it should get a separate category or label.
 
 MJLindow: As far as whether they should be separated, I haven't given that a ton of thought, but as a collector it's something I pay attention to. To me, generative art exists along a spectrum of how much control is given to the process or algorithm versus how much is predefined and set by the artist. My personal preference leans toward collecting generative art that's more purely code-based and less reliant on the artist's direct control. That's not to say PNG layering is less artistic or not good art—I don't think that's valid to say. But it feels less generative to me as more control is assumed by the artist versus the algorithm. When I'm collecting, I'll go check the code and assess where a piece lies on that spectrum, and I tend to buy things that are more code-based than layered.
+
+[pool: Kunza | Kunza — MJLindow | | 1]
 
 Will: Are there any artists you enjoy collecting? Anyone you want to shout out whose new releases you flag to pursue on secondary even if you can't mint?
 
@@ -114,6 +122,8 @@ Will: Are you excited about the platform coming out of beta, and these curation 
 
 MJLindow: I am excited to see that happening, and I look forward to seeing curation built into the platform. I've looked at TENDER and I'm excited about the direction they're taking and what they're doing for the space. There's so much constantly going on that it's hard to keep track. I look forward to having spaces where people can add commentary, help others understand the work more deeply, connect with it, and build communities around different collections.
 
+[pool: Kunza | Kunza — MJLindow | | 1]
+
 Trinity: That goes back to something you said earlier about the need to connect or disconnect from Discord and Twitter. Earlier today I saw that ajberni, who put together fx(params), had additional commentary on how there's so much happening and so much talk generated on these platforms—whether it's Discord, where your message is lost thirty seconds later, or Twitter, which moves a million miles a minute—that some of the larger conversations get lost amid casual banter and chatter. Something that provides a summary or a history of what's being said feels valuable.
 
 MJLindow: Definitely. There's Twitter, Discord—I've even thought about putting stuff on my own website, but that's kind of outside the flow of people interacting with the art. I look forward to seeing that commentary and insight more closely connected to the work itself.
@@ -125,6 +135,8 @@ MJLindow: They all serve a purpose, but there are definitely times when you'll s
 Will: It's such a challenge in this digital age—elder millennial in me coming out here. You get used to social media being this way you learn things. For me, I get so much of my news from curated Twitter columns I've created, so it feels all-encompassing and I feel really tuned in. But on the flip side, creating content like this podcast and trying to get it discovered through these platforms is a totally different game. I think this is where having something like a website can actually be useful in the long run, because it's static—it can just exist and people can keep finding it over and over again, building awareness. That's kind of the hope for the show. We're in Discord every other day talking about it, tweeting about it, getting retweeted, and there are still veteran members of the community who aren't aware that we make this show, or that a podcast exists. It's a struggle: how can we be talking about this constantly in the two places where everyone in fx(hash) hangs out, and still 99% of the community doesn't know it's a thing? It's a really interesting phenomenon—you can be talking into this space and still have so few people hearing it.
 
 MJLindow: When the majority of artists share commentary on their work, it's in a Discord conversation that maybe three people saw, or if you're lucky, fifteen. There's a lot of opportunity to improve how those discussions take place, and I think curation on the platform will be a big step in that.
+
+[pool: Kunza | Kunza — MJLindow | | 1]
 
 Trinity: Or even just having additional space to write your description around the work—your methods, your thought process. Obviously you want to be able to grow and expand on that as the conversation shifts and changes, but sometimes it's about communicating your own process rather than being so responsive and temporal.
 
@@ -138,6 +150,8 @@ Will: We have a few more questions about the art and your future. Should we circ
 
 Trinity: Let's do that.
 
+[pool: Kunza | Kunza — MJLindow | | 1]
+
 Will: I'll pick one from the list. We talked about your expectations when you joined generative art. Here's an interesting one—we've touched on this a little through DMs, MJ—what are your goals for your work outside of fx(hash)? Do you intend to mostly release on Tezos, or will you explore other platforms? You came to generative art through Art Blocks, so is that an aspiration—getting into their curated section, or their less curated one?
 
 MJLindow: I quit my job with the goal and desire of getting into Art Blocks, and that's still something I'm shooting for. I'm watching as applications open up, anxiously awaiting that—it's been my primary focus for the past couple of weeks. Beyond that, I'm interested in other platforms and other blockchains. I'd like to explore the whole ecosystem. I don't have solid plans for where I'd like to go with that, but I want to learn about what's happening on other L2s and other chains and get a broader view of things. Longer term—probably not this year, but maybe next—I'm really interested in bridging the gap between the physical world and the online Web3 universe. I've talked about building a generative work that could be translated into stained glass, or doing shows and getting into galleries. Those are things I think about and would like to pursue down the road.
@@ -149,6 +163,8 @@ MJLindow: Definitely. I plan to continue releasing on fx(hash). I enjoy it and w
 Trinity: It's been great to see the crossover as people move between fx(hash) and Art Blocks. We've seen people jump over—famously this last week, MSoriaro, who sold out very quickly over there—and it's been great to see that love and movement. We've also seen people from Art Blocks come to fx(hash) as a way to experiment more. Do you think your work will change as you go from platform to platform—using it as an opportunity to express different parts of your artistic self?
 
 MJLindow: I haven't really thought about changing the content of my work, but there are definitely different constraints. One great thing about fx(hash) is that, because of the cost and the different ways of storing projects, there's a lot more opportunity to try different things. Art Blocks is stored on the Ethereum blockchain, so the costs and size constraints make a lot of things prohibitive or impossible there, whereas fx(hash) has fewer of those constraints. There are projects I've had in mind that will require a lot more code, and those especially will probably always live on fx(hash) for me, just because it's such a natural place to do those kinds of experiments.
+
+[pool: Kunza | Kunza — MJLindow | | 1]
 
 Trinity: I'll skip the obvious joke about putting thousands of layered PNGs into fx(hash) because it can support it.
 
@@ -162,6 +178,8 @@ MJLindow: It's definitely a lot more work to come up with something that will wi
 
 Trinity: That relates to what you were saying about your future-facing work, and the size limitations of Ethereum or Art Blocks—if you're doing something meant to be translated to stained glass, that's a huge constraint. But out of the constraints endemic to a platform or medium, a lot of beauty can happen, because it forces you to work within them.
 
+[pool: Kunza | Kunza — MJLindow | | 1]
+
 MJLindow: Definitely. As I'm looking to apply to Art Blocks and thinking along those lines, it does foster creativity—putting on artificial boundaries can be really interesting. Like, "that could be really interesting, but that's going to be 500 lines of code—can I change it, can I cut it back, can I simplify?" It forces you to really look at the core of what you're doing and refine that core to a greater extent.
 
 Trinity: While still maintaining variety, but also that rare chance for special pieces to emerge. That seems like a huge challenge.
@@ -174,9 +192,9 @@ MJLindow: I've been pushing all of those along—the topographic shapes and the 
 
 Trinity: I can't wait to see them. When you talk about *Waiting in Afton*, *Caught in a Void*, and *Kunza*, they really speak to concepts of texture, but also memory. Are there emerging themes—or emerging inspirations—coming out of this new work?
 
-MJLindow: For the retro shapes, I think in some ways it's a continuation of the theme that started with *Waiting in Afton* and ran through *Caught in a Void* and *Kunza*—a reflection on the past. I started out exploring these shapes and found them as a theme in a lot of the work of the 1950s. It's been interesting to see the parallels between then and now—that techno-optimism combined with a concern for nature has a lot of parallels for our time too, and it's a good blend for my work, since I really enjoy exploring natural textures while doing it through a very technologically advanced system. That's what I've been working on most the last week or two, and what I'm most interested in at the moment.
+[pool: Kunza | Kunza — MJLindow | | 3]
 
-[pool: Caught in a Void | Caught in a Void — MJLindow | ]
+MJLindow: For the retro shapes, I think in some ways it's a continuation of the theme that started with *Waiting in Afton* and ran through *Caught in a Void* and *Kunza*—a reflection on the past. I started out exploring these shapes and found them as a theme in a lot of the work of the 1950s. It's been interesting to see the parallels between then and now—that techno-optimism combined with a concern for nature has a lot of parallels for our time too, and it's a good blend for my work, since I really enjoy exploring natural textures while doing it through a very technologically advanced system. That's what I've been working on most the last week or two, and what I'm most interested in at the moment.
 
 Will: I'm curious — with a lot of the success you've had early on, I'm sure you've noticed that collectors and fans really gravitated toward the personal stories and themes attached to works like *Waiting in Afton*. Has that created an expectation of narrative or personal relevance that you now feel boxed in by? Like, maybe you just like these topographic shapes because they're cool and it's novel that the code can produce something like this — is there ever a struggle with the expectation that whatever you put out has to feel like "a Lindow"?
 
@@ -187,6 +205,8 @@ Trinity: I think we really appreciate that. There always seem to be these emergi
 MJLindow: I'm loosely aware of them, and there are landscape concepts I'd like to explore. But I'm careful not to approach a project thinking, "this is a hot trend, let's see where I can take it." I want it to be honest — something I'm naturally gravitating toward and genuinely interested in — rather than chasing the market and its trends.
 
 Trinity: Even in the work we've seen from you — obviously *Afton* is the original and, as far as anybody's concerned, the best landscape piece — you also do a lot of more abstracted work, like *Lepidoptera* and *Stippled Impressions*, which are much less representational.
+
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | | 1]
 
 MJLindow: Right, and the project I'm working on now is also less representational. It has natural textures, but it's more focused on retro shapes and how they can be arranged and combined. I don't want to box myself in or chase what I think people expect from me.
 
@@ -200,6 +220,8 @@ MJLindow: Sounds good.
 
 Will: Let's make it about the community again. Any thoughts on the fx(hash) community — what we could be doing better, what we're doing right? A lot of us are amateur art appreciators just trying to learn as fast as we can while grappling with the markets and the highs and lows of watching projects moon or not. From the creator side, watching quietly on and off — any parting thoughts for us as collectors?
 
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | | 1]
+
 MJLindow: Let me think about that — I feel like I'm just as new as everyone else, if not more, so it feels odd to give advice.
 
 Will: Or just give praise.
@@ -211,6 +233,8 @@ Will: Hell yeah. Thank you so much, MJLindow — Lindow, like "window," right?
 Trinity: Yes.
 
 MJLindow: Yep.
+
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | | 1]
 
 Will: Thanks so much, it's really been a pleasure. Trinity and I are both big fans of your work, fortunate enough to have collected and minted some of it, and we're looking forward to what you release next. Actually — let's end on this: any rough timeline for when the next one might drop? Even just a ballpark — March? April?
 
@@ -224,6 +248,8 @@ Will: Set your alarms for April.
 
 MJLindow: That's right.
 
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | | 1]
+
 Will: Awesome.
 
 Trinity: Well, thank you so much.
@@ -235,6 +261,8 @@ MJLindow: Thank you. Thanks for having me on, I really appreciate it.
 Will: Everyone can follow you at @MJLindow on Twitter, right?
 
 MJLindow: Yep.
+
+[pool: Waiting in Afton | Waiting in Afton — MJLindow | | 1]
 
 Will: And follow us @WaitingToSign. Thanks everyone for listening — we'll play it out with the outro song. So long, everyone.
 

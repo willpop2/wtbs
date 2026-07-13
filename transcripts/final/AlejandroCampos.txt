@@ -18,7 +18,7 @@ Architecture is a practice with a nice balance between creativity and logic or o
 
 With coding specifically, I started by coding websites — HTML, PHP, a bit of JavaScript. It's always been connected to websites, which is important for explaining *Fantasia*, because I've realized over the last few months that what we're doing is actually web development rather than art in the visual-arts sense. That's what I'm trying to push with the project, and it comes directly from where I started in my coding journey.
 
-[pool: Fantasia | Fantasia — Alejandro Campos | ]
+[pool: Fantasia | Fantasia — Alejandro Campos | | 3]
 
 Will: Did you study coding as part of your formal education, or pick it up on your own afterward? And where does crypto come into the picture — were you early on Bitcoin or ETH? How did you find NFTs? They're controversial; most people don't like crypto or NFTs. What pushed you to get curious about the space?
 
@@ -32,6 +32,8 @@ Alejandro Campos: I'm still fairly new to crypto, honestly. When I say community
 
 From role-playing to generative art, it was actually architecture that brought me over — specifically two people, Ismahelio and Jacek. You interviewed Jacek a few shows ago. It was one project of his in particular, *Holo* —
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Will: *Holo*.
 
 Alejandro Campos: — which I know you love, Trinity. That project made me think, wow, I can bring my architecture background into this space. So I got into fx(hash), started collecting projects I liked, and started DMing Ismahelio and Jacek on Twitter. They sent me tutorials on coding with fx(hash) and p5. So it was through them that I got into generative art, which is why I always mention them — their work has been important to me personally, and it also shows how you can bring disciplines together, how architecture can be a starting point for coding.
@@ -43,6 +45,8 @@ Alejandro Campos: *Enfantines* really was different from what I'd done before, a
 *Enfantines* documents my journey learning to use code to represent these analog techniques — something there's been a lot of discussion about lately, with Mapan and others using similar approaches. I told myself, I'm going to teach the code how to draw. And of course, when you want to draw, you start by drawing like a child — that became the theme for the series: how to draw like a child.
 
 Music comes from a related idea. At the beginning I was completely clueless about what generative art even was — it's coding, but what does that mean? Then you realize: what it means is that it's a website. So what we're creating is actually a website, and it doesn't make sense to me for a website to be only an image. A website can offer music, animation, much more. So all my work is animated or has music — never just an image.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 With music specifically, it came from my reading and interest in childhood, and in Satie, the composer behind the *Enfantines* pieces. When you animate these shapes with music, they take on materiality, texture, weight — as if they exist. They're not just circles; they're made of small, tiny circles, but they become more than geometry. That was the thinking behind it.
 
@@ -56,6 +60,8 @@ It was the same story with blending colors. When I first drew two lines, one blu
 
 Trinity: Fascinating — maybe a good segue into talking about p5.brush. There's something to the idea that as a child you're always experiencing things for the first time, with a sense of invention and wonder, and you don't want to follow what's been done before — you want to figure it out yourself. One of my former coworkers, and the worst boss I've ever had, used to say that in math it's one thing to be taught what a proof is, but only the best students figure out the proof independently, and that's really the best way to learn.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Alejandro Campos: When you do things from scratch, you have to learn how to do them because you have no other choice.
 
 Trinity: I wasn't able to derive the Pythagorean theorem myself, unfortunately — standing on the shoulders of giants. Thank you, Pythagoras. So: p5.brush.
@@ -67,6 +73,8 @@ Alejandro Campos: This came out of a period when I was feeling less enthusiastic
 Then I started making NFTs, and at some point I really began to dislike the idea that everything has to be sold, that money is always the most important thing — we're always discussing floors and prices. I know it's an important part of it, and I know it's unfair of me to say art should be done for free, because there are people who need to sell their art to pay rent and buy food. But for me, it felt a bit violent to sell my art, since it was the first time I'd done that. So at some point I thought: I have to give some of this back to the community — not money, but something. That's how I created this library: the tools I'd developed since *Enfantines*, tools to draw like a child, with analog techniques. I uploaded it completely open source so everyone could use it. It was my way of giving back something of what I'd received.
 
 Will: That must have been an enormous amount of work. A lot of artists keep libraries of functions they've found useful across projects, but very few go through the effort of cleaning up the code, documenting it, and building a whole website so people can learn how to use it. It's a huge meta-project in itself — not as simple as just making some code open source. You must have put a ton of work into packaging it for people unfamiliar with it.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Alejandro Campos: Yes, the documentation was the hardest part. When the library was done and working, I thought, okay, it's done. Then it took another month to document everything and put it online. But I saw it as a way of challenging myself to write clean code for once, to take the time to explain clearly how it works, and to learn what open source is really about — I'd never contributed to GitHub like this before, so it was a nice learning process: how to create a repository, how to do it in a way that lets people contribute too. It was an enlightening experience. I really appreciate people who create open source projects now, because I know how difficult it is.
 
@@ -80,6 +88,8 @@ Alejandro Campos: I thought it was a nice use of it because at the beginning, wh
 
 Will: It's very glitchy — it's not immediately apparent that it's using the library.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Alejandro Campos: That's also what I like about it.
 
 Trinity: She's a relatively well-known fx(hash) artist, and a lot of her work in other mediums is pretty glitchy too. It's interesting that you can take these existing tools and put your own spin on them — the extensibility of it, similar to what you were doing with the color mixing. It's about figuring out how it works and making it work for you. Very cool.
@@ -87,6 +97,8 @@ Trinity: She's a relatively well-known fx(hash) artist, and a lot of her work in
 Alejandro Campos: Yes. There's also been someone who did a kind of mixing project — I don't remember the name, I can look it up later. There have been some nice applications of it, though not a lot of published projects so far.
 
 Will: Let's continue on the music, since your upcoming project, *Fantasia* — as we'd say in English, because that's how we all learned to say it from the Disney movie —
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Trinity: We can call it *Fantasía*, though.
 
@@ -97,6 +109,8 @@ Trinity: You can call it whatever you want.
 Will: It's coming out relatively soon on Verse — a Tender collab. You started this project a while ago; I remember seeing early WIPs from you back in 2023, and we're recording this in May, so at least six months ago. There's always been a musical component to your work as far as I can remember, but for the first time you're creating a generative music piece instead of using prerecorded music. Why make it so difficult for yourself? That must have involved a lot of new learning — figuring out how to train and create this AI model. Is it an AI model? How would you classify it? How does the music even work? Tell us about it.
 
 Alejandro Campos: I would call it *Fantasia*, which is Spanish. At the beginning it wasn't actually coming from the Disney movie — it came from a piece by Satie, "Fantaisie" or something like that in French, I'm not sure how to pronounce it. That was translated by an architect, a well-known Spanish architect named Enrique Miralles, in his PhD, in a chapter called "Fantasía muscular" — muscular not in the sense of being strong, but from the muscles, so "muscular fantasy," let's say. In that chapter he writes about imagination — how you start drawing a line, then another line, and shapes start appearing. He has beautiful drawings he made himself; he was a really good draftsman. I was interested in this emergence of shapes from nothing, or from dots, in this case the musical notes. That's where the name comes from.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Then when I was speaking with Adam, he asked, "You're calling it *Fantasia* because of the movie, right?" And I thought, actually, maybe that does make sense. I watched *Fantasia* when I was young, in this IMAX cinema with 3D glasses, and I remember it very strongly — it was a wonderful experience as a kid. I hadn't consciously connected the two, but once I did, it made a lot of sense, and the piece evolved in that direction. If you look at the colors and some of the shapes, they really do resemble things from the movie, even though that's not where it started.
 
@@ -110,6 +124,8 @@ The special quality of this model is that it produces not just the MIDI notes bu
 
 Trinity: Sometimes.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Will: Hopefully most of the time. How does that actually work technically — is the model sitting off-chain, called at mint time to produce a MIDI file that gets injected into the piece? Or is everything bundled together? I'd imagine the model is pretty large.
 
 Alejandro Campos: No, it's actually only 20 megabytes.
@@ -122,6 +138,8 @@ Will: That's pretty cool. Between the music and the visuals, which was more chal
 
 Alejandro Campos: I haven't said this publicly before, but *Enfantines* was me catching up to the space, to creative coding — learning how to code, basically. *Fuga Tientas* was consolidation: this is what I've learned, now let's do it seriously, aim for quality rather than learning. This piece, I think, is more experimentation, so it's more connected to *Pensado a Mano* — experimenting with how to bring generative music, and specifically AI, into a generative piece, doing everything in the browser without relying on the strange frameworks other platforms use.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Visually, it uses my library for the first time in a project, but I'm not using it to imitate analog techniques anymore. A little, maybe, but I'm searching for its own style now, so it doesn't look like something done by hand. It's more about embracing the digital — doing something you couldn't do with your hand alone, which also connects to the music and the animation.
 
 Trinity: What was it like collaborating with Adam on this, and bringing it to life through Tender? I'd love to use this as a transition into talking about web development versus art, but first, tell me about working with Adam.
@@ -129,6 +147,8 @@ Trinity: What was it like collaborating with Adam on this, and bringing it to li
 Alejandro Campos: It was completely amazing. He has a super sharp eye for things — every suggestion he's given me has helped improve the piece. He's also very supportive and optimistic, and he understood what I wanted to do from the beginning. It's been great having someone to interact with and share things with — he responds quickly to everything, and he has a very clear idea of how to launch things, which he handles so I don't have to think about it. That's the part that, if I start thinking about too much, makes me distant from the work. This time I'm not thinking about price, not thinking about supply — I'm leaving all that to Adam. It's been a great collaboration. What about web design, Trinity?
 
 Trinity: Thinking about the process that got you here — not only working with defunct tools and libraries for the sound side, but using your own library and figuring out how to get this whole organism working within the constraints of IPFS — at what point is *Fantasia* really about the art, versus the construction of the system that makes everything work? It almost feels like architecture — not the art itself, but the building of it, where you need the walls, the plumbing, the electrical, to make the thing habitable. That connects to one of your hot takes about web development. Maybe this is a chance to talk about that process, and go off a little.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Alejandro Campos: Yeah.
 
@@ -142,6 +162,8 @@ If you try to develop a website like this, using seven or eight libraries from d
 
 For this piece, I'm very interested in how you feel inside the piece. If you check the website, the background is not transparent — there's a background color, because I'm thinking about the whole website, not only the piece. And the piece doesn't use the whole size of the window. It has borders and a shadow, so you feel it floating in the background. Then, as the music continues, some shapes start appearing behind. So yes, it's a website. I don't know if that's a hot take, but for me it's quite clear now: we should be making websites. This opens up a lot of possibilities for us as coders or artists — I don't know if I like the word "artist" completely.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Trinity: Ooh, let's talk about that.
 
 Alejandro Campos: I have a lot of respect for artists — I studied history of art, so I really respect artists a lot. It's imposter syndrome, I think it's called. I don't know if I can call myself that. It looks like a very difficult thing to be. I think you need to somehow give your life to it — "entregar," in Spanish, works better than "give your life." I don't know how to say it in English. It looks like a very serious thing.
@@ -153,6 +175,8 @@ Alejandro Campos: For *Pensado a Mano*, I think you convinced me to do it, actua
 Trinity: It makes me think of a lot of the conversation people have around the different chains — Tezos, Ethereum, fx(hash) versus Verse — and what areas are for experimenting, getting something out of your system, versus a place for art or elevated website creation, depending on how you look at it. You've released on both platforms. Is there a difference in how you perceive them, and the types of work you might push out on each?
 
 Alejandro Campos: Not so much, I think. I've always thought fx(hash) had an amazing community, which I enjoyed a lot — and I think that's also where this podcast comes from, from fx(hash) and the beautiful community it had. At some point, when everyone started leaving, that community wasn't so strong anymore. Then Verse came along — Jamie is a big collector of my work, easy to check — he really likes what I do, and he was the one who approached me for my first Verse release. Since I started doing things with Verse, they print things sometimes, which for me, as an architect, is quite interesting — seeing my work in printed form. You can see some of them in the background here.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 I think Verse feels more artistic — maybe that's not the right word, but it feels closer to my background as an architect, because of the culture. So it's not so much about community, it's more about art, and about curating, and about how you link the art into a chain of historical events — creating a history and a narrative, which is what I do as a researcher and teacher. I don't think of fx(hash) as the place where you experiment and Verse as the place where you publish finished things. I'm always experimenting — it's always something new I'm trying to do.
 
@@ -166,6 +190,8 @@ Alejandro Campos: It was what I said at the beginning — it was connected to ho
 
 Will there be a new project after *Fantasia*? That's a good question. I'd say: is there something else that needs to be done? That's why I do this — because I think someone needs to. And then maybe other people think, well, you can do this and this and this. So if I think there's something that needs to be done, that no one else is doing, maybe I'll do another thing. I don't know if that answers it.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Trinity: *Enfantines Volume 3* needs to be done, or else you'll leave us hanging forever.
 
 Alejandro Campos: That's a good one. I'd say — children never finish things. At some point I decided maybe it's better if it stays unfinished.
@@ -177,6 +203,8 @@ Alejandro Campos: Mid-June. The specific date isn't decided yet — probably aro
 Trinity: Should we even ask about sizing, pricing, release mechanics?
 
 Will: Should we be asking Adam that?
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Alejandro Campos: We're thinking it's better if it's something people can have fun with — probably not a small supply, and not a high price.
 
@@ -190,6 +218,8 @@ Alejandro Campos: Yes, of course.
 
 Trinity: Yeah.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Will: What was the story behind that show? You were one of the curators and organizers, and you brought together quite a few artists, all releasing basically the same day, within a couple of hours if I remember right. What was the arc of that? What did you learn, what do you regret, are you happy with how it went? What's the story with the whole exhibit?
 
 Alejandro Campos: There's a big group of architects doing generative art, and we have several places where we talk and share things. At some point, I think it was me and Ismahelio who proposed doing something together, since we were always talking anyway, and we appreciated each other's work and shared the same background. We thought architects could contribute something different to the space, so we prepared a proposal for Verse, which they loved and accepted.
@@ -201,6 +231,8 @@ As for how we ran it, that was an experiment we worked out with Jamie. With so m
 Will: It was quite a whirlwind.
 
 Trinity: It was fun, though.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Will: It was. And you brought together some great work — I still go back and check out a lot of it. I really liked Victor Dovall's piece, the anaglyphic one, really cool and different. But it was a challenging time — the market hadn't fully registered yet that it was slowing down and dying. You'd think bringing together a bunch of good art would naturally draw people in, but unfortunately that's not how it works these days. Could you see yourself getting involved in that side of the space again — organizing, curating?
 
@@ -214,6 +246,8 @@ Alejandro Campos: Yes — the website *is* a space. That's a good line, I'll ste
 
 Trinity: You already wrote it. I stole it from you.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Alejandro Campos: I'd forgotten, maybe.
 
 Will: On the physical side — you've mentioned studying history, your love for analog work, wanting to see pieces printed out, and last night you were digging through archives trying to find your old work for this interview. How do you think about preservation? There's always debate between on-chain and off-chain, whether on-chain work is more likely to persist. Does that come up in your professional life? This new piece is using IPFS, so you're clearly not an on-chain maxi — do you have a strong opinion on it?
@@ -225,6 +259,8 @@ Actually, going through my own background yesterday, I realized all my old email
 Trinity: We can store so much more in so much less space, but preservation is another matter. I have this conversation a lot about music collections — as you migrate from iTunes, moving your music from laptop to laptop over the years, and then Spotify arrives and you stop migrating altogether. All those mixtapes and downloads you pirated fifteen, twenty years ago — you just can't access them anymore. There's so much music I love that only exists in my iTunes library because I haven't updated it since 2012 or so.
 
 Will: That's pretty discouraging. It's part of why we try not to get too caught up in the on-chain versus off-chain debate — at the end of the day it all relies on a web browser and its standards. Locking code onto Ethereum doesn't guarantee it'll still run in a browser thirty years from now. I don't even know how you'd begin to approach that problem, or whether any platforms are really thinking about it — it's one thing to sell someone a piece today, another to make sure they can view it forever. That's a daunting task.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Trinity: What precautions do you take as a creator to make sure your work stays accessible outside these platforms?
 
@@ -238,6 +274,8 @@ Will: Let's wrap up with a rapid fire or two. Trinity?
 
 Trinity: Sure. First question: who should we interview next, or who would you like us to interview?
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Alejandro Campos: I haven't thought about that one, honestly. Have you interviewed Lars Wander?
 
 Trinity: No.
@@ -249,6 +287,8 @@ Alejandro Campos: I think he's one of the smartest guys doing generative art —
 Will: Guess we'll have to brush up on our coding before we talk to him.
 
 Trinity: Color theory, too.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Will: He does seem like a glaring omission. We'll find a reason to get him on.
 
@@ -262,11 +302,11 @@ Will: I'm always looking for contemporary piano stuff. Anything else — I guess
 
 Alejandro Campos: Probably more open source things. With p5.brush, for instance, I've now rebuilt it without p5, which is what I'm using currently. It's still unreleased, but I'll probably put it out in the next few months.
 
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
+
 Trinity: Definitely something to look forward to — maybe not for us specifically—
 
 Will: But for the other artists listening. And everyone, look forward to *Fantasia* on Verse — high supply, affordable price point, hopefully collector curated. Thanks, Alejandro, it was awesome to have you on. Great to finally talk face to face after all the DMs — even if it's still digital. So long, Trinity. So long, Alejandro. Thanks for coming on the show.
-
-[pool: Fantasia | Fantasia — Alejandro Campos | ]
 
 Alejandro Campos: Thank you for inviting me.
 

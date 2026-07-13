@@ -260,7 +260,7 @@ In a nutshell, I see Tender defining itself — defining me — as a gallerist, 
 
 Trinity: That is one hell of a rapid-fire answer. 2024 is going to be huge for Tender, and hopefully for all of us — we're going to see better days, fingers crossed. Thank you for that. Next rapid-fire, this one's for Ciphrd. Looking at your project page, it's been a year and a half since *Ethereal Microcosm* came out in February 2022. Are we going to see a new Ciphrd drop for fx(hash) 2.0? The people are waiting.
 
-[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd & Adam Berninger | ]
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd & Adam Berninger | | 3]
 
 Ciphrd: A year and a half — and I think I've created 70 hours of footage over that time. It's sad, but yes, I can talk about it. The first project on the platform will be a collaboration between Alex, Morgan, Seb, and myself. Alex is the creator of DeepDream and a researcher at Google — a genius in the artificial life field, and a genius in general — so I'm humbled to be working with him. He's doing all the difficult stuff, which isn't usually my role, but I'm really excited about this project. He's published papers on neural cellular automata — cellular automata that can replicate natural patterns through machine learning — and we're putting a twist on that for this project. The idea is to have it launch at a small price point as an open edition. I'm such a fanboy for Alex that I was thrilled when he agreed to collaborate.
 
@@ -268,13 +268,15 @@ Will: It sounds like *RGB Moves*. Is that—
 
 Trinity: *RGB Grooves*.
 
+[pool: RGB | RGB — Ciphrd & Adam Berninger | | 3]
+
 Will: *RGB Grooves*. Is there a potential title for this? Is it going to be like "Day One"?
 
 Ciphrd: It's going to be called *Time Zero*, launching when the platform launches. I need to check with Alex, but the idea is to train it on *RGB*, our first collection, so the model itself generates some of the patterns from *RGB*. It's not quite AI, but close.
 
 Will: That'll be really fun to collect. An open edition is a great way to include everyone — the community is so much more savvy and engaged now than in the earliest days of fx(hash), when people were still finding it. So many people never got to collect an *RGB*. Creating something open and available, rather than "sorry, you had to be here in the first 48 hours or you're out of luck," is a nice way to kick off 2.0.
 
-[pool: RGB | RGB — Ciphrd & Adam Berninger | ]
+[pool: RGB | RGB — Ciphrd & Adam Berninger | | 1]
 
 Ciphrd: Me too. I wish you could see the project right now — it's really wild. I'm excited.
 
@@ -288,6 +290,8 @@ Will: All right, one more, Trinity. Queue up the last one and let's wrap this me
 
 Trinity: This one's for both of you, in celebration of the cross-platformification of fx(hash): building functionality, building platforms — ETH or Tez? Which makes your life easier? What would you rather build for?
 
+[pool: RGB | RGB — Ciphrd & Adam Berninger | | 1]
+
 Ciphrd: Interesting one. Building for both is a nightmare. Everything based on EVM works together beautifully; Tezos works on similar principles but with very different paradigms everywhere, so building for both is genuinely complex. Adam, you've experienced this too — we wanted two wallets connected at the same time, accounts that are off-chain versus interactive, and there's a lot of complexity in building that.
 
 I expected the tooling on Ethereum to be far more advanced than Tezos — I felt like on Tezos we were working with stone and sticks — but honestly, while Ethereum's toolset is slightly more sophisticated, you end up hitting the same issues and the same base problems. If you're starting an application from scratch, the EVM toolset is way better, by far. But whenever we faced particular use cases, I found the Tezos toolset better suited. We have a lot of custom code because we're dealing with both Tezos and Ethereum. On Ethereum you get a level of abstraction where you just say "load wallet, get address, send transaction" — very simple. Tezos is a bit more low-level, which is actually what we need for a sophisticated tool like ours. Ethereum was harder in that regard — the low-level primitives were less supported, less easy to find.
@@ -300,6 +304,8 @@ Ciphrd: Thanks — I'm surprised, because our APIs are quite rudimentary. We wan
 
 Adam Berninger: And you are. I understand it takes time, but they keep improving, and that's what matters.
 
+[pool: RGB | RGB — Ciphrd & Adam Berninger | | 1]
+
 Will: Hell yeah. That sounds like a great place to end it — an epic episode. This has been great, guys. We've plugged everything, there's no follow-up, this is just the end. 2.0 comes out the first week of December. There's going to be a ton of drops — Ethereum, on-chain, rebate auctions, a huge update for fx(hash). It's going to be huge for curators like Adam, who'll be able to further leverage all these tools to bring more artists to the community, collecting on both Tezos and Ethereum. What else can we say?
 
 Trinity: December 1st, it's a Friday. Take vacation, cancel your plans.
@@ -311,6 +317,8 @@ Adam Berninger: Thank you for having us on — it's been great to talk about wha
 Ciphrd: Thank you, Will and Trinity. It's always a pleasure.
 
 Will: Absolutely, it's amazing to have you both on. And yeah — bring a friend if you have someone who's been trying to get in. Maybe they need a podcast to listen to, to break the ice and get them into collecting generative art. Or maybe they've got five or ten dollars a month to join our Patreon — that's also an easy way to get into the space and start supporting creators here. So, gotta plug that: patreon.com/WaitingToBeSigned. That's it for this one. We hope you all enjoyed it. We'll be back again soon with another episode. Bye, everyone.
+
+[pool: RGB | RGB — Ciphrd & Adam Berninger | | 1]
 
 Ciphrd: The rail of the week — could be signs, we're waiting, always.
 

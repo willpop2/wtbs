@@ -128,7 +128,7 @@ So in my work and in my life, I always try to find ways to do good. Especially a
 
 With *Reiziger*, it started with a good friend of mine in the Netherlands who wanted to travel from the Netherlands to China by bike — 10,000 kilometers, I think — and wanted to raise €1 per kilometer on GoFundMe. A couple of weeks in, I saw he was in Iran, and I asked him how it was going. He said it was fine, but they were nowhere near the money they needed for this school in South Africa, where they wanted to educate children in art, music, and dance in a neighborhood where the chances of reaching an art school are basically zero.
 
-[pool: Reiziger | Reiziger — Liam Egan & Ozzie | ]
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 3]
 
 I messaged Liam that same day and said, "We're fx(hash), we're an art platform — if there's one platform that can help them reach their goal, it's us, because if just one project mints out, that's the entire amount they need to get that school running." Liam loves to help artists and loves philanthropy too — I call him the code doctor, because he literally knows everything about code. We started working on *Reiziger* for a couple of weeks. He'd tweak it, send it to me, I'd give feedback, he'd tweak it again, and so on. We wanted it to be something good, because people at fx(hash) love to help others, but it also has to be good art — our community is really critical. We know when a copy-mint is a copy-mint, and we know when an artist has put real time into a piece.
 
@@ -142,13 +142,15 @@ Trinity: Cat is out of the bag.
 
 Ozzie: The cat is out of the bag.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Trinity: That's one of the really cool things about AI these days — there are people who specialize in making AI output that looks like ceramics, or claymation, or sculpture, because the models are trained on such diverse material that if you work hard and focus on it, you can get that effect. Very cool to hear about all this philanthropic work. Going back to *Reiziger* — what role did you play on it artistically? Were you directing the artist, so to speak, or more like an artist directing yourself?
 
 Ozzie: Good question. Liam started off with a project I didn't like, so he told me, "Go through my old unfinished projects, look at what you like, and we'll start there." I went through them — which you should do too, by the way, they're amazing — and I picked one and said, "I like this style," with specific themes in mind.
 
 *Reiziger* means "traveler" in Dutch. We wanted to create a piece where you could see something traveling through the entire artwork and, in the end, creating something beautiful. If you look at it, when you press play it always starts with a dot that travels around the canvas and creates the piece. We built the story around that and tied it to South Africa. I'm not a coder myself, so I was providing feedback on what Liam was doing and shaping the description of what the artwork should be. That was my part.
 
-[pool: Reiziger | Reiziger — Liam Egan & Ozzie | ]
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 I hadn't really done that before with other artists — I've had a small part in a couple of fx(hash) projects, maybe you've seen me pop up in a description somewhere —
 
@@ -162,6 +164,8 @@ Will: Want to preview anything now?
 
 Ozzie: No.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Trinity: Okay.
 
 Ozzie: I don't want to put deadlines on my partners, but I have some ideas for collaborations with generative artists — it's going to be very fun. I'll try to incorporate linguistics into it as well. I also have a solo project about poetry that should have been finished last year, but it got paused with everything going on. Since I started working full-time at fx(hash) a few weeks ago, I have more time for it, so I hope I can finish and publish it soon.
@@ -173,6 +177,8 @@ Will: Keep your eyes open for that one. Maybe we can turn the conversation to fx
 Ozzie: Let's go.
 
 Will: We'll do our best to keep this uplifting and not too doomer, but it is the times we're in, unfortunately. Given your close relationship with a lot of the artists on the platform — that's part of your role as an fx(hash) team member — can you speak to the proliferation of platforms out there, artists spreading out across them, and specifically the downturn in artists releasing on fx(hash) versus elsewhere? How does the team think about artist retention and attraction? Obviously fx(hash) needs art released here so there can be fees, so the platform can persist and grow. Is this even viewed as a problem internally, and what ideas are being thrown around?
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Ozzie: It's a good question, and it's something all platforms should take seriously. We're very aware of the financial dynamics artists face right now, and it's multifaceted — there are so many factors behind artists' decisions and collectors' decisions to collect or not. One is the overall crypto market. Another is what you mentioned: multiple curated platforms popping up on Ethereum, Tezos, and other chains.
 
@@ -186,6 +192,8 @@ So it's hard to point to one problem. Short term, artists are going left and rig
 
 Trinity: There's so much to unpack there. Thank you. On the other-platforms point — something an artist said in a prior interview stuck with me: working with a lot of these other platforms and systems is really a partnership. There's an expectation to hit a particular date, a tight collaboration. That can be great for a career, but there's a certain exhaustion to it when you're no longer fully in charge — you can't just release whenever you want. That doesn't happen with fx(hash); you're pretty much in charge of what you release and when. I think that will always be a value-add.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Ozzie: The artists experimenting with fx right now are coming with amazing pieces. You can see that while you're going through the params, which you might not notice just looking at the thumbnail. But once you start playing with it, the magic happens. I had this conversation with Joshua Davis about how he spent fifteen hours getting to a specific iteration he really wanted for an fx piece, which was amazing to hear. The artists who experiment, who want to see innovation—those are the artworks I personally like.
 
 Trinity: What about new artist recruitment? We've seen a bit of a slowdown in new names appearing in the feed—though maybe they're there and we just need to look more closely. How do you think fx(hash) recruits more artists? It's such a weird intersection of coding, art, crypto, and talent.
@@ -197,6 +205,8 @@ Ozzie: We have lots of conversations with traditional artists who aren't coders,
 Right now we're in conversations with traditional artists who present their work to us and say, "This is my style, I hope I can find someone who could work with it." It's really hard to find the specific generative artist who could collaborate with a traditional artist in that particular style. But since we've seen hundreds, maybe thousands, of artworks on fx(hash), it's much easier for us and the community to say, "This artist might be a good collaborator for you." Without curating too much, we try to connect these artists to coders. That was also one of the reasons we came up with the collaborative contract—not only to split royalties between artists, but to let traditional artists and generative artists or coders work together. I think we'll see much more of that in the upcoming months.
 
 Trinity: Fingers crossed.
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Will: Very exciting. Staying on the platform side—something we've heard a lot is that fx(hash) operates like a layer 1, or even a layer 0, in the ecosystem for people to build upon. We've seen a bit of that: the Blind Gallery dropped art on fx(hash) for their latest release, and *Here and Now* uses fx(hash) to power its generative experience. But there's always some friction, because everything has to live within the page we look at things on, and it's hard to differentiate without doing something explicit like titling your project a certain way—which an artist might not want to do. So I'm curious what ideas the fx(hash) team has for making the platform a more successful base layer, not just for artists but for other platforms to build upon.
 
@@ -210,6 +220,8 @@ Ozzie: When we build tools, we always think about how not just our community but
 
 Trinity: One thing we haven't asked about yet: events. We're coming off NFT NYC, one of the rare NFT events fx(hash) attends—NFT Show Europe is the other big one—but there's also a big focus on art events, the Friezes and Art Basels of the world. What's the priority there? Is fx(hash) an NFT entity, an art entity? Where do you want to sit in that mix?
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Ozzie: Interesting question, and the answer is two-sided. We're primarily an art platform, and we use NFTs as a medium to showcase art—we don't deny that. We love the technology and the medium, and we want to be at events that properly showcase what fx(hash) stands for. For contemporary art events especially, we want to be there because we think it's important to show that digital art is truly an art form. That's been debated for decades and hasn't been fully accepted, but we're seeing auction houses, museums, and galleries slowly start to integrate and accept digital art as legitimate. As fx(hash), the biggest repository of generative art, we feel it's on us to show the world that digital art is good art—no less than what's showcased in museums or at Art Basel.
 
 At Art Basel, we were maybe one of the only ones showcasing digital art, which was pretty crazy. In Paris, we were at the center of the fair where everyone had to walk through, and people would see the screens and say, "We haven't seen digital art before—what is this? How do we collect it?" Those small questions trigger a new paradigm in how people see digital art. You can already see how these big institutions experimenting with digital art are shaping what the future of the art space looks like.
@@ -221,6 +233,8 @@ Will: It's been nice listening to other NFT podcasts—gotta keep track of the c
 Ozzie: Absolutely. I think you'll see at NFT events this year that they've learned from mistakes made last year, where art wasn't prioritized. Through feedback from platforms like fx(hash), Art Blocks, Verse, Bright Moments, and others, they've started to value art more, seeing that its chances of prevailing through time are much bigger than a profile picture project's. There are, of course, some PFP projects that will probably stand the test of time, but in the end—not just for digital art, but for all art—art has always been the thing that prevails through time, a stable entity within society. It's nice to see people realizing that will also be the case for digital art. And, maybe a little biased, but I think generative art specifically will definitely pass the test of time.
 
 Will: Hell yeah. That sounds like a great ending to the formal conversation. Very bullish. Trinity has prepared some special rapid-fire questions in addition to our usual ones, so I'll let her take it away.
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Trinity: First one—most important, because I think it has implications for everything we've discussed and every rapid-fire question to come: is time a line, or is it a circle?
 
@@ -234,6 +248,8 @@ Trinity: Why did Will not get a hat at NFT NYC?
 
 Ozzie: He didn't? Oh, damn. I'll make sure that Will gets a hat. It's on tape right now, so.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Will: I didn't put that in there.
 
 Trinity: I put that in there. I'm looking out for you, man.
@@ -245,6 +261,8 @@ Will: It'll happen sometimes.
 Trinity: Clown Vamp has given enough money in platform fees to earn a hat at this point.
 
 Ozzie: Let's not make that one of the criteria to get a cap. It's definitely not, by the way.
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Trinity: It doesn't hurt.
 
@@ -258,6 +276,8 @@ Trinity: The desert island has cars on it too?
 
 Ozzie: Maybe — I've seen enough movies with cars, right? For the fun of it, I'd have Baya with me because he's an amazing persona, a big supporter of fx(hash). He deserves all the praise we give him, maybe even more. We need more people like Baya in Discord — it's truly a blessing to have people who spread that much light in a community.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Will: Really good answer there.
 
 Trinity: We'll do our best to channel that chaotic energy rather than be so serious. So, Liam is the person you'd most want on a desert island. Who on the team is the funniest?
@@ -269,6 +289,8 @@ Will: No, you can pick yourself.
 Ozzie: Then it's definitely me — I think I'm the least serious of the team. I put a lot of serious work into fx(hash), of course, but I always try to find funny moments in serious conversations. Maybe it's a Dutch thing, because Dutch people are pretty funny.
 
 Trinity: Are they?
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Ozzie: I'd say so. Funny-looking, maybe. It gets to the point where the team says, "Ozzy, we're in a serious conversation, can we not make jokes right now?" This might sound generic, but I think every person on the team is extremely funny in their own way, and every meeting has at least five minutes of straight-up laughing. You could cut the audio from any of our meetings and just hear "ha ha ha ha ha" for five minutes. As a team, we're super funny. And look at our backgrounds — we've got a medical doctor, someone from the gaming industry, movie industry, marketing, finance. Put those people together and you already get a funny combination that could fit right into a practical joke somewhere in a desert.
 
@@ -282,6 +304,8 @@ Ozzie: Yeah.
 
 Trinity: Baya didn't make it.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Ozzie: Oh God.
 
 Trinity: Sorry.
@@ -293,6 +317,8 @@ Will: Who's the craziest on the team?
 Ozzie: Who do you think it is?
 
 Trinity: What's the definition of crazy, right? Obviously, Ciphrd has some level of insanity in building fx(hash) with literally one hand.
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Ozzie: Ciphrd is insane. But I think Paul is really the craziest on the team. I'm crazy too, but he can out-crazy me, especially at events. The fx(hash) team is known for being the crazy people — you can always find us dancing around somewhere in a random gallery or at an event we didn't even organize ourselves, which I think is amazing. I've been to a lot of events with Paul since the beginning — I think we were at our very first event together, in Lisbon, Portugal. I've seen a lot of Paul, and I can say with confidence: he's one of the craziest guys on the team.
 
@@ -306,6 +332,8 @@ Trinity: I'm reserving one for the very end.
 
 Will: I want to know what you're most excited about in the space, or on fx(hash) specifically, for 2023. What are you looking forward to this year?
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Ozzie: I really like events — that's where the community gets together IRL, where people can see each other's faces, and that always excites me the most. What excites me even more is organizing events, solo or with partners, where we actually get to use the tools we've built and see them work. One thing I'm most proud of is how fx(params) will turn out in IRL experiences. We got a small sneak peek in CDMX with Bright Moments, where there was a touchscreen you could use to play with the params and watch the artwork change in real time. But there are so many possibilities for fx(params) in IRL experiences with any type of input — sound, movement, words, anything. This year could be a really wild year of events, with so much interaction between collector and artist. That's the tool that excites me most.
 
 Will: Very cool. Do you want to ask us a question? We usually offer guests the chance — if not, we can cut this and move on.
@@ -317,6 +345,8 @@ Trinity: Loving what you do, every second of it — that's how I'd put it. But a
 Will: It's clear the team is super passionate, super engaged, super invested. I think that's why, like Jeremie was saying, we sometimes wish we knew more about what's going on behind the scenes. Even with the fx(fam) events, which are great — a big step in the right direction — and with folks like you coming on the show, it's a great opportunity to introduce you personally and hear your candid thoughts. Maybe operationally it seems smart to stay quiet, but it lets the community spiral. When someone asks a question and the answer is basically "heh, we're working on something, TBD," it doesn't inspire a lot of confidence. Everyone has a lot of faith in each individual team member, but we'd all just love to actually know the roadmap, get it updated, hear what's coming — and if something the community's expecting isn't coming, understand why, what went into that decision.
 
 Ozzie: Thank you, first of all, for the lovely words and the feedback. We're very much aware of the dynamics between the team and the community. fx(hash) was always a platform that grew out of its own community — we're all people from the community. A year, a year and a half ago, I was also just a collector, not doing full-time work for fx(hash) or anything like that. As a team, we have the same hopes and goals as the community, and I hear you that at times it feels like we're not transparent enough, not updating enough. We're very aware of that, and it's something we discuss every day — when and how we should update the community about the tools we're building, the issues we're seeing, why we're updating something or not.
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Being a small team, or a team still in the scaling phase, isn't a reason to not be transparent enough. fx(fam) is a big first step toward improving that transparency, with Ciphrd updating everyone on what's coming and what's maybe not coming anymore. It's a good way for us to carve out time with the community to talk together, which a few months ago was even harder to find, because you're so invested in events and working full-time on the tools that it's difficult to find a specific moment to sit down with the community and talk about what's good for the platform and what's not.
 
@@ -330,6 +360,8 @@ Trinity: Who is the best host at Waiting to Be Signed?
 
 Ozzie: You cannot ask that. Who's the best host? That's not a fair question. I think this is the moment where I say you're both amazing hosts, amazing people. I'm super happy I got to see both of you in New York City — I actually didn't even know what you two looked like. I saw Will first, and I knew it was him because he was wearing the fx(hash) shirt and started speaking, and I was like, holy shit, this is Will from Waiting to Be Signed. And when I saw Trinity, it was the same thing: this is the voice. This is the voice of Waiting to Be Signed, the voice we heard at FXFAM, that we've heard on a panel at Proof of People with some amazing names. I was really excited to see you both, and I hope Waiting to Be Signed will be part of our future events too — Proof of People was a first step, and hopefully there will be many more, digital or physical.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 As a team, we're really proud of what you've done every single week for the last year. That deserves praise and support, not just from us but from the whole community. Tezos as a foundation should be aware that these are exactly the kinds of projects worth supporting. Long answer, but that's how it is.
 
 Trinity: This is a beautiful answer.
@@ -341,6 +373,8 @@ Ozzie: You heard this, Arthur.
 Will: That was really nice to hear, Ozzie, thank you. I was just looking — we missed our milestone. We crossed 100 episodes a couple weeks ago, between the interviews and the weeklies, which is crazy. This will probably be episode 105 by the time it comes out.
 
 Trinity: Does that include our listings episodes?
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Will: It does.
 
@@ -354,6 +388,8 @@ Ozzie: It would've been bad if I'd said, "Oh yeah, Danielle's the best co-host."
 
 Trinity: I mean, it's the right answer.
 
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
+
 Ozzie: She's amazing. I love her.
 
 Will: Only a two-time co-host, though. All right, Ozzie, I think that wraps it up. It was really generous of you to hang around and talk with us — I hope you had fun being on the show. We're excited to share more of you with our listeners and the community. Thanks for coming on.
@@ -365,6 +401,8 @@ Will: If we have occasion to be together at an event, that would be amazing.
 Ozzie: We're going to do this. Write it down.
 
 Trinity: If we could go back in time to December 2021 — that was the ultimate moment for a Twitch stream on fx(hash), because something new was hitting the feed constantly.
+
+[pool: Reiziger | Reiziger — Liam Egan & Ozzie | | 1]
 
 Will: Every hour some project was minting out that everyone was going crazy for.
 

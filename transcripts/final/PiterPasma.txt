@@ -52,7 +52,7 @@ Often when I'm in a program and want to capture certain features, it's almost li
 
 Will: That's what you did with *Hypergiraffe*, right -- generated titles. I fact-checked, by the way: *Ringers* was January 31st, 2021. So you were very close in your estimate.
 
-[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | ]
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 3]
 
 Piter Pasma: Ah, okay. Then I probably heard about it in December, while it was still a work in progress.
 
@@ -62,7 +62,7 @@ Will: Yeah.
 
 Piter Pasma: Sometimes you get the idea that you have these features with four combinations, those with five, and the output is all the possible options times some rarity value, and that's it. I wanted something a bit more complex than that. It's not that I set out to make *Skulptuur* with that in mind exactly -- there were just two possible programs, and I never even really released the other one. It wasn't going to be quite as cool as *Skulptuur* turned out to be. So I made the right call.
 
-[pool: Skulptuur | Skulptuur — Piter Pasma | ]
+[pool: Skulptuur | Skulptuur — Piter Pasma | | 3]
 
 Trinity: Let's talk about that for a bit, because for anyone listening who only knows your fx(hash) work and hasn't looked at your work on Art Blocks -- could you give us some background on *Skulptuur*, how it was created and envisioned, and its trajectory from where it originally started?
 
@@ -76,6 +76,8 @@ So I got into shaders again, because GLSL is really fun to write in, I think. Qu
 
 Trinity: What is that, for people who don't know?
 
+[pool: Skulptuur | Skulptuur — Piter Pasma | | 1]
+
 Piter Pasma: Oh, yeah.
 
 Will: The simulation, right?
@@ -86,11 +88,15 @@ Around the same time, I'd come up with an algorithm to procedurally generate sha
 
 The shapes in *Skulptuur* are based on that idea taken further. Imagine a donut that's hollow but has two shells—a double-shelled donut—and you intersect that with a double-shelled sphere. What does that even look like? I don't know, but the computer does. Those are the typical shapes you find in *Skulptuur*: grids of shapes intersected with each other.
 
+[pool: Skulptuur | Skulptuur — Piter Pasma | | 1]
+
 Will: So is that the secret to the brevity of the code for *Skulptuur*? Working from simple primitives in 3D, then using that kind of subtraction between a torus and a sphere, double-shelled, to form on the fly, with a little randomness, shapes that would be very complex to code individually?
 
 Piter Pasma: There's a lot of secrets, and I actually plan to write about all of them—it's just going to take a while. One thing I already knew from the demo scene days, writing my 4-kilobyte demos in assembly code, is that you have to do everything yourself. There were no libraries; they wouldn't fit in 4 kilobytes. What I found is that if you drill down to the basics of how things really work, you can just program them out, and the code will already be pretty small—if you generate everything instead of using data, code is really small.
 
 This is how I got into sound and music, actually. Part of that last 4-kilobyte demo—1,100 bytes of it—is a tiny software synthesizer I wrote myself that does a sawtooth with a resonant filter and distortion, making beepy sounds and drums, among other things. Only 1,100 bytes. So I already knew that if I squished the code together and kept hammering on it, I could get it down small. I actually wanted to get *Skulptuur* to 4 kilobytes for old times' sake, but at some point you get diminishing returns, and 6 kilobytes was already pretty good. It scared me at some point—it just fit on the screen, after I'd been working on it for months. That realization, that half a page was everything, was pretty funny.
+
+[pool: Skulptuur | Skulptuur — Piter Pasma | | 1]
 
 Will: Here's a question you may have been asked before: why make it smaller? I want to tie this to conversations we've had with other artists, like Amy and Ciphrd. I get the sense that for you, the code itself should be appreciated as art, and that's part of what drives you to optimize it—not just "look at what this code made" but "look at what I did with so few characters." What drives you to do those optimizations? A great recent example: that thing you posted on Twitter last week that people could paste into the Chrome browser to generate shapes on the fly.
 
@@ -99,6 +105,8 @@ Piter Pasma: *Hypergiraffe* is also really small, by the way. Part of the reason
 My 4-kilobyte demos ran on Pentiums, which were much faster, so we applied these artificial boundaries of 4 kilobytes and 64 kilobytes. Like I said, code is really tiny if you generate everything—64 kilobytes is an ocean. You can't imagine what you can do with 64 kilobytes of assembly code. It quickly became clear you'd need a team: a music person, a graphics person, maybe two coders. I didn't know anyone at the skill level I needed, so I did it alone in 4 kilobytes—that was the alternative. It still took me half a year to make one production.
 
 That's why I did it in the demo scene. When I did it for *Skulptuur*, it was because every byte you write on-chain costs money, and I thought, that sounds like a job for size optimizing. I had a lot of fun with that. I'd also done a lot of weird stuff with JavaScript back in the day—the moment I saw you could put scripts into web pages, I realized you could do a lot of weird stuff, and sometimes to make a website do something unusual you only had so many characters to work with, so you had to learn size optimizing, or how to avoid certain types of characters. People who know what I'm talking about know what I'm talking about—that's where part of my JavaScript knowledge comes from.
+
+[pool: Skulptuur | Skulptuur — Piter Pasma | | 1]
 
 And there's also, as you touched on, that I just love code, and I love JavaScript. Everybody hates it, but ever since it got arrow functions, I think it's become a beautiful language I can have a lot of creative fun in. It's not that I want people to look at my code, though it is beautiful—it's also a personal satisfaction thing. Maybe that's the part of the art I don't care whether people get, because I know it's there.
 
@@ -112,6 +120,8 @@ Trinity: You can have it for free.
 
 Will: We'll edit that out and you can keep it as an original.
 
+[pool: Skulptuur | Skulptuur — Piter Pasma | | 1]
+
 Piter Pasma: Great. Really, *Never Bored* was about being pretty young, just starting university life, and having so much going on that even in my free time I always had something to do. That's what it was about, but I really like your interpretation.
 
 Trinity: There's still an interesting parallel between the efficiency of the code and the time efficiency of the plotting. Your plottable work is really beautiful, by the way—if you released that on fx(hash), I think people would lose their minds.
@@ -119,6 +129,8 @@ Trinity: There's still an interesting parallel between the efficiency of the cod
 Will: I had that mentally flagged. There are artists on fx(hash) who release plottable work with exportable SVGs, or build in something like a 2% chance as a trait, where if you're lucky you get a free plot from them. Have you ever considered doing plottable work?
 
 Piter Pasma: You can actually plot *Hypergiraffe*—they're all SVGs. You can right-click, save, and just figure out how to make the colors work. Some people have actually contacted me about that: a collector of *Hypergiraffe* found someone with a plotter, and I was happy I didn't have to figure it out myself. They asked if they had my blessing to do it, and of course they did—it would be really cool. I haven't heard back yet on that project.
+
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
 
 The problem with a lot of my hatching programs is that they're not long-form. All those spooky, sci-fi, threatening scenes—I just come up with them. I start building mathematical shapes I find interesting, combining formulas, and it becomes a bit like doodling: what does this look like, how do I position the camera for the most impact, do I need extra blobs somewhere? Then I flesh out the scene until it looks cool. But that's not really a long-form process, and that was the challenge with *Skulptuur*: making interesting 3D shapes in long form. It's pretty hard to find more shapes—I've found a few, but I've been told they still look a lot like *Skulptuur*, so I'm not sure how to turn them into something distinctly long-form.
 
@@ -132,6 +144,8 @@ Will: You're making the plotter intentionally bored.
 
 Trinity: Which is art in and of itself.
 
+[pool: Skulptuur | Skulptuur — Piter Pasma | | 1]
+
 Will: Could be. We've talked a lot about *Skulptuur*, your big Art Blocks drop, and touched a little on *Hypergiraffe* and some of your fx(hash) work. How do you decide these days which pieces you'll put on Art Blocks, on Ethereum, versus which you publish on fx(hash)? What's the difference between those experiences for you, and do you have a preference? Are you chain agnostic?
 
 Piter Pasma: A little bit. If it were purely up to me, I'd be chain agnostic, and that's the main reason I've mostly released on fx(hash) since Art Blocks — actually, only *Skulptuur* is on Art Blocks. Part of it is that it just feels lower effort to put something on the fx(hash) website. You can do it all on your own; you don't need an appointment with people on Discord, and it feels like you can make mistakes more freely.
@@ -144,13 +158,15 @@ Trinity: A lot of work on HEN, a lot on Versum too. I was just looking at your *
 
 Piter Pasma: Thanks. Yeah, I was going for more one-of-one pieces rather than long-form ones. I used to release them on Hic Et Nunc, and after all sorts of stuff happened with Hic Et Nunc, Versum appeared, and it just looks really good. I haven't put a lot of work there yet, but everything about the site pleases me — how it displays the art and facilitates things for the artist.
 
+[pool: Skulptuur | Skulptuur — Piter Pasma | | 1]
+
 Trinity: Definitely good for edition-size pieces rather than generative ones.
 
 Piter Pasma: I'm not even sure if you can put interactive pieces on there — oh wait, yeah, I did, I have one there. The *IMU* text-code-poem thing.
 
 Trinity: Going back to fx(hash) — we've talked about *Hypergiraffe*, but not much about *Dot Produkt*, which was one of the pieces you released before we were on the platform.
 
-[pool: Dot Produkt | Dot Produkt — Piter Pasma | ]
+[pool: Dot Produkt | Dot Produkt — Piter Pasma | | 3]
 
 Will: Yeah, we joined a little after both those releases, I think. I never got the full story either, Trinity. So what's the genesis of both of those works? Are they connected, or is there a short version you can share?
 
@@ -164,13 +180,15 @@ Will: I studied that too, but at a school that didn't give grades, so my recolle
 
 Piter Pasma: I can highly recommend — linear algebra is the best thing you can learn for math and coding. There's a YouTube channel called 3Blue1Brown that makes educational math videos, and they have a series on linear algebra that's really great. It uses a visual approach to explain what all these things actually are. Who cares what a determinant is if you don't know what it's for? But once you see that it's about how much a space is being squeezed or not, it suddenly makes sense — or at least a little bit. So, everyone: learn linear algebra.
 
+[pool: Dot Produkt | Dot Produkt — Piter Pasma | | 1]
+
 Will: Okay.
 
 Piter Pasma: Especially for generative projects.
 
 Will: To continue down the fx(hash) path — you've released some other work recently. One right before the end of beta, *Angry Noise*, and one shortly after, *Gonzion*, I think — is that how you pronounce it?
 
-[pool: Angry Noise | Angry Noise — Piter Pasma | ]
+[pool: Gonzion | Gonzion — Piter Pasma | | 3]
 
 Piter Pasma: *Gonzion* is named the same way as *Hypergiraffe* — after its random title generator. During the publication process of *Hypergiraffe*, you have to click through the variations to find the one you want to keep as the cover image for the set, and you see the features flipping by as you go. I saw one called "Hyper Giraffe" and thought, that's a good title. Same thing happened with *Gonzion*. I'm not sure it's a great title, but it works. I don't even know how to pronounce it — they're made-up words.
 
@@ -178,11 +196,15 @@ Trinity: It works.
 
 Will: I knew that story about *Hypergiraffe*, but not about the more recent projects. For *Angry Noise*, I saw a lot of work-in-progress stuff you posted as editions on other platforms. But for both of them, I'm not quite sure what's happening on the code side, or the conceptual side. I know you listened to one of our shows where we talked about *Gonzion* in particular.
 
+[pool: Angry Noise | Angry Noise — Piter Pasma | | 3]
+
 Piter Pasma: Mm-hmm.
 
 Will: And I remember saying something like, I feel like there's something here, I just don't know exactly what I'm getting. I'd love to give you the chance to talk about those projects and get some more information out there.
 
 Piter Pasma: The thing is, I'm not good at pricing or picking edition sizes, and clearly with *Gonzion* I made a mistake. I'm sorry to say there wasn't a lot of thought behind it — when a project nears completion, I just want to put it out there, and sometimes I misjudge the price or the edition size. I'll probably have to stop the *Gonzion* minting process at some point. Actually, I wanted to hear from you — I'm not sure which one of you said you hoped I'd keep it open for minting forever. I was wondering why.
+
+[pool: Gonzion | Gonzion — Piter Pasma | | 1]
 
 Trinity: At the time, we hadn't had this conversation yet. My thinking was: if it's an artistic choice to create a thousand editions because you want to see a thousand variations out there, then you should stick to your guns and do that.
 
@@ -196,25 +218,31 @@ Will: What number do you think it should be now, in retrospect? What would you b
 
 Piter Pasma: I'd probably just say I'm going to close it a week from now and see what happens. That's not an official announcement, by the way — I don't know when this will air, so I'll announce it properly on Twitter. I made some last-minute choices with *Gonzion* on the designs that came out a bit different than expected — like the alien background stuff being very dominant in the piece. One of you remarked on that too, and you especially see it in the gallery view — they all start to look kind of samey. That was maybe not the best choice. On the other hand, I'm still really proud of the fractal patterns in there, because the idea behind the large edition size was that there'd be so many fractal patterns possible. I just didn't think it through entirely. A lot of people really like the bright backgrounds, and I get that. I also heard people complaining, "I minted three and didn't get one," and I don't think that's cool. That would be a reason to stop the project — to keep people from getting disappointed like that. And there will be more fractals in the future.
 
+[pool: Gonzion | Gonzion — Piter Pasma | | 1]
+
 Trinity: The sizing and pricing obviously matters to people, but I'd like to hear more about your process. Going into *Gonzion*, *Angry Noise*, and *Hypergiraffe* — we talked a lot about your process for *Skulptuur*, especially making sure it was small enough to fit on the blockchain affordably. What was your approach creating your fx(hash) releases?
 
 Piter Pasma: It was different every time. For *Hypergiraffe*, it was actually size-optimized. I did it that way because I'd written this very tiny quad-tree algorithm — a spatial-querying optimization algorithm that lets you make doodly things like *Hypergiraffe*, or anything that requires checking how close points are to each other and drawing accordingly. I'd already written that code and started looking for a use for it. I also already had this doodling algorithm — there are some variants of it on Hic Et Nunc and Instagram that I'd posted. So I reimplemented the doodling algorithm using only very tiny code and squished it all together.
 
 To be honest, I hadn't expected *Hypergiraffe* to be that big of a hit. In hindsight, I recognized it was a combination of things — the longer I let something brew, the better it gets, because I keep working on it. There was a great quad-tree algorithm, a really cool doodling algorithm, and some wisdom about the wobbly functions that define the shapes in *Hypergiraffe* — the insight to give all four corners a different scale, so each corner can be bigger or smaller and it interpolates between them. That's how you get all the different shapes.
 
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+
 I'd actually wanted to do the generative-title thing for *Skulptuur* too. I wanted a kind of crazy science-fiction backstory — which I'm now sort of making up myself by coming up with all these titles I post on Twitter — but the idea was to generate them automatically. I just couldn't get it right, couldn't figure out how to make it tiny, even though it didn't need to be, since the features don't go on-chain — you could actually make that code as big as you wanted. But I never did it for *Skulptuur*.
 
 For *Hypergiraffe*, the generative titles were really an afterthought. I'd already made the program, and I thought, these random titles — fx(hash) can do that too. I felt creative because fx(hash) was new and there was room to experiment. The titles are a bit magical-realism, a bit silly, almost children's-story kind of things. I wanted *Skulptuur* to sound more important, and I could never figure out how to generate that tone. But for *Hypergiraffe*, the playful titles worked really well with the images, I think. So I added them afterward, and I was satisfied I managed to keep them tiny too.
 
-[pool: Skulptuur | Skulptuur — Piter Pasma | ]
-
 For the other fx(hash) pieces, I didn't size-optimize — you can actually read the code, and there are comments of mine inside it. I got some remarks about *Dot Produkt* from Alexis André, or Mattpan, I'm not sure how it's pronounced — he said he got some use out of the comments I'd left in there. So I thought, people actually read this. And since there's no real reason to size-optimize on fx(hash) except to show off, and I'd already done that a few times, I decided to just write nice code with jokes instead.
+
+[pool: Dot Produkt | Dot Produkt — Piter Pasma | | 1]
 
 *Angry Noise* was based on an article by Inigo Quilez about a way to create a certain type of noise in three dimensions. The way he did it was interesting, and I wanted to try it in two dimensions. I did some variations on it, and out came this very angry noise. I just wanted to showcase the texture of it, because I thought it was something special — something I hadn't seen before. That's the main intention behind it, I think.
 
 Will: When we talked a bit about music before we started, and then thinking about how the outputs look in that project — I thought maybe it was a play on words, noise as in noise in generative art, but it also looks like a wave pattern, the kind that wouldn't actually be physically real for sound. It reads like a made-up waveform. So I found myself wondering if there was also a reference to sound in there.
 
 Piter Pasma: I actually considered calling it *Punk Noise* — for being angry and punk, but also as a play on "pink noise." If you've heard pink noise, it sounds like a waterfall, and it's exactly that. It is in two dimensions, so — I'd have to look at *Angry Noise* again to see if that waveform idea comes through, or if it's just because there's a bar running through it each time.
+
+[pool: Angry Noise | Angry Noise — Piter Pasma | | 1]
 
 Will: It's the bar — the bar and the way the shapes protrude from it. And often they're opposing, like a waveform going up, one going down, then a third one coming back up. There are square waves and sine waves, and this felt like a whole other type of wave. I wondered if there was a double entendre there.
 
@@ -223,6 +251,8 @@ Piter Pasma: There was a strong idea of making a bar and putting shapes around i
 Will: I ended up getting one right before the beta ended, before the big burn. Did you know that the burn was going to be forced, when Ciphrd closed the platform?
 
 Piter Pasma: I realized it at some point, but again, I hadn't thought about it much. Did you know someone actually went through the trouble of sending all the early minters of *Angry Noise* a very custom angry NFT?
+
+[pool: Angry Noise | Angry Noise — Piter Pasma | | 1]
 
 Will: Yes, I got one.
 
@@ -236,9 +266,9 @@ Will: It absolutely was.
 
 Piter Pasma: At first when I got it, I wasn't amused, but I kept it — it's a memory now.
 
-Will: The quotes pulled out for it were very much along the lines of things people say, especially in the price-discussion channel of the Discord. On that note, I'm curious — how do you regard it when some projects sell out and do amazing secondary volume, like *Hypergiraffe*, and others, like *Angry Noise*, where we never got to see where it would go because it was ceremoniously burned at the end of beta? Now you have *Gonzion* out there too. How do you cope with the reality that when you release something as an NFT, it's going to be judged on economic metrics that don't necessarily have much bearing on you as an artist, but that's just the reality?
+[pool: Angry Noise | Angry Noise — Piter Pasma | | 1]
 
-[pool: Angry Noise | Angry Noise — Piter Pasma | ]
+Will: The quotes pulled out for it were very much along the lines of things people say, especially in the price-discussion channel of the Discord. On that note, I'm curious — how do you regard it when some projects sell out and do amazing secondary volume, like *Hypergiraffe*, and others, like *Angry Noise*, where we never got to see where it would go because it was ceremoniously burned at the end of beta? Now you have *Gonzion* out there too. How do you cope with the reality that when you release something as an NFT, it's going to be judged on economic metrics that don't necessarily have much bearing on you as an artist, but that's just the reality?
 
 Piter Pasma: I wish it wasn't, it would be easier, but it is what it is. The most important thing is that I can't let it affect what I'm going to make — and honestly that part isn't hard, I don't care enough for it to. What's harder is making sense of it emotionally. Sometimes I feel a bit responsible for things, sometimes I don't. Sometimes I think maybe I should make something with a very low mint price so people can go nuts on the secondary again, just for the fun of it — but then there's the question of keeping price expectations in check, which is really hard to estimate. I just multiply some numbers in my head, and it doesn't always come out right.
 
@@ -249,6 +279,8 @@ Piter Pasma: Yeah, yeah.
 Trinity: It's so meta — it was something like 0.16 tez just to put it out there. I think there's something fun and playful that could be done to release things in a less serious way. It can still be serious art, but, you know.
 
 Piter Pasma: I was thinking about that — it went a bit wrong, but I was thinking about that thing I put in a tweet, about maybe putting it on fx(hash) too, where the feature would be the code you could tweet with your parameters. I almost had it figured out, but it was too long for a tweet. I thought it was a brilliant idea because I was sure I'd seen somewhere, in a wallet or a Tezos transaction, that the features were recorded on-chain — but they're not. I thought they were. And I thought if I could just wrangle my code in there, I'd be the first on-chain fx(hash) project. But that can't happen, unfortunately, so I'm not sure what to do with that tweet program now. It would have been a tiny fun thing.
+
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
 
 I've been doing a secret collab, so I can't talk about that — that's what I've been spending a lot of time on. But if you've kept your eyes open, you'll know exactly who it is.
 
@@ -262,6 +294,8 @@ Trinity: Ippsketch.
 
 Piter Pasma: I don't know, really.
 
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+
 Will: Interesting.
 
 Trinity: I work with people who pay attention — everything is documented. Thank you, Web2 and your centralized databases.
@@ -273,6 +307,8 @@ Will: I might have just missed it. Maybe I'm the one out of the loop here.
 Piter Pasma: No, Ozzy told me last week to keep quiet about it again.
 
 Trinity: So we'll edit that out.
+
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
 
 Will: Hey, nothing was confirmed. Peter's just playing coy with us and letting us think we know who it is.
 
@@ -286,6 +322,8 @@ Will: Depending on how well you like the person you're collabing with.
 
 Piter Pasma: That one was easy. With another collaborator I won't name—already giving away too much about the project—it's a different approach, harder when you don't share a similar programming style. With Will it wasn't just that he was doing shaders, he was specifically doing ray marchers in shaders, so we had enough overlap that I actually understood his code when I saw it.
 
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+
 Will: Piter, I know we've gone over an hour, so let's do one last question and start wrapping up—you've already been so generous with your time. What are you most excited about in generative art right now? Looking ahead a year or two, NFTs or otherwise—does the traditional art world fit in anywhere? Where do you see it all going?
 
 Piter Pasma: I don't know where it's all going, but I'm definitely going to keep making art. I want to do more in the traditional art world—that's been a lot of fun, and I have opportunities there now. But I'm not abandoning anything either. I'd still love to project my work onto buildings, really big ones—that sounds fun, though it's pretty far removed from what I'm doing currently. I've got a lot of ideas I haven't worked out yet. Mostly, though, I'm looking forward to having my taxes done. And traveling more, meeting other generative artists—I've done a little of that now and I want more of it.
@@ -297,6 +335,8 @@ Piter Pasma: Not next month, but—
 Will: Isn't there NFT NYC coming up?
 
 Piter Pasma: Oh, no, I'm not planning any trips right now. But I have to see. I am traveling more than I used to, which was hardly at all.
+
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
 
 Trinity: One related question—maybe my last one. You mentioned, either on this recording or just before, that you'd gone to Amsterdam to meet up with other generative artists. What we're seeing in the fxhash community is a disproportionately large share of people from the Netherlands—way more than any other country given its size. Why do you think that is? Education? People just knowing and promoting each other?
 
@@ -310,6 +350,8 @@ Trinity: We'll blame it all on Ozzy—just recruiting people to fxhash so there'
 
 Piter Pasma: Definitely. I do some volunteer work along those lines, but—well, we're already running out of time.
 
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+
 Will: No, it's okay if you want to speak on it—it's your podcast. Or I've got one last question too. We always do like three "one last questions."
 
 Piter Pasma: Sure, go ahead. I don't really know what to say about the volunteer work anyway.
@@ -321,6 +363,8 @@ Piter Pasma: Great question. I should look at the code, but I don't, really—I'
 Will: They just added a label in 1.0—if a project uses pre-rendered images layered together, you now have to label it as such.
 
 Piter Pasma: What I really want to see is just the kilobyte size.
+
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
 
 Trinity: I don't think they show that.
 
@@ -334,6 +378,8 @@ Will: That's more code than you'll write in your entire life—sixteen megabytes
 
 Piter Pasma: There's *Omega Point* by Monotau—that's a piece whose code I'm definitely going to read. I've already talked to them about how on earth they pulled off what they did.
 
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+
 Will: It loads so fast too. Wild that it loads instantly.
 
 Piter Pasma: I'm really looking forward to digging into that—they've described some of their techniques, and there are some very cool tricks going on there.
@@ -345,6 +391,8 @@ Piter Pasma: Yeah, I like their work. Wish I'd gotten a different one, but—
 Trinity: They're still plenty available to mint.
 
 Piter Pasma: All right, pressure's on. What was it called—*Amulet*? I'll look at it later.
+
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
 
 Will: I feel like that actually wraps things up nicely—a great little diversion into what we like to collect. Piter, thank you so much for coming on, for being so generous with your time, and for letting everyone learn more about you as an artist, your history, and your perspective. Really appreciated. We love doing these interviews, so thank you very much.
 

@@ -6,7 +6,7 @@ Rick Crane: Yeah, good.
 
 Trinity: Honestly, just so glad to have you two here. It's been a while since we've had a dual episode, and I think you've both been collaborating together since *Miniscapes* came out in beta, right?
 
-[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | ]
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 3]
 
 Rich Poole: Yeah, way, way back. You guys have talked about us and we've been listening. So now we're on the other side, which is quite fun.
 
@@ -20,6 +20,8 @@ Rich Poole: Ancient at two and a half years.
 
 Will: Rich and Rick, it's great to have you on. As usual, the first question would be to ask you both to introduce yourselves to the audience. Tell us about your backgrounds in art and coding, and how you came to find NFTs as a way to release your work.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: I'll launch in. Hi, I'm Rich. I tend to go by Rich everywhere because I normally got called Richard when I was in trouble — bad memories from my childhood.
 
 Will: Same.
@@ -31,6 +33,8 @@ I got into NFTs via a platform called EthBlockArt, which is still around, althou
 From there, I've done releases with multiple platforms — GM Studio, some recent work with Verse, which was great fun, lovely guys there, some work with Gen.Art, rest in peace, and several projects on fx(hash). The fx(hash) work has been a mix of solo pieces and some collabs — with Rick, and another with Balsarino. That's how we've gotten to this point. Most people probably know me on fx(hash) predominantly for the work with Rick — that seems to capture people's attention the most.
 
 Trinity: We were thinking back last night as we were recording — I think it was our first interview, or maybe our second — about people getting into this space. I think it was Abstractment?
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Rich Poole: Yeah, I met him via Gen.Art because he was submitting work and I was working on the panel there as a volunteer. We got chatting a lot, and I'm actually working with him separately on a collab too. He's awesome, such a lovely guy.
 
@@ -44,6 +48,8 @@ Rick Crane: I was a graphic designer previously — my father was a graphic desi
 
 That was back when Hic Et Nunc was alive. I remember the first time I went on the site and just thought, what is this? I don't get it at all. But slowly you navigate and learn what you need to learn, and that's where I really started out. I loved the Tezos community — so many collaborations, competitions, charity things. Then I progressed into other chains.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 I met Rich because somebody copied some of my work and released an fx(hash) project with it, I think. I went into Discord moaning about it — what can I do? Most people were pretty blasé about it and I didn't feel very supported. But then Rich came along and backed me up, and we just started talking, and it went from there. It was a match made in heaven, really — we've worked together for coming on three years. This is our third project, so yeah, excited for this one.
 
 Will: So it was kind of an "if you can't beat them, join them" thing. What exactly were they doing — stealing images you'd put on HEN and making some kind of image composition?
@@ -54,11 +60,15 @@ Trinity: Silver lining — copy-minters bringing people together.
 
 Will: You need every aspect of the ecosystem. We need even the bad actors sometimes, to create these connections. Let's talk more about your history as collaborators — that's such a funny story for how you two got together. From there, was it just Rich saying, "Hey, that's not cool, why don't you work on a project with me?" And then how did you end up at *Miniscapes* as your first project?
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: That's about it, really. Rick has a piece on his own foundation called *Soundscape* — that was the one someone had basically borrowed 99% of and then tried to pretend it was their own idea. When I saw that, I thought, that is actually such a cool piece — really clean, simple concept, but done so well. So when I was chatting with Rick, after we got that taken down and they'd admitted, "Yeah, okay, maybe we did copy all of it," I said, look, if you're ever wanting to dabble in this and work on something, I'd love to partner up and see what we can do.
 
 It wasn't long after that — maybe a couple of weeks, a month — that we started bouncing ideas back and forth, and *Miniscapes* emerged quite quickly from this idea of playing with what's the most we can convey with the least. That was always the underlying tenet of it. It took us longer than we expected, perhaps, because we both have perfection disorder — I'm definitely on the spectrum, as my wife reminds me regularly. When you bring two people together with that kind of OCD, things don't necessarily move fast. But we got on really well from the get-go, had a good laugh about it, never really argued. I think we agree on 89% of the stuff we tend to like or dislike, and on the other 10-20%, it never comes to blows over "I like pink," "No, no, it should be red." We managed to find a good way forward.
 
 We really enjoyed working on that, and almost as soon as we finished it we were saying, right, we should do this again — and *Acequia* emerged off the back of that. But *Miniscapes*, I still love it. Every time I see one in the feed or shared on Twitter, it makes me smile. It's probably one of my kid's favorite things — maybe not so much now that she's 13, they're probably not as cool as she thought they were a couple of years ago.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Trinity: I think they're fun and delightful, with a little bit of a retro vibe, but they're just so clean. Across both that and *Acequia*, there's something about the colors and the proportions and the way everything feels so intentional. From everything you've said about your process, there's a lot of intentionality — it seems like you both truly co-own the entire end-to-end process to make something that's actual perfection rather than just good enough.
 
@@ -72,11 +82,15 @@ Will: What is that like? Rick, you don't code — a lot of your work is graphic 
 
 Rich Poole: I don't think so. I think if you do that, it's just an image comp, and that takes away from the ghost in the machine, which is an awful lot of the fun for me in creating these complex generative art projects. So what we've done, similar to *Acequia*, is have a lot of stuff that's pre-designed. It's not just, hey, throw it at a flow field and magically make some cubes. If we have a base design, we ask: how can we push this? Can we bring in edges? Can we add extruded or intruded parts? We try to put in enough variety that what you get is still a surprise, even though you can recognize, hey, those trees in *Miniscapes* are always triangles, who knew?
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 It's a balancing act, because if we let it roam completely bizarre and free, it wouldn't speak to Rick's design work and his other pieces. Everything we do as a collaboration should sit alongside his existing work and feel part of the same aesthetic, while still having that generative side, which is what people know me for. So there's a lot of back and forth, a lot of stuff that hits the cutting room floor — we threw away well over 100 palettes with *Acequia*, heaps of cubes. My job is to take what Rick's done and ask, can I make this weirder and stranger? Can I do odd stuff with it? Sometimes Rick will very politely say, "I'm not sure about that," which is code for "back, back." But every now and then we find something and go, actually, yeah, let's explore that some more.
 
 I think we said it in the *Miniscapes* blog: delight and surprise is probably what we go for, while still keeping a collection that feels coherent and consistent throughout. I think we managed that with both *Miniscapes* and *Acequia*. There's a separate question of how diverse a collection can be before it stops being a collection at all — we're always mindful of not wanting really odd little corners where someone gets one and thinks, hey, this should have been the whole collection. So we try to keep that relationship together. What do you think, Rick?
 
 Rick Crane: I'm all about the aesthetic, so for me, I like it to be coherent and recognizable. I think *Miniscapes* brought something slightly different to fx(hash) when it came out — it was charming and refreshing for a lot of people. Landscapes always speak to people, I think, and I'm a big fan of bringing nature into my work. We can all recognize and relate to the natural world to varying degrees, so I think it touched a lot of people in a simple way.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 As for me and Rich — he's literally like a magician in my mind, because I'm not technically minded. Getting into web3 has been a big learning curve for me. I come up with some visual things and he just makes it work, makes it do amazing things. It's a real delight to work with him. It's funny — sometimes I chat with people in the real world and they ask what I do, and I say I'm a sort of digital artist, I work with crypto and art. "Oh really? What's that?" Generally people don't know what generative art is, and you have to try to explain it. But it's really exciting for me, diving into a whole new realm of art through these collaborations. I like to change things up and challenge myself, and that's what this has been.
 
@@ -85,6 +99,8 @@ Trinity: Working in this long-form generative space is obviously incredibly diff
 Rick Crane: Initially, working with Rich, I found it quite challenging. I'm a bit of a perfectionist — the nature of what I do is minimalist, geometric, everything has to line up and be right, otherwise it looks off. So it was challenging releasing some of that control to the code and the computer, to another form of technology. But I've softened to that and actually started to really enjoy seeing what can unfold from what I might have originally conceived differently. It's a whole other level of creativity and creation that I find fascinating.
 
 Trinity: Especially with both of these — *Miniscapes* is 400 editions, *Acequia* is 343, which are not small projects by far. There's a lot of surrender to the algorithm at that point in terms of what can be produced.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Rick Crane: It's always interesting — we spend a long time on these projects, nearly half a year for *Acequia*, and definitely half a year or more for the one we're working on now. The good thing is we don't really tire of what we're doing. We might have a period where we need to step away and get back to real life, but it's amazing how it evolves, how things can unfold in unexpected ways.
 
@@ -98,6 +114,8 @@ Will: For both of you, it sounds like a good chunk of the collaboration comes in
 
 Rich Poole: From my side, doing plotter art, a lot of that was actually more representational, so it wasn't crazy difficult to pick that up and translate across. The toughest part with *Acequia*, without question, was the water. That was something we hadn't really considered initially — we knew we wanted to do something in that isometric space, and then I introduced the idea: hey, wouldn't water be cool? At first we thought water would be cool just in a static sense, and then I thought, it'd be way cooler if the water was animated.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rick Crane: I just want to state, this was definitely Rich's idea.
 
 Rich Poole: Okay, there you go.
@@ -109,6 +127,8 @@ Rich Poole: I'll take the credit and the blame, then — I'll take both. With *A
 Trinity: Is there an isometric Newton out there defining the rules of gravity within an isometric space?
 
 Rich Poole: That'd be maybe me and Rick just going, hey, what feels nice? So when it's going down a diagonal, we're like, okay, well, it would go quicker, but if it goes the same speed as vertical, that's going to feel weird when they're next to each other because one's going to out-accelerate the other. The whole plumbing for *Acequia* is one of the things I'm most proud of technically, because it looks like it's one continuous flow of water, but actually each of the cubes is just individually aware of its own water state. There's a whole series of plumbed-in cubes underneath where each one's going, hey, how much water do I currently have? Am I filling up? Am I feeding into another cube?
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 So when we started putting it together, even fairly early on when we had a couple of these water cubes, I'd set up the plumbing and we could start placing them down. I was like, okay, holy crap, this actually looks like it's flowing from top to bottom. That is just what we wanted. Then we put the little lip on the edges so you've got a water glint effect. That water was, without doubt, the toughest part, because Rick came up with some incredible designs, and it could take a day or two on each of them just to break down how this actually had to physically work. Where are all the transitions when the water fills up and hits a lip, so it stops filling up behind, and then it overflows, and then, oh, hold on, it's overflowing but it's going to hit a hard surface, so it needs to transition again.
 
@@ -122,6 +142,8 @@ Rick Crane: Me?
 
 Trinity: No.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: We've got him now.
 
 Will: Okay, but what about a generative t-shirt?
@@ -134,11 +156,15 @@ Trinity: You can definitely hook an algorithm up to embroidery machines too, to 
 
 Rick Crane: That's what I love about web3. It's always evolving, and sometimes it's a bit tiring because you feel like you're riding a wave and you don't want to fall off the back — you've got to keep riding it. But there's always new things coming about, new crazes, new fads, new techniques, new technology. It keeps you alive from a creative perspective.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Will: If it ever crosses your mind to design something for a beloved podcast — we've been talking about doing merch for two years now. We've never done it. We also don't know how to do it. That's part of the problem. Let's keep going on *Acequia*, since it's the project that really defined you two as collaborators and took you off fx(hash). It was an fx(hash) project, on Tezos, but it broke through in a big way to the Ethereum community and to art collectors in a broader sense. What was the inspiration for that piece originally? How quickly did it come together after *Miniscapes*? There's a lot of similar aesthetics, but it's obviously very different — it's in that isometric style, all the cubes. Did that come from a piece of yours originally, Rick, that you then adapted for generative? Let's hear the story.
 
 Rick Crane: That is the story, really. *Miniscapes* was so much fun and very well received. In hindsight, one of the biggest challenges — despite everything we've talked about with code and perfectionism — is judging the market: getting the price right, getting the supply right. Those are conversations we have time and again while going through a project, and the market changes throughout the course of it too, so you have to keep reassessing.
 
 *Miniscapes* sold so quickly that we were quite hyped and jumped straight into *Acequia*. I'd done a vector-based illustration in a kind of Escher style — a lot of people say my work looks like *Monument Valley* — stairs going in all directions, doors, just a flat piece. I was going to collaborate with an animator to make something of it, but that collaboration didn't happen, so I put it forward to Rich, and it sprang from there.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Trinity: Was this a style you'd been working in before? Looking through what you have on Threadless, which is super cool, it also throws me right back to high school. Is that isometric style part of your signature in some respects?
 
@@ -146,11 +172,15 @@ Rick Crane: Interestingly, no. Vectors, geometric design, colorful things — ye
 
 Rich Poole: I remember, even in the early stages, saying to Rick, we've got something really good here, and you could tell he was like, what do you know? Honestly, if we could do this concept justice, I thought people were really going to go for it, because it straddled that charm plus a visually striking concept. But we didn't expect quite the reaction it got. We were wary going in — we'd put *Miniscapes* out and gotten the pricing wrong. I remember talking about it like it was the worst Dutch auction ever, because it just went at the top tier — we'd completely messed it up. So we were like, oh no, the pressure's on, because the WTBS guys are going to slag us off if we get the *Acequia* pricing wrong too.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 We really wanted to keep to this cube-number thing — I don't know why we latched onto it, but we thought it was funny — which is why you've got 343, and the pricing dropped in cubes. I think we actually got that fairly accurate for the primary, but then the secondary took off, so we were like, have we done it right, have we misjudged it? But it was a fantastic reaction.
 
 Will: I think the unfortunate answer is you got it right precisely because it took off — that's what you want at a certain point. That's how you establish yourselves, individually or as a duo, as artists people should be minting, for better or worse. Probably for worse, in the sense that you'd rather everyone just paid the maximum price all the time, but especially back then, given how the market was, a project needed flippability. If you priced it too close to the top, you'd get annihilated. So in retrospect it did well — though I do remember, Rich, you trying to calculate the hourly rate.
 
 Rich Poole: It's still not a profitable project, honestly, because we put so much into it. But I don't have any regret — I think it's a crazy cool project, and we really did that idea justice. At the time, I remember thinking we must have done something right, because I had people who'd never collected on Tezos before DMing me asking how to set up a Tezos wallet, how to collect this. We didn't have that for *Miniscapes*. So we'd done something that resonated with people, which is fantastic.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: Do you know how it broke out? Was it through BlockTalk, or how did that project proliferate out of Tezos?
 
@@ -164,6 +194,8 @@ Trinity: Obviously your first two drops have been on fx(hash). *Acequia* — whe
 
 Rich Poole: A lifetime ago.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Trinity: Almost a year and a half. A lifetime ago. I'd love to hear what you can tell us about *IsoMetro* — what this collaboration has been like, when you got started, what you can share. I don't think there have been many WIPs that I've seen, but I also might live under a rock.
 
 Will: No, we just got the secret ones.
@@ -175,6 +207,8 @@ Rich Poole: When we started, we took a few months off after *Acequia* because I 
 Then we had a sort of come-to-Jesus talk: what are we actually trying to make, and what is it about these projects we're dropping that isn't working? I think we always kept looking up at the mountain and seeing *Acequia*, and going, okay, that's still what we're trying to recreate — that level of accomplishment, taking an idea and crafting it properly. From that came the thought: what if we took the *Acequia* premise — these country vistas in a cube — and flipped it into a city instead? That's where *IsoMetro* started. At that point we just called it "Urban Acequia," because we hadn't gotten as far as catchy names. Rick started designing individual cubes and ideas, and it grew from there.
 
 We've been working on it about 8 months now — the first couple kind of on-and-off, then pretty hard out since. I'm really pleased with how it's taken shape. It's getting its own identity while still feeling part of that family. We wanted it so that if you collected *Acequia*, you'd want to look at this too — there are similarities, but it's not the same project. If you squint, you shouldn't be able to tell them apart. So it's about getting that balance: thematically they feel like family members, without being twin sisters.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: How did you link up with 8NAP? It's technically a platform, right? They haven't released anything yet, so you'll be the first to release a project with them.
 
@@ -188,6 +222,8 @@ Jared's such a nice guy in the space — really open-minded, he listens. He was 
 
 Will: I know Jared and the Collector's Corner guys are big champions of *Acequia*, so it makes sense you'd find each other. But had that not been the case, would you have considered Art Blocks or Verse, or just YOLO'd fx(hash) again? What do you think you'd have done?
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: Honestly, I'm not sure. The market right now — Art Blocks is on hiatus for several months and has made it clear that from the Art Blocks platform itself, they'll do really curated releases, maybe 3, 4, 5 a year. We'll all wait to find out the exact cadence. I'm intrigued to see how the studio side goes, but my understanding is the same as yours — that'll be existing artists only. Is it a free-for-all where if you've done work before you can throw it in? Then it becomes hard to shout above the rest of the stuff going out. Or is it largely by invitation? I know from chatting to Jamie that they have a lot going on trying to work with galleries too, so that's probably part of their focus. I think they already have the best part of the year planned out.
 
 It's tough if you're asking where to go. There's also GM Studio — I've done work there before — but their parent DAO is diversifying into Ordinals. So it's tough at the moment. fx(hash) is in a tricky spot — we've probably all discussed, either in the fx(hash) community or on Tender, the challenges there and what we'd love to see. But right now it's hard to make a case for releasing work there when it's alongside work you don't necessarily want to be sat next to.
@@ -199,6 +235,8 @@ Most artists are trying to figure out how to make work that's still relevant, th
 Rick Crane: Yeah.
 
 Rich Poole: where a gallery invests in you as an artist and vice versa. I think that's the relationship he's trying to put forward — something mutual that lives beyond the drop. How that pans out, who knows. For me and Rick, it feels like a good time to try that and see if it takes wing. Being the genesis project is fun, and intimidating, but if it does well as a platform, that's a great opportunity —
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: Yeah.
 
@@ -212,6 +250,8 @@ Will: 10,000 editions for you.
 
 Trinity: I love what you're talking about — that supported, supportive environment. There's a sort of community support through things like BlockTalk or the fx(hash) Discord, but probably less so at the platform level directly. Is that partnership model something either of you experienced releasing work previously, on-chain or off?
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: Not really.
 
 Rick Crane: Personally, I haven't. That's why it's refreshing. It's all well and good when the market's alive and you can just drop something and know it'll be gobbled up, everybody's excited, things are moving fast. But with the market grinding slower like it is now, it's important to get more value in that way. That was a pull for me — a lot of the time there just isn't much relationship between the artist and the platform.
@@ -223,6 +263,8 @@ Rick Crane: Yeah.
 Rich Poole: So that deeper connection between platforms and artists is something that's missing a little. Maybe that's what Art Blocks is going for with the curated focus — trying to get people who come back, rather than doing one Art Blocks drop, getting curated, and then going off to do Tonic, Bright Moments, wherever else.
 
 Rick Crane: I like what Verse do because they try to bridge the physical more — art prints becoming a relevant part of some of their drops. I like that, merging the real world and the digital. I did something exciting recently called phygital, where I had an NFT connected to a t-shirt — a little chip inside the shirt you zap with your phone and it links to the NFT you own. It's fun to explore merging those different realms, rather than it being some kind of underworld thing.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: Let's talk about the aesthetics of *IsoMetro*. The images haven't gone out to the public yet, but you were kind enough to share a couple of WIPs with us so we had our bearings before the drop. And let's plug that this is coming out on April 23rd on the 8NAP platform — you don't need to be a member to mint it, there'll be pieces available for non-members too, so don't feel like you're out of the running if you haven't joined that platform.
 
@@ -236,6 +278,8 @@ Rich Poole: We did toy with the car idea, and then thought — if water going ar
 
 If we had cars moving around the whole time, how do we decide where they'd stop? Does it start to look twee? We've tried to always stick to the charming side of twee, without tipping into novelty or gimmick — I think that's a consistent thread in our work. And if you're trying to appeal to people who actually want to print these things and display them — we changed the aspect ratio so these would be a square format, partly as a nod to *Miniscapes*, partly as a nod to fx(hash), since all the early fx(hash) work was square, but also with the intention that people could display grids of them, 2x2, 3x3, if they want to collect a bunch. So we needed them to keep an abstract quality, so you can pair different scales and palettes together and have them still feel coherent.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 I suppose the nearest analogy: if you took *Archetypes* and started putting little people in it, all of a sudden it stops being something you'd necessarily hang in your dining room or sitting area. We were mindful of wanting it to still have artistic appeal, not just a "hey, that's adorable."
 
 Rick Crane: Also, a lot of my work uses quite thick line weight, which makes things tricky — drawing representational things on an isometric grid is genuinely challenging, and when you're after detail with fairly fat lines, it's tricky. So it's been an interesting challenge. We've had so many ideas, and then you start implementing them, sketching them out, coding them up, and think, "oh no, that doesn't actually work." There are a lot of limitations with isometric and the particular style we work in.
@@ -248,13 +292,15 @@ Rich Poole: Lots of weird ideas. At one point we thought about adding animation 
 
 Rick Crane: Clouds going past.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: Yeah, clouds drifting along. And each time, the question was: is this just going to feel like a gimmick? The animation in *Acequia* felt so natural you almost couldn't imagine it without it. In this project, it would've felt like we were just putting it in for the sake of it — and that's not true to the approach we've both taken with these collaborations, which is: if it doesn't serve a purpose, we bend it. What was left, hopefully, is a fairly immaculate design. And there are plenty of funny stories on the cutting-room floor — not necessarily ones we kept in, but good for giggle value.
 
 Trinity: Thinking about the infinite space that can exist, especially with something more geometric and isometric — can you share anything about how many pieces this will be, why that number, and how many you think the space can support? It's always an interesting part of any project — it speaks to the breadth.
 
 Rick Crane: That's another challenge for artists. I'm in a lot of chats with different artists — we all support one another, learn from one another, help each other out — and it's a common refrain: I don't know how to price this, I don't know how many there should be. What we do is send out loads of outputs, look through them, and see where we need to create limitations on the number of editions. We're going similar to *Acequia* and *Miniscapes*. Obviously the market, and how well things are received, has an impact on how you plan it.
 
-[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | ]
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Interestingly, this project has moved faster in some respects. We spent so long choosing, naming, rejecting, and refining palettes for *Acequia* — we learned from that, so this time it was more fluid and things worked. The challenge with isometric is you've got three sides that repeat, so very quickly colors can clash, or you shift one color in one direction and it starts to look like a different palette entirely.
 
@@ -268,6 +314,8 @@ Will: That one's a bit of a different beast. We actually have an interview with 
 
 Rich Poole: Yeah, I've seen a couple of his works — really cool stuff. I think it's something we're all still feeling out. Maybe one of the best things to come out of this bear market is that it's making people think harder: either you buy with your heart — do I love this and just want to own it? And hey, if someone offers you $20 grand for something you paid $20 for, you go, "I love it, but I also love $20 grand, and I can buy a whole heap of other art with that, so that's cool." Or you buy with your head. Where you get stuck is the middle — "I kind of like this, and other people say it'll do well" — that's where you can come unstuck, because you end up with something you don't love, and if it doesn't rocket in price, you're just looking at it with regret. If you have the confidence to say "I really think this is going to do well, I'm going to buy it and move it on quick," that can work.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 But otherwise, buying art you love feels more sustainable. Otherwise we're just getting people to join the pump and the pyramid, and at some point that needs to flatten out.
 
 Rick Crane: I think Rich touched on something — for me, I have collectors from very different backgrounds, different types of people and collectors. So it's nice to always be able to offer something obtainable to a broader audience, rather than it just being a grail thing. Like I said, it's always a challenge judging all the unknowns — you try to control and plan everything, but there are so many variables.
@@ -279,6 +327,8 @@ Will: Trinity, I know you've got somewhere to be soon.
 Trinity: Before we wrap up—it's always interesting to talk about the market, which you've touched on already, in terms of needing to change release structures when you're working on something over six months. Things change fast, especially in crypto. And Rick, you've also been working in the Web2 sphere for a long time. So how do you think about markets overall? How do you know when to pivot and take advantage of something that's hot, like Solana blowing up, or a move to Base Chain? How do you manage that as artists trying to make a living?
 
 Rick Crane: I'm a little tentative—I watch and observe and see what's happening. I often feel like I'm too late to things, but then I'm pleasantly surprised there's still an appetite. Off the back of *Acequia*, I did an open edition on Manifold with a kind of roadmap—burn and redeem. That was a craze at the time, and I really enjoyed it. I love the mechanics of it—not "gamification," since some people don't like that word, but the different ways you can deliver something.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 So I'm always a bit tentative. I don't jump onto every wagon, but if something catches my eye and seems exciting or fun, I'll give it a go. I was quite loyal to the Tezos chain for a long time, like a lot of people are, then started dipping my toes into other things. There used to be a lot more tribalism about chains, and that's loosening up now—people just do what they want. I like that. Fewer boundaries, more ways to be creative and express yourself.
 
@@ -292,6 +342,8 @@ The state of the Tezos market—you guys have discussed it, we've all seen the c
 
 Will: You mentioned *Acequia* may have brought a lot of new collectors over to fx(hash). Maybe what we need is another one.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: We considered it—we go back and forth. But as we've put more and more work in, it feels like too much of a gamble. Nothing has come out recently that we're keen to be put alongside, and that's something we have to consider: to what extent are we doing a platform a favor rather than the other way around.
 
 Trinity: They do ETH now, they do Base now—you don't have to stick with Tez.
@@ -303,6 +355,8 @@ Rick Crane: It's been interesting because the market's changed so much. In 2021,
 Will: Let's start wrapping up—we're over an hour now. Usually we do a couple of rapid fires. Trinity, want to fire one off, or do you have to go?
 
 Trinity: I'll fire one off, but I won't stick around to hear the response.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Rick Crane: Don't make it a tricky one.
 
@@ -316,6 +370,8 @@ Rich Poole: Is that aimed at me? I donated one to someone who'd missed out.
 
 Will: I'm pretty sure you donated your only mint to us, and it was the last one in the series. Then you said later that you hadn't realized it was the only one you had left.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: I think I donated two. One person had genuinely missed out on minting, and I thought, that's awful—hold on, I've got the one I minted for myself. We'd also deliberately wanted to hold one back for you guys. It was only when I got to the end that I realized I had one left, and thought, let's give it away to some good people. I think Rick, you got one too.
 
 Rick Crane: Funny thing—we didn't set any reserves for ourselves, didn't mint any while it was live, and then the secondary market just went crazy. I was like, I really need one of these for myself. I managed to get one for about 260 Tezos at the time, and almost got priced out because it kept climbing and I had no idea where it was going. In hindsight we should have kept a few for ourselves, but it was all fun—I can't complain about how it went.
@@ -327,6 +383,8 @@ Rick Crane: WTBS, you got the last mint, right? I think it was the last piece, w
 Will: Yes, the piece Rich donated to us was the last piece in the series.
 
 Rick Crane: What's nice about that—purely by accident—there's a collector who does a thing called *Bookends*, where he takes the first and the last of a series. With *Acequia*, the first one happened to be mostly white, and the last one mostly black, so they sit really nicely together.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: It's still sitting in our wallet. Trinity did kind of soft-offer it back to you, Rich, and you declined.
 
@@ -340,6 +398,8 @@ Rick Crane: It's crazy.
 
 Will: One more to wrap up the episode. Going back to *Acequia*—this maybe dovetails into your upcoming release. Do you remember the episode where we talked about *Acequia* and I was a little critical of some of the funnier palettes—like the green retro computer screen one?
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rick Crane: The monitor one, yeah.
 
 Will: And the blueprint one. So, first: are you planning to do that kind of thing again for *IsoMetro*? And second, feel free to defend your decision and tell me why I was wrong to dislike them.
@@ -351,6 +411,8 @@ Rich Poole: We'll wait and see which one you don't like, so you can tell us.
 Will: Oh, you can always count on me to say what I don't like. That's a given. And WTBS.
 
 Rick Crane: Well, it's good to be honest.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: If there's anything else you guys want to plug before we wrap it up—I'll say again, *IsoMetro* is coming out April 23rd on 8NAP. Are you guys going to continue to collaborate? At the rate you turn out work, it might not be till the end of the year.
 
@@ -364,6 +426,8 @@ Rich Poole: My plan, which I settled on last year, is to release work a lot more
 
 Rick Crane: If you think about it, that's kind of how it should be anyway.
 
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+
 Rich Poole: That's why I think this bear market is actually a positive—it's making collectors pickier. Instead of "I can flip this," it's "I actually want this." So I'm working on that, and I'm hoping to do some stuff with more of a plotter crossover—actual plotted works with a digital accompaniment. There are challenges around that, so I might do it alongside something that's purely digital.
 
 Rick Crane: At some point we're going to get together in person. Rich came to the UK this year, but we didn't manage to meet up—the weather stopped us. I don't know if I'll get out to New Zealand, but that's the plan eventually.
@@ -375,6 +439,8 @@ Rick Crane: Yeah, we're literally on opposite ends of the world, and the time zo
 Will: Rich, I'd love to see the plotter stuff—I've got my Ken Consumer piece up here over my shoulder. Plotter art is just super addictive to make and to collect.
 
 Rich Poole: There's something super therapeutic about it. We have a little "artist in residence" thing—makes it sound fancier than it is—where artists go to local libraries. Some people will be painting, and I'll bring the plotter along. It always gets a heap of attention, especially from kids who love to chat about how it all works.
+
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 Will: Sick. Well, this has been excellent, guys. I hope you had fun, and we're so thankful to the two of you for organizing around us given the global scale of this episode and making it work. I hope everyone listening enjoyed it, and I hope you're all looking forward to *IsoMetro*, April 23rd. I think that's a wrap. How do you guys feel?
 

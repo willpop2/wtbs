@@ -94,27 +94,40 @@
     document.querySelectorAll('.ep-pool').forEach(function (fig) {
       var work = fig.getAttribute('data-pool'), pool = pools[work] || {};
       var list = pool.items || pool.files || [];
+      var want = Math.min(Math.max(1, parseInt(fig.getAttribute('data-count'), 10) || 1), list.length);
+      if (!list.length) { fig.style.display = 'none'; return; }
       used[work] = used[work] || [];
       var avail = list.filter(function (x) { return used[work].indexOf(x) < 0; });
-      if (!avail.length) avail = list;
-      if (!avail.length) { fig.style.display = 'none'; return; }
-      var pick = avail[Math.floor(Math.random() * avail.length)];
-      used[work].push(pick);
-      var img = new Image();
-      img.loading = 'lazy';
-      img.referrerPolicy = 'no-referrer';   // objkt's CDN blocks hotlink referers
-      img.alt = fig.getAttribute('data-alt') || '';
-      if (pool.items) {                 // remote: per-piece caption + owner
-        img.src = pick.img;
-        var cap = esc(work + ' #' + pick.t) + (pool.artist ? ' — ' + esc(pool.artist) : '') +
-          (pick.o ? ' &middot; collected by ' + esc(pick.o) : '') +
-          (pick.s ? ' &middot; <a href="' + esc(pick.s) + '" target="_blank" rel="noopener">source</a>' : '');
-        var fc = fig.querySelector('figcaption') || fig.appendChild(document.createElement('figcaption'));
-        fc.innerHTML = cap;
-      } else {                          // local: keep the slot's collection caption
-        img.src = base + pick;
+      if (avail.length < want) avail = list.slice();   // not enough unseen -> allow repeats
+      var picks = [];                                  // distinct within this slot
+      for (var k = 0; k < want && avail.length; k++) {
+        var pick = avail.splice(Math.floor(Math.random() * avail.length), 1)[0];
+        used[work].push(pick); picks.push(pick);
       }
-      fig.insertBefore(img, fig.firstChild);
+      var fc = fig.querySelector('figcaption'), alt = fig.getAttribute('data-alt') || '';
+      picks.forEach(function (pick) {
+        var img = new Image();
+        img.loading = 'lazy'; img.referrerPolicy = 'no-referrer'; img.alt = alt;
+        img.src = pool.items ? pick.img : base + pick;
+        var node = img;
+        if (pool.items && pick.s) {   // link each piece to its token page
+          node = document.createElement('a');
+          node.href = pick.s; node.target = '_blank'; node.rel = 'noopener'; node.appendChild(img);
+        }
+        if (fc) fig.insertBefore(node, fc); else fig.appendChild(node);
+      });
+      if (pool.items) {               // remote: build caption (per-piece if single, else collection)
+        var cap;
+        if (picks.length === 1) {
+          var p = picks[0];
+          cap = esc(work + ' #' + p.t) + (pool.artist ? ' — ' + esc(pool.artist) : '') +
+            (p.o ? ' &middot; collected by ' + esc(p.o) : '') +
+            (p.s ? ' &middot; <a href="' + esc(p.s) + '" target="_blank" rel="noopener">source</a>' : '');
+        } else {
+          cap = esc(work) + (pool.artist ? ' — ' + esc(pool.artist) : '') + ' &middot; ' + picks.length + ' works';
+        }
+        (fc || fig.appendChild(document.createElement('figcaption'))).innerHTML = cap;
+      }
     });
   })();
 </script>

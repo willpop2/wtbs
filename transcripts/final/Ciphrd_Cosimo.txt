@@ -14,7 +14,7 @@ Cosimo: One of our biggest motivators was noticing the same repetition of outcom
 
 That got us thinking that collections, as currently set up, effectively end at the drop. The mint happens, and it's over. On socials it's fun for a bit — everyone posts their iteration — but it quickly peters out, even for very successful collections, and then they're almost forgotten. That got us thinking about the lifespan of artworks. Some collections have enjoyed long lifespans — think of the classics everyone knows, *Ringers* and *Fidenza*, and on fx(hash), *Dragons* and *Garden*. Those span time, but other high-quality, successful collections don't.
 
-[pool: Dragons | Dragons — William Mapan | ]
+[pool: Dragons | Dragons — William Mapan | | 3]
 
 With Open Form, we wanted to invert that, so the mint is the start of a collection's life, not the end. The mechanics we've introduced, enabled by art coins, allow a deep level of engagement and interaction with the artwork that spans time, because there's no cap on what that interaction looks like or how long it lasts. As collectors and artists ourselves, we wanted a system that brings back fun — while understanding there's no going back to 2021. We can't keep pining for the old days; we need to look ahead and bring innovation. That's what we think we've done with Open Form.
 
@@ -28,6 +28,8 @@ Will: We've seen a lot of chat in the fx(hash) Discord this past week about this
 
 Ciphrd: We haven't looked into every country — there are too many — but the main ones, and we aligned with best market practices. There are going to be two timestamps. First, we open the claim for everyone, but the token won't be tradable on the open market. Then, roughly two weeks later, we open the token on the open market and release Open Form and the Art Coins Launchpad. We do this because if you claim a token that isn't tradable on the open market, it doesn't have a price — so in most countries there's no tax event associated with claiming it. That practice lets people claim without any tax burden.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Cosimo: Specifically, I heard a lot of concern along the lines of, "I've received airdrops to my wallet that I didn't want, and I'm afraid of the tax implications of simply receiving one." That was a big motivator for us to go the claim-drop route — you have to consciously choose to claim the token, rather than having it served up to you with tax implications you never asked for.
 
 Will: What about people looking to launch their own art tokens? Even us — as two Americans, if we did a WTBS token—
@@ -39,6 +41,8 @@ Will: When we do a WTBS token, to mark our fourth anniversary or whenever — Ci
 Ciphrd: Good question. The key thing to understand is that as someone releasing an art coin on the platform, you're not selling the coin yourself — it goes through a bonding curve mechanism, a deterministic pricing process. You're not the one liable for selling it. That's what makes it a friendly environment for releasing a coin.
 
 Trinity: Part of the coin release process is that artists get to reserve an allocation for themselves — presumably as an untaxed, free-price type of event. Is that another part of the consideration behind that user flow?
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Ciphrd: It's not going to be completely free, your coin, initially. You have to buy it at the best possible price it's ever going to be, which is right at the beginning of the bonding curve. That ensures you're buying the coin first and not simply selling it yourself, and it makes the market fair for everyone participating. We've seen plenty of scams in crypto where someone reserves fifty percent of supply for free, sells it, and dumps everything. Here that's not really possible unless you buy a lot of the supply yourself initially, so it's a built-in security measure that makes things fairer and safer for everyone in the market. But it is very advantageous for you to buy in as you launch, since it won't cost much and it's the best time to do it. So we actually recommend doing so.
 
@@ -52,6 +56,8 @@ As for why we chose Base -- it's fairly simple. Given fx(hash)'s heavy reliance 
 
 Trinity: I saw it mentioned that Base will be marketing the fx(hash) token as well. Did you collaborate closely with them in building the new system? And what's that been like compared to working with -- or not working with -- the Tezos Foundation?
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Ciphrd: Interesting question. On the technical side of building the token launchpad and the fx(hash) protocol, we didn't really collaborate with them -- and for good reason, since it's EVM: there are plenty of developers and tooling already, so it's rather straightforward.
 
 What's interesting is the difference in dynamics. Working with the Tezos Foundation is a more old-fashioned process -- you have to go through more protocols, make an actual presentation of what you have in mind. In a space that moves as fast as this one, working with Base has been easier: we quickly introduce an idea, they don't have to route it through a foundation process, and we can iterate much faster, whether that's on marketing or bouncing off ideas about how they can support us.
@@ -63,6 +69,8 @@ Cosimo: Something that's come up in our own conversations as a team: people say 
 You hear the same things said about Base now -- the Coinbase connection, "Fed chain," all that. But the seeds are there: there are users, there's liquidity, there are NFTs happening, and nobody has quite cracked the code yet on making the NFT scene feel organic, with real natural traction. I'd bet on us to do that. Just like certain platforms came onto Tezos and said, "yeah, this looks like a banker chain, but we're going to turn it into something else," I think the same thing is entirely possible with Base. And if I had to bet on someone to pull that off, it'd be us.
 
 Will: Right on. Let's talk about some art, because Ciphrd, you're going to have the first release. We're recording this on the 16th -- claiming starts next week, around May 20-something, and a few weeks after that, early June, we'll get the first art token. Is it going to be $Ciphrd? I guess that's the first question -- is it an art token or an artist token for you? And can you talk about designing this release? One of the coolest things about Open Form projects is the ability to lock a piece in, so it becomes not just the NFT itself but a seed for future generations that the original collector -- or any other collector -- can latch onto and spawn new generations from. I imagine you've designed something in the code that really takes advantage of that. So what's your token going to look like, and what have you done, from both a code and an art standpoint, to show off what Open Form can do?
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Ciphrd: I've been through many rabbit holes with this project -- a custom bytecode implementation, Petri nets, various rendering shenanigans -- but it's been a good journey. Let me back up a bit and talk about art coins in general, and the different kinds we expect on the platform. First, there's the single-project coin, dedicated to one project. Then there's the case where a coin hosts multiple projects. For my practice, I think the latter is more interesting, because I work around big recurring themes. I haven't found a name for the coin yet, but I know it's going to be about evolutionary genetics.
 
@@ -76,6 +84,8 @@ Trinity: Okay.
 
 Ciphrd: *Tierra* is a computer simulation where DNA is manifested as bytecode -- computer instructions. Little organisms sit on the CPU, and these instructions define how each organism interacts with its surroundings: reading to the left, reading to the right, creating children, and so on. The simulation randomizes the bytes on the CPU, organisms start to form, and natural selection kicks in -- the best organisms survive and compete for CPU resources.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 I was inspired by that idea: bytecode defining how an organism interacts with its surroundings, and mutating that bytecode the way nature mutates DNA when we give birth. I built the project around that concept -- figuring out what the bytecode allows. Maybe it lets cells read the value of a chemical in the environment. Maybe it lets them contract muscles. I designed the whole project around small commands that these little brains can activate.
 
 When you mint an iteration, it's initially somewhat randomized, so you might get something a bit dysfunctional. You can reroll until you find a property that starts to work, and once you find something promising, you evolve it until randomness -- just like in nature -- starts producing coherent behavior in the organism. That's one aspect of the project; we could also talk about the growth of these organisms, the rendering, and so on, but I think the evolutionary characteristic is the most compelling part when it comes to Open Form.
@@ -87,6 +97,8 @@ Ciphrd: Any algorithm can leverage *Open Form* in some way. You don't need to go
 I've identified two categories of practice so far. The first is mutation-based, which is what I'm doing with my project — you generate some parameters initially, and with each new generation, you mutate some of them. The mutations can be practically anything. The second is more deterministic: the depth, meaning how many generations exist in the lineage, becomes a parameter of the algorithm itself. For instance, generation 1 might be a single square, generation 2 divides it in two, and so on. By generation 16, if you're just dividing by two each time, that's 2^16 — so you can end up with a huge number of squares. That's one way of doing it.
 
 Will: I've seen some of the WIPs you've been sharing, Ciphrd, and even though the process is very different, visually it reminds me of some of the earlier work Jeff Ventrella put on fx(hash) — I know that's an artist you were really excited about back in the platform's earliest days.
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Let's talk about the market side. You've said you're planning a token linked to this project, and eventually to multiple projects. For those of us who've never touched DeFi — what is a bonding curve, and how does it work?
 
@@ -100,6 +112,8 @@ But there is an opportunity for anyone who wants to leverage the system more del
 
 We've thought a lot about the right amount here. We haven't locked in a precise value, but we're thinking somewhere in the $10,000 to $20,000 range. We don't want the bonding curve to be a barrier for artists — its purpose is just to protect market participants early on, not to gatekeep. So it'll be an amount that's reachable for the majority of artists. And if an artist doesn't want to go through the bonding curve at all, they always have the option to let the token enter the free market with whatever liquidity is currently in the curve — they don't have to wait for graduation.
 
+[pool: Dragons | Dragons — William Mapan | | 1]
+
 Trinity: I have two follow-ups. First, on the relationship between the artist token and minting: does the number of coins required to mint change over time? Say you buy 10 artist coins early, and five years from now those coins are worth a lot — can you still mint the same amount of art as you could early on? Are the pricing dynamics reflected in real-world dollars, or purely in terms of the artist coin?
 
 Ciphrd: Always in terms of artist coins. If you bought 10 artist coins and the artist set the price at 1 coin per iteration, you'll always be able to mint at that rate, in perpetuity. What's interesting is that as more iterations get minted, the supply of coins decreases, so acquiring a single coin gets harder and harder. The coin and the generative art project are linked — as the supply of the artwork increases, the coin supply decreases, and the coin's price reflects the demand for the artwork. The system is designed to find price discovery and equilibrium over time based on demand, which frees artists from having to think about pricing their project or finding the best market price — it auto-adjusts.
@@ -112,9 +126,9 @@ Trinity: That covers pricing and accessibility — it pays to be early, as alway
 
 Ciphrd: Funnily enough, there's never quite a permanent loss in this case, because you can always claim an art NFT in the end. Even if the price tanks to zero, you still get the same number of NFTs that were initially promised.
 
-On the liquidity pools themselves — we'll share more detail in the docs, but here are the basics. There's a first liquidity pool between ETH and FXH, the main token, and FXH is used to buy art coins. Each art coin then has its own initial liquidity pool between the art coin and FXH. There's a fee on every transaction in that pool, which goes to the artist. This turns the speculative trading around the coin into a revenue stream for artists — a genuinely new model. It's hard to predict how significant it'll be, but based on our research into PumpFun and also Zora's new coins, it's a promising prospect. If Zancan, for instance, had released a coin attached to *Garden, Monoliths* and a few of his other projects, I think it's fair to say it would have become a real revenue stream for him, capturing some of the trading fees generated on the coin. It'll be interesting to watch how this plays out for artists, but we're confident it'll be a better revenue model than secondary market royalties.
+[pool: Dragons | Dragons — William Mapan | | 1]
 
-[pool: Garden Monoliths | Garden Monoliths — Zancan | ]
+On the liquidity pools themselves — we'll share more detail in the docs, but here are the basics. There's a first liquidity pool between ETH and FXH, the main token, and FXH is used to buy art coins. Each art coin then has its own initial liquidity pool between the art coin and FXH. There's a fee on every transaction in that pool, which goes to the artist. This turns the speculative trading around the coin into a revenue stream for artists — a genuinely new model. It's hard to predict how significant it'll be, but based on our research into PumpFun and also Zora's new coins, it's a promising prospect. If Zancan, for instance, had released a coin attached to *Garden, Monoliths* and a few of his other projects, I think it's fair to say it would have become a real revenue stream for him, capturing some of the trading fees generated on the coin. It'll be interesting to watch how this plays out for artists, but we're confident it'll be a better revenue model than secondary market royalties.
 
 Will: This reminds me of the discussion among artists right around the time royalties got gutted on Ethereum a couple of years ago, when some platforms suggested reserving more of your mints from a limited release — say, doing 500 and holding back 50 for yourself as future liquidity. A lot of artists were uncomfortable with that: the moment you sell held-back work, it can look like you're signaling the work is overvalued, or create awkward optics around dumping reserved pieces later to cash in.
 
@@ -125,6 +139,8 @@ Cosimo: You raise a really important point, especially— I remember when it was
 That's one of the key places where bringing finance and art together more explicitly, through the usage of coins, was a really elegant solution. It creates the kind of alignment between artists and collectors that NFTs originally promised. The difference here is that we now have a financial asset explicitly used for getting paid, for making payments, for use, that is separated from the art itself. One is the financial instrument, the other is the art. That's why we've been saying recently that you can get as deep into the finance side of it as you want as an artist, but you can also completely abstract it away and just focus on the art itself, because the finance side is very sharply defined and separate from the art, if you want it to be. Everything else is interlinked on the platform — you don't have to worry about it if you don't want to.
 
 Trinity: I find this interplay between art and finance so interesting. A lot of the hope for this new system is that it opens up the audience for fx(hash) to people who are more on the crypto side of things, rather than just the diehard art side that Will and I represent. Have you done any projections around the interplay between people who are there purely for the speculation side, and how that might impact the people trying to mint or evolve great works of art as artists? I'm curious how that gamification, and the game theory of it, plays out once things are out in the wild.
+
+[pool: Garden Monoliths | Garden Monoliths — Zancan | | 1]
 
 Ciphrd: We've run some estimations on what happens if there's a lot of speculation on the coin — that was actually one of the motivations for introducing the artist fee, so that even if there's too much speculation, artists get some compensation for it. But it's hard to model because there are so many complex components interacting at once. I think the best approach is to see how people actually interact with the coin — whether purely for trading and speculation, or to get to the art — and adjust the system based on feedback. One key thing we need to monitor: do collectors have access to the art they want at a price they think is reasonable?
 
@@ -138,9 +154,9 @@ Ciphrd: That is about right, actually. That's a good way to frame it.
 
 Will: This ties into something else people have been discussing: what's the relationship between primary price — since we'll be setting our primary price in both some amount of ETH and some amount of art token? If I understand correctly, the team's current recommendation is a very low ETH price per mint, with most of the price discovery and price action happening in the art token spawned by the project. Can you go more in depth on that recommendation? If I'm an artist, how should I think about the ETH portion — as the absolute floor? Because if my token goes to zero through some factor outside my control...
 
-Ciphrd: This Ethereum fee is going to be the same for everyone. There's an option for artists to change it, but we're not going to immediately expose that on the UI — we want to see how it plays out initially. The system can support a different fee at this level; we just want it to be the same for everyone at first, because it's one less thing for artists to think about.
+[pool: Garden Monoliths | Garden Monoliths — Zancan | | 1]
 
-[pool: Tender Pass | Tender Pass — Punevyr & Tender X | ]
+Ciphrd: This Ethereum fee is going to be the same for everyone. There's an option for artists to change it, but we're not going to immediately expose that on the UI — we want to see how it plays out initially. The system can support a different fee at this level; we just want it to be the same for everyone at first, because it's one less thing for artists to think about.
 
 The idea is roughly one to two dollars in Ethereum fee and one to two dollars in art coin fee, so the total price lands between two and four dollars. That's the range we're targeting initially. We'll see, based on usage, whether there's value in tweaking the Ethereum portion, or whether this setting works best as is — there'll be some experimentation.
 
@@ -151,6 +167,8 @@ Trinity: Is there anything else you want to cover on this, Will? I have a questi
 Will: I'm starting to get a good grasp on it, so hopefully everyone listening is too. I know there are more detailed documents coming soon, and once we actually experience it live, I hope it'll feel a lot simpler than it does now as this abstract thing. Trinity, go ahead — where do you want to take us?
 
 Trinity: One of the hot questions in Discord has been about legal complications — I see iRyanBell in particular is very worried about securities issues. Some of that concern might be stemming from the artist token side of things, which I think you've already explained clearly. But there's another way people profit: when someone evolves a work you own, you get a portion of the fees because you hold that base token. Are there any concerns from a legal standpoint about being able to profit that way from an NFT?
+
+[pool: Garden Monoliths | Garden Monoliths — Zancan | | 1]
 
 Ciphrd: That's a good question. This is something we'll encourage people to look into with their local tax authorities, because we can't have an answer for every jurisdiction. We checked with our lawyers for the main cases, and there's a way to justify it in the case of artistic exploration — it's artistic research, a collaboration between you and the artist, and as such this object has some artistic merit to it. But I'd encourage everyone, once they get profits through this vehicle, to check with their own authorities about what it entails.
 
@@ -164,6 +182,8 @@ Will: All the questions come from a place of excitement. At least for me, this i
 
 Cosimo: I'll go backwards, from the end of your question to the beginning. There's a lot of overlap here for DAOs, but also for speculators—people who go beyond the typical art collector. There are people who are really great at identifying momentum as traders, who can see when something is bubbling on socials or when there's a good directional play to be made, and they can apply that same thinking to artist trajectories. Except there's never really been a way for them to place a directional bet on an artist outside of buying some of their art. Someone who wants to speculate on art may not have a taste that's developed enough to know which piece to buy. Let's say early on in XCOPY's career, if there had been an XCOPY coin, you could have made a directional bet on XCOPY because you saw the momentum, without knowing which specific piece to buy. That's a big difference between those two things, and it's one of the reasons I think art coins could be a huge shift in tapping audiences that haven't been able to get involved in NFTs before.
 
+[pool: Garden Monoliths | Garden Monoliths — Zancan | | 1]
+
 As for who: we've spoken to well over a hundred artists—artists who've released on fx(hash), artists who haven't, artists who've released huge collections, and artists who are well known but have never released an NFT collection of any kind. We have a lot of interest. I can't get into names, but a lot of people have given really great feedback and will be releasing. You can look forward to some pretty incredible artists releasing projects.
 
 Ciphrd: Since the launch of the platform, we've never seen such big artistic enthusiasm in the community. The whole team has been talking to many artists, trying to let them know about this and getting their input, and I can't think of a single artist who said they don't see any potential in Open Form as an artistic concept. That's a good indicator. I've already heard enough ideas from artists to know we'll be seeing crazy things in the upcoming months—it's such a new paradigm for thinking about social interactivity at the algorithm layer that it's open ground for big creativity. We'll probably see new genres of generative art appear because of this.
@@ -175,6 +195,8 @@ Trinity: It's going to be incredibly exciting to see what comes out in the comin
 Will: Checks notes.
 
 Trinity: Checks notes. How does this interplay with what fx(hash) has been marketing and working with so far—the core offering? Will people who are wary of the coins, or just not sure what to do, still be able to do a regular drop on Tezos? Or do you see this becoming the foundational core of fx(hash) moving forward? Will you be sunsetting the traditional mint process?
+
+[pool: Garden Monoliths | Garden Monoliths — Zancan | | 1]
 
 Cosimo: We won't be sunsetting classic fx(hash) by any stretch. Classic FX is landmark—it's not going anywhere. If you want to mint classically, with no coins whatsoever, you'll be able to continue doing that. That's still very much at the core of what fx(hash) is. With art coins and Open Form, we see this as a continuation of what we consider our spirit: being an open platform that maximizes creative possibilities for artists and creates opportunity for people who love art to engage and find the piece that speaks to them.
 
@@ -188,6 +210,8 @@ Will: This is a two-part question. We've seen a lot of platforms close down duri
 
 Trinity: Yeah.
 
+[pool: Garden Monoliths | Garden Monoliths — Zancan | | 1]
+
 Will: —stealing volume from OpenSea and stuff. What are your big concerns, and how crucial is this to survival?
 
 Ciphrd: That's a very good question. I think we've been lucky, timing-wise -- we raised right at the beginning of the bear market, so there was still momentum going, and it gave us time to shape our ideas. We found really great investors to support us, and not just financially. 1KX has been a fantastic fund to bounce ideas off of, to help us figure out if this direction was viable -- which is mostly what you need in a space that's evolving so fast.
@@ -199,6 +223,8 @@ We ran estimates, worst case to best case. Even in the worst case, we'd have rea
 What's really interesting is the prospect of $art coins if it becomes a success. If it works for open-form generative art, it can certainly work at some other scale for other forms of art, and become an entire new ecosystem that powers the art world if shaped properly. But as you said, if there's early success, there will be fast follow-ups from others, so we've already been thinking about next steps if it works. We'll have to move very fast, because the coin and token side of this space moves incredibly quickly. But there's a lot of potential for this to become much bigger across the whole art space. So even if it's not an immediate banger success, I'm not scared about it becoming one down the line, because it's fairly easy to envision expanding $art coins beyond generative art to any form of art. Once you start thinking through the opportunities, you realize there's a pretty big market available.
 
 Look at the meme coin market -- essentially crypto traders looking for opportunities to speculate because they know the opportunity is there. But let's face it, meme coins are fun, but they're pretty terrible as investments. You have maybe one chance in ten that the coin doesn't instantly go down. What we're proposing has a lot more value on the investing side: it has the same mechanisms as coins from an investment standpoint, but there's a real ecosystem backing it, with actual artists who have real incentive to keep their coin going. So part of our effort will be letting traders know this exists as an opportunity, because I have no doubt they'll quickly make the mental connection: it's like meme coins, but with much more serious backing, while still being just as simple to invest in and monitor.
+
+[pool: Garden Monoliths | Garden Monoliths — Zancan | | 1]
 
 We'll be sharing these ideas with investors going forward, and I have no doubt we have a shot at becoming much bigger in the crypto space by providing this kind of value, which honestly doesn't exist much right now. Virtuals is a good example of what I mean -- meme coins with some future value potentially generated by AI agents that have actual use cases. Investors went all in on that because it was a meme coin with real utility and the simplicity and security of investing. But with agents, it's harder to see long-term value -- you look at all these projects popping up and can tell most of them won't go anywhere. Art, by contrast, is more straightforward. It's been a store of value forever, it's well recognized, and you can easily see the recognition an artist has earned and the care they put into their work. So I think it'll be much easier for investors to evaluate the long-term potential of these artist coins. I'm fairly confident -- and we'll have to move fast.
 
@@ -212,9 +238,9 @@ Ciphrd: Yeah.
 
 Cosimo: I remember that -- that was formative. We didn't realize at the time that it was actually a sign of health: the ecosystem was thriving, the market was thriving, and a lot of us saw it as a problem in the moment. In retrospect, we look back and think, God, bring the bots back, bring the flippers back.
 
-It's funny -- we've talked about this before -- as a culture, both on Tezos and in NFTs at large, there was a tendency early on to almost shame the financial side, even while things were mooning and Fidenzas and CryptoPunks were selling for dozens of ETH, sometimes over 100 ETH. People could be bullish and hold, but there was still this disdain for sellers, for the financial aspects of the NFT art world. Looking back, we were kind of crazy to be down on people making money. It's okay for artists to make money, it's okay for platforms to make money, it's okay for collectors to make money.
+[pool: Garden Monoliths | Garden Monoliths — Zancan | | 1]
 
-[pool: Fidenza | Fidenza — Tyler Hobbs | ]
+It's funny -- we've talked about this before -- as a culture, both on Tezos and in NFTs at large, there was a tendency early on to almost shame the financial side, even while things were mooning and Fidenzas and CryptoPunks were selling for dozens of ETH, sometimes over 100 ETH. People could be bullish and hold, but there was still this disdain for sellers, for the financial aspects of the NFT art world. Looking back, we were kind of crazy to be down on people making money. It's okay for artists to make money, it's okay for platforms to make money, it's okay for collectors to make money.
 
 Inviting traders back in with a more defined role matters, because back then you were either in it for the art or you were "a flipper" -- and flipper was a derogatory term. But all those people were was traders, speculators, and they're an integral part of the ecosystem too. Now we have a more holistic view of all market participants and the symbiotic role they play within the movement of art, and we're happy to introduce something more defined for them. We want traders back just as much as we want collectors back. Whether you're in it for the art or the flip doesn't matter, as long as you're here participating in the ecosystem -- we're happy to have you.
 
@@ -225,6 +251,8 @@ Ciphrd: Yeah, FNRS, something like that.
 Will: Fencers, fencers.
 
 Ciphrd: Yeah, fencers.
+
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
 Cosimo: Again, it's like when times got so desperate you'd think, what I would give to see that handle, to see that clan back in the Discord.
 
@@ -238,6 +266,8 @@ Do you think that's flawed thinking — being overly protective of supply? Does 
 
 Ciphrd: I have a thesis, not sure if it's right. I think what we've seen with smaller edition sizes and higher entry price points is really the result of the market shrinking — the secondary market specifically. There are fewer primary market participants than we used to have, and as the number of collectors who can pay more than $100 for a piece has drastically shrunk, releasing 500 editions at a $20 price point — which might be the breakeven for an artist given the time they've invested — starts to feel unreasonable. And releasing 10,000 editions would completely kill the secondary market with too much supply.
 
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
+
 We hope coins provide a solution to this — becoming a store of value that works for both artists and traders. But I also think the new minting dynamics of ever-evolving projects are going to play a huge role in making bigger edition sizes interesting again for artists. It's not going to be about having 500 outstanding editions, or 64 really unique, great outputs that all hold great value — it's going to be about creating a fun process for a group to enjoy together. That's very different from before. The goal with this new paradigm is making something interesting *over time* rather than great once. It changes everything — it allows for bigger edition sizes, lower prices, and activity that feeds into the token itself.
 
 I always end up losing my train of thought at the end of these questions — I had two more points, and they've disappeared.
@@ -246,7 +276,7 @@ Cosimo: But they were good ones. Something you said just now jogged something I'
 
 At the same time, for artists who haven't achieved that level of recognition, and maybe aren't being seen by the curated platforms, Open Form offers a really interesting way to get heard. One example that stands out is Punevyr's *Glyph* mint. For anyone unfamiliar — Punevyr made this incredible project called *Glyph*, minted through our Farcaster integration, released via Frame. It did well over 250,000 editions, which was a record at the time — since surpassed by Phojeebus' *Count*, also on fx(hash).
 
-[pool: G L Y P H | G L Y P H — Punevyr | ]
+[pool: G L Y P H | G L Y P H — Punevyr | | 3]
 
 Punevyr had always been a real community legend on fx(hash), and after *Glyph*, a lot of outside attention came his way — people who'd never heard of him, or of fx(hash), minting in droves on the frame on Farcaster. A system like Open Form, which nudges artists toward big gestures, is an ideal creative ground for that kind of success — the kind of audience that earlier waves of generative artists found for themselves on their way to becoming established names.
 
@@ -260,6 +290,8 @@ Cosimo: Seconding all of that, really well said. It's funny — coins have gotte
 
 That's my hope — and that we're having fun, because it's felt like forever since there's been real fun in this space. I'd love to feel that rush again when I hit the mint button. Let's feel that. Let's feel something.
 
+[pool: G L Y P H | G L Y P H — Punevyr | | 1]
+
 Will: All right, let's feel something — great way to end. Cosimo, Ciphrd, thanks so much for coming on. Super excited for what this protocol is going to bring. Everyone who's made it this far into the episode — don't forget to claim your $fxh token. Go to the website, connect your wallet, check if you have an allocation, and make sure you claim it, because if you miss it, you miss it. I'm apparently a top-100 wallet, so — looking forward.
 
 Ciphrd: Unsurprising.
@@ -271,6 +303,8 @@ Will: We'll see. I was checking and noticed this wallet above me with only two t
 Ciphrd: Just very quickly — thank you. The questions were really thoughtful. Thank you, Will, for all the care you bring to this.
 
 Cosimo: Thanks, Will. It's been great to finally see you, I think for the first time, and have this discussion. I'm stoked — this is my first time on WTBS, so it's a milestone for me. Thanks.
+
+[pool: G L Y P H | G L Y P H — Punevyr | | 1]
 
 Will: The only one left from the team now is Alba — we'll have to get her on eventually. We'll come around to it.
 

@@ -104,7 +104,7 @@ Trinity: So you were basically learning p5, I guess?
 
 Melissa Wiederrecht: I was learning p5 and shaders from scratch. Then in February, I spent a couple weeks back in America with my mom, without my kids, so I had some extra time — it was because my dad was dying, actually because he died from cancer. But while I was there I had that extra time since my kids weren't with me, and that's when I learned shaders. It became the thing that distracted me from what was going on, and I got really into it. As soon as I came back, badly jet-lagged, I woke up one night at 2 a.m. with this picture in my mind of a calligraphy line going from top to bottom on a canvas that had water spilled on it. I got up and coded the first version in about two hours. That was the first version of *Sudfa*.
 
-[pool: Sudfa | Sudfa — Melissa Wiederrecht | ]
+[pool: Sudfa | Sudfa — Melissa Wiederrecht | | 3]
 
 I forgot to mention — while I was in America those couple weeks, I realized Art Blocks was Erik Calderon, the same person who'd reached out to me years before. As soon as I got back, I messaged him, and he loved my work and remembered me. That was the start of it. I got into the application system, got approved, and spent months trying to get the project out and perfected. It was so hard. By May I was so frustrated and tired — I think I was waiting on the curation board — that I just wanted to release something. I don't remember how I discovered fx(hash), but that's when I decided to just do that instead. I pulled up the template, figured out how to do similar stuff there, and coded up *Untitled* in a couple hours and put it up.
 
@@ -112,13 +112,15 @@ Trinity: I think you were competing with the likes of Punevyr and *Punevyr's Fac
 
 Melissa Wiederrecht: Like you guys said, you thought I might've had a bunch of projects sitting in reserve. I didn't. Everything I've made, I've made brand new, except *Orbs* — I had a previous version, but I remade it completely from scratch.
 
-[pool: Orbs | Orbs — Melissa Wiederrecht | ]
+[pool: Orbs | Orbs — Melissa Wiederrecht | | 3]
 
 Trinity: That was the question, because when you first released *Untitled*, and maybe around the time of *Marble Opulence*, I visited your website and saw *Orbs* already there. If you'd redone it, that makes sense.
 
 Melissa Wiederrecht: For my first version, I put up some of my old surface pattern stuff because I just needed more content there. I have a lot of stuff that's not on my website — I took some of it down recently.
 
 Will: Can I ask about *Untitled*? That was your first piece that we all became aware of — I think we covered it a little on the show, actually.
+
+[pool: Untitled | Untitled — Melissa Wiederrecht | | 3]
 
 Trinity: Yeah, we definitely did.
 
@@ -132,6 +134,8 @@ Trinity: This was the first NFT you ever released?
 
 Melissa Wiederrecht: Yeah.
 
+[pool: Untitled | Untitled — Melissa Wiederrecht | | 1]
+
 Trinity: Selling out at 200 editions, 10 tez — more profitable than surface pattern design?
 
 Melissa Wiederrecht: That was gutsy, I didn't even realize it at the time. I'm happy, grateful.
@@ -142,7 +146,7 @@ Melissa Wiederrecht: Totally. I made about twice the money from that one day tha
 
 Trinity: So when *Marble Opulence* came out six days later, you figured the system out?
 
-[pool: Marble Opulence | Marble Opulence — Melissa Wiederrecht | ]
+[pool: Marble Opulence | Marble Opulence — Melissa Wiederrecht | | 3]
 
 Melissa Wiederrecht: I wouldn't say I figured it out — I tried to do 512 editions that time, and obviously I didn't know what I was doing. I remember, Will, you texted me on Twitter after I burned it, asking if that was intentional, as if I had some brilliant plan. No — I was just filling things out, looking around at other projects, noticing that was probably too big to work, and burned it.
 
@@ -150,13 +154,15 @@ Will: It came as a surprise — you never know what the artist's intention was w
 
 Melissa Wiederrecht: Oh yeah, I just took the *Untitled* code, switched it around, added lines behind it, sorted it, and when I liked it, I was done. I stuck it up.
 
+[pool: Untitled | Untitled — Melissa Wiederrecht | | 1]
+
 Will: Clearly your process has changed — you're not releasing things in a week anymore. At what point did you slow down and start dialing in your projects, figuring out what it takes to do a 512-edition project? What was that transition?
 
 Trinity: Which, to be fair, you still haven't done since.
 
 Melissa Wiederrecht: Yeah, I've never done anything bigger than 400. I don't think there was one specific transition point — I'm constantly watching, learning, and listening to you guys, seeing what happens. After *Sudfa*, and then *Solitude* and *Spaghetti*, I started getting more requests from a lot of different people for different things, and I realized I needed to slow down, plan ahead, and be more conscious of what I was doing.
 
-[pool: Solitude | Solitude — Melissa Wiederrecht | ]
+[pool: Solitude | Solitude — Melissa Wiederrecht | | 3]
 
 Trinity: Maybe that's a good time to go back to the release of *Sudfa*, since you'd been working on it for so long, banging your head against the wall trying to get it right. I don't know much about Art Blocks's process — whether it's the curation board's expectations or the requirements for storing everything on-chain — but eventually you got there.
 
@@ -170,7 +176,7 @@ Will: Hurry up and wait — submit something, wait for feedback, make a change, 
 
 Melissa Wiederrecht: Yeah, it was actually a playground project at the time. After *Sudfa*, my family and I went to Sudan, and I was sitting there with nothing to do but my laptop. The first thing I did was think: I have this following on fx(hash), and I feel bad because most of those people can't afford to come to Art Blocks. So — fx(hash) people, I haven't forgotten you. That's when I sat down and made *Solitude* and released it, about two weeks after *Sudfa*. Around the same time, I started making *Sandalia*, just from an idea: I wanted to try making a directional blur that goes in a different direction for every pixel.
 
-[pool: Solitude | Solitude — Melissa Wiederrecht | ]
+[pool: Sudfa | Sudfa — Melissa Wiederrecht | | 1]
 
 Trinity: You're getting blank stares. Listeners can't see them, but yes.
 
@@ -184,6 +190,8 @@ Will: That was a huge breakthrough piece on fx(hash), I feel like. That was the 
 
 Melissa Wiederrecht: I wasn't very intentional about it. I didn't even know other people were trying to do that. I was just playing around — I had my prompt with the diagonal line and the floral things. The diagonal line I thought was really easy. Then I was throwing texture on, the same texture I'd used on *Sandalia*, so I just copied it over. I was trying to make these drippy things and they looked horrible. Deleted those, and made these swirly things that started going out from the line, and I thought, "Oh, that's cool." Then I took the same blur I'd used on top of *Centellia* and stuck it on top of this project, just a little bit and in a few places, and it just looked really cool.
 
+[pool: Sudfa | Sudfa — Melissa Wiederrecht | | 1]
+
 As for the name — gosh, names are the worst thing ever. I was sitting there thinking and thinking, and it just came to me: it looks a little bit like spaghetti. But "spaghetti" by itself is boring, so I thought of bad pronunciations.
 
 Trinity: Spaghetti.
@@ -195,6 +203,8 @@ Trinity: There we go. I don't know if it's bad — it's fun.
 Melissa Wiederrecht: Cute.
 
 Trinity: And I'd say it's an improvement — not that there's anything wrong with a project being called *Untitled* or *Orbs*, but this hits a little differently. So what we're hearing is you should go to Sudan more often.
+
+[pool: Untitled | Untitled — Melissa Wiederrecht | | 1]
 
 Melissa Wiederrecht: Get really bored more often? Probably, yeah.
 
@@ -208,9 +218,9 @@ Trinity: We're much cooler.
 
 Melissa Wiederrecht: Something fx(hash) has that Art Blocks will never have, as far as I know, is the ability to just release stuff. That's important.
 
-Will: Is that what happened with *Take Wing*? You developed this new look with *Spaghetti* and wanted to further develop it, but didn't want to take the multiple months to go through the Art Blocks process, so you just put it out on fx(hash) again?
+[pool: Untitled | Untitled — Melissa Wiederrecht | | 1]
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | ]
+Will: Is that what happened with *Take Wing*? You developed this new look with *Spaghetti* and wanted to further develop it, but didn't want to take the multiple months to go through the Art Blocks process, so you just put it out on fx(hash) again?
 
 Melissa Wiederrecht: No. What happened there is Vertical Crypto reached out to me to do an exhibition in Berlin. My mind is always working on some idea I want to make, and at that point I had the idea of going back and doing brushstrokes. I'd done brushstrokes before in surface pattern design — I have designs that are brushstrokes on a flow field, and some where I took photographs of flowers, threw them around, and used generative brushstrokes on them. So I already had that idea, wanting to play with brushstrokes again. When Vertical Crypto reached out, I just started playing with brushstrokes. I wasn't trying to build on *Spaghetti*. I feel like you guys think they're related — they're not really. They don't have hardly anything in common.
 
@@ -218,7 +228,7 @@ Will: I think we just assumed because the two projects were about six or seven w
 
 Trinity: I think maybe it's also that, especially with *Take Wing*, *Spaghetti*, and to an extent *Orbs*, there's this richness in the colors you use that feels like it's growing upon itself, if that makes sense. There's a connection through the quality of color. I don't know if that's just the shaders talking.
 
-[pool: Orbs | Orbs — Melissa Wiederrecht | ]
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 3]
 
 Melissa Wiederrecht: No, I think that's just because every time I'm working on a project, I take the old project, delete a bunch of stuff, and add a bunch of stuff. Same with colors — for all I know, I haven't even checked, but there are probably some colors in there from *Untitled*, and a lot that aren't. I'm constantly changing my palettes between projects. For example, there's a green in *Take Wing* that shouldn't have been there, so I took it out. It's no longer there, and you shall never see it again.
 
@@ -232,6 +242,8 @@ Trinity: You're definitely going in the right direction in terms of pulling in m
 
 Melissa Wiederrecht: Color is the most important thing to me. Color and texture. Any art has to have beautiful colors and probably beautiful textures for me to love it.
 
+[pool: Untitled | Untitled — Melissa Wiederrecht | | 1]
+
 Will: I've seen a print of his that actually reminds me a lot of *Take Wing*, just in terms of the brushstroke. I can definitely see the influence.
 
 Trinity: It also has a cosmic rays vibe.
@@ -243,6 +255,8 @@ Will: It really has some thick acrylic application on it too. Lots of texture.
 Melissa Wiederrecht: The blur around the edges plus the texture — it's not just a blur, it's super textured. I just love that. As far as generative artists, I was super inspired by Tyler Hobbs, because back when I was starting to learn creative coding, all I knew is you could draw a line. But Tyler was making brushstrokes that looked like calligraphy and all sorts of amazing things. And he had great color taste. I thought, wow, this is really good.
 
 Trinity: Do you have any favorite Tyler Hobbs pieces?
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Melissa Wiederrecht: I don't even know the names of them, but mostly his older stuff. His NFT work is really good, but I'm really inspired by the older pieces. There's one that looks very much like abstract expressionist lines thrown everywhere — I can't remember the name. But his stuff is just so good, fresh strokes and color, super inspiring. Another major influence is Jared Tarbell.
 
@@ -256,6 +270,8 @@ Melissa Wiederrecht: It is generative.
 
 Will: Okay, amazing.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Melissa Wiederrecht: I think it looks not generative.
 
 Trinity: It's hard to tell. I thought this was not generative, but it looks like it could have been — if you know what I mean, not the other way around.
@@ -267,6 +283,8 @@ Melissa Wiederrecht: These days, y'all have seen really good generative art.
 Trinity: We're spoiled.
 
 Melissa Wiederrecht: When I first saw this, it was mind-blowing.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Will: Those are some good names for us to research further. Looking at Jared Tarbell here, I'm seeing a lot of cross-references with Artnome, so I assume he's written about this artist in the past.
 
@@ -280,6 +298,8 @@ Trinity: Let's talk about *Both Be Both*, that return to animated work, very dif
 
 Melissa Wiederrecht: First of all, I have done one-of-ones before — I throw up stuff randomly on OBJKT without announcement. Not too often, not too rarely, but I don't like to announce it. I hate to be like, "Oh, look everybody, come buy this one-of-one." So I just don't announce it.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Trinity: What made you go back to animated work, which I guess you hadn't done since your youth?
 
 Melissa Wiederrecht: I made a lot of it back around 2017 on that Ninja Code Artist account — a lot of animations. But yeah, *Both Be Both* was my first animated NFT. I think it was the January prompt, an infinite loop, that made me do it again. I also figured releasing an animated piece is super rare for me, so I thought it would be special to put it on SuperRare. That's probably what I'll do for a lot of one-of-ones and special single pieces going forward.
@@ -291,6 +311,8 @@ Melissa Wiederrecht: It was shockingly amazing. I really don't know what else to
 Will: "Shockingly amazing" might just be the theme of 2022 for you.
 
 Trinity: That's true.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Will: Between two Art Blocks releases, a bunch of successful fx(hash) releases, that SuperRare auction, and being asked to do all these different events — what was 2022 like for you? And how has that shaped how you're thinking about 2023? You've already said you've been asked to do so much. I can only imagine every major art fair with NFTs is reaching out. Can you encapsulate 2022 for us, and how you're approaching 2023?
 
@@ -304,6 +326,8 @@ Trinity: I think it's also worth noting that in 2022, obviously you were working
 
 Melissa Wiederrecht: Yeah, it's insanely fast. I don't even know — it's crazy. I'm still totally winging it. I don't know what I'm doing.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Trinity: We live week by week and episode by episode, so we can relate. Speaking of your 2023 calendar, I think you have one of your first big events coming up shortly — slash now, slash as this interview is being released — and that's the Odyssey exhibition you're working on with Verse. In our own live timeline, your project just went up for exploration yesterday, and we've all been rapidly devouring *Cosmic Rays* and flipping through iterations.
 
 Will: People are saving seeds and getting ready to mint.
@@ -316,13 +340,15 @@ Trinity: You've been making it for a long time. We're experiencing it for the fi
 
 Will: What's the story behind this piece? What can you share with us about it?
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Melissa Wiederrecht: I got this idea to take the concept of *Take Wing* but make the brushstrokes smudge whatever was underneath them. I worked out the code for that and made thousands of variations — once you write the code, you can do it a thousand times. I don't come into my art with much intention, honestly.
 
 Trinity: It's emergent, perhaps.
 
 Melissa Wiederrecht: Yeah, I just play with stuff until I like it. The first versions looked way different — I had transparent rectangles thrown in, weird spaghetti-ish lines in blobby shapes. Super weird. I did like those early versions, but they looked nothing like this. Then one day, while working on it, I pulled over the same texture I'd used on *Sandalia*, *Spaghetti*, and *Take Wing*, and stuck it on top — but I accidentally copied the same canvas onto itself and overlaid it without realizing it. The effect was this huge jump in contrast. I thought the texture had done it. I was like, whoa, what is this? But instantly the image was way more powerful, and that's when the piece really started coming together.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | ]
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 At some point I pulled in the lines — made them whitish on one side with a gradient, darkish on the other, so right in the middle, where the focal point is, you can barely see them at all. Sometimes they run left to right, sometimes top to bottom, and the white side switches accordingly. Then there are all these different types of lines meant to add depth and interest and lead the eye around the canvas.
 
@@ -336,6 +362,8 @@ Melissa Wiederrecht: I can't say exactly, partly because we're still working it 
 
 Will: Is an open edition even in the conversation? Since you're letting people save seeds, it's not a truly random outcome in the usual sense.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Melissa Wiederrecht: I refuse to answer that question.
 
 Trinity: Okay. Gotcha. So it's not *not* on the table.
@@ -347,6 +375,8 @@ Will: We've seen open editions before, and the big risk is when they're fully un
 Trinity: What's it like working with Jamie and everybody at Verse? Is it kind of a middle ground between Art Blocks and fx(hash)? They've done so many great exhibitions in just the last few weeks.
 
 Melissa Wiederrecht: It's completely different from any other place — super crazy cool, honestly. They're building and changing and making new stuff every single day. I'll say, "Hey, can we do this?" and they'll say, "Sure." Or, "Cool idea, let's do that" — and the next day it's ready on the website. Jamie will say, "What about this idea — how about we let people choose their seeds?" And I'll say yeah, and a couple weeks later it's ready. They're just getting started. It's going to go insane.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Trinity: It's such a weird meld between the crypto world and the traditional art world — they're positioned as both, way more so than Art Blocks, I'd say.
 
@@ -360,6 +390,8 @@ Trinity: Another speedrun?
 
 Melissa Wiederrecht: I've thought about it, but I feel like it'd be disrespectful to the important people I'm working with right now if I just did a speedrun. So I'm trying to be considerate. I've got a cool exhibition coming — you'll probably hear about it soon, can't say what it is yet — at the end of February and into March. Then I have Bright Moments in Tokyo in May. I've got some really cool ideas for that, haven't built it yet. There's also something in April I can't talk about yet.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 But I can tell you about July: the Generative Art Club. We all voted on exhibition ideas, then voted on who'd be included, then submitted those to Feral File — and one of them got accepted, which I'm part of. It's twelve artists you've probably all heard of, working together on a collaboration theme. Really fun. I've got a crazy idea for that too, haven't started building it, but I'm excited.
 
 Trinity: So twelve artists working on one piece, or twelve artists working on an exhibition?
@@ -371,6 +403,8 @@ Trinity: Okay, good, because twelve artists on one piece sounded chaotic. So you
 Melissa Wiederrecht: Yeah, basically.
 
 Trinity: Can't wait to see them regardless. I think that covers your history in art and computer science, plus 2023. There's just one more question I wanted to ask. I'm not a big Twitter Spaces person — the one Space I listened to all of last year was about women in crypto art, not generative art specifically, but the broader crypto art community. It was a big panel, ten or fifteen people talking about their experiences, and I thought yours was the most interesting — even though you only spoke for about two minutes. The first thing you said was that you hear everyone else's experiences but don't necessarily relate to them. I think I also don't relate to a lot of other people's experiences, but maybe in different ways. Could you talk about that — how you've experienced being a woman, whether in computer science or art or otherwise? You were fourteen years old working as a web designer.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Melissa Wiederrecht: I think I'm just kind of weird — pretty oblivious to most people and what they're doing. I've never been especially social; I'm quite an introvert, so I stick to myself and to what I'm working on. I've always loved computer science and art, and I just do what I want to do. That's applied all the way till now. I'm working on my art, and I honestly don't know what other people are going through as a woman. I haven't felt any bias. I haven't felt any weirdness about being a woman at all.
 
@@ -384,6 +418,8 @@ Trinity: That's something we talk about in the community — when people want to
 
 Melissa Wiederrecht: Which is perfect for me. I'm the type of person who likes being behind my computer screen — not very social, not trying to hang out with all the girls. Works out well for me.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Trinity: So I take it you're not going to Bright Moments Tokyo in person?
 
 Melissa Wiederrecht: I don't know. I want to go, but I don't want to go. I want to go, but I don't know if I can make it work. I just don't know.
@@ -395,6 +431,8 @@ Melissa Wiederrecht: Showing up in person is honestly going to be hard for me, b
 Trinity: Jamie could just send it to you, then you can hang it on your own wall.
 
 Melissa Wiederrecht: I don't have any wall space big enough.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Trinity: As we wrap up — we took a look through your collection, and it's very diverse. Is there anything in particular you like to collect, or artists you gravitate toward? I couldn't really define a pattern.
 
@@ -408,6 +446,8 @@ Trinity: So you're doing it as Artnome says — just collect the art you like?
 
 Melissa Wiederrecht: Sometimes I grab something because I see an artist struggling and I like what they're trying to do, so I want to support them. But usually it's just something that hits me, which is usually color.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Trinity: I saw you have a handful of the latest Jeres piece, *Losa Lalia*, which is nothing but color. I think it's the most vibrant and exciting piece we've seen, at least on that metric, possibly ever on fx(hash).
 
 Will: At least since *Takeaway*.
@@ -419,6 +459,8 @@ Trinity: It's just an explosion.
 Melissa Wiederrecht: It's digital and organic at the same time, with these little rectangles.
 
 Will: I thought it was a really interesting choice by Jeres, because it feels so blended in the background, and so digital and raw in the foreground with the splatters. It creates this interesting dissonance between the two styles.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Trinity: That's actually a technique you've used too, Melissa — a specific background pattern or texture as just one layer of the canvas.
 
@@ -432,6 +474,8 @@ Will: A couple of those are already on our list — you'll hear Jeres soon, I th
 
 Trinity: And if you need some Bruce in your life, KenConsumer interviewed him on his podcast *Arbitrarily Deterministic* — really great interview, from the middle of last year, so he's released a ton of work since then. It was more after Sabler came out, but definitely an interesting background, and it's crazy to see what's happened even just since then.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Melissa Wiederrecht: I'll have to go listen.
 
 Will: A lot of people on that list are already targets for us this year too, so those are all good answers. Trinity, any other rapid fires? Should we ask for a parenting tip, since we're both on kid one but Melissa's on kid five?
@@ -443,6 +487,8 @@ Melissa Wiederrecht: Oh gosh — just keep going.
 Will: That's what it feels like.
 
 Melissa Wiederrecht: It'll get better, it'll get easier — just persist. I remember when I had one kid, I was just sitting there holding her, so confused, like, what am I doing, I have no idea what to do. But now it's normal. Honestly, it feels easier now than when I had one little baby.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Trinity: Interesting.
 
@@ -456,6 +502,8 @@ Melissa Wiederrecht: Take tons of pictures, because they grow up so fast.
 
 Will: We're about to get our first tooth, I think, in the next couple of days — it's starting to come through finally.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+
 Melissa Wiederrecht: That's exciting.
 
 Will: Anything else? I think we've covered everything. Melissa, anything you want to throw out before we wrap the interview? Or any questions for us?
@@ -467,6 +515,8 @@ Will: Sometimes it's spontaneous. Not required. I guess if we're all done, we ca
 Melissa Wiederrecht: This was fun. Thanks for having me.
 
 Will: That was Melissa Wiederrecht. Thank you everyone for listening, thank you Melissa for joining, and thank you Trinity for recording as always. Hope you had fun, Trinity.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Trinity: Every day I record with you is the best day of my life.
 

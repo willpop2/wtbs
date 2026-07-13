@@ -52,7 +52,7 @@ Ciphrd: I think many well-designed systems are beautiful pieces of art in themse
 
 Trinity: That really shows up in something like *RGB*, for example — a very elegant system that produces so much.
 
-[pool: RGB | RGB — Ciphrd | ]
+[pool: RGB | RGB — Ciphrd | | 3]
 
 Will: That's something we've discussed a lot on recent episodes: from a public and collector standpoint, there's such a variety of backgrounds on fx(hash). People like me who know nothing about anything, coders who come here because they love the technology and the algorithms, art collectors who don't always appreciate the code side. There's so much learning, collaboration, and effort toward education happening — which I think is what makes the fx(hash) platform and community so special.
 
@@ -66,6 +66,8 @@ Will: That's a good transition into some of the new features coming with the pla
 
 Ciphrd: There will be a lot of new features. First of all, the new generation of contracts will have a modular design, which will allow us to add more features in the future if needed. There are lots of features within the contract that won't be exposed on the frontend at first — some will even be disabled in the contract itself so they can't be used at all.
 
+[pool: RGB | RGB — Ciphrd | | 1]
+
 Basically, this release puts a fresh start and a solid state under the platform. Right now there are a few systems that are working but not really well designed — patchwork built during the beta because we had so many users and so many issues that I just needed quick solutions to keep the platform usable. Now we're moving all the infrastructure onto new clusters. We're removing Pinata and using our own IPFS cluster. We're building solid contracts that work together with more consistency.
 
 It's a lot to transfer, and honestly, I originally wanted to ship every feature that would be in the contract on the frontend for the release. But I realized that wasn't realistic to do all at once, because every new feature exposes you to new bugs — there's always a risk that some edge case you hadn't thought of arises and you have to patch a lot of things. So there will be a few really important features released with the platform itself, and then new features coming maybe every two or three days after that — major features, things people have been requesting for a long time that weren't possible under the previous contract.
@@ -77,6 +79,8 @@ There will be new ways of distributing tokens for artists — ways to restrict d
 Oh, and Dutch auctions — I need to mention this one, because it'll be part of the release too. Dutch auctions, and more generally, new pricing strategies. I've built a modular system that can be extended to add any type of pricing strategy we can think of. The simplest is fixed pricing, which is what we have now, but it's been extended so artists can set an actual release time for their token instead of enabling it manually later — which also opens the door for the frontend to show upcoming tokens in a procedural way. And then the Dutch auction, implemented directly within the contract, which is something I haven't seen elsewhere. Looking forward to seeing how it behaves.
 
 Will: I think the Dutch auction stuff is super exciting, and all the other pricing strategies too. There are so many variations on auction and pricing systems, and giving artists the flexibility to experiment is going to be key to combating bots, which are a big problem — we can talk more about that later when we get into the token. The collaboration features sound amazing too. I'm sure you're familiar with the Camille Roux *Bridge* project — around 20 different contributors, and they had to manage payouts manually to make sure everyone got paid correctly. So it's really exciting to hear all this confirmed formally.
+
+[pool: RGB | RGB — Ciphrd | | 1]
 
 Do you want to talk about curation? I have a question about that. Right now the platform is very open — unverified artists still have to wait their time in what we call "jail," three hours before release — but we still see forty to a hundred new releases a day. There's some uncertainty in the community about how curation layers will be surfaced on the platform, and whether that makes it harder for newer artists to break through, since a prevalence of curation and tastemakers could create a lot of winners and losers. How do you balance the original spirit of fx(hash) — where any new artist has a shot to break onto the scene and land on the discovery page — against a future where people have economic incentives to build lists and steer collectors toward what they curate?
 
@@ -90,6 +94,8 @@ Trinity: When it comes to curation — I don't know how much you're on the Disco
 
 Ciphrd: Yes — randomness. It's the fairest way to browse something without being biased by whoever built the system. Randomness is already used on the front page, though I'm not sure it drives much traction to projects currently — it's there, but not very effective.
 
+[pool: RGB | RGB — Ciphrd | | 1]
+
 What I want to implement is randomness in the curated spaces themselves. Right now I envision the front page showing curated boards ranked by some metric — how much traction they get, and so on. Instead, I want random curated spaces displayed on the front end. Sometimes it'll be amazing, sometimes less so, but that's fine — we shouldn't rely on snowballing metrics to decide what gets displayed, or people will eventually game the system to get their curated spaces featured.
 
 Trinity: And using randomness lets you discard all of that gaming, with the hope that people are curating a wider variety of projects. Even if there are a few hundred that are really special, you want to make sure some curators are promoting things outside that standardized norm. It's interesting too, because your approach here is really different from how a lot of Web2 platforms drive adoption. Think about Amazon — it's about collecting information so they can push things at you based on what you or others already like. It's convergence toward a norm. I like that you're trying to break that mold and introduce a bit more — maybe "chaos" isn't quite the right word, but—
@@ -98,7 +104,7 @@ Ciphrd: I think it's the right word, and I think chaos is appropriate in many ci
 
 Will: Personally, I'm excited to build my own curated lists, or collaborate with Trinity on an official WTBS curated layer. My one concern is that despite the intention to represent a real diversity of voices and project types, there will be an economic incentive toward homogeneity — people listing RGB and Zancan because there's a share of revenue to capture. The fee collected on sales made through lists — is that part of the contract?
 
-[pool: RGB | RGB — Ciphrd | ]
+[pool: RGB | RGB — Ciphrd | | 1]
 
 Ciphrd: That only applies to the primary market, not the secondary, for exactly this reason.
 
@@ -112,6 +118,8 @@ Speaking of curation, we've seen a big rise not just in curation through fx(tend
 
 Ciphrd: I don't know yet. The curated spaces will have much of what Deca has done with pieces, plus some editorial features. But I don't think we'll have an OnCyber-style 3D view for a long time. You'll probably still want a space like Deca for your curated spaces — I'm fairly sure of that, actually.
 
+[pool: RGB | RGB — Ciphrd | | 1]
+
 Trinity: Maybe this is related to curation a little bit, and it's two different things. A lot of what we've heard from you in previous interviews is that you created fx(hash) because you wanted a place for yourself as a creator. Now that the platform has seen such explosive growth — we're seeing 100+ new releases in a single day — and a lot of people are coming at it from a market perspective, have you shifted the way you think after seeing this huge embrace from collectors as well as artists? Who is this for now?
 
 Ciphrd: This is an interesting question because it's been in the back of my mind for a while. At first I built this for artists — I didn't even have collectors that much in mind. I just wanted to bring a good space for artists and hoped collectors would either tell me what I needed to implement or just like the space as it was. But then I had this naive, yet important realization: my question was, how can I best help artists get traction for their projects? And the simple answer was, I need to build a better space for the collectors themselves. If collectors have better tools, a better space, they'll come to the platform more, and that will help the artists in the end. That was my shift in paradigm — building more tools for collectors rather than artists. Because eventually I'm doing this for me, two years ago. I decided that if I were to discover this tool back then, I would want to benefit from it in a certain way. What I've discovered is that the best way to do that is to help collectors and artists on the same level. You have to provide a tool for both, or it doesn't really work.
@@ -123,6 +131,8 @@ Ciphrd: I hate marketing — doing it myself, at least — and it's very hard fo
 Trinity: I love that. I prefer qualitative analysis over quantitative as well, because the human experience really matters. Analytics matter too, obviously, but it's the feeling — the emotional side of how people are experiencing the platform — that counts. That's maybe a good segue into the DAO system, because that's the way, in a Web3 world, to really capture that feedback and also provide a way forward.
 
 Will: It's also the least understood part of the post-launch plans by the community — myself included. I know it's not intended to launch in April, right? The main DAO and the fx(hash) token will probably be pushed out some number of months.
+
+[pool: RGB | RGB — Ciphrd | | 1]
 
 Ciphrd: We're actually not sure about that, and there's a particular reason. I may have made the mistake of advertising the fx(hash) token as something that would let people take fees off the platform by staking it. I really want to do that, but every lawyer I've talked to has told me I shouldn't do that right now — it would likely be classified as a security, and that would mean we'd have to gather personal information about the stakers, among other things. That's a lot to figure out, and I didn't know that going in. Naively, I thought it would be easy to put the legal stuff together and make the token live, but apparently it's not. I learned quite recently that it wouldn't be possible now.
 
@@ -136,6 +146,8 @@ The question that still remains is whether we release the token with the platfor
 
 Trinity: I think the conversation about bots, and finding a way to keep them from getting the token, is really interesting. That's why it's good to be looking at metrics around the ecosystem — wallets and wallet interactivity. Do you see any risk of mistaking bot activity for something regular people might be doing? Some people have four or five wallets, or vaults, that they distribute their work to. It obviously needs to be designed in a way that doesn't punish those folks either.
 
+[pool: RGB | RGB — Ciphrd | | 1]
+
 Ciphrd: Exactly. I won't disclose the metrics I'm computing to filter out bots — you can understand why it doesn't make sense to disclose those. But there are specific behaviors bots exhibit that just can't be replicated by regular humans. It's not humanly feasible. Those are the metrics I've been computing on wallets.
 
 Will: Gotcha. Something else we've talked about, in terms of using tokens as a barrier for bots, is the inadvertent side effect of it becoming a barrier for people who are new to the platform, or who can't keep up with the whales — a large first-mover advantage for collectors who've been here since the beta, or who've simply spent more. And artists — we love the artists, but they're not always the most engaged with what's going on at the platform at all times. It was like a month after you announced that all open projects would be burned in April that some artists were still learning about it. Artists don't always have their finger on the pulse, and they could set that gating number far too high or far too low. That could become a point of criticism — an artist being called elitist for only letting whales mint, or not realizing that bots already hold plenty of tokens and the gate isn't high enough. So how do you make sure everyone who wants to collect fairly isn't held back by the system, without enabling bots to still have their way?
@@ -148,13 +160,15 @@ Will: They need to listen to our show.
 
 Trinity: We can become consultants.
 
+[pool: RGB | RGB — Ciphrd | | 1]
+
 Ciphrd: That's an interesting take, and there's a lot to say about it. First of all, I've been going through this myself, and pricing your work is really scary. You have to put a value on what you're doing, and that's one of the scariest things you can do as an artist — evaluate yourself in economic terms. Until a certain point, I had this feeling that the Tezos ecosystem was such that if you didn't put cheap prices, you wouldn't get engagement from the community. That's what I wanted my open call to address first: tell artists that if they think they should charge higher prices, they shouldn't be afraid to do it because of the messages they might get from collectors on Tezos. That was my main focus with that open call.
 
 I realized afterward there was some misunderstanding — I wasn't trying to make prices go higher across the board, but when I saw really good quality pieces priced really low, and knew some artists did that because they were afraid to charge more given how the Tezos ecosystem was, I was trying to push back on that a little. There's a lot to say here, but the biggest issue is that it's genuinely hard to value your work. It takes time and practice.
 
 Trinity: Side note: congratulations on *Ethereal Microcosm* selling out at 100 Tez.
 
-[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | ]
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 3]
 
 Ciphrd: I couldn't believe my eyes. It was mind-blowing to see that happen.
 
@@ -168,6 +182,8 @@ Ciphrd: It's understandable — when money is involved, it becomes scary for eve
 
 Trinity: Overall, we're still very young and very early — we don't have this figured out yet. There are a couple of different sides to look at. One is the blockchain/cryptocurrency investing mindset, where if you're not getting 100% return on your liquidity pool over six months, it's a bad investment because you're not doubling your money. But there's also the correlation with the art world, where you measure value over years or decades, not by whether you can make a quick flip in the next eight hours. It's this weird mix of the speed of Web3 with that curatorial, collective aspect — you're looking to get a return on the art you're buying because you like it, but not necessarily on a 48-hour time horizon.
 
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]
+
 Ciphrd: We saw a lot of that in December — the platform was "on fire," as they say. That attracted a lot of flippers looking to make a quick return fast, which is why the platform had so much revenue that month. That's also one of the reasons I wanted to close it for a while, so we didn't end up in a cycle of people just trying to pump everything and stop thinking about the art. I was quite happy we had a slowdown in January, because it made us realize we had to stop thinking so much about the money — obviously you can't sustain the same return on investment as before — and put more interest into the art and the artists themselves, understanding what some collections bring to the table and what artists have to say. Eventually that started another cycle in the platform's life, and I'm glad it did. Honestly, I was really scared in December. I'm not going to lie, I was happy to see good numbers, but I didn't want to hit those big numbers so early. I wanted to focus on building the community more than the platform's revenue, so I was actually happy to see the slowdown.
 
 Will: I really want to talk more about your vision for the future of the platform and your goals, but before we move on, I want to understand governance better — whatever form the token takes, even if it's just a governance/utility token at first, and the eventual formation of the fxhash DAO. What's your view on governance here? What will remain decisions made unilaterally by you or the core fxhash team, versus what will you want a lot of public voting on? I think a big part of why fxhash has done so well in its early days is that you've been able to act unilaterally — throw up a poll in Discord without needing weeks of on-chain governance and verified staking. So what's your vision for how that evolves?
@@ -179,6 +195,8 @@ Regarding fxhash specifically, you raised a good point — implementation still 
 Trinity: That makes a lot of sense. Looking at some of the community polls we've had so far, sometimes you've gone against what the community said — not often, but you're able to read the vibe of what people want and use that as an input into the team's decision-making. You've done a really great job of that so far. As somebody who's pretty much obsessed and living close to fxhash most of my waking hours, I feel confident in your ability to understand what the community is saying, what its actual needs are even when it doesn't see them itself, and to make a solid choice from there.
 
 Ciphrd: This is an interesting point, because if you want to present all the options, let's say you want to implement a new feature and there are different ways to bring it to the front end. There's also all the implementation complexity behind it, including parts within the contract that aren't known to the people voting. All of those components make it difficult for people who don't have a full view of the system to give the ideal answer, if there even is one. So I'm trying to communicate a lot about how it's working behind the scenes so we can make good group decisions.
+
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]
 
 I'm genuinely curious how it will work with the governance contract, because there's an inherent uncertainty there. What I am confident in is trusting the community to make good decisions based on the information we give them. That said, if there's a decision that just can't be implemented reasonably, we'll keep the right to say no, even if the whole community wants it — and we'll explain why. But if something is reasonable, it will be implemented if the community wants it. I want to build a system where the community may not have the final word but will have an important impact on the final decision.
 
@@ -192,6 +210,8 @@ Will: It's one extra step, so you have to be more deliberate.
 
 Ciphrd: Right, there's some conceptual value in sending votes to the blockchain rather than just clicking a smiley on Discord. It makes it more... official, maybe — not quite the word I want either.
 
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]
+
 Trinity: I think the other thing we've touched on is that when artists ask questions about edition size or pricing on Twitter, you get certain groups — primarily flippers — saying "you should price this at 1 tez," or "2 tez." Flippers are a large part of the platform's economics, for better or worse, but they're acting in their own interest, not necessarily the platform's. It'll be interesting to see how votes go, especially given that in a token-based governance system, people who heavily interact with the market will presumably accumulate more tokens and have more influence over those votes accordingly.
 
 Will: Or people who simply put in the effort to accumulate more. And if the tokens are tradable and cheap, in a really cynical future you could see a small cabal of people who've overaccumulated having outsized influence on votes.
@@ -203,6 +223,8 @@ Will: We'll see — that's the great experiment of Web3, in a way.
 Ciphrd: I'm really looking forward to seeing it play out. That's also why I wanted staking to redistribute part of the fees — giving people a share of the revenue gives them an incentive to make the right decision for the platform as a whole, not just for themselves. Without that incentive, you could just take the best decision for yourself in the short term. But if you have an economic stake in the group making the best decision, it ties the system together more strongly.
 
 Will: One of my concerns with having a single token that handles governance, profit sharing, and gatekeeping bots from minting is that the more valuable that token becomes, the more bots will want to collect it anyway. If it's revenue-generating, it won't really price them out — they'll just want to accumulate it regardless, since it pays for itself over time. Even if they're not given it initially, if it has real economic value, it effectively becomes free to them over a long enough timeline. Versus having one token for governance and revenue sharing, and a separate token distributed based on behavior that's used explicitly for allowlisting and as a barrier to bots.
+
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]
 
 Ciphrd: I see — yeah, that would be interesting to explore. Something else to consider: bots need tens of accounts to mint on certain projects, and it's difficult to buy lots of tokens across different accounts. Especially if we give the moderation team the power to flag a bot account and cut off its access to tokens. But if there's an economic incentive tied to the token, we can't just have the right to freeze any account's tokens — that can't be possible.
 
@@ -216,6 +238,8 @@ Ciphrd: That will be implemented in the contract, though it won't be released ri
 
 Will: Okay.
 
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]
+
 Ciphrd: If they want to change the strategy down the line, they can, but to do so they have to go through the existing process first — the previous stage needs to be fully accomplished before moving to a new way of counting votes. So the idea is to provide frameworks for these subDAOs to organize themselves, while keeping strong security on the contract level so nobody can drain a DAO's holdings if they hack it.
 
 Will: That's great to hear.
@@ -227,6 +251,8 @@ Ciphrd: Being so deep in actual development, I haven't really thought about the 
 There's another aspect I'd like to develop, tied to my own history of releasing work in the real world. Before putting anything on the blockchain, I was trying to find ways to put my work out there, and it was incredibly difficult — the hardest thing I've done as an artist. You have to find the right organizations to reach out to, write descriptions of your work, imagine how it could be physically implemented. There's a huge gap between what you do on your screen and what it takes to bring that into the real world — maybe a hundred times more work. I want a platform that helps artists make that leap from their bedroom into the real world and actually earn money from it. I want to advertise that possibility and help people who were in the same position I was in find a way to make a living just by doing what they love.
 
 Will: The number of people who in the last four months have gone from not making a living on their art to not just getting by but actually flourishing is insane. Some people have gone from zero to hundreds of thousands of dollars — real fiat they can use to pay their mortgage or rent and feed their families.
+
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]
 
 Trinity: So congrats, you made it all possible.
 
@@ -240,6 +266,8 @@ Ciphrd: That's the end goal, right? That we keep having amazing content posted b
 
 Will: It's been so fun to explore. Every day feels like a holiday — you never know what surprise drop might come if you happen to have your attention on the browser window. It's completely replaced video gaming for me at this point. It's like an MMORPG, but in the real world. I think there's one last question we have for you, since you've already given us so much of your time. But before that — is there anything we didn't get a chance to cover that you wanted to touch on?
 
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]
+
 Ciphrd: Maybe there was, but I don't see it now. I think I'm good.
 
 Will: When fx(hash) launched the beta, it launched with several projects of your own. Is there anything we can anticipate from you with the launch of the full platform? Will there be a day-one Ciphrd drop, or another fx(hash)-tagged release?
@@ -252,6 +280,8 @@ Ciphrd: I can just say that there will be lots of people involved.
 
 Will: Gotcha — using the collaborative contracts, maybe?
 
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]
+
 Ciphrd: Maybe, yes.
 
 Will: Oof.
@@ -263,3 +293,5 @@ Will: Thank you so much, it's been amazing to have you on. It was really a goal 
 Ciphrd: Thanks for having me, and for putting all of this content out there. Thank you.
 
 Will: I think that does it. I hope everyone enjoyed this, and maybe we can get you on again in a few months to review the launch of the platform — if there are any big new phases coming, it'd be great to talk. But until then, thank you so much, Ciphrd. Thanks, Trinity, as always. We'll talk to everyone soon. Bye.
+
+[pool: Ethereal Microcosm | Ethereal Microcosm — Ciphrd | | 1]

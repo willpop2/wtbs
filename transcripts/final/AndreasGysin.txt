@@ -34,7 +34,7 @@ Andreas Gysin: Disagreement is always interesting, and we always manage to resol
 
 Will: Building on that — what's the difference between something you make solo, under your own name, versus something that comes out as a collaboration? The projects we know you for, like *Towers* and *Device_1* from fx(hash) — were those entirely solo? Or are they collaborations in some way that people just don't know about?
 
-[pool: Device 1 | Device 1 — ertdfgcvb | ]
+[pool: Towers | Towers — ertdfgcvb | | 3]
 
 Andreas Gysin: No, those are solo pieces. Sidi is completely unaware of crypto art and NFTs — he's not on any social media, he lives in a very small village of 300 people with his family and his dog. That doesn't mean he's an outsider — he knows how everything works, and quite well. But these more ephemeral aspects don't interest him, and he's not very aware of them. I explained a few things to him when I first heard about the crypto art movement, the NFT scene. I started publishing things online, dropping a few pieces as an experiment — I was curious. I'd seen these things happening a few years ago and wanted to try. Before that I had a website where I published interactive or generative works that would run in a browser, just experiments I could throw online. So it felt natural to continue that kind of experimentation in this new context, with the difference that eventually some pieces could be sold. That was a real novelty for me, and for many of us. I just continued that attitude on my own. At a certain point I told Sidi, "Hey, look, I'm doing this thing." We have several things going on that aren't part of a collaboration, even professional projects — we have our own lives.
 
@@ -48,6 +48,8 @@ Andreas Gysin: I saw things happening, and for me it's really just a channel to 
 
 To be honest, there's an aspect I don't find interesting at all: unfortunately, this way of distributing software or images or clips via the blockchain also ties into a much broader scene of crypto money, and I really don't like that speculative aspect. The NFT part, the crypto art part, is just a small piece of it. Older digital artists were waiting for some mechanism that would let us sell or monetize a piece of software, or something completely intangible — and then it happened through this mechanism. I think most of us weren't so happy that it came bundled with this huge weight you have to drag along if you want to sell a piece of software.
 
+[pool: Towers | Towers — ertdfgcvb | | 1]
+
 Will: I think we agree — it's a topic we explore a lot on the show, and we wrestle with our own distaste for the broader crypto community while enjoying collecting art, learning about art, and being part of this generative art scene on the blockchain. And you're right, NFTs have been the thing that catalyzed artists' ability to make a living off this work in a much more accessible way than ever. Maybe that brings some bad things with it, but also a lot of good. Before we started recording, you mentioned you'd just been to a conference with a bunch of older-generation generative artists — I imagine a lot of them haven't embraced this technology, and some are pretty against it. So what pushed you to give it a shot? So many people say, "I'll never do crypto, I'll never do NFTs, it's all a scam, bad for this, bad for that." What convinced you personally to give it a try?
 
 Andreas Gysin: I didn't have a strong opinion. I just wanted to try it, and I saw it happening around me. When I saw a few people I admired at the time getting into it, I thought, okay, maybe I follow these people I respect and see what happens with them. The promise of huge gains never really materialized for me, but it still felt like something worth trying. Before this, we had limited ways to distribute this sort of work — software artists especially were trying to find outlets, whether screensavers or apps you could buy from an app store. Then this appeared, and I told myself, maybe it's time to give it a shot.
@@ -60,11 +62,15 @@ Trinity: Agreed. The financialization is a bonus.
 
 Andreas Gysin: A total bonus, of course.
 
+[pool: Towers | Towers — ertdfgcvb | | 1]
+
 Trinity: But ultimately, a world with more art appreciators and more awareness is always going to be a better world. I don't have any doubt about that.
 
 Andreas Gysin: If you believe art is able to change the world, then yes.
 
 Will: I want to ask a question on this same topic, but starting to diverge into your artistic practice. In prep for this interview, we watched a more recent talk you gave — I forget which conference — where you showed a lot of your work with signs. Near the end, you showed some of your code-only work, which looked like an early prototype for *Towers* before it was eventually released. You talked about working within the constraints of a given technology and letting those constraints force you into a more creative mode. Trinity and I play *Magic: The Gathering*, and the longtime head designer has this saying: restriction breeds creativity — you should look at a restraint as an opportunity, not a barrier. So how do you connect your work with these analog objects, where there's a lot of built-in constraint, to your code-based work? What constraints lead you to be more creative there? What boxes do you put yourself in, working with something like JavaScript or within the constraints of NFTs generally? Where do you find the creativity in that space?
+
+[pool: Towers | Towers — ertdfgcvb | | 1]
 
 Andreas Gysin: This is a very important question for the way I work, both alone and with Sidi — this aspect of constraints. There's already a problem when I work on software-only projects based on screens, or inside a browser, because there you have to invent a sort of constraint yourself to force creativity.
 
@@ -76,6 +82,8 @@ Once you understand this way of thinking, you can see what happens when you sudd
 
 Trinity: We definitely see that in both your work on fx(hash) and elsewhere. *Towers* comes to mind as one working within those constraints, but you also have that wonderful project — I think there are a couple of variations — where the code on the screen looks like a simple text editor, but the text is always transforming itself, undulating up and down and across the screen in beautiful ways. How do you come up with those constructs? What do you find inspiring about the way the text moves, and how do these ideas come to be?
 
+[pool: Towers | Towers — ertdfgcvb | | 1]
+
 Andreas Gysin: For all these text-based projects, I need to give a quick flashback. Sidi and I started the text project when we were commissioned by an electronic festival to come up with a poster and a graphic system, several years ago. We designed a few prototypes and thought, this could work as something similar to ASCII art — so let's quickly build an engine that lets us experiment with it, and prepare a few prototypes for the poster and graphical systems to use at the festival. The project got rejected, but the seed of some of the projects that came after was already there.
 
 We kept exploring this language on our own, but Sidi gets bored of an idea very quickly, so he stopped. I'm a bit more simple-minded, so I stayed continuously fascinated by this idea of text mode, ASCII art. It's an interesting limitation, and an interesting language too — there's a long history of ASCII art, text art, typewriter art, so I started studying the history of these graphical systems.
@@ -84,7 +92,7 @@ At a certain point, during COVID lockdown, I told myself: these ASCII projects a
 
 I think the idea for the projects you mentioned came out of working on this. *Towers*, too — the idea came while I was working on this playground, actually because of a mistake. Instead of aligning all the text to the left, I made an error in a CSS declaration and centered it instead. All the lines of text formed this sort of tower, and the idea was born. So you could say *Towers* was a mistake.
 
-[pool: Towers | Towers — ertdfgcvb | ]
+[pool: Towers | Towers — ertdfgcvb | | 1]
 
 Will: Or a happy accident. As we often hear from artists in this space, bugs in code tend to produce some of the most delightful discoveries. Great story.
 
@@ -98,11 +106,11 @@ Andreas Gysin: I started on these ETH platforms because those were the ones I co
 
 Then Hic Et Nunc came along, which was even wilder -- they didn't ask any questions at all, and they allowed you to publish any kind of media: not just images or GIFs, but PDFs, text files, pieces of code. That opened up an interesting playground, because you could publish real-time pieces of software. I used the platform to publish SVG pieces -- scalable vector graphics you can display in the browser that also allow execution of JavaScript if embedded correctly. So at that point we were able to publish real-time work.
 
+[pool: Towers | Towers — ertdfgcvb | | 1]
+
 fx(hash) came a bit later, and it was a great surprise -- well done, well documented, no questions asked, you could just release your piece. The fact that there was no curation, that the barrier was lowered, was a real invitation to participate.
 
 And why not Art Blocks? I was contacted a few times about doing something there, but I couldn't really understand what was going on with the curation and some other aspects -- it wasn't clear to me. I looked at a few pieces on the platform and told myself they weren't really interesting. I was very ignorant -- I saw *Chromie Squiggle* and thought, this is too basic to be an interesting project. So I said, maybe I won't consider this platform for the moment. Probably a big mistake.
-
-[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | ]
 
 Will: The flip side now is that you're releasing in a curated fashion to some extent, with Verse. Around the time this episode drops, the auction or whatever mechanism you'll use to sell work in this *Materialized* solo exhibition will be ongoing. Can you give us the story of how Verse got in touch with you, and what convinced you to work with them this way? I imagine there was some level of curation and collaboration, where you had to put your trust in them to a degree.
 
@@ -112,6 +120,8 @@ Toward the end of the day, I presented, and Layla saw it. Afterward, she ran up 
 
 Layla put us in a tough spot almost immediately: she said, "We have this room for you," and sent us the floor plan -- and the room was huge. We'd never done an exhibition in such a big space before, and it was already crazy to imagine pulling it together in short order. Would we really fill this whole thing? She eventually found a smaller room, but it was still very big, and difficult to solve for with our projects.
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+
 So we worked out what we could bring. She insisted there be a long-form project of some sort, but we insisted that we came from the physical world and wanted to push that too. Especially for a space like this, we wanted to bring a bigger piece -- and for us, the centerpiece of the whole exhibition is a piece we've remixed over the years, always transforming. It's called *Digits*, a huge electromechanical piece that occupies almost the entire diagonal of the room. We even had to shorten it to make it fit properly. This will be the third iteration of the project, in a new form.
 
 Trinity: Looking through the description of the exhibition, it looks like you're bringing six pieces, mostly physical, and then a seventh -- the long-form piece -- that will be sold as an NFT on Verse.
@@ -120,7 +130,7 @@ Andreas Gysin: There are also two physical pieces that come with a digital count
 
 I didn't want either of those solutions. I wanted something where the physical exists and the digital exists, and they can also live together. For the two pieces we're showing here, we constrained ourselves to a display made of two LED matrices connected together, giving a total surface of 64 by 64 pixels. If you look at 64 by 64 pixels on a computer display, or even a newer phone, that's probably a few millimeters wide. But turn those pixels into actual LEDs, and the surface becomes quite large -- it starts to have a presence in space, starts to exist as an object.
 
-[pool: 64 Pixels | 64 Pixels — Andreas Gysin & Sidi Vanetti | ]
+[pool: 64 Pixels | 64 Pixels — Andreas Gysin & Sidi Vanetti | | 3]
 
 So this 64-by-64-pixel grid -- a bit more than 4,000 pixels total -- became another artificial playground we built for ourselves. We thought, let's imagine projects that work inside this ultra-reduced space of possibilities. That's how the physical pieces were born. The digital counterpart is a reflection of those same ideas. What's important to understand about the digital part is that the concepts behind this display are simple -- just a small story we want to tell. And that story can also be transported onto a different container -- not an LED matrix, but a computer screen.
 
@@ -134,13 +144,15 @@ The code running on this hardware is C -- an old, fairly limited, low-level lang
 
 I think the more interesting part of your question is: how do you treat a physical LED pixel, a few millimeters wide, on a computer screen? That bugged us for a long time, because it felt impure to represent this idea digitally. Do you draw small squares and call each one a pixel -- even though on a screen, a square is already made of several pixels? Do you imitate the roundness of the LED and draw small circles?
 
+[pool: 64 Pixels | 64 Pixels — Andreas Gysin & Sidi Vanetti | | 1]
+
 Our first answer was to just use physical pixels for the digital version. That would mean looking at the project and barely seeing anything -- just a few dots moving in the center of the screen, too small to recognize any composition. So I wrote a renderer that takes the pixel data and displays it on screen in a more arbitrary way. But I also built in -- maybe I shouldn't admit this -- an Easter egg that lets you display the pixels as 1x1 pixel data, so the on-screen version is, in fact, using only 64 physical screen pixels, even though it makes no practical sense.
 
 Trinity: So if I have a viewport that's, say, 2000 by 2000, are you subdividing that and just lighting up a 64th of that pixel space on the screen?
 
 Andreas Gysin: Yes. The piece is completely responsive, so it will run in whatever area is available of the browser, and it also runs as a web app. I introduced a few scaling factors, but at this point it almost becomes a kind of preview image. Sidi and I talked about these agreements at length, and after a very long discussion we agreed it would be okay to do a representation of the pixel on screen. So we represent a pixel by drawing rectangles, which isn't really a "proper" idea somehow, but we agreed to it because the algorithms are the interesting part for us. The stories these algorithms tell — and there are two algorithms across these two projects, *64 Pixels* and *Recursive Tiles* — can also be told on a medium other than the physical piece they were originally made for.
 
-[pool: Recursive Tiles | Recursive Tiles — Andreas Gysin & Sidi Vanetti | ]
+[pool: Recursive Tiles | Recursive Tiles — Andreas Gysin & Sidi Vanetti | | 3]
 
 Trinity: Conversely, if I bought *64 Pixels* and owned it on the blockchain, but I'm handy with a soldering iron and have some LEDs lying around, is there a way I could pull the piece from the blockchain and recreate it physically in a 64-by-64 LED space? Or should I just email you on the side and ask how to do it?
 
@@ -152,7 +164,7 @@ Will: If anyone's interested in other physical pieces from you, there's the LCD 
 
 Andreas Gysin: *256* is right. The piece we just talked about is *64 Pixels*, the other hardware piece is *Recursive Tiles*, and among the other physical pieces, one is called *Digits*, and another, which uses red-green LEDs, is called *Red Green*. We usually give titles that aren't really titles — they don't add any extra layer of information about the piece. The most obvious thing you could say about a piece usually becomes its title when Sidi and I work together. There's a certain honesty in that, and also a wish not to add extra complexity, extra layers of meaning for people to project onto the piece. We try to leave a little space around it rather than pollute it with meaning through the title.
 
-[pool: 64 Pixels | 64 Pixels — Andreas Gysin & Sidi Vanetti | ]
+[pool: 64 Pixels | 64 Pixels — Andreas Gysin & Sidi Vanetti | | 1]
 
 In this case, we found ourselves facing an unconstrained screen space. We didn't know what to do with the screen, because you can do so many things — where do you even start? One topic we wanted to explore was gradients. It's less true of current screens, but in the usual model, you have 8 bits per color channel. In RGB, that's 8 bits, so 256 possibilities for red, green, and blue, and the same for grayscale values. So an average screen — again, less true with newer displays — can render a gradient of 256 steps. We told ourselves this would be our entry point, the constraint that would let us reason our way into something for this limitless surface.
 
@@ -166,6 +178,8 @@ Of course, in a long-form project, if you remove color as a way of creating vari
 
 Trinity: This is one of the pieces we haven't seen any previews of at all. Is it purely digital, or does it also have a physical component, or the potential for one?
 
+[pool: 64 Pixels | 64 Pixels — Andreas Gysin & Sidi Vanetti | | 1]
+
 Andreas Gysin: To contradict what I just said — in this case, we are presenting print output in the exhibition.
 
 Trinity: Wow.
@@ -178,6 +192,8 @@ Andreas Gysin: It moves — it's a continuously transforming shape — and you s
 
 Will: You alluded to this a bit at the end of your description — that it might be difficult to produce a lot of outputs given it's a grayscale piece. Do you and Sidi have a number in mind? Obviously the most harmonious number would be 256.
 
+[pool: 64 Pixels | 64 Pixels — Andreas Gysin & Sidi Vanetti | | 1]
+
 Andreas Gysin: That's what we're thinking too, yes.
 
 Will: And pricing — auction, flat price? Do you have a plan for how to release it?
@@ -187,6 +203,8 @@ Andreas Gysin: I try to leave those aspects, including the edition number, to th
 Trinity: The entire thing sounds very exciting. Will, was there anything else you wanted to ask about *256*?
 
 Will: Yes, a little. Continuing on motion — a lot of your work has it, and a lot of your physical pieces also have a sound and rhythm component, coming from these analog technologies. Related to your digital work, and *Device 1* in particular: did you ever consider adding an audio component? Watching the digits flow, there's so much rhythm to the way they move across the screen that you can almost hear it, if you're familiar with the sound of that type of technology. But the piece itself — unless there's an Easter egg I'm not aware of — has no audio. Is that something you've considered? Does audio add too much complexity, or is it just never satisfying in the way you'd want? It seems like such a natural extension.
+
+[pool: Device 1 | Device 1 — ertdfgcvb | | 3]
 
 Andreas Gysin: It's very difficult for me, at least, to work with audio, to be honest. One of the first pieces I did with this split-flap idea, more or less, that you mentioned—these characters that don't just change to the proper one, but have to go through the whole list before they stop. This idea, which comes from my fascination with split-flap displays that we've used several times in our work, gives this whole movement and rhythm to *Device 1* and most of my ASCII art pieces.
 
@@ -200,9 +218,9 @@ Will: That was the core of the episode we did with Leander. We had him on last y
 
 Andreas Gysin: Ah, okay, I have to listen to it then.
 
-Trinity: Speaking of Lenny, his most recent piece, *DOM1*, uses generative sound working in conjunction with the visuals—we'll definitely be talking about it when we record our weekly episode. When I think about the work you've done, both in the NFT space and with existing signage and physicals, his project *Very Large Array* comes to mind as something analogous—it leverages the onboard sound card that exists in everybody's computer to create these super dissonant sounds that I can't stand, but Will loves. So thinking about how you might use the ASCII side of things in conjunction with the native hardware components available in these devices—there's something there. I don't know quite what it is.
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
 
-[pool: DOM1 | DOM1 — Andreas Gysin | ]
+Trinity: Speaking of Lenny, his most recent piece, *DOM1*, uses generative sound working in conjunction with the visuals—we'll definitely be talking about it when we record our weekly episode. When I think about the work you've done, both in the NFT space and with existing signage and physicals, his project *Very Large Array* comes to mind as something analogous—it leverages the onboard sound card that exists in everybody's computer to create these super dissonant sounds that I can't stand, but Will loves. So thinking about how you might use the ASCII side of things in conjunction with the native hardware components available in these devices—there's something there. I don't know quite what it is.
 
 Will: I just want *Device 1* to click.
 
@@ -213,6 +231,8 @@ Will: Still great work without sound. I just love the exploration.
 Trinity: I have another question before we wrap up, partly related to what you mentioned earlier about *256*. At the start of the show you talked about using signage and symbols from culture to drive a lot of your work over the last few decades—things that are often regional, with specific meanings: here's what a train track sign looks like in France, or a slowdown sign in Germany. There's often a broader cultural meaning behind these signs. And obviously with ASCII characters, those are things we observe and interact with every day—a critical part of society. Is there other inspiration behind using them? And with *256*, with its alien signage, putting yourself in the mind of what would be relevant in a futuristic social construct—I'd love to hear about the meanings and narratives that helps create.
 
 Andreas Gysin: That's interesting—it's almost semiotics. What do these symbols drag with them, and do we want that meaning present in the final artwork? Do we want to push it, or try to reduce the existing meaning of these forms? I think one simple answer, especially in the ASCII pieces, is that each letter, each glyph—each symbol from that initial ASCII character set—I don't treat as a bearer of meaning anymore. They're not letters in these pieces. They become form. I'm interested in an L because it has a sharp corner. I'm interested in a Y because it points down, while an A points up. The meaning is cancelled.
+
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
 
 That's fairly simple when you're working with single glyphs. But in the train station piece, there's no single character anymore—each element of that signage already spells out a train station name. It's much harder to remove the meaning when you can only display a full word. I think that's the beauty of the project: it coexists on two planes. You're looking at a kind of choreography—enjoying the movement, the sound, the wind, the air moving a little—the shapes, the composition, the idea itself. But then you also start to read these place names being displayed, and there's an effect—something happens in the brain. You read "Paris" as a train destination, and even while you're watching the choreography, the word sticks somewhere in the back of your thoughts and enters that moment of looking at the composition.
 
@@ -226,6 +246,8 @@ Andreas Gysin: I don't want to add anything after that—it was pretty beautiful
 
 Will: That feels like the moment to transition into ending the episode with a couple of quick questions. You already mentioned Lenny as someone whose work you enjoy and collect—is there anyone else you'd want to shout out, artists you admire and collect in the NFT space? Maybe some of the folks who inspired you to take the leap into NFTs in the first place. Who's out there that Andreas likes to collect, and what do you look for?
 
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
+
 Andreas Gysin: I like motion pieces, mostly. I've already talked about Lenny—he does a lot of things, and I think he's someone who has an idea and just goes for the project, which is super interesting because he doesn't really have a fixed style. For me that's usually a good sign. He explores different ideas—sometimes very simple ones, almost like a small joke or a bit of poetry, and sometimes more complex projects. Sometimes the language is very visual, sometimes it stays back and something else happens. But he does a lot of motion pieces, so I try to collect them all.
 
 Another artist I like a lot who mostly works with motion is Kim Asendorf. His pieces, heavily motion-based, have a quality I also try to reproduce and seek out: they hypnotize me. They put me in a state where I forget about everything—I just look at the piece, and at a certain point I don't even look at it anymore, I'm dragged in, transported somewhere, and totally unconnected thoughts start appearing in my mind. Unlike Lenny, he has a bit more of a recognizable style, but he's still exploring an idea that needs exploring—his flip-flop, back-and-forth movement of pixels. I don't think he's squeezed all of it out yet, so I'm happy we get to continue that journey. That said, he's also shown he can go in different directions, that he's not limited to that one style or technique. Those two are very close to me.
@@ -237,6 +259,8 @@ Andreas Gysin: Kerem Safa is also very good—he generates repeating patterns. H
 Will: Haven't heard of him.
 
 Andreas Gysin: Go check him out.
+
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
 
 Will: Thank you. All right, Trinity, one rapid-fire question and then we'll wrap it up?
 
@@ -250,6 +274,8 @@ Andreas Gysin: I needed a domain name to publish my projects online, and I was t
 
 Trinity: If keyboard makers ever made one square, maybe that's where it would end up. A little crazy, but I appreciate it.
 
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
+
 Will: Trinity's a bit of a keyboard fanatic.
 
 Trinity: I go through waves.
@@ -262,6 +288,8 @@ Andreas Gysin: We should have talked about this.
 
 Trinity: All right, we'll do another interview, or you can guest host and we can have a side podcast about keyboards.
 
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
+
 Will: Waiting to click.
 
 Andreas Gysin: Whoa.
@@ -273,6 +301,8 @@ Andreas Gysin: I don't know anything about the future, but I really want to than
 Will: You're welcome, and thank you for coming on the show. It's always amazing for us to talk to an artist like yourself and get your perspective and learn more about you. Greatly appreciate it. And thanks to Layla at Verse for getting you on the show with us. That's it for this one. I hope you all enjoyed it. That was Andreas Gysin — check out his solo exhibition coming up on Verse right around the time this episode airs. Thank you everyone for listening.
 
 Andreas Gysin: Bye.
+
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
 
 Trinity: Bye.
 

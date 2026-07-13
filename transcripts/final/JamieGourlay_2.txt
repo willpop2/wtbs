@@ -162,7 +162,7 @@ Trinity: I think the mechanics were spot on. Some people said it doesn't feel as
 
 Jamie Gourlay: The vast majority of things I've bought on fx(hash), I've bought because I really like them and think they're some of the most interesting pieces in a series. I struggle to see the benefit in not giving people a choice, when so many people end up with things they don't like and have to flip just to find something they do. Melissa was a little worried that people would perceive the sparser, emptier outputs as rare and everyone would end up choosing those. But it worked out beautifully—I love the series as a whole. There's so much diversity, and it's amazing how differently people responded to different parts of it. I wouldn't say there's one overriding "type" of *Cosmic Ray*—they're all pretty different.
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | ]
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 3]
 
 Trinity: Do you have any stats on how many were generated or saved by people in the week leading up to the mint?
 
@@ -176,6 +176,8 @@ Trinity: It's not about hitting a specific rarity trait, like the black-and-whit
 
 Jamie Gourlay: I love how Melissa didn't make rarity a thing here. I don't think art should be about rarity—it should be about great work, about what you actually like.
 
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
+
 Will: Well, with that in mind, do you want to talk about the Zancan piece a little more, or is that something we'll have to take out at the end if we do it?
 
 Jamie Gourlay: Let's try.
@@ -187,6 +189,8 @@ Trinity: And at such a low price point.
 Will: Only $100, over such a long period of time. So hearing you say that — do you think the drop could have gone differently if the rarity had been more evenly distributed, or if the black-and-white and pink ones had been taken out and it had just been the green? What's your retrospective on it?
 
 Jamie Gourlay: I think if the rarity had been distributed differently, it just wouldn't have been the thing it was. I do suspect "let's get a pink" drove it to a significant extent. It's a really difficult one. I've spoken with a lot of people about how problematic that massive series size is. I'd love your thoughts — what's your take?
+
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
 
 Will: I don't think we can know for a long time.
 
@@ -200,13 +204,15 @@ Will: The narrative around this project — Jamie, you can confirm it or not —
 
 Jamie Gourlay: At risk of contradicting everything I've just said — and this is probably going to come out wrong — I think Hirst's *Currency* series is great because it's so Hirst. If any other artist did it, I'd slam it. The whole thing is "I'm so shameless, this is me, I can milk this, and I'm going to laugh while I'm doing it, and it's going to be funny — and that is my art." I'm absolutely not saying that's Zancan. I'm just saying each artist has their own persona. If Melissa had done what Zancan did, it wouldn't have worked. But Zancan has created this unbelievable movement and community around him — so much of fx(hash) exists because of what he's created. And it's fun, it's exciting to be a part of. I minted a few of those, and I enjoyed owning a Zancan. It was a price point that didn't give me too much anxiety minting three. So it worked because it was Zancan — it almost feels like each artist has rules unto themselves.
 
-Obviously there was a lot of concern afterward that the supply was going to be problematic. Michael and I were texting just before New Year's debating this, and I stand by this — it's not just because of *Carbon Capture* — but Warhol became Warhol partly because his supply helped him become Warhol. Everyone was able to own one of his prints; it helped get him out there. How exciting it is to own a piece by an artist is a function of how famous that artist is. Zancan is a genius marketer, and I feel like that plus big supply is only going to help him get out there. We sold works to 2,500 people that week. Yes, people feel he's flooded his market, but I see it as just another series — if he did another fifteen series, sure, I'd feel my series was being diluted, but it's been diluted by one.
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
 
-[pool: Carbon Capture | Carbon Capture — Zancan | ]
+Obviously there was a lot of concern afterward that the supply was going to be problematic. Michael and I were texting just before New Year's debating this, and I stand by this — it's not just because of *Carbon Capture* — but Warhol became Warhol partly because his supply helped him become Warhol. Everyone was able to own one of his prints; it helped get him out there. How exciting it is to own a piece by an artist is a function of how famous that artist is. Zancan is a genius marketer, and I feel like that plus big supply is only going to help him get out there. We sold works to 2,500 people that week. Yes, people feel he's flooded his market, but I see it as just another series — if he did another fifteen series, sure, I'd feel my series was being diluted, but it's been diluted by one.
 
 Coming back to the Warhol thing: I suspect in the long run this just helps get his name out there more. Warhol's Marilyn canvases sell for $250 million because he's the biggest name in the world. Maybe *Carbon Capture* will be Zancan's Warhol prints, and *Garden, Monoliths* will be the Marilyn canvases. Who knows? As someone who owns his work, it doesn't concern me at all. But I could well be wrong.
 
 Will: Look at another recent project that was kind of an open edition — *Friendship Bracelets* on Art Blocks. Anyone who'd engaged with Art Blocks with a wallet got two for free, and there's something like 30,000 of them. If those can approach a 1 ETH floor at that quantity over time, I think it's really just a function of the total market we have and the number of collectors we have. Ten thousand, or wherever it ended up — that's a lot for generative art right now, because there aren't that many people collecting generative art. But there are a lot of people collecting NFTs generally — enough to support multiple 10,000+ PFP projects and something like *Friendship Bracelets*. So I'm not so worried about it in the long run. It's definitely caused some people's brains to get a little deranged, though.
+
+[pool: Friendship Bracelets | Friendship Bracelets — Alexis André | | 3]
 
 And at the time, when it was minting, we saw people have really positive takes similar to yours — this is going to get into more people's hands, it's going to make my *Garden, Monolith* more valuable. I think we've seen those opinions sway the other way now, but also, Tezos is down.
 
@@ -216,7 +222,7 @@ Will: Exactly.
 
 Trinity: With the dropping prices of *Garden, Monoliths* and *Fuck Forest* — everything is down.
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 3]
 
 Will: It's not that Zancan in particular is being affected, but whenever a Zancan piece sells for cheaper than expected, it's "oh, that's because of *Carbon Capture*." I don't know if that narrative is true, but it's convenient.
 
@@ -230,11 +236,11 @@ Jamie Gourlay: Hopefully those people are now Zancan fans. That doesn't worry me
 
 Trinity: Going back to the parallels between these two open editions, or pseudo-open editions — there are a couple of market stats we typically look at, and one is percent listed. Not to focus too much on markets, especially over such a short timeframe, but as a point of comparison: on OpenSea, *Cosmic Rays* is at 8% listed. Right after the mint, it was at 3%, which is pretty much the lowest we've ever seen. To my mind, that's not a drop meant to be speculated on — it's something you're meant to have a personal attachment to, which is powerful.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Jamie Gourlay: I'm so proud of that. That makes me so happy.
 
 Trinity: Compared to *Carbon Capture*, it speaks to you, the collector, at the collection level — what it means, what it stands for, what it represents. There's a lack of that personal connection to the individual piece with *Carbon Capture*, unless you happen to get a black one or a pink one, or you collected one on secondary and think, "yes, this is the thing I was looking to get." It speaks to how personal collecting can be, outside of any minting or market dynamics.
-
-[pool: Carbon Capture | Carbon Capture — Zancan | ]
 
 Jamie Gourlay: It's so hard to compare the two as projects. I got a couple of Melissas and I hope to hold onto them forever. I'm holding the Zancans for a different reason — less because I feel they're special artworks, more because they're mementos of a point in history for me personally. That's not to say there aren't some really special ones within the series, but they're obviously not all grails. They're just different.
 
@@ -243,6 +249,8 @@ Will: Since you were ending on an optimistic note, let's continue with the optim
 Jamie Gourlay: That was actually a mistake.
 
 Will: Oh, okay.
+
+[pool: Carbon Capture | Carbon Capture — Zancan | | 1]
 
 Jamie Gourlay: A scheduling mistake — we booked the wrong week with the gallery, and they couldn't push it back a week, couldn't push it back two weeks. I think we're going to have a bit of a breather after this one. It's been a lot.
 
@@ -256,6 +264,8 @@ Honestly, we need to see how things go and how many new signups we get before we
 
 Trinity: From a friction and onboarding perspective, we've already talked about how amazing Verse is — custodial wallet, easy signup. When I verified my identity to sell something on the platform, it was a quick SMS text, wham bam, thank you ma'am. Easiest experience of my life — the user experience you've built is really astounding. Is there anything else in the roadmap? You already have ETH payments, Tez payments, USDC payments, credit card payments. In a magic-wand scenario, is there anything else that would help alleviate the burden on non-crypto people getting into the NFT space?
 
+[pool: Carbon Capture | Carbon Capture — Zancan | | 1]
+
 Jamie Gourlay: I do feel fx(hash) is smashing the secondary market in a way that we're not, and I think that's really important — without a good functioning secondary market, it doesn't make sense to own a JPEG when you can just download it. It becomes exciting to own something when you can feel the market, feel other people wanting it, and we need to do much better there. I'm hoping that by the time this goes out we'll have more of an OpenSea integration. Like you said earlier, Trinity, the fx(hash) all-in-one thing is really great — if we can get OpenSea listings, floor prices, and all OpenSea activity showing on Verse, it'll make works on Verse a lot more liquid.
 
 We also need to do much better on our trending page, which is our answer to fx(hash)'s marketplace page — right now a lot of things aren't grouped well. The *quibibi* pieces show up as single works instead of as a series or collection, same with Penne and a few other artists. We're planning to figure out how to create series out of non-generative works. I think that'll make a big difference and make hot sales fairer.
@@ -268,6 +278,8 @@ Trinity: When I think about people in my family who might be interested, the ide
 
 Will: I was leaning that way too. For Trinity and me, growing up as gamers, digital ownership feels natural and embedded in us. The nuance between NFTs — truly owning something through your wallet — and owning a sword in *World of Warcraft*, where you really just own a license and the company owns the object, is a distinction crypto people like to make a big deal of, but the average person doesn't give a shit about. It feels like ownership either way, unfortunately.
 
+[pool: Carbon Capture | Carbon Capture — Zancan | | 1]
+
 On the physical side — another project I tried to bid on from *Odyssey* was the Schwittlick plotter pieces. They all went well above where I was hoping, and rightly so. But if there'd been an editioned version — a 1 of 100, more affordable — where I could've gotten a physical print, I'd have been just as happy. Obviously a 1 of 1 Schwittlick would still be really cool to me, but that crossover matters. One thing we joke about in Discord is getting generative art at IKEA — pre-made art, but why couldn't there be an algorithm and a printer mass-producing 100,000 subtle variations?
 
 I think the physical component really matters. It's so lame to pull open my laptop and say "check out this art I collect" — it sucks, I sound stupid, I look stupid, everyone thinks I'm stupid. But when I have a print or a plot, it's suddenly interesting. You say, "that was made by code," show a video of a pen plotter, and it becomes engaging.
@@ -278,7 +290,7 @@ Jamie Gourlay: A few people, myself included, experienced something quite unexpe
 
 Trinity: Your tweet — the video of the cosmic rays as you walked into the gallery — in 100% pure honesty, that was the thing that sold me. Obviously it's great work objectively, but that was the moment I thought, I have to have that. I want the experience of walking into my space and being awed every time I see it — what was that, five feet tall?
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | ]
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Jamie Gourlay: Yeah.
 
@@ -292,6 +304,8 @@ Will: The other side of this is marketing. OpenSea integration could be great fo
 
 Jamie Gourlay: How do we go from zero to 10,000 and then stop? Surely the hard part is getting to 10,000, not going from 10,000 onwards.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Will: Every now and then I feel like we cross ETH people over to Tez, but from my point of view, that's the same well of collectors, and vice versa on ETH for the most part.
 
 Trinity: So you're getting those OpenSea eyeballs.
@@ -303,6 +317,8 @@ Jamie Gourlay: I think it's product.
 Trinity: It's product — what do you mean by that?
 
 Jamie Gourlay: Just to push back on what Will was saying — that OpenSea integration would be good for the people already here but won't make a difference otherwise. I don't agree with that, because liquidity is part of the product. A really good friend of mine bought a piece a couple of weeks ago, his first ever NFT, and flipped it. That's really important. It's unrealistic to expect people to come in and instantly be collectors. Most people's route is: you make a bit of money, it starts to feel valuable, and then you begin enjoying owning these things longer term. He's already told a couple of friends about it — he doubled his money in a day and a half. That's a product thing. The better we make the experience for collectors, and liquidity is part of that equation, the more word of mouth we're going to get, and the more people will join.
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 I think the key is making word of mouth easy, rather than us feeling like we need to go out and do marketing. Word of mouth is scalable and exponential, whereas us running marketing events might bring in 50 people here and there, but it's not going to really move the needle. It's about getting the product to a point where onboarding scales and compounds over time.
 
@@ -316,6 +332,8 @@ Trinity: Can I say how mad I am that you're getting that piece on Verse?
 
 Jamie Gourlay: I'm sorry.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Will: Yeah, we were hoping that was going to be fx(hash). No offense.
 
 Trinity: It's amazing work, so congratulations on getting it. It's stunning. We've been following it — it's been beautiful.
@@ -327,6 +345,8 @@ Trinity: Minted 13, 2 tez apiece.
 Will: On Artist Commons.
 
 Trinity: Early believer.
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Jamie Gourlay: That's awesome. If we can get world-class artists from this space, people will tell their friends. And if we can get world-class artists from the traditional art world, we'll get good press and people will come, as long as the projects are interesting. It's on us to work with those artists to make them interesting. That's the best marketing we can do — paired with as good a product as we can possibly build, one that compels people to tell their friends about it.
 
@@ -340,6 +360,8 @@ Jamie Gourlay: Yeah, right?
 
 Will: Good question here — Trinity, you must have put this one in the rapid-fire list. What happens to all the physical prints that go into the gallery and don't get sold?
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Trinity: I know, because they look astounding.
 
 Jamie Gourlay: Oh God.
@@ -351,6 +373,8 @@ Jamie Gourlay: It's really tricky, because we get so many people asking, "What a
 Will: It hurts to think of those prints just sitting somewhere, not being used.
 
 Trinity: The prints themselves, framed or not — that's incentive to get a job in London, I'd say. "Don't need this print anymore? Okay."
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Jamie Gourlay: If anyone in London is listening and interested in art logistics, and helping us keep track of everything, please get in touch. We need help.
 
@@ -364,6 +388,8 @@ Jamie Gourlay: It begins with C — the squares, the boxes, what are they called
 
 Trinity: *Complementary*.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Jamie Gourlay: *Complementary*. I missed the step-by-step mint, but got one yesterday, and I'm so happy with it. I love it. Alejandro — I've got a lot of *Enfanteens*. I went a little mad on those.
 
 Trinity: 46 or something of them? Oh, God.
@@ -375,6 +401,8 @@ Trinity: Was there anything in particular that drew you to them, or was it just 
 Jamie Gourlay: It's inexplicable. It was just that — the turquoise. Love that turquoise. I've got so many of that palette. Can't articulate it, don't know. Erik is insanely talented. I love Toxy's work too, don't have enough. The thing I find tricky on fx(hash) is that an artist can do a project that really resonates, and then the next one is completely different. I don't know how you two think about artists who are maybe pre-signature-style.
 
 Will: There are definitely artists who have one big hit and then either chase that theme into the ground, or don't come back to it and never have a follow-up hit. It's hard to know what to attribute that to — whether they just don't care and want to make what they want to make, or they're just not being strategic and over-release. There are so many little pitfalls for artists to fall into. We always say we don't envy the artist, because it's such a challenging field to navigate.
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Jamie Gourlay: Melissa's incredible — she came out of the gate with a signature style, and everything she's done since, other than the collab with—
 
@@ -388,6 +416,8 @@ Jamie Gourlay: Just like them. Pepe XYZ — I really like those fireworky ink sp
 
 Trinity: Yeah, I minted a couple of the *Serene Gardens*. I really enjoy it. I feel like if it had come out at any other time, it would've been snapped up.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Jamie Gourlay: Yeah, they're awesome.
 
 Trinity: I know it's representational, but whatever.
@@ -399,6 +429,8 @@ Will: They were super hot around this time last year, or even a little earlier.
 Trinity: When they first released, every drop was botted.
 
 Jamie Gourlay: Really?
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Will: Yeah, because they were doing them really cheap, in really small runs.
 
@@ -412,6 +444,8 @@ Will: They're generative, but not code-based.
 
 Jamie Gourlay: Right.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Trinity: Pre-rendered components, I'd say.
 
 Will: They've kind of quit — I think they've done some stuff on OBJKT, but stopped releasing on fx(hash) because the secondary market died on their work.
@@ -423,6 +457,8 @@ Trinity: Was that before or after you featured Lars in an exhibit? Always curiou
 Jamie Gourlay: I felt like I couldn't buy it before we announced the show, so I bought these a day or so after we opened it, and kept going from there. I'm actually finding this quite difficult, and I'd genuinely love to get your thoughts. Buying things before any announcement feels kind of unfair, but at the same time, I buy what I like, and we generally show what we like, so I don't really know how to think about that. I do worry about people thinking, "Jamie's gone and bought 24 of these, and now he's trying to pump it."
 
 Will: I think you'd be in a lot more trouble if you'd tried to sell all those pieces for over $1,000 when they spiked. Looks like you haven't listed them at all, so if your time horizon for selling is long enough, I don't think it matters — it won't look like you're taking advantage of the specific information you have.
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Jamie Gourlay: Yeah, I sold one because I got hit by FTX and literally haven't had crypto since. Nat very kindly gave me a waitlist place for *Eucalyptus*, so I had to sell a Geode to pay for that. That's about it.
 
@@ -436,6 +472,8 @@ Will: That's very hopeful.
 
 Jamie Gourlay: Oh yeah, I'm definitely optimistic.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Trinity: Something we've been asking recently — partly for future content, but also because we're genuinely curious — is there anybody you feel we should interview?
 
 Jamie Gourlay: I'd love to hear you guys interview someone from the art world who's anti-NFT.
@@ -447,6 +485,8 @@ Will: The people I reached out to are so anti-NFT that they stopped responding o
 Jamie Gourlay: Or an artist who does digital work but doesn't do NFTs — that'd be good too. I'll have a think.
 
 Will: Those are two types of people we do want on the show, but we're so focused on just making the show that we don't even know who to reach out to.
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Trinity: We'll have to go to more art shows and source some people there.
 
@@ -460,6 +500,8 @@ Jamie Gourlay: I agree.
 
 Trinity: Any questions for us?
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Will: If you have any questions for us, let's do that and then wrap up.
 
 Jamie Gourlay: So many. I'm anxious about it, honestly — I think we need to grow this space a lot before we put more stuff out there. I'm worried about fx(hash)'s volume recently and the amount of liquidity in the market generally. It feels like it's in all of our best interests to team up rather than compete — obviously there's going to be some competition, but how can we work together more? If we're thinking about growing the space rather than growing any one platform, do you guys have any thoughts on what isn't working, what needs to change, what can be improved?
@@ -471,6 +513,8 @@ Trinity: Honestly, what I was about to say is the drum Will's been beating — m
 My therapist has told me NFTs are evil. I didn't get into it with him — didn't feel like the space to talk through his feelings on NFTs specifically.
 
 Jamie Gourlay: Why does he feel they're evil?
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Trinity: I didn't ask, but "the epitome of evil" was the phrase, I think. I don't know if it's a speculation thing or an environmental thing, but there's a lot of misinformation out there, and a lot that needs to be done to change the perception of this world.
 
@@ -484,6 +528,8 @@ Trinity: But there's something to be said for the likes of fx(hash) growing the 
 
 Jamie Gourlay: Do you guys feel crypto native?
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Trinity: No. I believe in crypto — transacting on it is exhilarating, and I think about what it enables for the future of technology. But I'm not hardcore DeFi, bought-Bitcoin-at-$500 crypto native. I've only gotten into it in any real, meaningful way in the last year, year and a half.
 
 Will: Same — I got in a little before Trinity, but my involvement was almost entirely cynical and speculation-based. I don't have some strong thesis that Bitcoin's going to swallow finance or ETH is going to rule the world. People sometimes ask me about NFTs because we do this show, and I honestly struggle to think of any use case other than art for them right now. Everything else seems so pie in the sky.
@@ -495,6 +541,8 @@ Will: What if you lose your wallet?
 Trinity: That's insane.
 
 Will: That's the thing — I mean, some people are working on this now, it sounds like, but—
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Trinity: Obviously that's the risk, but think about the capabilities enabled by a wallet that follows you, rather than something very Web2, based off databases owned by other people.
 
@@ -508,6 +556,8 @@ Will: I get that, and I know people are working on social recovery protocols —
 
 Trinity: There's also a lot that can be done on the anti-fraud side. Credit card companies and banks can spot a fraudulent transaction from a mile away and flag it immediately. If you apply enough money and brainpower to this space, you could at least mitigate some of these issues proactively.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Will: You're talking about censoring transactions, Trinity. That's very anti the whole ethos.
 
 Trinity: No, it's about safeguarding. You can still do the transaction — we're just letting you know it could be fraudulent. It's up to you whether you click continue.
@@ -520,6 +570,8 @@ Will: We're just going to sit here and keep watching it, with people like you bu
 
 Jamie Gourlay: The more feedback and guidance we can get, the better — we're guessing and making it up as we go along in a massive way. The more it feels like a team effort, the better it'll be for everyone, I hope.
 
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+
 Will: This is officially our longest interview ever, so I think we should wrap it up here.
 
 Jamie Gourlay: Sounds good. Sorry to take so much time.
@@ -531,6 +583,8 @@ Jamie Gourlay: I really did. Thank you so much for having me.
 Will: I'm gonna get back to work, Trinity's gonna get back to work, and thank you again, Jamie, for coming on the show. Hope everyone enjoyed that interview — it was great to talk to him, learn more about Verse, and debate NFTs and crypto.
 
 Jamie Gourlay: Cheers, guys. Great to speak.
+
+[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
 
 Will: We'll be back again soon. Cheers. Later, Jamie.
 

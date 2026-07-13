@@ -22,7 +22,7 @@ I had a little bit of life savings, put it all into Dogecoin, and lost almost ev
 
 So I looked on Twitter — I'd been following artists and musicians there for years — and saw NFTs gaining traction, saw a couple of friends making them. I found Rarible and used whatever crypto I had to buy things like Newman UK's *Gumbos* and Bitbirds — collectible-centered art. But honestly, collecting collectibles never made me happy either. I still felt like the main purpose was to gamble, to try to make back the money I'd lost.
 
-[pool: Gumbos | Gumbos — Mathias Isaksen | ]
+[pool: Gumbos | Gumbos — Mathias Isaksen | | 3]
 
 That's how I found Hic Et Nunc, which is really where my passion for art started. Hic Et Nunc launched around March 2021, and I had been following John Carroll for years because an artist named Lund had used his work for album covers — that's how I discovered him, back around 2015, 2016. I saw he was releasing "clean" NFTs on Tezos for 5 tez, still on primary when I joined. I started buying them, started talking to collectors like Debussy early on, and we ended up doing a collaborative tweet about John Carroll's history. That set a lot in motion, because he had a group of friends around him on Twitter, and since I was just starting out and he knew I had some knowledge about artists, he wanted to help.
 
@@ -36,6 +36,8 @@ During that period I was collecting thousands of pieces and selling a few here a
 
 Because I'd amassed a collection of a lot of early generative art — the second-ever mint by Mathias Isakson, the second-ever mint by quibibi — I started doing paid work for collectors who didn't have time to research the Tezos community and the art coming out on a blockchain that wasn't Ethereum. That was exciting because it let me do a lot of research and curate based on what people were looking for. It eventually branched into consulting for hundreds of collectors. I love talking through what someone really wants from the art they're collecting, and why.
 
+[pool: Gumbos | Gumbos — Mathias Isaksen | | 1]
+
 A lot of the funds I worked for never even listed pieces — that used to be a firm rule of mine: if I was collecting for your collection, there'd be a time span where you simply held the works. That mattered a lot to me. Running a fund, you notice dynamics like people copy-trading you the moment they recognize your account is quickly amassing culturally punchy work — it becomes almost a signal, which I found fascinating. I still remember buying Zancan's work — either the Genesis piece or the one right after — for 10 or 15 tez, and getting multiples across the various funds I was running. Sadly, because I was doing that fund work, I was never able to grab pieces in time to put them in the Lonely Garden, my personal collection.
 
 It's interesting how everything has transpired over almost three years of collecting — lots of ups, lots of downs, but a beautiful exploration of watching awareness of digital art grow, not necessarily in an institutional sense but in a social one. Twitter's connectivity has accelerated how fast you can see a piece, how fast someone can share it, how fast their friends can see it and see if they relate to it. It's been a beautiful time.
@@ -47,6 +49,8 @@ Lonliboy: It's interesting, because when I started collecting for funds, I wante
 I recognized that certain artists were very quickly gaining social traction, and I reached out to collectors who were interested in that work but also wanted to jump into Tezos and find value there. Back then there was a real division — people thought Tezos wouldn't last, that Tezos pieces don't go up in value, all that.
 
 The mentality point is interesting, though. A lot of funds do want to sell eventually, but the goal is to sell for a higher price than they bought in for. When you have a collection of that size, it's almost immediately an act of stewardship — you hold these pieces without selling for a very long time, and in a way you signal that they shouldn't be up for sale. If they do come up for sale, there's a feeling of, "Wait a second, that hasn't been up in 3 or 4 years, and now finally they're interested in selling."
+
+[pool: Gumbos | Gumbos — Mathias Isaksen | | 1]
 
 I'm not aware of any fund I've worked for that had a mentality of full liquidation. They very much print out the pieces I've acquired for them, display them beautifully. I love getting pictures back from where they're displaying the art — seeing it in their house, seeing them enjoy what's been collected. A lot of the funds I've worked for were very focused on generative art, code-based art, and abstract art, particularly on Tezos. I've never personally run a fund on Ethereum myself.
 
@@ -60,6 +64,8 @@ Lonliboy: That's very true.
 
 Will: I'm curious whether you arrived at that same conclusion naturally, out of your own ethics or love for the art, or because you realized it's better for an artist — someone like quibibi or Zancan who has a lot of one-of-ones and older works — for those pieces not to come up on the market frequently, since that scarcity confers value onto their more liquid, higher-edition pieces.
 
+[pool: Gumbos | Gumbos — Mathias Isaksen | | 1]
+
 Lonliboy: A hundred percent. I've always had this thought — even psychologically — that the ratio of listings tells you something about a community. If there are 100 one-of-ones listed from a series of 300, it shows the community is more interested in flipping and making money than actually enjoying the art in their hands.
 
 I know this is incredibly divisive, and many people would say otherwise. Maybe we're just at a point where a lot of collectors and traders need to sell to keep collecting — because at this point we've bought so much art, honed our tastes, learned about art while doing it. There are only so many hours in a day you can spend collecting, being part of a community, researching the art and the history of the medium. As time goes on, we run into scenarios where collectors realize certain things about what they've collected. And when that listing ratio gets incredibly high, to me, it's always been a telling sign — I think it's important to pay attention to it.
@@ -71,6 +77,8 @@ For the funds I collected for, we'd often buy one to three editions, sometimes m
 Will: This sounds like a good transition point to talk about your personal collecting. But first — in case the story hasn't gotten out there, is there an origin to Lonliboy you want to share?
 
 Lonliboy: It's a little embarrassing, but—
+
+[pool: Gumbos | Gumbos — Mathias Isaksen | | 1]
 
 Will: Like an Xbox gamertag from way back in the day?
 
@@ -84,11 +92,11 @@ Lonliboy: I like to give the philosophy of collecting the freedom of ebbing and 
 
 When I collected an early Mario Klingemann work, what swayed me was that the wallet address of each buyer was placed over an AI base painting. The concept was that, through time, if enough collectors purchased the piece, enough wallet addresses in black lettering would eventually cover it entirely, and it would become fully black — leading into quote-unquote nothingness. I found that concept incredibly interesting. I was collecting digital art, and I don't think I'd ever encountered something that made as much perfect sense to me. Works like that gave me a passion for realizing how many artists were trying out different ways of making art, with different concepts and narratives — like, what does it really mean that so many people bought a piece that now there's just a black layer over everything?
 
+[pool: Gumbos | Gumbos — Mathias Isaksen | | 1]
+
 A lot of my early history as a collector was really just about supporting the community. I'd buy pieces of every genre, form, medium, narrative — thousands of pieces, because it was so affordable at the time. One to five Tez a piece is something I'm not sure we'll ever see again at that kind of mass scale — that was a very special moment on Hic Et Nunc and early OBJKT. You can still buy pieces for one to five Tez now, and I still do, but back then there was a whole culture of giving works away freely, and then watching artists who'd released work at those prices go absolutely supersonic — like Iskra. Iskra's one-of-ones were 50 Tez early on. Marcelo's one-of-ones were something like 100 Tez, and his editions were very affordable — he released work for HEN for practically nothing.
 
 So to me, what matters about art is finding either a connection with a community, feeling like I'm part of something, or finding a connection with myself through the work. When I see a piece like *Fields* by Erik Swahn, it makes me remember things from my childhood — a dream I hadn't thought about in years — and I just sit there thinking, this can't be a coincidence. To have those sensations come back through art is such a special gift that artists freely give us through their expression. That's what matters to me, down to the bone, especially now. I need connectivity through the art I'm collecting. I'll always keep supporting the community and want to see artists grow and expand their narratives, their styles, their forms. But the art that really hits me, I will not stop talking about, because I love it. It truly means a lot to me.
-
-[pool: Fields | Fields — Erik Swahn | ]
 
 I look through my collection every single day. There are thousands of pieces, and it's hard to see everything, but every day I smile, because I know I'm surrounded by pieces that remind me I'm human — that I've been through ups and downs in my personal life, that I have love around me, that I get angry at things. Being able to stay aware of what's happening in the world and see that mirrored in art is a beautiful feeling. So my mentality has always been: does this actually hit me at the core? Especially now, finding that connectivity through the art I collect is so important to me.
 
@@ -98,13 +106,15 @@ Lonliboy: Collecting sustainably, when your focus is to keep amassing, supportin
 
 Here's the harder reality that often gets lost: a lot of what I've collected has gone up in value exponentially, and I'm 24. I don't really have savings anymore, because pretty much every penny I've had is in art. That's just how I live — collecting is an obsession for me. The big downside that comes with collecting this heavily, and realizing profits from exponential gains, is the tax bill. When you keep buying more work with those profits and never stop, your tax bill just keeps getting bigger. That's something I hadn't noticed or realized in 2021 — whether because I wasn't paying attention, or because I assumed things would keep going up forever. That was part of my immaturity, believing the space would be "up only."
 
+[pool: Fields | Fields — Erik Swahn | | 1]
+
 The reality: a six-figure tax bill for 2021, a high five-figure tax bill for 2022. Tezos has gone from $9 down to almost $0.73, back up to around $1.20 now, and a lot of pieces across Tezos in general haven't sustained their value after three years. That puts a collector who spends this much time collecting, sharing, and researching work in a very precarious personal position. I rarely see this talked about on social media — maybe others have managed it more sustainably — but when I sell, a chunk of it has to go straight to taxes I've owed for two years now. That's hanging over my head. And at the same time, I can't stop myself from wanting to collect more. That's the position I'm in.
 
 I don't want to be selling work. If I were rich enough to keep collecting with no other repercussions in my personal life, I would — constantly, every day, all day. But the only reason I've built a collection this size is because of selling here and there, and I try my hardest never to sell off an entire body of work by an artist that's in the Garden. That's nearly impossible anyway, especially in the current market. fx(hash) has had a pretty severe low point — way fewer public tweets even talking about art collected there. So for people who collect heavily and flip to keep collecting more, it's just hard.
 
 I've gotten a considerable amount of flak in certain Discords over this, and honestly, I think it's a little unfair, because when I do sell, it's usually at much higher points — I've never viewed it as pumping and dumping. A good example: I started collecting *Septembers* by Tyler Boswell. We'd done a panel together at Bright Moments, and I was genuinely excited about the piece — I love how it looks, how it makes me feel, refreshed, like eating 5 Gum. I bought some on secondary, one or two on primary, and as soon as it went up three or four x and I sold, I was accused of dumping it. But *Septembers* kept going up in value after I sold — I wasn't trying to bomb the market. At that point the profits were high enough that I needed to sell one or two so I could keep collecting. Otherwise the Lonely Garden wouldn't keep growing, and I wouldn't be able to keep supporting artists with stake coming directly from me.
 
-[pool: Septembers | Septembers — Tyler Boswell | ]
+[pool: Septembers | Septembers — Tyler Boswell | | 3]
 
 Some of the best curators in the world buy art by the artists they curate, and later sell those pieces once the value has gone up, because curators often aren't paid much — that's a common reality in the world of curation. Having a few pieces you truly believe in, that are culturally significant, that you can talk about meaningfully — that's how you make it work. I've definitely gotten hate for it, but nowadays I don't really pay attention when someone has something negative to say when I sell a piece, because they're not living my life. They don't have to deal with a tax bill that comes from supporting art and then selling to support more. That's my honest position on it. I don't think I've really talked about this publicly before.
 
@@ -118,7 +128,7 @@ Lonliboy: There are definitely wealthy individuals with hundreds of thousands of
 
 On Hic et Nunc, six or seven months ago, I was talking about prices all the time while they were going up, and I hadn't sold many pieces in that period. I could have made a lot of profit buying more art at that point, but I held back because I was scared of what people would think of me. Then I hit a critical point: the tax bill arrived, and there are legal repercussions since I filed. So I don't want to be talking about that on my account anymore — that's not what I'm interested in. I'm far more interested in talking specifically about art. I'll still tweet about big news here and there — when Zancan buys a pink *Garden, Monoliths* for 44,000 Tezos, that's a sentence you put into the world, and it sets a precedent, a way of thinking you can look at to understand an artist. Sharing things like that is interesting at times, but I'm trying to lean away from it and share more personal stories of connection — oral histories with artists, which is where my focus is now.
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 3]
 
 Trinity: It's a hard line to straddle, especially in your shoes, doing so much collecting on behalf of yourself and others. My mind goes to *Perpendicular Inhabitations*, Studio Yorktown — September is dead to me, for now and forever, when it comes to that piece.
 
@@ -130,7 +140,7 @@ Lonliboy: It's a lot less accessible. Primary prices are much higher these days,
 
 fx(hash) ran into a serious problem with bot farms and insta-listing, and that burned out a lot of people — it burned me out for a period. I had to pay 10x on secondary for pieces I genuinely wanted. Take *Perpendicular Inhabitations* — I have one listed, but I own maybe 10 or 15, and the one I listed is for half of what I paid for most of mine. That's what I'm saying: I can be incredibly invested and love a piece, but what happens to you as a collector when the market doesn't sustain? You have to deal with that in your personal life.
 
-[pool: Perpendicular Inhabitations | Perpendicular Inhabitations — Studio Yorktown | ]
+[pool: Perpendicular Inhabitations | Perpendicular Inhabitations — Studio Yorktown | | 3]
 
 A lot of collectors have realized collecting became obsessive for them — staying on chats every day, watching live feeds, checking explore pages constantly. Then they look back at their collection and realize very little is sustaining its value. We've been running into this problem for a while. I've tried to stay positive, focusing on the collections I really love and talking about them, because I've realized the lack of sustained commentary combined with the sheer volume of pieces coming out is a recipe for collectors to end up owning pieces worth 50% less than they paid — and if you factor in Tezos volatility, sometimes even more in USD terms.
 
@@ -144,6 +154,8 @@ Will: A lot of what you're saying speaks to the cohort of people actually collec
 
 And maybe it's also uncomfortable for artists to talk about other artists' work — a good portion of collectors here are also making art themselves. You'd think they'd have the background and knowledge to jump in and provide commentary, but for the most part they don't.
 
+[pool: Perpendicular Inhabitations | Perpendicular Inhabitations — Studio Yorktown | | 1]
+
 Trinity: Is that on the collector base, or on the artists themselves? We also have an influx of people creating and selling art for the very first time.
 
 Will: I think there's just an unwillingness to rock the boat. There are a few OG artists out there — someone like Autoscope, who isn't really on Twitter anymore — who aren't afraid to say a lot of the art being made right now isn't great, or "we were doing this ten years ago, you're just retreading what we've already done." But vocal artists like that tend to get a lot of hate, because the collector base doesn't like it — they feel uneducated, and it's like, "hey, don't say that, those are my bags, don't tell me my bags suck." They didn't know it was a retread because they don't know the history.
@@ -155,6 +167,8 @@ Lonliboy: I'm not an art critic, so I don't feel it's my place to have a strong 
 It was sad when Toxy got attacked for being honest and transparent by an fx(hash) community that claims to be positive and art-centered. That was disrespectful to the fullest extent, especially considering Toxy's contributions to the entire code-based art space and to how digital art looks today when it comes to generative systems. It speaks to a real problem of toxic positivity in this space. Even I've contributed to that, and I want to be honest about it. I'm not an art historian. I fell in love with certain works that were, sure, a bit rudimentary, and I may have screamed very loud about them. So I think it's important to be transparent that we're learning — there's a generation of people who fell in love with art but never went to school to study it. I try to bring up pretty often that I don't know everything.
 
 I like learning about art. I love when Elaut shares so much knowledge in the PD chat — they really put us on to a lot of history in general. It's interesting that kind of discussion isn't what latches on for most of the community. A few people get the conversation really rolling, but the whole community isn't necessarily paying attention. New pieces get way more attention and noise than simply learning the history that's foundational to where we are today.
+
+[pool: Perpendicular Inhabitations | Perpendicular Inhabitations — Studio Yorktown | | 1]
 
 I wish we could go back to when Toxy was being transparent about what was happening, because a lot of what he said was, one-to-one, the truth. I wish I'd known enough at the time to have been vocal about it myself. Recently I've gone back and said: let's not pretend this didn't happen, because it did. If we want communities to grow, we need to be humble about our past misgivings. I've messed up many times, and I try to be honest about that. I think that's partly why the Lonliboy brand has grown on Twitter — I made a lot of mistakes early on Hic Et Nunc, said things confidently that I didn't actually understand. But being honest when you're taught something and realize you were wrong creates a more human connection than just being confidently wrong. People love to see growth in someone, and I think communities can grow the same way.
 
@@ -168,7 +182,7 @@ Lonliboy: Thank you. I'm very excited to finally be part of a team on a digital 
 
 When I first flew out, I got to see the *Imperfections* show. I've been to a lot of NFT galleries that are mostly screens — poorly positioned, with no real atmosphere or elegance. It feels more like a techno rave than an art showcase. So to see a beautiful space like the one *Imperfections* was shown in, with art not on displays but printed and well-framed — there's a physicality to seeing generative, code-based art on paper that's almost powerful enough to taste. I saw *Fields* by Erik Swahn and just stood there for an hour. That was life-changing for me, having collected Erik's work since 2021, whether for myself or for funds. To see a platform that pays that much attention to atmosphere and exhibits work in a genuinely fine-art way — it's hard to put into words what it means to work with a platform with that kind of care for generative art.
 
-[pool: Fields | Fields — Erik Swahn | ]
+[pool: Fields | Fields — Erik Swahn | | 3]
 
 We've all been collecting art on the internet for years now, sitting in our wallets, and displays are expensive — having prints shipped, framed, behind nice glass costs money. But to be able to walk into freely open public shows, no token gating, and see digital art represented physically — that feels special. That's what I love about Verse.
 
@@ -182,9 +196,9 @@ Lonliboy: I think there's already a reckoning occurring. Since fx(hash) had a ma
 
 Will: It was just an example, because personally, I don't really understand the strategy of an artist jumping chains like that. From a game-theory standpoint, it feels like you're always going to lose people who won't follow you. For someone like me, so much of my time already goes into the show and following fx(hash) and Tezos that I'm not going to go make a Solana wallet, figure out some new site, and work out whether there's even a community there worth engaging with. I have a job, I have a baby — you can probably hear them right now. I'm not going to manage more wallets, more platforms, more chains just because an artist thinks there's a bit more opportunity somewhere else and hopes to drag their current collector base along. It feels like it just creates more uncertainty. It seems like it'd be better to coalesce around a few platforms and chains and make sure those actually sustain and survive, rather than jumping ship every time a new platform comes along and offers you something. If I had more time, I'm sure I'd follow certain artists wherever they go — we love Leander, we had him on the show — but I just don't have the capacity for that.
 
-Lonliboy: I think what Code has to offer is the Solana community. What they're doing isn't really that different from any other long-form platform, so I can see why artists would want to try it out, see if their art resonates with the Solana community, and see how the liquidity plays out. Verse, on the other hand, has a very clean UI, in my opinion. It feels good buying art there — it always has. It's not like seeing a Hic Et Nunc piece next to *Smooth Steps* by Andreas. When I see that, it makes me feel bad, honestly. The way you show art matters, especially when collectors are spending thousands of dollars and pieces start gaining a lot of secondary traction. It matters how that art is represented on a platform.
+[pool: Fields | Fields — Erik Swahn | | 1]
 
-[pool: Smooth Steps | Smooth Steps — Andreas Gysin | ]
+Lonliboy: I think what Code has to offer is the Solana community. What they're doing isn't really that different from any other long-form platform, so I can see why artists would want to try it out, see if their art resonates with the Solana community, and see how the liquidity plays out. Verse, on the other hand, has a very clean UI, in my opinion. It feels good buying art there — it always has. It's not like seeing a Hic Et Nunc piece next to *Smooth Steps* by Andreas. When I see that, it makes me feel bad, honestly. The way you show art matters, especially when collectors are spending thousands of dollars and pieces start gaining a lot of secondary traction. It matters how that art is represented on a platform.
 
 So I can see why artists are trying out new communities, new UIs, new platforms — we're still very early. Sure, I've spent a lot of money over the last few years, but I still feel like it's early days. I don't think any platform has perfected what it means to release art at this point. God, I love fx(hash), but I've never really been a fan of the UI, personally. I can't get into it, and I've been honest about that for a long time — it's not something I've hidden.
 
@@ -195,6 +209,8 @@ So yeah, I think artists are branching out, and honestly, I think it's wise. Sur
 Trinity: It's such an interesting, interconnected conversation — the art, the story behind it, the history, the theory, the community, the liquidity, the returns. Those latter two are almost gauche to discuss in connection with art as a broader social movement, capital-A Art. But a lot of this community wouldn't exist without that financialized nature — people need to remain solvent to keep collecting. If everything just maintains price at the primary cost, how does that sustain the movement going forward? It requires additional liquidity coming in, unless artists are just exchanging art at cost. So there's an interesting balance to strike between pricing things appropriately and maintaining enough excitement and momentum to keep the space going. Otherwise we're not early — we're just late.
 
 Will: To add to that — for every platform, not just fx(hash) but Verse, Code Canvas, and others — there's a new open long-form gen art platform on ETH that just launched too, which we don't need to get into — every single one of these relies on fees to sustain itself. That came up a lot in our interview with Jamie, basically him saying: what can we do to get more secondary, because I need to make money to run the platform. I agree in spirit with a lot of what you're saying, and I think what Verse does is awesome — I love how many of the pieces come with such extensive writing, and the site looks so premium. But they priced the *In Professions* exhibition really aggressively low for ETH — some of those pieces were like $40 — and they didn't get crazy flipped. I don't think they collected nearly the fees they were expecting on secondary by making a swing like that. So it's not just fx(hash) feeling this — the Marcelo piece on Verse hasn't even come close to minting out.
+
+[pool: Smooth Steps | Smooth Steps — Andreas Gysin | | 1]
 
 Lonliboy: The Marcelo piece, at 3 ETH, is a very high price right now for a 1-of-1 — or a set of 1-of-1s. I don't think that's on Verse so much as the market dynamics tanking in general. It's bad everywhere. Secondary isn't really alive on fx(hash), so why would it be alive elsewhere? Even Art Blocks can't sell out pieces. It's not just Verse dealing with this — it's a market-wide issue. Which is why I personally appreciate that those prices were low: people who want to buy and collect art can get pieces at accessible price points. It gives me more of that Hic Et Nunc feeling. Look at the Sarah Ridgely piece — barely any listed. It didn't sell out all 444, but the people who bought it clearly want that piece, since there's barely any listed. That's true for a lot of collections on Verse — a good handful don't have anywhere near as many listings as on Art Blocks. Code Canvas already has a lot of listings. fx(hash) is absolutely stacked at this point — it seems like an avalanche of people trying to get liquidity out because they're scared of the market right now.
 
@@ -208,6 +224,8 @@ So more accessible pricing gets pieces into collectors' wallets, and they're exc
 
 Will: It wasn't a criticism — more just pointing out that the low price points were, I believe, designed to encourage more secondary market activity for fee accrual, which platforms need to sustain themselves. It didn't really play out that way. That was the observation. I loved the low-priced ones, personally — I collected a bunch from that exhibition.
 
+[pool: Smooth Steps | Smooth Steps — Andreas Gysin | | 1]
+
 Lonliboy: But the secondary fees most platforms take aren't even that high. So that's another thing to add to the equation — how do you sustain off secondary when it's about volume?
 
 Will: That's why it works for fx(hash) in theory — it's an open platform. Anyone can come in and mint, and it doesn't matter which projects take off, whether they're good or bad, whether they were zero test mints that flipped or a hundred test mints that flipped. But we've got to figure out how we're going to end this, Trinity. What do you think? I don't think we're doing rapid fire.
@@ -220,7 +238,7 @@ Lonliboy: I've definitely listened to a few episodes. You've had people on that 
 
 Trinity: I can take a stab at that first. I've always loved Jacek's work — I'm a huge fan of *Unbuilt*, of *Hollow*, these architectural pieces that speak to the soul and to the history of humanity. Those are works that transcend time. I'm less into the most recent project, the *5.136 Degrees* — I forget what it was called — but the ones that speak to architecture and the history of the world are awesome. And I'll steal one from Will: Jeres, obviously. I love the story behind *Glossolalia*. He has such an interesting perspective in terms of brightness, color, all that great stuff.
 
-[pool: Hollow | Hollow — Jacek Markusiewicz | ]
+[pool: Hollow | Hollow — Jacek Markusiewicz | | 3]
 
 Will: And exposing their own personal story and how it connects — plug for the interview with Jeres that went live today. Looking at some recent stuff in my collection I really liked, that I don't know necessarily hit with everyone: the Luis Fraguata piece, *Serendipity vs. Consequence*.
 
@@ -228,7 +246,7 @@ Lonliboy: That's a great one.
 
 Will: I thought that was a really interesting piece, and he did a great job explaining it, because it's a piece that needs explanation, even for people like us — which really helped me connect to it. That's the same reason I connect to a lot of the recent Jeres stuff too: the effort to handhold you into understanding where the emotion in the piece is, beyond just the fact that the colors are nicely composed. *Hollow* — I agree with Trinity, that's a piece I really personally connected with. I also really like — I talk about him a lot on the show, but — a lot of Alex Grasser's stuff.
 
-[pool: Hollow | Hollow — Jacek Markusiewicz | ]
+[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
 
 Lonliboy: Alex Grasser is amazing. *Rausch* is really a hitter right there.
 
@@ -242,6 +260,8 @@ Trinity: Possibly last question: who do you think we should interview next? Who'
 
 Lonliboy: There's thousands of people.
 
+[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
+
 Trinity: Let's stick to three or less. Top three, let's go. No pressure.
 
 Lonliboy: Have y'all talked with Sir Mad yet? No? I would love to hear him speak. I'd also love to hear Horn Dog speak. And have you had Anna up yet?
@@ -254,6 +274,8 @@ Will: The NFT economist. No, not yet.
 
 Lonliboy: I'd love to hear her, and Grace B on the artist side. I would absolutely love a podcast with Erik Swahn. I'd love to hear Bruce Yorktown. And honestly, one with Luis too.
 
+[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
+
 Will: Frank Guada?
 
 Lonliboy: Yeah, 100%. They've been putting out incredible codebase art and animations for so long — it'd be awesome to hear their perspective on everything going on.
@@ -265,6 +287,8 @@ Lonliboy: I talk way too much.
 Will: It's perfect, we love that. Thank you very much, Lonli — it was awesome to finally get you on the show. Big congrats on the role at Verse, and it'll be very cool to see that show hopefully manifest toward the end of the year. I think we're all going to learn a lot from it if you can deliver on getting a lot of these historical artists together, hopefully with some cool audio or video components. All of us can stand to learn a lot more about this space. Much appreciated — hope you had fun coming on.
 
 Lonliboy: I had a great time. A lot of these are questions I don't usually get to speak to people about, and they're more loaded than what I'd normally discuss in a public setting, so this has been a learning lesson for me. Thank you so much for having me on, and I hope y'all have a great day.
+
+[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
 
 Will: Thank you again. All right everyone, that was Lonli — huge props to him for coming on, it's been a long time in the works. That's it for this one. Hope y'all enjoyed it. We'll be back soon with another episode. Bye.
 

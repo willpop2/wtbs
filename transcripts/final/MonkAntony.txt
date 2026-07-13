@@ -32,7 +32,7 @@ MonkAntony: That was kind of your ticket into the club — you wrote an editoria
 
 Will: And that was your *Farbteiler* editorial, right? When that came out, the amount of references you packed into that piece — explaining historical connections to art — seeing where you are now, it makes so much sense. That was a pretty groundbreaking editorial compared to what others had written, myself included, where it's more just "here's what I like about this piece," and that's it. Yours had so much research put into it — it felt like a different level entirely.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | ]
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 3]
 
 MonkAntony: That was what was so cool about TENDER and those editorials — Adam was very open, like, "you can do what you want." I don't really know where that came from — I didn't spend a huge amount of time on it, especially relative to other things I've done since. I was so interested in *Farbteiler*, and in the artist description, Erik Swahn didn't write that much about it. He put a little bit, but it wasn't super detailed, so it was open-ended — I could take it where I wanted. That was cool, because I was talking to Zach Lieberman recently, and he was talking about artists where he really wanted to get inside their head, see where they came from — and the artist he mentioned was Erik Swahn. I felt that same thing, this kind of inexplicable connection. Part of that is his use of color, something he clearly places a lot of importance on, and he traced that back to Johannes Itten and Bauhaus — Itten was one of the original Bauhaus instructors. So that piece, that collection, and that editorial, and getting invited by TENDER to write it, were all kind of serendipitous in a way.
 
@@ -46,6 +46,8 @@ MonkAntony: Yeah, the collections had started to pile up, but nothing like how t
 
 Will: It was such a fun exercise to follow — what's the next piece Monk's going to write about? I'm sure you inspired quite a few people to mint or collect on the secondary market at the time too, which must have felt pretty good.
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 MonkAntony: What I really got out of it was that it was a good exercise in writing, because you have to be so concise in one tweet. I was already using a bunch of characters for the title and the artist, and if the title had a really long name, I'd think, "oh no, this one's going to be tough." But it was an exercise in using some of that vocabulary to write about art, and just thinking about what resonated with me — an exercise in concision, trying to say something even half interesting in about 80 characters, since I'd already used a bunch for the rest. That was another fun part of developing as a writer in this space.
 
 Will: I think this could be a good segue to talk a little about your collecting. We browsed your wallets, of course, and you have a really eclectic collection. You're also still very active — a lot of people collected in the beginning and then stopped for a while, and you can see that gap in their minting history, where they just went away for six months. But it feels like you never took that break — you've always been engaged. So what do you look for in projects you're minting? What qualifies a project to make its way into the vault? And as you've delved more into research and self-education on the history of generative art, how has that learning influenced the way you collect now?
@@ -57,6 +59,8 @@ It's fun to talk to artists about this. I was fortunate to meet Kim Asendorf in 
 As for the difference between MonkAntonyBurner and MonkAntonyVault — there used to be one, but not really anymore. Vault now just means my earlier collection, with a lot of early pieces I picked up back then. At this point I pretty much only use the burner to mint new things. The vault is essentially offline; I'll occasionally send stuff there, but even that's become rarer. So it's not that I consider the vault special in any way — it's more just my offline hardware wallet.
 
 Trinity: Would you say you're a generative art maxi? I think a lot of people in the fx(hash) community might say that, just because it's what we're primarily exposed to day to day. Has that been your primary point of contact within the blockchain art space?
+
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
 
 MonkAntony: I'm definitely not a maxi in the sense of only collecting pieces where the artist has ceded control to an autonomous system — a lot of the artists I love aren't necessarily generative. But the vast majority of what I've collected has come through fx(hash), so in that sense, yes.
 
@@ -70,6 +74,8 @@ MonkAntony: Yeah, it's got a cool conceptual element. He comes from that more ma
 
 Will: Right.
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 MonkAntony: — but then there are pieces that are like five dollars. It's a fascinating collection in that respect, and a really interesting project overall.
 
 Will: It's interesting that the community has such a hard time discovering these legacy, "trad world" artists who cross over. It's something we collectively want, but when it happens, those artists often aren't rewarded — collectors here don't know about them, aren't conditioned to collect them, or are skeptical of the price points, while their traditional-world collectors are skeptical of the medium they're now releasing work on. It feels like a lose-lose for them a lot of the time. Have you talked to any of these artists directly? I imagine you've gotten more into collecting them as well.
@@ -81,6 +87,8 @@ Will: He made the Mondrian piece, right?
 MonkAntony: Right — that experiment with computer composition using line. I've had a long phone conversation with Noll, and he's very skeptical of NFTs and of releasing his work that way. I think he has a pretty negative view of them, which he shares with a lot of people outside this space who associate NFTs with monkey JPEGs, scams, rug pulls — "snake oil" is literally what he called them. With someone like him, it's a slow process. You're not going to change his mind in one email or one phone call. But maybe over time, sharing things with him — I've even shared *Tender* with him — since he's also disparaged the quality of work being produced as NFTs, which is kind of ridiculous, as we all know.
 
 Trinity: When you have that much volume, of course there are going to be areas where quality is lesser. But we're seeing so much volume, and the stuff that's great is truly art — I don't think anybody can say otherwise. And that goes for everything released, not just the pieces with a high floor.
+
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
 
 MonkAntony: Absolutely. There are other artists I've spoken to, like Roman Verostko, another pioneer — the Verostko Center is becoming interested in digitizing his work, so he's working with Ira Greenberg on that. I know Ira's been on your show and may have mentioned it. There are definitely pioneers who, even if they haven't released NFTs yet, or only a few have, are interested and will likely release more in the future.
 
@@ -94,6 +102,8 @@ Will: In your role at Le Random, are you approaching these artists not just to s
 
 MonkAntony: For sure. We're trying to encourage some of these artists to release work as NFTs, and to demonstrate that there's a market for it — that there are serious collectors who know about their work, their history, their legacy, and their impact. That's definitely part of it. Another part is that we want to talk to them, hear their stories, interview them, ask them questions, and learn from them. I want to connect them with people I know they've directly impacted — set up a conversation between a contemporary artist and a pioneer where I know there'd be an interesting dialogue.
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 But beyond that, we want to tell the story of this generative art movement as a whole. A lot of collectors in this space don't know much about that history, but they're eager to learn it and want that context — and that's a big part of what we're trying to provide.
 
 Trinity: Will, I know you're trying to do that right now by reading textbooks.
@@ -105,6 +115,8 @@ Trinity: Where's the drama? Where's the social interaction? Can you make it like
 Will: What's the will-they-won't-they of generative art?
 
 Trinity: Yes, exactly.
+
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
 
 MonkAntony: What book are you reading?
 
@@ -118,6 +130,8 @@ MonkAntony: Exactly.
 
 Trinity: It's interesting though, because that's also when computing power really had that next big leap. People were very excited about browsing the web, having a GUI of all things. That's when the whole demo scene really came to fruition too—people doing all sorts of crazy shit with computers.
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 MonkAntony: Definitely. Demo scene, net art, then Design By Numbers, Bagel, Processing—all these things kicked off. Not to get too far ahead, but that is the story that Le Random is also trying to tell.
 
 Trinity: I think many people in this space have heard of Le Random, but maybe not everyone knows what it's doing or how widely known it actually is. Assuming some of our listeners aren't familiar, could you give an overview of what Le Random is and what it's doing?
@@ -130,9 +144,9 @@ We want to tell the entire history of the movement, starting from the artists wh
 
 Will: There's a lot to dig into there, but before I quiz you more formally on all that—what's the story of your own involvement? How did you go from writing Tender editorials, collecting, and writing for RightClickSave to this?
 
-MonkAntony: Honestly, I didn't remember the story—I had to go back and check my DMs. It was Tender, that Farbteiler editorial. Maybe a couple of weeks after that came out, TheFunnyGuys DMed me. I didn't remember why he originally reached out, because we've spoken so much since—he also DMed me shortly after about buying one of the pieces from my collection, so I genuinely wondered, was he trying to poach this piece from me, or was it about the writing? It was February of last year, based on that Farbteiler article—I hadn't even written my second Tender piece yet, which was about *Echoes* by i++ Sketch.
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | ]
+MonkAntony: Honestly, I didn't remember the story—I had to go back and check my DMs. It was Tender, that Farbteiler editorial. Maybe a couple of weeks after that came out, TheFunnyGuys DMed me. I didn't remember why he originally reached out, because we've spoken so much since—he also DMed me shortly after about buying one of the pieces from my collection, so I genuinely wondered, was he trying to poach this piece from me, or was it about the writing? It was February of last year, based on that Farbteiler article—I hadn't even written my second Tender piece yet, which was about *Echoes* by i++ Sketch.
 
 I think that very first day we talked, he mentioned he had a project that might be interesting for us to collaborate on. It didn't really come up again—we just started talking almost every day, all about art, what we liked, what we were collecting and interested in. Around April we had an actual phone conversation, where he told me more about his vision for Le Random. That snowballed, and it worked out timing-wise because my job in Hong Kong was ending in August, right around when I'd potentially be starting at Le Random. So that's how it got started—just a Twitter DM. Keep your DMs open out there.
 
@@ -144,11 +158,11 @@ Will: We don't have much to contribute, but yeah. Trinity, where do you want to 
 
 Trinity: I have one follow-up on the collection. This third generation you're documenting now is easy to collect—it's on the blockchain, frictionless marketplace, everybody knows where it is. But for the more historical works, something might have been printed on paper forty years ago, or only exist on a VHS tape. Is Le Random also collecting the historic, non-blockchain works as part of the overall generative art story, or is it primarily focused on on-chain work?
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+
 MonkAntony: Great question, because we talk about this a lot. We aren't collecting those physical pieces from first-generation artists yet, largely because of the traditional challenges of collecting that kind of work—how do you store it, where do you store it, the outdated technology, that kind of thing. The Spalters, Michael and Anne—Anne is one of Le Random's advisors—are the gods in that corner of the market. One of the things we're doing is encouraging these pioneers to digitize their work and release it as NFTs. It's not that we're precious about whether work is an NFT or not—we see art as art—but NFTs enable frictionless transactions. So we're trying to encourage people like A. Michael Noll and Rebecca Allen to release their work as NFTs, partly just so we're actually able to collect it. Right now, that's mostly only possible through an NFT.
 
 Will: Continuing on the collection side, because it's fascinating—even though I know it's not strictly your role, I'm sure you can speak to it. You took on funding partly to build the platform, but I'd imagine primarily to build the collection. What does that look like as an organization with outside investment tasked with building a collection like this? What's the timeframe—a ten-year horizon, a twenty-year horizon? Are people putting in money knowing it could all go to zero? Obviously anything can go to zero, but what's the expectation in managing a fund of this size? You've done some very particular collecting—not just buying twenty of each Art Blocks Curated piece, but buying RGB #1, setting the record on the pink Zancan *Garden, Monoliths*. What's the strategy, and where do the returns come in? When you take in investment, there's got to be some expectation eventually.
-
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
 
 Trinity: And to pile onto that—just looking at how Le Random positions itself online, is it even a fund?
 
@@ -157,6 +171,8 @@ MonkAntony: No, we're not a fund, and we try to make that clear to artists. We'r
 Will: So Metaversal was a kind of founding partner, or has put money in—when an organization like that, or even private individuals, give money, is it considered a donation? I'm trying to wrap my head around this: there's no horizon, you're building a collection, but people gave you money to do this—it's not a nonprofit thing, so it's not a donation, right? There has to be something written, though if you can't speak about it, that's fine, we can move on. I'm always curious when people are playing with serious money in this space and making big moves. Is it like, "we're going to sell this to a museum in twenty years, but until then we're just going to be good stewards and build the community and build knowledge"? If it's a difficult question we can move on, but it doesn't feel like a donation—it feels like people are investing, so there has to be some expectation of a return at some point.
 
 MonkAntony: The funds and institutions we raised from—we were very transparent that this was going to be long-term. They knew that going in, and they willingly invested at that time, knowing it's a company, but a company in it for the long haul. Whatever exit strategy or expected return there might eventually be isn't something we're worrying about in the short term. Right now, our goals are to build this historically significant collection and to elevate the space generally—in a way, decouple it from NFTs and show that it's part of the mainstream art world, not separate from it. It's part of art history, and we're trying to write that history through our collection and through our editorial branch.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Will: Maybe we should transition to the editorial side, then—what you're doing directly, bringing in that education piece. What's the plan for the first year or so? Right now the site is still under construction, more or less—there haven't been any major content updates. What's your vision for the first few years of the site?
 
@@ -170,6 +186,8 @@ The biggest thing I've been working on is a generative art timeline — basicall
 
 There will be about 800 moments in the timeline, divided into 10 chapters, which we'll release chronologically. Releasing it all at once would be too much information, so we're doing it chapter by chapter, starting around the same time as our full site launch, which will be up any day now — definitely by the time this airs.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 As for where we're going in the next year: a thread throughout everything I've described about Le Random is history. We want to provide a space where the community can better understand its past. But we also want to help curate the present — what amazing artists today are doing — and celebrate the future. That's what I want the editorial side to do: help the community understand its past, curate its present, celebrate its future, producing content that contextualizes where the space is and where it's going.
 
 We want to support artists in the space, but also reach the uninitiated with informative content that shows this is an art movement that will be written about in art history textbooks. It's not something that began with NFTs — in a way, NFTs are more like the end of a very long thousand-year story than any kind of beginning.
@@ -181,6 +199,8 @@ MonkAntony: Absolutely. Even prominent people in the space consider NFTs a kind 
 Will: That all sounds amazing. The 10 chapters thing would make for a great reading series on our show, Trinity — I don't know how frequently you'll publish them, weekly or monthly, but it'd be great for us to talk about those as they air. Is all of it going to be free, or is there a part of the site where content will be monetized or gated?
 
 MonkAntony: Everything will be free. We're not running ads on our site, there's no paid subscription. The timeline will be completely free. The goal is to get it into digital form first — it's so big and detailed. That said, we're definitely going to get comments pointing out things we missed, and we welcome that. This isn't meant to be the definitive account of every moment important to the history of generative art. It also won't only cover art history — it'll cover some history of mathematics and technology, as they relate to digital generative art.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Eventually we want to make it into a physical book too. We wouldn't give that away for free, but the goal isn't to make a profit — just to cover printing costs. We want to make something really high quality, inspired by Matt Delaurier's *Meridians* book, if you've seen those — those books are works of art in themselves. We'd want to make something like that for the timeline, but we'd probably have to cut it down, since the digital version alone is already about what a 400-page book would be, with no images. The digital version will always stay on the Le Random website, and it won't stop at 2018 or even 2023 — we'll keep adding 2024 and beyond, as new moments continue to impact the story of the movement.
 
@@ -194,6 +214,8 @@ I was talking yesterday with Gordon Berger, one of the early people who recogniz
 
 Trinity: We'll workshop it.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 Will: Yeah, thumbs down to "Bible," for sure.
 
 MonkAntony: There are some interesting connotations there, but we're excited about what it'll bring to the space. At Bright Moments Tokyo, TheFunnyGuys and I joined Seth Goldstein, the founder of Bright Moments, on a panel about the history of generative art. I made a poster with 10 moments from the timeline, 10 moments from the wider world, and 10 moments about Japanese generative art. Even that generated so much interest and curiosity about the history — and it was just 10 moments out of what will be around a thousand, about 1% of the project, in far less detail. Sotheby's has actually asked to use those 10 moments for something they're working on, so those will appear on their site too.
@@ -205,6 +227,8 @@ Will: Very exciting — I'm truly looking forward to reading this when it comes 
 Here's one that's not a typical rapid-fire one, but continuing on what you were saying about moments and eras: we're halfway through 2023, and you're chronicling the present as part of this too. What's the defining moment so far in 2023? What's the vibe of this year in generative art?
 
 MonkAntony: In terms of what we already have on the timeline for this year, we're seeing a lot more institutional interest in generative art. One example is the *Coded* exhibition at LACMA, which started back in February — *Coded: Art Enters the Computer Age*. I have the printed catalog for it, which has actually been another inspiration for the timeline. I think that's a key moment for generative art history this year, despite the fact that it hasn't always received great critical reviews — the New York Times panned it a bit, and other publications haven't always been positive. But critical panning is nothing new in art history, especially in this space — it's been going on for decades.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Some other big moments: institutions like the Pompidou, the Buffalo AKG, and LACMA acquiring NFTs for the first time. We see this as the year major institutions start taking the space more seriously — the auction houses started it, with Christie's, Sotheby's, and Phillips leading the way. That made sense logically, since the business side would be attracted by the extra capital the space could generate. But now seeing major institutions get involved is a huge and important step.
 
@@ -218,6 +242,8 @@ Trinity: Let's talk about MonkAntony. Where did the name come from?
 
 MonkAntony: That's a nod to my love of history -- not just art history, every kind of history. I watch documentaries, read books, listen to podcasts about it. It's always been an interest of mine, and I've always really loved Roman history. So MonkAntony is a play on Mark Antony, which isn't always obvious because a lot of people call me "Monk Anthony" with a TH. I've also always liked monkeys -- they've been my favorite animal. So it's that combined with the nod to Roman history.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 Will: Is that an old AOL username, or something you invented for web3?
 
 MonkAntony: Not an old AOL username -- that was probably something Weezer-related back in the late '90s. This is more recent, just from the past few years.
@@ -230,13 +256,15 @@ From that earlier generation: someone like Roman Verostko, Lillian Schwartz, Reb
 
 Trinity: Amazing.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+
 Will: Great names.
 
 Trinity: Next rapid-fire question: if you were stuck on a desert island for the rest of your life with one piece from your collection, what would it be? Or, if you could steal one from Le Random's collection. Let's start with your collection first, then you can steal from Le Random.
 
 MonkAntony: That's an interesting question. I'd probably choose one of those infinitely animating pieces -- I'm naturally drawn to them anyway. On a desert island I wouldn't want to get bored, and I think it'd be really cool to have something that keeps evolving. Maybe something like *Toxy*, *Defrag* -- I really like the painterly ones, the version 3s. So maybe a *Toxy* version 3, a *Defrag* version 3. Or, pound for pound, my favorite collection on fx(hash) is Robert Hodgins' *Growth* version 2. Probably one of those.
 
-[pool: Defrag | Defrag — toxi | ]
+[pool: Defrag | Defrag — toxi | | 3]
 
 Trinity: We'll give you that, plus an infinitely powered digital display.
 
@@ -250,13 +278,15 @@ Will: Let me think -- I wasn't prepared to answer this one myself.
 
 MonkAntony: Turning the tables here.
 
+[pool: Defrag | Defrag — toxi | | 1]
+
 Trinity: Love it.
 
 Will: Infinitely animating is cool. I'm tempted to say something like *Very Large Array*, since then at least you get audio too -- though you'd need to be able to turn it off and on, since sometimes you want to hear it and sometimes you don't.
 
 Trinity: There's *Toccata*.
 
-[pool: Toccata | Toccata — MonkAntony | ]
+[pool: Toccata | Toccata — MonkAntony | | 3]
 
 Will: *Toccata* could be a really nice one -- probably the right answer. The one I personally own isn't my favorite of the musical variations, but one that's right in that pocket, because it degrades. You'd want one that's on a weeks-long degrading process, so you have a nice way to keep track of time. I'll take *Toccata*.
 
@@ -270,6 +300,8 @@ Trinity: It doesn't have to be a castaway-style desert island -- it can have ame
 
 Will: Oh yeah, that would be a fun one.
 
+[pool: Toccata | Toccata — MonkAntony | | 1]
+
 Trinity: I forget what it's called.
 
 MonkAntony: *Proxima*?
@@ -281,6 +313,8 @@ MonkAntony: Oh, I know what you mean, where every day--
 Trinity: The grasses grow, the trees grow.
 
 Will: I haven't checked in on that one in a while. Anything else you want to ask us? That's always our last rapid fire -- do you want to ask us any questions before we go?
+
+[pool: Toccata | Toccata — MonkAntony | | 1]
 
 MonkAntony: I think content creators need to stick together. I'd love to talk to you sometime in my capacity at Le Random and interview you too, learn more about you. I know you've been on other podcasts recently, but something written, or just talking about you in that space, would be really cool. I don't think anybody knows this fx(hash) community better than you two, and I think it'd be great to have you on, or speak with you and publish it in some capacity.
 
@@ -294,6 +328,8 @@ Trinity: I'm down for that too. I think it's all about creating that history. We
 
 Will: We're conscious of it. We talk about it every now and then on the show -- that we view this as a way to capture this entire moment. That's one of the greater purposes of the show. It's not just about getting out alpha and talking about markets -- that's part of it, sure, because we're doing NFTs -- but we've had amazing guests, and we're proud of that.
 
+[pool: Toccata | Toccata — MonkAntony | | 1]
+
 MonkAntony: You should be. And what you've done with fx(text), those weekly write-ups going over the drops -- that in itself could become a book someday, because it documents, week by week, what's been happening on the site. That's important. And I'm excited to finally meet some of the fx(hash) team in Lisbon for NFT NYC.
 
 Will: Sadly, we're not going to that one.
@@ -306,6 +342,8 @@ Trinity: We're here for it.
 
 MonkAntony: It'll happen for sure.
 
+[pool: Toccata | Toccata — MonkAntony | | 1]
+
 Will: Anything else we missed, or should we wrap it up? Anything you want to plug that we should be looking forward to?
 
 MonkAntony: By the time this airs, lerandom.art will be up -- the first chapter of the timeline, the first four editorials, a bunch of artist profiles we wrote ourselves, and our entire collection. TheFunnyGuys will be at NFT Day Zurich and on a panel at NFC Lisbon doing the fx(hash) curation, so look forward to that tiny bit of our timeline. Sotheby's is also going to be putting it up on their website. And we've got collabs planned, like with Bright Moments and whatever the next city is -- Buenos Aires. Some exciting stuff planned for that, so stay tuned.
@@ -317,5 +355,7 @@ MonkAntony: Thank you so much for having me. I'm such a huge fan of both of you 
 Will: Of course.
 
 Trinity: Thank you.
+
+[pool: Toccata | Toccata — MonkAntony | | 1]
 
 Will: That's the interview -- that was MonkAntony. Thank you for joining. Hope you all enjoyed it, and we'll be back soon with another episode. Later.

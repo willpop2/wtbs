@@ -72,7 +72,7 @@ There was never a good financial reason for me to get back into this, ironically
 
 I really started writing after collecting those 40 pages of notes, earlier this year. Even before that it was always on my mind -- I kept thinking, damn it, this is getting away from me, this is going to be too late. By the end of last year I was thinking the market's no longer what it once was, this is losing its relevance. I had two partner generative art projects planned to release alongside the essay -- *Catalog* and *DVD Screensaver* -- generative projects that critique the generative art paradigm in some way. I wanted to release the essay alongside them as a triad that makes sense of my body of thought on this. I finished those two projects but not the essay: *Catalog* came out in December of last year, *DVD Screensaver* in March of this year.
 
-[pool: Catalog | Catalog — Kevin Esherick | ]
+[pool: Catalog | Catalog — Kevin Esherick | | 3]
 
 Then I had a show come up with Expanded in Berlin at their physical gallery, releasing my collection *In Utero*, and opportunities kept crowding out the essay. On the writing front, I worked with Lily Iloh on an essay about her collection *Plans for Future Forms*, which took up my writing bandwidth for a time. Before that I wrote the *MangleCore* essay. Finally, *In Utero* opened in Berlin, I came home, made the space to sit down and write the essay from all those notes -- and I almost didn't release it. I looked at it and thought, I don't know if I want to put this out anymore, I'm almost embarrassed, it feels so late. But I'd put so much work into it that I figured, whatever, send it out there. If people think I'm slow on this, fine, I'll add a note explaining what happened. I'm glad I put it out -- it was very close to not being released, but I didn't want all that work to be for nothing, and I thought there might still be people who felt the way I did and needed to see their ideas articulated. It seems to have resonated -- a lot of people felt it put words to something they hadn't previously been able to express.
 
@@ -86,6 +86,8 @@ Will: It definitely spoke to a lot of things we've talked about on the show, and
 
 Kevin Esherick: Yeah, which maybe I should have drilled into more. In the wake of this, a lot of people have been wary of speaking about "the market" as this big bad monster. The idea wasn't to deflect blame from any party in particular, but to point to everyone as complicit. When I say "the market," I mean everyone's a part of that, rather than no one being part of it. Markets serve as what I'd call blame-deferral devices — everyone is complicit but can deny it by saying, "these are just the rules of the game, this is how you play." A lot of the backlash at me has been people saying artists are just trying to make their bag, blame the collectors. But you could equally say collectors are just trying to make their bag — they have families too, they need to put bread on the table. If they're flipping, that's their prerogative. Everyone exists within the formal structures of this game we've created and is playing their rational part in it. That's why I'm trying to call into question the structure as a whole, and the way its rules cause the parts to interrelate. When I say "the market," I mean the collectors, the artists, the platforms, the spectators, the podcasters, the think-piece writers — how we all contribute to that cycle, and where we can step in. I don't believe in a fatalism that just says, "that's the way the system is, what are we supposed to do about it?" Let's buck back. Put some new ideas out there, make shit happen.
 
+[pool: In Utero | In Utero — Kevin Esherick | | 1]
+
 Will: What are your hopes, then? From our side, it seemed like when the market slowed, we saw a moment where some artists scrambled — jumping to this chain, that platform, "I'm gonna try this" — chasing the money as it rotated around, most recently into Ordinals and Bitcoin, or cleaving off entirely: "I don't do code anymore, I do AI, because AI is selling like crazy." It might be easier to make a name that way. There was definitely a subset who let the market dictate their practice entirely, without much intentionality. But others went the opposite direction — "the market sucks, I have to be more precious about what I do," taking the time to sharpen their coding skills or think bigger picture, making projects that are generative but also have meaning, not just something pretty. In these last two years, have you found more hope for the space than what came through in the essay?
 
 Kevin Esherick: I think so. I have a default critical brain, especially with fine art — really art in general, but fine art is a medium where it's hard to make something that really hits people. If 25% of art pieces connect with me, maybe 40% of songs do. Music feels like a more accessible medium than fine art in a certain sense. So there's always going to be a proportion of the work being shared that I just don't fuck with. That proportion within our space has probably gotten higher, though I haven't run any actual analysis on that.
@@ -97,6 +99,8 @@ But we're maturing. It's an early space, and both collectors and artists here, m
 But we're growing on that front. Part of the hope with the essay — I don't want to say I'm trying to scare people, but I do want there to be a bar held for people. I want people to create and share freely, but I also think it'll be better for all of us if what we reward financially — what we're legitimizing, what we're communicating to the rest of the world — is the really high-quality stuff that's going to last. Some art holds up better to the test of time than other art. I hope the essay can help catalyze people to feel held to a standard in rewarding that.
 
 Will: Listening to that — and maybe to make the music analogy, since we're about the same age — there are bands we grew up with and really liked, and then you dig back into '60s, '70s, '80s stuff and go, "oh, wow." Like, take an example—
+
+[pool: In Utero | In Utero — Kevin Esherick | | 1]
 
 Kevin Esherick: Yeah, give me one.
 
@@ -110,6 +114,8 @@ Kevin Esherick: Totally. Let me clarify that briefly because it was misconstrued
 
 Will: I want to ask, for the collectors listening -- not for you to prescribe anything, but for your own personal taste -- how do you discern this? When you see something with obvious historical reference points, how do you decide it's original even though it isn't new?
 
+[pool: In Utero | In Utero — Kevin Esherick | | 1]
+
 Kevin Esherick: I read the description first -- though hopefully the work says something to me before I get there. Another place I think people are misreading me, or I'm miscommunicating, is when I say I want heavy conceptual works. People hear that as "works that don't move you or make you feel something," and it's quite the opposite. This is a counter-Duchamp gambit, and I may have only left this in a footnote -- a lot of people don't read the footnotes. I want everyone to know I write my footnotes to be read. To me, the essay isn't complete without them. I understand the nature of a footnote begs to differ, but they're down there because they don't fit the flow of the essay, even though they're almost equally informative to the point I'm making.
 
 Duchamp talked about the retinal versus the conceptual. He felt that in his time, art had erred too far toward the retinal -- visual art that merely delights people without real meaning behind it. So he went to the polar opposite, doing the most abstractly conceptual stuff possible. He called a urinal a work of art and changed 20th century art largely on account of that. I think his actual intention was to get the world to land somewhere in the middle -- I'm not sure he realized how big an impact those gestures would make, at least early in his life, from my reading. He wanted to find a balance between the two, and I want to find what I call "consummate art" that marries the retinal and the conceptual -- that hits you in the face with beauty when you see it.
@@ -121,6 +127,8 @@ I think this is common enough in art, like in argument -- I call it "persuasion 
 I think similarly, from my philosophy background, I really came to detest people invoking Descartes to make their argument, or Kant, or Wittgenstein if they really want to sound smart. Just make your argument from the principles -- don't talk about what some dude a few hundred years ago said about it. It's so often used as a crutch, a way of showing off your references and your reading of the primary text instead of actually reasoning. It's generally just a weakness of the argument itself, lacking a grounding in first principles, instead building off of someone else. I value philosophy for the exercise of working from foundations upward and building a cogent system from there. Similarly in art, you should have an idea that's valuable in and of itself -- and when I say idea, that may just mean an emotional impression. I'm using the word fairly liberally here. I don't have a rubric for it.
 
 That said, I did use references in my latest work, the AI performance piece I have ongoing right now called *The Artist Is Absent*. The title is a reference to Marina Abramović, who has a performance piece called *The Artist Is Present*.
+
+[pool: In Utero | In Utero — Kevin Esherick | | 1]
 
 Will: The idea—
 
@@ -134,11 +142,11 @@ Kevin Esherick: Which is still way, way less than it was in 2021. Still way low.
 
 Will: Right, if this is its 2021 moment, it's nowhere near what that was. But I want to invite you to talk about whether you feel AI art, or this particular genre, is more insulated from the issues you've pointed out in generative art. From my perspective, it's like, okay, we've got MangleCore on the beach, MangleCore in the town, MangleCore in the car -- and there's nothing to me there. I know this will offend a lot of people, but it feels kind of empty in a lot of ways. It's just the machine making something look weird, and people assign value to it because there's an extra finger or an extra eye. So what? Tell me, Kevin -- what are you liking about it? What do you feel is so promising about it? And are you afraid of it becoming overdone, since it can be infinitely made, just like generative art? It's arguably a discipline of generative art in some ways.
 
+[pool: In Utero | In Utero — Kevin Esherick | | 1]
+
 Kevin Esherick: Yeah, depending on how we're scoping that term -- for the sake of the essay, I drilled in on a very specific meaning: long-form algorithmic generative crypto art. That term itself is a contentious matter people are wrestling with right now.
 
 For those who don't know, MangleCore is a term I've used for a genre of AI art that is, at least historically, a byproduct of the shortcomings of AI models -- especially early on with DALL-E 2 and early Stable Diffusion. When those models handled human or animal figures, they produced these really distorted forms -- extra fingers, extra toes, messed-up faces. A mangled, distorted look to the human figure. I wrote that essay back in February, and even since then the market has changed substantially. March through May we saw a lot of projects released under that umbrella. As with most art forms, I still don't like most of it. Not all AI art is MangleCore, and AI art more broadly is having a moment right now -- which holds true for some MangleCore work too. My favorite MangleCore piece released this year was Thomas Noya's *Total Recall*, which you mentioned.
-
-[pool: Total Recall | Total Recall — Thomas Noya | ]
 
 Will: We've mentioned it a lot -- we did a project with Thomas, he's a friend of the show, he's been on the show. But that one, I could see what he was trying to do and what he was trying to comment on. Whereas with some others, it just feels like weirdness for the sake of weirdness, and people are losing their minds over it.
 
@@ -147,6 +155,8 @@ Kevin Esherick: What do you get from Thomas's piece? What do you like about it?
 Will: I thought he captured the voyeurism that comes with celebrity, and being the subject of images constantly being captured. It was also interesting that he used the fact that the model probably has so many images of that particular celebrity -- Tom Cruise -- that he was able to create something so accurate. The models really aren't supposed to let you do that, so it's testing the boundaries, pushing them to do things they're not supposed to do. In this case, getting an almost one-to-one, pristine resemblance of him. And the choice to go nude or near nude with it was really interesting too.
 
 Kevin Esherick: I think it's also just a funny project.
+
+[pool: Total Recall | Total Recall — Thomas Noya | | 1]
 
 Will: It was also very funny. I think it started that way, but it's interesting on a lot of levels, even though it's not as conventionally beautiful on its face as some other work that's been made. In the wider AI landscape, I immediately hit on a couple things and thought, okay, I see what he's trying to do here, I can see intention behind it. Whereas with some other things, I don't see as much intention, or it's not as evident to me.
 
@@ -160,6 +170,8 @@ But it's also more of a niche than generative art. After a certain number of pro
 
 So it has this natural propensity to say something meaningful about this moment in particular, and that's a product of its specificity. The specificity is both a strength and a weakness -- there's only so much that can be done with it, but it says something more pointed from the get-go. It can't be created in quite the same way algorithmic art can. With algorithmic art, you create your algorithm to produce a diversity of works, and once it's built, you can press render ad infinitum and make infinitely many pieces.
 
+[pool: Total Recall | Total Recall — Thomas Noya | | 1]
+
 It doesn't work that way with AI art, even though it has a similar generative nature where you can click to create. All of these works from Thomas's collection -- and basically any collection you'll see -- are handcrafted, requiring a lot of work beyond the prompt, beyond whatever control nets are used to structure it. It's still very much a hand-created piece, and with some literacy in how these works are made, you can feel that. It shows in the collection sizes -- for the most part we're not seeing anything touching 1,000 or 10,000 pieces. Some have pushed a little too high, and I think they should be wary of that.
 
 A lot of the stuff I've seen since I wrote the article wastes the genre's natural capacities -- doesn't use its unique characteristics to do something cool and meaningful, and instead it's just "distorted forms look cool." MangleCore cars, MangleCore streets -- that's become a trope. So in some ways it encounters many of the same risks as generative art; in others it escapes them. It's a different thing.
@@ -171,6 +183,8 @@ Will: What are you going to do if your artist LLM just starts cranking out Mangl
 Kevin Esherick: It starts with the idea. I don't want to say too much about where I'm at with the process -- I'm actually considering not telling anyone when the period is taking place.
 
 Will: Have we already started? Does the letter mark the beginning?
+
+[pool: Total Recall | Total Recall — Thomas Noya | | 1]
 
 Kevin Esherick: That's the question, right?
 
@@ -184,6 +198,8 @@ There's an idea I've been thinking about recently: conspicuous absence. I tweete
 
 Similarly, there's the painter Titus Kaphar, who has done paintings -- one of my favorites shows Black mothers braiding their daughters' hair, and one of the daughters is excised from the painting, just a white space left behind. That was really poignant to me.
 
+[pool: Total Recall | Total Recall — Thomas Noya | | 1]
+
 These two pieces are like a conspicuous absence mirroring Marina Abramović's conspicuous presence in *The Artist Is Present*, where the artwork was simply her presence -- she sat with people at MoMA. For those who haven't seen it, definitely worth looking up. There's a documentary, but also a short YouTube clip that's pretty touching -- it involves her former lover of many years, Ulay, with whom she had this insanely romantic yet tumultuous connection and creative partnership. He shows up, and it's pretty moving. I'd check it out. Anyways, the project was about sitting with this theme of an absence that's going to make itself known to us in the years to come. We're going to need to figure out some way to grapple with the significant changes it's going to bring to our society. For me, and I hope for a lot of other people, part of that is learning to fall in love with certain elements of our lives. If AI is coming for the things that make us useful, we might need to reconsider whether we need to feel useful to survive. Right now, feeling useful and productive to society gives a lot of people meaning — it gives me a lot of meaning. I feel valuable on account of being able to contribute to others' lives. That's true for so many people, and AI is going to undermine a lot of it. What makes me useful if AI can do the same thing instantaneously, twice as good, and in my voice, no less? If an LLM can write what I want to write in my voice ten times as fast as I can, then I'm cooked on a pragmatic front.
 
 It's going to become increasingly important to figure out what we truly love doing for its own sake, and to structure our lives around those things. Writing is one of those things for me — as much as I also hate it, I love the feeling of wrestling with these things in my brain and figuring them out for myself. Even if my LLM can write pieces better than I can, I think I'll still want to write the things on my mind, for the exercise of doing so. I think we're going to be looking at how to approach that question across our lives in many different ways over the next decade or so.
@@ -195,6 +211,8 @@ Will: Well, assuming you do pull it off and get a year off from truly creating, 
 Kevin Esherick: Are you a Hearthstone guy?
 
 Will: Oh yeah, we talk about it at the end of every episode these days.
+
+[pool: Total Recall | Total Recall — Thomas Noya | | 1]
 
 Kevin Esherick: I don't think I've ever played, but my cousin was into it a few years ago — he's a gamer guy, so I've watched him play. I remember some creature that reminded me of the *Stranger Things* monster, the Demogorgon or whatever.
 
@@ -208,6 +226,8 @@ Kevin Esherick: Yeah, more so, though it's been a minute. I was like seven when 
 
 Will: Satanic.
 
+[pool: Total Recall | Total Recall — Thomas Noya | | 1]
+
 Kevin Esherick: Yeah, I don't think they actually stopped us, but they were like, "yo, that's kind of sus." I never played it seriously — I think my older brother got more into that. I was into Pokémon as a kid, Yu-Gi-Oh for sure. Then video games: I had a big COD era, I was a RuneScape kid for a little while. I wanted to play in Call of Duty tournaments, actually — I was playing somewhat competitively. I always got told, "these are wasted hours, you're going to regret this," but I cherish the days in summer 2011 — or maybe it was 2012 — playing Black Ops for three hours a day. I look fondly on those times, being on game battles with friends, spending time with them. There was a real feeling of craft, of learning to develop a skill, that I still value. I'm not sure I'll ever return to a true video game era — I had a brief return with Rocket League at some point — but I'll play some Hearthstone with you.
 
 Will: We'll see. We'll get you on.
@@ -220,6 +240,8 @@ Kevin Esherick: When I say yes to that, it means I've had some free time to go p
 
 Will: All right, Kevin, I think we should wrap it up — I know we're at time. Thank you again for coming on, hope you had a good time. We'll link to all your work and writing below for anyone who wants to learn more about you and consider collecting. We look forward to seeing what you do next.
 
+[pool: Total Recall | Total Recall — Thomas Noya | | 1]
+
 Kevin Esherick: Appreciate it. Great chat — the time kind of flew here.
 
 Will: It does, right?
@@ -231,5 +253,7 @@ Will: I'll see you soon.
 Kevin Esherick: All right, thanks, Kevin.
 
 Will: Bye.
+
+[pool: Total Recall | Total Recall — Thomas Noya | | 1]
 
 Kevin Esherick: All right, peace. We're waiting to be signed.

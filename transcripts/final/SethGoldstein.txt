@@ -60,13 +60,15 @@ It so happened that the first artist we reached out to was Jeff Davis -- an amaz
 
 That leads into how we got started with *CryptoVenetians* and *CryptoCitizens*. We were preparing for Jeff's opening in the middle of June 2021. Venice Beach is a weird place, full of tourists and foot traffic, and we wondered: what do we do during the daytime to bring people to the gallery we'd just put down, at something like $10,000 a month in rent? It'd be great to bring people in the evening once a week for shows, but how do we keep the gallery busy during the day?
 
-[pool: CryptoVenetians | CryptoVenetians — Bright Moments | ]
+[pool: CryptoVenetians | CryptoVenetians — Bright Moments | | 3]
 
 The idea was to give away NFTs to people who showed up live, onboard them into Ethereum wallets, help them download MetaMask, teach them how to write down their seed phrase -- so they'd be ready when they came back to the art show in the evening to maybe buy something. It was a pragmatic, entrepreneurial marketing technique to drive foot traffic. As we thought about what kind of NFTs to make, we landed on *CryptoVenetians*, modeled after CryptoPunks -- characters with attributes drawn from the Venice Beach community. Since we were working with Jeff to prepare for his show, he said, "You could do these on Art Blocks. They could be generative."
 
 I said, "What do you mean?" He explained we could live mint these and reveal them on the spot -- people would send a token into the smart contract, and it would generate a unique one-of-one in real time. Lo and behold, in a few weeks we put the project together. We were the 95th project on Art Blocks -- they're all numbered.
 
 I'll never forget that late June, giving away these NFTs to people who showed up off the street because we had a sandwich board outside that said something like "NFT minting in progress" or "Come mint your *CryptoVenetians* for free." People would come in, we'd open up a wallet for them since most didn't have one, they'd walk to the back of the gallery, choose their walkout song, and walk out -- and voilà, we'd reveal their *CryptoVenetian*. Somehow that butterfly wing led to me being in Tokyo right now, about to put on this show.
+
+[pool: CryptoVenetians | CryptoVenetians — Bright Moments | | 1]
 
 That was the germ of it: seeing that very human experience of people minting generative art in real life. There was a real sense of wonder -- people were excited, partly because they'd been home for so long that they'd be excited about doing almost anything with other people. I think we really tapped into that. We brought two worlds together: all the online collecting and online degeneracy happening during the pandemic, the need for those identity tribes to form, and at the same time, people who were tired of being stuck inside and wanted to go out and experience things. Our timing was perfect.
 
@@ -76,7 +78,7 @@ Seth Goldstein: It started super local -- surfers, skateboarders, stoners, frien
 
 Then a couple of things changed. We had no idea of the global appetite Art Blocks had already built among collectors for its generative art drops. Every Art Blocks project before ours let people simply buy a token and mint a piece of generative art, whether they were in Switzerland or Singapore. Then, at the end of June or July, these Art Blocks fans started seeing these weird *CryptoVenetian* characters show up in their feed, and they thought, "I want one of these -- I have a *Fidenza*, I have a *Ringer*, I have every other Art Blocks project." Then they realized they couldn't buy one directly on Art Blocks -- they'd actually have to show up at this weird gallery in Venice Beach. A lot of them couldn't travel, so they looked on OpenSea, and I'm sure some of the surfers and skateboarders figured out how to list their *CryptoVenetians* there.
 
-[pool: Fidenza | Fidenza — Tyler Hobbs | ]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 3]
 
 I'll never forget: one sold for $300 -- 0.2 ETH, or 0.1 ETH, whatever it was at the time. It just shocked us. Wait a minute, what's happening here? It was like watching market structure form from the inside of the belly of the beast -- seeing this weird market take shape where there was real demand. Particularly overseas. There was supply from these crypto mules who were minting NFTs and then selling them to people thousands of miles away to pay for their rent — it was bizarre, a bit like *Willy Wonka and the Chocolate Factory*. Then I remember Bob Iger, who was CEO of Disney at the time, showed up one day through a friend of a friend and minted a *CryptoVenetian*. All hell broke loose, it got super hypey, we had a 2,000-person waiting list, and more and more artists and collectors were flying in to mint their *CryptoVenetians* because it was a cool project.
 
@@ -86,7 +88,7 @@ We thought, what if we made 1,000 *Crypto New Yorkers* and went to New York in t
 
 That's when the mint pass concept emerged, very pragmatically, because we'd given away all the *CryptoVenetians* for free — we never sold them. But there was so much interest that we said: what if we mint 1,000 *CryptoNewYorkers* and sell mint passes for 200 of them in advance to pay for us to go, like, Muppets Take Manhattan? We rent a gallery, put on shows. Sure enough, we listed 200 mint passes — I think we called them golden tokens at the time — and sold them for 2 ETH each. ETH was close to $3,000, so that was more than a million dollars. We went to Manhattan, rented a gallery on Wooster Street, subletted apartments for a few months, and pretty much all of us headed to New York.
 
-[pool: CryptoVenetians | CryptoVenetians — Bright Moments | ]
+[pool: CryptoVenetians | CryptoVenetians — Bright Moments | | 1]
 
 Good things started happening just because we were genuinely enjoying what we were doing, and we were so dedicated to this craft of IRL minting and revealing NFTs on big screens that other artists started to take notice. People like Aaron Penne and Tyler Hobbs came to us and said, I've got a project I think would work really well in a live setting. That's what led to *Rituals* with Aaron Penne and Beretta when we were in Venice, and it's what led to *Incomplete Control* with Tyler Hobbs in December of 2021. Before we knew it, these crypto citizens we were minting became like a passport to other forms of generative art we were exhibiting for third-party artists, not just ourselves. That became our model.
 
@@ -96,13 +98,15 @@ Will: Seth, I have about a million follow-ups. Just to start with a statement: I
 
 Seth Goldstein: Let's start with the through line, because I'm so close to it that it's hard to see, but I think you're right — there's a line from trying to archive art that's unarchivable to helping artists put their art on-chain. I hadn't really thought of it in those terms before. We'll probably get to this later, but there's a huge, wonderful struggle happening around AI right now too. Jumping to the endpoint: AI art is the sharp tip of the spear of crypto art and NFT art. How do we — and who is going to — ensure that this explosion of generative AI art becomes future-proof the same way *Fidenza* is future-proof, or *Meridian*, or Zancan's work, for that matter? There's a way of looking at all this through archiving and preservation that I think is really important — it's something Artnome is thinking a lot about too, just preserving NFTs that could go away, which people don't realize is a risk.
 
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
+
 The other thing you touched on: for creative people, there are times we're comfortable and times we're uncomfortable. I found my fit as an entrepreneur and creative professional in this world of generative on-chain art and bringing it into real life. The 30 years before that, I always felt a bit out of place, because traditional structures separated the art world from the technology world. What's so liberating right now, regardless of supply-demand dynamics or whether Ethereum and Tezos are up or down, is that there's a real symmetry between art and technology — they know they need each other. The most successful artistic projects have figured out how to become self-sustainable by doing smart things with tokens, and the most successful technology platforms and products are proving they need to be genuinely creator-friendly.
 
 Trinity: What are some examples of art projects using tokenization successfully? This speaks to the corporatization of the art space too, which isn't a bad thing — it's always been necessary, just expressing itself in new ways. I assume you mean something different from a typical PFP roadmap project?
 
 Seth Goldstein: Right. I'd point to what Tyler Hobbs has done across a number of his projects on Art Blocks, especially *QQL*. *QQL* isn't a company, and it's not just a piece of art either — it's not quite a platform, but it has aspects of all three. There's a very sophisticated set of dynamics aligned through the tokens — those 1,000 *QQL* mint passes, a couple hundred of which have been minted into *QQL* NFTs — that pulled together a lot of different constituencies: parametric artists and collectors alike. Pace, on the traditional side, has been helping showcase his work; Artmatr helped print the *QQLs* Tyler chose into 4-by-5-foot paintings; and Bright Moments was even involved a couple weeks ago in New York, helping people live-mint their *QQL* seeds. There's a lot to unpack, but to me that's a genuinely successful tokenized art project — more artistic than most startups, and more successful than most art projects.
 
-[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | ]
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 3]
 
 Trinity: It's the culmination of both.
 
@@ -116,13 +120,15 @@ Will: Yes, correct.
 
 Seth Goldstein: That touches on something I think is great about *QQL*, and about what Zancan just did with fx(hash), and honestly what we do at Bright Moments generally: combining the purely online, tokenized, transactional world with real-world social dynamics and pressure. I had a *QQL* mint pass I was holding onto because it never expired, and there's no — what's it called, the Harbinger tax —
 
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
+
 Trinity: Harbinger tax.
 
 Seth Goldstein: Harbinger tax, sorry, I was close. *QQLs* don't have that, so one issue is there's no incentive to mint — why not just sit on the optionality of the pass? It becomes too speculative. But when Pace puts on a show, and at a certain time in New York, Tyler is available to sit with you as a collector and go through your seeds, help you choose, and then you reveal those choices together with other collectors at the Pace Gallery in Chelsea one evening — that's a really interesting example, similar to the social context you felt minting the *Charcoal Seed*. We need these real-world experiences and physical frictions to make crypto more successful, make NFTs more successful, and make generative art more useful, memorable, and meaningful. It's not a choice between physical or digital — they're starting to resonate and reinforce each other in really interesting ways.
 
 Trinity: Sitting with Tyler Hobbs in person to mint your *QQL* seed obviously isn't a scalable event, putting my business strategy hat on, but something like what fx(hash) is doing with fx(params) is. It helps when there's that social pressure, or social camaraderie, to really drive it forward. But ultimately what you're pointing to is interactivity. A lot of what we've seen in generative art has just been: click the mint button, get a random output. It's very dopamine-heavy in its execution, but you don't have agency within that. Adding agency, some kind of interactive experience — like going to an in-person Bright Moments event to mint your pass — that's what makes it feel human.
 
-[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | ]
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
 
 Seth Goldstein: There's probably a lot of attachment theory work to be done around this. Of all your fx(hash) mints, if you had to choose one or three to hold onto — if you had to let go of everything else on a desert island — what would they be? It's not necessarily the one worth the most based on current floor price. It's the one most meaningful to you. That might be purely economic, but it might also be about where you were in your life, how quickly you found out about it, how well-known the artist was when you minted it. There's a whole bunch of factors in how you value something, and value it as part of your identity — partly economic, but also emotional and social. What's your story, and what's your own roadmap as a collector and as a person?
 
@@ -132,7 +138,7 @@ Trinity: That sense of the word "scale" — there are different ways to think ab
 
 Seth Goldstein: Inclusive and participatory. I think the trick is creating experiences that are inclusive and participatory, but also valuable — valuable in terms of scarcity, because a lot of what drives value in crypto is programmatic scarcity. If you woke up tomorrow and, back to Tyler Hobbs, suddenly there were 1,001 *Fidenzas* instead of just 1,000, the value would plummet. Or if there were suddenly more than 21 million Bitcoin, or more than 10,000 CryptoPunks. We hold these things dear as stores of value in a world where we don't trust the news, we don't trust governments, and inflation is rampant. So how do we balance the need for certainty and provable scarcity with not wanting to be so exclusive, so elite, and giving people the opportunity to get involved at the ground floor?
 
-[pool: Fidenza | Fidenza — Tyler Hobbs | ]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
 Will: I want to tackle this scale question from a different angle — something we've been observing on the show recently, and I think a lot of people in the NFT and gen art ecosystem have noticed too. Coming off the boom of 2021 and early 2022, a lot of people got the idea to start a platform — they saw the success of Art Blocks, fx(hash), Bright Moments, and a few of the other early DAOs in the art mix at the time. Now in 2023, so many new things have opened up: many chains, many platforms, artists all over the place. So we're seeing scale in the sense that there are all these new platforms for artists to drop on, but we're not seeing scale on the collector side. An fx(hash) artist I love is now dropping here, there, and everywhere, but I'm still just one person — there aren't four more of me being created. As someone who's been in the space a long time, involved in crypto, and who owns a platform, how have you observed this last eighteen months of rapid expansion, now heading into a bear market with all these new platforms coming online? What's your take on the vibe of the ecosystem now, its sustainability, and where things are going?
 
@@ -146,11 +152,11 @@ Circling back to whether there are too many platforms — it's another "be caref
 
 Bright Moments' role is to give artists opportunities to showcase their work publicly and create really meaningful emotional experiences. But after that, it's on you — we don't have an ongoing contractual relationship the way a typical gallery might. So it's challenging right now. Some artists are more private and precious with their output than others. Some are coding and showing their work daily but not minting it. Others are minting on every platform they find.
 
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
+
 Trinity: We're also seeing, within Web3, the proliferation of new artists entering the community. One of the big benefits of Web3 is that your audience is no longer local — although having that locality, like with what you're doing at Bright Moments, is super special. But you're also opening yourself to a global audience who want to purchase your art, sell it, print it out, put it on their walls, whatever. Because of the financialization in this space, at least as it exists now, there are people producing art who would never have produced art before. One person who's grown tremendously as an artist, from their first release on fx(hash) through to their Bright Moments drop, is Nat Sarkissian. He's not someone who's been producing digital art since '93 or '94. It's an interesting dichotomy — seasoned professionals who've been doing this for decades alongside people who've been doing it for months or years.
 
 Seth Goldstein: Those are some really powerful, positive outcomes of all this — seeing Nat in particular be seen. I'd seen some of his work on fx(hash), and then Adam from TENDER helped curate part of the gallery when we did Piter Pasma's *Industrial Devolution* drop last September. Nat's work looks so beautiful printed out. He was there, and we talked about doing something together in the future on Art Blocks. He came to Mexico in November, experienced the workshops, saw the live minting, and then we worked with him on his show this past February.
-
-[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | ]
 
 Trinity: That's one of the first ones I paid a lot of attention to, because Nat is a homegrown fx(hash) artist, and Will and I are both fx(hash) natives, for what it's worth. I think that was a huge moment for him too — being there, seeing things in person. It's almost like a birthday and a brand-new job all in one, a celebratory event.
 
@@ -158,7 +164,7 @@ Seth Goldstein: A lot of these artists — Emilie Xie is another — really came
 
 Will: I want to talk about Japan, and about the future of Bright Moments — there are still a few cities left on your roadmap, and I want to get into that. But first: you mentioned Tezos' *Industrial Devolution* with Piter Pasma. More recently we had *Klein Tepech* from Andreas Rau, and just last week *Reflejos* from Juan. How do you think about Tezos versus Ethereum? Are you chain-agnostic? Does it mean anything different to Bright Moments when a piece goes on Tezos versus Ethereum, or is it just art first, chain second?
 
-[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | ]
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 3]
 
 Seth Goldstein: It depends on the moment, it depends on the artist — we've gone both ways. With Nat, for example, he was really well known in the Tezos and fx(hash) community, and we did an Art Blocks drop. We did the same with Jacek on *Cantera* last month. What's interesting about Juan RG and *Reflejos* is that when we worked with him in Mexico it was an Art Blocks drop, and now we just did an fx(hash) drop with him in Mexico. Last week or the week before, here in Japan—there's a couple of artists that are amazing Tez artists, like Okaz and Exotic, who did—
 
@@ -166,7 +172,7 @@ Trinity: *Flower Arrangement*?
 
 Seth Goldstein: *Flower Arrangement*. And the other one, the sci-fi one.
 
-[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | ]
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 3]
 
 Trinity: *Travelers*.
 
@@ -180,6 +186,8 @@ Trinity: Why is that important to you? Obviously it's the on-chain-ness of it al
 
 Seth Goldstein: Then there's the elephant in the room: AI. How do we move AI on-chain, and what parts of it move on-chain and what don't? How do these models live? Can we recreate the works in the future without access to the models on-chain?
 
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+
 Will: There's a great fx article on this exact problem—that even the most on-chain projects are not as future-proofed as you might think. I think it's going to be a perennial issue regardless of whether you use IPFS or reference outside libraries.
 
 Seth Goldstein: I think it's a way for people to sleep at night—some of that going on is just emotional or mental insurance. But at the same time, William Mapan did *Strands of Solitude* on Tonic, and that's not particularly on-chain, but he's an amazing artist. It's hard not to want to collect all of his work.
@@ -191,6 +199,8 @@ Seth Goldstein: It's very near and dear to us here in Tokyo. We have four collec
 Then we have the Tokyo Collection: 11 generative artists, all fully on-chain on Art Blocks, including quibibi—his first ETH Art Blocks drop—Takuo, Kim Asendorf, Jeff Davis, Licia He, Kjetil Golid, Lars Wander, and Melissa Wiederrecht, who I know you had on the podcast before. An amazing lineup, all fully on-chain. That'll be in a historic shrine called the Asakura Residence, about ten minutes from Digital Garage, where we'll be minting the CryptoTokyoites.
 
 We'll also be exhibiting the AI collection: 11 AI artists, and 11 Japanese contemporary artists, including Okaz, Exotic, Ei Mashiro, and Daito Manabe, among others.
+
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
 
 The AI artists are a really interesting test case for this on-chain/off-chain dynamic—does it matter, does it not matter? On one end of the spectrum you have Helena Sarin, who is 100% curating her outputs. She's not leaving it to chance. She's using models she's trained for years, and they're not going to move on-chain—they're not going to fit on-chain, and there's no issue with that. On the other extreme you have Pindar Van Arman, who's writing his own smart contract to make sure his GANs are fully on-chain, because that's what he wants to do. Then there's Claire Silver, Sofia Crespo, and others somewhere in between.
 
@@ -204,6 +214,8 @@ It's a lot to coordinate. We have people like Malta and Fed on our team who work
 
 Trinity: Logistics aside, this is probably one of the most ambitious Bright Moments events to date, both experientially and in terms of the artist lineup, which is just absurdly amazing. What was the thinking behind bringing this group together?
 
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+
 Seth Goldstein: It's absurd. I'll go back before Mexico. We didn't know it was going to be Tokyo, because we vote as a DAO—everyone holding a CryptoCitizen gets a vote. There will be 7,000 after Tokyo; 6,000 have been minted so far. Everyone votes on the next city. For this vote, the choices were Tokyo, Singapore, Seoul, Bangkok, and Hanoi. Buenos Aires won the vote before that, over Sydney, Melbourne, Rio, and São Paulo.
 
 We didn't know for certain it would be Tokyo, but I had a hunch. So last fall, the artists who really resonated with me—artists we hadn't worked with before that I felt were really important to reach out to—were Zancan, quibibi, and Kjetil Golid, all on the generative side. Kjetil had come through London last summer and minted a Crypto Londoner—I think that got the wheels turning. Zancan also came through London and minted a Crypto Londoner while he was there for Proof of People. He had that experience of sitting in a boutique in Mayfair, across from the Browns Hotel, having a cup of tea while we minted him his Crypto Londoner with on-chain generative music—compressing a beautiful experience into a couple of seconds.
@@ -215,6 +227,8 @@ We try to work with new artists each city, so the Tokyo Collection artists are u
 On the AI side—this was fascinating—we had a strong hunch we should do something with AI more systematically. We'd done a project with Ivona Tau, and one with Botto in Berlin working through AI outputs. We thought: we're going to be in Tokyo, the city of the future, so it seemed natural to do something at a bigger scale alongside the generative artists in the Tokyo Collection. Why not invite a group of artists to be part of an AI collection? We reached out to our wishlist—the greatest living AI artists we could think of—and invited them to Tokyo. By and large, they all said yes, which kind of shocked us. That's really how it happened. There are other artists, like Gene Kogan, Memo Akten, and Robbie Barrat, I'd love to have involved—I just didn't invite them because we already had 11 who said yes first.
 
 Will: We've interviewed Ivona for the show too, so listeners should go back and check that episode out—she's released some great projects on fx(hash). But Seth, I'm curious about the future of Bright Moments. You've mentioned a couple times now that presales of CryptoCitizens or mint passes are key to setting up these events worldwide. The roadmap says there will only be 10,000 CryptoCitizens total—so that's City 8, 9, and 10 coming up, concluding sometime Q1 or Q2 next year. What's the longer-term roadmap for Bright Moments? Once all the CryptoCitizens are minted, is it going to be fully DAO-controlled by these 10,000 holders? What will fundraising look like—entirely mint-pass driven? How's it going to work?
+
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
 
 Seth Goldstein: All good questions. What we know is Tokyo's next, Buenos Aires will be October—we voted on it. City 9 will be February, and it'll be a wildcard: 8,000 citizens will vote on where we should go next. It could be a write-in ballot. Up until now we've arranged the choices geographically, but for the ninth city, I could imagine it being Paris, Lisbon, Sydney, or Istanbul.
 
@@ -228,6 +242,8 @@ The idea is that after the tenth city, after minting is complete with the *Crypt
 
 Trinity: It's beautiful, and the end of an era, so to speak. It'll be interesting to see what comes next — not from a subDAO or DAO perspective, but from a Seth perspective and a Bright Moments perspective.
 
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+
 Will: What is Seth's role in all of this when all 10,000 *CryptoCitizens* are done? Did you build this entire platform just to step back and give it to the people? That's such an unusual path for a startup.
 
 Seth Goldstein: It's hard to say this in a world where we're so used to pretending we're going to do things forever. To raise capital traditionally, you have to say you're going to do it forever, even though in the back of your mind you know you'll only be judged successful if you exit. What's liberating about what we're doing is that it's an art project — it's designed for completion. That doesn't mean there won't be value that accrues to *CryptoCitizen* holders in the future, because there will be. It's not because we're some traditional Web2 company with Series C funding dressed up in web3 clothes. All we are is a bunch of *CryptoCitizen* tokens — that's the only mechanism we have to govern what we do. There's no other equity, no board of directors. In that regard, it is an art project, and it is going to come to an end, and that's okay.
@@ -239,6 +255,8 @@ Will: What you described sounds, to some degree, very much like a podcast to me.
 Trinity: I was going to say a TV show.
 
 Will: A project with no defined ending. You have no idea where it's going to go or who's going to care about it. That mirrors our experience doing this show for the last — what, sixteen, seventeen months now.
+
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
 
 Trinity: But we'll keep putting out episodes and episodes and episodes.
 
@@ -252,6 +270,8 @@ Trinity: It's so antithetical to the proto-capitalistic structure we see ourselv
 
 Seth Goldstein: Thank you. I know you couldn't come to Tokyo, but maybe Buenos Aires or Jersey City along the way — I'll be there.
 
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+
 Will: Jersey City, I'm writing it in. You said there's going to be a write-in — I'm writing it in for city nine.
 
 Seth Goldstein: Two votes for Hoboken.
@@ -263,6 +283,8 @@ Seth Goldstein: Matt DeLaurier is wonderful, thoughtful, pretty extraordinary. T
 Trinity: We had Marcelo on with Andreas Rau to talk about *Takata*.
 
 Seth Goldstein: I got the chance to interview the two of them on stage in Mexico — really wonderful, just the way that as partners they explore each other's struggle through their work. James Higgo is amazing, so well-versed across both fx(hash) and the AI and Art Blocks ecosystems. Derek Edwards does the podcast with Proof with Kevin — he's probably the smartest counsel I have access to strategically for Bright Moments. They're big contributors in our community of *CryptoCitizens*, and he really helped us through this roadmap with his partner Stephen McKeon. He's obviously way more versed in the Art Blocks ETH ecosystem, since he was one of the first investors in Art Blocks, but I think it'd be a good perspective for the fx(hash) community to understand where things stand on that side of the equation. Those are the ones off the top of my mind.
+
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
 
 Will: A lot of people who haven't dropped on fx(hash), so it gives us an excuse to reach out to them and try to get them to notice us. It's a big goal of ours for 2023 and beyond — to engage with the broader generative art ecosystem, because it's clear not everyone's going to come to Tezos, even though we'd like them to.
 
@@ -276,6 +298,8 @@ Will: Anything else, Seth, before we depart? You've given us a ton of your time 
 
 Seth Goldstein: Only that for anybody interested in Bright Moments Tokyo — it's open for anybody. It doesn't mean you're necessarily going to mint something, since you need a mint pass for that or have to buy an NFT. But if there are listeners in and around Tokyo, Friday, May 5th through Wednesday, May 10th, we're at Digital Garage. Come to brightmoments.io for information on how to show up — we'll have general admission tickets. We're having a final show at an amazing nightclub in Shibuya called Womb on Wednesday, May 10th, where all 4,000+ NFTs that have been generated will be shown over the course of one night, VJ'd by Beretta and Daito Manabe and an amazing group of DJs — it'll be spectacular. Above all, if anybody's interested and not sure if they can come: the answer is yes, please come, please check it out, because we're not going to do this again. I think this will be peak Bright Moments, and I'm really excited for it.
 
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+
 Will: And the Venice location, like Venice Beach — you have a place in New York too, right? Are there other galleries people can drop by whenever they feel like it?
 
 Seth Goldstein: Every Thursday night we have a meetup in the different locations — meetups every Thursday in every location. Some have a permanent location, like Venice Beach; others are more pop-up based, but they're pretty easy to find. We also do artists in residence every month, so we're able to live-mint that month's artist in residence, in person, at the meetup. Camille Roux was a great artist in residence. Last month we did Fingacode; back last summer, Junior. There have been some really great emerging artists who've come through this program — and in the case of Junior and Camille, they're both fx(hash) artists as well.
@@ -288,6 +312,8 @@ Will: We're very foreign to ETH — just starting to dip our toes into it in 202
 
 Seth Goldstein: One thing we didn't mention — just an aside — I was thinking earlier about the chain comparison thing, how for so long Tez was seen as somehow inferior to ETH. But the more ETH has gotten caught up in all these DeFi scandals, I wonder if there's a tarnish to it, where you can point to Tez and say, look, the only use case here is art. Maybe that's a good thing, because it hasn't gotten ruined through all the financial charades the way ETH has.
 
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+
 Trinity: That's what I love about it — it's a very secure chain just from the lack of shenanigans. Thinking back to the story you told from the very beginning of Bright Moments, getting people to walk in off the boardwalk and mint a semi-free NFT minus gas fees, and thinking about the transaction costs on Tezos — when we were at NFT NYC last week, all of the free mints were on Tezos, presumably because it's so easy to transact. That's a different type of utility that makes me believe in the scalability of the platform overall.
 
 Seth Goldstein: I agree.
@@ -299,5 +325,7 @@ Seth Goldstein: Another time.
 Will: I'm sure you've got some great stories from back in that era.
 
 Seth Goldstein: That was the highlight for me at Berlin — we staged this 15-minute NFT that was a reconstruction of *Einstein on the Beach*, the piece Bob Wilson and Philip Glass created together in Berlin. Every night we showed this NFT on a huge screen — this light orb moving to Philip Glass's music — in front of 1,500 people, and it really blew people's minds.
+
+[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
 
 Will: Thank you again, Seth. Thank you, Trinity, for recording as always. I hope everyone enjoyed this episode — it was really a pleasure to talk to Seth. Check out Bright Moments Tokyo, and look out for more events coming in the future. We'll be back again with another episode soon. Until then, bye everyone.
