@@ -29,7 +29,7 @@
   <div class="tag">Fig. 01<br>From the archive<br>cycling</div>
   <div class="q">
     <blockquote id="q">{{ quotes[0].text }}</blockquote>
-    <div class="attr" id="qa">— {{ quotes[0].name }} / {{ quotes[0].title }}{% if quotes[0].platform %} / {{ quotes[0].platform }}{% endif %}</div>
+    <div class="attr" id="qa">— {{ quotes[0].name }} / {{ quotes[0].title }}</div>
   </div>
 </section>
 {% endif %}
@@ -111,7 +111,7 @@
       qt.style.opacity = 0;
       setTimeout(function () {
         qt.textContent = qq.text;
-        qa.textContent = '— ' + qq.name + ' / ' + qq.title + (qq.platform ? ' / ' + qq.platform : '');
+        qa.textContent = '— ' + qq.name + ' / ' + qq.title;
         qt.style.opacity = 1;
       }, 220);
     }, 6500);

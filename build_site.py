@@ -400,7 +400,7 @@ def main() -> None:
     years = [e["year"] for e in episodes if e["year"]]
     founders = sum(1 for e in episodes if e["role"] != "Generative artist")
     platform_founders = len({re.sub(r"\(.*?\)", "", e["guest"]).strip().lower()
-                             for e in episodes if e["is_founder"] and e["platform"] in BIG3})
+                             for e in episodes if "platform" in e["guest_type"].lower()})
     stats = {
         "episodes": feed_total, "interviews": n,
         "years": f"{min(years)}–{max(years) % 100:02d}" if years else "",
@@ -410,7 +410,7 @@ def main() -> None:
     }
     ticker = [e["guest"] for e in episodes if e["guest"]]
     quotes = [{"text": e["quote"], "name": e["guest"], "title": e["display_title"],
-               "platform": e["platform"]} for e in episodes if e["quote"]][:8]
+               } for e in episodes if e["quote"]][:8]
 
     if SITE.exists():
         # clear read-only bits so a stale/locked site/ (e.g. left by a cloud
