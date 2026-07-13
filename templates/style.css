@@ -71,7 +71,7 @@ em{font-style:italic}
 .rows .r:hover{background:var(--k);color:var(--w)}
 .rows .r .i{font-family:var(--mono);font-size:12px;opacity:.5;border-right:none;justify-content:flex-end;padding-right:0}
 .rows .r .nm{font-weight:700;font-size:22px;letter-spacing:-.01em;text-transform:uppercase;padding-left:10px}
-.rows .tt{font-size:14px;line-height:1.25}
+.rows .tt{font-size:17px;font-weight:600;line-height:1.3;letter-spacing:-.01em}
 .rows .ty{font-family:var(--mono);font-size:12px;text-transform:uppercase}
 .rows .du{font-family:var(--mono);font-size:13px}
 .rows .go{font-weight:700}
