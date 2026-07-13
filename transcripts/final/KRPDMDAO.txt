@@ -48,7 +48,7 @@ As for fx(hash) — we were a little late, so we had backfilling to do, which we
 
 Will: For everyone listening, I believe you're referring to sweeping up pieces like *Dragons*, *Contrapuntos*, *RGB*, *Fragments of a Wave*—
 
-[pool: RGB | RGB — ciphrd | ]
+[pool: Contrapuntos | Contrapuntos — msoriaro | ]
 
 KRPDM DAO: Yeah.
 
@@ -70,6 +70,8 @@ Will: Did you notice the trade I Don't Like Tezos made this week? Curious if you
 
 KRPDM DAO: Was it the *Ringers* for a Zancan?
 
+[pool: Ringers | Ringers — Dmitri Cherniak | ]
+
 Will: Yeah. Did that feel significant to you?
 
 KRPDM DAO: Massively significant. Tezos has been having lots of these moments recently that solidify it as a really important chain for artwork. It's a great blockchain outside of art too, but these sorts of things really show that Tezos is here to stay — it's a serious player and contender in the whole NFT ecosystem.
@@ -81,6 +83,8 @@ KRPDM DAO: There's also a lot of noise on Ethereum. Speaking as someone who's co
 Trinity: Did you catch any of the Marina Abramović stuff, or hear about it secondhand?
 
 KRPDM DAO: Yes, I caught the tail end of it. It speaks to what Will was saying about the *Ringers* for a Zancan trade — these sorts of things are deeply validating for us as a DAO. Yes, we made the right call. Artists are choosing this platform because they see it as inherently greener, though I honestly don't know where I land on the "it's a green chain, therefore it's the best" argument — there's a lot to unpack there, and I know there are diverse opinions within our DAO, so I won't get into it. But as a proof-of-stake model, while Ethereum is trying to do its merge and transition away from proof-of-work, Tezos is a battle-tested blockchain that's been around, hasn't had any major hacks, hasn't had huge liquidity events or crashes — it's just been a steady platform. Artists are starting to feel like the provenance of the work they put on it is in safe hands. That battle-hardened reputation is starting to look really handsome to people looking to put their art here long term.
+
+[pool: Ringers | Ringers — Dmitri Cherniak | ]
 
 Trinity: Thinking about the differences between Tezos and other blockchains I've interacted with — it's so unfinancialized. Almost everything people are doing on it is for collecting or utility rather than DeFi. It feels more genuine. Not that DeFi isn't genuine, but this serves legitimate purposes beyond that.
 
@@ -191,6 +195,8 @@ KRPDM DAO: Yeah, exactly. So that's the take-home point for all your listeners. 
 Will: Does that reflect your bear market strategy? We're all collectively realizing, some earlier than others, that this could be a crypto winter of 6 to 18 months — Tez prices could just get cheaper. Sometimes the secondary market is slow to redenominate, or reprice, based on the conversion of Tez to fiat. So from your view, is this just the time to keep our heads down, find value, and take advantage of these prices?
 
 KRPDM DAO: 100%. We have people — individuals who are avid collectors, and this is their first foray into the crypto ecosystem — who've maybe leveraged up too much, used collateralization ratios that weren't so smart, and are learning a few lessons on that front. When that happens, you see them reaching for liquidity, and this has happened a lot. Last night we did a bit of a sweep, because there was a lot of stuff at huge discounts — massive discounts. And these aren't just floors coming down to where they should be; they're compounded discounts, because Tezos has come down in price, and then they're pricing in Tezos, but then giving another 30% discount on top. So it's almost 50, 60, 70% off on these assets. Offers being accepted on Contrapuntos for 400, 500 Tez is just madness.
+
+[pool: Contrapuntos | Contrapuntos — msoriaro | ]
 
 So this is absolutely the time for the DAO, and other well-capitalized collectors, to come into the space and collect stuff that was out of reach before. There was Art Basel Hong Kong recently, so a lot of new eyes would have come into the ecosystem thinking, how do I get my hands on this collection, it's so expensive. Here's their opportunity: come into the Tezos ecosystem, chuck $200 into an exchange, get it on your Temple or Kukai, and have at it. You can grab some proper steals right now.
 

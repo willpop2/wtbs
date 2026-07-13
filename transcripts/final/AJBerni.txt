@@ -8,6 +8,8 @@ AJBerni: Me too.
 
 Will: It's been cooking for a minute. It's really exciting to have Adam on to talk about Tender with us and go through its whole history, which of course means the usual Tender disclaimer. Both Trinity and I have been part of the Tender group for a while now, working on writing and some behind-the-scenes stuff. So if this episode feels too shilly to you, just know that's not our intention. We want everyone to learn about Tender, understand who Adam is, and share the love for what we're trying to do in generative art.
 
+[pool: Love | Love — AJBerni | ]
+
 Trinity: And if it does feel shilly, yell at us on Twitter. We're very open and receptive to feedback and yelling.
 
 Will: Or yell at Adam. Maybe it's his fault. Who knows?
@@ -50,6 +52,8 @@ Will: Something that's really interesting is what we often see in the AJBerni ac
 
 AJBerni: I absolutely feel that way, and I do it all the time. I notoriously did it with *Fragments of a Wave*—I must have sold 10 pieces and ended up with 10. In fact, I think one of your prints was one I'd sold off. It's a great piece; selling it says nothing bad about it. It just might not fit my collection, or a pairing I'm trying to curate, or a print I want on my wall—it could be for any reason. Obviously this isn't financial advice, spending up to collect different pieces, but if it increases my smile that much more, I'm happy to do it.
 
+[pool: Fragments of a Wave | Fragments of a Wave — iRyanBell | ]
+
 I think that goes back to everybody finding their own personal collecting philosophy. I've had a lot of exposure to the arts and have this deeper background, but that's not a feeling any other collector couldn't or shouldn't have. That's what I love about this space—people come from all sorts of different backgrounds and still find things they're really passionate about. If that were the same for everybody, it wouldn't be that interesting; the conversations we're having in Discord wouldn't be that interesting. But it's nuanced, and that's part of what I love—really getting to see what drives other people's collecting decisions. Sometimes it fortifies your own perspective—I love octopuses and you don't—and sometimes it's learning from each other. I'm absolutely not above changing my opinion. I've definitely learned from other collectors and had my eyes opened to stuff I maybe wasn't looking at closely enough. Out of whatever we're at now, 17,000 projects, that's bound to happen. But it wouldn't happen without a lot of the discussions in Discord communities like #price-discussion, communities like Tender. That's a large part of what brings me and a lot of people back to the space day after day.
 
 Will: To talk about Tender more—I think this is a good opportunity to bring up the Icons list, because for most people familiar with Tender, that's where they first learned about it: this quote-unquote canonical list of the grails, the best projects. I know you'd push back on that framing and say it's just one person's opinion and anyone can do this. You've talked a little about starting Tender—what was the initial process behind the Icons list? Why start there, what goes into it and the updating and ordering of it? Maybe you can demystify it a bit: what is the Icons list?
@@ -71,6 +75,8 @@ Since I started, I've seen Deko launch and the Deko galleries do a lot of that, 
 Will: Was the whole idea of where Tender is now fully baked at launch, or has it evolved—like, okay, Icons, step one, step two, start working on galleries? Clearly a lot of this happened in parallel—the printing service, the editorials, which I guess is how you gathered the first group of Tender members. Can you walk us through the timeline, how this has grown? Did it take a form you didn't predict initially? What's been the arc of Tender up until now?
 
 AJBerni: The arc has been pretty organic—it's hard to say what was there from the beginning, because in the creation process there's always a flood of ideas. Even in the two weeks it took to get the first version up, new ideas kept flooding in. That's when the decision to do editorials came in—you're working on something, and as soon as you have a good version, you think about what's deficient about it. We need more voices on here. We need to hear people describing the projects and what they mean to them. I wanted to capture some of those fleeting conversations from Discord and put them in a searchable way on the site. That's where the editorials came in, and I think that's probably where our first conversations came in too. Not just myself and you two—most of the initial core Tender members were really born out of conversations around the editorial and the writing. We were talking to CalicoJack about writing about *Smolskull*—he had that passion, a perfect voice to talk about it. Finding community members like that, who had projects that meant a lot to them, and inviting them to say something in their own voice—that was part of the core experience from the very beginning, and another way to keep it from being just my personal perspective.
+
+[pool: Smolskull | Smolskull — markknol | ]
 
 Galleries were something I conceived pretty early on too, even though it's taken a while to execute. Everything is built on top of each other, and I think we'll continue to do so. I have a lot of roadmap to execute, but I don't think any of it is terribly surprising, because it's just focused on the generative art space and what I think collectors and artists would want to see out of a platform.
 
@@ -95,6 +101,8 @@ As for what's coming: the big push over the next couple months is bringing other
 There's going to be a lot for collectors and artists that follows that approach, but ultimately the idea is to elevate the value of the art. When you see fx(hash) work right next to work from Art Blocks and other platforms, it puts the emphasis on the art rather than the platform. I'm excited about that.
 
 Trinity: Quick question: is *Garden, Monoliths* still number one on the Icons list? When do we bring Art Blocks in?
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
 
 AJBerni: That's a great question.
 
@@ -148,6 +156,8 @@ As Tender got off the ground, that idea got reignited -- it'd be great to find s
 
 When I first reached out to artists, I didn't yet know the collaborative contract was coming. My plan was to have a "TenderX" account, and every project would be named after the artist I was collaborating with -- so it'd be published from TenderX, first project *Abstractment: Pang*. Not the most elegant solution, so thankfully the collab contract arrived right as we launched our first ones, and it's worked beautifully.
 
+[pool: Abstractment: Pang | Abstractment: Pang — AJBerni | ]
+
 The reception has been incredibly positive, and collaborative by nature, which I think comes from how I pitch these projects. I'm very transparent that I bring a specific background -- 15 years as a creative director, plus a deep personal artistic practice -- that lets me operate in a real creative dialogue. It's not about hands-on code, but going deep into the concept of a piece, how the work comes together, the variations, all the way down to pricing and how we talk about the work as it nears release. I come with that experience and stay very active and involved throughout.
 
 And frankly, we're also looking for support. As Tender tries to support both the collector community and the artist community by highlighting great work, the collaborations help sustain that -- that's part of the idea behind the revenue share too. It extends our runway so we can keep doing what we're doing and bring benefits we haven't even introduced yet. We have the benefit of the pass proceeds giving us a certain runway, but we're in this for the long haul, and these collaborations continue to feed and extend that runway.
@@ -155,6 +165,8 @@ And frankly, we're also looking for support. As Tender tries to support both the
 But coming back to the art itself -- it's one of the most inspiring things I can imagine doing. Working with different artists, each with their own philosophies, processes, and objectives, and trying to shapeshift a little for every individual collaborator while also pushing a little in every project. I think that's one of the real benefits I can contribute: pushing a little outside of someone's comfort zone. And the artists push back on my input in the same way. In a successful collaboration there's always that tension you can push on each other with, and you end up somewhere you'd never have reached working alone. I feel very fortunate -- I think every project we've put out so far has ended up in that place. I'm excited about everything coming up too; there's a lot of good stuff in the works.
 
 Will: By my count from the official Tender website, we've had six collabs, inclusive of the Tender Pass collaboration with Punevyr, and they've all been very different: *Pang* with Abstractment, *Reconnaissance* with Nat Sarkissian, *Speed of Dark* with Lauren Houdard, *Love* with T. Boswell as you mentioned, and most recently *Bound* with a new artist to fx(hash) and maybe even to generative art, David Bryce Allen -- I'm not fully sure of his whole story.
+
+[pool: Reconnaissance | Reconnaissance — AJBerni | ]
 
 With *Love*, you had a piece of your own you were already pursuing, but for the others -- are artists bringing a work in progress to you, or are you sitting down together from the start with just an agreement to make a project together and see where it goes? And how do you even approach an artist in the first place -- pitch the idea, sort out reserves, work out pricing? Putting myself in an artist's shoes, that seems like a tricky proposition, since you don't know what will happen once the piece releases, and you're agreeing to give up some sales for reserves. What has that process been like, and what's the reception been?
 
@@ -179,6 +191,8 @@ So that's not the whole process — there's so much that goes into it — but it
 Trinity: I have so many questions, because that was such a great response. When you're coming up with these concepts, how do you communicate them? Do you do mockups and sketches? Do you bring in style guides and inspirations — like with *Reconnaissance*, where you just say, "here are space images, here's Mars"?
 
 AJBerni: There are a few collaborations where I had a very specific idea going in. With Nat and with Tyler, I thought, "this is a great concept for us," and I'd say, let's talk about collaborating — if you're into it, let me throw you this one first, and if it sticks, let's go for it; if not, I've got other ideas. For *Recon* and for *Love*, those were specific ideas I thought would be a perfect match. Having looked at what Tyler Boswell did with *Fracture* and his use of color and watercolor techniques, it all came together — it seemed like a perfect fit. And with Nat's original *Hills*, seeing the photographic feel he achieved through code, combined with a book I own called *This Is Mars* — an incredible book of real reconnaissance photographs of the Martian surface in black and white — that inspired us to see what we could recreate in a new way from that starting point.
+
+[pool: Fracture | Fracture — teaboswell | ]
 
 For most of the other projects, it's a combination of reference images, mood boards, and writing. I do a lot of writing, but I try to keep everything concise — I have a lot of these conversations going at once, so I can't put pages and pages into one concept at first. Developing these concepts mostly happens in my head: really thinking through what would be interesting, doing research, finding inspiration in unexpected places, then writing something that describes where I think it could go — maybe what we might leverage from the artist's past work, technical or creative, and some reference images that might spark new ideas. For any artist, a reference image isn't about recreating something that's been done before; it's a jumping-off point that makes you think of something new. Once the initial concepts are out there and we settle on one, I go deeper — more references, sketches, photo comps — and that's when the back-and-forth really starts.
 
@@ -229,6 +243,8 @@ AJBerni: We might do that — or, well, I don't want to speak for the artist, bu
 Will: Trinity, I know you've seen it — a few test outputs. What's your impression?
 
 Trinity: It's very different compared to almost everything we see, and I mean that in the best possible way. It's one of those projects — and I'd say this about everything you've collaborated on — that is distinctly itself, unlike anything else out there. Think about the first time we saw *Recon*, or *Love*, or *Bound*. They're all so different, and this just keeps expanding that genre — what generative art is, and what it means to be a Tender collab. Twenty projects from now, you're still pushing the bounds. That's pretty cool.
+
+[pool: Bound | Bound — AJBerni | ]
 
 Will: It's an especially interesting project to release around this time, given how much A.I. art we're seeing right now. If people saw this piece out of context — not on fx(hash) — I think a lot of them would assume it was made through some A.I. process rather than generative code, because there's so much of that work on NFT art social media right now. There have been works that use image composition, or that draw faces in a more simplistic way with a tighter set of rules, but nothing with this kind of shading and texture. Honestly, I think people are going to have no idea what to make of it, which is probably a good thing — they'll look at it and go, "What even is this?" That was my first impression, and to me that's really cool. We've seen 17,000 projects on the platform at this point — it's becoming increasingly hard to make something surprising, something that feels genuinely refreshing. I'm excited to see how people react to it.
 

@@ -108,6 +108,8 @@ So, sorry, you were saying some other things too — I can't remember what I was
 
 Will: It's okay. You wrote a really great blog post about *Maplands* that came out in early January, is that right?
 
+[pool: Maplands | Maplands — Amy Goodchild | ]
+
 Amy Goodchild: Yeah, January, I think.
 
 Will: That was right when both of us were starting to learn a bit of JavaScript to make tokens to support the podcast. I'll fully own that when I first saw *Maplands*, I didn't have enough understanding of code to differentiate it from a simple circle-packing algorithm, where all you're doing is checking whether the sum of the radii is less than the distance between center points. It wasn't until I started playing with p5 and tried to do anything with a triangle that I understood the jump in difficulty — going from a circle to a triangle in code, having to account for corners, and suddenly nothing is equidistant from a center point anymore. Learning that, combined with reading your post — which details all the ways you account for the dependencies between these different shapes so they interact and overlap correctly and stay spaced — plus the aesthetic considerations on top of that: is it coloring by shape, by region, accounting for size? It was really informative for me as someone who was learning. I'll give you a lot of credit — it was a really well-made post. We'll link to it in the show notes.
@@ -209,6 +211,8 @@ Will: It's kind of like if you were a painter and had a great idea for a color, 
 Amy Goodchild: Definitely, it's a lot of work. I think as well, there are certain things I use over and over again. The more projects I do, the more I'm able to reuse code. I have a collection of geometry functions that I just reuse now. It's nice to be able to do that.
 
 Trinity: That was really interesting to see with *Maplands* specifically. I think it was January 2021 when you learned how to do the triangle packing, and then to see you use that a year later, with obviously a ton of other work built on top of it, it really felt like it was coming full circle. Pun not intended.
+
+[pool: Maplands | Maplands — Amy Goodchild | ]
 
 Amy Goodchild: Full triangle.
 

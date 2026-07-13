@@ -203,6 +203,33 @@ def snapshot_objkt(creator: str, query: str) -> list:
     return items
 
 
+def _fx_gql(query: str) -> dict:
+    req = urllib.request.Request("https://api.fxhash.xyz/graphql",
+                                 data=json.dumps({"query": query}).encode(),
+                                 headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"})
+    return json.loads(urllib.request.urlopen(req, timeout=30).read()).get("data", {})
+
+
+def snapshot_fxhash(project: int) -> list:
+    """fx(hash) generative token by project id (from objkt.com/collections/fxhash/projects/<id>).
+    Resolves the gentk contract + every iteration's owner via the fxhash API; images come from
+    the objkt CDN (same path as snapshot_objkt), so rendering/credits stay consistent."""
+    q = ('{ generativeToken(id:%d){ gentkContractAddress entireCollection{ iteration id '
+         'owner{ name id } } } }' % project)
+    g = (_fx_gql(q) or {}).get("generativeToken") or {}
+    c = g.get("gentkContractAddress")
+    items = []
+    for o in (g.get("entireCollection") or [])[:CAP]:
+        tid = str(o["id"]).split("-")[-1]
+        ow = o.get("owner") or {}
+        addr = ow.get("id", "")
+        owner = ow.get("name") or ((addr[:5] + "…" + addr[-4:]) if addr else "")
+        items.append({"t": o["iteration"],
+                      "img": f"https://assets.objkt.media/file/assets-003/{c}/{tid}/thumb400",
+                      "o": owner, "s": f"https://objkt.com/tokens/{c}/{tid}"})
+    return items
+
+
 def merged_config() -> dict:
     """discovery/*.config.json (from discover_sources.py) merged under the
     hand-tuned CONFIG, which wins per slug."""
@@ -242,6 +269,8 @@ def main() -> None:
                 items = snapshot_work(base, cfg["contract"], cfg.get("project"))
             elif cfg["source"] == "objkt":
                 items = snapshot_objkt(cfg["creator"], cfg["query"])
+            elif cfg["source"] == "fxhash":
+                items = snapshot_fxhash(cfg["project"])
             else:
                 raise SystemExit(f"unknown source {cfg['source']!r}")
             data[work] = items

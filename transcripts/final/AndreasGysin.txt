@@ -34,6 +34,8 @@ Andreas Gysin: Disagreement is always interesting, and we always manage to resol
 
 Will: Building on that — what's the difference between something you make solo, under your own name, versus something that comes out as a collaboration? The projects we know you for, like *Towers* and *Device_1* from fx(hash) — were those entirely solo? Or are they collaborations in some way that people just don't know about?
 
+[pool: Device 1 | Device 1 — ertdfgcvb | ]
+
 Andreas Gysin: No, those are solo pieces. Sidi is completely unaware of crypto art and NFTs — he's not on any social media, he lives in a very small village of 300 people with his family and his dog. That doesn't mean he's an outsider — he knows how everything works, and quite well. But these more ephemeral aspects don't interest him, and he's not very aware of them. I explained a few things to him when I first heard about the crypto art movement, the NFT scene. I started publishing things online, dropping a few pieces as an experiment — I was curious. I'd seen these things happening a few years ago and wanted to try. Before that I had a website where I published interactive or generative works that would run in a browser, just experiments I could throw online. So it felt natural to continue that kind of experimentation in this new context, with the difference that eventually some pieces could be sold. That was a real novelty for me, and for many of us. I just continued that attitude on my own. At a certain point I told Sidi, "Hey, look, I'm doing this thing." We have several things going on that aren't part of a collaboration, even professional projects — we have our own lives.
 
 Will: Yeah.
@@ -82,6 +84,8 @@ At a certain point, during COVID lockdown, I told myself: these ASCII projects a
 
 I think the idea for the projects you mentioned came out of working on this. *Towers*, too — the idea came while I was working on this playground, actually because of a mistake. Instead of aligning all the text to the left, I made an error in a CSS declaration and centered it instead. All the lines of text formed this sort of tower, and the idea was born. So you could say *Towers* was a mistake.
 
+[pool: Towers | Towers — ertdfgcvb | ]
+
 Will: Or a happy accident. As we often hear from artists in this space, bugs in code tend to produce some of the most delightful discoveries. Great story.
 
 Andreas Gysin: Just to complete this part — the code that displays itself is a known concept in the more experimental side of programming, called a quine, if I'm pronouncing it correctly. A quine is a piece of code that displays itself. In JavaScript, the language of the browser, this isn't so difficult to achieve, because JavaScript allows something called introspection — the code can access itself. Not all languages allow this; writing a quine in a different language can become quite complex, but in JavaScript it's really simple. I always felt I was cheating a little bit comparing this project to a proper quine.
@@ -97,6 +101,8 @@ Then Hic Et Nunc came along, which was even wilder -- they didn't ask any questi
 fx(hash) came a bit later, and it was a great surprise -- well done, well documented, no questions asked, you could just release your piece. The fact that there was no curation, that the barrier was lowered, was a real invitation to participate.
 
 And why not Art Blocks? I was contacted a few times about doing something there, but I couldn't really understand what was going on with the curation and some other aspects -- it wasn't clear to me. I looked at a few pieces on the platform and told myself they weren't really interesting. I was very ignorant -- I saw *Chromie Squiggle* and thought, this is too basic to be an interesting project. So I said, maybe I won't consider this platform for the moment. Probably a big mistake.
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | ]
 
 Will: The flip side now is that you're releasing in a curated fashion to some extent, with Verse. Around the time this episode drops, the auction or whatever mechanism you'll use to sell work in this *Materialized* solo exhibition will be ongoing. Can you give us the story of how Verse got in touch with you, and what convinced you to work with them this way? I imagine there was some level of curation and collaboration, where you had to put your trust in them to a degree.
 
@@ -189,6 +195,8 @@ Will: That was the core of the episode we did with Leander. We had him on last y
 Andreas Gysin: Ah, okay, I have to listen to it then.
 
 Trinity: Speaking of Lenny, his most recent piece, *DOM1*, uses generative sound working in conjunction with the visuals—we'll definitely be talking about it when we record our weekly episode. When I think about the work you've done, both in the NFT space and with existing signage and physicals, his project *Very Large Array* comes to mind as something analogous—it leverages the onboard sound card that exists in everybody's computer to create these super dissonant sounds that I can't stand, but Will loves. So thinking about how you might use the ASCII side of things in conjunction with the native hardware components available in these devices—there's something there. I don't know quite what it is.
+
+[pool: DOM1 | DOM1 — Andreas Gysin | ]
 
 Will: I just want *Device 1* to click.
 

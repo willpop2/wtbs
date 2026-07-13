@@ -18,6 +18,8 @@ Ira Greenberg: Thanks for having me, this is a true honor. I'll give you the Cli
 
 But unlike Emil, when I was in school I didn't think it was realistic to make a living as an artist. I looked at my professors and thought, they have a great gig. So from about sophomore year of college, my goal was to become a professor, and through sheer luck and some determination I got a position pretty early on. I've been hiding out in academia for 25-plus years, making art without much concern for the marketplace—though I don't know how much of that was just sour grapes, since you don't have to deal with failure if you don't try.
 
+[pool: Toma | Toma — riis | ]
+
 I got into coding pretty quickly and spent a long time doing generative art in the early days, when none of us really knew what we were doing and social media didn't exist to bring us together. Eventually I burned out a bit and went back to more traditional work until Web3 came along. A friend of mine, actually an ex-student, told me about Art Blocks—people making tons of money doing the stuff I'd taught them ten years earlier. So I started poking around, and it came back in a big way. Between AI and generative work this year, I did something like almost 20 projects. I became completely manic—first with generative, then with AI, and now trying to put it all together.
 
 I stayed in touch with the Emergent Properties guys, talking with Emil about doing something together before the war happened. That derailed things, and they moved toward Tezos. We kept talking, kept throwing creative ideas back and forth.
@@ -114,6 +116,8 @@ Ira Greenberg: We should mention we're very fortunate — two of our partners ar
 
 Emil Corsillo: Victor's the artist behind *Los Osos*, which you guys have covered on the show before. Victor and Ira — three-fifths of the founding team — have done fx(hash) collections. I've only done two, Victor's next, and Ira's the GOAT there. My brother and our other partner, Luis, are both coders, so we're prodding them to put out an fx(hash) collection of their own one day too.
 
+[pool: Los Osos | Los Osos — yepayepayepa | ]
+
 Trinity: That was going to be my next question, Ira — going from the art world to the code world, and then turning that into creative coding and everything you've released on fx(hash), that's such a huge jump. I'd love to hear the story behind the art of *the oracles* — what the inspiration was. We've talked a bit about how it was created, but it's a collection that's garnered so much interest and been so lovingly collected. What sparked it?
 
 Ira Greenberg: If you could see my studio behind me right now, you'd see a bunch of portraits on the wall. I've been doing portrait work since I could start painting and drawing — the first cheap model I could always hire was in the mirror. So I always worked from faces, from people. I've done a lot of different types of work, but I've always been very interested in observational, representational painting — that perceptual problem of how we look at the world, how we look at data, and then translate it into paint. I didn't call it "data" back then, but that's what it was.
@@ -146,6 +150,8 @@ Ira Greenberg: I don't want to get too art-history-nerdy, but there's something 
 
 Will: It's a tough transition, for sure. I think we're all struggling with how slowly the traditional art world is accepting NFTs and generative art. It's tough to get people to pay attention — they write it off too easily. You mentioned the project sold out fast, and we admitted we missed it. What was the reaction like? You're both in North America, so presumably you woke up to the project completely minted out and secondary sales on fire. That's what it felt like on the East Coast — Discord messages about something I'd never heard of, on a platform I'd never heard of, tweets from prominent collectors comparing the project to *Chromie Squiggle*. Can you walk us through that?
 
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | ]
+
 Ira Greenberg: We didn't sleep much that night.
 
 Will: Take a victory lap — so you were awake for it?
@@ -161,6 +167,8 @@ Here's a good story about how Clown Vamp found it. Thomas Noya and I are art bud
 It turned out it was in the TENDER Discord — I'm a TENDER holder, but I'm terrible about checking Discord, so I'm never in there. It was so cool. Going into the TENDER Discord and seeing everybody talking about the Oracles — some of the best artists, the biggest collectors, the coolest people in the coolest club, all talking about this thing we made — that was the real victory lap. From the point of view of the artwork, it's super well deserved.
 
 Honestly, as an objective observer — if I weren't a founder of Emergent Properties — TheFunnyGuys' comment comparing the Oracles to *Chromie Squiggle* and RGB Cellular Automata, I hope plays out to be true historically, but from a quality-of-work and genesis point of view, I agree. Is that okay to say?
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | ]
 
 Trinity: You should absolutely say that.
 
@@ -332,6 +340,8 @@ Will: Which one?
 
 Ira Greenberg: The paper crane one, *Acequia*. Is it *Acequia*?
 
+[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | ]
+
 Trinity: Oh, *Acequia*.
 
 Will: That one is so beautiful.
@@ -393,6 +403,8 @@ Emil Corsillo: The fx(hash) ones are — his work is super satirical, grungy tra
 Will: Sounds like he'll steal the show. I don't know about that one.
 
 Ira Greenberg: Some of you may know MonkAntony. We've been talking about going to meet Roman Verostko — same generation as Herbert Franke, one of the true pioneers of generative art. I wrote about him in my first book. There are only five or six of those pioneers left, and he's right there among them. He's in his 90s now, still making art, lives in Minneapolis. They're building a whole foundation around him — there's a director and everything. MonkAntony, who's doing a lot of writing, and I have talked about going down there to document some of this. I've stayed in touch with Roman a bit. He's in his 90s, but this would be a piece of history, and I'd be happy to make the introduction. I just want the world to know about him now, because it'll be sad — there'll be all these retrospectives after he passes, but he's still alive.
+
+[pool: Toma | Toma — riis | ]
 
 Will: That would be incredible. We'd have to do our homework, and maybe you can help us with that, Ira. But getting someone like that on to hear it from the beginning — that's not what I expected going into this, but some excellent ideas, taking us out of our comfort zone. Definitely stuff to follow up on. 2023 is when Waiting to Be Signed really gets out there, so that's what we're trying to do.
 

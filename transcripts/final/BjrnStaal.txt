@@ -2,6 +2,8 @@ Bjørn Staal: All right.
 
 Will: Hello and welcome everyone to another episode of Waiting to Be Signed, a special interview episode — an fx(hash) emergency interview episode. We're joined today by Bjørn Staal, who some of you may know as @nonfigurativ_ on Twitter and from some of his past releases. Trinity is here as well, and we're convening to talk about the first fx(hash) Vertex release, *Entangled*. How's it going, everyone? We're excited to talk about this release.
 
+[pool: Entangled | Entangled — nonfigurativ | ]
+
 Trinity: I'm excited. Bjørn, are you excited?
 
 Bjørn Staal: How much have you talked about this in the past?
@@ -114,6 +116,8 @@ Will: Oh yeah, please.
 
 Bjørn Staal: I haven't considered that at all, honestly. My last fx(hash) project, *the face we had*, was open for six months before it minted out. There's this idea in the NFT scene, which is a bit corrosive, that you have to sell out as soon as humanly possible, or else the project is considered a failure. Personally, I'm in no rush. Our expectation is that people will participate and that it will sell out, but as we've discussed, it's very hard to know. Very few projects have gotten this sort of attention — and to me, it was clear that all the attention the project got when it went viral wasn't necessarily from people in the NFT scene at all. It got the attention of a lot of developers and tech people who just found the thing technically interesting. Onboarding those people to actually buy NFTs is still a hard sell. We'll see.
 
+[pool: the face we had | the face we had — nonfigurativ | ]
+
 I don't pay too much attention to the market in general, but it's hard not to notice things are slower these days. Still, I've decided not to let the market dictate what I do and when and how I do it. If this NFT scene is going to be a place where people can build real art careers, then if you make your best effort and put a lot of work into a project, it should pay off. If it doesn't, I start questioning whether the space is healthy enough. I do feel like the space has matured, that speculation is out of the picture in a lot of ways compared to before, and the people left are the ones who really want to make things and the ones really interested in collecting.
 
 Will: I think that's definitely the case. Speculation, to the extent it exists now in code-based generative art, seems a lot healthier in the 5-to-10-to-20-year outlook, instead of the hourly or daily outlook it had a couple years ago at its height. You want to think we've created something special — a whole team came together to make this happen, and we're going to price it to make it worth the time, and because it's genuinely cool, and that's how you should value it. This is a big statement — for you as the artist, and for fx(hash) as a platform, to say, "Hey, look at this." So I hope this episode encourages people to consider minting, because it's going to be a singular piece.
@@ -131,6 +135,8 @@ Trinity: Mm-hmm.
 Bjørn Staal: But the plan is for people to get access to the code and for me to make it understandable.
 
 Will: I don't know if you listened to our interview with Alejandro Campos a few weeks ago. He recently released a project called *Fantasia* on Verse.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | ]
 
 Trinity: Oh yeah.
 
@@ -233,5 +239,7 @@ Will: Drop a link in Discord so we can include it below for people to listen to 
 Bjørn Staal: Right.
 
 Will: All right, let's wrap it up. Trinity's having weird connectivity issues again, but that's okay since we're ending the episode. That was Bjørn Staal, aka _nonfigurativ_. Look forward to *Entangled* on fx(hash), the first Vertex project of what we hope will be many really cool ones. June 20th, for those of you considering collecting. That's it for this one, everyone. Hope you enjoyed it — we'll be back soon with another episode. Bye-bye.
+
+[pool: Entangled | Entangled — nonfigurativ | ]
 
 Bjørn Staal: Bye everyone.

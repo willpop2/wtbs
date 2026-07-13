@@ -60,6 +60,8 @@ If you look at traditional art, money and attention are actually really importan
 
 Trinity: I think the first time I started seeing you in the sales feed was back in March, and this ties back to something you said earlier about reflexivity—I believe you were the person who triggered the massive run on *Astronomic Comics* by KilledByAPixel.
 
+[pool: Astronomic Comics | Astronomic Comics — KilledByAPixel | ]
+
 ClownVamp: Oh yeah, maybe. They're really pretty. I have a lot of them.
 
 Trinity: It'd be interesting to dig into that, because I think it was a project that either didn't mint out or minted out over a very long period.
@@ -68,11 +70,15 @@ Will: It was pretty slow.
 
 Trinity: Super slow, which tracked with some of the other big drops we saw around that time, primarily *Sedimentary Dissolution* by Landlines. We've seen this with other projects you've swept up—I sometimes call you a vacuum—where when you go after something, the floor rises massively. We saw it with *Astronomic Comics*, several Lisa Orth pieces, a couple of things from Nudoru. Floors rise hugely, then retract just as much. *Astronomic Comics* is back down to where it was when you started sweeping—not to give you any ideas.
 
+[pool: Astronomic Comics | Astronomic Comics — KilledByAPixel | ]
+
 ClownVamp: I'm looking right now.
 
 Trinity: How do you feel about buying things at a higher price than you might get buying more slowly—about being someone else's exit liquidity, without necessarily seeing immediate returns?
 
 ClownVamp: Woefully unstressed by it, for a few reasons. You're seeing this right now with RGBs and Contras—I kind of feel like any of this stuff could explode at any moment. Not to FOMO myself, though I do that plenty. Those RGBs were like $900 ten days ago. I'm also such a fan of fx(hash) that I think some of these pieces are undervalued. Take *Deconstructed*—I love it, I think it's beautiful and gorgeous, the movement's really cool, and I bought a ton of them. That's an example where the price has gone up quite a bit since, because Dimitri—the Ringers guy, I can't pronounce his last name—tweeted about them and the prices shot up. There are a lot of examples where I've bought with size and scale and it's paid off: I bought a lot of Smolskull sub-$100, and now they're at like $170 to $200.
+
+[pool: Ringers | Ringers — Dmitri Cherniak | ]
 
 My general thesis is that there's a window of time here where Tezos isn't that expensive relative to its historical high, or relative to other cryptocurrencies.
 
@@ -81,6 +87,8 @@ Will: fx(hash).
 ClownVamp: —still feels like, and this isn't my phrase, the East Village galleries of digital art. Everything is still relatively affordable. So I don't really care if I'm spending 20 Tezos or 40 Tezos. If it's something I'm going to hold for a long time, and I think the upside potential is really high, and my downside is just holding it rather than selling at a loss—it doesn't really matter. I'd rather have more of things than less.
 
 Trinity: I mentioned earlier that I was crashing websites looking at your collection, and I noticed you have one or two RGBs and two Contras—obviously some of the bigger runs from this past week. A theme we often talk about on the show, and see a lot on Discord, is consolidating into grails or blue chips—which on fx(hash) would be the Contras, the RGBs, the Looms, the Dragons, what have you. Do you feel there's a balance between spending, say, 1,000 Tez going deep into *Astral Loom* by Lisa Orth versus buying 10 Contras—well, not 10 anymore, 3 or 4 Contras, 10 Looms?
+
+[pool: Astral Loom | Astral Loom — Lisa Orth | ]
 
 ClownVamp: Great question. I actually sold one of my RGBs, so I now have one—that's one of only three things I've ever sold. What I enjoy is being part of inflections; that's where I find emotional satisfaction. Practically, that means with the non-generative artists I collect, I talk to a lot of them every day—I'm behind the scenes helping them, connecting them with people. When an artist starts to take off, that's so emotionally cool to see, and I love being part of it. That's really fulfilling.
 
@@ -144,6 +152,8 @@ Trinity: *Astral Loom* was half of mint when you started your run — I'd picked
 
 ClownVamp: They're so pretty. I'm looking at my *Astral Loom* pieces right now — just gorgeous.
 
+[pool: Astral Loom | Astral Loom — Lisa Orth | ]
+
 Trinity: I think the other thing is, Lisa Orth specifically — maybe less so some of the other artists you've gone deep on — has already proven herself with a long, storied career spanning industries: music, PR and marketing, the digital industry—
 
 Will: Tattoo artistry.
@@ -167,6 +177,8 @@ ClownVamp: Good, good — I need this. This is your cue.
 Trinity: You don't have any of *A Center Near the Edges*, one of my favorite pieces of hers, from earlier in her career. Not financial advice, people — I still want another one myself, so if a run happens, so be it, I'll feel good about it.
 
 Will: Only one *Between Stations*? Tsk, tsk.
+
+[pool: Between Stations | Between Stations — Lisa Orth | ]
 
 ClownVamp: I think those are the expensive ones.
 
@@ -216,6 +228,8 @@ Will: Right, Robert Hodgins, *Growth 1* and *2* on Tezos, but he also did a piec
 
 ClownVamp: Dimitri, the *Ringers* guy, sold a bunch of prints that were, I think, like 30 test prints from *Ringers*. They don't actually exist as NFTs, which I thought made it more interesting. I have one in my house — I don't own a *Ringer*, so I didn't want to put up some random one, but 30 that don't exist at all? Okay, sign me up. I think they're really cool.
 
+[pool: Ringers | Ringers — Dmitri Cherniak | ]
+
 Trinity: I see photos of those on people's walls and think, that actually looks really fantastic.
 
 ClownVamp: It looks really good.
@@ -250,6 +264,8 @@ Trinity: Heck yeah.
 
 Will: You mentioned a couple of projects when we were doing interview prep — Holo and *Drippy Cube* by iRyanBell. I'm curious what drew you to those. You've collected a lot of both — you have a ton of Holos, congratulations, we're big fans of that one too. Are you going to explore those artists' other work? I don't think you have much else from Jacek — maybe a couple older pieces, but nowhere near as much as you have of Holo.
 
+[pool: Drippy Cube | Drippy Cube — iRyanBell | ]
+
 ClownVamp: I have a couple *Degrowths*, and I think that's it. Holo I just think is aesthetically incredible and stunning. One of the crowns of my collection is a red vertical Holo with birds and tourists, and it makes me so happy. Every single piece in Holo is so moving — I want to stare at it all day and think about it. When I saw it, I just wanted to have one, and I really wanted a vertical one specifically. It wasn't even priced that expensively when I got it, and then I saw the big run on birds afterward and felt bad for the person who sold it to me.
 
 Ryan's *Drippy Cube* — I don't think that's the real name, I think it's just *Drip Cube*, but *Drippy Cube* sounds better—
@@ -257,6 +273,8 @@ Ryan's *Drippy Cube* — I don't think that's the real name, I think it's just *
 Trinity: Yeah.
 
 ClownVamp: We should just call it that. I thought it was really different — so much generative art can start to feel like *Fidenza* alts, and *Drippy Cube* just wasn't that. I liked that it was animated, colorful, full of motion. It kind of blew my mind that this was a piece of generative art. I think he does a really good job — I have a bunch of *Fragment of a Wave* too, and those are really interesting and different. Especially the tunnel ones — I don't even know what to call them — I was just like, how did he do that? My mind was kind of blown. I still think they're really cool, and kind of cute. I just want to look at them, spin them around.
+
+[pool: Drippy Cube | Drippy Cube — iRyanBell | ]
 
 Trinity: It's such a nice departure from the rest of his drops. They definitely stand apart, and they were only released a few at a time — I don't really remember the drop mechanism.
 

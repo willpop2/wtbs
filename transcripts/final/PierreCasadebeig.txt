@@ -44,6 +44,8 @@ I also don't live far from a big mountain range, the Pyrenees, so it was temptin
 
 With mountains, I'm much more interested in incremental change than in making wildly different pieces from week to week. It started with an idea: take a surface from elevation data, cut it, analyze it, and shape the output to resemble my early mountain pieces, which were an imitation of *Meridian* by Manolo Gamboa Naon -- I really liked that and wanted to try to reproduce it. Once you do that, you start messing with the parameters. Some outputs end up much simpler, and you notice some stand on their own while others could be combined -- and that's how composition enters the picture.
 
+[pool: Meridian | Meridian — Matt DesLauriers | ]
+
 That became another branch of the algorithm: not just representing geography, but creating a synthetic, almost artificial place that still resembles a mountain, but carries more emotion, where you're more involved in shaping the algorithm's output. From there it's about how to lay these forms out on the page, questions of composition. That path led me to discover a lot of authors and guidelines on graphic design -- a whole domain I realized I needed to learn, and I found it fascinating.
 
 Will: I imagine the decision to use data came from your background with R and your scientific experience. But during this exploration, did you ever think about it differently? Zancan makes plant-based landscapes without data, and plenty of other artists do mountains and landscapes without data too. Did you ever consider that you might get even wilder outputs by learning a different language, or by working without data at all? What role does data actually play in your work beyond just providing the foundation for the forms? And when you import data, is it one specific dataset, or are you pulling in the full historical record of mountain range elevations and doing statistical modeling to project where they might go, then playing with those parameters? Are we talking about erosion here? Are we talking about mashing up different datasets to get interesting forms? I'm curious about the actual process.
@@ -179,6 +181,8 @@ Pierre Casadebeig: Yeah, it happens with classical music too — Steve Reich, fo
 Will: Another one we sometimes ask, since you've made some money from your sales — any artists you collect that you want to shout out? Have you explored much on the collecting side?
 
 Pierre Casadebeig: I don't collect much. The key pieces I have are from Zancan, and from Emily Edelman — she makes a series called *Asemica*.
+
+[pool: Asemica | Asemica — Emily Edelman - Dima Ofman - Andrew Badr | ]
 
 Will: Yes.
 

@@ -256,6 +256,8 @@ Will: He's a music guy too.
 
 Bayamese: Yeah, he's a music guy as well, just a really cool, wholesome dude. I managed to squeak out two reserves across both my wallets, and I think I minted three total. I sold one for about $160, and traded my red one—my grail piece—to my friend Ahmad. I got a *Seascape* for it, plus some other things like a *Heat Death* and something else.
 
+[pool: Heat Death | Heat Death — lunarean | ]
+
 Will: Nice.
 
 Bayamese: Yeah, which is great. I loved that project—it was a really fun minting experience. I got my girlfriend to mint too; she's the one who got my grail piece, *Sprocket 19*, a crazy red iteration with kanji text at the top. Really spicy. That one wasn't about flipping, but I got great stuff out of it. Then there was *fx(Apes)*—that was such a good minting experience.
@@ -263,6 +265,8 @@ Bayamese: Yeah, which is great. I loved that project—it was a really fun minti
 Will: Oh my God.
 
 Bayamese: I love that. The *fx(Apes)* minting experience was something else for me.
+
+[pool: fx(Apes) | fx(Apes) — Littlesilver | ]
 
 Will: Did you sell them all?
 
@@ -292,6 +296,8 @@ Will: I think it was February—I remember covering it on a really early episode
 
 **Bayamese:** I got a few of those at some point. You know what was another great one? The first Tyler Boswell — I want to say *Hydrangea* and *Patchwork* was the first one. Or which one came first out of the two?
 
+[pool: Hydrangea | Hydrangea — teaboswell | ]
+
 **Will:** I actually don't know.
 
 **Bayamese:** *Hydrangea* and *Patchwork* — that was the first thing I saw from him, and it was a free mint. I remember that day, Petey was going crazy for it. It wasn't crazy expensive or anything, but the art was really nice and refreshing, everything looked different, people were talking about it a lot, and it was just a fun minting experience. He was also in the chat at the time, which — I know that's not necessarily uncommon, a lot of artists come into PD and talk — but it's a more connecting experience when you get to talk to artists as they release their projects. That was the first time I ever interacted with him, and he made a joke about something I said, which is always a good sign. It's a good indicator when an artist makes jokes, because in traditional art there's a lot of pretentiousness — a lot of invalidation that comes from people thinking their art or their sense of design is better than yours. You don't get a lot of that in this space. You don't get a lot of people who release something and then act like the biggest douche on the planet afterward. Usually they're humble, nice people, and when they can joke around, it's a huge plus. Landlines makes jokes all the time — funny guy. Leander always makes jokes too. Funny guy, great artist.
@@ -307,6 +313,8 @@ Will: I think it was February—I remember covering it on a really early episode
 **Will:** You were just talking about some artists. So who do you like to collect? Who are some of your favorites on the platform? What are some of your favorite pieces? And who do you look forward to minting when you have the tez?
 
 **Bayamese:** I'm a huge fan of all my friends who I talk to most, because they're also really good artists. You know what was super fire? The most recent *Exalted* piece, *Garda* — so cool, I love that piece, and Exalted's progression has been so nice. I'm a big fan of theirs now. Tyler Boswell, huge fan. Who — my guy, humongous fan of *Who* and *Gradient Descent*.
+
+[pool: Gradient Descent | Gradient Descent — who? | ]
 
 **Will:** But Who doesn't release that often.
 
@@ -363,6 +371,8 @@ Will: I think it was February—I remember covering it on a really early episode
 **Will:** Yeah.
 
 **Bayamese:** Big Ross Goodwin fan, by the way. I considered it, but it's not really what I'd want to do for real. I'd prefer the SVG route. I'm interested in abstract art, in 8-bit things, pushing pixels around — quite literally, even as a base concept — like *Gradient Descent*, things like that. I'm a big fan of how *Heat Death*'s actual code was so short. That's so impressive to me. I don't know if you follow KilledByAPixel or people like that on Twitter, but they post their—
+
+[pool: Gradient Descent | Gradient Descent — who? | ]
 
 **Will:** The tweet-length code Twitter crowd.
 
@@ -450,6 +460,8 @@ Bayamese: Let me check—I don't believe I have.
 
 Will: Check out *Turing*. Check out *Kernel*, their most recent one, still open for mint.
 
+[pool: Kernel | Kernel — agoston nagy | ]
+
 Bayamese: So much of their stuff is still open for mint. Oh, I minted *Turing*, I had one of those at one point. Let me look at their most recent piece... I remember *Turing*, that was fire.
 
 Will: If you look at *Kernel*, the one before it, and *Nil*—all of their stuff is animated, and it actually has an audio component too. I feel like you'd really like it.
@@ -467,6 +479,8 @@ Bayamese: It's a big theme. I've just been fixated on it, especially because of 
 Will: In a way—I think I have a reputation for hating on naturalistic stuff, the trees, mostly because of how many of them there are on the platform. But they do make sense as a subject for computer art, because there's so much math involved in something formed from cells dividing and placing themselves, the fractal nature of it all. It makes sense thematically, it just annoys me how many flowers and trees we get.
 
 Bayamese: I know, but you know who's done it best? Nat Sarkissian, with *Bardez*.
+
+[pool: Bardez | Bardez — Nat Sarkissian | ]
 
 Will: *Bardez*, yeah.
 

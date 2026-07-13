@@ -70,6 +70,8 @@ There are a few artists minting on fx(hash) who charge a fraction of what they'd
 
 For example, I'm a big fan of an artist on Tezos whose work I think is fantastic and really interesting — but it's never going to appreciate. Reselling it is probably never going to be a realistic option. And I'm okay with that. I'm not buying it with resale in mind; I'm buying it because I find it interesting. When I throw it up on my TV, it just runs and looks really cool. A lot of the work I own, I do that with. *Defrag* is fantastic — *Defrag V2* is amazing on the TV. It just keeps running and running, and every time you look over you think, that's really awesome.
 
+[pool: Defrag | Defrag — toxi | ]
+
 Trinity: This morning I had my Kim Asendorf transactions just running on my screen. So chill — I can eat breakfast to this.
 
 KenConsumer: I don't own one of those, so I keep forgetting about it. I should buy one.
@@ -100,7 +102,7 @@ Will: I was looking into digital frames toward the end of last year, and there a
 
 KenConsumer: The other day we were figuring out what would actually run on the smart TV's GPU—some things just don't work, but some things do. We had people over recently and I put up Leander Herzog's *Returns*. It slowly, subtly shifts from orange to pink to blue, each part moving and changing, and I threw that up on the TV because it isn't GPU-intensive—my TV can handle it. But if I try to run *Defrag* without it connected to my laptop, it doesn't like that at all—it slows down. Some pieces won't even show unless the laptop's hooked up. Like that flockaroo piece, the oceans one—it can't even process that. I tried pulling it up and thought, this is so cool, then threw it on the TV and it was just black. Nothing.
 
-[pool: Returns | Returns — Leander Herzog | ]
+[pool: Defrag | Defrag — toxi | ]
 
 We also discovered the soundboard—was that a first?
 
@@ -126,6 +128,8 @@ There's another guy who's also an NFT skeptic, but he always comes at it from th
 
 I like having NFTs. I like the idea of the generative concept, and the singularity of these pieces is what makes it super interesting. One of my favorite projects on fx(hash) is *Glass*. I think it's such a cool example of what generative art can do. If it's a really clean piece, it's a cube, and the cubes are a color. But once you get multiples of the cubes, you get colors bleeding out in different directions, stuff going here and there, and sometimes the colors overlap. That's a really fascinating thing that would be nearly impossible to do by hand — getting all those variations manually just isn't feasible. So the idea that generative art can give you all these different variations, that you can look at a hundred different iterations of the same thing, is pretty fascinating. And the one you end up with ultimately is pretty cool. Maybe you like it, maybe you don't, but it's a pretty neat technological advancement that we get to have that option.
 
+[pool: Glass | Glass — punevyr | ]
+
 Trinity: I think that's the fine line between the generative art we see on fx(hash) or Art Blocks and the NFT piece. You can have the generative art side without the NFT piece — it's this perfect marriage of two different core types of technology that really enable each other to thrive in new ways.
 
 When you were talking about the particleization of NFTs, having this one little square at a particular coordinate, it makes me think of back in the '90s when it was like, "Hey, you give us $200 and you'll help save this particular part of the rainforest" — something that's cool, but in a way kind of functionally meaningless. So it's interesting to see where that will go.
@@ -135,6 +139,8 @@ Kind of hand in hand with that: we're talking about the monetization of NFTs, an
 KenConsumer: Tough question, good one. I think as long as the smart contract is written so that anytime it's used, some piece of that goes back to the artist, and you honor that smart contract — that's the important part. There are obviously sites out there where you can trade without honoring the smart contract, and I think that's problematic. I like that fx(hash) forces this.
 
 Now, we could still do an over-the-counter deal. If you wanted to offer me your piece of *Glass* and I wanted it in my collection, I could just send you the Tez and you could send me the piece, and the artist gets cut out. That would be a little immoral and not very cool, but it can be done. That involves a layer of trust, though. You hope that any platform built for trading NFTs has protections built in — that anytime an artist mints through their own contract, they've written all that in, and anytime these pieces get traded around, that's being honored. That's why we do this through a platform and not just some other way.
+
+[pool: Glass | Glass — punevyr | ]
 
 Trinity: I think that's one of the things we're seeing with these NFT-based platforms. I'm assuming, based on your history, the traditional art world moves at a glacial pace — you have to have a large number of conversations just to get to "yes, we want to spend millions on this Warhol" alongside these other local Cleveland artists, figuring out all those contracts, which is obviously much easier and faster digitally. As these marketplaces erupt, it's so easy — I can make twenty-five transactions in an hour, partly because that's the speed at which the network runs, and partly because it's so frictionless. There's still that middle ground where, if you're having trust-based transactions, even over the blockchain, it brings things back down to that middle area of speed — where it's not just a seamless transaction, it's a conversation.
 
@@ -211,6 +217,8 @@ When COVID hit, my wife told me I couldn't just sit around and smoke pot and pla
 Then there's a second barrier: figuring out what you actually want to collect. Are you into apes and frogs? Nature-inspired generative work? Abstract work? Glitch art made from old analog machinery? 3D work? There's a lot that goes into narrowing that down — and then a whole other layer in figuring out how to actually acquire the thing you want.
 
 That's exactly what comes up when collectors ask me for help. They'll say, "I don't want to buy ETH, but I want that *Fidenza*." And I have to tell them, well, you need ETH to get that *Fidenza* — and that might mean 100 ETH, which is a lot of money. There's a whole process to get from not wanting to touch crypto to actually owning the piece.
+
+[pool: Fidenza | Fidenza — Tyler Hobbs | ]
 
 So no, I don't think we're anywhere near mass adoption. I think we're quite a ways off — though maybe closer than some people assume, because millennials are already internet-native. People of my generation didn't grow up that way. I didn't get the internet until I was 21 — my brain had already formed by then. There's a real difference there. And I'm not even that old — I might look old, but I'm not.
 

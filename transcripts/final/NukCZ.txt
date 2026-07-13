@@ -16,6 +16,8 @@ Trinity: What did you mint?
 
 NukCZ: Dmitri Cherniak's *Ringers*. I hopped in the Discord and chatted with Dmitri: "Hey, I don't really know what just happened, but I'm studying data analytics for my MBA and would love to learn more about what you're doing, or if you have any resources." He was so helpful, so welcoming. Art had always felt disconnecting and foreign to me -- my grandfather, growing up, was an orthodontist, no art background, and he'd get rejected from art fairs he applied to for not being "artsy" enough. So I always had this taste in my mouth that you needed to be a certain way to "get" art. It never felt like it was for me.
 
+[pool: Ringers | Ringers — Dmitri Cherniak | ]
+
 But then I get in this Discord and everyone's so friendly, so helpful, willing to send me resources. This was the exact opposite of what I think my grandfather felt, and that's really when it clicked for me. Generative art unlocked the whole world of art for me. My Twitter now is half Japanese woodblock prints, half generative art -- it's allowed me to connect to my grandfather's work in ways I never thought imaginable. That ties into the Walk and Talk series we'll get to in a bit. That's my seven-to-ten-minute "this is how I got here."
 
 Will: When you were looking up creative or fun things to do with R -- we've interviewed some artists on the show who use R as their coding language to create art -- was that your original idea? Were you going to pursue creative coding yourself? Did you ever try making art with R?
@@ -59,6 +61,8 @@ NukCZ: That's something I've been constantly thinking about over the last few ye
 But then you realize this is a performance art piece unfolding, and you're part of it because you see the art before the artist does. That was such a novel idea to me, and it connected all these dots I'd always enjoyed in my collecting journey while opening new rabbit holes to go down. You'd see a certain algorithm and think, "What's a flow field?" and then go do research on it. The rabbit hole is endless. I've had other hobbies where you go down and eventually hit a bottom—there's nothing left to explore, so you move on. This world is so vast it opens the door to learning about everything, everywhere. I'll start researching an artist from our Web3 world and somehow end up reading about some artist from the 1500s doing a crazy technique, thinking, "How did I get here?" But I've always really enjoyed that.
 
 Going back to collecting philosophy: for the *Ringers* mint, I think it was $100 for everything, and I had $500 to start with, some of which I'd made through Top Shot. I was a student at the time—I wasn't putting in any more than I was willing to lose. $100 for this seemed like a fun experiment, so I tried it. My whole strategy this whole time, and I still do this today, is that I need to discover and research artists before I can no longer afford them. That's been my strategy on fx(hash), on OBJKT, on HEN. A lot of this happens on Tezos just because it tends to be more affordable, but the art is amazing, and if I can get art I love before it's out of my price range, that's what I'm going to do. I don't see that changing, because I don't have unlimited funds for this, so I need to get creative.
+
+[pool: Ringers | Ringers — Dmitri Cherniak | ]
 
 Will: Collecting must have changed a lot over the last few years, then, because we've seen such consolidation—the artists we used to collect affordably are no longer so affordable. At the same time, at least on the generative art side, there hasn't really been a second wave of people who might be the next Iskra or the next Zancan, ascending to those price levels. I feel like none of us would have gotten as into this if it hadn't been so affordable in the beginning—it's not attractive to look at art that's $1,000-plus and think, "well, I guess it's not for me." But at $10 or $50 or $100, it suddenly feels attainable. That's flipped somewhat, along with a lot of the sentiment toward doing things cheaply, doing things randomly, getting that fun of opening one of a thousand pieces in a series. Is that bittersweet to you? Have you adapted a lot, or are you still digging and finding stuff the rest of us maybe aren't finding?
 
@@ -213,6 +217,8 @@ NukCZ: I wasn't at that Skrillex set, unfortunately — I think that was Saturda
 Will: His look has changed so much. He used to have that very distinctive undercut hairstyle, and now he just looks like a regular dude. What happened?
 
 NukCZ: He's not the same Skrillex of old, that's for sure, and the music he plays has always been all over the place — even more so now. He's more into house and deep house trap vibes versus the pure dubstep, brostep of his first couple albums, which I enjoyed the most — unlike anything I'd heard before. That reminds me of reading a book by Kim Asendorf and thinking, this is unlike anything I've seen before — like *Zancan*'s *Garden, Monoliths*, totally different. That's always been a common theme for me: artists willing to do something so different, crazy, and recognizable. People being true to themselves and trying something new — that's what I've always enjoyed, in both digital art and audio.
+
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
 
 Will: 100%.
 

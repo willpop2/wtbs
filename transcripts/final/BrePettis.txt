@@ -122,6 +122,8 @@ They go through the history, the archaeology, or search for things, and then the
 
 As for artists I like—I'll pull up my collection. In general, if I like the aesthetics of something, I'll support it, and if it has a physical component, even more so. I went back and bought a bunch of earlier Shawn Kemp work. Then when fx(hash) 2.0 went live, his *Luminous Echoes* project launched—the previous one was called *Mini Dahlias*, such a great set. *Luminous Echoes* is in the same vein: he makes artworks that, when you redeem them, become stacks of card and paper in different colors that assemble into this amazing layered 3D experience—he laser cuts and assembles them himself. It's clearly a labor of love, because the resale value is like 100 times what you can buy them for from him directly. So I got my *Mini Dahlias* and then a bunch of *Luminous Echoes*. It's the only thing I've ever seen like it.
 
+[pool: Mini Dahlias | Mini Dahlias — ShawnKemp | ]
+
 I still go through and get excited about old stuff on fx(hash) too—PixelSymphony, I got a bunch of those. The outputs from that project are truly delightful, clearly programmed, with an element of randomness while still being beautiful—every single one is beautiful. I also like an artist called Vector Zero. They just did one called *The Machine*—it looks like a TARDIS in space with an asteroid and a black hole. I wish it were an SVG, because it's totally vector line art, but they didn't have that output option. I sort of wish I were a programmer so I could just add an "SVG output" button myself. I can keep going if you like.
 
 Trinity: I think it makes sense as you look through your fx(hash) collection—it actually connects to some conversations we've had, specifically in the TENDER Discord, and it came up in our Kim Asendorf interview a couple of weeks ago: this dichotomy between skeuomorphic generative art—brushstrokes, landscapes, that sort of thing—versus art that's lines, pixels, something more generatively native. Do you find yourself drawn to one more than the other, outside of SVGs, of course? Where do you land in that argument, especially looking through your collection?
@@ -134,6 +136,8 @@ Bre Pettis: Yeah, and unfortunately his color data is in the fill, not the line 
 
 One of my favorite artists is Piter Pasma, because he's done a lot of work that's both configurable after purchase and plottable. My favorite series is *Yip and Yap's Imaginary Playground*—38 out of 100 are minted, it's a 200 Tezos purchase, and I've probably bought 8 of them. I love these because when you run them in your browser, you can add "LW=" for line width—by default it's something like 0.7 or 0.4—and set it to 0.1, meaning the lines go from 0.4 millimeters to 0.1 millimeters, filling the space with four times as many lines. So a drawing he essentially intended as a postcard-sized plot—
 
+[pool: Yip and Yap's Imaginary Playground | Yip and Yap's Imaginary Playground — Piter Pasma | ]
+
 Will: Oh, wow.
 
 Bre Pettis: —you can plot at 24 by 36 inches. It takes about two G2 pens, and all the ink in both, to execute that plot. It's a huge *Yip and Yap* drawing. I really want other people to buy this series, because I want to see the other 62 pieces—I get so much enjoyment out of the first 38.
@@ -144,6 +148,8 @@ Trinity: Really?
 
 Will: Something about it just didn't connect for me compared to some of his other work, like *Industrial Devolution*. I just couldn't figure out what these little guys were doing.
 
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | ]
+
 Bre Pettis: The other piece I love of his is *Geomorphism*—I've got a bunch of those, plus one of the *Nano Panoramas*, one *Industrial Devolution*, and several from *Universal Ray Hatcher*. Even though you can't scale those the same way—messing with the parameters destroys the original composition—it's still incredible. For those who haven't played with it: Piter Pasma made a project that's basically access to his Universal Ray Hatcher. In the parameters, there's a place where you can input math that generates a 3D model, and then the Ray Hatcher applies light, shadow, and lines to it. Go down the rabbit hole on *Universal Ray Hatcher*—it's one of the champion projects of generative art on fx(hash). He just handed out tickets and said, "play with it."
 
 Will: One of the best uses of params for sure.
@@ -151,6 +157,8 @@ Will: One of the best uses of params for sure.
 Bre Pettis: 100% agree.
 
 Will: A great Easter egg too—if you go back and listen to our episode with Piter, probably a year and a half old at this point, we talked to him about his plotted work and how he'd never done a long-form generative piece. He was hesitant about whether he could pull it off for long form. I don't know if that conversation inspired him or if he'd just been working on it independently, but about six or eight months after that episode he finally released *Industrial Devolution*—he'd figured it out, and then the dam broke and he put out all these amazing projects.
+
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | ]
 
 Bre Pettis: Awesome.
 

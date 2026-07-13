@@ -202,6 +202,8 @@ Trinity: We've all benefited from some of KenConsumer's alpha over the years—o
 
 abstractment: The other day, during the *Mountain View* drama, I took advantage of the opportunity and picked one up—was really excited to add that to my collection. I'd also been wanting to get a *Stitch* but missed the mint window, which is one of my recent regrets. I minted several *Glass* pieces that I really like, and I like the *Smolskulls* too. More than anything, though, I love the community around them—it's a great example of where this space can go with the right community built around it. It's kind of what I'd like to eventually build with the Clew Crew, obviously on a much smaller scale.
 
+[pool: Glass | Glass — punevyr | ]
+
 Trinity: Two for two on our interviews loving *Glass*. I need to make that our intro icebreaker question: on a scale of one to ten, how much do you love *Glass*?
 
 Will: How much *Glass* do you own?
@@ -224,6 +226,8 @@ Trinity: I'm surprised you didn't say the NFT drop. That was such a fun moment f
 
 Will: I'll offer some market and collection-related ones, because I don't think we would have gotten to the podcast if it weren't for one key sale I made. I'll complement that with one key purchase I'm really proud of: when Toxy released *Defrag 2*, I think I got two of them. At that point I was still very much in hardcore flipper mode — learning the platform, viewing it purely as a way to accumulate Tez, not really engaging with the art yet. I sold one immediately, probably for 2 or 3x mint. Then the next day, as collectors started coming in, I sold my second one after it revealed for about 700 Tez.
 
+[pool: Defrag 2 | Defrag 2 — toxi | ]
+
 That gave me a month's worth of room to make mistakes — collecting, figuring things out, actually engaging with secondary instead of just minting and flipping, which was the mint-two-sell-one strategy we talked about on our collection-oriented episode. If it hadn't been for that one windfall sale, the momentum could easily have fizzled out for me. It helped me get my feet into the community and feel good about spending and playing without it really impacting my personal finances. Just very, very lucky — a big moment.
 
 Trinity: That moment.
@@ -241,6 +245,8 @@ Will: Congrats on that. Let's hear from you, Trinity — you have to have at lea
 Trinity: I don't have as many big moments as that. There have been some fun-slash-stressful times operating with like 0.3 Tez in the wallet, where you don't even have enough liquidity to list anymore — which is how I became a big fan of the batch-relist tool on Netlify. Use it only at your own risk. Even though that's not fun, because you're gatekept out of literally every drop, including *Clew*, there's something about the scrappiness of digging yourself out of a hole. It forces you to really look at your collection, to figure out what you want to price things at and what you want to put on the market.
 
 That said, I also enjoy having liquidity. One of my favorite moments — I think it was the same day *Sequence* dropped. It was a big day; I actually went into the office, which I do maybe once every five months, so it was special timing to be sitting at my desk during a small office get-together, everyone at the bar, and me just hitting refresh constantly. *Farbteiler* came out — I'd seen some Twitter previews and thought, this is just beautiful. I already loved *The Signatory* by Erik Swahn. It had been a big day — a lot of big days back in December — and I just kept hitting the mint button on *Farbteiler* because the colors were insane, the structure and architecture were insane, everything about it was insane. I ended up minting thirteen of them. I kept looking around fx(hash) thinking, why is this taking so long to mint out? I knew I was onto something. And then just being right.
+
+[pool: Farbteiler | Farbteiler — Erik Swahn | ]
 
 abstractment: Yeah.
 

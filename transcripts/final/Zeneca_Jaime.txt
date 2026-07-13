@@ -122,6 +122,8 @@ Trinity: I think we already see a little bit of pseudo-de-risking today with som
 
 But that brings up one of the other topics we have to talk about. There's the discussion of chain, sometimes the discussion of market, but when I think about gen art, what comes to mind is that it's not just about collecting work. Obviously there's the "oh yes, I'm getting a *Fidenza*" side of it, but you're also collecting an artist — something that comes from a human being. Within the traditional art community that carries a ton of provenance. And that speaks to your idea that these things can just move cross-chain because they have both intrinsic and extrinsic value. So what's your collecting philosophy — when it comes to the artist, the art, the chain, and the cross-collaboration between all of it?
 
+[pool: Fidenza | Fidenza — Tyler Hobbs | ]
+
 Jaime: I don't know if it was a tweet or a post in the Art Blocks Discord, but Dmitry Chernyak — famous for *Ringers* and other things — made a point last year about how, specifically in generative art, people say "I collected a *Fidenza*," or "Do you have a *Fidenza*? Do you have *Ringers*? Do you have a *Squiggle*?" Whereas in the traditional art world it's "Do you have a Hirst? A Koons? A Warhol?" — the artist's name is what gets referenced.
 
 I think we're starting to see that transition now. XCOPY is a great example — people will say "Do you have an XCOPY?" or "I have an XCOPY" rather than naming the specific piece. As time goes on, I think the more prolific artists will get referred to by their name rather than their collections, though obviously the collections still matter a lot. It's just interesting in generative art because one artist might have a collection of tens, hundreds, sometimes thousands of works, versus the traditional world, where it's usually not editions like that.
@@ -144,6 +146,8 @@ Zeneca: —a premium, certainly more than if I did the same thing. But I think i
 
 Trinity: We already see that within generative art, right down to the feature level. *Garden, Monoliths* by Zancan is a great example — people will pay a huge premium for a pink one over one that's more black-and-white sketches. So you can go even further than "I have a Zancan" or "I have a *Garden, Monoliths*" — it's "I have a pink *Garden, Monoliths*." It's a great parallel to Monet's *Haystacks* versus the *Water Lilies*.
 
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | ]
+
 Will: The whole trait thing, which gen art maybe inherited a bit from the PFP space, is odd sometimes. Is pink maybe the rarest *GM*? Sure. But does that mean it's the most aesthetically pleasing one?
 
 Trinity: Maybe not to you.
@@ -165,6 +169,8 @@ There's an interesting inflection point where, as an artist gets more popular, r
 Will: I don't want to open up this conversation too much, but when *QQL* was released, one of the things that ultimately bummed me out about it was that it could have been a great opportunity to let a lot of people collect at a much cheaper level and own a piece from Tyler—it was clear from Twitter and social media what that algorithm and tool was capable of producing. Ultimately the decision was made to restrict supply. I'm not faulting that decision necessarily—artists have to think about themselves, their careers, and their previous collectors—but the full extent of the algorithm was never going to be explored across the number of passes that were minted.
 
 One of my personal long-term theses is that I'm looking for people doing 1,000+ editions, really putting work into code that can survive a large number of outputs without hitting sameness—not necessarily making another *Fidenza*, but code robust enough that you don't get two pieces that look too close together. So much care and attention goes into that. To me, *QQL* felt like a slight missed opportunity—totally understandable, but playing off what you were saying about XCOPY: they could have easily done 10,000, or gone uncapped. Mint for 48 hours, close it after that, let anyone who wants one get it for an ETH or half an ETH each. Then we'd see a lot more *QQLs* out there.
+
+[pool: Fidenza | Fidenza — Tyler Hobbs | ]
 
 Zeneca: That would be interesting. A couple things on that. First, even though you can't do that, if we're just talking about the art itself, the algorithm is open and anyone who wants to generate outputs can do it for $0. There's unlimited supply for anyone who wants it, without restriction.
 
@@ -290,6 +296,8 @@ Zeneca: You could just look at my collection on fx(hash) and infer which project
 
 I love that collection very much. I've also recently become really enamored with MP Kausa's stuff — Michael something, I'm sorry, I can't pronounce his last name. He did *Chimera* on Art Blocks, which I like a lot. But it wasn't until I went to his website and saw his earlier work that I realized this guy is doing next-level stuff. *Parnassus* was actually what led me to his website — I saw that collection and thought, I like this even more than *Chimera*. What else has he done? So he's another artist I've lately been thinking is basically a master.
 
+[pool: Chimera | Chimera — mpkoz | ]
+
 Jaime: One more — the screen name is NSMAG. I believe they're from Thailand; I'll try to pronounce their full name — Natakit Suzanthitanon. They did an Art Blocks Factory collection called *Daisies*, but they've done two or three other generative art collections outside of Art Blocks. They've been a generative artist for a long time but remain fairly unknown, in and outside the space. Looking at the spectrum of their work, you can see the evolution — where they came from and what they're creating now — and I see them as potentially grail-worthy. I'd want to see some larger collections, but I'm a huge fan of *Daisies*. I might be the largest holder — I missed the mint, was really bummed about it, think I set the wrong alarm or something, but then went through and picked up tons. They're very, very appealing to me.
 
 Will: I'm not familiar with any of these Art Blocks projects, so this is great to hear. I've only ever minted two things on Art Blocks.
@@ -311,6 +319,8 @@ Will: Yeah, *Mazenaw*.
 Jaime: I have an fx(hash) artist — I don't know how to pronounce it, Y-K-X-O-T-K-X, "Exotics"? *The Traveler* and *the Flower Arrangement*.
 
 Trinity: If you like daisies, then yeah.
+
+[pool: Daisies | Daisies — Natthakit Susanthitanon (NSmag) | ]
 
 Jaime: *Traveler* is the one I love so much — a really, really cool collection. And *One Paper Planes* by Phaust. I'm just going through my collection now.
 
