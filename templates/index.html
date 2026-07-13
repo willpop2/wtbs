@@ -41,22 +41,19 @@
     <span class="c" id="count">{{ episodes|length }} entries // newest first</span>
   </div>
   <div class="filters" id="filters">
-    <span class="chip on" data-facet="all">All</span>
-    <span class="chip" data-facet="type" data-val="artist">Artists</span>
-    <span class="chip" data-facet="type" data-val="collector">Collectors</span>
-    <span class="chip" data-facet="type" data-val="builder">Builders</span>
-    <span class="chip" data-facet="plat" data-val="fxhash">fx(hash)</span>
-    <span class="chip" data-facet="plat" data-val="art-blocks">Art Blocks</span>
-    <span class="chip" data-facet="plat" data-val="verse">Verse</span>
+    <span class="chip on" data-val="all">All</span>
+    <span class="chip" data-val="artist">Artists</span>
+    <span class="chip" data-val="platform">Platform</span>
+    <span class="chip" data-val="collector">Collectors</span>
   </div>
   <div class="rows" id="rows">
     {% for ep in episodes %}
-    <a class="r{% if ep.is_founder %} f{% endif %}" href="{{ ep.slug }}.html"
-       data-type="{{ ep.guest_type }}" data-plat="{{ ep.platform_key }}" data-search="{{ ep.search|e }}">
+    <a class="r" href="{{ ep.slug }}.html"
+       data-type="{{ ep.guest_type|lower }}" data-search="{{ ep.search|e }}">
       <div class="i">{{ ep.num }}</div>
       <div class="nm">{{ ep.guest }}</div>
-      <div class="rl">{{ ep.role }}</div>
-      <div class="pl">{{ ep.platform }}</div>
+      <div class="tt">{{ ep.display_title }}</div>
+      <div class="ty">{{ ep.guest_type }}</div>
       <div class="du">{{ ep.duration }}</div>
       <div class="go">→</div>
     </a>
@@ -87,13 +84,11 @@
   var rows = Array.from(document.querySelectorAll('#rows .r'));
   var chips = Array.from(document.querySelectorAll('.chip'));
   var search = document.getElementById('search'), count = document.getElementById('count'), empty = document.getElementById('empty');
-  var facet = { kind: 'all' };
+  var facet = 'all';
   function apply() {
     var q = search.value.trim().toLowerCase(), n = 0;
     rows.forEach(function (r) {
-      var okF = facet.kind === 'all'
-        || (facet.kind === 'type' && r.dataset.type === facet.val)
-        || (facet.kind === 'plat' && r.dataset.plat === facet.val);
+      var okF = facet === 'all' || r.dataset.type.indexOf(facet) > -1;   // guest_type is multi-value
       var okQ = !q || r.dataset.search.indexOf(q) > -1;
       var show = okF && okQ; r.style.display = show ? '' : 'none'; if (show) n++;
     });
@@ -102,7 +97,7 @@
   }
   chips.forEach(function (c) { c.addEventListener('click', function () {
     chips.forEach(function (x) { x.classList.remove('on'); }); c.classList.add('on');
-    facet = c.dataset.facet === 'all' ? { kind: 'all' } : { kind: c.dataset.facet === 'type' ? 'type' : 'plat', val: c.dataset.val };
+    facet = c.dataset.val;
     apply();
   });});
   search.addEventListener('input', apply);

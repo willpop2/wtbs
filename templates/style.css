@@ -65,13 +65,14 @@ em{font-style:italic}
 .chip.on{background:var(--k);color:var(--w)}
 .chip:hover{background:var(--acid);color:var(--k)}
 .chip.on:hover{color:var(--acid)}
-.rows .r{display:grid;grid-template-columns:70px 1fr 240px 130px 70px 40px;align-items:stretch;border-bottom:3px solid var(--k)}
+.rows .r{display:grid;grid-template-columns:70px minmax(160px,1fr) 1.5fr 160px 70px 40px;align-items:stretch;border-bottom:3px solid var(--k)}
 .rows .r>div{padding:16px 14px;border-right:3px solid var(--k);display:flex;align-items:center}
 .rows .r>div:last-child{border-right:none;justify-content:center}
 .rows .r:hover{background:var(--k);color:var(--w)}
 .rows .i{font-family:var(--mono);font-size:14px}
 .rows .nm{font-weight:700;font-size:22px;letter-spacing:-.01em;text-transform:uppercase}
-.rows .rl,.rows .pl{font-family:var(--mono);font-size:12px;text-transform:uppercase}
+.rows .tt{font-size:14px;line-height:1.25}
+.rows .ty{font-family:var(--mono);font-size:12px;text-transform:uppercase}
 .rows .du{font-family:var(--mono);font-size:13px}
 .rows .go{font-weight:700}
 .rows .r:hover .go{color:var(--acid)}
@@ -174,6 +175,6 @@ footer a{text-decoration:underline}
   .stats{grid-template-columns:1fr 1fr}
   .quote{grid-template-columns:1fr}.quote .tag{border-right:none;border-bottom:3px solid var(--k)}
   .read{grid-template-columns:1fr}.read .meta{border-right:none;border-bottom:3px solid var(--k)}
-  .rows .r{grid-template-columns:50px 1fr 40px}.rows .rl,.rows .pl,.rows .du{display:none}
+  .rows .r{grid-template-columns:50px 1fr 40px}.rows .tt,.rows .ty,.rows .du{display:none}
   .nav .links a:not(:last-child){display:none}
 }

@@ -169,6 +169,21 @@ def load_changelog() -> dict:
     return log
 
 
+def load_curated() -> dict:
+    """slug -> {guest_type, display_title} from curated_meta.csv — hand-cleaned overrides
+    for the ledger (multi-value guest_type like 'Collector, Artist'). Falls back to the
+    auto heuristics when a slug/field is absent."""
+    out = {}
+    p = ROOT / "curated_meta.csv"
+    if p.exists():
+        for r in csv.DictReader(p.open(encoding="utf-8")):
+            out[(r.get("slug") or "").strip()] = {
+                "guest_type": (r.get("guest_type") or "").strip(),
+                "display_title": (r.get("display_title") or "").strip(),
+            }
+    return out
+
+
 def guest_type(role: str, bio: str) -> str:
     if role != "Generative artist":
         return "builder"
@@ -334,6 +349,7 @@ def render_transcript(raw: str, slug: str = "") -> str:
 def main() -> None:
     meta, feed_total = feed_metadata()
     changelog = load_changelog()
+    curated = load_curated()
     env = Environment(loader=FileSystemLoader(str(ROOT / "templates")), autoescape=False)
     FINAL.mkdir(parents=True, exist_ok=True)
 
@@ -353,15 +369,18 @@ def main() -> None:
         role, platform = role_and_platform(r["title"], r["guests"], bio + " " + raw[:3000])
         asr_path = RAW_ASR / f"{r['slug']}.txt"
         asr = asr_path.read_text(encoding="utf-8") if asr_path.exists() else ""
+        cur = curated.get(r["slug"], {})
+        dtitle = cur.get("display_title") or display_title(r["title"], guest)
+        gtype = cur.get("guest_type") or guest_type(role, bio)   # curated multi-value, else auto
         episodes.append({
             "slug": r["slug"], "type": "Interview", "title": r["title"],
-            "display_title": display_title(r["title"], guest), "guest": guest,
+            "display_title": dtitle, "guest": guest,
             "date_str": f"{dt:%B} {dt.day}, {dt.year}" if dt else "",
             "date_short": f"{dt:%b %Y}".upper() if dt else "",
             "year": dt.year if dt else 0, "date_sort": dt.timestamp() if dt else 0,
             "duration": hm(m.get("secs", 0)), "role": role, "platform": platform,
             "platform_key": PLATFORM_KEY.get(platform, "other"),
-            "guest_type": guest_type(role, bio), "is_founder": role.startswith("Founder"),
+            "guest_type": gtype, "is_founder": role.startswith("Founder"),
             "summary": summary_from(m.get("description", "")),
             "audio_src": m.get("audio_url") or f"../audio/{r['audio_file']}",
             "transcript_html": render_transcript(raw, r["slug"]),
@@ -370,7 +389,7 @@ def main() -> None:
             "links": extract_links(bio), "quote": pull_quote(raw),
             "changelog": changelog.get(r["slug"], []) + [BASELINE_ENTRY],
             "edit_count": len(changelog.get(r["slug"], [])),
-            "search": f"{r['title']} {guest} {role} {platform}".lower(),
+            "search": f"{r['title']} {dtitle} {guest} {gtype}".lower(),
         })
 
     episodes.sort(key=lambda e: e["date_sort"], reverse=True)
