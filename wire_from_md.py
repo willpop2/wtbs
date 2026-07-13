@@ -117,6 +117,33 @@ def resolve_raster(url):
     workslug, _, artistslug = slug.rpartition("-by-")
     return _caip_cfg(m.group(1), deslug(workslug) if workslug else "", deslug(artistslug) if artistslug else "")
 
+_verse_cache = {}
+def resolve_verse(url):
+    """verse.works series -> config. Verse pages don't expose one clean contract, so we
+    take every 0x address on the page and keep the first whose tokens actually match the
+    work name (via Alchemy). Verse primary-market editions have contractAddress:null and
+    stay unresolved."""
+    u = url.split("?")[0]
+    if u not in _verse_cache:
+        try:
+            _verse_cache[u] = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}),
+                                                      timeout=25).read().decode("utf-8", "ignore").replace('\\"', '"')
+        except Exception:
+            _verse_cache[u] = ""
+    html = _verse_cache[u]
+    slug = url.split("/series/")[-1].split("?")[0]
+    workslug, _, artistslug = slug.rpartition("-by-")
+    name, artist = deslug(workslug), deslug(artistslug)
+    base = f"https://eth-mainnet.g.alchemy.com/nft/v3/{sp._key()}"
+    for c in dict.fromkeys(re.findall(r"0x[a-fA-F0-9]{40}", html)):
+        try:
+            d = sp._get(f"{base}/getNFTsForContract?contractAddress={c}&withMetadata=true&limit=20")
+        except Exception:
+            continue
+        if any(name.lower() in (n.get("name") or "").lower() for n in d.get("nfts", [])):
+            return {"source": "alchemy", "chain": "eth", "contract": c, "name_like": name, "artist": artist}
+    return None
+
 def resolve_raster_token(url, work):
     """raster.art/token/<chain>/<contract>/<id> -> config (contract is right in the URL)."""
     p = url.split("/token/")[-1].split("?")[0].split("/")
@@ -157,6 +184,8 @@ for ln in lines:
         cfg = ab_resolve(work) or resolve_raster(url)
     elif "raster.art/token/" in url:
         cfg = resolve_raster_token(url, work)
+    elif "verse.works" in url:
+        cfg = resolve_verse(url)
     if cfg:
         configs.setdefault(ep, {})[work] = cfg
     elif url and url != "________":
