@@ -6,7 +6,7 @@ compatibility_date = "2024-11-01"
 [vars]
 MAIL_TO = "wilson.price@gmail.com"          # where the daily digest is sent
 MAIL_FROM = "onboarding@resend.dev"         # Resend test sender (to your own inbox)
-ALLOW_ORIGIN = "https://willpop2.github.io" # GitHub Pages origin (scheme+host only)
+ALLOW_ORIGIN = "https://wtbs.show"          # canonical site origin (scheme+host only)
 
 # Daily digest time — cron is in UTC. "0 14 * * *" = 14:00 UTC (~9am ET / 6am PT).
 [triggers]

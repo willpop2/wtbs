@@ -31,7 +31,7 @@ keep us from stepping on each other.
 
 `site/` is **generated** and **gitignored**. GitHub Actions builds it from
 source on every push to `main` and deploys to
-https://willpop2.github.io/wtbs/. Never add `site/` back to git — that's what
+https://wtbs.show. Never add `site/` back to git — that's what
 used to cause constant conflicts.
 
 To preview locally:

@@ -24,6 +24,7 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = Path(__file__).parent
 SITE = ROOT / "site"
+CUSTOM_DOMAIN = "wtbs.show"          # GitHub Pages custom domain (canonical apex)
 CLEAN = ROOT / "transcripts" / "clean"
 FINAL = ROOT / "transcripts" / "final"
 RAW_ASR = ROOT / "transcripts" / "raw"
@@ -402,6 +403,7 @@ def main() -> None:
     SITE.mkdir()
     shutil.copy(ROOT / "templates" / "style.css", SITE / "style.css")
     shutil.copy(ROOT / "templates" / "suggest.js", SITE / "suggest.js")
+    (SITE / "CNAME").write_text(CUSTOM_DOMAIN + "\n", encoding="utf-8")   # survives every rebuild
     if IMAGES.exists():
         shutil.copytree(IMAGES, SITE / "images")
     (SITE / "episodes.json").write_text(
