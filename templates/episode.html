@@ -115,15 +115,31 @@
           a.href = pick.s; a.target = '_blank'; a.rel = 'noopener'; a.appendChild(img); cell.appendChild(a);
         } else { cell.appendChild(img); }
         var live = pool.items ? pick.a : '';
-        if (live) {                   // "watch live" in a new tab — always the exact piece, never
-          // freezes the reading page. Raw ipfs artifacts aren't seeded (would render a random
-          // output), so for those open the token page, which shows the correct animated piece.
-          var target = live.indexOf('ipfs.io') < 0 ? live : (pick.s || live);
-          var btn = document.createElement('a');
-          btn.className = 'ep-play'; btn.textContent = '▶'; btn.title = 'Watch live';
-          btn.setAttribute('aria-label', 'Watch live'); btn.href = target;
-          btn.target = '_blank'; btn.rel = 'noopener';
+        // Embed inline ONLY for seeded, embed-safe generators (render the exact token):
+        // Art Blocks (generator.artblocks.io, seeded by token id) + fx(hash) gateway
+        // (gateway.fxhash.xyz/…?fxhash=…). Raw ipfs artifacts load unseeded (random output)
+        // and can be heavy, so those open the correct token page in a new tab.
+        var embeddable = live && (live.indexOf('generator.artblocks.io') > -1 || live.indexOf('gateway.fxhash.xyz') > -1);
+        if (embeddable) {
+          var btn = document.createElement('button'), frame = null;
+          btn.type = 'button'; btn.className = 'ep-play'; btn.textContent = '▶'; btn.title = 'Play live';
+          btn.addEventListener('click', function () {
+            if (frame) { frame.remove(); frame = null; btn.textContent = '▶'; return; }
+            document.querySelectorAll('iframe.ep-frame').forEach(function (f) {   // one at a time
+              var b = f.parentNode.querySelector('.ep-play'); if (b) b.textContent = '▶'; f.remove();
+            });
+            frame = document.createElement('iframe');
+            frame.src = live; frame.loading = 'lazy'; frame.className = 'ep-frame';
+            frame.setAttribute('sandbox', 'allow-scripts allow-same-origin');
+            cell.appendChild(frame); btn.textContent = '■';
+          });
           cell.appendChild(btn);
+        } else if (live) {
+          var target = live.indexOf('ipfs.io') < 0 ? live : (pick.s || live);
+          var a2 = document.createElement('a');
+          a2.className = 'ep-play'; a2.textContent = '▶'; a2.title = 'Watch live';
+          a2.href = target; a2.target = '_blank'; a2.rel = 'noopener';
+          cell.appendChild(a2);
         }
         if (fc) fig.insertBefore(cell, fc); else fig.appendChild(cell);
       });
