@@ -236,7 +236,7 @@ Maya Man: Hell yeah.
 
 Will: Maya, listening to all this -- do you have a kind of life philosophy? I ask because we had a friend who got so into astrology that he basically believed everything was deterministic, that there was no free will, that the stars explained it all perfectly. As someone with a math and physics background, do you have a take on free will versus determinism? My brother, who's a neuroscientist, doesn't think we have free will either -- he gets down to the molecular level, everything just molecules reacting. Even though we can't perceive or predict it, his belief is that we're not truly free, because it all comes down to the random movement of particles. Curious what you think.
 
-[pool: Fake It Till You Make It | Fake It Till You Make It — Maya Man | | 1]
+[pool: Ugly Bitches | Ugly Bitches — Maya Man | | 3]
 
 Maya Man: It's a good question. I actually find a lot of comfort in Nick Bostrom's philosophy -- probability-wise, we're all living in a computer simulation. That's unsettling to some, but it's a relief to me, because I find the concept of free will pretty intimidating. So I find comfort in believing maybe we don't fully have it. Part of why I've been working on this piece is that I find it easy to tip toward nihilism when I overthink not having free will. Because of that, I've found a lot of joy and momentary relief in something like astrology, or in meaning-making for the sake of meaning-making.
 
@@ -244,15 +244,13 @@ Going back to lucky numbers -- also in the Verse show there's a clock I made in 
 
 Will: I think that's a huge part of internet culture right now, especially for millennials and Gen Z -- this intersection where it has to be fun, kind of sarcastic or satirical, but also very serious. A lot of how we comment on things becomes hard to understand without an element of humor. Parody is in, in a way. There's a levity to your work, even though you're commenting on something that's core is serious -- the belief systems people have, the way people communicate, often communicating struggle. For both these projects, but maybe more so *Fake It Till You Make It*, there's this serious underlying theme of perseverance, of "you can do it." Being online right now is like: how do I make it through the day?
 
-[pool: Fake It Till You Make It | Fake It Till You Make It — Maya Man | | 1]
-
 Maya Man: So much of content online operates on humor -- meme culture completely runs on it, and humor's a huge part of my work, very present in a lot of my pieces over the past few years. I find it invites people into the work in a special way. I love watching people look at a piece and laugh because something sounds slightly off, or so absurd it's funny. That's in line with a lot of current post-cringe content online -- there's a lot of humor, but it's often eye-roll humor, funny because it refuses to take anything too seriously.
 
 With my work, I really like there to be an element of absurdity, which often comes through as humor, because being on the internet is, at this point, completely absurd. The way we all engage with this kind of content -- the pace at which we consume this media -- is so heightened, and honestly kind of insane for humanity to think about. So I like having that element.
 
 Trinity: I have a question that touches on the fatalism -- the humoristic fatalism -- and also that joy you get hitting refresh. Do you use GPT-2 text models to seed any of the work? Maybe not in every project, but some. We did a project recently based on text models fed transcripts of our episodes, seeing what came out. Some of it was so funny and ludicrous, but also so true at the same time -- it felt like a horoscope, especially when we were curating which outputs to include. I was wondering if you'd had that experience training models on the kind of content you're working with in *Fake It Till You Make It* or *I'm Feeling Lucky*.
 
-[pool: Fake It Till You Make It | Fake It Till You Make It — Maya Man | | 1]
+[pool: I'm Feeling Lucky | I'm Feeling Lucky — Maya Man | | 1]
 
 Maya Man: I don't use any machine learning, or AI, in either project -- it's all a collage-based language system. I haven't jumped into using it in a piece specifically yet, though I've played around with having it write a statement about a project, just to see what comes out. But I think that element of humor -- it happens when the output is recognizable and coherent enough that you generally understand what it's saying and how it relates, but it becomes funny when it says something recognizable that's just not totally there. Or it's funny even when it's recognizable and right, just because knowing it came from a machine makes it funny in itself.
 
@@ -266,7 +264,7 @@ Maya Man: I'm from Mechanicsburg.
 
 Trinity: I went to school around there.
 
-[pool: Fake It Till You Make It | Fake It Till You Make It — Maya Man | | 1]
+[pool: Ugly Bitches | Ugly Bitches — Maya Man | | 1]
 
 Maya Man: Wait, where did you go to school?
 
@@ -280,7 +278,7 @@ Maya Man: Oh yeah, Carlisle. My mom used to work in Carlisle. That's so funny.
 
 Will: Both Trinity and I are from—well, I wasn't born there, but my family's in the Pittsburgh area, and West Virginia.
 
-[pool: Fake It Till You Make It | Fake It Till You Make It — Maya Man | | 1]
+[pool: Ugly Bitches | Ugly Bitches — Maya Man | | 1]
 
 Maya Man: No way. Is that how you know each other?
 
@@ -294,7 +292,7 @@ Trinity: Let me look through. You can go.
 
 Will: Here's one we always like to ask: what do you listen to while you code, and do you have any recommendations for us? I'd like to extend that beyond music to general media too—any meme accounts we should be following that are Maya Man approved?
 
-[pool: Fake It Till You Make It | Fake It Till You Make It — Maya Man | | 1]
+[pool: I'm Feeling Lucky | I'm Feeling Lucky — Maya Man | | 1]
 
 Maya Man: I wasn't thinking about meme accounts. Truly, so many times I've wanted to be the cool programmer who listens to fun music while they code, but I can't let anything get between my brainwaves—I get too distracted. There was a period of my life where I listened to the song "Level Up" over and over while coding. Caroline Polachek has this album of sine waves she created, no words, just sounds, which is sometimes nice to listen to. But truly, I don't really listen to anything. If I try to start listening to something, I always end up turning it off because I can't think.
 
@@ -308,7 +306,7 @@ Maya Man: A-M-O-R.
 
 Will: Gotcha, sick. All right, everyone check that out.
 
-[pool: Fake It Till You Make It | Fake It Till You Make It — Maya Man | | 1]
+[pool: Ugly Bitches | Ugly Bitches — Maya Man | | 1]
 
 Trinity: Rapid fire number two: what types of art by other people do you love and appreciate?
 
@@ -316,7 +314,7 @@ Maya Man: I love a lot of work that focuses on the internet. I pay attention to 
 
 I also think about people doing performance work online, like Ann Hirsch, who I collaborated with on *Ugly Bitches*, a project released earlier this year. She has a performance called *Scandalicious* that was on YouTube in 2008, where she performs as a character named Caroline, dancing and talking to the camera. It's a really early example of interrogating the performance of femininity on the internet, specifically on a social media platform where you can have an audience in a way you never could in a more traditional space. Artists doing that kind of work are really interesting to me—Arvida Byström, Molly Soda, artists interrogating self-portraiture in relationship to the internet and technology.
 
-[pool: Ugly Bitches | Ugly Bitches — Maya Man | | 3]
+[pool: Ugly Bitches | Ugly Bitches — Maya Man | | 1]
 
 Will: Right on. Here's another one, maybe with some overlap: who would you like to hear as an interview guest in the future?
 
@@ -382,7 +380,7 @@ Will: Let's wrap it up here. Maya, before we conclude, is there anything you wan
 
 Maya Man: *I'm Feeling Lucky* releases on Thursday, September 14th at 1:00 PM Eastern, 6:00 PM BST — this episode will come out before then, so that's the first thing. Second, I'm working on a physical book focused on *Fake It Till You Make It*, the project and the collection. That'll be coming out early 2024. I'm really excited about creating a physical object to represent the collection — it's been really special.
 
-[pool: Fake It Till You Make It | Fake It Till You Make It — Maya Man | | 1]
+[pool: I'm Feeling Lucky | I'm Feeling Lucky — Maya Man | | 1]
 
 Will: Thank you so much, Maya, for coming on the show. It's been amazing to talk to you — we covered territory we haven't touched on before. This was a really fun interview.
 

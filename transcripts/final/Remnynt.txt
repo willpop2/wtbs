@@ -124,7 +124,7 @@ Will: Yeah, right.
 
 Jimmy: Perspective matters a ton when thinking about this. This particular piece was actually a print from that same shop that did my [*Proscenium*](https://www.raster.art/artwork/proscenium-by-remnynt?sort=date-desc) release -- maybe a halfway point in the algorithm for [*Architectonica*](https://www.raster.art/artwork/architectonica-by-remnynt) prints. It gets at something I've been thinking about, given where we're at with the market, with NFTs, with crypto in general. The people who are still here are here because they love it. I think they're in it for the long term. They like the idea that we can put something on a blockchain and trust it'll be there essentially forever -- cave painting of the digital age. That's cool. But right now, we don't have broad adoption. Maybe we'll see another exciting step up, maybe we won't. Maybe it'll be 100 years before people treat this stuff like cave paintings again. But the point I'm getting to is: if I want to keep doing this as a generative artist, if I want that to be my focus, I need to reach the internet -- not just our scene. I want to reach both. And maybe the way to reach everyone is by making really awesome prints. So I'm exploring that idea.
 
-[pool: Architectonica | Architectonica — remnynt | | 1]
+[pool: Proscenium | Proscenium — remnynt | | 1]
 
 Will: Not making people use a wallet, right? Same issue as gaming. I'm curious to see how more artists navigate this, especially with Twitter struggling -- crypto still lives there and has dug in, for better or worse -- versus Instagram, which is more natively visual and isn't going to bury you for sharing images. If you get 100,000 followers on Instagram, you don't have to worry that 10,000 of them only do Tezos, 20,000 only do Ethereum, and one guy only does Cardano for some reason -- you don't have to worry about your fan base already being split into silos based on how they collect. But you also don't get that rush of watching an auction, that [Art Blocks](https://www.artblocks.io/artists/remnynt) thing. You don't get that speculative immediacy that's so unique to crypto -- or at least what it used to be.
 
@@ -180,7 +180,7 @@ Jimmy: That's awesome.
 
 Will: Do you collect? I know you said you traded a lot throughout your crypto career, but on the art side, what do you gravitate toward? What are you actually holding in the vault? Have you got prints or plots up around the house from other artists?
 
-[pool: Architectonica | Architectonica — remnynt | | 1]
+[pool: Vibes | Vibes — remnynt | | 3]
 
 Jimmy: I have some stuff from Marfa 2024, a lot of my own prints, and a good number of NFTs that are really special to me. The biggest one is probably [*Terraforms*](https://www.raster.art/artwork/terraforms-by-mathcastles) -- some in their native state, and some I've drawn my childhood heroes on. I've got a *Terraform* with Link, from *A Link to the Past*, holding his sword up. I've got Ness from *EarthBound*.
 
@@ -216,7 +216,7 @@ Will: Okay, yeah.
 
 Jimmy: Thursday, Taking Back Sunday, Saves the Day, all that. Got really into Radiohead in college, especially *In Rainbows* — awesome album. More recently I've been getting back into classic '70s rock. Yes is my happy place right now. Beatles, America, Elton John — we were listening to Jimmy Buffett the other day too. Anything upbeat, the stuff our parents would've played. It helps with the kid chaos, gets some good vibes going. Yes is my current happy place, though.
 
-[pool: Vibes | Vibes — remnynt | | 3]
+[pool: Vibes | Vibes — remnynt | | 1]
 
 Will: What's the Yes album — *Tales from Topographic Oceans*, or something like that?
 

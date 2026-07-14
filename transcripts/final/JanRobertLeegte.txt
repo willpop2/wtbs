@@ -20,6 +20,8 @@ I'd always been interested in computers. I grew up with a Commodore, and my dad 
 
 I was very lucky to go to an art school in Rotterdam — this was '95 — that had heavily invested in computers and had a lot of Silicon Graphics machines. I don't know if anybody remembers what those are, but they were these teeny little supercomputers, probably as fast as a cheap phone now. They were used for 3D rendering in the early days, and nobody used them — there was a whole workshop full of them sitting idle. But there were also classes in interaction design, working with Director and then Flash, and we even had lessons in web — learning how to make web pages.
 
+[pool: Web | Web — Jan Robert Leegte | | 3]
+
 I did all of that as a sculptor, because I was very interested in learning it. It was through the interaction design teacher — who miraculously knew about net art — that things clicked. This was '96, which is crazy for a teacher to know about that. I've never met a teacher like that since. He showed me Jody's work, jody.org — I don't know if you're familiar, but they were pioneers of digital, web-based, net art, going back to the early '90s. They actually have a big installation in the permanent collection at MoMA. I'm always surprised people don't know them — they're up in MoMA! Very impressive work.
 
 So I got shown that and thought, wow, this is mind-blowing. But I still didn't really get into it until I got my own web hosting package and uploaded my first experiment. That moment — pressing the button, watching the file go to the web server, then visiting it in your browser — became mythical to me. That's when I thought: wait a minute, this is a completely new field. I think it was the public aspect of it — the realness of it being out there, people can see it, it's not on your computer anymore, it's elsewhere, it's out there, it becomes public software in a way. People can click on it, and it really resembled architecture — this is physical stuff you can make. So I instantly saw it as installations: installations of scrollbars and buttons and spaces and frames and color fields. I never really looked back.
@@ -31,6 +33,8 @@ Trinity: When you talk about using it as a form of installation — have you see
 Jan Robert Leegte: I think I have. Is that an old one?
 
 Trinity: The one with Angelina Jolie.
+
+[pool: Buttons | Buttons — Jan Robert Leegte | | 3]
 
 Jan Robert Leegte: Yeah, exactly, the old one.
 
@@ -44,6 +48,8 @@ Jan Robert Leegte: The best book ever. One of my top, top, top ones. That instal
 
 Will: You mentioned the installation quality of uploading your own website, and I came across an interview where you spoke about the internet broadly as a public space to perform in. Trinity and I remember — we're not as old as you, but we're pretty old for crypto — the early AOL disc days. We were right on the edge, but not experimenting in the same way you were. As someone who's been active in creating and documenting this space for coming up on 30 years, what have you observed has changed, and how is that reflected in your work?
 
+[pool: Web | Web — Jan Robert Leegte | | 1]
+
 Jan Robert Leegte: That's such a big one. I see all the big movements reflected across Web 1, 2, and 3. Web 2 was never really my medium, because my work is so material and not social per se — there are wonderful artists who cornered that social aspect of the web, in what's called the post-internet phase, art-historically. So you have net art in the '90s, post-internet, and now blockchain art — three big movements in internet art.
 
 A key point of the second one was bridging into the gallery space — that was very defining of the post-internet movement, and something I was doing since 2000, 2002. My first translational piece put scrollbars into the gallery space as projections on wood, and I've never really changed that. It's this game of physical works across all kinds of media, but always centered around the network computer as a subject — adding to this research, this narrative, trying to dissect what this machine is, artistically and as a phenomenon in life. So I hop quite easily from medium to medium.
@@ -52,11 +58,15 @@ That's easier for me coming from art and adding the internet, because working wi
 
 Then Web3 came, and that was a first real emancipation of net art. Suddenly it had a base, a societal value — though people disagree with that — but there was a massive community supporting it, understanding it, wanting to learn. It became like a circle for me, coming back to making net-based work as a core project, plus all the quirks of the movement — blockchain comes with its own peculiarities and specific technologies you have to engage with, which makes it exciting.
 
+[pool: Web | Web — Jan Robert Leegte | | 1]
+
 For me, it's amazing to see that history unfold. That's the great thing about working with the internet — it constantly surprises you. Who thought Web3 was coming? Five years before, nobody had a clue, and it blew us all away. AI is next — it's going to change everything, the way Web2 and social media changed everything. Ask people five years before, and nobody really sees it coming. I find that fascinating. This internet has a mind of its own, and we just have to go with it.
 
 Trinity: I think maybe one of the differences between net art and AI is that you have people like yourself who've been practicing net art for years and years, and then suddenly there's this huge, hungry community of people who want to support the movement. Whereas with AI, it's a much smaller niche of computational geniuses who may have been dabbling in the past — it's more about the proliferation and accessibility of AI. What was it like for you coming into the world of Web3 and blockchain? Was it like coming home?
 
 Jan Robert Leegte: I wasn't that early — my first drop was in November 2021, just after that crazy summer, which I missed entirely. Before that I was just trying to survive. I have two young kids, ten jobs, you know the drill — it's hard trying to maintain being an artist full-time, and I didn't have the space to look into this. So I saw it superficially, as many did — just square images — and I didn't see the point. I wasn't anti per se, but I didn't see the innovation in it. That's something hard for the pure Web3 community to understand, but the amount of innovation done in digital art before that is immaculate — in a lot of ways further along than what Web3 was doing at the time. So when I just saw a square image, I thought, this hasn't even started. I was missing all the nice pieces.
+
+[pool: Web | Web — Jan Robert Leegte | | 1]
 
 It was a tough time — I was heading into a nervous breakdown, had to quit all my jobs, drop everything. In the middle of that panic, Harm van den Dorpel — you probably know him from *Mutant Garden Seeder* and other drops — came over. He's a good friend of mine, and he'd just dropped *Mutant Garden Seeder* to huge success. He brought a crate of beer and just kept talking at me, giving me the pep talk: you have to join, this is so fitting to what you're doing. Then he left, and I was thoroughly confused, but I used my last bit of strength to look into it. It actually felt therapeutic to spend an hour or two a day playing in this new field without any obligations.
 
@@ -76,15 +86,17 @@ Jan Robert Leegte: Deploy contract and there it goes.
 
 Will: I'm curious — so much of your early work, especially in those early web days, was about running your own server and uploading a project as a free, interactive, exploratory thing. Moving into NFTs, from a world where you were basically publishing for free — did you feel any tension around the idea of adding ownership to the internet? That doesn't get talked about much. Obviously it's great that artists can now sell their work, but there's another side to that coin. Some people's vision for crypto is to make everything ownable. Do we actually want that?
 
+[pool: Web | Web — Jan Robert Leegte | | 1]
+
 Jan Robert Leegte: It's a specificity of the medium — it works better with some works than others. It's not one-size-fits-all, and a lot of net-based or digital art just isn't translatable to NFTs. If you drew it as a Venn diagram, you'd have this big pool of digital art, a smaller island of art within it, and then a smaller subset still that's NFTs, because it's more specific. I can make browser-based art as a collectible series, but if I don't have to constrain it that way, I have much more freedom. And if I don't even need a browser, I can make even crazier things. So it's limited, and I think people forget that in the craziness — like this is everything, this is perfect. It is limited. Pros and cons. It's fantastic to engage with an audience and have that support, but I think the audience around the work is one of the most powerful things here, and it could be utilized more. That's a future direction I'd like to help push — more medium specificity, more experimentation. There's a lot of conservatism too.
 
 The one I found most telling was, of course, the goose from *Ringers* — one of the most celebrated icons of the NFT generative art movement — depicted as a framed picture of a goose on a wall, which is a centuries-old trope. That's not exactly the progression we're talking about. It shows how conservative the audience generally is, which is normal — it's true in the art world too. Art is supposed to be on the edge, but a lot of it is quite conservative, very formal, not really medium-specific — could've been done other ways, could've been printed. There's so much more possible.
 
 Look at something like Mitchell Chan's *Boys of Summer*, or Jonas Lund — two wild, coincidentally related projects. Jonas Lund's stacking piece, tied to his home: when he drops something, it changes an NFT. Very playful, very early, and there's so much more possibility there, but everything is still restricted by the blockchain contract format, which is quite limited in code possibilities — not a very dynamic language or platform. So you soon have to mix in other media — server-based components, game engines — and it becomes a hybrid form. I think we'll see more of that, because for purist on-chain art, it's limited. I'll keep making it, because it's great, but it doesn't show the full scope of what digital can do.
 
-[pool: Window | Window — Jan Robert Leegte | | 1]
-
 So that's the double edge of the coin. I'm intensely grateful to have found an audience that actually gets my work — refreshing after 20 years of mostly not meeting them, at least not beyond a small group. The art world has supported me, in my experience, but more out of historical acceptance than real conceptual understanding, because they don't have the reference points in their background. Art world training is very humanities-based; it often lacks the technical or computer-historical knowledge to get those references, to understand the materiality and why doing it this particular way matters. In Web3, everybody gets it. That's been the biggest surprise — I put subtle things into my project descriptions and people instantly pick them out: oh yeah, that's that, that's that. Very cool. And financially, of course, that's great too.
+
+[pool: Web | Web — Jan Robert Leegte | | 1]
 
 It had more of a HEN feel before — we mentioned HEN a minute ago — more experimental, not aimed at profit, because nobody thought about money; it just wasn't on the horizon. It was purely about the art. It'd be interesting to see if there are corners where that spirit can flourish again — and with the market cooling down, we may see more of that.
 
@@ -96,7 +108,7 @@ The speculative aspect will remain, because it was always there in the art world
 
 Will: To shift gears a little and ask about some of your specific projects: in your intro, you mentioned AI as something going hand in hand with web3 that you're really excited about, even though we're not sure what its impact will be. I'm not sure if it was your first project using AI, but the one I found recently was *Mountains and Dropshadows*, which you released on Verse -- a reimagination of a web-based project you'd done years before that served people random images of mountains, probably sourced from a search engine, and imprinted drop shadows on them in a browser. This time you made the mountains using AI instead. What inspired you to revisit that piece, and what brought you to AI? What surprised you about the experience, and what concerned you? We've seen some artists be really vocally skeptical or fearful of what these tools will do to the perception of art -- and not just art, but skill, talent, and hard work. You've clearly embraced it, so I'll let you riff on that.
 
-[pool: Window | Window — Jan Robert Leegte | | 1]
+[pool: Web | Web — Jan Robert Leegte | | 1]
 
 Jan Robert Leegte: I can give it a shot, though I'm definitely not an expert -- there are artists way better at this. But you have to engage with it. It's just part of your culture; there's no way around it, and it's good to keep track.
 
@@ -110,9 +122,9 @@ So I started working with it, and it really didn't work. I tried and tried. But 
 
 So I started stacking things -- hacking my way around it by layering AI on top of itself, analyzing images, generating text from that, then generating HTML from that. It became a real dinosaur of a process, and it still wasn't that interesting. In the end, I realized I could far more easily just write it generatively in good old human-written code. That coincided with the decision to move it on-chain, which turned out to be way more elegant and exciting -- a whole network of web pages, like a big bang popping out of one contract. I'm very happy with the result, and I learned a lot.
 
-[pool: Window | Window — Jan Robert Leegte | | 1]
-
 *Mountains and Dropshadows* was an easier move, since I just wanted another iteration of a commentary on online images. The original work queried databases for images tagged "mountain" and stacked them with a drop shadow, mimicking a desktop environment -- commenting on what a landscape image becomes in the context of a desktop: this anonymous, delocalized, beautiful but very sad mountain residing on your desktop, and how it engages with the material on top of it. It became a sculptural statement. Revisiting it, I thought, well, I have to do that with AI now, because the databases are passé -- we're never going back to a stock photo bank when everything's dumped into AI and you can just prompt it on demand. So I did the same thing: prompted "mountains," and there they came, beautiful and wonderful, hardly that different from the originals -- just less quirky, more normalized. You don't get some naked person running through them suddenly, unless you prompt for it. Cleaner, more stylized. But it fit, and became another iteration in this progression of technology. It was a very easy one, honestly -- prompt "mountain," get it back. I spend a lot of time thinking about the concept; the actual execution is very, very small.
+
+[pool: JPEG | JPEG — Jan Robert Leegte | | 3]
 
 Trinity: How many mountains did you pull from all these different databases?
 
@@ -124,9 +136,9 @@ Jan Robert Leegte: The series ended up being 80.
 
 Trinity: How many mountains went into the model?
 
-[pool: Window | Window — Jan Robert Leegte | | 1]
-
 Jan Robert Leegte: I just used the public model -- I didn't feed it anything myself. The first piece queried Flickr and similar sites, and I didn't want to add any content to the net -- there's enough out there already. I wanted to see what the internet had to say for itself about what an Alpine mountain looks like. And the results are pretty impressive. I actually ended up using Adobe, which was a surprising twist -- I tried DALL-E and Midjourney and wasn't that happy, then thought, hey, I have the full Adobe suite on my computer, they have an AI tool now, let's give it a run. It was really good -- could change the aspect ratio, all kinds of tweaks. This is a plug, I know, but I hadn't expected to be that happy with it. A company like Adobe should be good at this, but they'd seemed behind. Turns out that's where the images came from in the end.
+
+[pool: Window | Window — Jan Robert Leegte | | 1]
 
 Trinity: I haven't tried Firefly much beyond upscaling once or twice, but--
 
@@ -138,7 +150,7 @@ Jan Robert Leegte: Mm-hmm.
 
 Trinity: It's a classic CSS class you see everywhere. Maybe a little out of style now, but there was a time in internet history when everything had a drop shadow. And we see the same thing with buttons, JPEGs, windows -- all these pieces that just feel so classically online. Where does that come from for you?
 
-[pool: Window | Window — Jan Robert Leegte | | 1]
+[pool: JPEG | JPEG — Jan Robert Leegte | | 1]
 
 Jan Robert Leegte: The way I frame it myself, it's a phenomenological interest in the software. Translated into human terms, it starts simply with doodling -- with a button, dragging a scrollbar up and down when you're sixteen, feeling stuff with your mouse, the edge of a window. A very tactile, material interest in software: resizing it, seeing how it changes, feeling it, playing around with it. That's where the sculptural interest started, I think, and why I chose the interface as my sculptural focal point instead of working in a 3D program making big rendered sculptures. I think that's really where the magic happens.
 
@@ -148,11 +160,11 @@ Of course we can access code, that's not a problem, but I often go back to Charl
 
 I've recently started a meditation practice, and I've always been fascinated by John Cage, this Zen artist so much about observation -- what is this, in the now? There's a great difference between writing code and running code: they're two different worlds. You have this text, and as soon as it runs, you have no idea what's happening behind that fleece of the interface, until it crashes and you see text again. It's this magical world of running software, and I'm passionate about what that is. So in my work I'm asking: what is this stuff the software produces? What are these images, like JPEGs -- what are they, what makes them, what are their aesthetics, how does that relate to art history? I keep circling that. It's become my core -- very meta, as you said, Trinity, but that's it. I'm observing. My work is about the network, the computer, the software. That sets me apart a little -- there are other artists who do this, but not that many. Most people see the computer as a tool to make art. I make art about the tool.
 
+[pool: JPEG | JPEG — Jan Robert Leegte | | 1]
+
 Trinity: You're very literal about net art -- it's art about the net that heavily features parts of the net.
 
 Jan Robert Leegte: Yeah.
-
-[pool: Window | Window — Jan Robert Leegte | | 1]
 
 Trinity: It's very enjoyable, but for anybody experiencing net art for the first time, it might just confuse them about the entire genre. Is this work commentary on the internet, or not necessarily? As we move past Web1 and Web2 into Web3, we're really talking about the blockchain as almost an interfaceless entity—it's much more about what's happening in the background. Maybe we can talk about *Broken Images*. It feels like commentary on Web3 specifically. What can you tell us about that project for listeners who might not be as familiar?
 
@@ -162,9 +174,9 @@ Then I thought: no, it actually does make sense. One part of the story is commen
 
 What's interesting is that it works two ways. On one side, it comments on NFTs that can break—except here, they've been pre-broken so they can never break any further. On the other side, the image defaults back to the placeholder, which is something in flux: as you view it on a different browser, or in the future, it will change. It mutates and reflects the technology of its time.
 
-I've done this before in my work. There's a piece called *scrollbarcomposition.com*, a web-based work from one year after I finished academy—simple HTML and JavaScript, a modernist composition of hyperlink blue, grays, and whites, with scroll bars triggered by JavaScript to move. That piece is from 2000, and it's been educating me for the last 24 years about what this medium really is: a transformative, mutating entity. It's shape-shifted through Aqua Apple style, Windows XP, Linux, phones—constantly changing. Responsiveness is always central to my work: it even changes with the type of screen and resolution you're using. That fluid, morphing quality is such a key property of browser-based and digital art in general—I find it essential.
+[pool: Buttons | Buttons — Jan Robert Leegte | | 1]
 
-[pool: Window | Window — Jan Robert Leegte | | 1]
+I've done this before in my work. There's a piece called *scrollbarcomposition.com*, a web-based work from one year after I finished academy—simple HTML and JavaScript, a modernist composition of hyperlink blue, grays, and whites, with scroll bars triggered by JavaScript to move. That piece is from 2000, and it's been educating me for the last 24 years about what this medium really is: a transformative, mutating entity. It's shape-shifted through Aqua Apple style, Windows XP, Linux, phones—constantly changing. Responsiveness is always central to my work: it even changes with the type of screen and resolution you're using. That fluid, morphing quality is such a key property of browser-based and digital art in general—I find it essential.
 
 So that piece is changing and will keep changing. I'm curious how it will evolve as UX changes—maybe scrollbars will disappear entirely and it'll go static as a composition. That's fine, and by then everything can be emulated, so you can go back and watch it across all its different phases. I find that absolutely beautiful about working with the computer. *Broken Images* works the same way—I've already seen it render differently in parallel browsers at a gallery show. People watching on Linux or Safari get a different icon than the one hanging in the browser I like. Web3 collectors instantly dig that. They really love it.
 
@@ -176,9 +188,9 @@ I'd love to hear your thoughts on preservation in Web3 and net art specifically,
 
 Jan Robert Leegte: My bet would be Ethereum—historically, for the team, the decentralization, the market capitalization, all of it. I know people who work at the Foundation, and it's pretty much going to run for a long time. Smaller chains carry more risk of losing support.
 
-I've looked at Tezos many times—I got leegte.tez really early, just never used it actively. A lot of buddies there kept reaching out, "come in, come in," but I didn't have the time. It's done a lot of good projects; I've just been busy elsewhere. Now it seems a bit quiet there, so I don't know if it's the right moment anymore, and a lot of people have moved over to Ether instead. I'm happy with that—I've gotten used to it. I like the bruteness of Solidity; you can define things as deep as you like. That's also why I didn't go into Ordinals—it doesn't have the same technical depth. You could upload a whole script into Bitcoin, sure, but I didn't see the technological or conceptual value in that for myself, so I didn't engage with it.
-
 [pool: Window | Window — Jan Robert Leegte | | 1]
+
+I've looked at Tezos many times—I got leegte.tez really early, just never used it actively. A lot of buddies there kept reaching out, "come in, come in," but I didn't have the time. It's done a lot of good projects; I've just been busy elsewhere. Now it seems a bit quiet there, so I don't know if it's the right moment anymore, and a lot of people have moved over to Ether instead. I'm happy with that—I've gotten used to it. I like the bruteness of Solidity; you can define things as deep as you like. That's also why I didn't go into Ordinals—it doesn't have the same technical depth. You could upload a whole script into Bitcoin, sure, but I didn't see the technological or conceptual value in that for myself, so I didn't engage with it.
 
 Ethereum is it for now. I have no idea where the rest is going—Solana is growing, but I don't know much about it, and I don't know many people building there. It takes a lot of energy to get into a whole new chain. I did dabble with layer 2 with *Coin*, which I released this summer—a crazy performative piece, 10,000 coins across four different layers, four different chains. Fun, but I don't know about long-term engagement; it gets messy. You need focus in this world—it's already so chaotic. That's probably why I'm on Ethereum.
 
@@ -192,7 +204,7 @@ For a lot of locked on-chain projects, they just become part of the fluid langua
 
 The stuff I make is brutally simple by comparison. As I said, I have a piece from 2000 still running beautifully—very elementary. I have a lot of faith in the internet's backward compatibility. Stuff from the '90s still works fine if it's built in HTML and JavaScript.
 
-[pool: Window | Window — Jan Robert Leegte | | 1]
+[pool: Buttons | Buttons — Jan Robert Leegte | | 1]
 
 Trinity: Hopefully you didn't release anything in Flash.
 
@@ -200,13 +212,13 @@ Jan Robert Leegte: Don't do Flash. Don't do third-party stuff. We didn't expect 
 
 It's pretty amazing how stable it is. I often say web art is turning out to be the most stable medium I've ever encountered—way better than video, painting, or photography, which degrade pretty badly. This just keeps running and running. As long as it isn't Flash—we lost so much with Flash—but GIFs, JPEGs, they'll be around for a long, long time.
 
+[pool: JPEG | JPEG — Jan Robert Leegte | | 1]
+
 Will: We're counting on it. Trinity, one more question, or should we move to rapid fire?
 
 Trinity: I have a related question to what we were just talking about. There's been so much conversation, especially around IPFS versus on-chain versus something like William Mapan's *Sketchbook* — partially tokenized, partially not. When you're thinking about NFTs, do you see the token as the art, and/or as the certificate of authenticity for the art?
 
 Jan Robert Leegte: I'd say it's the art — for me, at least. That's because I really invested in understanding what the token itself is, and in actually using that. *Ornament*, my first piece, was already on-chain — it's partially a contract work, partially web, sort of a mutant. Then there's Art Blocks, which is great, but it's out of your hands. Building your own contract is really great fun, because as soon as you're doing that, you can say the token *is* the artwork — you can consider every aspect of it. That's wonderful, but it's not for everyone. You need to work with a programmer, or be a really good programmer yourself.
-
-[pool: Window | Window — Jan Robert Leegte | | 1]
 
 But it's a thin veil. *Broken Image*, which we spoke about earlier, is clearly a work made for the token. It exists only there — it's about the token, so it becomes this holistic little entity, a truly medium-specific work. If you're just minting images, though, that's a whole different story — and that's probably what NFTs were invented for. That's the real utility of them. There's this weird subgenre that's created an on-chain, generative, medium-specific practice, but for the vast majority it's just a certificate.
 
@@ -214,13 +226,13 @@ I've thought about adding certificates to my print work, because it was cool and
 
 Will: One more rapid-fire question along these lines. One of the themes we identified for 2023 that really came true in this bear market was the hybridization of NFTs with physical pieces — there are platforms, like Tonic, built entirely around that. You've done physical work in the past, taking elements of the net and making them physical. Do you imagine exploring that again — a tokenized piece with a physical component?
 
+[pool: Window | Window — Jan Robert Leegte | | 1]
+
 Jan Robert Leegte: I'd only consider it if it were a hybrid conceptual necessity. I'm looking into more social interaction within networks of tokens, and I can imagine having components that live outside the token — but it would really have to make sense, and it would have to be transferable. That's the whole point: if you sell your token and there's a physical thing left behind in someone's house, the system breaks. You have to think it through carefully. But there's definitely still space to explore there.
 
 Trinity: One trend we've noticed is that a lot of the best code-based artists of this generation are Dutch.
 
 Jan Robert Leegte: That's so weird. We do have quite a lot of them.
-
-[pool: Window | Window — Jan Robert Leegte | | 1]
 
 Trinity: Agree? Disagree?
 
@@ -228,13 +240,13 @@ Jan Robert Leegte: It's such a freaky question. Why is that? There were a ton of
 
 I think it has to do with — and I hope this doesn't change — we've always lived in a very progressive country. Recently there's been a more conservative shift in government, but traditionally we're very progressive. It's a small delta in Europe, heavily based on trade throughout its history, and that tends to create pragmatic, progressive people who adapt to a lot of flux and import rather than being nationalistic. We're also constantly fighting the water, so there's this dynamic cultural history.
 
+[pool: Buttons | Buttons — Jan Robert Leegte | | 1]
+
 We saw very early adoption of the internet — a lot of influential internet companies, and early punk and hacker scenes in the '80s and '90s that adopted it quickly. I think one of the first internet providers here was started by a hacker group, coming from that alternative scene. And we have a heavily subsidized art culture, which I think is fairly unique in the world — a lot of space for experimentation, supported by the country. That's created focus in weird niches where nobody else would have the support to pursue them. That's changing now, but we've had our share of luck. Beyond that, it's probably just that once you have a few people, they influence each other, and little cultures grow. I'm very happy to be part of that — they're all good friends of mine, and it's been very inspiring to work like that.
 
 Will: One more, and then we'll wrap up. Who would you like to hear us interview in the future?
 
 Jan Robert Leegte: Speaking of generative art in general — my friend who brought me into this, Harm van den Dorpel. You should definitely talk to him. He was doing NFTs seven years ago or something, on Bitcoin — really early, a genuine pioneer. What I love about his work is that instead of making a project in p5.js, he works from Darwinistic, hereditary systems, or Markov chains, or uses social media itself as a randomized generative system. He takes all these different computational systems and works from them. It's super inspiring — he's really adding to the history of generative art, pushing its edges. I don't know if you've talked to Raphael Rosendahl — he'd be great fun too. He has his own podcast and very good opinions on all this.
-
-[pool: Window | Window — Jan Robert Leegte | | 1]
 
 Will: I think Harm has a Verse show coming up.
 
@@ -242,13 +254,13 @@ Jan Robert Leegte: Yeah, he does — right about now, isn't it?
 
 Trinity: January 30th.
 
+[pool: Window | Window — Jan Robert Leegte | | 1]
+
 Will: The first Verse solo show of the year. All right, add them to the list.
 
 Jan Robert Leegte: You never know.
 
 Will: I think that's a good place to wrap it up. Jan, anything you want to plug — what should we be on the lookout for from you?
-
-[pool: Window | Window — Jan Robert Leegte | | 1]
 
 Jan Robert Leegte: I think I'll surprise people. There are a lot of projects I'm working on, nothing concrete yet. There are some parties I'd like to work with, and we've been in contact — including Verse, we're doing another project with them, probably later this year. So I'll surprise you guys.
 

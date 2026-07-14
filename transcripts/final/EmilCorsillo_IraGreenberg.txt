@@ -284,7 +284,7 @@ Emil Corsillo: Curation is another polarizing idea in our space, but I think it'
 
 So a lot of this, for us as founders of this platform, comes down to the work we put out. If what we put out is original and creates originality through novel, sophisticated uses of the tools, then everything that went into the model is fair game, because the output is pushing something forward — intellectually, creatively, emotionally, whatever it might be. As curators, none of us want Emergent Properties to be a walled garden. We don't want inaccessible, opaque curation for this platform. But I do think in the kind of Wild West we find ourselves in, with all these polarizing conversations about AI, some curation can be really helpful — having a point of view around why this work is special, or pushing things forward, or interesting.
 
-[pool: Toma | Toma — riis | | 1]
+[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | | 3]
 
 Probably ten different people, the first question they asked me after we launched Emergent Properties was, "Is this an open platform, or when is it going to become one?" People were calling it the fx(hash) of AI. Openness and transparency are super important to us philosophically — the underlying architecture was built to support an open framework the same way fx(hash) works. So when we're ready, there'll be some level of open minting. I don't know when that'll happen; there are technical and cost constraints that make it hard. But in the meantime, we want to invite as many people into the conversation about selection and curation as possible — guest curators, experimental projects, accessible pricing, or big swings in pricing when appropriate. Those are both topics I think we'll be discussing a lot more in the future.
 
@@ -298,7 +298,7 @@ Emil Corsillo: For now, I think, yes. But if you think about it, building a coll
 
 Trinity: It also sounds like there needs to be some amount of handholding while people get used to this, since it's such a new arena. People have been doing creative coding for years, essentially implementing fxRand into their codebase with all the tools fx(hash) provides — that transition is a lot easier. For the record, Will, I would love for you to go in, type a couple of words and some inspiration images, and create some long-form art for us. The first one has to be about lumberjacks.
 
-[pool: Toma | Toma — riis | | 1]
+[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | | 1]
 
 Will: You can just buy my fx(hash) collection — there's already stuff out there.
 
@@ -312,7 +312,7 @@ Will: That sounds cool.
 
 Ira Greenberg: I'm in.
 
-[pool: Toma | Toma — riis | | 1]
+[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | | 1]
 
 Emil Corsillo: Awesome.
 
@@ -326,7 +326,7 @@ Will: You've broken the seal on inviting us to do something.
 
 Emil Corsillo: Done. Can't wait.
 
-[pool: Toma | Toma — riis | | 1]
+[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | | 1]
 
 Will: We've never done a speed round with two people, so we'll keep it a little abridged. I think the go-to is: what are some artists you like to collect on fx(hash)? Let's start there.
 
@@ -340,7 +340,7 @@ Ira Greenberg: It's a little hard for me to collect. It's also my nature — I j
 
 Trinity: Maybe a better question for you, Ira, is: is there anybody you think is doing cool stuff on fx(hash), even if you don't own it?
 
-[pool: Toma | Toma — riis | | 1]
+[pool: Los Osos | Los Osos — yepayepayepa | | 1]
 
 Emil Corsillo: The stuff that's right in front of mind — *Toma* by Rhys really stands out as a recent collection I went crazy for. I don't know what it is, just visually blown away by that one. Chris McCully's recent one, *Trust* — that was just, what, yesterday or two days ago? Love that collection. I'm a big fan of — how do you say his full name — Andrew Brereton, A.E. Brer. He's an OG; I think one of his collections is in the first ten or twenty tokens on the platform. Love his work — a personal favorite, and maybe he doesn't get as much love as he deserves. Thomas Noya, I mentioned him earlier, but big fan of his work too. I think what he does is unique — there's no one quite like him, especially within fx(hash).
 
@@ -354,7 +354,7 @@ Ira Greenberg: Also Kaloh's *Woolly* piece — I liked that a lot.
 
 Will: Oh yeah, that was really fun. That was from like six months ago. Deep cut.
 
-[pool: Toma | Toma — riis | | 1]
+[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | | 1]
 
 Emil Corsillo: One collection that got some love recently and had a bit of a run is *Blobbies* by Sam Tsao. Crazy about that collection — I think that might be the first fx(hash) token I ever bought. That's one of my regrets: I used to have five or six of them, sold all but one, and then recently FOMO'd and bought another.
 
@@ -368,7 +368,7 @@ Will: And he hasn't dropped on fx(hash) in a little bit, but his last one, *Seas
 
 Emil Corsillo: It makes me nervous to talk about favorite fx(hash) stuff in front of the two of you — you're encyclopedic, you know everything and everyone.
 
-[pool: Toma | Toma — riis | | 1]
+[pool: Los Osos | Los Osos — yepayepayepa | | 1]
 
 Trinity: It's our job.
 
@@ -382,7 +382,7 @@ Will: We're both Contrapuntos maxis.
 
 Trinity: I'm also interested — going back to what we were saying about Ivona Tau — I love the work she does off fx(hash), but I think the ways her fx(hash) projects come to life are just so interesting, especially her most recent one, which is maybe a little polarizing: *Whispers in Code*. The machine tells you to do something and you have to try to do it correctly. It really flips the script on everything we're trying to do here.
 
-[pool: Toma | Toma — riis | | 1]
+[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | | 1]
 
 Ira Greenberg: What about the Rich Poole collab?
 
@@ -390,7 +390,7 @@ Will: Which one?
 
 Ira Greenberg: The paper crane one, *Acequia*. Is it *Acequia*?
 
-[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | | 3]
+[pool: Acequia | Acequia — Emil Corsillo & Ira Greenberg | | 1]
 
 Trinity: Oh, *Acequia*.
 
@@ -460,9 +460,9 @@ Will: Sounds like he'll steal the show. I don't know about that one.
 
 Ira Greenberg: Some of you may know MonkAntony. We've been talking about going to meet Roman Verostko — same generation as Herbert Franke, one of the true pioneers of generative art. I wrote about him in my first book. There are only five or six of those pioneers left, and he's right there among them. He's in his 90s now, still making art, lives in Minneapolis. They're building a whole foundation around him — there's a director and everything. MonkAntony, who's doing a lot of writing, and I have talked about going down there to document some of this. I've stayed in touch with Roman a bit. He's in his 90s, but this would be a piece of history, and I'd be happy to make the introduction. I just want the world to know about him now, because it'll be sad — there'll be all these retrospectives after he passes, but he's still alive.
 
-[pool: Toma | Toma — riis | | 1]
-
 Will: That would be incredible. We'd have to do our homework, and maybe you can help us with that, Ira. But getting someone like that on to hear it from the beginning — that's not what I expected going into this, but some excellent ideas, taking us out of our comfort zone. Definitely stuff to follow up on. 2023 is when Waiting to Be Signed really gets out there, so that's what we're trying to do.
+
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
 
 Emil Corsillo: Awesome.
 
@@ -474,9 +474,9 @@ Ira Greenberg: It's been super fun.
 
 Trinity: Thank you.
 
-[pool: Toma | Toma — riis | | 1]
-
 Will: Glad you both had a good time. I think everyone will really enjoy this episode and getting to hear more about this platform that's still emerging — literally week to week, it sounds like everything is still coming together. We've got exciting stuff to look forward to from both of you, from Danielle, and I'm sure from other artists you can't talk about yet.
+
+[pool: Los Osos | Los Osos — yepayepayepa | | 1]
 
 Trinity: And from us.
 

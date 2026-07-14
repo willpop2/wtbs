@@ -122,7 +122,7 @@ KenConsumer: That's part of the nature of having an NFT. We buy this receipt—w
 
 This is why a lot of the blue-chip stuff ends up on Ethereum—the chances of Ethereum not succeeding are pretty low, and I think that's why people make bigger bets there than on other chains. Not that I believe Ethereum is the be-all end-all or that it's where we should only be making art, but it is where we should be storing some of this stuff, because it's not going anywhere. Budweiser and these other huge companies are making massive bets on Ethereum too—they believe it's the future as well. As for what happens to the information stored on IPFS, or even on a personal server—that's tough. I don't know, man. I really don't.
 
-[pool: Returns | Returns — Leander Herzog | | 1]
+[pool: Defrag | Defrag — toxi | | 1]
 
 Will: It's a question for a few years from now, maybe.
 
@@ -186,7 +186,7 @@ KenConsumer: The work Landlines does is fantastic. And anything Rudxane makes, I
 
 I often buy things because the artist made it. Other times I buy it because I like it. I like to make a distinction between good and liked — just because I think something is good doesn't mean I like it, and just because I like something doesn't mean it's good. I think there's definitely a distinction there. I know Justin Timberlake is good. I don't like it, and that's kind of a way for me to put those in their place. I only use him as an example because I actually do like Justin Timberlake—but that's a whole other conversation. You get the point.
 
-[pool: Glass | Glass — punevyr | | 1]
+[pool: Palimpsest | Palimpsest — Unruly Unroll | | 1]
 
 From this year, from 2022, I've found that *Palimpsest* is fantastic. I had a piece from *Unruly Unroll*, their very first drop, called *Trails*, and I really liked that. So I kept paying attention to what they were dropping over time, but I hadn't bought anything else from them. Then when I was asleep, they dropped *Palimpsest*, and man, I was super bummed. I woke up and the price was like $50. I was low on Tez and thought, dang, I can't afford this. But the price came back down, I got some Tez, and I ended up getting one—not at the floor, though. My wife and I went through and looked at a bunch. She helps me curate our collection and what goes into the vault—if she doesn't like something, generally it doesn't go in, though there are a few things I like that she doesn't and vice versa. When we saw *Polymythia*, we looked at them and thought, this is great. We chose one we really liked and vaulted it.
 
@@ -264,7 +264,7 @@ KenConsumer: I don't think so.
 
 Will: A little shade at Elon at the end there, which I'm okay with. Thanks so much, Ken.
 
-[pool: Palimpsest | Palimpsest — Unruly Unroll | | 1]
+[pool: Defrag V2 | Defrag V2 — toxi | | 1]
 
 KenConsumer: Thanks a lot, y'all. Thanks for having me. And shout-out to Ciphrd, man — what an amazing thing he's built. What a great thing.
 
@@ -278,4 +278,4 @@ KenConsumer: Thanks. Thanks.
 
 Will: Bye, everyone.
 
-[pool: Palimpsest | Palimpsest — Unruly Unroll | | 1]
+[pool: Defrag V2 | Defrag V2 — toxi | | 1]

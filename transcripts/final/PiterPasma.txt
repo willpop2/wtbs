@@ -180,7 +180,7 @@ Will: I studied that too, but at a school that didn't give grades, so my recolle
 
 Piter Pasma: I can highly recommend — linear algebra is the best thing you can learn for math and coding. There's a YouTube channel called 3Blue1Brown that makes educational math videos, and they have a series on linear algebra that's really great. It uses a visual approach to explain what all these things actually are. Who cares what a determinant is if you don't know what it's for? But once you see that it's about how much a space is being squeezed or not, it suddenly makes sense — or at least a little bit. So, everyone: learn linear algebra.
 
-[pool: Dot Produkt | Dot Produkt — Piter Pasma | | 1]
+[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
 
 Will: Okay.
 
@@ -336,7 +336,7 @@ Will: Isn't there NFT NYC coming up?
 
 Piter Pasma: Oh, no, I'm not planning any trips right now. But I have to see. I am traveling more than I used to, which was hardly at all.
 
-[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+[pool: Dot Produkt | Dot Produkt — Piter Pasma | | 1]
 
 Trinity: One related question—maybe my last one. You mentioned, either on this recording or just before, that you'd gone to Amsterdam to meet up with other generative artists. What we're seeing in the fxhash community is a disproportionately large share of people from the Netherlands—way more than any other country given its size. Why do you think that is? Education? People just knowing and promoting each other?
 
@@ -350,7 +350,7 @@ Trinity: We'll blame it all on Ozzy—just recruiting people to fxhash so there'
 
 Piter Pasma: Definitely. I do some volunteer work along those lines, but—well, we're already running out of time.
 
-[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+[pool: Gonzion | Gonzion — Piter Pasma | | 1]
 
 Will: No, it's okay if you want to speak on it—it's your podcast. Or I've got one last question too. We always do like three "one last questions."
 
@@ -364,7 +364,7 @@ Will: They just added a label in 1.0—if a project uses pre-rendered images lay
 
 Piter Pasma: What I really want to see is just the kilobyte size.
 
-[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+[pool: Dot Produkt | Dot Produkt — Piter Pasma | | 1]
 
 Trinity: I don't think they show that.
 
@@ -378,7 +378,7 @@ Will: That's more code than you'll write in your entire life—sixteen megabytes
 
 Piter Pasma: There's *Omega Point* by Monotau—that's a piece whose code I'm definitely going to read. I've already talked to them about how on earth they pulled off what they did.
 
-[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+[pool: Gonzion | Gonzion — Piter Pasma | | 1]
 
 Will: It loads so fast too. Wild that it loads instantly.
 
@@ -392,7 +392,7 @@ Trinity: They're still plenty available to mint.
 
 Piter Pasma: All right, pressure's on. What was it called—*Amulet*? I'll look at it later.
 
-[pool: Hypergiraffe | Hypergiraffe — Piter Pasma | | 1]
+[pool: Angry Noise | Angry Noise — Piter Pasma | | 1]
 
 Will: I feel like that actually wraps things up nicely—a great little diversion into what we like to collect. Piter, thank you so much for coming on, for being so generous with your time, and for letting everyone learn more about you as an artist, your history, and your perspective. Really appreciated. We love doing these interviews, so thank you very much.
 

@@ -204,7 +204,7 @@ Melissa Wiederrecht: Cute.
 
 Trinity: And I'd say it's an improvement — not that there's anything wrong with a project being called *Untitled* or *Orbs*, but this hits a little differently. So what we're hearing is you should go to Sudan more often.
 
-[pool: Untitled | Untitled — Melissa Wiederrecht | | 1]
+[pool: Orbs | Orbs — Melissa Wiederrecht | | 1]
 
 Melissa Wiederrecht: Get really bored more often? Probably, yeah.
 
@@ -376,7 +376,7 @@ Trinity: What's it like working with Jamie and everybody at Verse? Is it kind of
 
 Melissa Wiederrecht: It's completely different from any other place — super crazy cool, honestly. They're building and changing and making new stuff every single day. I'll say, "Hey, can we do this?" and they'll say, "Sure." Or, "Cool idea, let's do that" — and the next day it's ready on the website. Jamie will say, "What about this idea — how about we let people choose their seeds?" And I'll say yeah, and a couple weeks later it's ready. They're just getting started. It's going to go insane.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Marble Opulence | Marble Opulence — Melissa Wiederrecht | | 1]
 
 Trinity: It's such a weird meld between the crypto world and the traditional art world — they're positioned as both, way more so than Art Blocks, I'd say.
 
@@ -390,7 +390,7 @@ Trinity: Another speedrun?
 
 Melissa Wiederrecht: I've thought about it, but I feel like it'd be disrespectful to the important people I'm working with right now if I just did a speedrun. So I'm trying to be considerate. I've got a cool exhibition coming — you'll probably hear about it soon, can't say what it is yet — at the end of February and into March. Then I have Bright Moments in Tokyo in May. I've got some really cool ideas for that, haven't built it yet. There's also something in April I can't talk about yet.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Solitude | Solitude — Melissa Wiederrecht | | 1]
 
 But I can tell you about July: the Generative Art Club. We all voted on exhibition ideas, then voted on who'd be included, then submitted those to Feral File — and one of them got accepted, which I'm part of. It's twelve artists you've probably all heard of, working together on a collaboration theme. Really fun. I've got a crazy idea for that too, haven't started building it, but I'm excited.
 
@@ -404,7 +404,7 @@ Melissa Wiederrecht: Yeah, basically.
 
 Trinity: Can't wait to see them regardless. I think that covers your history in art and computer science, plus 2023. There's just one more question I wanted to ask. I'm not a big Twitter Spaces person — the one Space I listened to all of last year was about women in crypto art, not generative art specifically, but the broader crypto art community. It was a big panel, ten or fifteen people talking about their experiences, and I thought yours was the most interesting — even though you only spoke for about two minutes. The first thing you said was that you hear everyone else's experiences but don't necessarily relate to them. I think I also don't relate to a lot of other people's experiences, but maybe in different ways. Could you talk about that — how you've experienced being a woman, whether in computer science or art or otherwise? You were fourteen years old working as a web designer.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Orbs | Orbs — Melissa Wiederrecht | | 1]
 
 Melissa Wiederrecht: I think I'm just kind of weird — pretty oblivious to most people and what they're doing. I've never been especially social; I'm quite an introvert, so I stick to myself and to what I'm working on. I've always loved computer science and art, and I just do what I want to do. That's applied all the way till now. I'm working on my art, and I honestly don't know what other people are going through as a woman. I haven't felt any bias. I haven't felt any weirdness about being a woman at all.
 
@@ -418,7 +418,7 @@ Trinity: That's something we talk about in the community — when people want to
 
 Melissa Wiederrecht: Which is perfect for me. I'm the type of person who likes being behind my computer screen — not very social, not trying to hang out with all the girls. Works out well for me.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Marble Opulence | Marble Opulence — Melissa Wiederrecht | | 1]
 
 Trinity: So I take it you're not going to Bright Moments Tokyo in person?
 
@@ -432,7 +432,7 @@ Trinity: Jamie could just send it to you, then you can hang it on your own wall.
 
 Melissa Wiederrecht: I don't have any wall space big enough.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Solitude | Solitude — Melissa Wiederrecht | | 1]
 
 Trinity: As we wrap up — we took a look through your collection, and it's very diverse. Is there anything in particular you like to collect, or artists you gravitate toward? I couldn't really define a pattern.
 
@@ -446,7 +446,7 @@ Trinity: So you're doing it as Artnome says — just collect the art you like?
 
 Melissa Wiederrecht: Sometimes I grab something because I see an artist struggling and I like what they're trying to do, so I want to support them. But usually it's just something that hits me, which is usually color.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Sudfa | Sudfa — Melissa Wiederrecht | | 1]
 
 Trinity: I saw you have a handful of the latest Jeres piece, *Losa Lalia*, which is nothing but color. I think it's the most vibrant and exciting piece we've seen, at least on that metric, possibly ever on fx(hash).
 
@@ -460,7 +460,7 @@ Melissa Wiederrecht: It's digital and organic at the same time, with these littl
 
 Will: I thought it was a really interesting choice by Jeres, because it feels so blended in the background, and so digital and raw in the foreground with the splatters. It creates this interesting dissonance between the two styles.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Orbs | Orbs — Melissa Wiederrecht | | 1]
 
 Trinity: That's actually a technique you've used too, Melissa — a specific background pattern or texture as just one layer of the canvas.
 
@@ -474,7 +474,7 @@ Will: A couple of those are already on our list — you'll hear Jeres soon, I th
 
 Trinity: And if you need some Bruce in your life, KenConsumer interviewed him on his podcast *Arbitrarily Deterministic* — really great interview, from the middle of last year, so he's released a ton of work since then. It was more after Sabler came out, but definitely an interesting background, and it's crazy to see what's happened even just since then.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Marble Opulence | Marble Opulence — Melissa Wiederrecht | | 1]
 
 Melissa Wiederrecht: I'll have to go listen.
 
@@ -488,7 +488,7 @@ Will: That's what it feels like.
 
 Melissa Wiederrecht: It'll get better, it'll get easier — just persist. I remember when I had one kid, I was just sitting there holding her, so confused, like, what am I doing, I have no idea what to do. But now it's normal. Honestly, it feels easier now than when I had one little baby.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Solitude | Solitude — Melissa Wiederrecht | | 1]
 
 Trinity: Interesting.
 
@@ -502,7 +502,7 @@ Melissa Wiederrecht: Take tons of pictures, because they grow up so fast.
 
 Will: We're about to get our first tooth, I think, in the next couple of days — it's starting to come through finally.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Sudfa | Sudfa — Melissa Wiederrecht | | 1]
 
 Melissa Wiederrecht: That's exciting.
 
@@ -516,7 +516,7 @@ Melissa Wiederrecht: This was fun. Thanks for having me.
 
 Will: That was Melissa Wiederrecht. Thank you everyone for listening, thank you Melissa for joining, and thank you Trinity for recording as always. Hope you had fun, Trinity.
 
-[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
+[pool: Orbs | Orbs — Melissa Wiederrecht | | 1]
 
 Trinity: Every day I record with you is the best day of my life.
 

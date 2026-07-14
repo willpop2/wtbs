@@ -160,7 +160,7 @@ You also mentioned crypto a while back. One effect I've noticed is that it creat
 
 Will: Have you explored or talked to other platforms? I doubt Art Blocks would work unless you went back to JavaScript, but a platform like Tonic — I don't know if you're familiar with them — every release they do has a physical component. They even did a generative chair last year. Have you explored other platforms, or is it more inbound, people like Jamie from Verse or Adam from Tender coming to you? Do you just sit back and let the requests come in?
 
-[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
+[pool: After the Fall | After the Fall — Mikkel Hartmann | | 3]
 
 Pierre Casadebeig: No, it's really about the people. I knew Adam first — he's very accessible, gives me feedback, and doesn't try to control the interaction too much. That's why I felt comfortable working with him despite not releasing much before. With Verse, I don't even remember if I contacted them or the reverse, but the fact that they proposed physical installations and an exhibition was reassuring — it was the first time my art was hanging on an actual wall, not just something on-chain. Those are the two reasons I've stuck with them, and I'm happy with that for now.
 
@@ -168,13 +168,13 @@ Will: What kind of notes or feedback did you get from Adam? We've had him on the
 
 Pierre Casadebeig: There was a difference between this project and the one that wasn't released. On that earlier one, he was very active, saying "this is working, this isn't," giving stricter and stricter guidelines. Eventually there was so much to explore that I just stopped and went back to my own language and expressions. On *Ridge Regressions*, it was more about reassurance — saying, okay, the stuff with the brush pen, simple as it is, works, don't worry. You always hit a point where you think your work isn't enough, especially seeing other artists progressing so fast, and you think, "I'm not going to release anything." So it helped a lot to have him say, "this path is working."
 
-[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
-
 The other thing that helped a lot on the first release was curation. For each style, we generated about 500 outputs, and then went through a curation step shaped partly by geography. It was good to let go and have outside eyes selecting things — that was really valuable.
 
 Will: I want to jump back to data. You've experimented a bit with plants, and said the data wasn't super useful there. You've obviously found a lot to uncover in mountain range and geological data. Do you have a running list of future data sources you might want to explore? What else might appeal to you, or what other potential is out there? I'm thinking of Thomas Lund Peterson, who talked on Ken's podcast last year about going out into the wilderness to collect electromagnetic field data — getting far from cities, basically trying to listen to the atmosphere. There seems to be so much potential here, but it's also a challenging thing for artists to work with. What else has come to mind as a potential area to explore?
 
 Pierre Casadebeig: Yeah, sticking with data — I think it was Matt Delaury with that electro device.
+
+[pool: Asemica | Asemica — Emily Edelman - Dima Ofman - Andrew Badr | | 3]
 
 Will: Yes, yes.
 
@@ -182,15 +182,13 @@ Pierre Casadebeig: One option is to go with more detail. There are lasers embedd
 
 The other direction is what you mentioned — new sources of data. Scientific simulation models, for instance: you can simulate the level of stress on a crop field day by day for different crops, and that's also three-dimensional data. I haven't had time to explore it, but you could also use generative models that produce chunks of data, then patch my process onto that and explore from there.
 
-[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
-
 Another option is something like global temperature data — thinking about what story you could tell with it. Maybe properties of the data could change with time, temperature, water level. I tried something with rising sea levels over time in the Pyrenees, but it came out a bit gloomy — I'm not sure it's something people want to easily see, or whether "time passes and we're going to flood" is too simple a message. So that one didn't quite work. But there are still many possibilities within the constraints of data.
 
 Trinity: Cool.
 
 Will: We usually wrap up with a few rapid-fire questions to get to know you better. One we like to ask: what do you listen to while you work? What kind of music do you like? And feel free to throw in any media recommendations — I actually really enjoyed a French film this year called *After the Fall*.
 
-[pool: After the Fall | After the Fall — Mikkel Hartmann | | 3]
+[pool: After the Fall | After the Fall — Mikkel Hartmann | | 1]
 
 Pierre Casadebeig: I don't know if you—not in it, but yeah, them too.
 
@@ -236,11 +234,11 @@ Pierre Casadebeig: Also Aluan Wang—he makes a lot of interactive art. He doesn
 
 Will: We've both collected some of his work on fx(hash), but no, we haven't had him on either—he'd be a great guest. Thank you for those suggestions. Lastly, tell us what else might be coming up from you, other than *Ridge Regressions*, which comes out February 6th on Verse. Anything else you're working on that you want to get us excited about? I guess this is one of your two releases of the year, maybe?
 
-[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
-
 Pierre Casadebeig: Maybe, yeah.
 
 Will: Maybe toward the end of 2024—maybe you haven't even started it. But if there's anything you want to tease, please go ahead.
+
+[pool: Polyline Hiking | Polyline Hiking — Pierre Casadebaig | | 1]
 
 Pierre Casadebeig: There's this thing called plant blindness. In a landscape, you hear a lot of animals—mammals, insects, birds—and think, okay, there's a lot of life here. But really, you're standing in a forest full of plants, and you just don't see them. I'm trying to stick with that idea—that we need to showcase more plants and find a good way to do it. I'm still trying to link plants and calligraphy, because I really like that aesthetic. We'll see—hopefully by the end of this year I'll have something out.
 
@@ -250,11 +248,11 @@ Pierre Casadebeig: Do you know what that is? There are a lot of different things
 
 Will: I've seen so many weird plant science things on TikTok. There's one where if you put a plant in a room with random lights, the plant predicts where the light is going to be. Have you seen this one?
 
-[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
-
 Pierre Casadebeig: No, not at all.
 
 Will: I'll find it and send it to you on Discord. I think they're trying to prove it's either plant intelligence or some kind of quantum link between plants and light—without training, they'll grow toward a future light source that's being determined randomly, with statistically significant consistency in picking right versus wrong. We can talk about that next time.
+
+[pool: Asemica | Asemica — Emily Edelman - Dima Ofman - Andrew Badr | | 1]
 
 Pierre Casadebeig: Yeah, you can tell me if it's real or not.
 
@@ -264,8 +262,8 @@ Pierre Casadebeig: In short, I think cybernetics originally was just a definitio
 
 Will: Mushrooms are aliens, all that stuff. Well, Pierre, it's been awesome to have you on. We're really looking forward to your upcoming release on Verse, and to seeing something from you at the end of 2024 too. It's been great getting to know you—hope you enjoyed it. I think that's a wrap.
 
-[pool: Ridge Regressions | Ridge Regressions — Pierre Casadebaig | | 1]
-
 Pierre Casadebeig: Thanks so much, Will, and Trinity too. It was definitely enjoyable, and easier than I expected to explain all this. Thanks for the thoughtful questions.
 
 Will: It's fun to talk science. That's it for this one—we'll be back soon with another episode. Thanks for listening, everyone. Bye-bye.
+
+[pool: Despair | Despair — Pierre Casadebaig | | 1]

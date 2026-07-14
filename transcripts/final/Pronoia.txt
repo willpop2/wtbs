@@ -84,7 +84,7 @@ What I'm really curious about is whether fx(hash) can attract enough attention i
 
 I'm also excited about AI artists coming in — I think AI long-form is a seriously underappreciated format. Emprops, for example, is underappreciated by a mile; not many people are minting there. There was another platform, K11 I think it was called. I think opening things up to that format is really interesting. Stills are another interesting idea too — if you can get someone like Grant Yoon, who already loves the generative art ecosystem and wants to try generative projects, still projects, and one-of-ones, that's a win. There are a lot of artists who are fans of fx(hash) and want to see it succeed, but they're wary after seeing some of these tokens underperform — especially compared to seeing a creator coin on Zora hit $2 million in no time.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
+[pool: Sketchbook B | Sketchbook B — William Mapan | | 3]
 
 So I'm hoping they bring in a lot of new artists, and my advice would be: broaden as fast as you can, push for more releases. I'd rather see a lot of new art coins launched than see the team focus on making everything "fair" and trying to appease everyone who's angry.
 
@@ -98,7 +98,7 @@ So I bought in right after the bonding curve — I didn't want to mess with the 
 
 The one where I have a different timeframe approach is the Ciphrd coin, which I'll keep buying whether it goes down or up — it doesn't matter to me. I see that as a long-term investment in the platform, same as holding $fxh in general. My overall strategy: take out about 20% to cash after each coin drop, and put 80% back into $fxh. At this point I've roughly 2x'd, almost 3x'd my airdrop.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
+[pool: Sketchbook A | Sketchbook A — William Mapan | | 3]
 
 Will: Hell yeah, dude. That's pretty good — that probably puts you at least in the top 10% for people who aren't botting and sniping.
 
@@ -112,7 +112,7 @@ Pronoia: I'm avoiding the word "inevitable," or anything close to "we're going t
 
 From a risk-seeking perspective, yes, at $6 million I think it's a good shot. But you don't know — let's say the Base hype dies down, Zora comes back from a half-billion-dollar valuation to something like $100 million or $50 million and settles there, mints dry up, fx(hash) gets dragged down with it even lower than the mint price, things don't mint out, and the whole thing declines. I'm just painting different scenarios — I'm not saying any one is more likely.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 3]
 
 I'm willing to take the chance, but I'm not telling anyone to buy more tokens. The bullish case is appealing to me. Would I hold this much of the asset if it weren't from an airdrop? No — it's still a very risky asset at a low price with relatively low volume, which can move up and down fast. If you're trying to trade this over just two or three months, be careful. So yes, I lean toward my bull case, but I stay very mindful of risk.
 
@@ -126,7 +126,7 @@ Will: Right. So it sounds like, to summarize: you're happy to hold $fxh because 
 
 Pronoia: Yeah, that's making use of the flywheel we talked about. The money going into art coins comes back to $fxh, because they're all paired against $fxh — from the bonding curve up through the highest point of demand right after the drop, it's essentially $fxh streaming into the token's liquidity. So there's always liquidity to exit into if the coin graduates and gets some volume early on.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
+[pool: Contrapuntos | Contrapuntos — msoriaro | | 3]
 
 People should be mindful of that — there are always people ready to grab that liquidity when it happens. So maybe wait a while, spend a few days looking at the artwork, or wait until it's been explored to a deeper depth, like with Ty Vek right now, before investing. Leave the liquidity-grabbing trading to people without much emotional sensitivity to it. That's my advice.
 
@@ -140,7 +140,7 @@ Will: I know it's on their roadmap. I don't know enough about the technical side
 
 Pronoia: I think you'd attach it to an open form or a long form. The best version I can imagine: Zancan releases *Garden*, then at some point releases *Garden Zero* as a 1 of 1, and then maybe later releases another version of *Grass.js* tied to the original collection, letting people who bought the coin from the first collection further invest in the narrative — and also auction it. Auctioning is a very special mechanic. We saw it with *Dark Farms* — auctioning the token by the artist is very effective, because collectors fight amongst each other. It feels like the value keeps increasing because the token gets burned, but you're also outbidding each other and getting an artwork back for it. I think that's very effective, and they'll probably do something similar.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
+[pool: Dragons | Dragons — William Mapan | | 3]
 
 Beyond that, I'd want as many options as possible. Someone like Zancan or William Mapan or Iskra probably wouldn't want to just do one open form and then another open form — they'd want to try a few different things with an art coin. Getting those options ready would be good. I'd also recommend letting people launch a coin with the prospect of art releasing at a later date. That's an interesting mechanic — you release a brand or artist coin as a kind of fundraiser, and then at some point release a special project, or multiple projects, over the long term. Maybe a gallery could do something like that, or an artist with a longer-term plan. Tying the release to a single project gives people a very deep connection to that project and the coin, but I don't think that's always the best route for someone who wants more of a personal brand coin.
 
@@ -154,7 +154,7 @@ Pronoia: They're winding down, moving into art and other things. They're becomin
 
 Will: I use William as a great example of someone I wish the art coin stuff had been ready and proven for with his sketchbook series, because I didn't love how constrained those projects were. My take is they were limited to 64 pieces primarily to drive price, not for the sake of the algorithm. Ideally an artist should be expressing the algorithm to its fullest extent, not doing what's best for price — and art coins let you have both in theory. You could have supported 800 *Sketchbook B* mints, because every single one now puts more value back into the art coin itself.
 
-[pool: Sketchbook B | Sketchbook B — William Mapan | | 3]
+[pool: Sketchbook B | Sketchbook B — William Mapan | | 1]
 
 I preferred *Sketchbook B* even more than *Sketchbook A*, but it ended up going for about an eighth of the price, just because of market conditions at the time. I would have loved to see that project done with an art coin execution and a bigger series. Hopefully they'll pay attention.
 
@@ -166,7 +166,7 @@ Will: I see it the other way, though I guess it depends on the artist. Having ta
 
 Pronoia: I have two thoughts on that. First, NFTs already do this. If you're buying an early artist's work — Mapan's a bit different, but generally — there's already an expectation that the artist will stay active, keep working on their career, even be online sometimes. It's gotten to the point where someone like Tyler Hobbs has to hire a full gallery management Twitter system to put out his posts, just so he can relax with his family and his collectors aren't chasing him about the price of *Fidenza*. That's how heavy the pressure already is. I don't think a coin adds much extra to that.
 
-[pool: Fidenza | Fidenza — Tyler Hobbs | | 3]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
 Artists should be upfront: if you trust me as an artist, as someone creating, I'm not promising any specific project. If you like me, this is my brand coin, my artist coin — the works I release on fx(hash) and in the ecosystem will use the token in some way, but I'm not guaranteeing any specific artwork ties to it. That's important for artists to state clearly, so collectors are aware of expectations upfront. And don't give in to anyone pushing those expectations — just block them if someone says, "Hey, are you going to release something for the price?" Are you holding a Mapan token because you think Mapan is a great artist doing great cultural things? Sure. But can you expect specific output from him? You're not a customer who gets a refund — you're investing in a speculative asset.
 
@@ -178,9 +178,9 @@ Will: If you were an artist thinking about releasing an art coin — and let's a
 
 Pronoia: I'd approach it from a business timeframe perspective — be very clear-cut about it. I think artists are still figuring this out on the platform, but if I were an artist, I'd set out a TWAP over time with my own coin: set amounts unlocking and selling publicly over a set period, and be transparent about the sales you're making. Keep them small, keep them spread out, and don't dump everything into the liquidity pool at once. Market management isn't something artists should need a degree in — just don't shoot everything at one time. Pick a cadence, weekly or monthly, whatever covers salary or expenses, and stick to it. If you don't need to sell at all and you're a larger artist who wants to build over a long time, you can do that too and just keep accumulating capital. Some artists might even consider not really owning their own token at all — being a shepherd of it rather than financially entangled to the point where they have to sell. That's an interesting approach, though a much harder one.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Will: A lot of artists right now are buying at the earliest point in the bonding curve — getting 20, maybe 30%, or in the case of Ty Vek, who bought 50% of the initial token supply. There's this temporary phase where the bots and snipers come in, the price whips up and down, then they exit and it settles to a natural place where collectors are actually interacting with it. At that point you're looking at $10-20K worth of market cap. Selling even 1-2% isn't going to pay a lot of bills for the average person there.
+
+[pool: Sketchbook A | Sketchbook A — William Mapan | | 1]
 
 Pronoia: No.
 
@@ -192,9 +192,9 @@ Will: There's an interesting opportunity for messaging around this. Say you're o
 
 Pronoia: Right, lowering the price through the selling.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Will: It's going to come with blowback, because there will be people holding the coin long term, and you'll get complainers. But like you said, that's just how it goes.
+
+[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
 
 Pronoia: The only thing you need to worry about — if you care about sentiment and your coin doing well, fine, care about that, and that's why you might sell slowly. But the personal expectations of people, what they individually want you to do — don't bother yourself with that. Just think about what's good for the coin, what's good for you, and how to balance those two things. That's all you need to worry about. If selling quickly causes other people to sell too, that's not because they're mad — that's just how markets work. Markets will respond if you dump a lot of liquidity at once. That's a reality. But artists, please don't listen to the whiners.
 
@@ -206,9 +206,9 @@ Will: You look at the floor price and think, "oh, that's not so bad." Then you r
 
 Pronoia: I always assume the price is whatever the current offer is, not the floor price.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Will: This has been awesome, I love thinking about this stuff. It might sound cringe to artists, but it's genuinely exciting to think this actively about art markets again — to have a reason to be on the platform, in Discord, collecting, posting the new art I'm picking up on fx(hash). It's been a great experience for me. Hopefully you've been enjoying it too.
+
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Pronoia: I've been enjoying it, and I've been enjoying yapping as well. Do English people say "on the nose"?
 
@@ -220,9 +220,9 @@ Will: I've given myself a rule of trying to write one good tweet a day that expr
 
 Pronoia: I've been in the top 10, top 15 of the yap leaderboard, and honestly I hope I get bid out. I went through a whole stretch, especially after I left Trillitech, where I wasn't tweeting or interacting much, so my engagement is pretty wrecked, but I'm still doing well. I'm hoping bigger players come in and out-yap me — I'll take the hit and probably cash out on the other side.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Will: That would be the benefit, I guess. Before we go — let's go back to the beginning. How do you feel, logistically, morally, technically, about the plan to bring Tezos projects over to Base, or to ETH L1? I think it's actually ETH L1 they're planning.
+
+[pool: Sketchbook B | Sketchbook B — William Mapan | | 1]
 
 Pronoia: I gave some fair criticism on Twitter. What I'll say is: I wouldn't want this to happen if they'd chosen to remain with Tezos. My preference would've been for them to keep spending 30 to 40% of their cultural, social, and technical capital on Tezos. They didn't decide to do that — they've decoupled, they've broken off, and at that point the only thing I can do is accept it.
 
@@ -234,9 +234,9 @@ Will: That's a lot of steps to make happen currently.
 
 Pronoia: You see it — nobody's doing it. There are traders making $5,000, $6,000 on these trading coins. I think the community would be a lot less angry at those traders if they turned around and spent even $1-2K of it on those classic collections. That would change the whole mood.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Will: What you're saying makes sense, but the biggest inhibitor I see is that the Coinbase wallet doesn't support Tezos right now. It would take them as an entity choosing to do the work to bring Tezos into that.
+
+[pool: Sketchbook A | Sketchbook A — William Mapan | | 1]
 
 Pronoia: No — I think the bridging needs to happen at this point, because wallets are just a layer on top. Temple Wallet supports both ETH and Tezos, but that doesn't mean ETH people start using Tezos through Temple Wallet. Same thing — I don't think people in the Base app are suddenly going to start buying Tezos NFTs, and I don't think Base is going to integrate Tezos. So get it closer on a technical level — get it at least to ETH L1, and keep it there. Bridge fx(hash) automatically, one click on OpenSea — that's already possible with other tokens, buying from Base directly to ETH L1 in your wallet. That integration is so smooth, nothing beats it in terms of market synchronicity. Even if MetaMask added full Tezos support today, it'd be a great day for Tezos, but I don't think it creates value right away.
 
@@ -248,9 +248,9 @@ So get them to... I never thought I'd say this, but in the scenario you just des
 
 Will: I'm curious what their logistical solution will be, and to what level they're going to involve artists. I think we can name one artist right now — Zancan — who probably would explicitly not want his pieces moved over. But if this is a tool put in the hands of collectors to just have autonomy and move their pieces onto a different blockchain...
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Pronoia: I don't know how that's going to work. If you want to transfer a token, you can transfer it. The artist has allowed you to buy the artwork — the artist might not like what you do with it, but if I throw the artwork out the window or step on it with my boot, it's not illegal. It might be immoral, and the artist might not like it, but this space is most of the time not about being moral with the way you treat artists' assets. That's not the reality, especially now that you're dealing with all these degen traders. They're really not caring much about dilution or bringing things back into the market at the wrong time.
+
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
 Will: I wouldn't be surprised if some degen traders who've done a lot of art collecting see this as a potential arbitrage opportunity — throwing out low bids on Ringers, Zancan pieces, *Contrapuntos*, *Dragons*, a lot of the revered historical fx(hash) collections — just to be the vector for bringing them over and be first to have them on ETH L1 OpenSea. Like, "I bought this for $300 in Tezos and I'm trying to get $1,000 for it on ETH."
 
@@ -262,9 +262,9 @@ Will: Interesting. All right, I feel like that's a great place to end it. Give P
 
 Pronoia: Tyler, the Creator is really good — I went to the Chromakopia tour with my little sister, that was really sick. I like the new album. You don't like the new album. We can respectfully disagree on that.
 
-[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
-
 Will: I've got to listen again.
+
+[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
 
 Pronoia: Yeah, get some good speakers on, get a vibe going. If anyone — I'm doing ten hours of consultancy a week, so if any artists need help designing their tokenomics, thinking about how to work with the community, or curating artworks, I'm always there, and I do good rates. Same goes for crypto companies. Other than that, I'm just working my government job, so nothing else to plug.
 
@@ -276,6 +276,6 @@ Will: Thank you. All right, everyone, we'll be back again soon-ish with another 
 
 Pronoia: Peace.
 
-[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
-
 Will: Thanks to Lars. Bye, man. See ya.
+
+[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]

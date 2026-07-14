@@ -112,7 +112,7 @@ Will: All right, sick — I'm gonna go buy some after this then.
 
 SimonSays: I've had a couple calls with the Highlight folks, and it seems like a really good platform — they're building cool stuff. I haven't spoken with the Prohibition folks yet, but by all accounts it's the same there. It's tricky. To the flip side of your question: the folks I'm working with are generally looking for release partners for anything major.
 
-[pool: Ori | Ori — James Merrill | | 1]
+[pool: the colorblind studies | the colorblind studies — Zach Lieberman | | 3]
 
 Will: Right.
 
@@ -122,7 +122,7 @@ Will: Yep.
 
 SimonSays: I firmly believe the physical show they did in London led to better sale performance. People saw the cone gradients printed out — some in person, others saw photos or heard anecdotes on Discord from people who went and said, "holy shit, these look great." Even more so the videos — *the colorblind studies* — they did this really ambitious setup with huge, two-meter-by-two-meter LED screens.
 
-[pool: the colorblind studies | the colorblind studies — Zach Lieberman | | 3]
+[pool: the colorblind studies | the colorblind studies — Zach Lieberman | | 1]
 
 Will: Yeah.
 
@@ -154,17 +154,15 @@ SimonSays: Not quite.
 
 Will: I ballparked it at around $300,000 — maybe $150,000 out of each, though I didn't actually crunch the numbers. That's a big move. There's a lot of liquidity right now that wouldn't have been there a year and a half ago, but even so, that's a ton. So what else are you doing with the people you work with in this bear market? Opportunities to release like that are going to be few and far between. I know Zach, for example, works with Apple and Google and does other things outside the art world. Are you helping line up other revenue streams for people like him, or is it more about helping them take the one or two big swings they get and maximizing those?
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 SimonSays: A little more the latter, and not necessarily maximizing — I don't think the Zach Verse show was fully max-extracted. We definitely could have charged more on the mint passes and editions, but we wanted to make sure people felt like they were getting a deal. So it's not all about maximizing revenue. More broadly, it's about figuring out what the major moments are, creating space for them, and making sure they go well — but also about what happens in between.
 
 Zach gets a fair number of commission requests, and galleries often want to show a piece of his alongside other work. There was a piece of his at the Christie's 3.0 show in July that sold, and things like that come up every now and again. Marcel has a bit of that flow too. Marcel's a fascinating artist — pretty unique in the space in terms of how connected his work is to physical objects.
 
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 3]
+
 Will: And uses, right? His whole collection of vintage machines.
 
 SimonSays: Yeah, he uses these plotter machines. The vast majority of the NFTs he sells refer to a specific, unique physical art object. He hasn't done a digital-first, code-based, long-form series so far, which raises interesting questions about releasing a collection — it falls into a different mental bucket for a lot of people than an Art Blocks mint or an fx(hash) mint.
-
-[pool: Ori | Ori — James Merrill | | 1]
 
 With Efdot, the non-generative, one-of-one edition side of the space is very different. It's been a learning curve for me — I've collected a fair bit in that world, but I'm not nearly as embedded in those communities. I'm on some Discords and Twitter chats, but I haven't gone nearly as deep. It's been interesting to go deeper and see how it all works, because it's a very different rhythm. If you're not selling at a really high level, you don't get the every-few-months major drop that covers your revenue for the year — that flow doesn't work. You need a much more frequent cadence: how are you doing the auctions, the editions, the pacing of releases, the marketing? How do you market yourself in a way that feels authentic and doesn't turn people off, but still gets the word out? You need to be in sales mode a lot more, which is hard for everyone involved, because ultimately you want to be talking about art, not the upcoming auction — but you kind of have to.
 
@@ -174,11 +172,11 @@ Will: Right — Marcel could just keep making those spirals and selling them all
 
 SimonSays: You still can.
 
+[pool: Take Root | Take Root — Melissa Wiederrecht | | 1]
+
 Will: At the price point, though, I missed a couple on Versum — that site was so janky it wasn't accepting my bids, and there were chances to get his stuff for like $100 in Tez, which is crazy. Using him as an example — maybe there's a release I haven't seen since, but the last one I'm familiar with was *It Is What It Is*, on Foundation. That's a do-it-yourself platform, no Verse doing the exhibit or the marketing push — all on you, the artist, or your team. I thought it was a really cool project, minted one, but it didn't sell out. Part of me thinks people wanted the cool, colorful plotted stuff, and he took a turn here. Mine's in the mail right now from Artfora. Is this where your role as a kind of business coach comes in — picking them up a bit, saying "it's okay"? To the extent you're comfortable talking about it, what was the postmortem like, both in your relationship with him and looking forward?
 
 SimonSays: It was surprising to me too that it didn't sell out. We thought we'd priced it competitively — I was worried it would all go during the allowlist period.
-
-[pool: Ori | Ori — James Merrill | | 1]
 
 Will: I actually had you mint mine for me because I was going to be flying.
 
@@ -188,9 +186,9 @@ I think his work is conceptually rich — interesting and visually engaging, but
 
 As for the Foundation piece — Marcel had an open conversation with Foundation about doing a drop with them dating back to last year, before he and I were even working together. We'd been chatting on and off about what could be a good fit, and this came up. It's an open platform, but they choose what to promote, and they did a reasonable amount for it.
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 Will: Yeah, I noticed it got good featuring on the main page.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 SimonSays: They did their best — there was a nice post, an interview with Marcel diving into the process and everything it references. There's a genuinely interesting question I don't have a perfect answer for: how do you make the case for something like that in a way that actually breaks through?
 
@@ -202,9 +200,9 @@ SimonSays: Sure, but to an extent, that's true — if you're not that, there's a
 
 I've heard from people the idea of "oh, I already have a couple of Marcel pieces, I don't need anything more on my wall." Well, do you stop at two for any other digital artist in your wallet? I get it, but on the other hand — you don't have to claim the physical.
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 Will: Speaking for myself, if you don't claim the physical, I'd be worried about my ability to claim it later. Not that I distrust Marcel specifically, but if it's an artist I don't have a DM-level relationship with, and I bought something with just an Artfora redemption link — I don't know anything about Artfora as a company. What happens if Artfora goes down? Are they warehousing it? Does the artist have to get it back? There are a lot of questions, a lot of concerns, around not claiming it.
+
+[pool: Take Root | Take Root — Melissa Wiederrecht | | 1]
 
 And once you do claim it, if you don't have a spot for it, there's the question of how to store it properly — you wouldn't want a piece to degrade because you were careless. That means getting it framed and on the wall, which means talking to your partner about where it's going to go. As we call it on the show, the wife test — what passes goes on the wall, what fails goes into the office, and the office is very small.
 
@@ -216,9 +214,9 @@ Will: I'm just coming up with a hypothetical scenario of a collector who might b
 
 SimonSays: For anyone listening — get a flat file cabinet. It totally changed my approach to associating physical prints with the tokens I own, because now I know I have somewhere safe for the long term to store anything I receive, and I can make decisions from there. There's a large piece I have framed from my initial flurry of collecting, when I was falling in love with everything and putting prints of it all up on the wall. It's a token I no longer own. I still like it, but there's a lot more I've received since that I like even more. I got Cory Haber's *Atmospheres* series print on Verse — signed print, top-10 thing — and it turns out it's the same size as the framed piece. So it's been sitting in my flat file cabinet for a few months, but eventually I'm going to take both to the framers and have them swap it out for about $80.
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 Will: Huge.
+
+[pool: the colorblind studies | the colorblind studies — Zach Lieberman | | 1]
 
 SimonSays: Right? I think there are all these interesting challenges around this. My understanding is that in the more traditional art-collecting world, people often get into it, buy a bunch of stuff, run out of space to put it, and then collecting really slows down. I think something similar happens in our space — we've been at it for a few years, we've got a lot of art now, our wallets are full. On the Tezos side especially, there are tokens in my wallet I couldn't tell you anything about, no real relationship to them — just from buying flurries of things because they seemed cool at the time. It adds up to this sense of, man, I've got a lot of stuff, and I've got to deal with it.
 
@@ -230,9 +228,9 @@ I'd love to have a few more clients in the way that Zach, Marcel, and Eric are c
 
 I'd love to have those relationships in place before a bull market returns, so we can ride that wave together. But it's entirely plausible a lot of artists won't see the need for this until the money gets easy again and the hard part becomes attention and mental bandwidth. In the bear market, giving up a cut of earnings when you're barely making it isn't appealing — I get that. Still, I think a lot of what artists are releasing now could be the hidden gems of the next run — things people will covet having gotten more cheaply now. So it's about being conscientious about how, where, and when you release, and building a collector base that actually wants to hold your art. Collections won't appreciate over time if everyone's just a bag holder looking to exit the second there's renewed attention and liquidity. How do we construct things so people are getting in from a good place, looking to go on that journey with us?
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 Will: That's the paradox. It feels like we don't just need new people — we need new people with more earnestness, not just speculators. So many people came to this space from a purely speculative standpoint, myself included when I first started. Those were the days you could mint something on fx(hash) and it would 100x in a day. It felt so simple back then. It takes everything slowing down — and doing things like making this show — to get more invested in the greater scene and what's actually going on here. Big open question for the future.
+
+[pool: the cone gradient studies | the cone gradient studies — Zach Lieberman | | 1]
 
 I guess to finish up — a couple of rapid-fire questions, though this one might get a long answer. The way you're compensated — some agreed percentage as your cut for the work you do — I get the sense you're very good at this job, but how do you balance the incentive to say yes with the job of sometimes saying no? That's got to be difficult, especially if this is your full-time thing — actually, I never asked if it is your full-time thing. Ultimately you need people releasing work for you to get paid, but artists won't work with you if they don't trust you to keep their best interests in mind regardless of your own cut. How do you think about that? Or is it as simple as: I love these artists, I want what's best for them, and I trust my compensation will follow from that?
 
@@ -244,9 +242,9 @@ It's pretty remarkable to me that when I put out into the world that I was think
 
 Will: Huge congrats, honestly. I'd have thought Zach already had representation, given the level he plays at. And just — hooking yourself up with genuinely great artists, being able to say "I represent these three, take a look at their stuff," as a fan of theirs — that's got to feel great. Not a gotcha question, by the way — I'd thought about doing something similar myself at the end of last year, around the same time, and immediately my business brain went: I don't want to be in a situation where doing my job well means I'm not making money. Because I'd been hearing so much from artists about all the outreach they were getting from platforms, DAOs, groups, and so on.
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 SimonSays: For any artists listening — feel free to reach out. Happy to chat, happy to have informal one-off conversations if it's helpful, happy to be an active member of the whisper networks.
+
+[pool: Take Wing | Take Wing — Melissa Wiederrecht | | 1]
 
 Will: One last one: other than the artists you represent, who would you like to hear us interview on the show? We've already interviewed one of the three you represent, but who else in the ecosystem?
 
@@ -258,9 +256,9 @@ SimonSays: You should. Also — not sure how much you'd want to go this route, b
 
 Will: That's a really good idea. I'm kind of mad at myself for not thinking of it, since I saw that exhibit a few months back. I even have the hardcover *Coded* book they released. I'd bet her name is right on the first page.
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 SimonSays: Weirdly, it's not — which is why it took me a second to find it. But it's got to be in there somewhere. It opens with this chronology before it actually gets into an index.
+
+[pool: Take Root | Take Root — Melissa Wiederrecht | | 1]
 
 Will: That would be a great episode. It would take some prep work, especially with Casey just releasing *923 Rooms* — and the progenitor work to that was on display there. I like this idea a lot. This is a good place to end it. I'll invite you, Simon, to get any plugs off — we just had the solo show from Zach, great success there. Anything else coming up?
 
@@ -272,9 +270,9 @@ Will: *Upward Spiral 2*, here we go.
 
 SimonSays: *Upward Spiral 2 Electric*.
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 Will: We'll look forward to all that, and everyone should give you a follow. Is it @SimonSays?
+
+[pool: the colorblind studies | the colorblind studies — Zach Lieberman | | 1]
 
 SimonSays: It's @0xSimonSays.
 
@@ -286,9 +284,9 @@ Will: So, @0xSimonSays — if you're an artist interested in getting your career
 
 SimonSays: Hit me up. And if you're not verified and can't DM, you can find me in Discord. My email is the same as my Twitter: 0xsimonsays@gmail.com.
 
-[pool: Ori | Ori — James Merrill | | 1]
-
 Will: Thank you so much, Simon. It was great to have you on the show, talk the market, and get a different side of the business. Hope you enjoyed being on the show.
+
+[pool: the cone gradient studies | the cone gradient studies — Zach Lieberman | | 1]
 
 SimonSays: Absolutely. Great to be here. Thanks for the great conversation.
 

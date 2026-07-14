@@ -332,7 +332,7 @@ Will: I think it was February—I remember covering it on a really early episode
 
 **Bayamese:** Oh my God.
 
-[pool: 1 Hour | 1 Hour — who? | | 1]
+[pool: 1 Hour | 1 Hour — who? | | 3]
 
 **Will:** I think it triggered a heart attack — trying to recall my childhood memory here. He went to the hospital and got a bypass or whatever you do for a heart attack, but he was fine. He's actually still alive. And he gave me this long sheet of receipt-style paper that was an EKG printout.
 
@@ -384,7 +384,7 @@ Will: I think it was February—I remember covering it on a really early episode
 
 **Bayamese:** Big Ross Goodwin fan, by the way. I considered it, but it's not really what I'd want to do for real. I'd prefer the SVG route. I'm interested in abstract art, in 8-bit things, pushing pixels around — quite literally, even as a base concept — like *Gradient Descent*, things like that. I'm a big fan of how *Heat Death*'s actual code was so short. That's so impressive to me. I don't know if you follow KilledByAPixel or people like that on Twitter, but they post their—
 
-[pool: Gradient Descent | Gradient Descent — who? | | 1]
+[pool: Heat Death | Heat Death — lunarean | | 1]
 
 **Will:** The tweet-length code Twitter crowd.
 
@@ -468,7 +468,7 @@ Bayamese: Oh my God, that's so messed up. I also wanted to ask—what art do you
 
 Will: We actually just recorded our top 10s of the year today, so that'll come out soon. But my number one right now has to be Jeres.
 
-[pool: Gradient Descent | Gradient Descent — who? | | 1]
+[pool: Turing | Turing — agoston nagy | | 1]
 
 Bayamese: I'm such a big fan.
 
@@ -482,7 +482,7 @@ Bayamese: Let me check—I don't believe I have.
 
 Will: Check out *Turing*. Check out *Kernel*, their most recent one, still open for mint.
 
-[pool: Turing | Turing — agoston nagy | | 1]
+[pool: Kernel | Kernel — agoston nagy | | 1]
 
 Bayamese: So much of their stuff is still open for mint. Oh, I minted *Turing*, I had one of those at one point. Let me look at their most recent piece... I remember *Turing*, that was fire.
 

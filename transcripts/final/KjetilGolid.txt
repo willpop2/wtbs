@@ -68,7 +68,7 @@ But to answer directly: I still feel like the piece itself is the art. It would 
 
 Will: Let's get into Archetype, probably the piece you're best known for -- an early Art Blocks curated release. We're coming up on the third anniversary pretty soon; it came out in March or April 2021. I'm not sure if we do anniversaries for generative art, but it's a big accomplishment that the piece still runs through the sales feed multiple times a week. People are still crazy about collecting that series. Can you give us the story of how it first came to be, how it ended up at Art Blocks as a curated release, and then how it was followed almost immediately by *Paper Armada* -- I think only a month or six weeks later? What was the thinking at the time, in those early days of Art Blocks, when I feel like now they'd never let an artist release two projects so close together? And that series was something like 3,000 pieces, right?
 
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
+[pool: Paper Armada | Paper Armada — Kjetil Golid | | 1]
 
 Kjetil Golid: Yeah, 3,000.
 
@@ -86,7 +86,7 @@ Will: It was called Playground at the time, but they've rebranded everything on 
 
 Kjetil Golid: Right. So that's what people were doing -- generative artists didn't really have another outlet. They had a lot of projects they wanted to turn into NFTs, so why not get them out there? I had this *Paper Armada* set, and it was almost a coincidence that *Archetype* ended up being the curated one and not *Paper Armada* -- I was working on both in parallel and had great ideas for that set too. But it ended up being *Archetype*, and I released *Paper Armada* right after. Who knew, right? We didn't have any of the standards or unspoken rules yet about size, price, or intervals between drops. So why not try a higher number?
 
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
+[pool: Paper Armada | Paper Armada — Kjetil Golid | | 1]
 
 I kind of wanted it to become something like Snowfro's *Chromie Squiggle* -- something that didn't need to mint out immediately. It could just sit there, and I could gift pieces to people, or it could just be something people had available to mint. Same philosophy as the *Squiggles* at the time. And that's roughly what happened: when I released it, one or two months after *Archetype*, the market had dipped slightly, so it didn't mint out immediately -- it minted pretty slowly. But then a community moment happened: one collector really wanted a specific *Paper Armada* with certain traits and promised to trade a Fidenza to anyone who minted one with that trait.
 
@@ -138,13 +138,13 @@ My work has this iterative quality—I like building on earlier pieces and evolv
 
 As for the brutalist architecture—that was actually the initial inspiration for the *Archetype* algorithm in the first place. I wanted to make these tall, high-rise buildings with a lot of repetitive elements that were subtly flawed, the way real brutalist buildings are never perfectly repetitive because they're lived in by people—you'll see curtains in the windows, air conditioners, things that break the monotony. I found that really interesting and tried to recreate it here through color, which is the one part of the piece that's placed randomly. Like *Archetype*, *Monument* has some very orderly pieces where the repetition is clear—probably the ones closest to actual brutalist buildings—and more chaotic ones that read more clearly as generative pieces.
 
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
-
 Trinity: I'll pop this into our Discord chat—my old view from where I used to live. I lived across the street from a crazy brutalist hospital building, mixed in with a nineteenth-century church and some terrible '90s brick construction—a mishmashed, ugly campus, but the brutalist part was pretty cool. Anyway, I love brutalism.
 
 I'd love to talk about some of the other evolutions here too, because you're not just moving further into 3D space—there are other big differences in *Monument*. Specifically the line work: it's no longer clean, straight lines running continuously from one end of the block to the other. You're starting to see line breaks, lines that aren't always black, sometimes broken up white sections. That seems like a big evolution of the algorithm. Is there a reason behind these less clean elements—though they're still clean, just less straightforward?
 
 Kjetil Golid: It certainly breaks up some of the monotony, and that was part of the reason. Another source of inspiration for me is the ligne claire style of comics—Hergé and the other great comic book artists and drafters. This is a bit of a nod to that: broken-up lines to indicate something. I use these breaks internally within the shape—the outline of the box itself is always whole, but the lines inside the block can be broken up. And as you said, some boxes have no outline at all, which is part of that same breaking-up—it felt almost like the color was overflowing the box, which I liked aesthetically.
+
+[pool: Decagon | Decagon — Kjetil Golid | | 1]
 
 You could say this goes against what I said earlier about making the structure very clear visually, but I think some variety is important too. That's the graphic design part of it, I think.
 
@@ -152,17 +152,15 @@ Will: I know the release details haven't been announced yet other than the date,
 
 Kjetil Golid: It will probably be long form. I miss doing a long form piece. My latest project was curated, which is good in itself—I like generating hundreds of pieces, flipping through them, finding the things I like, and releasing those in a focused set. But this one was made with long form in mind the whole time, and that changes things. It makes it more restrictive in what you dare to do. If this were a curated piece, I'd probably use more color palettes, each emphasizing the structure of that exact piece. But here I know there will be hundreds of pieces—300, probably—that people will look at together. That's a real concern: you want enough variety that it doesn't feel like 300 identical pieces, but enough consistency that the work functions as a set and as an individual piece. That balance is hard to strike, because it's hard to make pieces look good in a set. If yours is the simplest piece, it looks even simpler next to all the complex pieces around it, and vice versa. Being part of a set intensifies whatever trait you have.
 
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
-
 Will: Looking forward to that. I think both of us have come to embrace curated releases, which have become more of the meta during this bear market. But our roots are in long form—you get what you get, you mint, and you trust the algorithm to deliver something you like.
 
 Trinity: It's like opening Christmas presents, or jelly beans. What flavor is this? No idea, but I'm excited.
 
 Will: We talked a lot about *Archetype*, and you've obviously had a lot of success since then—you've been a full-time artist for the last two years, I think you said. A lot of your work has been iterative, continuing to play with things you're well known for: the cuboids, the color palettes you've developed. What's been the secret to staying successful in web3 for so long? Two years in web3 is a really long time, in life and in an art career. How much intentionality do you put behind thinking about your career—deciding, yes, it's the right time to do a one-of-one project, yes, it's the right time to do a long form? What advice might you have for artists out there struggling with how to keep it going for themselves?
 
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
-
 Kjetil Golid: I'm probably not the right person to ask—I've spent very little time worrying about that, honestly. Maybe I should have, maybe I'd have been even more successful. I was blessed with being early in the market, being at the right place at the right time, which gave me a lot of things for free. I think it's about staying relevant, engaging with your community. You could take that to the extreme, especially in web3 communities—creating rewards, whitelists, airdrops, all of that. But when I started doing this full-time, I wanted to focus on my art, to have my whole head in that space, and not really create an online persona. I find that exhausting, even though it's probably the thing that works best. Each to their own, but for me, I've tried to keep my headspace around the art completely, and hopefully that will be enough. I hope people don't feel betrayed—like they invested in me as an artist and didn't get anything back.
+
+[pool: Decagon | Decagon — Kjetil Golid | | 1]
 
 Will: Fair enough. Natural follow-up: do you have people around you that you outsource some of that worry to? Do you work with any gallerists, or anyone doing that emerging "manager" role for artists? And how do you think about different platforms to release on, or even different chains? I don't know how closely you follow the discussion, but with Ethereum, the marketplace has become more difficult, and a lot of artists are starting to look at Solana, at Bitcoin. Does any of that appeal to you—experimenting with an open platform like fx(hash), or something totally different like Bitcoin? Or are you focused solely on finishing a piece and then putting it wherever seems best at that time?
 
@@ -172,17 +170,15 @@ Trinity: You're in that early group that really established the forefront of thi
 
 Will: You mentioned earlier that with your early Art Blocks drops, royalties were enforced back then, and now they're not. So even though *Archetype* might still show up in the sales feed, you're not necessarily benefiting from that anymore. How do you feel about that erosion of royalties on Ethereum? Has it made you think about other chains, or has it just changed how you think about releasing work now—like, that's it, I'll take whatever I can get on primary, and if I get some royalties, great, but I won't plan on it?
 
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
-
 Kjetil Golid: It was disheartening at first, realizing it wasn't royalties anymore—more like the market treating it as a donation, which in practice turned it into nothing for us. But with some distance now, I think it was something that quickly appeared and quickly disappeared, so let's not dwell on it. It could motivate me to go to another chain if royalties were more enforced there. But it's really a question about community and culture—something about enforcing it too strictly feels wrong to me. It should be something people do because they love the work, almost like buying the artist a coffee. Flippers maybe wouldn't need to pay, because they don't have that same relationship with the artist. But it is what it is—I won't be at the forefront of fighting to bring it back in some forced way.
 
 Trinity: You seem to sit in that middle ground between the traditional, slow-moving art world and the hyper-fast world of web3. You're clearly part of the web3 world, but what's your take on the speed at which things move, and constantly changing ecosystems and culture—bear market to bull market and everything in between? Do you consider yourself a blockchain artist, a digital artist, a code-based artist? Where do you place yourself in relation to the web3 ecosystem?
 
+[pool: Decagon | Decagon — Kjetil Golid | | 1]
+
 Kjetil Golid: I call myself a generative artist. I don't call myself a crypto artist or an NFT artist because I don't make use of the chain as much as many others do, so those labels wouldn't make sense for me—not because I want to hide that information, but "generative art" is simply more descriptive of what I do. Then I can mention in the next sentence that my work is available as NFTs. "Generative" has suddenly become associated with AI too, so now I probably have to say "generative artist, not AI" or something like that. As for the speed of everything, it's a stress factor—the market is constantly changing, technically and otherwise, and with the bears and bulls it's hard to keep track if you're not actively engaged. But it's also exciting to be part of and at the center of. It always presents possibilities you can choose to go after or ignore, and in that way it's much more entertaining than being in a more traditional art market.
 
 Will: Definitely entertaining. We've been chronicling it for two years now, and every week we're entertained. Let's move into rapid fire and wrap up the episode. Worth noting—this is the third anniversary of *Archetype*, three-dimensional monuments, so maybe this release is kind of a celebration of that. For rapid fire, we ask some quick questions to get to know you better. One we always ask: who would you like to hear us interview on the show?
-
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
 
 Kjetil Golid: In the generative art scene?
 
@@ -192,11 +188,11 @@ Kjetil Golid: I don't have a complete overview of who you've interviewed, but I 
 
 Will: He stopped putting stuff on fx(hash) because he started working in a different language that wasn't web-compatible. I remember asking him about it on Twitter.
 
+[pool: Paper Armada | Paper Armada — Kjetil Golid | | 1]
+
 Kjetil Golid: Yeah.
 
 Will: He'd show all these amazing works-in-progress on Twitter that never materialized into anything—he's really just making it for the fun of making it.
-
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
 
 Kjetil Golid: Definitely. A lot of people say that about what they do, but he actually means it, because he makes it in a language that's impossible to get onto any platform.
 
@@ -206,11 +202,11 @@ Trinity: Slumming it in JavaScript.
 
 Will: Exactly.
 
+[pool: Decagon | Decagon — Kjetil Golid | | 1]
+
 Kjetil Golid: I'll definitely give you some headline comments.
 
 Will: That's great, we always love those spicy interviews. Trinity, want to throw out another rapid fire?
-
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
 
 Trinity: Who are some of your favorite generative artists? Whose work do you absolutely love?
 
@@ -220,11 +216,11 @@ Will: Who else?
 
 Kjetil Golid: They also tend to have names that are hard to pronounce.
 
+[pool: Paper Armada | Paper Armada — Kjetil Golid | | 1]
+
 Will: That's our specialty.
 
 Kjetil Golid: I should probably not say anything about that, though.
-
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
 
 Trinity: You can send them to us offline.
 
@@ -234,10 +230,10 @@ Kjetil Golid: I can't say much specifically. I always have a lot of things in th
 
 Will: We'll just have to follow you on Twitter and look out for works in progress as the year progresses. Trinity, you feel good? Are we wrapped?
 
+[pool: Decagon | Decagon — Kjetil Golid | | 1]
+
 Trinity: I feel great. This has been another wonderful episode of Waiting to Be Signed. Thank you, Kjetil, and thank you, Will. Looking forward to everything that's coming out with *Monument* and everything else you might do.
 
 Will: All right. Bye, everyone.
-
-[pool: Archetype | Archetype — Kjetil Golid | | 1]
 
 Kjetil Golid: Thanks. Bye.

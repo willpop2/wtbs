@@ -128,7 +128,7 @@ And lest we forget, these are often really low-cost plays, and they sit in a nic
 
 Trinity: I think that's amazing, and definitely a different philosophy than what we see some other big collectors taking, where some people go broad and wide, and others look to consolidate specifically into grails and only grails. One of the first big sweeps you had was *Organicon Variation 1*, *4W BLOOT*, and then *Astraea's Loom* by Rose Jackson.
 
-[pool: RGB | RGB — ciphrd | | 1]
+[pool: RGB | RGB — ciphrd | | 3]
 
 KRPDM DAO: Those are two great examples. Personally, I'd been collecting some of his work when HEN was in triple digits — he's one of the OGs of Tezos NFTs, and we in the DAO love *Organicons*. They might be a little out of meta at the moment and not quite in favor, but I think a lot of the time people just want their piece — they want to see it and go, "That's my piece, I can identify it." But there's going to be a time when people in galleries are asking how a piece renders, how it presents. It's not just going to be a still. Some artists put a huge amount of care into the presentation, and he's a shining example of that.
 
@@ -222,7 +222,7 @@ Trinity: I'm looking through your collection right now — do you have anything 
 
 Will: I don't know if I saw those in there.
 
-[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
+[pool: Fragments of a Wave | Fragments of a Wave — iRyanBell | | 3]
 
 Trinity: The ones he's had.
 
@@ -236,7 +236,7 @@ There's a method I like to apply, just me personally, not Carpe Diem: if my coll
 
 Trinity: That speaks to a tension that's been in my mind through this interview, especially given that you feel the DAO was late — not able to get in on some earlier projects when they were minting for between free and 5 Tez. If you'd had the ability to mint the *Century* collection, would your perspective be different? And what's your overall take on minting versus buying, from the Carpe Diem perspective? I know you do mint — we saw a number of *Bug Forest*s coming through multiple wallets. Does that change the math or the thinking on what you mint versus what you buy first?
 
-[pool: Contrapuntos | Contrapuntos — msoriaro | | 1]
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 3]
 
 KRPDM DAO: Naturally it changes the math. I don't have the data in front of me, but there's a great deal more upside if you're able to attend these markets on primary, and the exposure to risk is usually minimized a little. When you're coming in at secondary, as a DAO in particular, you need more conviction — that often means reaching out to DAO members, pulling together a vote, and coming in for a sweep of ten or more artworks rather than just having a little punt at one or two. So secondary requires more conviction, stronger sign-off from the DAO and the members whose capital you're putting to work.
 
@@ -250,7 +250,7 @@ It hit a really nice note for us because we're seeing so many projects on fx(has
 
 Will: That piece is *Miniscapes*, by the way.
 
-[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 3]
+[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
 
 KRPDM DAO: Yes, sorry — *Miniscapes*.
 
@@ -320,4 +320,4 @@ Trinity: Sounds great.
 
 Will: Thank you again. I hope everyone enjoyed this—it's been a really great interview, and we'll see you all next time. All right, later. Bye.
 
-[pool: Miniscapes | Miniscapes — Rich Poole & Rick Crane | | 1]
+[pool: Fragments of a Wave | Fragments of a Wave — iRyanBell | | 1]

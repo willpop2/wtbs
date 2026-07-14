@@ -14,7 +14,7 @@ About twelve years ago, since I was a fairly proficient coder by then, I started
 
 I did that for about ten years — various math projects, art projects. Then one day, walking my dog, I was listening to a podcast with Snowfro talking about Art Blocks and the model they had there. I already knew about NFTs from listening to technology podcasts, but it hadn't felt like a match. Listening to him, though, I suddenly thought: this is my home, this is where my work belongs — because I had never managed to sell anything up until that point. I'd tried in my early twenties but gave up.
 
-[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 1]
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 3]
 
 So I built a demo and submitted it, and several months later I got accepted. I stopped everything at that point — I was renovating houses for work, though I'd always spent two or three hours every morning making art before starting the job. I just dropped everything; my tools are still lying where I left them on the floor downstairs. Fortunately that project sold — that was *Photon's Dream* — and then *Fontana*, and the rest is history. I do this full-time now, probably more hours than is healthy.
 
@@ -38,7 +38,7 @@ Harvey Rayner: Why do I like it? I don't know — I was drawn to it as a kid. I'
 
 Even *Fontana* still uses some of the geometry I was playing with back then. I like having both components: the transcendental geometric symmetry, and also a very earthy, textural element — both worlds in one.
 
-[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 3]
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 1]
 
 Will: I'd say there's a lot of overlap between sacred geometry and the use of psychedelics too — we don't need to ask about your personal experiences there, but there's a trippy quality to what I've seen of *Quasi Dragon Studies* so far.
 
@@ -146,7 +146,7 @@ Harvey Rayner: Yeah. The narrative was that they had a rough idea where they wan
 
 Will: You're talking to some big *Lost* fans here.
 
-[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 1]
 
 Harvey Rayner: Oh, really? Good.
 
@@ -160,7 +160,7 @@ The real worst case would be if it just didn't sell — if we didn't get enough 
 
 Will: I'd completely missed that you'd be able to continue making composites after the 108 are made. I assumed people would mint these tiles, get four that go together, make a 2x2 piece, and then that combination would be locked out. So what's the actual distinction between the 108 that solidify to end the minting process versus the rest? Is it that color change, the switch to purple?
 
-[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 1]
 
 Harvey Rayner: The Black Dragons are just a mechanism to shut the supply off, but they don't stop the minting — people can still convert tiles, they just can't buy new ones. It's purely a supply mechanism. There will only ever be 108 Black Dragons because you can only mint each Black Dragon configuration once. You can reuse that configuration afterward for a composite — there just won't be a Black Dragon from it. To show visually that it *is* a Black Dragon, the tiles get converted into a dark color space with these purples, drawing some colors from the original tiles. Somebody might be attached to their original colors, but if they're that worried, they're probably not going to play the Black Dragon game anyway. If they're led more by artistic impulse, they won't worry about accidentally making one — it's genuinely difficult, statistically very unlikely to happen by accident. The Black Dragon color space can produce some really beautiful outputs, so it's not like they're inferior — just very distinctive within the set.
 
@@ -210,7 +210,7 @@ Trinity: I think there's space for it to be both. There's this huge, as Will was
 
 Will: I'll figure it out.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
 
 Harvey Rayner: Incidentally, I do have another project planned for next year, which I'll have to build a team for. There are two projects I want to execute. One of them you could say is quite conceptual, or more a piece of research. I don't want to reveal anything about it, but the visual element of it is quite small — it's more a piece of research to try to help us find what we value as humans. I'll leave it at that. It's an idea I've been thinking about for many, many years. I can't believe nobody's done it already — it seems obvious to me, but there may be a good reason why nobody has. I won't know until I try.
 
@@ -224,7 +224,7 @@ Harvey Rayner: I have a two-pronged approach to this. I have a project at the Ha
 
 I think the artists we'll be talking about in ten years' time will have bridged that gap — it's almost become a cliché at this point. My strategy is to make art that just makes sense to that audience without trying to convince them of anything to do with Web3. Sure, they'll get an NFT — it's like a chip that comes with the print — and maybe through that they'll get interested in the other stuff I'm doing on the other side of the fence. But I hope the work stands up as art in that world, that people find it engaging on a visual level even if they don't know how it's made. Steven, from Virtue Gallery, who's representing me in that world, sent me a message yesterday saying people who walk past the work often say, "Wow, that must have taken ages to paint."
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
 
 You just want to make art that people like for different reasons — first and foremost, they see it as art. I'm not wed to Web3 at all, even though that's how I've actually made money and had real success. But I do want to make inroads into the traditional world, and I think it'll be artists, not platforms, who bridge that gap — artists who make art that works in both. Maybe you can make one project that has an expression in both worlds.
 
@@ -238,7 +238,7 @@ Trinity: I have one big rapid-fire question that might not interest anybody who 
 
 Harvey Rayner: Okay.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
 
 Trinity: Trad. Are you a trad climber?
 
@@ -252,7 +252,7 @@ Will: The sacred geometries of flagging.
 
 Harvey Rayner: Yes.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 1]
 
 Will: In our pre-parent days we were pretty consistent climbers. I know you're still climbing, Trinity, but not me.
 
@@ -266,7 +266,7 @@ Harvey Rayner: Well, it's something — it's fine, if you enjoy it.
 
 Will: Yes, that's always part of it.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
 
 Harvey Rayner: However good you get, there are always people who are way better. That's the thing with climbing — I've always lived near gyms rather than actual climbing areas, so I might get to a fairly good standard in Rochester, but then if I go down to the Gunks, it's like, wow, these guys are good.
 
@@ -280,7 +280,7 @@ Will: I picked up Hidden Orchestra on Spotify because I'm always looking for rel
 
 Harvey Rayner: Murcof, I really like — he's a South American electronic composer, quite well respected. And Arvo Pärt is my favorite composer, hands down. He's an Estonian composer who makes these beautiful, choral, very spiritual works. Sometimes I'll just put that on loop for a whole day.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 1]
 
 Will: Thanks for those — it's a good way to get to know someone, hearing their music recommendations.
 
@@ -294,7 +294,7 @@ Will: Here's one we like to ask — who would you like to hear us interview in t
 
 Harvey Rayner: One guy who's a really good communicator is James Merrill, a friend of mine. There's also a good friend of mine, Ryan Green, who's done a couple of Art Blocks drops, but not many people know about him. He's done some really interesting work this last year that he hasn't really shown publicly. He's a games designer — an indie game designer — so he'd get along well with you guys, and he's got an interesting perspective on the space and things he wants to build. James is a good communicator too. William Mapan's quite a character — if you ever get him, of course you'd want him. He's charismatic and funny.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
 
 Will: We're working on it.
 
@@ -308,7 +308,7 @@ Will: I'm not familiar with it.
 
 Harvey Rayner: He's a big collector with some office space in downtown Manhattan, on Wall Street, where he lets Web3 startups use his space — artists for free, Web3 companies at a discount. He's trying to incubate a bit of a hub there. He might be an interesting guy to have on.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 1]
 
 Will: I'm familiar with most of those names. The game designer would be an interesting one too — we should look into that.
 
@@ -322,7 +322,7 @@ Harvey Rayner: Do you only collect NFTs, or do you collect art from the gallery 
 
 Trinity: "Legacy art world" is my favorite term for it.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
 
 Harvey Rayner: I like that.
 
@@ -336,7 +336,7 @@ Trinity: It's nine feet tall, like nine by five, which really impacts where I ca
 
 Will: The closest would be some Marcel Schwittlick pieces I have, where he makes the physical first and the NFT comes after. I like his work, so I have a couple of pieces, plus one I still need to get ordered and delivered through Artfora. And then I have a plotted piece by Zancan that's not an NFT at all—just a small piece he sent as a bonus, purely physical, no digital side to it.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Fontana | Fontana — Harvey Rayner / patterndotco | | 1]
 
 Harvey Rayner: Another question: as collectors, do you find it a little scary that *Quasi Dragon Studies* is so open-ended? If it sold 15,000 tiles, say—would that be a bummer if you'd bought in?
 
@@ -350,7 +350,7 @@ Harvey Rayner: Yeah, that would be pretty stressful. Their tech team is first cl
 
 Will: I'm excited. I know I'll get a couple for sure, especially now that I know I'll be able to make a composite piece without it being a Black Dragon. I'll definitely grab a couple and see what I can make.
 
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]
+[pool: Photon's Dream | Photon's Dream — Harvey Rayner / patterndotco | | 1]
 
 That feels like a good place to end it. Harvey, how do you feel?
 
@@ -361,5 +361,3 @@ Will: Perfect, that's the vibe we're going for. Nailed it. Let's wrap it up. Tha
 Harvey Rayner: Thank you guys for having me. It's been a real pleasure. Great questions.
 
 Will: Glad to hear it. All right, that was Harvey Rayner, everyone. Hope you enjoyed the interview—be sure to check out his project, *Quasi Dragon Studies*, part of the Verse Solos exhibition. Try your luck matching some tiles, and keep an eye out for cool sculptures and other things next year—maybe even an fx(hash) piece if we're lucky. That's it for this one. We'll be back with another episode soon. Bye bye.
-
-[pool: Quasi Dragon Studies | Quasi Dragon Studies — Harvey Rayner | | 1]

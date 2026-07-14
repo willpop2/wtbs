@@ -70,7 +70,7 @@ Trinity: One of the main differences between generative art and the traditional 
 
 Will: Do you think of the upcoming TENDER collab as marking a shift? From what we've seen of it, it's different from everything else you've done.
 
-[pool: Nightfall Moon | Nightfall Moon — Jeres | | 1]
+[pool: Sinuosity | Sinuosity — Jeres | | 1]
 
 Jeres: I'm really excited about it. It's been great working with Adam, and yes, it's going to feel a little different. For one, Adam is bringing a lot of great palettes to it — he's great with color, and it's been fun finding a good mix of how those balance against mine. This is also a shift because it's the first time I'm using shaders. Hopefully it doesn't feel like a "first shader project." It's been fun to explore, and it seemed like the right tool for the prompt — Adam came to me with a number of ideas, all very well fleshed out, and it was lovely getting that welcome package into the TENDER collab process.
 
@@ -260,17 +260,17 @@ Trinity: I never actually got to the question. How much do market cycles impact 
 
 Jeres: So many factors go into pricing, and even into timing a release. Right now, for instance, is a bit stressful because people seem hesitant to mint as much or buy on secondary. You have to take that into account, without trying to exploit the moments when people are willing to spend a lot of money versus when they're not. That's the stressful part of doing this. I'm not a market expert by any means—a lot of times I'm just guessing and hoping for the best, because there are so many factors. Like pricing *Coronado* after *Outland*, which came in a bit lower—you never really know where the right spot is.
 
-[pool: Coronado | Coronado — Jeres | | 1]
-
 Trinity: You can't time these things. Not to keep harping on *Glossolalia*, but that was interesting from a market perspective—you released it at exactly the right time, when everything was going toward the top tiers of Dutch auctions. It minted out at over 100, right?
+
+[pool: Glossolalia | Glossolalia — Jeres | | 1]
 
 Jeres: Yeah, and that was somewhat strategic. I was mainly trying to give space between *Coronado* and all the collabs I was doing, so I timed it for mid-January—January 17th, actually. I'm really glad I released it then rather than later, since it was at the peak of that market cycle. You never want to see your floor drop below the mint price, but you don't always have control over that. It was well-timed, I guess.
 
 Will: *Glossolalia*, the bot slayer. For someone like you, where this is now your full-time job, I think it's an unfortunate part of the game that you have to weigh those opportunities. You also had this self-imposed embargo between Verse and the *Here and Now* Tender collab—would you have even had a window to wait gracefully? It could've been months.
 
-[pool: Glossolalia | Glossolalia — Jeres | | 1]
-
 Jeres: Right—I am trying to be more thoughtful with release timing. There's a lot of pressure to space things out; some collectors don't want you releasing too much because it floods the market, and I get that. It's good and bad, because I'm a little ADHD—I want to work on ten projects at once, and often I am, and then I just want to release them all without letting them hang. But that can really confuse the market. So I have to take that into account, not because it's manipulation, but because I want to keep doing this long-term. I really enjoy it—I find the whole process therapeutic. If I could just continually code up projects, pass them off, and have them released without ever thinking about pricing or timing, that'd be great. But you do have to think about the market, unfortunately. I'm happy with how I timed *Glossolalia*, though I do feel bad for anyone who minted over 100 and now sees it around 50. But I think that's the case for a lot of floors right now, and I think it'll come back. I'm really proud of the project—I felt it was a great follow-up to *Coronado*. It's a different project, and people may have opinions on whether it's the same quality, but I'm proud of it, and I hope it stands. I hope the people who buy it are buying because they like it.
+
+[pool: Glossolalia | Glossolalia — Jeres | | 1]
 
 Trinity: We call that "it's on sale."
 
@@ -282,9 +282,9 @@ Jeres: Yeah, it is an opportunity.
 
 Will: With several projects releasing back to back in these first couple months of the year, what's your approach for the rest of 2023? You mentioned working on a lot of things at once—are you going to be more intentional going forward? I don't know if you saw Alejandro recently tweeting that he's taking a major slowdown—"you'll be lucky if you see one thing from me on fx(hash) this year." A lot of artists seem to be rethinking this year versus last. What's your thinking?
 
-[pool: Coronado | Coronado — Jeres | | 1]
-
 Jeres: Create ten more alt accounts and just keep releasing under those—just kidding. I've done two collabs in a row now, plus the Verse release, so I think I'm going to take some time and work solo, figure out where to go next. I have a couple of projects in motion I can play with, but I think I'll take a bit more time between things and hope the market comes back, and try to time things well with that.
+
+[pool: Vapor Trails | Vapor Trails — Jeres | | 1]
 
 Will: So slower, but no specific plan.
 
@@ -296,9 +296,9 @@ Jeres: That's ultimately my goal. I'm implying I'm going to work and release, wo
 
 We should start working towards wrapping up the interview now.
 
-[pool: Coronado | Coronado — Jeres | | 1]
-
 Will: Here's one we ask a lot of artists. Looking through your collection, you've been collecting on fx(hash) for a long time — are there any artists or projects you want to shout out that you feel are undervalued or underappreciated? Or maybe just speak to what you gravitate toward when you collect.
+
+[pool: Nightfall Moon | Nightfall Moon — Jeres | | 1]
 
 Jeres: I'm always excited for what Melissa's releasing — her texture, her color, her expression are just so wonderful. I got three *Spaghetti*s right away, I was so excited about that, and *Take Wing* was beautiful too. I'm always excited about what Thomas Noya is doing. I'm a huge collector of Ty Vek. There are so many folks I look up to — Marcelo, Andreas, Erik Swahn. No particular project to call out, but as far as underappreciated goes — it's not like she hasn't gotten coverage, but Ada Ada Ada, I just love her work so much. Even her first collection — I was obsessed with it and bought all the works in progress she put on Versum. I love her approach.
 
@@ -310,9 +310,9 @@ Trinity: Four or five? Only?
 
 Jeres: I know. I try to allot blocks of time in my life — like, "okay, I'm going to stress about the Verse release for an entire week and not be able to do anything else." But then this interview came up, so I told myself, "I'm not going to do anything until I have this interview with WTBS, and then I'll stress about the release." That's scheduled for after this — it comes out Thursday, and I'm planning to spend a few hours with it. So far I've only spent about twenty minutes. I love the texture, I love the colors. I've had more fun just scrolling through the Discord channel where everyone's dumping mints, seeing the breadth of the algorithm. Now I'm going to spend some real time finding the ones I want, but I haven't gotten to that yet. I'm such a fan of Farbteiler and Punktwelt that I really just want to get a couple of these.
 
-[pool: Coronado | Coronado — Jeres | | 1]
-
 Will: It's fun.
+
+[pool: Attachment | Attachment — Jeres | | 1]
 
 Jeres: It's very fun. I think you were talking about this in the last episode — part of me just wants to hit the random button. It feels like a very versatile algorithm, and I still love the surprise of a mint. I feel like I can't go wrong with it — I think I'll be happy with any of them. It's a great algorithm.
 
@@ -324,9 +324,9 @@ Trinity: Not yet.
 
 Jeres: Please do, they're all lovely — I'd love to hear about their process. Have you talked to Yazid yet?
 
-[pool: Coronado | Coronado — Jeres | | 1]
-
 Will: No.
+
+[pool: Vapor Trails | Vapor Trails — Jeres | | 1]
 
 Jeres: Okay, that's another one, please.
 
@@ -338,9 +338,9 @@ Will: Anna Lucia, we did.
 
 Jeres: You mentioned that earlier — I must have missed it.
 
-[pool: Coronado | Coronado — Jeres | | 1]
-
 Will: We were lucky to get her pretty early on in the show.
+
+[pool: Nightfall Moon | Nightfall Moon — Jeres | | 1]
 
 Trinity: She was very gracious, coming on to talk to a bunch of no-names.
 
@@ -352,9 +352,9 @@ Will: I'll do another rapid-fire round — I'm curious about your answers since 
 
 Jeres: Depends on the mood. Do you know NTS Live? It's independent radio — great app, great website, just two streams, usually broadcasting out of London, New York, or LA. Very eclectic — sometimes it's random house music, but it goes deep into bizarre genres all over the place. I hear music there I haven't heard anywhere else, even free jazz from Japan in the '70s, '80s, '90s. I listen to it a lot because it opens things up. But when I want music I already know, so I can focus, I loop things — a lot of shoegaze. A Place to Bury Strangers, from New York. Moaning, an LA band. I listen to a lot of Beyoncé — the *Renaissance* record is perfect, I can't imagine anything better. Panda Bear a fair amount. Starfucker is a vibe, all over the place. Sometimes it's just bossa nova for two days straight.
 
-[pool: Coronado | Coronado — Jeres | | 1]
-
 Trinity: You gotta get your Bebel Gilberto in there. Also known as "The Girl from Ipanema" — it's on loop in our house.
+
+[pool: Attachment | Attachment — Jeres | | 1]
 
 Jeres: It's great.
 
@@ -384,7 +384,7 @@ Jeres: That's really cool.
 
 Will: It comes with its own risks, of course. I'm not sure what happens if the wallet delegating the gas runs out. But it's exciting to see what people will do with it.
 
-[pool: Here, After | Here, After — Jeres | | 1]
+[pool: Nightfall Moon | Nightfall Moon — Jeres | | 1]
 
 Jeres: I need to look more into it. I saw a couple of tweets about it and thought it was more about a new way to set up wallets, social recovery, things like that.
 
@@ -398,7 +398,7 @@ Jeres: No, I'm good. Thank you so much for having me on — I should have had so
 
 Trinity: It's fine.
 
-[pool: Here, After | Here, After — Jeres | | 1]
+[pool: Attachment | Attachment — Jeres | | 1]
 
 Will: Sounds like we might get to meet up in real life soon, so that'll be fun.
 
@@ -412,14 +412,12 @@ Will: That sounds like such an artistic thing to do, honestly.
 
 Jeres: I was debating whether to smoke through the whole interview, but I didn't want my apartment to smell like it.
 
-[pool: Here, After | Here, After — Jeres | | 1]
+[pool: Vapor Trails | Vapor Trails — Jeres | | 1]
 
 Will: Your cats probably appreciate that too.
 
 Jeres: It's true.
 
 Will: That was Jeres, everyone — we're hugely grateful to have him on. Big thanks again for the poster collab. Super excited for everything Jeres will be doing this year. Be on the lookout for the TENDER Club, be on the lookout for the *Here, After* drop. Thanks again, Jeres. We'll see you all later.
-
-[pool: Here, After | Here, After — Jeres | | 1]
 
 Jeres: Bye.

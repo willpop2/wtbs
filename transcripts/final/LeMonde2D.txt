@@ -206,7 +206,7 @@ Will: They're definitely a very shy artist. We've been trying forever to get the
 
 LeMonde2D: That's actually a good idea. Honestly, *Textiles* talked to me the least, even though I can see the quality is very high and the work behind it is crazy -- you can feel it instantly. Now I'm looking at it again and I want to buy it because of the print idea you mentioned.
 
-[pool: Dragons | Dragons — William Mapan | | 1]
+[pool: Dragons | Dragons — William Mapan | | 3]
 
 Will: Do your own research on that, make sure it'll work for you.
 
@@ -326,7 +326,7 @@ LeMonde2D: I kind of disagree.
 
 Will: Go ahead — let's talk about that one, since it's one of our favorites from this year.
 
-[pool: Turner Light | Turner Light — Aluan Wang | | 1]
+[pool: Turner Light | Turner Light — Aluan Wang | | 3]
 
 LeMonde2D: When you collect generative art, especially long-form generative art, only owning one reduces the scope of the collection. It doesn't make sense to me. You show it to someone and they say, "So what?" *Turner Light* is a good example — of course it's kind of always the same thing, but seeing twelve at the same time gives you a sense of the algorithm and the code. The readability is easier, at least.
 
@@ -334,7 +334,7 @@ Trinity: And you can see that in the ones you've collected — you always do a g
 
 Will: Each piece does contain multitudes, so maybe that was a bad example — I was trying to do a segue. I only own one, so maybe this is some copium for only owning one, too. But how do you feel about pieces like *Turner Light*, where maybe they could have done a thousand if the algorithm supported it? Artists make a lot of decisions when they release their work.
 
-[pool: Turner Light | Turner Light — Aluan Wang | | 3]
+[pool: Turner Light | Turner Light — Aluan Wang | | 1]
 
 LeMonde2D: Yeah.
 
@@ -478,7 +478,7 @@ Will: Yeah, yeah.
 
 LeMonde2D: I put him in the same category as *Landlines* for me.
 
-[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+[pool: Absolute Error | Absolute Error — Landlines Art | | 3]
 
 Will: That makes total sense.
 
@@ -492,7 +492,7 @@ Will: Have you been to any of those events?
 
 LeMonde2D: No.
 
-[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Trinity: Not yet.
 
@@ -506,7 +506,7 @@ LeMonde2D: I wish, but sadly no — I have to go back home to Marseille, in the 
 
 Will: Is that vacation or work?
 
-[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+[pool: Absolute Error | Absolute Error — Landlines Art | | 1]
 
 Trinity: Retired.
 
@@ -520,7 +520,7 @@ LeMonde2D: That's actually a good idea. But yeah, no live events, and I'm very f
 
 Trinity: You'll get there.
 
-[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Will: We're fortunate there's an event this weekend in New York. I don't know that we'll actually make it to the convention to participate in live minting, but some of the artists are here, and we're hopefully going to meet up with them. Like we've talked about throughout — the artists are so generous and interested in meeting people in the community. We might get to go to dinner with some folks, which is really cool.
 
@@ -534,7 +534,7 @@ Trinity: That would be the dream.
 
 LeMonde2D: Let's make it work.
 
-[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+[pool: Absolute Error | Absolute Error — Landlines Art | | 1]
 
 Will: We've DM'd with him a little, and I think there's interest. It's kind of like with *Landlines* — whenever he's ready, we're here. We're not going to say no. We'll take a day off work if we have to. If that comes out of this, it'd be amazing to get something in the books, because I think he's only done a few short Twitter Spaces, nothing really substantial. It'd be great to have the first big long talk with him.
 
@@ -548,7 +548,7 @@ LeMonde2D: Funny enough, I had this discussion at lunch with a friend today. Wha
 
 For once, "we are early" is true — not necessarily in terms of resale value, but from an artistic point of view. I think we're at the beginning of a big movement in art in general. It's exciting.
 
-[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+[pool: Turner Light | Turner Light — Aluan Wang | | 1]
 
 Will: Awesome, I love it.
 
@@ -562,7 +562,7 @@ Will: Thank you so much. We'll be looking for you in the sales feed while you're
 
 Trinity: Lemonade.
 
-[pool: Meridian | Meridian — Matt DesLauriers | | 1]
+[pool: Bardez | Bardez — Nat Sarkissian | | 1]
 
 Will: Lemonade.
 

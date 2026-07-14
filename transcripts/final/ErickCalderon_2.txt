@@ -152,7 +152,7 @@ I don't have a perfect answer, but those are the things that we think about on a
 
 Trinity: Kind of going along with that in terms of curation, I wanted to ask more specifically about Curated. I know a lot of the community sentiment recently, and rightfully so, has been focused on Sansa. But I did want to circle back to more Art Blocks-specific news and ask, first of all, when we might expect to see a new Curated release. And then, in relation to that, are there any updates to that actual curation process that you can speak to, given that I know it's gone through a few iterations over the last few years?
 
-[pool: Gazers | Gazers — Matt Kane | | 1]
+[pool: Squiggles | Squiggles — Snowfro | | 3]
 
 Erick Calderon: Yeah, so hopefully soon. I don't want to give an exact time on when the next Curated drop's is going to happen, because we've been bitten by that before, where we say a timeline and then things happen, understandably so, because art takes time, and sometimes things get delayed for good reason: the artist doesn}'t feel ready, we're still going through and helping to get the algorithm to a place we're happy with. So I don't want to necessarily give an exact time, but sooner rather than later, I'll say that.
 
@@ -166,7 +166,7 @@ Trinity: Yeah, and shifting gears a little bit, and this kind of goes with the f
 
 Erick Calderon: There's going to be a lot of experimentation, and it's not necessarily 100% Art Blocks-driven either. I think it's going to be a good mix of Art Blocks trying to push the envelope in certain ways, but also us listening to the community and to artists about what they want to see and what direction they want to take their art in, and finding ways to help implement that.
 
-[pool: Gazers | Gazers — Matt Kane | | 1]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 3]
 
 As far as new chains, yeah, I definitely think you're going to see us expand into other chains. I don't have an exact time frame of when that's going to happen, but I don't think it's going to be exclusively about layer 2 solutions on Ethereum. I think you're going to see us adopt some layer 2 solutions, but also headed in different directions outside of the Ethereum ecosystem as well.
 
@@ -180,7 +180,7 @@ Erick Calderon: Yeah, absolutely. So Bright Moments is throwing an event out in 
 
 Will: Amazing. Well, Erik, thank you so much for joining us today. This was everything we could have hoped for and more, especially with such fresh news. We're excited to see how the Sansa integration unfolds, and we're rooting for you and the team as you continue to build out this next phase for Art Blocks.
 
-[pool: Gazers | Gazers — Matt Kane | | 1]
+[pool: Autoglyphs | Autoglyphs — Larva Labs | | 3]
 
 Erick Calderon: Thank you guys so much for having me. I really do appreciate it, and I love what you guys are doing for the community as well. So keep up the great work.
 
@@ -194,7 +194,7 @@ What I think Art Blocks can take some credit for is creating, maybe even inventi
 
 So it's just math, y'all. I've recently been criticized for focusing my efforts too much outside of Art Blocks art itself. I recognize that, and I empathize with it, because often — not always, but often — people criticizing are watching something they saw as an investment go down in value. I get that. But per this math: my job right now is to get as many more people to care about your bags as possible, which means satisfying the desire of more generative creators to keep creating without feeling demoralized or frustrated. If there's an increase in noise in a space without a corresponding increase in collectorship or demand, that's a problem — but it shouldn't affect an artist's morale, because it's pure mathematics. You're asking for an economic situation to exist that just doesn't.
 
-[pool: Gazers | Gazers — Matt Kane | | 1]
+[pool: the Heart | the Heart — Jordan Lyall & Snowfro | | 3]
 
 So I focus a lot of my time on inclusivity and onboarding more people. Sometimes that looks cheesy or commercial, but it gives me the tools to sell this — not to someone who can pull $100,000 out of their account to buy a *Fidenza* (though I guess they're much higher now), but to someone who might fall down the generative art rabbit hole the way people did in the early Art Blocks Discord, when ETH was $400 and we were minting tokens for 0.1 ETH. People were buying $20 *Squiggles*, $40 for everything else. *Fidenzas* were $200. That was joy — being able to buy in at that price point. To sustain higher price points, you need a bigger crowd of people stumbling into that rabbit hole and getting fired up about it. Most people aren't going to make 100x buying apes low and selling at the top — that's where a lot of that activity came from, people flipping into a more desirable NFT. The rest of the world isn't going to get the "we are still early" experience; that's just not how markets work.
 
@@ -220,7 +220,7 @@ Sorry, I rambled a bit, but I want people to feel motivated and encouraged. You 
 
 Will: I think the AI conversation is too big a can of worms for today's sheet — that could take up a whole episode on its own. But I do want to go back to what you were saying about bringing more people in. Last night we recorded our weekly episode and went through the announcement you all made a couple weeks ago that Art Blocks bought Sansa. Then last night came the clarification that Sansa is being turned into, or expanded with, an independent self-publishing studio offering a more casual, low-pressure minting experience. One thing we theorized was the inclusion of open editions or inclusive editions, like what you did with *Prohibition* and *the Heart*. Maybe you can speak to the role Sansa might play in onboarding new people, and also just: why buy Sansa? What did Sansa bring to the table to enable this toolset and this new platform? It almost sounds like something the Art Blocks team couldn't do with their existing contracts and infrastructure.
 
-[pool: the Heart | the Heart — Jordan Lyall & Snowfro | | 3]
+[pool: the Heart | the Heart — Jordan Lyall & Snowfro | | 1]
 
 Erick Calderon: There's a lot there. Why buy Sansa? First, two amazing humans who were fully aligned with my vision of the future without us ever once having a meeting about it. They built Sansa around Art Blocks specifically — it started as the Art Blocks marketplace, a more aesthetic way to browse and discover art. Now Sansa has rankings, and a bit more of that pro-Web3, data-driven approach to acquiring art — we can get deeper into that over time.
 
@@ -244,7 +244,7 @@ Erick Calderon: — actually the original intention for Art Blocks. I'm all abou
 
 That's what this is about. As of yesterday's announcement, we preserve the history of what's now called Art Blocks Curated — we're coming up on project 500 — and continue to be even more selective there. But I've struggled with the idea that I created a platform that isn't inclusive to new buyers. Even something at 0.1 ETH is still $500. That's not what got me into this — I claimed free CryptoPunks, people bought $20 Squiggles. Inclusivity is critical for me. I watched this thing I built become increasingly exclusive, increasingly luxury, and I fought that really hard. Now we have a place to continue nurturing badass art from badass artists in an ecosystem with integrity. We pretty much created this concept and we're still here — who else is still here from 2020? Very few people haven't quit, sold, or rugged. We're still here, just as excited about what we do.
 
-[pool: Squiggles | Squiggles — Snowfro | | 3]
+[pool: Squiggles | Squiggles — Snowfro | | 1]
 
 This acquisition gets us that much closer to my dream: a broad home for generative art, innovation, and content on the blockchain, using the provenance mechanism of NFT technology to guarantee and support visual outputs. I couldn't be happier with the way things are going. For the first time in a long time, especially after that announcement, I feel real relief that things have fallen into place, and I'm genuinely excited about the direction Art Blocks is going.
 
@@ -342,7 +342,7 @@ I think that would be a way for a brand to demonstrate innovation in what otherw
 
 I think a significant number of people are going to be onboarded via the tertiary market, and a new conversation is going to be born from that — brilliant, beautiful — and it's all going to lead back to what Derek Edwards always calls this trinity, where everything leads back to Punks, *Squiggles*, and *Autoglyphs*. I'm flattered he says that, and proud to be included in that dialogue. But in my opinion, all of this leads back to those first few years where we had provably human artists making algorithms that inspired a new generation, a dialogue, news articles, podcasts. You mentioned ten — I think last year alone I did about a hundred. There's so much content, so much for the nerd who likes rabbit holes to explore, an unlimited amount of information to dive into. It's exciting. I think we've created the base plate for this, and now we can build on top of it. That's really what Sansa is here to do — create a base plate, a container, for all of these exciting things: the art, the content, the physicals, the games. Because I believe that in the future, the word "generative" is going to be mainstream, commonplace, a bigger part of everyday consumer life. I'm excited about that future — it's what gets me out of bed every day.
 
-[pool: Autoglyphs | Autoglyphs — Larva Labs | | 3]
+[pool: Autoglyphs | Autoglyphs — Larva Labs | | 1]
 
 Trinity: You're making that future a reality. The time horizon is something we always have to think about, as well as solving some of those onboarding issues into crypto.
 
@@ -356,7 +356,7 @@ Erick Calderon: I have an answer for you.
 
 Will: Okay, hold it so I can finish the question. What are some of the driving factors behind this refresh of the Curated concept, and what are some of the changes you're going to make? Is it more actively seeking artists versus just the application process? Is it revamping aspects of the curatorial process — adding or changing people on the board?
 
-[pool: Autoglyphs | Autoglyphs — Larva Labs | | 1]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
 Trinity: Or are you pivoting away entirely?
 
@@ -370,7 +370,7 @@ Generative artists are prolific, and they're all incredible — at this point th
 
 To me, that's in service of the artist's work being released. It's in service of everyone who's ever collected anything from the Art Blocks release structure — those 500 projects. And it's in service of our team, because our team has the skill set, the experience, and the community. We have so much to offer, and if we pour it all into one project, it's going to be really beautiful. That's where we're headed.
 
-[pool: Autoglyphs | Autoglyphs — Larva Labs | | 1]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
 Here's an analogy: if you check into a hotel expecting a suite and get a regular room instead — even at the best hotel in the world — you're going to be disappointed, because you told your friends you got upgraded. But if you check in expecting a regular room at one of the best hotels in the world and get upgraded to a suite, that feels good. The default entry point for releasing on Art Blocks will be self-publishing through this new studio setup, because there's so much art, and we're saying no to too many things — and that doesn't feel good. We shouldn't close ourselves off from supporting the careers of artists we helped get off the ground in the first place.
 
@@ -398,7 +398,7 @@ Will: We're right at time here, Erick, and want to be respectful of that — I k
 
 Erick Calderon: I'm almost scared to pitch people on Marfa — 95% of last year's attendees said they'd be returning, and we can only host about 600 people; the town just doesn't have enough Airbnbs. I'm really proud of what we've built, and Marfa is a demonstration of that. It might not feel like a direct gift to collectors — being an OG or part of the ecosystem — but to me it is a gift. It's expensive, hard to put together, complicated, and we ask a lot of people. But it's something we do for our community, and it's often regarded as a really special moment in Web3 each year. It's a good filter for people who are there to talk about art and technology. One day we'll offer babysitting services, since people ask me about that all the time.
 
-[pool: Autoglyphs | Autoglyphs — Larva Labs | | 1]
+[pool: Fidenza | Fidenza — Tyler Hobbs | | 1]
 
 Will: Thank you so much, Erick. It's been awesome to finally talk with you — this has been a goal of ours for a while, even before we made contact.
 

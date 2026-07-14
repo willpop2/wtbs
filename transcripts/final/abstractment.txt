@@ -96,7 +96,7 @@ abstractment: I got one.
 
 Will: Crazy that you got five.
 
-[pool: Clew | Clew — Abstractment | | 1]
+[pool: Glass | Glass — punevyr | | 3]
 
 Trinity: I just spammed the button — didn't matter, just kept refreshing and mashing it.
 
@@ -110,7 +110,7 @@ Trinity: I have a quick question about the drop itself — we did a logo drop ju
 
 abstractment: Drop day — I was walking around my house earlier that day, and it was the first time it really hit me: wow, this is insane. I'd been working on this collection for two months, and I had a general idea of what it was going to look like, but I actually didn't know. I'd thought about this as a collector many times before, but this was my genesis drop, and it was remarkable how amazing this space is — you put something out there and have no idea what's going to come back. It's a fascinating space from that angle.
 
-[pool: Clew | Clew — Abstractment | | 1]
+[pool: Sequence | Sequence — The Mandala In The Hindu | | 3]
 
 After hitting mint, I actually thought I was going to be in trouble for three hours. I'd announced a drop time, but it turned out I'd been verified without realizing it since the day before. So I minted, then had to wait three hours before actually unlocking it for others, because I wanted to stick to the original timeline in case people were paying attention to my earlier Twitter announcements. A little less than ideal, but I think it worked out fine — people got to review the code and the outputs and look them over before deciding to buy, which I think is always a good thing.
 
@@ -124,7 +124,7 @@ Trinity: Number 1 that we should be thinking about?
 
 Will: I know this is something you wanted to talk about — maybe this is a good time to divert.
 
-[pool: Clew | Clew — Abstractment | | 1]
+[pool: Mountain View | Mountain View — Flockaroo | | 3]
 
 abstractment: I was interested in hearing about your top moments with fx(hash) too, but is it okay if I mention a couple of things first?
 
@@ -136,23 +136,19 @@ Will: Is there any anxiety for you around this model you've created, which you n
 
 abstractment: Great question. The short answer is no — that may change long-term, especially depending on the price of *Clew*, but right now I don't feel pressure. What I do feel is... I don't know the right word for it. A rejuvenated commitment, maybe. Or just motivation — a strong motivation to return value to the Clew Crew.
 
-[pool: Clew | Clew — Abstractment | | 1]
-
 When I was doing Art Blocks Curated, one thing I loved about that space was that it was all about the artist: they choose the drop size, the mint price, and the members are along for the ride, participating as they want. Reflecting on that, I thought: well, I'm the artist now, so what do I actually care about? Not really any of those details. So why not flip the concept on its head and focus on the collectors instead? I think that approach was smart from my perspective — it gives me long-term motivation to provide value to Clew Crew members.
 
 Nobody should be buying *Clew* because of anything I'm saying on this podcast. Buy *Clew*, or any art, because you like it. I don't want this to turn into a sales pitch — but I am very focused on how I create value for collectors. Let me touch on one more thing: we've talked about the airdrops, and I've committed to one airdrop for all Clew Crew members for all of my fx(hash) work moving forward. But I've also recently decided that there will be times I airdrop two pieces to the Clew Crew instead of one.
 
 Something I've struggled with a lot in the past is feeling liquidity-strapped. When you don't have liquidity, it's stressful — especially if you want to get into another project. I don't know about anyone else, but I'd sell something at its low point so I could buy something else at its peak, then feel really crappy the next day. Rinse and repeat, over and over, just because I felt liquidity-strapped. That ties into the diversity in collectors I mentioned earlier and how I like to maintain it. When I think about smaller wallets, I ask: how can I help them feel comfortable remaining part of the Clew Crew? One way is airdropping two pieces from some collections — not all, probably seldom — so they can keep one piece of the artwork and have an extra one to sell if they're feeling liquidity-strapped. It just gives them one more option for managing their portfolio and collecting art. My hypothesis is that if I create value for collectors, it gets reciprocated — they value and appreciate my art and what I'm trying to do to support them.
 
-[pool: Clew | Clew — Abstractment | | 1]
-
 Will: Maybe this is a good opportunity to talk about the project you previewed a little in a tweet yesterday — our time, might have been morning your time.
+
+[pool: Smolskulls | Smolskulls — markknol | | 3]
 
 Trinity: Rocking some Twitter banners you released yesterday, or at least at the time of this recording.
 
 abstractment: Yeah. The only real promise I've made to the Clew Crew is one airdrop for all future pieces or collections. The banner piece was just a little icing on the cake — I saw a few people adopting them as Twitter banners and thought, that looks awesome, so I decided to formalize it and mint some for anyone who wants one.
-
-[pool: Clew | Clew — Abstractment | | 1]
 
 As for what's coming next: coding isn't my strong suit, I'm self-taught, so everything I do takes time — me figuring out my vision and then how to actually get there. Some of these pieces are going to take a while to fully develop. But here's the tease from yesterday: there's a very special clue in *Clew* — number 205.
 
@@ -160,11 +156,11 @@ Trinity: Oh, okay.
 
 abstractment: It's the only piece in the collection with both a symmetry trait and a special trait. I'm going to build a small collection in honor of that one piece — basically a zoomed-out variation on the "lost/not lost" special trait, which is what *Clew* 205 has. I think I'll call it *Symmetric Clew*, since the vast majority of the collection will be symmetrical in some way.
 
-[pool: Clew | Clew — Abstractment | | 1]
-
 *Clew* 205 also has the Dune Lakes color palette, so I'm actually going to remove that palette from *Clew* altogether and replace it with the new one I teased yesterday — neon-inspired, makes me say "bam" every time I look at it. I'm calling it Neonomatopoeia. Get it?
 
 Trinity: Yeah.
+
+[pool: Defrag 2 | Defrag 2 — toxi | | 1]
 
 abstractment: That's my new—
 
@@ -174,17 +170,15 @@ abstractment: I can't — every time I need to, I have to go search how to spell
 
 Will: The official *Clew* style guide.
 
-[pool: Clew | Clew — Abstractment | | 1]
-
 Trinity: All right, bam.
 
 abstractment: Also — the podcast comes out Wednesday or Thursday?
 
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 3]
+
 Will: Probably the 9th, US time, midday.
 
 abstractment: Then let's announce the drop here. I've shared on Twitter that I give a one-week advance notice before drops — consider this that notice. It'll drop on Wednesday. I'd encourage people to listen to the podcast first. And let's make this a nice start for the collectors: we'll do a drop of two pieces for the whole Clew Crew. I'll probably reserve five of the minted pieces for a Dutch auction or something like that — still working through the details — but my goal is for about 95% of this collection to go to the Clew Crew.
-
-[pool: Clew | Clew — Abstractment | | 1]
 
 Trinity: Sounds like I need to get onto the secondary market.
 
@@ -194,9 +188,9 @@ abstractment: Not financial advice.
 
 Trinity: Not financial advice, just talking about myself. And I can't wait to see what Neonomatopoeia looks like.
 
-abstractment: You've already seen the teaser for it in yesterday's tweet, but I'll share more details as we get closer. I want to start off with a bang for the Clew Crew and make sure I'm bringing value back to them.
+[pool: Glass | Glass — punevyr | | 1]
 
-[pool: Clew | Clew — Abstractment | | 1]
+abstractment: You've already seen the teaser for it in yesterday's tweet, but I'll share more details as we get closer. I want to start off with a bang for the Clew Crew and make sure I'm bringing value back to them.
 
 Will: Given the funkiness of the fx(hash) opening windows right now — looking at the calendar, cycle 87 closes and cycle 88 opens on Wednesday — you'll have to check your time zone, Preston, and figure out which cycle this lands in.
 
@@ -208,9 +202,9 @@ abstractment: Yeah.
 
 Trinity: Congratulations on putting out something people are really going to look forward to. You were upfront on Twitter when you dropped *Clew* and announced the Clew Crew that this isn't your full-time job — you have a day job, family, friends, all these other responsibilities. I'm really glad you've been able to take that motivation and keep making beautiful new things. Kudos.
 
-[pool: Clew | Clew — Abstractment | | 1]
-
 abstractment: Thank you. It's just a lot of fun—I really enjoy it. It's surprising how many hours I put in, and it's quite difficult with the full-time job, but it's very rewarding. I've really enjoyed the space so far.
+
+[pool: Sequence | Sequence — The Mandala In The Hindu | | 1]
 
 Will: I'm trying to think of the number of hours just to get that logo project done for us—and you were thankfully a part of it too, in that final week, when I was sprinting to get everything figured out and wrapped for fx(hash). For how simple that logo project is, going from not coding to getting that done took a lot of hours. I can only imagine, for a project at the scale of *Clew* and the refinement of it, how much sleep you've siphoned away working on it.
 
@@ -218,13 +212,13 @@ abstractment: Yeah, absolutely.
 
 Will: We're at 45 minutes, so let's spend the last 15 talking about some non-*Clew* stuff. Want to talk about what you collect on fx(hash), or keep going down the future path?
 
-[pool: Clew | Clew — Abstractment | | 1]
-
 abstractment: Let's talk collecting. I'll admit I am not a great collector. I've recently realized I collect physical art in a very different way than digital art, and I've decided to start putting my physical-art hat on when I'm looking at things. With physical art, I think: this is going to be on my wall for the next 20 years, I want to love this piece. I don't apply that same standard digitally, but I need to start looking at my wallet as if it's my wall—if it's going in there, it's something I love and want to keep. I'm saying this out loud partly to commit myself to it.
 
 As an artist, it's really hard to keep up with everything going on in the fx(hash) community. I've really appreciated your podcast, because when I listen in, I only recognize about 25% of what you're talking about—the other 75% I have to go dig up, because the rest of the week my head's buried in code, trying to figure out what I want to create. I don't have the time to look up and collect the right way, so that's a constant battle for me.
 
 This is also why I love what TENDER is doing. I almost want to stop looking at the fx(hash) homepage entirely and just look at the TENDER page, because that's by far the easiest and fastest way for me to see what might be appealing to me. When I first found fx(hash), around October or November, KenConsumer dropped into the GenArt Discord and said, "If you're not paying attention to this, come check it out." So I did, and it looked like a lot of spaghetti being thrown at the wall to see what would stick. I decided it wasn't for me at the moment and passed. But if I'd walked in and seen something like TENDER, I would have thought, this is where I want to be—it takes all that spaghetti falling off the wall and shows you just the pieces that are going to stick, the artwork that's going to get traction or is worth the investment. Not financial advice, to be clear.
+
+[pool: Mountain View | Mountain View — Flockaroo | | 1]
 
 Will: The analogy I've heard for TENDER is that if fx(hash) is the L1 of generative art on Tezos, things like TENDER are the L2s built on top to streamline discovery. I'm sure there'll be more, since that's the nature of how Ciphrd developed the project—all the APIs are there for anyone to hook into and build on top of. I'm excited to see where that goes, because discovery is such a problem. There's a handful of projects every week where you look at them and think, I really hope this one doesn't get lost. It goes through the cycle of getting botted and flipped, and now 30 or 40% of the inventory is sitting on the market, but it's still such a good piece. You know that if we had ten times the user base, that inventory would get bought up and it'd have a nice stable floor and room to grow. But what happens if it takes months to get there, and by then there are thousands of projects buried?
 
@@ -232,15 +226,13 @@ So we need these L2s to celebrate that work—and that's part of what we're tryi
 
 abstractment: Absolutely. And I don't think it should be overlooked that the fx(hash) Discord community is really good at finding good art—spotting things with a lot of potential, including older pieces that have been overlooked, and bringing them back to life. I've been really impressed by some of the collectors and what they've identified in the Discord.
 
-[pool: Clew | Clew — Abstractment | | 1]
-
 Trinity: We've all benefited from some of KenConsumer's alpha over the years—or weeks, I guess, though it feels like years. I've learned so much from people in the Discord and on Twitter helping communicate what makes a work great. Always indebted to them. So what are some things you've collected that have really given you joy—pieces you knew could go on your wall for 20 years?
 
 abstractment: The other day, during the *Mountain View* drama, I took advantage of the opportunity and picked one up—was really excited to add that to my collection. I'd also been wanting to get a *Stitch* but missed the mint window, which is one of my recent regrets. I minted several *Glass* pieces that I really like, and I like the *Smolskulls* too. More than anything, though, I love the community around them—it's a great example of where this space can go with the right community built around it. It's kind of what I'd like to eventually build with the Clew Crew, obviously on a much smaller scale.
 
-Trinity: Two for two on our interviews loving *Glass*. I need to make that our intro icebreaker question: on a scale of one to ten, how much do you love *Glass*?
+[pool: Smolskulls | Smolskulls — markknol | | 1]
 
-[pool: Glass | Glass — punevyr | | 3]
+Trinity: Two for two on our interviews loving *Glass*. I need to make that our intro icebreaker question: on a scale of one to ten, how much do you love *Glass*?
 
 Will: How much *Glass* do you own?
 
@@ -252,9 +244,9 @@ Will: I think the obvious one is starting the show. Trinity and I have known eac
 
 Trinity: I'm not a podcaster. I don't even listen to podcasts.
 
-Will: Neither am I. But we're just naturals—we've got radio voices.
+[pool: Defrag 2 | Defrag 2 — toxi | | 1]
 
-[pool: Clew | Clew — Abstractment | | 1]
+Will: Neither am I. But we're just naturals—we've got radio voices.
 
 Trinity: We've got six years of banter going for us.
 
@@ -286,7 +278,7 @@ Trinity: I don't have as many big moments as that. There have been some fun-slas
 
 That said, I also enjoy having liquidity. One of my favorite moments — I think it was the same day *Sequence* dropped. It was a big day; I actually went into the office, which I do maybe once every five months, so it was special timing to be sitting at my desk during a small office get-together, everyone at the bar, and me just hitting refresh constantly. *Farbteiler* came out — I'd seen some Twitter previews and thought, this is just beautiful. I already loved *The Signatory* by Erik Swahn. It had been a big day — a lot of big days back in December — and I just kept hitting the mint button on *Farbteiler* because the colors were insane, the structure and architecture were insane, everything about it was insane. I ended up minting thirteen of them. I kept looking around fx(hash) thinking, why is this taking so long to mint out? I knew I was onto something. And then just being right.
 
-[pool: Sequence | Sequence — The Mandala In The Hindu | | 3]
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
 
 abstractment: Yeah.
 

@@ -256,7 +256,7 @@ Trinity: I was going to say a TV show.
 
 Will: A project with no defined ending. You have no idea where it's going to go or who's going to care about it. That mirrors our experience doing this show for the last — what, sixteen, seventeen months now.
 
-[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+[pool: Reflejos | Reflejos — Juan Rodriguez Garcia | | 1]
 
 Trinity: But we'll keep putting out episodes and episodes and episodes.
 
@@ -270,7 +270,7 @@ Trinity: It's so antithetical to the proto-capitalistic structure we see ourselv
 
 Seth Goldstein: Thank you. I know you couldn't come to Tokyo, but maybe Buenos Aires or Jersey City along the way — I'll be there.
 
-[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
 
 Will: Jersey City, I'm writing it in. You said there's going to be a write-in — I'm writing it in for city nine.
 
@@ -284,7 +284,7 @@ Trinity: We had Marcelo on with Andreas Rau to talk about *Takata*.
 
 Seth Goldstein: I got the chance to interview the two of them on stage in Mexico — really wonderful, just the way that as partners they explore each other's struggle through their work. James Higgo is amazing, so well-versed across both fx(hash) and the AI and Art Blocks ecosystems. Derek Edwards does the podcast with Proof with Kevin — he's probably the smartest counsel I have access to strategically for Bright Moments. They're big contributors in our community of *CryptoCitizens*, and he really helped us through this roadmap with his partner Stephen McKeon. He's obviously way more versed in the Art Blocks ETH ecosystem, since he was one of the first investors in Art Blocks, but I think it'd be a good perspective for the fx(hash) community to understand where things stand on that side of the equation. Those are the ones off the top of my mind.
 
-[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+[pool: Reflejos | Reflejos — Juan Rodriguez Garcia | | 1]
 
 Will: A lot of people who haven't dropped on fx(hash), so it gives us an excuse to reach out to them and try to get them to notice us. It's a big goal of ours for 2023 and beyond — to engage with the broader generative art ecosystem, because it's clear not everyone's going to come to Tezos, even though we'd like them to.
 
@@ -298,7 +298,7 @@ Will: Anything else, Seth, before we depart? You've given us a ton of your time 
 
 Seth Goldstein: Only that for anybody interested in Bright Moments Tokyo — it's open for anybody. It doesn't mean you're necessarily going to mint something, since you need a mint pass for that or have to buy an NFT. But if there are listeners in and around Tokyo, Friday, May 5th through Wednesday, May 10th, we're at Digital Garage. Come to brightmoments.io for information on how to show up — we'll have general admission tickets. We're having a final show at an amazing nightclub in Shibuya called Womb on Wednesday, May 10th, where all 4,000+ NFTs that have been generated will be shown over the course of one night, VJ'd by Beretta and Daito Manabe and an amazing group of DJs — it'll be spectacular. Above all, if anybody's interested and not sure if they can come: the answer is yes, please come, please check it out, because we're not going to do this again. I think this will be peak Bright Moments, and I'm really excited for it.
 
-[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+[pool: Industrial Devolution | Industrial Devolution — Piter Pasma | | 1]
 
 Will: And the Venice location, like Venice Beach — you have a place in New York too, right? Are there other galleries people can drop by whenever they feel like it?
 
@@ -312,7 +312,7 @@ Will: We're very foreign to ETH — just starting to dip our toes into it in 202
 
 Seth Goldstein: One thing we didn't mention — just an aside — I was thinking earlier about the chain comparison thing, how for so long Tez was seen as somehow inferior to ETH. But the more ETH has gotten caught up in all these DeFi scandals, I wonder if there's a tarnish to it, where you can point to Tez and say, look, the only use case here is art. Maybe that's a good thing, because it hasn't gotten ruined through all the financial charades the way ETH has.
 
-[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+[pool: Reflejos | Reflejos — Juan Rodriguez Garcia | | 1]
 
 Trinity: That's what I love about it — it's a very secure chain just from the lack of shenanigans. Thinking back to the story you told from the very beginning of Bright Moments, getting people to walk in off the boardwalk and mint a semi-free NFT minus gas fees, and thinking about the transaction costs on Tezos — when we were at NFT NYC last week, all of the free mints were on Tezos, presumably because it's so easy to transact. That's a different type of utility that makes me believe in the scalability of the platform overall.
 
@@ -326,6 +326,6 @@ Will: I'm sure you've got some great stories from back in that era.
 
 Seth Goldstein: That was the highlight for me at Berlin — we staged this 15-minute NFT that was a reconstruction of *Einstein on the Beach*, the piece Bob Wilson and Philip Glass created together in Berlin. Every night we showed this NFT on a huge screen — this light orb moving to Philip Glass's music — in front of 1,500 people, and it really blew people's minds.
 
-[pool: Flower Arrangement | Flower Arrangement — Ykxotkx | | 1]
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
 
 Will: Thank you again, Seth. Thank you, Trinity, for recording as always. I hope everyone enjoyed this episode — it was really a pleasure to talk to Seth. Check out Bright Moments Tokyo, and look out for more events coming in the future. We'll be back again with another episode soon. Until then, bye everyone.

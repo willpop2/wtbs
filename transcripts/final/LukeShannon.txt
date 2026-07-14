@@ -26,7 +26,7 @@ Luke Shannon: Plotters, laser cutters, embroidery machines, CNC machines — a w
 
 Will: What was your background like in coding? You're able to approach all these different machines and get into their native languages and scripting, but I imagine you're also using something like Processing or JavaScript, maybe Python, to build the actual algorithms that generate the work. When you were in school, were you studying computer science, or computer science and art, or have you just been picking this up off YouTube as you go?
 
-[pool: Orchids | Orchids — Luke Shannon | | 1]
+[pool: The Opera | The Opera — Luke Shannon | | 1]
 
 Luke Shannon: A lot of YouTube. I'm still in school studying computer science and visual art — the closest I can get to generative art as a major. I tend to start very hacky, just seeing what I can get working and connected, then refining that process over time, trying to learn more about what's intrinsic to the material or the medium and pushing on that to tease out something interesting. I'm tremendously indebted to p5.js and Processing, the work of Casey Reas and Loren McCarthy, early Tyler Hobbs videos, Daniel Shiffman — the sharing, open-source nature of the community. I've benefited a lot from that, and I try to open source as much as I can too.
 
@@ -40,7 +40,7 @@ Luke Shannon: Not yet.
 
 Trinity: Okay, after this interview, I'm sure.
 
-[pool: Orchids | Orchids — Luke Shannon | | 1]
+[pool: The Opera | The Opera — Luke Shannon | | 1]
 
 Luke Shannon: Yeah, this will be the one.
 
@@ -54,7 +54,7 @@ Trinity: That's humanity at practice — we're all special, unique algorithms of
 
 Luke Shannon: There's also a very non-human perspective on it. There are these amazing systems — a classic example is life and DNA as a kind of code and randomness, following that code while randomness changes the trajectory and produces such amazing variety all around us.
 
-[pool: Orchids | Orchids — Luke Shannon | | 1]
+[pool: The Opera | The Opera — Luke Shannon | | 1]
 
 Trinity: We're living in a hologram, guys.
 
@@ -174,7 +174,7 @@ Luke Shannon: It is canonical in that way. It's kind of nice that you don't have
 
 Trinity: How so?
 
-[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+[pool: Orchids | Orchids — Luke Shannon | | 3]
 
 Luke Shannon: It's a kind of responsibility to the artist, for preservation. Preserving work in general is really hard, and preserving digital work, ironically, can be even harder—code from a decade or two ago doesn't run anymore, and who knows what things will look like in 20 years. I think blockchain is a great way to handle some of that preservation, especially when the code is on-chain. That's another reason NFTs make special sense for generative art—they can be reproduced from on-chain assets. There's a more complicated conversation there that I'm not fully versed in, but I think objects take on a nice, new quality when they're lived with and negotiated with a little. For the chairs, for example, the act of sitting in one is more of a negotiation—it's an object subject to certain constraints, and there are more comfortable positions. Sometimes surprising—there are weird handles you can hold onto in unique places, that kind of thing.
 
@@ -188,7 +188,7 @@ Luke Shannon: It's generative.
 
 Trinity: The human connection to everyday objects—I think that's such an important counterpoint to art on the blockchain, because so often it lives on the blockchain, or points to code on the blockchain, but isn't necessarily something you live with. As we start to live in virtual worlds almost exclusively, maybe that becomes more tied to what it means to be human. It also ties back to what we were talking about before regarding friction—not just the friction of using a chair, but the friction of blockchain and NFT marketplaces versus real-world marketplaces. NFTs reached extreme popularity so quickly partly because of the frictionless nature of most markets—you buy on Art Blocks, sell on Art Blocks or OpenSea, connect a wallet, list a price, hit enter, done. But that's not necessarily geared toward the longer-term love and appreciation that comes with the friction of getting your chair made, or making your spoon and having it become part of your life.
 
-[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+[pool: Orchids | Orchids — Luke Shannon | | 1]
 
 Luke Shannon: That's a really interesting point. The openness of marketplaces is great—it's great to have that frictionless interaction when it should be frictionless. But I also think that when an artist releases something on a contract they produced, and you can only interact with it through the site they made, that's great too—and maybe an important friction, in their opinion. Being intentional about where to involve friction is great. And I love the point you made about how, as we move to a more digital time, these digital things become more a part of the human experience. Another thing that gets talked about a lot in generative art is skeuomorphism -- the idea that digital things imitate physical things to make clear what the digital thing does. The Notes app is the classic example. But I think there's something really interesting happening in reverse, where the physical world imitates the digital world to make what the physical world does more obvious -- or where the physical world is being informed by the digital world first. Instagram is a great example: the way we interact with it has totally changed how hotels, resorts, restaurants, physical spaces of all kinds design themselves. They want their Instagrammable moments. Instagram has tangibly changed physical space. Engaging with skeuomorphic tendencies in that direction is part of why I'm interested in producing physical work with generative art. These machines have tendencies, biases -- focusing on those directly and bringing them into the physical world is an interesting artistic practice for me.
 
@@ -202,7 +202,7 @@ Will: It is.
 
 Luke Shannon: There's got to be some server somewhere running stuff. There are computers maintaining it -- it's a community of physical places and people. Abstraction is really useful in computer science, but it's worth questioning how much we should separate these things.
 
-[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+[pool: pattern.dst | pattern.dst — Luke Shannon | | 1]
 
 Trinity: That speaks to what we were saying earlier about preserving pieces as technology shifts. Flash is the classic example -- everything was done in Flash 15 years ago, and now it barely exists. It's so hard to reproduce.
 
@@ -216,7 +216,7 @@ Luke Shannon: See you in 100 years. We'll figure it out.
 
 Trinity: Hell yeah, we'll do part two. Let's aim for 2100 -- we won't quite make the full centennial of this episode, but we should definitely plan to sync back and see how the blockchain's doing.
 
-[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+[pool: Orchids | Orchids — Luke Shannon | | 1]
 
 Luke Shannon: I'll put it on my calendar. We'll see if that calendar's still around too in 100 years.
 
@@ -230,7 +230,7 @@ As for pricing, that's a genuinely difficult question. I mostly leave it to a Du
 
 Trinity: They're able to acquire things more easily, or in multiples -- imagine having a full dining set of chairs. Four seats, six seats, a twelve-seater, who knows?
 
-[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+[pool: pattern.dst | pattern.dst — Luke Shannon | | 1]
 
 Luke Shannon: A twelve-seater! I'm excited just to see a bunch of the chairs together -- there'll be a show as well, and that's what I'm most looking forward to.
 
@@ -244,7 +244,7 @@ Luke Shannon: No, I think we've covered a lot. I just love talking about them.
 
 Trinity: I love listening about them. They're so fun, and so new and unique within the space -- I haven't seen anything quite like this at this scale. Hats off to you and everyone you've been working with at Tonic.
 
-[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+[pool: Orchids | Orchids — Luke Shannon | | 1]
 
 Luke Shannon: Thank you. It's very much an experiment at this scale, and it's exciting to put it out there and see how it does. I've been thinking about chairs for months now. A lot of the artists who've inspired me -- Bruno Munari, Enzo Mari -- Munari especially has such a playful, fun attitude toward his work. I like that you're saying you think these are fun, because that's a goal too: for this to be lighthearted. It's a bit of an outlandish idea.
 
@@ -258,7 +258,7 @@ Will: Yeah.
 
 Trinity: Cheers -- we really appreciate it. And to everyone listening, hope you enjoyed it too. See you next time.
 
-[pool: Seating Arrangements | Seating Arrangements — Luke Shannon | | 1]
+[pool: pattern.dst | pattern.dst — Luke Shannon | | 1]
 
 Luke Shannon: Thanks.
 

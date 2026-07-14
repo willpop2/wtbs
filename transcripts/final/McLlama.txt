@@ -60,7 +60,7 @@ Will: I noticed that Raster thing and thought it was brilliant. I'd connected to
 
 McLlama: Right. It's more fragile than I thought. Even some of the on-chain stuff on fx(hash) sounds like more of a headache than the IPFS projects, from conversations I've seen. So it's definitely concerning. Am I panicking? No, definitely not.
 
-[pool: Dragons | Dragons — William Mapan | | 1]
+[pool: Dragons | Dragons — William Mapan | | 3]
 
 Will: I have my fingers crossed that no matter what goes down, Ciphrd won't leave us completely screwed. He still seems to be plugging away, and if they're ever put in a position to shut down the platform, I hope -- and maybe even expect -- that he'll come up with something to make sure things still function in some fashion. Let's talk about fx(hash), though, because it's been such a crazy few months, and honestly a crazy two years for a show that's primarily covered it, trying to track everything going on with them and all their pivots. I shared some notes with you in advance: they moved to ETH, then Base, announced a curated program called Vertex that had one release and then nothing, and then things like *fx(params)* and OpenForm and the fx(hash) token. You've been here the whole time, collecting and engaging. What's your holistic take on the platform's history? Start wherever you want -- the tokens, or further back.
 
@@ -152,7 +152,7 @@ McLlama: That's one goal. It'll require some outreach, since these wallets are h
 
 I'm still interested in more *Dragons* and *Garden*, *Monoliths*, to be honest. They're the top dogs, and the more grail hunting I do, the more laser-focused I've become on those collections. And to go back to the Pokémon cards — I've been trimming my collection down. Obviously I love these cards, but do I love them more than a *Garden*, *Monolith*? Usually the answer is no. So I'll be selling more Pokémon cards regardless of whether that market has topped. I enjoy setting off the sales bot in the Discord, and I think it'll happen a few more times. I don't want to say too much, since there are some specific pieces I have my eye on.
 
-[pool: Dragons | Dragons — William Mapan | | 3]
+[pool: Dragons | Dragons — William Mapan | | 1]
 
 Will: No, don't —
 
@@ -234,7 +234,7 @@ Will: I do play them, though there's some I probably shouldn't. The whole slabbi
 
 But I have seen people like Steve Aoki slabbing music media they collect, so there are people on the edge of it starting to do that. I'd be curious what the hobby looks like in five or ten years. There's one label or distributor now that, in addition to retail, sells pre-graded copies on their website — like fifty slabbed 10s of the new Taylor Swift album. Getting a 10 in the wild is probably difficult. It's funny to see — it's the Pokémon-ification of other hobbies. They see the premium out there and know it could come over. It'll be an interesting day when that happens.
 
-[pool: Dragons | Dragons — William Mapan | | 1]
+[pool: RGB | RGB — ciphrd | | 1]
 
 I want to jump back to Verse real quick. We talked a bit about their curated stuff and how they might be changing the platform — you've collected some of their most recent release, the Brainrot stuff. It's been interesting seeing them succeed in the PFP space by hybridizing it with art, between that and the Tabor PFP. I minted a few of the Tabor ones because they were free to me, given how they dripped those out, but I didn't mint any of the Brainrot ones. It's clearly attracted a lot of new people to their platform who are more than happy to come in and complain in the Discord.
 
@@ -248,7 +248,7 @@ Will: Did you ever collect on Emprops?
 
 McLlama: Yes — and actually, I dropped a few projects of my own on Emprops.
 
-[pool: Dragons | Dragons — William Mapan | | 1]
+[pool: RGB | RGB — ciphrd | | 1]
 
 Will: Oh, did you?
 
@@ -262,7 +262,7 @@ Will: The Brainrots really weren't interesting to me aesthetically or thematical
 
 McLlama: Ten thousand is a lot.
 
-[pool: Dragons | Dragons — William Mapan | | 1]
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
 
 Will: Right. So there must be a lot of craft to that, even if I think they're just kind of goofy.
 
@@ -276,7 +276,7 @@ Will: Is there anything else you want to touch on before we wrap up? Anything we
 
 McLlama: We touched on everything — long-form AI, Pokémon, my obsessiveness with Zancan and Erik Swahn and those collections.
 
-[pool: Dragons | Dragons — William Mapan | | 1]
+[pool: RGB | RGB — ciphrd | | 1]
 
 Will: I feel like we got through a lot. It's been great chopping it up with another collector and talking about the space. I hope we get some good news from fx(hash) at some point — that would be ideal.
 
@@ -290,7 +290,7 @@ Will: Back when Tezos might have been a much different price.
 
 McLlama: Yeah, it's interesting.
 
-[pool: Dragons | Dragons — William Mapan | | 1]
+[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
 
 Will: Well, we're still here, still watching and lurking and making these episodes from time to time. Thankful to folks like you who are still happy to come on and talk with us.
 
@@ -304,7 +304,7 @@ Will: Pompous LL. Wait, maybe we should close on this — where'd the McLlama na
 
 McLlama: Great question. Back in 2017, everyone on crypto Twitter was basically some sort of animal — you had Wassis, some unidentified animal-creature things. I started out as the Pompous Llama; that's how I created the account. It was a real-life nickname someone had passively given me, and I thought it was funny. It was too long to type as a Twitter tag, so it became Pompous LL instead of Pompous Llama. Then the bear market happened and people started putting McDonald's hats on their PFPs — the joke being that we're all going to need a job flipping burgers — and I turned into McLlama. That's how it started, and it's just the name people know me by.
 
-[pool: Dragons | Dragons — William Mapan | | 1]
+[pool: RGB | RGB — ciphrd | | 1]
 
 Will: Throw him a follow @PompousLL — we'll put that down below, and we'll link to your Raster collection too so people can browse it and see all the Farbteilers and the other great stuff you've collected. I scrolled through, and you've got stuff from all eras of fx(hash), plus a bunch of A.I. and other digital art. I saw some Culture Hacker in there too.
 

@@ -126,17 +126,15 @@ Bjørn Staal: In terms of pricing, that's not my field of expertise at all, so I
 
 As for "buy one, get one," that's not something I considered. To me, the interesting part is how these different communities collect—and, honestly, maybe annoying collectors a little bit. I'm not a huge fan of that commercialized "buy one, get another free" way of selling art, even though I understand why it would make sense here. Since the pairs are random anyway, we couldn't guarantee that buying one gets you an actual pair. I think that's part of the fun—people will have to look around a bit, and maybe some new dynamics will emerge. If two people each have a mint on both chains with corresponding pairs, they could just swap. Without paying for it, I guess. But you might also see other interesting dynamics where two people who have the entangled pair just decide they want to keep theirs, and they're kind of like buddies, you know, they have this thing that links them together, and I don't have to own both. So I can't really predict where this will go. Part of it has been this open, experimental nature, and I'm hoping there will be some interesting surprises there. So far, no one's attacked me to tell me this is completely ridiculous, so I feel like most people find the whole dynamic interesting.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Will: Definitely. I think anything that encourages collectors to talk to each other about the project, what they like, and to seek out their complementary pieces — even if they don't trade — this whole thing becomes this giant Möbius strip of connections. If I mint one on each chain, even if they're not a pair, each one connects me to someone different, and they're all connected to different people through their pairings. It creates a network effect beyond the kind we typically talk about in gen art, where it's just the network effect of owning stuff. Ours are literally entangled in a way other projects haven't done. Really elegant execution.
 
 Bjørn Staal: You had one more question, I think, that I didn't reply to — how long we'll keep the minting open for.
 
 Will: Oh yeah, please.
 
-Bjørn Staal: I haven't considered that at all, honestly. My last fx(hash) project, *the face we had*, was open for six months before it minted out. There's this idea in the NFT scene, which is a bit corrosive, that you have to sell out as soon as humanly possible, or else the project is considered a failure. Personally, I'm in no rush. Our expectation is that people will participate and that it will sell out, but as we've discussed, it's very hard to know. Very few projects have gotten this sort of attention — and to me, it was clear that all the attention the project got when it went viral wasn't necessarily from people in the NFT scene at all. It got the attention of a lot of developers and tech people who just found the thing technically interesting. Onboarding those people to actually buy NFTs is still a hard sell. We'll see.
-
 [pool: the face we had | the face we had — nonfigurativ | | 3]
+
+Bjørn Staal: I haven't considered that at all, honestly. My last fx(hash) project, *the face we had*, was open for six months before it minted out. There's this idea in the NFT scene, which is a bit corrosive, that you have to sell out as soon as humanly possible, or else the project is considered a failure. Personally, I'm in no rush. Our expectation is that people will participate and that it will sell out, but as we've discussed, it's very hard to know. Very few projects have gotten this sort of attention — and to me, it was clear that all the attention the project got when it went viral wasn't necessarily from people in the NFT scene at all. It got the attention of a lot of developers and tech people who just found the thing technically interesting. Onboarding those people to actually buy NFTs is still a hard sell. We'll see.
 
 I don't pay too much attention to the market in general, but it's hard not to notice things are slower these days. Still, I've decided not to let the market dictate what I do and when and how I do it. If this NFT scene is going to be a place where people can build real art careers, then if you make your best effort and put a lot of work into a project, it should pay off. If it doesn't, I start questioning whether the space is healthy enough. I do feel like the space has matured, that speculation is out of the picture in a lot of ways compared to before, and the people left are the ones who really want to make things and the ones really interested in collecting.
 
@@ -148,9 +146,9 @@ Will: I imagine this will inspire other people to do some version of this, espec
 
 Bjørn Staal: Yeah, and that's been my plan all along. My long-term goal is to merge my interest in open-source software with making a living selling digital art. I think it's possible. I've seen some setbacks for open source since NFTs came about, and I don't see why it needs to be that way. Obviously, if you put your code out and lots of people rip it off to make spin-offs, that's a problem in a sense. But for me, the project is out there, people have interacted with it, they know who made it, and if other people can learn from the code, that's essential — because that's how I learned what I'm doing. Without the open-source pioneers showing the way, very few of us would be here today making these projects. I'm using Three.js a lot in this and really want to give back to the people building that library and that whole community.
 
-As I said in an interview I did with Fake Whale before Christmas, what matters to me is that when you put code out there, it has a certain quality and people can understand it. That'll be a real challenge for me, because now that I'm working for myself, there's no one else on my team — I don't need to write sustainable code the way I did when I had colleagues and we had long-term projects. My code is a huge mess. I work more like a painter with code, just throwing things around. So my plan is to clean it up, publish it, and maybe do an interview with someone who wants to do a deep dive into the technical side, or write an article about it. Historically I've been really bad at writing — it takes a lot of time, and I'm always working on something new, so it's hard.
-
 [pool: the face we had | the face we had — nonfigurativ | | 1]
+
+As I said in an interview I did with Fake Whale before Christmas, what matters to me is that when you put code out there, it has a certain quality and people can understand it. That'll be a real challenge for me, because now that I'm working for myself, there's no one else on my team — I don't need to write sustainable code the way I did when I had colleagues and we had long-term projects. My code is a huge mess. I work more like a painter with code, just throwing things around. So my plan is to clean it up, publish it, and maybe do an interview with someone who wants to do a deep dive into the technical side, or write an article about it. Historically I've been really bad at writing — it takes a lot of time, and I'm always working on something new, so it's hard.
 
 Trinity: Mm-hmm.
 
@@ -214,9 +212,9 @@ Bjørn Staal: Support the podcast too — people producing content you like, I t
 
 Will: Let's start wrapping up with some rapid fire. We've talked a ton about *Entangled*. Reminder: it's June 20th, cross-chain, about $200-ish a mint at the bottom of each Dutch auction — I think it starts around $600–$800 in the relative currencies and goes down. Be on the lookout, and consider minting yourself a pair. Trinity, let's close this out with rapid fire.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Trinity: All right, one related to what we've been talking about. Apologies, but —
+
+[pool: the face we had | the face we had — nonfigurativ | | 1]
 
 Bjørn Staal: No, it's perfect.
 
@@ -228,9 +226,9 @@ Will: Making people stressed out has historically been a bad strategy.
 
 Trinity: Or a great one.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Bjørn Staal: My strategy is pissing people off and hoping that works.
+
+[pool: the face we had | the face we had — nonfigurativ | | 1]
 
 Will: I'll ask one: who would you like to hear us interview in the future?
 
@@ -242,9 +240,9 @@ Bjørn Staal: He's a great artist — I think he made some of the best work on A
 
 Will: Is he local to you?
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Bjørn Staal: No, I think he lives in Amsterdam. We just know each other through Discord and Twitter — how you make friends these days.
+
+[pool: the face we had | the face we had — nonfigurativ | | 1]
 
 Will: Good recommendation. Trinity, want to do another?
 
@@ -256,9 +254,9 @@ Will: How old are your kids? I just traveled with a toddler and it was not relax
 
 Bjørn Staal: Mine are 9 and 15.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Will: Oh, probably a little easier to kick back at those ages.
+
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Bjørn Staal: In some ways, yes. In other ways, not so much. Some things get easier, some things get harder throughout this whole process of aging with children.
 
@@ -270,14 +268,12 @@ Will: I'm thinking Sleep, Dopethrone, Nils Frahm.
 
 Bjørn Staal: Vladislav Delay — do you know him? It's incredible, almost more sound art than music, using a lot of field recordings and pushing sound into these weird places no one else does. It's been incredibly inspiring — it actually directly inspired the particle visuals I'm using in the *Entangled* piece. I listen to it all the time; it gives me this noisy, particle-y feel. Very inspiring.
 
-[pool: Entangled | Entangled — nonfigurativ | | 1]
-
 Will: Drop a link in Discord so we can include it below for people to listen to while they play with their pieces after they mint.
+
+[pool: the face we had | the face we had — nonfigurativ | | 1]
 
 Bjørn Staal: Right.
 
 Will: All right, let's wrap it up. Trinity's having weird connectivity issues again, but that's okay since we're ending the episode. That was Bjørn Staal, aka _nonfigurativ_. Look forward to *Entangled* on fx(hash), the first Vertex project of what we hope will be many really cool ones. June 20th, for those of you considering collecting. That's it for this one, everyone. Hope you enjoyed it — we'll be back soon with another episode. Bye-bye.
-
-[pool: Entangled | Entangled — nonfigurativ | | 1]
 
 Bjørn Staal: Bye everyone.

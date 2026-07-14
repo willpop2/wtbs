@@ -172,7 +172,7 @@ ClownVamp: I didn't even know that about her, which is maybe a useful data point
 
 Will: Were you aware she designed the Nirvana logo?
 
-[pool: Astral Loom | Astral Loom — Lisa Orth | | 1]
+[pool: Drippy Cube | Drippy Cube — iRyanBell | | 3]
 
 ClownVamp: No idea.
 
@@ -186,7 +186,7 @@ ClownVamp: Good, good — I need this. This is your cue.
 
 Trinity: You don't have any of *A Center Near the Edges*, one of my favorite pieces of hers, from earlier in her career. Not financial advice, people — I still want another one myself, so if a run happens, so be it, I'll feel good about it.
 
-[pool: Astral Loom | Astral Loom — Lisa Orth | | 1]
+[pool: Fractured Cells | Fractured Cells — nudoru | | 3]
 
 Will: Only one *Between Stations*? Tsk, tsk.
 
@@ -208,7 +208,7 @@ Will: Purely on aesthetics — you're just drawn to the work?
 
 ClownVamp: Yeah, I just think the work's really cool. *Cold Mountain*'s definitely my favorite. I own the most of *On the Sea*, partly because I minted a lot and then bought more since the price seemed low relative to the quality. I have a couple of *Action Fields*, which I'm fine with, a few *Sand Tables*, and some *Fractured Cells*, which I think are technically really interesting. I'm not a coder, so some of this might be easier or harder than it looks to me, but I look at it and think, how do you make that with code? That's why I like *Fractured Cells*.
 
-[pool: Fractured Cells | Fractured Cells — nudoru | | 3]
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 3]
 
 Will: *Fractured Cells* was actually his first project to take off on secondary.
 
@@ -286,7 +286,7 @@ ClownVamp: I have a couple *Degrowths*, and I think that's it. Holo I just think
 
 Ryan's *Drippy Cube* — I don't think that's the real name, I think it's just *Drip Cube*, but *Drippy Cube* sounds better—
 
-[pool: Drippy Cube | Drippy Cube — iRyanBell | | 3]
+[pool: Drippy Cube | Drippy Cube — iRyanBell | | 1]
 
 Trinity: Yeah.
 
@@ -420,7 +420,7 @@ ClownVamp: Right, number go up. That is interesting. The negatives are kind of o
 
 Trinity: More than trad art.
 
-[pool: Vapor Trails | Vapor Trails — Jeres | | 1]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 3]
 
 Will: Where they make none. But do the mental exercise: if you release a piece for 10 tez, 100 editions, and it mints out, that's 1,000 tez. To make another 1,000 tez on secondary at 10%, you need 10x that in volume. So the idea that you release your work cheap and make it all back on royalties — maybe on a long enough timeline that's true, but I think it's really only true for the top 0.5%.
 
@@ -434,7 +434,7 @@ Will: Honestly, I have no idea. I've seen artists on Twitter complain that the c
 
 Trinity: It might be something that helps prevent user error, for the most part. But I also think the royalty won't matter for 99.5% of the work released on the platform, because the prices won't get high enough for it to fundamentally matter. It'll matter for people selling RGBs or *Garden, Monoliths*, because the pie is much bigger. But if you're selling something for 5 tez, which you likely wouldn't be, it just doesn't matter.
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 3]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 ClownVamp: The question for someone smarter than us — I mean, you guys are smarter than me, so maybe you can figure this out — is: if *Garden, Monoliths* had a lower royalty, would the gross volume sold be higher monthly? Would that mean more royalties overall for Zancan? The floor price would probably be lower, but there might be more selling, more active buys and sells. Would a 5% lower royalty rate drive more volume overall? I don't know.
 

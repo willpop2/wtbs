@@ -394,7 +394,7 @@ Will: That was an awesome conversation, Liam. I hope you feel good about it.
 
 Trinity: And expect to get pinged by Will every day about new feature requests and ideas. You're going to regret saying that.
 
-[pool: Euphonic | Euphonic — Liam Egan | | 1]
+[pool: Reisiger | Reisiger — Liam Egan | | 3]
 
 Liam Egan: I had this idea... yeah, sure.
 
@@ -408,7 +408,7 @@ Liam Egan: I'm good. It was great to talk to you both.
 
 Will: Thank you again for getting up early. Hope you enjoy the rest of your Sunday, Liam.
 
-[pool: Euphonic | Euphonic — Liam Egan | | 1]
+[pool: Reisiger | Reisiger — Liam Egan | | 1]
 
 Liam Egan: Thanks, you too.
 
@@ -422,4 +422,4 @@ Liam Egan: Yeah, exactly, exactly.
 
 Will: All right, that was Liam Egan, everyone. Be sure to say hello in Discord next time you're there. Thanks again to Liam for coming on the show, and thanks to Trinity for getting up on a Sunday to record with me. Hope you all enjoyed -- we'll be back again soon. Later.
 
-[pool: Euphonic | Euphonic — Liam Egan | | 1]
+[pool: Reisiger | Reisiger — Liam Egan | | 1]

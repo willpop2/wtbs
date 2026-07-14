@@ -198,7 +198,7 @@ Will: On this idea of being strategic about where you release your work -- in ou
 
 Rudxane: I honestly don't know yet, still trying to figure it out. As an artist, I don't feel like I'm "an NFT artist." The generative side of art really speaks to me, but I don't think I should focus only on code-based or NFT art. I'm already working on more physical work -- I always did painting and drawing, and my background is in photography, so I've worked in different mediums and formats before.
 
-[pool: Onda | Onda — Rudxane | | 1]
+[pool: Onda | Onda — Rudxane | | 3]
 
 It's really interesting to explore how I can give physical work a space in the physical world -- through more traditional avenues like galleries, maybe exhibitions at museums. Maybe it's digital work displayed physically, or physical work that finds its way into the digital realm, or existing digital work translated into a physical component, like Tyler Hobbs did with *QQL* recently. There are a lot of ways for me to explore where my art should live. I don't want to be the guy who only does code-based art on Tezos. That's something to explore in the year ahead -- what can I do physically, and when does it reach a point where I feel it's actually something I want to put into the world? The focus isn't just making more NFT releases the same way we've been doing, but broadening my audience for art in a general sense.
 
@@ -220,7 +220,7 @@ Rudxane: There was a lot of cool stuff coming out on Art Blocks, but the whole c
 
 So I was working with a friend to build a contract and infrastructure to do that on Tezos, since financially it was way more interesting for me at that point. *Tych* was originally meant to be released that way. Then randomly I came across a tweet -- someone showing what they were building on Tezos. I think it was Ciphrd, though I don't have the tweet anymore so I can't be sure. That's when I came across fx(hash). I tried to get a project on there and it didn't work out at first, then I understood what was going wrong, and that's when I minted *Bingo*. I didn't fully know what fx(hash) was yet, but it was clearly something being built at exactly the right moment.
 
-[pool: Bingo | Bingo — Rudxane | | 1]
+[pool: Tych | Tych — Rudxane | | 1]
 
 Trinity: I love hearing everyone's origin story -- it usually involves seeing a tweet from somebody at some point, and it typically traces back to Ciphrd.
 
@@ -250,7 +250,7 @@ Recently on Ethereum I did a collab with UltraDAO where there was an edition peo
 
 I do like the idea of always having the current state of collectors — how people are interacting with my art, on primary and secondary, how long they hold. Everything is written on the blockchain, available for me to use if it makes sense. There's a lot of fun experimentation to be had, but I want to do it in a way where it's not "when's the next burn, when's the next raffle." Still, definitely fun to do those things.
 
-[pool: Onda | Onda — Rudxane | | 3]
+[pool: Onda | Onda — Rudxane | | 1]
 
 Trinity: It's so interesting — we're experiencing these little games, these ways to stay engaged, today. Given the blockchain nature of it all, I'm always curious how these things will be remembered or cared about fifty years from now, in real-world terms — not crypto terms, because that's just next week.
 
@@ -300,17 +300,15 @@ Rudxane: For me, *Rings* was an exploration around variety. Long-form art based 
 
 Looking at bigger projects like *Ringers*, *Fidenza* — they excel at nice individual pieces, but those pieces get stronger because of the cohesive total series output. That's something I want to focus more on. *Rings* was: how can I limit myself to something really simple? It was an experiment — that's also why it was just minted around the time fx(hash) hit its one-year mark, felt like a small celebration.
 
-[pool: Rings | Rings — Rudxane | | 1]
-
 For me it was: if I can change everything, I can use parameters to introduce randomness into a huge pool — how do I make that pool really small and still achieve something where none of them are the same? That's still a challenge to me.
 
 Trinity: Where do you think projects like that fit into your overall portfolio moving forward, if you look at your body of work ten years from now?
 
 Rudxane: If you look at my work over a longer period, I think the first year you see experimentation. There are a couple of series that connect to my longer-term work, but there are also pieces that are more about experimenting with what we're actually doing on this medium, what we're trying to do on this platform, and what I'm trying to say as an artist. I don't think everything has to be my final portfolio -- there are sketches in there too. It's more individual work that tells something about the path I've made as an artist and the path this medium has made, but it doesn't have to fit stylistically into all my future work.
 
-I have two series, *Rings* and *Loops*, which both use the infinity symbol. The intent there was to work within really strict parameters, have one thing that produces infinity as an output, and see how much variety could exist within that. Mostly, if you look at my work, *Onda* and *Glitch* are the biggest outliers -- more pure experimentation. The rest ties together in most senses with my future work and what I'm doing right now.
+[pool: Disrupt | Disrupt — Rudxane | | 1]
 
-[pool: Rings | Rings — Rudxane | | 1]
+I have two series, *Rings* and *Loops*, which both use the infinity symbol. The intent there was to work within really strict parameters, have one thing that produces infinity as an output, and see how much variety could exist within that. Mostly, if you look at my work, *Onda* and *Glitch* are the biggest outliers -- more pure experimentation. The rest ties together in most senses with my future work and what I'm doing right now.
 
 Will: That's a good segue into plugs as we wrap up. What can we look forward to from you in the near future, or for the rest of the year? We've talked about the TENDER collab you're working on -- what about fx(hash)? What about the on-chain stuff when that comes in a couple months, hopefully? Are you looking at Art Blocks, your physical work? What can we look forward to collecting from you throughout the rest of the year?
 
@@ -322,9 +320,9 @@ Rudxane: The theme of the perfection of imperfection stays close to me -- it alw
 
 Will: Great. We could end it there unless you want to ask us any questions, comments, or critiques of the show -- or anything you're curious about regarding us. Or we can just end it if you feel good about it.
 
-Rudxane: I'm always interested in your standpoint. The market's slow right now, and I'd imagine your business model, if you can call it that, needs attention at a low point like this. Do you feel like it's a positive, healthy thing for the space, or do you feel like we're slowly dying out here? How does that relate to you and what you're doing?
+[pool: Tych | Tych — Rudxane | | 1]
 
-[pool: Rings | Rings — Rudxane | | 1]
+Rudxane: I'm always interested in your standpoint. The market's slow right now, and I'd imagine your business model, if you can call it that, needs attention at a low point like this. Do you feel like it's a positive, healthy thing for the space, or do you feel like we're slowly dying out here? How does that relate to you and what you're doing?
 
 Trinity: I think part of it has less to do with the business model -- that's an important component, obviously, but part of it is also just what's happening that's interesting. When we hit these lulls in the market, we often also hit lulls in people releasing work; there's not as much excitement or fervor in the space. It's important for us as content creators to be genuinely excited about the excitement in the community. So when things feel slow, it feels slow. Right now isn't as bad as when we were down for a month between the fx(hash) beta and the full release, but it's fun when things are exciting.
 
@@ -336,9 +334,9 @@ Trinity: And that's the short term. As you said, Will, this is something necessa
 
 Will: It's a time for building taste too. As sad as it is to see projects we really loved -- or at least strongly liked -- start to depreciate, seeing the market shake out helps you take a more objective, less bag-oriented view of who the artists and art are that we truly believe in for 5, 10, 20 years from now, versus who we bought because we thought there'd be a quick flip and now that window's gone. We're approaching, what, 30,000 projects on fx(hash) alone? 10,000 of those aren't going to be relevant in the future.
 
-Trinity: Only 10,000?
+[pool: Disrupt | Disrupt — Rudxane | | 1]
 
-[pool: Rings | Rings — Rudxane | | 1]
+Trinity: Only 10,000?
 
 Rudxane: Yeah.
 
@@ -350,9 +348,9 @@ Rudxane: Right.
 
 Will: So there's a hard reconciliation between "here are the projects I'm going to collect knowing I might be the only person who likes them" versus "here are the projects general opinion seems to be coalescing around." *Tick* is definitely one of those, by the way -- I feel like *Tick* is just going to be a forever timeless project.
 
-Trinity: The only project that will matter, right?
+[pool: Tych | Tych — Rudxane | | 1]
 
-[pool: Rings | Rings — Rudxane | | 1]
+Trinity: The only project that will matter, right?
 
 Will: I'm trying to trade for one more, at least. We'll see.
 
@@ -364,9 +362,9 @@ Trinity: I was promised a really complex *Tick* because mine was one of the ones
 
 Rudxane: I'll blame it on fx(hash) infrastructure.
 
-Trinity: They've got to get their act together.
+[pool: Disrupt | Disrupt — Rudxane | | 1]
 
-[pool: Rings | Rings — Rudxane | | 1]
+Trinity: They've got to get their act together.
 
 Will: What do you feel, Rudxane? You've probably dabbled in some of the PFP stuff -- what's your take on the shakeout and the market in general? Much needed, or just noise?
 
@@ -378,9 +376,9 @@ Will: Some giant steps maybe that we still need to take.
 
 Rudxane: Who knows? There are definitely some big steps we still need to take.
 
-Will: I know we're used to everything moving fast, but it's not crazy to think it'll take 30 years for some of this to legitimately make its way into the mainstream art scene and museums. Everyone gets excited when so-and-so donates 30 pieces to LACMA -- "look, the mainstream is embracing NFTs." But is it? Or is it just one guy donating some stuff?
+[pool: Tych | Tych — Rudxane | | 1]
 
-[pool: Rings | Rings — Rudxane | | 1]
+Will: I know we're used to everything moving fast, but it's not crazy to think it'll take 30 years for some of this to legitimately make its way into the mainstream art scene and museums. Everyone gets excited when so-and-so donates 30 pieces to LACMA -- "look, the mainstream is embracing NFTs." But is it? Or is it just one guy donating some stuff?
 
 Rudxane: I think it's mostly pushing, and true value needs a lot of time. Think about the internet -- everybody orders online now, but people used to say you'd never use your credit card online in the '90s, it was too dangerous. Now it's truly part of life. That's not something that could have happened in three years -- it grows slowly. You bought stuff on PayPal when it was early, eBay came around, you started ordering things and sometimes got a brick sent to your house instead. That's how we learn, and that's how people conclude "the internet doesn't work" too early. Serious infrastructure takes time -- it's not just a technical solution, it's a societal one. We need to build consensus and understand why we're doing things this way. It's only healthy for this to take a couple of years, which doesn't mean there's nothing to do in the meantime.
 
@@ -392,8 +390,8 @@ Will: That sounds like a great place to wrap it up. Thank you so much, Rudxane. 
 
 Rudxane: It was way better.
 
-Will: Perfect, that's what we like to hear. It was so great to talk to you. Super excited to get this episode out to everyone, and super excited for everything that's going to come from you this year. Sounds like we need to get some more ETH and some more Tez ready. Thanks again to Rudxane. Thank you, Trinity, as always. Hope everyone enjoyed this episode — we'll be back again soon with another one.
+[pool: Disrupt | Disrupt — Rudxane | | 1]
 
-[pool: Rings | Rings — Rudxane | | 1]
+Will: Perfect, that's what we like to hear. It was so great to talk to you. Super excited to get this episode out to everyone, and super excited for everything that's going to come from you this year. Sounds like we need to get some more ETH and some more Tez ready. Thanks again to Rudxane. Thank you, Trinity, as always. Hope everyone enjoyed this episode — we'll be back again soon with another one.
 
 Rudxane: Thanks. Bye.

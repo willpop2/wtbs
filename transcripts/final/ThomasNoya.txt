@@ -102,7 +102,7 @@ Thomas Noya: Yeah, I absolutely thought of that.
 
 Trinity: *CHX* was really your first big breakout — the one people saw and jumped on. I feel like Galo has half the collection and idflood has the other half. Not entirely sure of those numbers — we might need to do some fact-checking.
 
-[pool: HX | HX — Thomas Noya | | 1]
+[pool: CHX | CHX — Thomas Noya | | 1]
 
 Thomas Noya: idflood has the most for sure. I don't know exactly how many, but a lot. Galo's probably second, but I don't think he has more than 5%.
 
@@ -152,7 +152,7 @@ Will: On the Verse drop, why did you decide to curate it? You've done curated wo
 
 Thomas Noya: Yeah, 400. The first idea was to curate like 100 or 150. I wanted control over what the collection was going to be, since none of the others were curated. Taking money out of it — just as a series that exists as pure art — I wanted control over which outputs, which pieces, made the cut. At some point I sent Verse around 500 consecutive random artworks so they could evaluate the algorithm, and we landed on 400. There were so many good ones — why limit ourselves to 150 or 100?
 
-[pool: GHX | GHX — Thomas Noya | | 1]
+[pool: HX | HX — Thomas Noya | | 1]
 
 I won't lie, it was kind of scary. I think it's probably the first one that was 400 curated on that platform — I don't even know if any other platform has done 400 curated. That's a lot of editions. I didn't know how that was going to play with the market, because generative work usually carries a premium when it's a smaller set, and I didn't know how people would behave with curated generative at that scale.
 
@@ -466,7 +466,7 @@ Thomas Noya: Such a strong piece. I don't think the market loves it as much, but
 
 Trinity: It's 60% below mint right now.
 
-[pool: 400 Flips | 400 Flips — Thomas Noya | | 1]
+[pool: GHX | GHX — Thomas Noya | | 3]
 
 Thomas Noya: Perfect time, then. Sadly, the one I want isn't for sale — it's the one you have.
 
@@ -480,7 +480,7 @@ Thomas Noya: A couple hours ago I collected this one — I think it's still avai
 
 Will: Did you flip it?
 
-[pool: 400 Flips | 400 Flips — Thomas Noya | | 1]
+[pool: GHX | GHX — Thomas Noya | | 1]
 
 Thomas Noya: No, but I listed it about a week ago. It's way above floor, so I'm not expecting it to sell anytime soon, but I listed it for the fun of it. That's the only piece I've minted where I thought I could probably make money if I wanted to. It's got a risograph background with great colors.
 
@@ -698,7 +698,7 @@ Thomas Noya: That's a lot of names, but half of them you already have in mind, a
 
 Trinity: You already gave us a lot.
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: CHX | CHX — Thomas Noya | | 1]
 
 Will: It shows we're on the right track, if you're bringing up names we've already got scheduled. Other than our collab—which we don't have an official release date for at the time of this recording—what else do you want to talk about that's coming up? Anything else on the horizon?
 
@@ -712,7 +712,7 @@ Thomas Noya: I am at the moment, and hopefully for the rest of the year—we'll 
 
 Will: We'll see.
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: GHX | GHX — Thomas Noya | | 1]
 
 Trinity: Sounds great.
 
@@ -726,7 +726,7 @@ Thomas Noya: I guess it's impossible to know, but it'd be fun to see *Garden, Mo
 
 Will: Like, what would have happened if it dropped now?
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: CHX | CHX — Thomas Noya | | 1]
 
 Thomas Noya: Yeah.
 
@@ -740,7 +740,7 @@ Thomas Noya: Even cheap ones.
 
 Will: One last one that occurred to me—since you're local, what's the best Venezuelan food in New York, or is there any that you've found?
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: GHX | GHX — Thomas Noya | | 1]
 
 Thomas Noya: I've only been to a few Venezuelan spots myself because I just make the food at home. If you want cachapas — these corn pancake things with cheese — there's one really good place, but it's far out in Brooklyn. I don't even know the name of the neighborhood, but I can send you the address. For something more central, there's a place with two locations, one in Bushwick and one in Bed-Stuy, I think — they make really good arepas. There's also Caracas Arepa Bar in Williamsburg, which is good too. But honestly, none of them can beat me, so if you want real Venezuelan food, come to my house.
 
@@ -754,7 +754,7 @@ Thomas Noya: What are your plans for this year for the podcast?
 
 Trinity: We're going to flip Proof.
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: CHX | CHX — Thomas Noya | | 1]
 
 Thomas Noya: I don't think that'll be hard.
 
@@ -768,7 +768,7 @@ Thomas Noya: One of your goals was to keep getting great guests, and after your 
 
 Will: That's a good run. But hey, you just released on Verse too.
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: GHX | GHX — Thomas Noya | | 1]
 
 Trinity: We're a Verse podcast now.
 
@@ -782,7 +782,7 @@ Thomas Noya: Gas is ridiculous. You're getting amazing guests — you can probab
 
 Will: Mostly, yeah.
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: CHX | CHX — Thomas Noya | | 1]
 
 Thomas Noya: Maybe not from the traditional art world, from what I've heard. Have you thought about doing more live events, like live minting events? You should become the Supreme of fx(hash) — just put your logo on everything.
 
@@ -796,7 +796,7 @@ Will: He somehow did an around-the-world trip and didn't stop in New York. Come 
 
 Trinity: We don't really have art here.
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: GHX | GHX — Thomas Noya | | 1]
 
 Thomas Noya: No one comes here. Art Basel Miami, Bright Moments in every amazing place but New York. We got NFT NYC last year, but that was mostly a hype fest — really annoying, just PFPs.
 
@@ -810,7 +810,7 @@ Will: We talked about going to Miami, but had no idea what we'd actually do ther
 
 Thomas Noya: That makes sense.
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: CHX | CHX — Thomas Noya | | 1]
 
 Will: It's on our list. We want to travel to something this year — we've got to start figuring that out.
 
@@ -824,7 +824,7 @@ Will: Thank you for making this happen, Thomas. We're super excited to be workin
 
 Thomas Noya: I need to go find when it was released and match it up with that review. Now I'm curious. But it's all good, it doesn't matter.
 
-[pool: RTX | RTX — Thomas Noya | | 1]
+[pool: GHX | GHX — Thomas Noya | | 1]
 
 Trinity: We made up for it since.
 

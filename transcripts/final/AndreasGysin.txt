@@ -106,7 +106,7 @@ Andreas Gysin: I started on these ETH platforms because those were the ones I co
 
 Then Hic Et Nunc came along, which was even wilder -- they didn't ask any questions at all, and they allowed you to publish any kind of media: not just images or GIFs, but PDFs, text files, pieces of code. That opened up an interesting playground, because you could publish real-time pieces of software. I used the platform to publish SVG pieces -- scalable vector graphics you can display in the browser that also allow execution of JavaScript if embedded correctly. So at that point we were able to publish real-time work.
 
-[pool: Towers | Towers — ertdfgcvb | | 1]
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
 
 fx(hash) came a bit later, and it was a great surprise -- well done, well documented, no questions asked, you could just release your piece. The fact that there was no curation, that the barrier was lowered, was a real invitation to participate.
 
@@ -120,7 +120,7 @@ Toward the end of the day, I presented, and Layla saw it. Afterward, she ran up 
 
 Layla put us in a tough spot almost immediately: she said, "We have this room for you," and sent us the floor plan -- and the room was huge. We'd never done an exhibition in such a big space before, and it was already crazy to imagine pulling it together in short order. Would we really fill this whole thing? She eventually found a smaller room, but it was still very big, and difficult to solve for with our projects.
 
-[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 3]
 
 So we worked out what we could bring. She insisted there be a long-form project of some sort, but we insisted that we came from the physical world and wanted to push that too. Especially for a space like this, we wanted to bring a bigger piece -- and for us, the centerpiece of the whole exhibition is a piece we've remixed over the years, always transforming. It's called *Digits*, a huge electromechanical piece that occupies almost the entire diagonal of the room. We even had to shorten it to make it fit properly. This will be the third iteration of the project, in a new form.
 
@@ -164,7 +164,7 @@ Will: If anyone's interested in other physical pieces from you, there's the LCD 
 
 Andreas Gysin: *256* is right. The piece we just talked about is *64 Pixels*, the other hardware piece is *Recursive Tiles*, and among the other physical pieces, one is called *Digits*, and another, which uses red-green LEDs, is called *Red Green*. We usually give titles that aren't really titles — they don't add any extra layer of information about the piece. The most obvious thing you could say about a piece usually becomes its title when Sidi and I work together. There's a certain honesty in that, and also a wish not to add extra complexity, extra layers of meaning for people to project onto the piece. We try to leave a little space around it rather than pollute it with meaning through the title.
 
-[pool: 64 Pixels | 64 Pixels — Andreas Gysin & Sidi Vanetti | | 1]
+[pool: Recursive Tiles | Recursive Tiles — Andreas Gysin & Sidi Vanetti | | 1]
 
 In this case, we found ourselves facing an unconstrained screen space. We didn't know what to do with the screen, because you can do so many things — where do you even start? One topic we wanted to explore was gradients. It's less true of current screens, but in the usual model, you have 8 bits per color channel. In RGB, that's 8 bits, so 256 possibilities for red, green, and blue, and the same for grayscale values. So an average screen — again, less true with newer displays — can render a gradient of 256 steps. We told ourselves this would be our entry point, the constraint that would let us reason our way into something for this limitless surface.
 
@@ -274,7 +274,7 @@ Andreas Gysin: I needed a domain name to publish my projects online, and I was t
 
 Trinity: If keyboard makers ever made one square, maybe that's where it would end up. A little crazy, but I appreciate it.
 
-[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
+[pool: DOM1 | DOM1 — Andreas Gysin | | 1]
 
 Will: Trinity's a bit of a keyboard fanatic.
 
@@ -288,7 +288,7 @@ Andreas Gysin: We should have talked about this.
 
 Trinity: All right, we'll do another interview, or you can guest host and we can have a side podcast about keyboards.
 
-[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
+[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
 
 Will: Waiting to click.
 
@@ -302,6 +302,6 @@ Will: You're welcome, and thank you for coming on the show. It's always amazing 
 
 Andreas Gysin: Bye.
 
-[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
+[pool: DOM1 | DOM1 — Andreas Gysin | | 1]
 
 Trinity: Bye.

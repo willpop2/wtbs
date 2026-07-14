@@ -58,7 +58,7 @@ So it was such an important project in the history of fx(hash), but I want to he
 
 Erik Swahn: With *Farbteiler*, there are just twelve different colors. It actually started as a project where I wanted to make a type of musical notation so my oldest son could learn to play piano. Lots of people had worked on things like that before—synesthetic systems, Goethe did it, Scriabin, others. So basically it was the twelve tones of the chromatic scale, and I paired that with a color wheel from the Bauhaus era by Johannes Itten—primary, secondary, and tertiary colors. Then, a bit like *Retrogrades*, it's a kind of random walk, but with those colors. In my mind it became a type of sheet music, almost a harmonic chord notation. I didn't state that at the time—I wanted people to see it for what it was.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+[pool: Retrogrades | Retrogrades — Erik Swahn | | 1]
 
 The idea was very simple, but as I was developing it, I was struck by how intense different combinations could be. It really was like harmonics in music—you get this interaction between different colors, and I was really happy when I found that. The release itself was very intense. I had no idea about the Zancan release—now, with the Verse releases, I actually talk to people about the planning, but back then I just thought, "I think it's ready," and sat at home minting it. It was a frenzy. A very intense experience.
 
@@ -162,7 +162,7 @@ Trinity: Versus long form—it's been a while since we've seen some long form fr
 
 Will: In general, you've released your last three projects with Verse. What has that relationship been like from the beginning? How did you first connect with them for *Fields*, and what's kept you coming back to release there rather than experimenting with something like Tonic, Art Blocks, or fx(hash) with ETH now? How do you think about platforms and these relationships, and why has Verse been winning out for over a year now?
 
-[pool: Kinetograms | Kinetograms — Erik Swahn | | 1]
+[pool: Autoscope | Autoscope — Erik Swahn | | 1]
 
 Erik Swahn: I don't feel very tempted to jump between blockchains and different platforms. I just want to concentrate on the work. I was originally contacted by Layla at Verse for the *Imperfections* exhibition that *Fields* was part of, and it's been a relief to have people to talk to. As I described earlier, with *Farbteiler* and the fx(hash) projects, you just sit in isolation with something for a long time and then release it. It's a very isolated experience apart from the reactions from collectors. So it's really nice to have people to talk to and collaborate with in different ways. I'm not particularly good at promotion — I don't think of that as the thing I do. I just want to make artworks. So I've been super happy to have that dialogue with them, and a place to return to. I also think they've handled a lot of things in a very professional and interesting way, being innovative with collector curation and lots of other things. Most platforms pale in comparison when it comes to being innovative and trying things constantly.
 
@@ -190,7 +190,7 @@ Trinity: Oh, this is my question.
 
 Will: Don't worry, you do your question.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+[pool: Disegnatori | Disegnatori — Erik Swahn | | 3]
 
 Trinity: We have noticed that architects make some of the best artists in the space — or, personal preference, I suppose. We talked to Jacek a couple of weeks ago, and that was chef's kiss amazing. Why do architects make such amazing artists within the generative art sphere?
 
@@ -204,7 +204,7 @@ Trinity: It's a problem.
 
 Erik Swahn: But I can listen to extremely minimalist music — maybe Philip Glass or Arvo Pärt — in the background while working. I listened a lot to electronic music, and modern classical music or whatever you want to call it, quite a bit of Japanese noise music too — maybe Merzbow or Melt-Banana.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+[pool: Disegnatori | Disegnatori — Erik Swahn | | 1]
 
 Will: Right on. You got another one, Trinity?
 
@@ -218,7 +218,7 @@ Erik Swahn: In general, I like artists who are onto something — they find some
 
 Trinity: Don't we all? Are you a *Meridian* fan?
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+[pool: Kinetograms | Kinetograms — Erik Swahn | | 1]
 
 Erik Swahn: Yeah, that made a very big impression on me and made me realize what generative art could be. It is generative art, but it uses languages from outside traditional computer art, or whatever you want to call it.
 
@@ -232,7 +232,7 @@ Will: I think Mario is definitely someone we've been thinking about having on fo
 
 Trinity: Any last words?
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+[pool: Disegnatori | Disegnatori — Erik Swahn | | 1]
 
 Will: Anything else you want to plug? What's coming up after this — are we going to see another evolution of the colorful dots, or something different?
 
@@ -246,7 +246,7 @@ Will: Well, thank you so much, Erik. It's been awesome to get to know you, and I
 
 Erik Swahn: Absolutely. It's been a pleasure to talk to you.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+[pool: Kinetograms | Kinetograms — Erik Swahn | | 1]
 
 Will: That's Erik Swahn, everyone. Be on the lookout for *Autoscope* on April 19th — it'll be on Verse. Probably by the time this episode's out there will be more info on things like quantity and pricing, and maybe you'll even be collecting some seeds by then too. Look forward to that one. That's it — bye everybody.
 

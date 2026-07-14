@@ -98,7 +98,7 @@ Not a pleasant thing to hear. He told me I needed to create a company, transfer 
 
 Eventually I did manage to create one -- it's called Zancan Garden -- and I found a bank for it. But it turns out I can't use that company for the sales I made before it existed. So now I have this company I have to take care of, filing monthly declarations, but I basically can't do anything with it. It kind of sucks.
 
-[pool: Kindergarten Monuments | Kindergarten Monuments — Zancan | | 1]
+[pool: Kindergarten Monuments | Kindergarten Monuments — Zancan | | 3]
 
 I also have my artist status, and I'm supposed to declare things there, but I've had two accountants dump me. Every time you spend ages finding someone, teaching them your situation -- even if they know crypto, they still need numbers. And where do you get numbers from the blockchain? Easier said than done. I've written countless pieces of software trying to turn blockchain data into something usable by an accountant. Months and months of work just to characterize my sales in a way that could be declared and taxed under French law. And still, I didn't know how much I had or how much tax I'd owe. Pure chaos -- time-consuming, exhausting, and I never had clarity on what was going to happen to me. I could end up rich or with nothing, and I never knew for certain how much of that crypto money was actually mine. It's still the case.
 
@@ -210,7 +210,7 @@ Will: There's still time.
 
 Zancan: Yeah, there's still time. We did change the world a little bit, but it's going in a different direction now — not what we hoped for. Still, I was overwhelmed with gratitude, and I wanted to thank everyone constantly, because it felt so full of energy. It still is — just thinking about those times gives me a lot of energy. Sometimes I hear music I was playing while developing this art, and that feeling comes through me again, and I get a glimpse of what it felt like being hooked on the blockchain and on generative art. So thank you as well, for those years, for all the moments, for hearing your podcast and mentioning my name so often — I had some little moments of pride along the way.
 
-[pool: A Bugged Forest | A Bugged Forest — Zancan | | 1]
+[pool: Kindergarten Monuments | Kindergarten Monuments — Zancan | | 1]
 
 Will: Right on. Trinity, anything else before we wrap?
 
@@ -224,7 +224,7 @@ Zancan: Yeah.
 
 Will: We'll have a much lower-pressure, serene dinner where we don't have to talk about drops.
 
-[pool: A Bugged Forest | A Bugged Forest — Zancan | | 1]
+[pool: Landscape with Carbon Capture | Landscape with Carbon Capture — Zancan | | 1]
 
 Zancan: Yes — and I won't have any drops anyway.
 
@@ -238,4 +238,4 @@ Zancan: That's for sure. Okay, great. Thank you.
 
 Will: All right, thanks so much. That was Zancan — the definitive interview, *Waiting to Be Signed*. Thanks so much for coming on. We hope you all enjoyed it, and we'll be back with at least one more episode. Bye everyone.
 
-[pool: A Bugged Forest | A Bugged Forest — Zancan | | 1]
+[pool: Kindergarten Monuments | Kindergarten Monuments — Zancan | | 1]

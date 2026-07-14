@@ -140,7 +140,7 @@ Will: The 2022 recap episode.
 
 Trinity: Right, *Mountain Moves*.
 
-[pool: Grove | Grove — Nudoru | | 1]
+[pool: Orchard | Orchard — Nudoru | | 1]
 
 Nudoru: I remember that.
 
@@ -162,7 +162,7 @@ Nudoru: Inside each of us is infinite worlds. It goes on forever.
 
 Will: You had that backlog running into December, maybe spilling into January. Since January you've slowed down, maybe two releases a month — still a good pace, but as you said, it's a hobby. Now that you've been on the platform a year, do you think more consciously about whether you have a style as an artist? About treating this more professionally, about pacing, about which concepts to follow? We talk a lot on the show about the meta — you were doing brushstroke stuff way early, and now that's huge, but you haven't really come back to it. I guess you did a little, with your holiday release.
 
-[pool: Deep Forest | Deep Forest — Nudoru | | 1]
+[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
 
 Trinity: And *Deep Forest* too — oh my gosh, so good.
 
@@ -260,7 +260,7 @@ Will: Right on.
 
 Trinity: And that balance is so hard. Even just paying attention to the fx(hash) community and podcasting around it is one thing, but that doesn't involve debugging, concept creation, all of that work. Is this your only hobby? Is it your second or third child at this point?
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Grove | Grove — Nudoru | | 3]
 
 Nudoru: Pretty much. I've channeled all the ADHD hyperfixation I have available to me this past year into focusing on gen art and not doing very much else. I even neglected the yard — the whole middle-class-suburbia, keep-the-grass-mowed thing has fallen by the wayside in favor of gen art. I stopped running to make time for it. Coming into my second year, finding a better balance between everything I want to do — my family, my job, and this work — is definitely something I need to get better at.
 
@@ -274,7 +274,7 @@ Nudoru: No, I did not play Magic. My son briefly got interested in it for about 
 
 Mostly, though, I was more interested in recreating game mechanics than actually playing games — writing the code behind the interactions. *Goonies II* on the original Nintendo was the game I was playing at the time; it had a side-scroller mode and another mode with a top-down view where you navigated a maze of rooms and interacted with the walls. A lot of the games I tried to program were built around that maze-navigation idea. They were really crappy, but that's what I was going for.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Turbulence | Turbulence — Nudoru | | 3]
 
 Trinity: It seems like this idea of reverse-engineering things is something you've stuck with — here's an idea, how do I do it?
 
@@ -288,7 +288,7 @@ Will: Someday we're going to have a guest who's actually played Magic: The Gathe
 
 Trinity: Sorry, we'll get there.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Caustics | Caustics — Nudoru | | 3]
 
 Nudoru: That should be a screener question for interviews: have you played Magic? Then you're in.
 
@@ -302,7 +302,7 @@ So if you're an artist, research your financial liability if you intend to follo
 
 Will: Do you have optimism for the next year? Now that you have a strategy and this knowledge in hand — even though that original goal got dashed a bit by the broader macroeconomic conditions, and it's hard to find anyone who's up this year in any sense — you still have the skills, you can code, you can make art, you have a method to produce and mint work and find secondary success. Do you feel optimistic?
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Crisis Worlds | Crisis Worlds — Nudoru | | 3]
 
 Nudoru: I do. I believe in the artists in the community. Regardless of Tezos going to zero and everybody running nodes under their desks to keep it alive, there's an amazing community of artists and collectors that has sprung up around Tezos and fx(hash), and I think that will keep going for as long as it can. I want to be part of this community — I really value the collectors, you guys, everybody I've met here, and I want to keep creating art for as long as I can. My wife reads, does Sudoku, plays games on her phone, and I open my laptop and code beside her on the sofa. This is fun for me, it's problem solving. So I'll keep going as long as I'm able to type — until we all get neural implants and just prompt ChatGPT to code it for us.
 
@@ -316,7 +316,7 @@ Nudoru: That's a difficult question. I want everybody interested in this space t
 
 Will: I like that — feels like we're moving back in an uplifting direction. One more rapid-fire question we've been asking lately, hopefully a fun way to end the episode: when you code, do you listen to anything, and do you have any music recommendations?
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Grove | Grove — Nudoru | | 1]
 
 Nudoru: I came prepared for this one. When I'm working, I usually listen to something with either no vocals or non-English vocals so it doesn't interfere with the flow. I'll admit to listening to a number of liquid drum and bass mixes on YouTube — I even downloaded a handful locally so I don't have to be online to listen. There's a channel called My Analog Journal with wonderful mixes — DJs spinning records, top-down view of the decks, about 45 minutes to an hour long, with great exposure to '70s and '80s music and styles from all over the world. I also listen to the Acid Jazz and Grooves Radio channel on YouTube. I can't do lo-fi too much — it's a little too melancholy and repetitive for me.
 
@@ -330,7 +330,7 @@ Will: I was thinking of that too.
 
 Trinity: There's one album I really—
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Turbulence | Turbulence — Nudoru | | 1]
 
 Will: One of Trinity's favorites. Add it to your list, Matt.
 
@@ -344,7 +344,7 @@ Trinity: For me, the mid-to-late 2000s was such a key point, because we were sti
 
 Nudoru: Napster.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Caustics | Caustics — Nudoru | | 1]
 
 Trinity: Exactly.
 
@@ -358,7 +358,7 @@ Will: This is Trinity's reminder to get that record player working. Have you got
 
 Trinity: Not yet. Someday. I might just get a new one.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Crisis Worlds | Crisis Worlds — Nudoru | | 1]
 
 Will: It's only been a couple of years.
 
@@ -372,7 +372,7 @@ I think I have one last question: if we were to interview anybody in the fx(hash
 
 Will: "Call them out" makes it sound like you want us to run an aggressive interview. Just name them.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Grove | Grove — Nudoru | | 1]
 
 Nudoru: Oh geez.
 
@@ -386,7 +386,7 @@ Nudoru: RevDanCatt is really the first name that popped into my head. He's such 
 
 Will: Check out his interview with Ken on the *Arbitrarily Deterministic* podcast.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Turbulence | Turbulence — Nudoru | | 1]
 
 Nudoru: Didn't know he did that.
 
@@ -400,7 +400,7 @@ Will: Alejandro, yeah.
 
 Nudoru: His work is very interesting, especially with his natural-media bent — crayons and pencils — and he's actually using shaders for some of his newer work. Newer artist on the scene, doing some really great work.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Caustics | Caustics — Nudoru | | 1]
 
 Trinity: He's on the list.
 
@@ -414,4 +414,4 @@ Nudoru: Absolutely. Thank you both.
 
 Will: All right, it's getting late here, and we all have kids and babies to attend to. Thanks again to Nudoru for taking the time to come on the show. We hope you all enjoyed it. That's it for this one, everyone. We'll be back again soon with another. Until then, later.
 
-[pool: Cold Mountain | Cold Mountain — Nudoru | | 1]
+[pool: Crisis Worlds | Crisis Worlds — Nudoru | | 1]

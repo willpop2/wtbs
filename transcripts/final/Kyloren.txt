@@ -164,7 +164,7 @@ That's obviously a hard thing to pull off in a bear market, but I figured it was
 
 I'm not the first person to try this — a few funds are already doing similar things — but I want to do it in a web3-friendly way, so you don't need to go through a traditional investment fund. If you have Ethereum, you can just buy a token and automatically become a fractional owner of the fund's treasury. So far we've raised around 86 ETH, and I think with time it'll be a lot of fun to keep collecting together.
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+[pool: Shattered Moons | Shattered Moons — Lionel Radisson | | 3]
 
 I got into this because I was previously in ApeDAO — a collective that owned Bored Apes together, which was a fun journey. Members eventually voted to liquidate it. After that I was just collecting art on my own, and I realized now was the time to build something and own art together again.
 
@@ -178,7 +178,7 @@ Will: I don't know that I'll ever have ETH to invest, but it's pretty appealing 
 
 Kyloren: Exactly. And the fund will own pieces that will otherwise not be part of anything else. If you look at the Zancan 1 of 1, it's one of his most beautiful pieces, and nobody else will ever have it. This fund will be the sole owner of that piece. Eventually, if these artists do well, which I think they will, this will be the only way — at least for people who don't have the means to shell out $50K or $100K at a time — to be part of the journey of these artists and of the generative art space.
 
-[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
+[pool: Hash Cities | Hash Cities — Yazid | | 3]
 
 Trinity: You've already given us some of the reasoning why you haven't collected some of the newer grail-ish projects on fx(hash) — timing, having a small baby, prices going up, things getting more competitive. Are there any newer projects you're waiting to get in on? And what will be your criteria for getting into them? Some examples include *September*, *Coronado*, the Melissa Wiederrecht projects.
 
@@ -202,7 +202,7 @@ There's another project called *Window* by Damien Seguin, one of the earliest pr
 
 There's another project I thought was pretty cute — I forget what it's called. I mentioned it on Toxy. One second.
 
-[pool: Coronado | Coronado — Jeres | | 1]
+[pool: Coronado | Coronado — Jeres | | 3]
 
 Will: Is it an animated piece? Are you thinking of *Vortex*?
 
@@ -310,7 +310,7 @@ Will: I think that's a focus we're starting to see more of, at least in our corn
 
 Kyloren: Okay.
 
-[pool: Tych | Tych — Rudxane | | 1]
+[pool: Defrag | Defrag — toxi | | 1]
 
 Will: They put out an annual report called the Burns Halpern Report, and the data supports your intuition — women are underrepresented at auction and in museums relative to what an even distribution would look like. I'll send that to you and maybe we'll put it in the show notes too. Very interesting stuff.
 
@@ -324,6 +324,6 @@ Trinity: Thank you. It's been a pleasure.
 
 Will: Thank you. All right, that was Kylo — hope everyone enjoyed it, what a wonderful interview. Thanks again, Kylo, for taking the time to come on. That's it for this one. We'll see you all soon. Later.
 
-[pool: Tych | Tych — Rudxane | | 1]
+[pool: Hash Cities | Hash Cities — Yazid | | 1]
 
 Kyloren: Later.

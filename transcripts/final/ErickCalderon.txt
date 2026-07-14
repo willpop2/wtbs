@@ -134,7 +134,7 @@ Trinity: Right.
 
 Will: A lot of the intentional moves being made with Curated seem designed around that. It's not just fewer releases, but more support behind each release, which is partially why the fee is going up for Curated—because there will be additional services. Maybe you can talk about what that's going to mean. And this isn't unique to Art Blocks—platforms like Verse are doing shows and putting a lot of effort behind each solo release, which is their version of Curated. Can you speak to those changes, and where things stand on the next Curated release? It's been a few months since we last spoke, so I don't know if we're any closer.
 
-[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+[pool: Operators | Operators — Operator | | 3]
 
 Erick Calderon (Round 2): It's been a few months, and yes, we have stuff lined up for Curated. We haven't announced when or what yet, but we're already in talks with some artists about it. What we're trying to make sure is that what we bring forth on Curated meets audiences where they are — that's something the product team at Art Blocks is very obsessed with, and I love that we think about it that way — and also meets collectors where they are psychologically and emotionally in their process of collecting, of wanting to collect, of getting excited about collecting new work.
 
@@ -148,7 +148,7 @@ Art Blocks Curated has said for years that we're looking to raise the bar, and t
 
 An example of something that did raise the bar: the *Operators* project last year. That raised the bar — not just because the visuals were stunning, but because of how it was presented, the whole presentation built around it. I was sitting there buzzing, thinking, "Oh my God, this is going to be on Art Blocks." As a founder, as a generative artist, as a creator in this ecosystem, I was just proud that this was going to be on Art Blocks. It wasn't just screen-based work — there was a choreography component, a human element, a follow-up.
 
-[pool: Operators | Operators — Operator | | 3]
+[pool: Operators | Operators — Operator | | 1]
 
 You can have phenomenal generative art that's always going to be appreciated purely as a digital, on-screen work, and it's going to be incredible — we're going to keep releasing plenty of that through Curated too. But if we really want to say we're raising the bar, we should be raising the bar. That's what we're looking for in the next solo Curated release: something that truly feels different. Our goal is for our next release to have a major presence at Marfa — even if people can't buy or afford a piece, using out-of-bounds mints so everyone can participate, or making it actively part of the dialogue so people come together and have an unparalleled experience. That means leveraging the distribution mechanism of algorithmic art — the automated element of making everything unique — and thinking about what it means for a bunch of people to own something unique to them as part of a bigger family.
 
@@ -218,7 +218,7 @@ Will: A lot of what you just said speaks to the long-term preservation of things
 
 Erick Calderon (Round 2): It's very flawed. Paper is actually what has survived the test of time more than anything else.
 
-[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+[pool: Aux Arbes | Aux Arbes — Zancan | | 3]
 
 Will: There's 2,000-year-old paper still around. Do you consider the role of the platform in not just stewarding artists to put their work on-chain, but helping them future-proof it -- developing best practices? What's the plan if ETH goes down? What's the plan if browsers stop supporting JavaScript and people can't actually view this stuff? I assume you do think about it -- so where are you at with it? What can we do? What should we be doing?
 
@@ -232,7 +232,7 @@ So, number one, I believe we'll preserve what we find most valuable. ETH going d
 
 I think we can emulate, and I think we should also consider that for many, many years, paper was the de facto medium because it was the only medium necessary -- computers didn't exist, pixels didn't exist, nothing was animated yet. This is just a whole new generation of data. Forget about the art for a second -- the majority of our data in society is on the line here too. Granted, we have these caves in Sweden or Finland where people are storing paper copies of the internet, and I think GitHub has some crazy deep cold storage doing something similar. It would be nuts if we all had to wait in line for our turn to access that data again -- totally unfeasible.
 
-[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+[pool: CryptoPunks | CryptoPunks — Larva Labs | | 3]
 
 But I do think we'll come to preserve digital data as vehemently as we once preserved paper, simply because back then our lives could operate fully on paper, and today they don't. My hand hurts if I have to write five words by hand -- I don't even use pens anymore. What happens with the next generation, when we don't go to college anymore because everything's in VR and there aren't even textbooks? When paper is no longer how we count on learning -- maybe a generation or two from now -- we'll have to think hard about how the digital world gets preserved.
 
@@ -246,7 +246,7 @@ Erick Calderon (Round 2): And ultimately Art Blocks did put p5 on-chain, even th
 
 In the end, the most valuable artworks in the world are hanging in people's homes on paper. They don't necessarily need to be transacted on a 24/7 permissionless ledger -- though I do see that as the future, where everything is on-chain all the time. So yes, I think this is something worth thinking harder about. When I'm asked to donate a Squiggle to an institution, I get this long piece of paperwork asking: if the Ethereum blockchain goes down, will you accept putting it on another blockchain? Would you accept us printing it? How do you prefer this to live? Who has the ability to fix this if something goes wrong? Institutions are thinking far in advance because they've had to deal with this question for years. So if institutions continue to show interest in what we're doing -- not just collectors with a financial or emotional stake, but institutions with a genuine preservation interest -- that expands the likelihood our work survives. We already have a number of institutions collecting digital and generative art, and hopefully the institution itself gets to take on some of that preservation role.
 
-[pool: Chromie Squiggle | Chromie Squiggle — Snowfro | | 1]
+[pool: Aux Arbes | Aux Arbes — Zancan | | 1]
 
 Trinity: Do you see that playing out differently across core curated pieces -- which I assume will primarily be ETH L1 -- versus pieces an artist might just mint as part of their daily practice, which could exist on an L2, or another chain entirely, like Solana? Is the onus of preservation different for those different types of work?
 

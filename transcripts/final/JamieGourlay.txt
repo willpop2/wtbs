@@ -106,7 +106,7 @@ It's tricky because we're a really small team and can only do so much ourselves 
 
 But in terms of what artists should do -- fx(hash) does work, doesn't it? Great artists can release on fx(hash) and do well.
 
-[pool: Broken Printer | Broken Printer — Tabor Robak | | 1]
+[pool: Carbon Captures | Carbon Captures — Zancan | | 3]
 
 Will: It worked during the bull. You could do some napkin math on what they're making in fees a month and draw your own conclusions about the sustainability of that, along with others that opened and closed, or opened and moved slowly, on Ethereum. Even on L2s like Prohibition -- the one project Erik did there is like 95% of all the volume that platform has ever done. In 2023, with a few exceptions, someone selling out a project for 15 tez on fx(hash) is big news, and that means they probably made $100 or $200 off it. I don't know how the numbers add up unless the market comes back in a big way.
 
@@ -120,7 +120,7 @@ Will: A lot of people have been gone for a year plus, even though they have thei
 
 Jamie Gourlay: You asked what the process is for someone new. But if you're an emerging artist who's never released work before, the fact that you can't do a release and make $40 grand doesn't strike me as a massive problem. I think it's okay to start with a small release that maybe won't get picked up on by too many people. If it's good, people talk about it, and eventually that artist starts to get more recognized. Is it really a problem that it's hard for artists to become an overnight success and make millions?
 
-[pool: Broken Printer | Broken Printer — Tabor Robak | | 1]
+[pool: Ringers | Ringers — Dmitri Cherniak | | 3]
 
 Will: I don't think it's necessarily a problem -- I'm speaking more to what happens for a curated platform if there's no next batch of artists. Are you just going to keep selling Mapan? What if he has another kid and quits art? It's such a small number of artists viable right now that if half of them left for the trad art world, you'd need people coming up to fill those places.
 
@@ -134,7 +134,7 @@ Jamie Gourlay: Sure, it's a shame they might miss out on some sales, but I don't
 
 Will: Candidly, they need to figure out a way to give artists who started there a reason to come back. I don't know what that is -- maybe it's money, literally "here's ten grand plus you get to do your drop." Or maybe they just need to wait till the end of 2024, let all this meme coin stuff shift, and hope everything rotates back into art -- which would help all the platforms, not just fx(hash). It would help Verse and Art Blocks too.
 
-[pool: Broken Printer | Broken Printer — Tabor Robak | | 1]
+[pool: Chromie Squiggles | Chromie Squiggles — Snowfro | | 3]
 
 Trinity: The other thing that would help fx(hash) is that so much of the fx(hash) community is centered around the Tezos community. I saw a tweet a couple days ago that Tezos is at risk of falling outside the top 100 coins by market cap, so I wonder how tightly tied the two are together. Verse is protected -- not just from Tezos, but from the whole chain conversation -- by obfuscating chain to a great extent, which I think is really smart, at least in the current market. I think fx(hash) is working to pivot, with the integration of Ethereum and Base -- both smart moves, especially with Base being so hugely picked up on Farcaster. But I agree with you, Will, that getting that next influx of collectors, and artists looking to get in on that, is going to be big. fx(hash) got started because of the strong artist community that was also prevalent in Tezos, and I feel like that Tezos art community has been successful and is moving to Ethereum.
 
@@ -148,7 +148,7 @@ Jamie Gourlay: I've spoken with at least a couple of collectors who've said ther
 
 Trinity: I see a lot of things posted on fx(hash) that in a prior market would've been hugely flipped, five times the price, huge hype cycle—but we're seeing them not mint out now. I think it really comes down to having a large enough group of collectors willing to drive that market activity, because that fuels conversation, fuels ardor, fuels people wanting to talk more, collect more, pay more attention. I noticed in the announcement Verse put out yesterday, you added an activity feed to the website, trending art on the website—making it more market-focused. Is that partially to capture interest beyond the people sitting in your Discord all day?
 
-[pool: Broken Printer | Broken Printer — Tabor Robak | | 1]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 3]
 
 Jamie Gourlay: What Fellowship and NiceAntes have done is incredible—it's on everyone's lips, it's not going anywhere, it's genuinely famous. It feels safe to own. You see influencers on Twitter saying, "this is one of my top works for the next cycle," and so on. Getting *Verse* releases seen in that light is our job, because for the artist it puts them on the map, and for collectors it means they have something that isn't going anywhere—something they'll still be proud of years from now because it's still relevant. So the more we can do to increase the odds of that happening with releases on Verse, the better. That trending page is part of trying to make that happen.
 
@@ -216,7 +216,7 @@ Will: Where should we go from here, Trinity? We have to wrap it soon because my 
 
 Trinity: We've covered a lot—open platforms versus closed platforms, different chains and cryptocurrencies. I don't know if this is the best place to end, but I did have a quick question. What's your take on the recent Art Blocks announcement? I think Art Blocks is one of your core competitors, at least in the closed-platform space that's releasing great stuff.
 
-[pool: Anticyclone | Anticyclone — William Mapan | | 1]
+[pool: Carbon Captures | Carbon Captures — Zancan | | 1]
 
 Jamie Gourlay: The tricky thing about the curated way of doing things is that it's pretty hard for a gallery to ever become a venture-scale business. We've taken VC funding, and I'm pretty sure they have too. Banking on Verse solo releases—sure, you can build a good business doing that, but probably not at venture scale. So we don't really have a choice but to figure out something more scalable in addition to our gallery model, and I'm presuming they're seeing things similarly.
 
@@ -230,7 +230,7 @@ Jamie Gourlay: I'm really excited to see where Art Blocks and Enjin go with this
 
 I think there's going to be a lot more collaboration going forward. We've spoken with the Art Blocks/Enjin team, with Foundation, with Highlight—it's clear that the more eyes on a release, the better. If we can work with Art Blocks/Enjin, release something on Verse that also features on Foundation, that's a win for everyone, especially the artist. A year from now, I really hope it doesn't feel like we're competing for releases. I hope we're just seen as taking a fee for shining an extra light on a release, and if the partnering gallery feels we add value doing that, great—that's a win for everyone, and we're not taking anyone's lunch.
 
-[pool: Anticyclone | Anticyclone — William Mapan | | 1]
+[pool: Ringers | Ringers — Dmitri Cherniak | | 1]
 
 Actually, Trinity, I think it was your last episode before Christmas—you said something like it's frustrating having to keep up with Discord and Twitter just to know what's going on. That pain is real. We're hoping to be an aggregator for interesting projects, without charging crazy fees. Maybe we partner with a project powered by Highlight that's also showing up on Foundation, and we charge a little just for the feature. That's how I see things moving forward.
 
@@ -250,7 +250,7 @@ For Shettle's release a few weeks ago, we did an allowlist, which collectors rea
 
 Will: The obvious play is getting Zancan to make something, then setting up a "burn five *Carbon Captures* to redeem" mechanism. That could finally give all the *Carbon Captures* out there a reason to be used.
 
-[pool: Carbon Captures | Carbon Captures — Zancan | | 3]
+[pool: Carbon Captures | Carbon Captures — Zancan | | 1]
 
 Trinity: There aren't that many *Carbon Captures*, really—not compared to the Highlight drop. We thought *Carbon Captures* was big, but it's minuscule by comparison.
 
@@ -278,7 +278,7 @@ Will: All AI projects.
 
 Trinity: We didn't even get into that—how Verse has moved away from generative code toward AI.
 
-[pool: Carbon Captures | Carbon Captures — Zancan | | 1]
+[pool: Chromie Squiggles | Chromie Squiggles — Snowfro | | 1]
 
 Jamie Gourlay: I don't think we've moved away—Yazid's a generative artist.
 
@@ -292,7 +292,7 @@ Jamie Gourlay: Looking forward to it. Thanks so much for having me.
 
 Will: Thank you, Jamie—great to have you back. Really excited to chop it up about the market, about Verse, and everything you all are doing. We look forward to seeing what this community token turns into, if it happens—no guarantees or alpha implied there. Looking forward to more solo releases and everything else you bring this year. Keep it up.
 
-[pool: Carbon Captures | Carbon Captures — Zancan | | 1]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Jamie Gourlay: Awesome. Thank you so much.
 

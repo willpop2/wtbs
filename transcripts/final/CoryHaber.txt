@@ -142,7 +142,7 @@ Will: Special request only kind of thing. Gotcha. That's a pretty good end cap f
 
 Cory Haber: *Atmospheres* is an evolution of some of the concepts in *SOL*. *SOL* is exclusively a sunrise series — there's a horizon, reflections, all kinds of things — but I wanted to go a bit deeper and maybe a little more abstract. *Atmospheres* is more about skyscapes, with more emotional color palettes and a stronger sense of time of day. There's a lot of familiarity to *SOL*, but it's more painterly, with a slightly different emotional register.
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Will: I'm seeing some slightly darker vibes, though not all of them — but you could say the same about *SOL*, honestly. Not all of those feel like sunrise either; some sit on very dark backgrounds, and the sun isn't necessarily yellow. What's the origin story of the collaboration with Verse? How did this project end up on the platform, and what was it like working with the team?
 
@@ -186,7 +186,7 @@ Trinity: And that takes away a little of the beauty of that algorithmic space �
 
 Cory Haber: With *SOL*, I didn't even have a defined palette. I wanted to see how colors would mix on their own — I had a single palette of maybe less than 100 colors, and I'd randomly assign some number of those to form a working palette, then use those colors in a certain order for each stroke, just to see what would happen. That's what was cool about *SOL*. With *Atmospheres*, I can't be quite that wild with color — it's more controlled, but still not fully known, even to me. When you pick the same palette 100 times, the relative importance of each color isn't the same each time, so it leads to extremely different outputs. You could look at two outputs and swear they didn't come from the same palette — but they did. Hopefully that works out.
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Trinity: We've seen that approach from some of our favorite artists too — Anna Lucia does this with her color palettes, as does Melissa Wiederrecht. Sometimes that's how you grow a palette over time: you take away from it, add to it. It opens up a lot more flexibility in the space of outputs without being too rigidly defined — a nice middle ground.
 
@@ -330,7 +330,7 @@ Cory Haber: To go back to an earlier question—why work with one platform or an
 
 Will: All right, get in the DMs everyone if you don't like something Cory's made—he's literally begging for it.
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Trinity: I just hear "we need to be meaner."
 
@@ -344,7 +344,7 @@ Trinity: That's also part of that cyclical self-improvement cycle. Especially wi
 
 Cory Haber: Great point. Artists should also be the ones reaching out to ask for that feedback. Though—what an honor it would be to have no pieces from a collection on the secondary market. Doesn't that mean people value what they purchased, are holding it, and aren't interested in selling?
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Will: *SOL* is very close to that right now. I think there were only five listed when I checked on Foundation.
 
@@ -358,7 +358,7 @@ Will: Cory, as we wrap up, do you want to turn the tables? Any question you want
 
 Cory Haber: I'm honestly not that knowledgeable about this space. I'm curious about your take on the market—what you foresee happening in the next six months to five years.
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Trinity: That's a really long timeframe.
 
@@ -372,7 +372,7 @@ Will: Six months, high confidence—at least for the show, and for a lot of arti
 
 Trinity: I'd lean a little more bearish, at least until recently. We interviewed Seth from Bright Moments a week ago, and something he said really resonated with me: if something has happened once, died down, and then happened again, there's a good chance lightning will hit that tree a few more times. Within the NFT space, it wasn't one and done—it was one, kind of done, and then back for more. I think blockchain is only in the initial stages of adoption, and as its use becomes more normalized—whether through native cryptocurrencies or people just paying in USD that gets routed to a crypto wallet—we'll see whole new patterns of behavior emerge. I think we'll have way more people in this space in two years. Will it be as pump-and-dump and hyped as it is now? I don't know. But it's a new paradigm—that much I do know.
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Will: I'm hopeful the pump-and-dump, scammy stuff dies off. A lot of what's happening, particularly on the Ethereum side—royalty evasion, the race to the bottom among platforms, token-farming incentives with Blur—is quite possibly killing that entire genre of project, or at least making it so only the real projects persist. Which is good. That stuff is toxic, and it contributes to the challenge of legitimizing this technology as a way to convey, own, and experience art. So I'm all for it dying, even if our bags take a hit as a secondary effect in the short term.
 
@@ -386,7 +386,7 @@ Cory Haber: I approach it the way I approach code or plotters—it's a tool to e
 
 Trinity: As art proliferates and more people enter the space—generative, A.I., any type of art—what makes art good? That ties back to our question about critique.
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Will: Simple rapid-fire question there.
 
@@ -400,7 +400,7 @@ Cory Haber: Positive or negative. Does it make you angry? Then maybe that's good
 
 Trinity: What if it makes you bored?
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Cory Haber: Well, that's probably not good.
 
@@ -414,7 +414,7 @@ Will: Cory, as we wrap the episode—other than TENDER, other than Verse, other 
 
 Cory Haber: Well, I mentioned Adam from TENDER earlier—that's all I'll say about that. I really want to spend time plotting, thinking of new ideas, new materials, maybe not just paint. What I love is building this big plotter, working at scale, and seeing what I can do with it—that's something I'm longing for now. I started out doing plotter work, met people who asked, "Plotters? Where's your long-form generative work?" So I moved toward long-form generative, and now people ask, "Are you still doing plotter work?" I feel like I'm either ahead of some curve or behind it, never quite on it. But that's okay.
 
-[pool: SOL | SOL — Cory Haber | | 1]
+[pool: Atmospheres | Atmospheres — Cory Haber | | 1]
 
 Will: We're always looking for an artist to collaborate on a Waiting to Be Signed token, so that option's available to you too.
 

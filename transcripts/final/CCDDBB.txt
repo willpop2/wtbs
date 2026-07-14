@@ -190,7 +190,7 @@ CCDDBB (Claudio Dalla Bernardina): I want as many cycles as they'll give me.
 
 Will: Same. But I'm fearful after this one—it felt like a real dud of a cycle, to be honest. Anyway, unfortunately I'm the one with a hard out today, but we covered a lot of what I wanted to talk to you about. Before we go—anything else you want to plug? Sometimes we like to ask if there's any music or media you want to mention, anything for the listeners who made it this far to go check out.
 
-[pool: PlottableMess | PlottableMess — CCDDBB (Claudio Dalla Bernardina) | | 1]
+[pool: MountStALine | MountStALine — CCDDBB (Claudio Dalla Bernardina) | | 3]
 
 CCDDBB (Claudio Dalla Bernardina): Music is something I really love—I'm terrible at it, sadly. I have a piano, but the piano doesn't like me when I get close to it. I listen to all kinds of music every day, always looking for something new to fill my life. I hope my daughter grows up with a lot of music too—I play her something different every day, from classical to rap to reggae to progressive, whatever. But if I have to name someone I keep coming back to, it's Andrew Bird. Really one of a kind. There's also a band called Melte—a huge band, lots of people in it.
 
@@ -204,7 +204,7 @@ CCDDBB (Claudio Dalla Bernardina): Let's try to pack this down. The wallet proje
 
 Many artists did it, especially on type.art — the ASCII text platform on Tezos that doesn't exist anymore. Mario Klingemann was one of the people using it, if I remember right. And you could never really be sure who was publishing, since anyone with the seed phrase could say "I'm you" and there was no way to know otherwise.
 
-[pool: PlottableMess | PlottableMess — CCDDBB (Claudio Dalla Bernardina) | | 1]
+[pool: NoisyGardens | NoisyGardens — CCDDBB (Claudio Dalla Bernardina) | | 3]
 
 As soon as money started flowing into the wallet, people started botting it to steal it out — like the honeypot addresses you see on Ethereum. So it became harder and harder to mint from it, because to mint you needed to put money in, and the moment you did, somebody would drain it. It became basically inaccessible because of greed, which is a beautiful, interesting dynamic in itself.
 
@@ -218,7 +218,7 @@ More recently I made a project called *Grid*, using $art coins — which was pro
 
 Will: Very cool.
 
-[pool: PlottableMess | PlottableMess — CCDDBB (Claudio Dalla Bernardina) | | 1]
+[pool: FurryGradients | FurryGradients — CCDDBB (Claudio Dalla Bernardina) | | 1]
 
 CCDDBB (Claudio Dalla Bernardina): So that's the wallet story. I suggest everyone go dig into it — there's a lot of interesting stuff minted from it, and it's still a very peculiar, usable project. You can find the seed phrase, mint from it, and take part in that whole dynamic.
 

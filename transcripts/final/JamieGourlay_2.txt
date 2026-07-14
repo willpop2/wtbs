@@ -176,7 +176,7 @@ Trinity: It's not about hitting a specific rarity trait, like the black-and-whit
 
 Jamie Gourlay: I love how Melissa didn't make rarity a thing here. I don't think art should be about rarity—it should be about great work, about what you actually like.
 
-[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 3]
 
 Will: Well, with that in mind, do you want to talk about the Zancan piece a little more, or is that something we'll have to take out at the end if we do it?
 
@@ -250,7 +250,7 @@ Jamie Gourlay: That was actually a mistake.
 
 Will: Oh, okay.
 
-[pool: Carbon Capture | Carbon Capture — Zancan | | 1]
+[pool: Carbon Capture | Carbon Capture — Zancan | | 3]
 
 Jamie Gourlay: A scheduling mistake — we booked the wrong week with the gallery, and they couldn't push it back a week, couldn't push it back two weeks. I think we're going to have a bit of a breather after this one. It's been a lot.
 
@@ -444,7 +444,7 @@ Will: They're generative, but not code-based.
 
 Jamie Gourlay: Right.
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Friendship Bracelets | Friendship Bracelets — Alexis André | | 1]
 
 Trinity: Pre-rendered components, I'd say.
 
@@ -458,7 +458,7 @@ Jamie Gourlay: I felt like I couldn't buy it before we announced the show, so I 
 
 Will: I think you'd be in a lot more trouble if you'd tried to sell all those pieces for over $1,000 when they spiked. Looks like you haven't listed them at all, so if your time horizon for selling is long enough, I don't think it matters — it won't look like you're taking advantage of the specific information you have.
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Jamie Gourlay: Yeah, I sold one because I got hit by FTX and literally haven't had crypto since. Nat very kindly gave me a waitlist place for *Eucalyptus*, so I had to sell a Geode to pay for that. That's about it.
 
@@ -472,7 +472,7 @@ Will: That's very hopeful.
 
 Jamie Gourlay: Oh yeah, I'm definitely optimistic.
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Friendship Bracelets | Friendship Bracelets — Alexis André | | 1]
 
 Trinity: Something we've been asking recently — partly for future content, but also because we're genuinely curious — is there anybody you feel we should interview?
 
@@ -486,7 +486,7 @@ Jamie Gourlay: Or an artist who does digital work but doesn't do NFTs — that'd
 
 Will: Those are two types of people we do want on the show, but we're so focused on just making the show that we don't even know who to reach out to.
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Trinity: We'll have to go to more art shows and source some people there.
 
@@ -500,7 +500,7 @@ Jamie Gourlay: I agree.
 
 Trinity: Any questions for us?
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Carbon Capture | Carbon Capture — Zancan | | 1]
 
 Will: If you have any questions for us, let's do that and then wrap up.
 
@@ -514,7 +514,7 @@ My therapist has told me NFTs are evil. I didn't get into it with him — didn't
 
 Jamie Gourlay: Why does he feel they're evil?
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Friendship Bracelets | Friendship Bracelets — Alexis André | | 1]
 
 Trinity: I didn't ask, but "the epitome of evil" was the phrase, I think. I don't know if it's a speculation thing or an environmental thing, but there's a lot of misinformation out there, and a lot that needs to be done to change the perception of this world.
 
@@ -528,7 +528,7 @@ Trinity: But there's something to be said for the likes of fx(hash) growing the 
 
 Jamie Gourlay: Do you guys feel crypto native?
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
 
 Trinity: No. I believe in crypto — transacting on it is exhilarating, and I think about what it enables for the future of technology. But I'm not hardcore DeFi, bought-Bitcoin-at-$500 crypto native. I've only gotten into it in any real, meaningful way in the last year, year and a half.
 
@@ -542,7 +542,7 @@ Trinity: That's insane.
 
 Will: That's the thing — I mean, some people are working on this now, it sounds like, but—
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Garden, Monoliths | Garden, Monoliths — Zancan | | 1]
 
 Trinity: Obviously that's the risk, but think about the capabilities enabled by a wallet that follows you, rather than something very Web2, based off databases owned by other people.
 
@@ -556,7 +556,7 @@ Will: I get that, and I know people are working on social recovery protocols —
 
 Trinity: There's also a lot that can be done on the anti-fraud side. Credit card companies and banks can spot a fraudulent transaction from a mile away and flag it immediately. If you apply enough money and brainpower to this space, you could at least mitigate some of these issues proactively.
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Carbon Capture | Carbon Capture — Zancan | | 1]
 
 Will: You're talking about censoring transactions, Trinity. That's very anti the whole ethos.
 
@@ -570,7 +570,7 @@ Will: We're just going to sit here and keep watching it, with people like you bu
 
 Jamie Gourlay: The more feedback and guidance we can get, the better — we're guessing and making it up as we go along in a massive way. The more it feels like a team effort, the better it'll be for everyone, I hope.
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: Friendship Bracelets | Friendship Bracelets — Alexis André | | 1]
 
 Will: This is officially our longest interview ever, so I think we should wrap it up here.
 
@@ -584,7 +584,7 @@ Will: I'm gonna get back to work, Trinity's gonna get back to work, and thank yo
 
 Jamie Gourlay: Cheers, guys. Great to speak.
 
-[pool: Cosmic Ray | Cosmic Ray — Melissa Wiederrecht | | 1]
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
 
 Will: We'll be back again soon. Cheers. Later, Jamie.
 

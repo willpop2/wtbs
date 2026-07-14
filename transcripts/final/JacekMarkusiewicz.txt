@@ -22,7 +22,7 @@ That's when I started calling myself a creative coder. I worked at an architectu
 
 I also started working in the art world, initially as an external consultant and programmer for interactive installations and exhibitions for Polish artists. Slowly I began designing interactive installations myself. When I moved to San Sebastián about five years ago, I worked on public interactive installations here. That's how I gradually shifted from architecture, through creative coding, into more of an artistic practice.
 
-[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
 
 Trinity: So what about generative art specifically? How did you get into code-based art? It sounds like it was mostly practical application in your previous lives.
 
@@ -36,7 +36,7 @@ Will: I imagine your earliest work on HEN was curated editions, since Hic Et Nun
 
 Jacek Markusiewicz: It started with the emergence of fx(hash).
 
-[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
 
 Will: I'm curious — thinking about the themes in a lot of your work, did you avoid Ethereum for a while for environmental reasons? A lot of your work has environmental or conservation themes, and I know some artists stayed strictly on Tezos until Ethereum went proof-of-stake and its carbon footprint dropped.
 
@@ -50,7 +50,7 @@ Trinity: What we've been seeing recently is the consolidation of the Tezos gener
 
 Jacek Markusiewicz: It's based on Conway's Game of Life — the multiplication or death in cellular automata.
 
-[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
 
 Will: Popular theme.
 
@@ -64,7 +64,7 @@ Jacek Markusiewicz: I know. There was a certain coincidence — fx(hash) appeare
 
 Will: Given your background making generative things for the real world — algorithms that produce or help produce physical objects — and given that for the last two years you've been making a lot of generative art, have you thought about the future of generative design? Recently Tonic released a generative chair with the artist Luke Shannon, and we've seen generative clothing — there's actually a generative scarf in the fx(hash) queue right now. How do you think about generativeness applying to the real world moving forward? Do you think it'll become a bigger part of day-to-day life, and the things people own?
 
-[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
 
 Jacek Markusiewicz: Predicting is hard, especially about the future. I grew up alongside the evolution of the internet and the popularization of personal computers. To me, digital presence was always something that might be part of my real presence, but it never fully overlapped with my personality. I have a feeling that today, online presence is gaining a lot of importance — the way I treat mine, I always publish things I honestly want people to see me through. But for generations younger than me, this online presence has become so important that it's become real — as real as physical presence.
 
@@ -78,7 +78,7 @@ Trinity: There's something interesting in what you said earlier — with generat
 
 Jacek Markusiewicz: So you're asking whether my artistic practice will contribute to my architectural work?
 
-[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
+[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
 
 Trinity: Or, if we're moving toward a place where we're not only projecting parts of ourselves into digital space, but also thinking beyond cost — because cost always pushes us toward consolidation and consistency — do you think there's space for more of that whimsical, artistic side to be projected into physical spaces or objects?
 
@@ -150,7 +150,7 @@ Jacek Markusiewicz: Of course.
 
 Will: Thematically, some of the themes you were speaking to with *Hollow* really carry over into your upcoming drop, *Barbarians*, which will be for sale on March 6th but has already been exhibited in London. You were just there last week, and there are some amazing images of the prints — it looks fantastic, and even more so at scale. Can you talk about the tie-in with *Hollow*? We also see thematic similarities to *Cantera*, your project with Bright Moments — the interplay of humans and ecology, the spaces we inhabit, the aforementioned paving over a mountain to create a road. What's the backstory on this piece, what were you going for, and how did it end up on Verse?
 
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
+[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
 
 Jacek Markusiewicz: The project started as a mental image, like most of my projects do. Within that image was this vision of archetypical architectural elements — my architectural background is always there, influencing my thinking. Massive columns, walls, arches, vaults. But in this vision, they wouldn't bear the weight of a building. They wouldn't be made of concrete or brick — they'd be made of stone and soil and dirt, shouldering the weight of a natural landscape.
 
@@ -186,7 +186,7 @@ Jacek Markusiewicz: This piece is going to be collector curated. We want to give
 
 It'll be really interesting feedback for me to see what people look for — whether they gravitate toward strong compositions, or zoom in on what's happening in the landscape between the vaults and columns, searching for the little church that sometimes appears next to a road, surrounded by little houses.
 
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
+[pool: Reborn | Reborn — Jacek Markusiewicz | | 3]
 
 Will: I look forward to playing with the generator and saving some seeds — that's always a fun part of this.
 
@@ -200,7 +200,7 @@ Will: I think that's very thoughtful, actually.
 
 Jacek Markusiewicz: I hope it alleviates your stress, Trinity.
 
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
+[pool: Reborn | Reborn — Jacek Markusiewicz | | 1]
 
 Trinity: Oh, definitely. But you should have been upfront about that — that's a really important nuance to the minting.
 
@@ -214,7 +214,7 @@ I know it's a cliché, but I'm focused on art. Creating it already comes with so
 
 Have I thought about minting on other blockchains? Not yet. All of this happened while I was working on this project, and when I'm working on something, there's no space in my brain for almost anything else — no space to think about other potential projects or plans for the future. I dedicate myself completely to what I'm doing until I'm too tired, or until I reach a moment so different from when I started that it's time to wrap it up — either throw it in the trash or get it out there. Hopefully the latter. Right now I'm in this pre-release moment, so I haven't thought about other ventures yet.
 
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
+[pool: Unbuilt | Unbuilt — Jacek Markusiewicz | | 1]
 
 Trinity: Everything you're describing with *Barbarians* feels like the culmination of such a long period of time, coming out of such a difficult stretch. We're really looking forward to seeing what happens next month. For listeners, we're recording this in the middle of February, so things might change — but whatever chain you release on in the future, and whoever you partner with, we'll be looking forward to it.
 
@@ -228,7 +228,7 @@ Jacek Markusiewicz: Nope. I have a secondary wallet somewhere on Tezos, but it's
 
 Will: What do you like to listen to while you code? Any recommendations for us, music-wise?
 
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
+[pool: Reborn | Reborn — Jacek Markusiewicz | | 1]
 
 Jacek Markusiewicz: While coding, absolutely nothing. As I said, when I'm working on a project, there's so little space in my head for anything else, and when I'm actually coding, my focus has to be at 100%. I can't do it any other way.
 
@@ -242,7 +242,7 @@ Trinity: Exactly. Moving on — similar question, but with art. What artists do 
 
 Jacek Markusiewicz: Metaphorically, I grew up on Tezos, so there are quite a few artists especially important to me — I always say it, it's never a mystery. Andreas Rau — I think he's my favorite generative artist. One of the first pieces I ever minted was *Loom*; I have it printed and signed by him, hanging on my wall.
 
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
+[pool: Unbuilt | Unbuilt — Jacek Markusiewicz | | 1]
 
 Should they only be generative artists?
 
@@ -256,7 +256,7 @@ Trinity: I saw his work at the Brooklyn Museum a couple of years ago. I didn't r
 
 Jacek Markusiewicz: The first time I saw his work live was at the Guggenheim Bilbao, near where I live. A few days ago I went to Tate Modern to see his new installation in the Turbine Hall — three enormous pieces, very impressive.
 
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
+[pool: Reborn | Reborn — Jacek Markusiewicz | | 1]
 
 Coming back to generative art — or maybe not generative per se, but web3-related art — there's a poet, Ana María Caballero, I wanted to mention. We also have a secret society on Twitter for architects who code. I think it'd be fun to do an interview with the group together.
 
@@ -270,7 +270,7 @@ Jacek Markusiewicz: That would be interesting — an architects' interview.
 
 Will: We're actually talking to some of them already — Erik, we're lining up an interview with you this year. We've been talking to Alejandro Campos on and off for a while too.
 
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]
+[pool: Hollow | Hollow — Jacek Markusiewicz | | 1]
 
 Trinity: It's becoming a bit of a meme that the best generative artists are Dutch and/or architects.
 
@@ -279,5 +279,3 @@ Will: I feel like this is a good place to stop. It's been awesome, Jacek, chatti
 Jacek Markusiewicz: I did. A lot.
 
 Will: Awesome. Let's wrap it up, then — everyone go check out *Barbarians* on Verse. It'll be for sale in March; the generator should be up sometime before then for everyone to start collecting their seeds. That's it for this one — thanks for listening, hope you enjoyed it. We'll be back soon with another episode. Big thanks to Jacek. Bye-bye.
-
-[pool: Barbarians | Barbarians — Jacek Markusiewicz | | 1]

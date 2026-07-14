@@ -212,7 +212,7 @@ But one of the most interesting aspects we haven't touched on is picking raritie
 
 If you want to get into game theory territory, there's that dynamic too — "no one else has minted one with a red background, I'm going to stake my claim on that." That's interesting for a different type of collector. Part of the interest in some of these projects, beyond the art itself, is the social dynamics: what people choose to do, why they make those decisions, and how those decisions impact the outcome.
 
-[pool: Sedimentary Dissolution | Sedimentary Dissolution — Landlines Art | | 1]
+[pool: Annum | Annum — Landlines Art | | 3]
 
 Will: We interviewed Ciphrd a couple weeks back and talked about that as part of the params feature announcement, and we've covered it in thought-experiment territory since — that's all we can really do until the feature releases. It's so interesting, and impossible to predict what will happen when it launches. We have so few data points — *QQL* and some of the Verse releases that allowed small amounts of control over outputs. Pretty exciting.
 
@@ -226,7 +226,7 @@ Landlines Art: I'd be happy to reissue them — it was entirely my mistake. I di
 
 Trinity: Sounds like a lot of work for *Akramat*. Not something you can just do a thousand-plus airdrop for.
 
-[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 1]
+[pool: QQL | QQL — Dandelion Wist Mane & Tyler Hobbs | | 3]
 
 Landlines Art: No, it's definitely something I'm going to rectify one way or another — I just want to do it the best way possible, which requires seeing the lay of the land. Now I'm actually curious to follow up on the idea I just spouted and see if it'd be possible to enforce that through fx and a smart contract, because that'd be pretty cool. Might be a ton of work, but either way, at minimum, if there's no other solution, re-releasing them is certainly a great way to go.
 
