@@ -1,4 +1,19 @@
 {% extends "base.html" %}
+{% block social %}
+<meta name="description" content="Interviews with the artists, collectors, and platform builders behind fx(hash), Art Blocks &amp; Verse — every conversation transcribed and set to read.">
+<link rel="canonical" href="{{ site_url }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Waiting To Be Signed">
+<meta property="og:title" content="Waiting To Be Signed — interviews on generative art">
+<meta property="og:description" content="Every interview with the artists, collectors &amp; builders behind on-chain generative art — transcribed and set to read.">
+<meta property="og:url" content="{{ site_url }}">
+{% if default_og %}<meta property="og:image" content="{{ default_og|e }}">{% endif %}
+<meta name="twitter:card" content="{{ 'summary_large_image' if default_og else 'summary' }}">
+<meta name="twitter:site" content="@waitingtosign">
+<meta name="twitter:title" content="Waiting To Be Signed — interviews on generative art">
+<meta name="twitter:description" content="Every interview with the artists, collectors &amp; builders behind on-chain generative art — transcribed and set to read.">
+{% if default_og %}<meta name="twitter:image" content="{{ default_og|e }}">{% endif %}
+{% endblock %}
 {% block content %}
 
 <header class="hero">
@@ -37,8 +52,17 @@
 <section class="arch" id="arch">
   <div class="head">
     <h2>Index of interviews</h2>
-    <input id="search" placeholder="SEARCH…" autocomplete="off">
-    <span class="c" id="count">{{ episodes|length }} entries // newest first</span>
+    <div class="controls">
+      <input id="search" placeholder="SEARCH…" autocomplete="off" aria-label="Search interviews">
+      <select id="sort" aria-label="Sort interviews">
+        <option value="new">↓ Newest</option>
+        <option value="old">↑ Oldest</option>
+        <option value="long">Longest</option>
+        <option value="short">Shortest</option>
+        <option value="az">A–Z</option>
+      </select>
+      <span class="c" id="count">{{ episodes|length }} entries</span>
+    </div>
   </div>
   <div class="filters" id="filters">
     <span class="chip on" data-val="all">All</span>
@@ -49,7 +73,8 @@
   <div class="rows" id="rows">
     {% for ep in episodes %}
     <a class="r" href="{{ ep.slug }}.html"
-       data-type="{{ ep.guest_type|lower }}" data-search="{{ ep.search|e }}">
+       data-type="{{ ep.guest_type|lower }}" data-search="{{ ep.search|e }}"
+       data-date="{{ ep.date_sort }}" data-dur="{{ ep.secs }}" data-name="{{ ep.guest|lower|e }}">
       <div class="i">{{ ep.num }}</div>
       <div class="nm">{{ ep.guest }}</div>
       <div class="tt">{{ ep.display_title }}</div>
@@ -80,11 +105,20 @@
     document.getElementById('surprise').click();
   });
 
-  // filters (single active facet) + search
-  var rows = Array.from(document.querySelectorAll('#rows .r'));
+  // filters (single active facet) + search + sort
+  var rowsEl = document.getElementById('rows');
+  var rows = Array.from(rowsEl.querySelectorAll('.r'));
   var chips = Array.from(document.querySelectorAll('.chip'));
-  var search = document.getElementById('search'), count = document.getElementById('count'), empty = document.getElementById('empty');
+  var search = document.getElementById('search'), sortSel = document.getElementById('sort');
+  var count = document.getElementById('count'), empty = document.getElementById('empty');
   var facet = 'all';
+  var SORTS = {
+    new:   function (a, b) { return b.dataset.date - a.dataset.date; },
+    old:   function (a, b) { return a.dataset.date - b.dataset.date; },
+    long:  function (a, b) { return b.dataset.dur - a.dataset.dur; },
+    short: function (a, b) { return a.dataset.dur - b.dataset.dur; },
+    az:    function (a, b) { return a.dataset.name.localeCompare(b.dataset.name); }
+  };
   function apply() {
     var q = search.value.trim().toLowerCase(), n = 0;
     rows.forEach(function (r) {
@@ -92,8 +126,12 @@
       var okQ = !q || r.dataset.search.indexOf(q) > -1;
       var show = okF && okQ; r.style.display = show ? '' : 'none'; if (show) n++;
     });
-    count.textContent = n + (n === 1 ? ' entry' : ' entries') + ' // newest first';
+    count.textContent = n + (n === 1 ? ' entry' : ' entries');
     empty.hidden = n > 0;
+  }
+  function sortRows() {
+    rows.slice().sort(SORTS[sortSel.value] || SORTS.new)
+        .forEach(function (r) { rowsEl.appendChild(r); });   // reorder DOM in place
   }
   chips.forEach(function (c) { c.addEventListener('click', function () {
     chips.forEach(function (x) { x.classList.remove('on'); }); c.classList.add('on');
@@ -101,10 +139,12 @@
     apply();
   });});
   search.addEventListener('input', apply);
+  sortSel.addEventListener('change', sortRows);
 
-  // cycle the archive quote
+  // cycle the archive quote (unless the visitor prefers reduced motion)
   var quotes = {{ quotes|tojson }};
-  if (quotes.length > 1) {
+  var reduceMotion = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (quotes.length > 1 && !reduceMotion) {
     var qi = 0, qt = document.getElementById('q'), qa = document.getElementById('qa');
     setInterval(function () {
       qi = (qi + 1) % quotes.length; var qq = quotes[qi];

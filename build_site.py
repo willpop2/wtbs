@@ -24,7 +24,9 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = Path(__file__).parent
 SITE = ROOT / "site"
+STATIC = ROOT / "static"             # favicons / share assets copied verbatim into site/
 CUSTOM_DOMAIN = "wtbs.show"          # GitHub Pages custom domain (canonical apex)
+SITE_URL = f"https://{CUSTOM_DOMAIN}/"
 CLEAN = ROOT / "transcripts" / "clean"
 FINAL = ROOT / "transcripts" / "final"
 RAW_ASR = ROOT / "transcripts" / "raw"
@@ -170,6 +172,52 @@ def load_changelog() -> dict:
     for slug in log:
         log[slug].sort(key=lambda e: e["date"], reverse=True)
     return log
+
+
+def _norm_handle(name: str) -> str:
+    """Group credits case-insensitively, ignoring a leading @ and extra spaces."""
+    return re.sub(r"\s+", " ", name.lstrip("@").strip()).lower()
+
+
+def build_contributors(changelog: dict, ep_by_slug: dict) -> tuple:
+    """Aggregate credited edits into a leaderboard. Only entries with a credit
+    count — the manual-accept step (an edit only lands in changelog.csv once
+    applied) is what makes this spam-proof: points accrue on accepted work only."""
+    people = {}
+    for slug, entries in changelog.items():
+        ep = ep_by_slug.get(slug, {})
+        for e in entries:
+            credit = (e.get("credit") or "").strip()
+            if not credit:
+                continue
+            key = _norm_handle(credit)
+            p = people.setdefault(key, {"name": credit.lstrip("@").strip(),
+                                        "count": 0, "eps": set(), "latest": "",
+                                        "contribs": []})
+            p["count"] += 1
+            if slug:
+                p["eps"].add(slug)
+            p["latest"] = max(p["latest"], e["date"])
+            p["contribs"].append({"slug": slug, "date": e["date"],
+                                  "summary": e["summary"], "num": ep.get("num", ""),
+                                  "guest": ep.get("guest", slug)})
+    board = list(people.values())
+    for p in board:
+        p["episodes"] = len(p["eps"])
+        p["contribs"].sort(key=lambda c: c["date"], reverse=True)
+    # count desc, then most-recent edit, then name — via stable multi-pass sort
+    board.sort(key=lambda p: p["name"].lower())
+    board.sort(key=lambda p: p["latest"], reverse=True)
+    board.sort(key=lambda p: p["count"], reverse=True)
+    for i, p in enumerate(board):
+        p["rank"] = i + 1
+    recent = sorted(
+        ({"credit": p["name"], **c} for p in board for c in p["contribs"]),
+        key=lambda c: c["date"], reverse=True)[:15]
+    stats = {"editors": len(board), "edits": sum(p["count"] for p in board),
+             "episodes": len({c["slug"] for c in recent for c in [c] if c["slug"]}
+                             | {s for p in board for s in p["eps"]})}
+    return board, recent, stats
 
 
 def load_curated() -> dict:
@@ -321,6 +369,19 @@ def build_pools(slug: str, sample: int = 40) -> dict:
     return out
 
 
+def og_image(slug: str) -> str:
+    """A deterministic art thumbnail for share cards: the first piece of the first
+    populated work in the episode's snapshot pool (empty string if none)."""
+    pf = POOLS_DIR / f"{slug}.json"
+    if not pf.exists():
+        return ""
+    data = json.loads(pf.read_text(encoding="utf-8"))
+    for items in data.get("works", {}).values():
+        if items and items[0].get("img"):
+            return items[0]["img"]
+    return ""
+
+
 def render_pool(m) -> str:
     work = m.group(1).strip()
     caption = (m.group(2) or "").strip()
@@ -403,10 +464,12 @@ def main() -> None:
             "date_str": f"{dt:%B} {dt.day}, {dt.year}" if dt else "",
             "date_short": f"{dt:%b %Y}".upper() if dt else "",
             "year": dt.year if dt else 0, "date_sort": dt.timestamp() if dt else 0,
-            "duration": hm(m.get("secs", 0)), "role": role, "platform": platform,
+            "duration": hm(m.get("secs", 0)), "secs": m.get("secs", 0),
+            "role": role, "platform": platform,
             "platform_key": PLATFORM_KEY.get(platform, "other"),
             "guest_type": gtype, "is_founder": role.startswith("Founder"),
             "summary": summary_from(m.get("description", "")),
+            "og_image": og_image(r["slug"]),
             "audio_src": m.get("audio_url") or f"../audio/{r['audio_file']}",
             "transcript_html": render_transcript(raw, r["slug"]),
             "raw_html": render_transcript(asr, r["slug"]) if asr else "",
@@ -447,18 +510,24 @@ def main() -> None:
     SITE.mkdir()
     shutil.copy(ROOT / "templates" / "style.css", SITE / "style.css")
     shutil.copy(ROOT / "templates" / "suggest.js", SITE / "suggest.js")
+    if STATIC.exists():                                   # favicons + share assets
+        for f in STATIC.iterdir():
+            if f.is_file():
+                shutil.copy(f, SITE / f.name)
     (SITE / "CNAME").write_text(CUSTOM_DOMAIN + "\n", encoding="utf-8")   # survives every rebuild
     if IMAGES.exists():
         shutil.copytree(IMAGES, SITE / "images")
     (SITE / "episodes.json").write_text(
         json.dumps([e["slug"] for e in episodes]), encoding="utf-8")
 
+    default_og = next((e["og_image"] for e in episodes if e["og_image"]), "")
     env.get_template("index.html").stream(
         root="", episodes=episodes, stats=stats, ticker=ticker, quotes=quotes,
-        show=SHOW).dump(str(SITE / "index.html"))
+        show=SHOW, site_url=SITE_URL, default_og=default_og).dump(str(SITE / "index.html"))
     for ep in episodes:
         env.get_template("episode.html").stream(
-            root="", ep=ep, show=SHOW, suggest_endpoint=SUGGEST_ENDPOINT).dump(
+            root="", ep=ep, show=SHOW, suggest_endpoint=SUGGEST_ENDPOINT,
+            site_url=SITE_URL, default_og=default_og).dump(
             str(SITE / f"{ep['slug']}.html"))
 
     print(f"Built {n} episode pages + ledger index into {SITE}/")

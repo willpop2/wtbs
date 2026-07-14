@@ -4,12 +4,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% block title %}Waiting To Be Signed{% endblock %}</title>
+<meta name="theme-color" content="#000000">
+<link rel="icon" href="{{ root }}favicon.svg" type="image/svg+xml">
+<link rel="icon" href="{{ root }}favicon-32.png" sizes="32x32" type="image/png">
+<link rel="alternate icon" href="{{ root }}favicon.ico">
+<link rel="apple-touch-icon" href="{{ root }}apple-touch-icon.png">
+{% block social %}{% endblock %}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,500;1,9..144,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ root }}style.css">
 </head>
 <body>
+<a class="skip" href="#main">Skip to content</a>
 <div class="note">Waiting To Be Signed · interviews on generative art, on-chain</div>
 <div class="wrap">
   <nav class="nav"><div class="in">
@@ -21,7 +28,7 @@
       <button class="sh" id="surprise">⚄ Surprise</button>
     </div>
   </div></nav>
-{% block content %}{% endblock %}
+<main id="main">{% block content %}{% endblock %}</main>
 </div>
 <footer>
   <span>Waiting To Be Signed</span>

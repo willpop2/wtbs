@@ -1,6 +1,32 @@
 {% extends "base.html" %}
 {% block title %}{{ ep.guest }} · Waiting To Be Signed{% endblock %}
+{% set og = ep.og_image or default_og %}
+{% set desc = ep.summary or (ep.guest ~ ' on generative and on-chain art — the full, readable interview transcript.') %}
+{% block social %}
+<meta name="description" content="{{ desc|e }}">
+<link rel="canonical" href="{{ site_url }}{{ ep.slug }}.html">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Waiting To Be Signed">
+<meta property="og:title" content="{{ ep.guest|e }} — {{ ep.display_title|e }}">
+<meta property="og:description" content="{{ desc|e }}">
+<meta property="og:url" content="{{ site_url }}{{ ep.slug }}.html">
+{% if og %}<meta property="og:image" content="{{ og|e }}">{% endif %}
+<meta name="twitter:card" content="{{ 'summary_large_image' if og else 'summary' }}">
+<meta name="twitter:site" content="@waitingtosign">
+<meta name="twitter:title" content="{{ ep.guest|e }} — {{ ep.display_title|e }}">
+<meta name="twitter:description" content="{{ desc|e }}">
+{% if og %}<meta name="twitter:image" content="{{ og|e }}">{% endif %}
+{% endblock %}
 {% block content %}
+<div class="progress" id="progress" aria-hidden="true"></div>
+<div class="miniplayer" id="miniplayer" aria-hidden="true">
+  <button class="mp-btn" id="mp-btn" type="button" aria-label="Play">▶</button>
+  <div class="mp-mid">
+    <div class="mp-t">#{{ ep.num }} · {{ ep.display_title }}</div>
+    <input class="mp-seek" id="mp-seek" type="range" min="0" max="1000" value="0" aria-label="Seek audio">
+  </div>
+  <div class="mp-time" id="mp-time">0:00</div>
+</div>
 <section class="read">
   <div class="meta">
     <a class="back" href="index.html#arch">← Index</a>
@@ -61,13 +87,45 @@
 
 {% block scripts %}
 <script>
-  // player
+  // audio: main player + sticky mini-player + reading-progress bar
   var audio = document.querySelector('.player audio');
   var pb = document.querySelector('.playbtn');
-  pb.addEventListener('click', function () {
-    if (audio.paused) { audio.play(); pb.textContent = '⏸'; } else { audio.pause(); pb.textContent = '▶'; }
+  var mini = document.getElementById('miniplayer');
+  var mpBtn = document.getElementById('mp-btn'), mpSeek = document.getElementById('mp-seek');
+  var mpTime = document.getElementById('mp-time');
+  function fmt(s) { s = Math.max(0, Math.floor(s || 0)); var m = Math.floor(s / 60), ss = s % 60; return m + ':' + (ss < 10 ? '0' : '') + ss; }
+  function icons() {
+    var g = audio.paused ? '▶' : '⏸'; pb.textContent = g;
+    mpBtn.textContent = g; mpBtn.setAttribute('aria-label', audio.paused ? 'Play' : 'Pause');
+  }
+  function toggle() { if (audio.paused) audio.play(); else audio.pause(); }
+  pb.addEventListener('click', toggle);
+  mpBtn.addEventListener('click', toggle);
+  ['play', 'pause', 'ended'].forEach(function (e) { audio.addEventListener(e, icons); });
+  var seeking = false;
+  audio.addEventListener('timeupdate', function () {
+    var d = isFinite(audio.duration) && audio.duration ? audio.duration : 0;
+    mpTime.textContent = fmt(audio.currentTime) + (d ? ' / ' + fmt(d) : '');
+    if (!seeking && d) mpSeek.value = Math.round(audio.currentTime / d * 1000);
   });
-  audio.addEventListener('ended', function () { pb.textContent = '▶'; });
+  mpSeek.addEventListener('input', function () {
+    seeking = true;
+    if (isFinite(audio.duration) && audio.duration) audio.currentTime = mpSeek.value / 1000 * audio.duration;
+  });
+  mpSeek.addEventListener('change', function () { seeking = false; });
+
+  // reading-progress bar + reveal the mini-player once the main player scrolls off
+  var prog = document.getElementById('progress');
+  var playerEl = document.querySelector('.player');
+  function onScroll() {
+    var h = document.documentElement, max = h.scrollHeight - h.clientHeight;
+    prog.style.width = (max > 0 ? (window.scrollY || h.scrollTop) / max * 100 : 0) + '%';
+    var off = playerEl.getBoundingClientRect().bottom < 0;
+    mini.classList.toggle('on', off);
+    mini.setAttribute('aria-hidden', off ? 'false' : 'true');
+  }
+  addEventListener('scroll', onScroll, { passive: true });
+  addEventListener('resize', onScroll); onScroll();
 
   // ARTICLE / RAW toggle
   var segBtns = Array.from(document.querySelectorAll('.seg button'));
