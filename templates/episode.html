@@ -115,16 +115,14 @@
           a.href = pick.s; a.target = '_blank'; a.rel = 'noopener'; a.appendChild(img); cell.appendChild(a);
         } else { cell.appendChild(img); }
         var live = pool.items ? pick.a : '';
-        if (live) {                   // generative: toggle a sandboxed live render over the still
-          var btn = document.createElement('button'), frame = null;
-          btn.type = 'button'; btn.className = 'ep-play'; btn.textContent = '▶'; btn.title = 'Play live';
-          btn.addEventListener('click', function () {
-            if (frame) { frame.remove(); frame = null; btn.textContent = '▶'; return; }
-            frame = document.createElement('iframe');
-            frame.src = live; frame.loading = 'lazy'; frame.className = 'ep-frame';
-            frame.setAttribute('sandbox', 'allow-scripts allow-same-origin');
-            cell.appendChild(frame); btn.textContent = '■';
-          });
+        if (live) {                   // "watch live" in a new tab — always the exact piece, never
+          // freezes the reading page. Raw ipfs artifacts aren't seeded (would render a random
+          // output), so for those open the token page, which shows the correct animated piece.
+          var target = live.indexOf('ipfs.io') < 0 ? live : (pick.s || live);
+          var btn = document.createElement('a');
+          btn.className = 'ep-play'; btn.textContent = '▶'; btn.title = 'Watch live';
+          btn.setAttribute('aria-label', 'Watch live'); btn.href = target;
+          btn.target = '_blank'; btn.rel = 'noopener';
           cell.appendChild(btn);
         }
         if (fc) fig.insertBefore(cell, fc); else fig.appendChild(cell);
