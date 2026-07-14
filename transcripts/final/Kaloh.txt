@@ -116,7 +116,7 @@ Kaloh: Definitely, and you can see the progress in his work — it's evolved a l
 
 Trinity: For me, one artist who's done so well despite not releasing much is Erik Swahn — *Disegnatori*, *Farbteiler*, and *Retrogrades*. Just three projects, and nothing new this year at all, yet they all maintain healthy floors. *Disegnatori* had a big sweep earlier this week — the floor doubled through the efforts of one person. That's a project being held up by its collectors more than anything.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 3]
+[pool: Disegnatori | Disegnatori — Erik Swahn | | 3]
 
 Kaloh: Totally agree. I wonder if he'll release something soon.
 
@@ -130,7 +130,7 @@ But the token and the DAO -- those are very important for keeping the community 
 
 I was hearing Ciphrd on a Twitter Space -- it's amazing what they're releasing. I hope they can stick to their timeline. It's very optimistic, but they've been delivering time after time, so I'm sure they have the right people for it. If they can stick to it, in a couple of months this becomes a very solid platform all around -- top five in the whole NFT ecosystem, compared to any other chain.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+[pool: Disegnatori | Disegnatori — Erik Swahn | | 1]
 
 Trinity: That's high praise. I don't have as much experience with other NFT platforms, but from everything I've experienced on fx(hash) and Tezos, it is, in my opinion, de facto the best -- usability, community, the way it's structured. It's well suited to the excitement, the hype, and to enabling people to keep driving the market.
 
@@ -144,7 +144,7 @@ Kaloh: But will you still be able to trade the old tokens? I think from a viewin
 
 Trinity: I'm not sure why it needs to work that way, unless it's just a way of marking status -- "this is an OG project." I think the bigger concern is that you won't be able to mint any unminted beta projects anymore. Whatever's left unminted gets burned, and that set remains fixed as is. If anything, that'll help -- it'll naturally drive up the prices of projects that haven't sold out, since it makes them a smaller set.
 
-[pool: Farbteiler | Farbteiler — Erik Swahn | | 1]
+[pool: Disegnatori | Disegnatori — Erik Swahn | | 1]
 
 Will: There's also a lot of new features coming with the new contract -- multiple artists or wallets listed on a single project, so collaborative contracts, or built-in Dutch auctions so you don't have to manually manage the pricing. So there are quality-of-life reasons too: maybe I want to do a Dutch auction, but I don't want to babysit my drop for two hours adjusting the price.
 
@@ -154,7 +154,7 @@ Trinity: Well, technically you are an artist.
 
 Will: And your Twitter following is way bigger than ours, so you should definitely run that poll and get some real data. It's interesting that you buy into the narrative that beta projects -- which will be labeled genesis tokens -- could have higher value. Right now a lot of the collector community is focused on the first 20 projects on the platform: the *Logos*, *RGBs*, *Weave*, all the way to number 20, *Chromatic Dazzle* by W. Blythe. Do you think the further back in history we go, the more asymmetry we'll see -- some projects sufficiently early to be grails, some grails purely on status and quality, like Zancan or Waiting in Afton or *Loom* -- and then everything else just becomes "cool that it's a beta piece, nice piece of history," while only 10 or 20 projects actually matter?
 
-[pool: Loom | Loom — Anna Lucia | | 3]
+[pool: Logos | Logos — Fxhash | | 3]
 
 Kaloh: Tough question. I think it was Gary Vee -- the influencer, very vocal about NFTs -- who said probably 5% of NFTs will have value in the future, but only 1% will be really valuable. He also says that's probably very optimistic. I think that applies to fx(hash) and to NFTs generally, somewhere around those two numbers. We have, what, 40,000 or 50,000 collections at this point? It's impossible for anywhere near half of that to retain value -- there's just too much supply. I'd say maybe 0.5% of fx(hash) will have value in the future.
 
@@ -168,7 +168,7 @@ Trinity: Those numbers roughly line up -- there are about 150, maybe 200 project
 
 Kaloh: And as there's more supply, there will be more valuable collections in absolute terms -- that's just how it works -- but it gets harder for the percentage to hold. We need more collectors, more users, for that. Still, 1% or 5% of this is a lot. As a collector, maybe your goal is to try to find the projects that will land in that 1%. Look at a piece or a collection and ask yourself: is this going to be in the top 1% of fx(hash) ten years from now?
 
-[pool: Loom | Loom — Anna Lucia | | 1]
+[pool: Logos | Logos — Fxhash | | 1]
 
 Will: I wish I'd studied art in college so I'd have some real basis for making that assessment. That's one of the challenges we often run into on the show -- there are things that appeal to us, and there are things we know influencers say are good, and I think a large portion of the community is genuinely at a loss for how to appraise art in that sense. Anything that's actually valuable in 10, 20, 50 years is probably also going to be judged by the standards of the larger art community -- unless this space completely cleaves off and crypto becomes its own outsider community making its own rules.
 
@@ -182,7 +182,7 @@ Will: I know you're embarking on this adventure in March of writing about an art
 
 Kaloh: I'm running this challenge — thirty NFT artists for thirty days. I'll be writing an article each day, nothing too long. I want them to be short reads you can take five minutes to look at in the morning and discover new artists. It'll be a mix of interview and me talking a bit about their art, and I'm planning to ask them questions like: what do you consider to be good generative art, and where should other artists and collectors look for resources to get more educated in this field?
 
-[pool: Loom | Loom — Anna Lucia | | 1]
+[pool: Logos | Logos — Fxhash | | 1]
 
 I'm looking forward to it — trying to showcase artists who maybe aren't getting noticed yet, and learning from them and their process along the way. Hopefully people will enjoy it. It'll be on my newsletter, kaloh.xyz.
 
@@ -196,4 +196,4 @@ Will: It's great to have you on to talk about the market, something we all love.
 
 Trinity: All right, thanks, Will.
 
-[pool: Loom | Loom — Anna Lucia | | 1]
+[pool: Logos | Logos — Fxhash | | 1]

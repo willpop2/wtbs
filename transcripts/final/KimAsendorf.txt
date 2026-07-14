@@ -16,7 +16,7 @@ Then, on a conceptual level, the pixel is the basic element of a raster image, a
 
 Trinity: When we were prepping for this episode and speaking to some artists, so many of them cited you as an inspiration, not only for your history within the space and being one of the OGs, but also because they see something so unique stylistically in your work. Punevyr, an artist we love and have had on the show before, wanted us to ask you: how did *Reading a Book* end up on fx(hash)? Because we know it as an Art Blocks piece, but he mentioned there's a fun story behind an fx(hash) version too.
 
-[pool: Reading a Book | Reading a Book — Kim Asendorf | | 3]
+[pool: Reading a Book | Reading a Book — Kim Asendorf | | 1]
 
 Kim Asendorf: *Reading a Book* was submitted to Art Blocks in, I think, April 2021. It's a project I'm very proud of. It's probably my most conceptual piece, where I used a neural network to create the visuals. Screens are simulated 3D objects in the work, showing text extracted from a book, mostly manipulated through a generative grammar, so it creates random sentences, which then get imported into the neural network to translate the text into an image. It's one of those works I'm most proud of.
 
@@ -26,7 +26,7 @@ Trinity: That's amazing, and it must be so nice to see the reception change over
 
 Will: Since you mentioned Art Blocks, I did want to ask about the differences in your process between working on fx(hash) versus Art Blocks. I know *Cargo*, more recently, was an Art Blocks piece. What is it like adjusting your work to fit the specifications and requirements of a given platform? I'd assume it's not one-size-fits-all — that you have to consider file size and technology requirements when choosing where to debut a project.
 
-[pool: Cargo | Cargo — Kim Asendorf | | 3]
+[pool: Cargo | Cargo — Kim Asendorf | | 1]
 
 Kim Asendorf: It depends. First, I need an idea, and then I think about the right place to put it. Sometimes that decision happens quite late in the process, and sometimes it's clear from the start. With *Cargo*, for instance, it was clear from the beginning that I wanted to release it on Art Blocks, mostly because of the price range you can achieve there, and because I felt it was time to have a piece on the platform. I hadn't published anything there in a long time, and I wanted to bring something fresh.
 
@@ -36,7 +36,7 @@ With fx(hash), it's a bit different, since anyone can publish anything, so I fee
 
 Trinity: I feel like that's such an interesting distinction, and it aligns with what we've heard from other artists about their choice of platforms, especially the Art Blocks curation and price consideration. We wanted to ask about your background project, *Monogrids*, and its connection to your later work, *Blockendoos*. Could you tell us about the differences in process, and if you see them as connected? And why the jump into long-form generative art specifically, since I know your practice began, in some ways, more focused on single, static outputs.
 
-[pool: Monogrid | Monogrid — Kim Asendorf | | 3]
+[pool: Monogrid | Monogrid — Kim Asendorf | | 1]
 
 Kim Asendorf: *Monogrids* was actually my first long-form generative project, and also my first smart contract, the first project I put on the blockchain myself, without a platform, basically hosted on my own website and with my own contract. The idea was to challenge myself. I'd seen the first wave of these long-form projects on Art Blocks, and I wanted to see if I could do that too, to challenge myself in creating a system, an algorithm capable of endless iteration that still holds up, still creates good results throughout.
 

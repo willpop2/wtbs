@@ -18,7 +18,7 @@ Architecture is a practice with a nice balance between creativity and logic or o
 
 With coding specifically, I started by coding websites — HTML, PHP, a bit of JavaScript. It's always been connected to websites, which is important for explaining *Fantasia*, because I've realized over the last few months that what we're doing is actually web development rather than art in the visual-arts sense. That's what I'm trying to push with the project, and it comes directly from where I started in my coding journey.
 
-[pool: Fantasia | Fantasia — Alejandro Campos | | 3]
+[pool: Fantasia | Fantasia — Alejandro Campos | | 1]
 
 Will: Did you study coding as part of your formal education, or pick it up on your own afterward? And where does crypto come into the picture — were you early on Bitcoin or ETH? How did you find NFTs? They're controversial; most people don't like crypto or NFTs. What pushed you to get curious about the space?
 

@@ -264,7 +264,7 @@ Trinity: Next rapid-fire question: if you were stuck on a desert island for the 
 
 MonkAntony: That's an interesting question. I'd probably choose one of those infinitely animating pieces -- I'm naturally drawn to them anyway. On a desert island I wouldn't want to get bored, and I think it'd be really cool to have something that keeps evolving. Maybe something like *Toxy*, *Defrag* -- I really like the painterly ones, the version 3s. So maybe a *Toxy* version 3, a *Defrag* version 3. Or, pound for pound, my favorite collection on fx(hash) is Robert Hodgins' *Growth* version 2. Probably one of those.
 
-[pool: Defrag | Defrag — toxi | | 3]
+[pool: Defrag | Defrag — toxi | | 1]
 
 Trinity: We'll give you that, plus an infinitely powered digital display.
 
@@ -286,7 +286,7 @@ Will: Infinitely animating is cool. I'm tempted to say something like *Very Larg
 
 Trinity: There's *Toccata*.
 
-[pool: Toccata | Toccata — MonkAntony | | 3]
+[pool: Toccata | Toccata — MonkAntony | | 1]
 
 Will: *Toccata* could be a really nice one -- probably the right answer. The one I personally own isn't my favorite of the musical variations, but one that's right in that pocket, because it degrades. You'd want one that's on a weeks-long degrading process, so you have a nice way to keep track of time. I'll take *Toccata*.
 

@@ -34,7 +34,7 @@ Andreas Gysin: Disagreement is always interesting, and we always manage to resol
 
 Will: Building on that — what's the difference between something you make solo, under your own name, versus something that comes out as a collaboration? The projects we know you for, like *Towers* and *Device_1* from fx(hash) — were those entirely solo? Or are they collaborations in some way that people just don't know about?
 
-[pool: Towers | Towers — ertdfgcvb | | 3]
+[pool: Towers | Towers — ertdfgcvb | | 1]
 
 Andreas Gysin: No, those are solo pieces. Sidi is completely unaware of crypto art and NFTs — he's not on any social media, he lives in a very small village of 300 people with his family and his dog. That doesn't mean he's an outsider — he knows how everything works, and quite well. But these more ephemeral aspects don't interest him, and he's not very aware of them. I explained a few things to him when I first heard about the crypto art movement, the NFT scene. I started publishing things online, dropping a few pieces as an experiment — I was curious. I'd seen these things happening a few years ago and wanted to try. Before that I had a website where I published interactive or generative works that would run in a browser, just experiments I could throw online. So it felt natural to continue that kind of experimentation in this new context, with the difference that eventually some pieces could be sold. That was a real novelty for me, and for many of us. I just continued that attitude on my own. At a certain point I told Sidi, "Hey, look, I'm doing this thing." We have several things going on that aren't part of a collaboration, even professional projects — we have our own lives.
 
@@ -204,7 +204,7 @@ Trinity: The entire thing sounds very exciting. Will, was there anything else yo
 
 Will: Yes, a little. Continuing on motion — a lot of your work has it, and a lot of your physical pieces also have a sound and rhythm component, coming from these analog technologies. Related to your digital work, and *Device 1* in particular: did you ever consider adding an audio component? Watching the digits flow, there's so much rhythm to the way they move across the screen that you can almost hear it, if you're familiar with the sound of that type of technology. But the piece itself — unless there's an Easter egg I'm not aware of — has no audio. Is that something you've considered? Does audio add too much complexity, or is it just never satisfying in the way you'd want? It seems like such a natural extension.
 
-[pool: Device 1 | Device 1 — ertdfgcvb | | 3]
+[pool: Device 1 | Device 1 — ertdfgcvb | | 1]
 
 Andreas Gysin: It's very difficult for me, at least, to work with audio, to be honest. One of the first pieces I did with this split-flap idea, more or less, that you mentioned—these characters that don't just change to the proper one, but have to go through the whole list before they stop. This idea, which comes from my fascination with split-flap displays that we've used several times in our work, gives this whole movement and rhythm to *Device 1* and most of my ASCII art pieces.
 

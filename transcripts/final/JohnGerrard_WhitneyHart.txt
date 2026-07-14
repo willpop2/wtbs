@@ -1,6 +1,6 @@
 John Gerrard: It was, I think, an evolution more than a revolution for me. I'd been thinking about data for a very long time, and blockchain is fundamentally a data structure, so it felt like a natural extension of what I was already doing. When the opportunity came to tokenize *Western Flag*, it wasn't a huge conceptual leap since the work was already, at its core, a data object rendered in real time. What changed was the framing: suddenly this piece that lived on a screen in the desert, or in a gallery, could also live as a verifiable, ownable artifact on a public ledger. That felt like it closed a loop for me, connecting the world-building, data-driven nature of the simulation to a system that is itself entirely constructed from data.
 
-[pool: Western Flag | Western Flag — John Gerrard | | 3]
+[pool: Western Flag | Western Flag — John Gerrard | | 1]
 
 And donating it to LACMA was significant precisely because the institution had never handled an NFT before. They had to build the infrastructure, open a wallet, work out custody, all of it, in order to accept the piece. That, to me, was its own kind of public art moment. It forced a major institution to catch up with where the work already existed conceptually.
 
@@ -76,7 +76,7 @@ That's a fascinating history—about two years before the boom, and probably sim
 
 Will: It's so interesting because a lot of your work—maybe all of it—seems to carry themes of environmentalism. You seem very conscious of the world as it's changing: oil, emissions. I think even *crystalline work* speaks to this in its own way. For the longest time Ethereum was proof of work, and all of your pieces have included a carbon offset—or, back when it was proof of work, they included donations to environmental causes.
 
-[pool: crystalline work | crystalline work — John Gerrard | | 3]
+[pool: crystalline work | crystalline work — John Gerrard | | 1]
 
 But what was that conversation like, deciding to start tokenizing? I imagine that's a big barrier for a lot of people, even setting aside the emissions issue—crypto has such a bad reputation across the world. What was that decision like for you?
 
@@ -96,7 +96,7 @@ Trinity: That's such a cool thing to think about. Speaking of power—introducin
 
 John Gerrard: And not only that—*World Flag*, my last Art Blocks project, emerged from attending multiple UN climate change conferences, and asks: if we continue to gather in this national framework, is that an effective way to tackle climate change? Where are we, really, right now, having this conversation? What do these forums do to geography? What can blockchain achieve? What can cryptocurrencies achieve in relation to climate change?
 
-[pool: World Flag | World Flag — John Gerrard | | 3]
+[pool: World Flag | World Flag — John Gerrard | | 1]
 
 I'm soft-launching an endeavor for next summer called *Art.farm*, which addresses exactly these questions. Whitney, I have to talk about *crystalline work*—I'm getting completely off subject here.
 

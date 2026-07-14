@@ -6,7 +6,7 @@ Trinity: So what song requests do you have for us today? That's our first questi
 
 Will: Can we get an audio cut of *Very Large Array* that we can just drop in here at some point? The tones and drones.
 
-[pool: Very Large Array | Very Large Array — Leander Herzog | | 3]
+[pool: Very Large Array | Very Large Array — Leander Herzog | | 1]
 
 Leander Herzog: That would be nice. Always with a disclaimer -- some people don't like it, some do. I always love to hear it. Sometimes it goes horribly wrong, sometimes it works out.
 
@@ -100,7 +100,7 @@ I also had a bit of a crisis with generative art in general, because it was uncl
 
 Combine that with fx(hash), where you have something interactive with infinite potential, but you're limited to selling off single JPEGs, plus the lottery aspect—you mint something and don't know what comes out. That's risky and nerve-wracking for collectors. I saw that mostly as a problem, not as the fun that it is today. There are always two perspectives on it. My breakthrough came when I realized: all these variations aren't individual prints to sell—they're actually frames of an animation,
 
-[pool: Imi | Imi — Leander Herzog | | 3]
+[pool: Imi | Imi — Leander Herzog | | 1]
 
 Trinity: Right.
 
@@ -128,7 +128,7 @@ Leander Herzog: That's exactly right.
 
 Will: Since your tokens essentially run infinitely and you don't surface parameters, how do you decide edition sizes—like for *Returns* or *Very Large Array*?
 
-[pool: Returns | Returns — Leander Herzog | | 3]
+[pool: Returns | Returns — Leander Herzog | | 1]
 
 Leander Herzog: Honestly, I make random guesses based on what I see. I have no idea what I'm doing with editions, pricing, any of it. I look at what other people do, I talk to people, I ask collectors and curators what they think, and I try to find a way—but it's very random in the end. I've been lucky that all my drops have minted out, which probably means I could have gone higher with the editions—flippers make a lot of money that way, and a lot of people didn't get a piece on primary. But who knows. Honestly, it's just random guesses on my side.
 

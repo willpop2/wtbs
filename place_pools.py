@@ -9,6 +9,7 @@ existing img/pool markers first, so re-running re-places cleanly.
     python place_pools.py Nudoru Jeres
 """
 
+import csv
 import json
 import re
 import sys
@@ -21,8 +22,22 @@ MARKER = re.compile(r"^\s*\[(img|pool):.*\]\s*$")
 norm = lambda s: re.sub(r"[^a-z0-9]", "", (s or "").lower())
 MIN_GAP = 3       # min transcript turns between image slots (avoid clumping)
 MAX_GAP = 6       # after this many imageless turns, drop one from the most-recent work
-FIRST_COUNT = 3   # first placed image of a work -> triptych (show the generative range)
+FIRST_COUNT = 3   # first placed image of a STATIC work -> triptych (show the generative range)
 GAP_COUNT = 1     # gap-fillers -> a single image
+
+
+def _load_animated():
+    """(work, artist) pairs tagged animated — these always get a single, full-size slot
+    (never paired/trio) since they run live and need the space."""
+    s = set()
+    p = ROOT / "animated_works.csv"
+    if p.exists():
+        for r in csv.DictReader(p.open(encoding="utf-8")):
+            s.add((norm(r["work"]), norm(r.get("artist", ""))))
+    return s
+
+
+ANIMATED = _load_animated()
 
 
 def place(slug, min_gap=MIN_GAP, max_gap=MAX_GAP):
@@ -38,6 +53,8 @@ def place(slug, min_gap=MIN_GAP, max_gap=MAX_GAP):
 
     def marker(w, cnt):
         art = artists.get(w, "")
+        if (norm(w), norm(art)) in ANIMATED:   # animated works always solo (need the space)
+            cnt = 1
         cap = (f"{w} — {art}" if art else w).replace("|", "/").replace("]", ")")
         return f"[pool: {w} | {cap} | | {min(cnt, counts.get(w, 1))}]"
 
