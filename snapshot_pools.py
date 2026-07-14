@@ -165,9 +165,10 @@ def snapshot_work(base: str, contract: str, project=None, name_like=None) -> lis
             nm = n.get("name") or ""
             if name_like and name_like.lower() not in nm.lower():
                 continue
-            img = (n.get("image") or {}).get("cachedUrl") or (n.get("image") or {}).get("originalUrl")
-            if not img:
-                continue
+            im = n.get("image") or {}
+            img = im.get("cachedUrl") or im.get("pngUrl") or im.get("thumbnailUrl") or im.get("originalUrl")
+            if not img or "ipfs.io" in img or img.startswith(("ipfs://", "ar://")):
+                continue                       # skip pieces Alchemy hasn't cached (raw ipfs = flaky still)
             mm = re.search(r"#(\d+)", nm)                         # edition from the name
             edition = mm.group(1) if mm else (str(tid - lo) if lo is not None else str(tid))
             md = n.get("raw", {}).get("metadata", {}) or {}       # live/animated view if any
