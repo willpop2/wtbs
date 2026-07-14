@@ -283,6 +283,23 @@ def pool_manifest(slug: str) -> dict:
     return pools
 
 
+_anorm = lambda s: re.sub(r"[^a-z0-9]", "", (s or "").lower())
+
+
+def _load_animated() -> set:
+    """(work, artist) pairs the user tagged as animated (animated_works.csv). Only these
+    get a ▶ play control; everything else shows as a final static image."""
+    out = set()
+    p = ROOT / "animated_works.csv"
+    if p.exists():
+        for r in csv.DictReader(p.open(encoding="utf-8")):
+            out.add((_anorm(r["work"]), _anorm(r.get("artist", ""))))
+    return out
+
+
+ANIMATED = _load_animated()
+
+
 def build_pools(slug: str, sample: int = 40) -> dict:
     """Per-work pool for the page: Alchemy-snapshotted items (with owner) where
     available (pools/<slug>.json), else local image files. Remote pools are
@@ -295,7 +312,9 @@ def build_pools(slug: str, sample: int = 40) -> dict:
         items = remote.get("works", {}).get(work)
         if items:
             picks = items if len(items) <= sample else random.sample(items, sample)
-            out[work] = {"artist": remote.get("artists", {}).get(work, ""), "items": picks}
+            artist = remote.get("artists", {}).get(work, "")
+            out[work] = {"artist": artist, "items": picks,
+                         "anim": (_anorm(work), _anorm(artist)) in ANIMATED}
         elif work in local:
             out[work] = {"files": local[work]}
         # else: no snapshot pieces and no local files -> skip (nothing to show)

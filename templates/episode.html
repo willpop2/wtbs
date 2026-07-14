@@ -114,7 +114,7 @@
           var a = document.createElement('a');
           a.href = pick.s; a.target = '_blank'; a.rel = 'noopener'; a.appendChild(img); cell.appendChild(a);
         } else { cell.appendChild(img); }
-        var live = pool.items ? pick.a : '';
+        var live = (pool.anim && pool.items) ? (pick.a || '') : '';   // ▶ only on works tagged animated
         // Embed inline ONLY for seeded, embed-safe generators (render the exact token):
         // Art Blocks (generator.artblocks.io, seeded by token id) + fx(hash) gateway
         // (gateway.fxhash.xyz/…?fxhash=…). Raw ipfs artifacts load unseeded (random output)
