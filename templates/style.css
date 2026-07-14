@@ -182,12 +182,60 @@ footer a{text-decoration:underline}
 .suggest-status.err{color:#c00}
 .muted{opacity:.6}
 
+/* ---- tablet & mobile (<=900px) ---- */
 @media(max-width:900px){
-  .hero .bottom{grid-template-columns:1fr}.hero .bottom>div{border-right:none;border-bottom:3px solid var(--k)}
+  .wrap{padding:0 16px}
+
+  /* nav: compact; keep Index + Surprise, drop About + external X */
+  .nav .b{font-size:13px}
+  .nav .links a,.nav .sh{font-size:11px;padding:14px 12px}
+  .nav .links a[href*="about"],.nav .links a[href^="http"]{display:none}
+
+  /* hero + stats + quote: stack */
+  .hero h1{margin:18px 0}
+  .hero .bottom{grid-template-columns:1fr}
+  .hero .bottom>div{border-right:none;border-bottom:3px solid var(--k)}
+  .hero .bottom>div:last-child{border-bottom:none}
   .stats{grid-template-columns:1fr 1fr}
-  .quote{grid-template-columns:1fr}.quote .tag{border-right:none;border-bottom:3px solid var(--k)}
-  .read{grid-template-columns:1fr}.read .meta{border-right:none;border-bottom:3px solid var(--k)}
-  .rows .r{grid-template-columns:50px 1fr 40px}.rows .tt,.rows .ty,.rows .du{display:none}
+  .stats>div:nth-child(2n){border-right:none}
+  .stats>div:nth-child(-n+2){border-bottom:3px solid var(--k)}
+  .quote{grid-template-columns:1fr}
+  .quote .tag{border-right:none;border-bottom:3px solid var(--k)}
+
+  /* index head: search goes full-width on its own line */
+  .arch .head input{flex:1 1 100%;order:3}
+
+  /* index rows -> stacked cards (fix: single-class hides lose to .rows .r>div) */
+  .rows .r{display:block;position:relative;padding:15px 16px}
+  .rows .r>div{border-right:none;padding:0}
+  .rows .r .i{position:absolute;top:15px;right:16px;opacity:.45}
+  .rows .r .nm{display:block;font-size:20px;padding-left:0;padding-right:42px}
+  .rows .r .tt{display:block;font-size:16px;margin-top:3px}
+  .rows .r .ty,.rows .r .du{display:inline-block;font-size:11px;opacity:.55;margin-top:9px}
+  .rows .r .du{margin-left:6px}
+  .rows .r .du::before{content:"· "}
+  .rows .r .go{display:none}
+
+  /* episode read: stack, tighter gutters */
+  .read{grid-template-columns:1fr}
+  .read .meta{border-right:none;border-bottom:3px solid var(--k);padding:22px 16px}
+  .read .meta h2{font-size:32px}
+  .read .doc{padding:22px 16px 48px}
+
+  /* player: give the title room — duration + MP3 already sit in the meta above */
+  .player .pl-r,.player a.dl{display:none}
+
+  /* figures never exceed the viewport */
+  .ep-figure{max-width:100%}
   .ep-multi[data-count]{grid-template-columns:repeat(2,1fr);max-width:100%}
-  .nav .links a:not(:last-child){display:none}
+}
+
+/* ---- phones (<=560px) ---- */
+@media(max-width:560px){
+  .wrap{padding:0 12px}
+  .note{padding:8px 12px;font-size:11px}
+  footer{padding:16px 12px}
+  .stats .n{font-size:40px}
+  .body{font-size:17px}
+  .ep-multi[data-count]{grid-template-columns:1fr}   /* one image per row on phones */
 }
