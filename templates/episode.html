@@ -17,6 +17,18 @@
 <meta name="twitter:description" content="{{ desc|e }}">
 {% if og %}<meta name="twitter:image" content="{{ og|e }}">{% endif %}
 {% endblock %}
+
+{% set share_url = site_url ~ ep.slug ~ '.html' %}
+{% set share_text = ep.guest ~ ' — ' ~ ep.display_title %}
+{% macro sharebar(lead, url, text) %}
+<div class="share" data-url="{{ url|e }}" data-text="{{ text|e }}">
+  <span class="share-lbl">{{ lead }}</span>
+  <a class="share-b" href="https://twitter.com/intent/tweet?text={{ text|urlencode }}&url={{ url|urlencode }}&via=waitingtosign" target="_blank" rel="noopener" aria-label="Share on X">X</a>
+  <a class="share-b" href="https://warpcast.com/~/compose?text={{ text|urlencode }}&embeds[]={{ url|urlencode }}" target="_blank" rel="noopener" aria-label="Share on Farcaster">Farcaster</a>
+  <button class="share-b share-copy" type="button">Copy link</button>
+  <button class="share-b share-native" type="button" hidden>Share ↗</button>
+</div>
+{% endmacro %}
 {% block content %}
 <div class="progress" id="progress" aria-hidden="true"></div>
 <div class="miniplayer" id="miniplayer" aria-hidden="true">
@@ -57,6 +69,8 @@
       <a class="dl" href="{{ ep.audio_src }}" download>MP3 ↓</a>
     </div>
 
+    {{ sharebar('Share', share_url, share_text) }}
+
     <div class="seg">
       <button class="on" data-body="article">Article</button>
       {% if ep.raw_html %}<button data-body="raw">Raw transcript</button>{% endif %}
@@ -72,6 +86,8 @@
       {{ ep.raw_html }}
     </div>
     {% endif %}
+
+    {{ sharebar('Enjoyed it? Share', share_url, share_text) }}
 
     <section class="changelog">
       <h3>Change log{% if ep.edit_count %} <span class="cl-n">// {{ ep.edit_count }} edit{{ 's' if ep.edit_count != 1 }}</span>{% endif %}</h3>
@@ -126,6 +142,31 @@
   }
   addEventListener('scroll', onScroll, { passive: true });
   addEventListener('resize', onScroll); onScroll();
+
+  // share bars: Copy link + native share sheet (X / Farcaster are plain links)
+  document.querySelectorAll('.share').forEach(function (box) {
+    var url = box.dataset.url, text = box.dataset.text;
+    var copy = box.querySelector('.share-copy');
+    copy.addEventListener('click', function () {
+      var flash = function () {
+        copy.textContent = 'Copied ✓'; copy.classList.add('copied');
+        setTimeout(function () { copy.textContent = 'Copy link'; copy.classList.remove('copied'); }, 1600);
+      };
+      if (navigator.clipboard) { navigator.clipboard.writeText(url).then(flash).catch(fallback); }
+      else fallback();
+      function fallback() {
+        var t = document.createElement('input'); t.value = url; document.body.appendChild(t);
+        t.select(); try { document.execCommand('copy'); } catch (e) {} t.remove(); flash();
+      }
+    });
+    var nat = box.querySelector('.share-native');
+    if (navigator.share) {
+      nat.hidden = false;
+      nat.addEventListener('click', function () {
+        navigator.share({ title: text, text: text, url: url }).catch(function () {});
+      });
+    }
+  });
 
   // ARTICLE / RAW toggle
   var segBtns = Array.from(document.querySelectorAll('.seg button'));
