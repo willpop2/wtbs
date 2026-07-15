@@ -142,20 +142,33 @@
       c.beginPath();c.ellipse(rr*0.9,0,rr*0.85,rr*0.5,0,0,7);c.fillStyle=color;c.fill();c.strokeStyle=INK;c.lineWidth=0.6;c.stroke();c.restore();}
     c.beginPath();c.arc(x,y,rr*0.55,0,7);c.fillStyle=color===PINK?YELLOW:PINK;c.fill();c.strokeStyle=INK;c.lineWidth=0.6;c.stroke();
   }
-  function column(c,x,baseY,w,h,rnd){
-    var topY=baseY-h;
-    c.fillStyle=STONE;c.strokeStyle=INK;c.lineWidth=1.1;
-    c.beginPath();c.moveTo(x,baseY);c.lineTo(x,topY+w*0.5);
-    c.quadraticCurveTo(x,topY,x+w*0.5,topY);c.quadraticCurveTo(x+w,topY,x+w,topY+w*0.5);
-    c.lineTo(x+w,baseY);c.closePath();c.fill();c.stroke();
-    c.strokeStyle='rgba(34,36,28,0.26)';c.lineWidth=0.7;
-    for(var yy=topY+w*0.7;yy<baseY;yy+=7+rnd()*7){c.beginPath();c.moveTo(x,yy);c.lineTo(x+w,yy);c.stroke();}
+  function hatch(c,x,y,w,h,ink){c.save();c.beginPath();c.rect(x,y,w,h);c.clip();c.strokeStyle=ink;c.lineWidth=0.55;
+    for(var i=-h;i<w+h;i+=3){c.beginPath();c.moveTo(x+i,y+h+2);c.lineTo(x+i+h,y-2);c.stroke();}c.restore();}
+  function drawStone(c,x,y,w,h,rnd){                               // one masonry block: top face + front + shading
+    var dep=Math.min(w*0.34,8),dy=dep*0.55,t=rnd(),face=t<0.05?PINK_T:t<0.10?YELLOW_T:STONE;
+    c.beginPath();c.moveTo(x,y);c.lineTo(x+w,y);c.lineTo(x+w-dep,y-dy);c.lineTo(x-dep,y-dy);c.closePath();
+    c.fillStyle='#efeadb';c.fill();c.strokeStyle=INK;c.lineWidth=0.9;c.stroke();
+    var b1=(rnd()-0.5)*h*0.14,b2=(rnd()-0.5)*h*0.14;
+    c.beginPath();c.moveTo(x,y);c.lineTo(x+w,y);c.lineTo(x+w,y+h+b2);c.lineTo(x,y+h+b1);c.closePath();
+    c.fillStyle=face;c.fill();c.stroke();
+    hatch(c,x+w*0.58,y,w*0.42,h,'rgba(34,36,28,0.30)');            // shaded side
+    if(rnd()<0.5){c.strokeStyle='rgba(34,36,28,0.33)';c.lineWidth=0.55;c.beginPath();c.moveTo(x+w*0.2,y+h*0.4);c.lineTo(x+w*0.4,y+h*0.7);c.stroke();}
   }
-  function rock(c,x,y,r,rnd){
-    var n=3+Math.floor(rnd()*3);
-    for(var i=0;i<n;i++){var rr=r*(0.5+rnd()*0.6),ox=(rnd()-0.5)*r,oy=(rnd()-0.5)*r*0.4,tt=rnd();
-      c.beginPath();c.ellipse(x+ox,y+oy,rr,rr*0.72,(rnd()-0.5),0,7);
-      c.fillStyle=tt<0.07?PINK_T:tt<0.14?YELLOW_T:STONE;c.fill();c.strokeStyle=INK;c.lineWidth=0.9;c.stroke();}
+  function column(c,x,baseY,w,h,rnd){                              // stacked cairn of blocks, tapering up
+    var cx=x+w/2,y=baseY,bw=w,top=baseY-h;
+    while(y>top){var bh=Math.max(9,bw*(0.45+rnd()*0.4));drawStone(c,cx-bw/2+(rnd()-0.5)*w*0.12,y-bh,bw,bh,rnd);
+      y-=bh-1;bw*=0.9+rnd()*0.06;if(bw<w*0.42)break;}
+  }
+  function pebble(c,x,y,r,rnd){                                    // one irregular cobble w/ crack
+    var v=7+Math.floor(rnd()*4);c.beginPath();
+    for(var i=0;i<v;i++){var a=i/v*6.283,rr=r*(0.72+rnd()*0.4),px=x+Math.cos(a)*rr,py=y+Math.sin(a)*rr*0.8;i?c.lineTo(px,py):c.moveTo(px,py);}
+    c.closePath();var t=rnd();c.fillStyle=t<0.06?PINK_T:t<0.12?YELLOW_T:STONE;c.fill();c.strokeStyle=INK;c.lineWidth=0.85;c.stroke();
+    c.strokeStyle='rgba(34,36,28,0.4)';c.lineWidth=0.55;c.beginPath();c.moveTo(x-r*0.45,y-r*0.05);c.quadraticCurveTo(x,y-r*0.5,x+r*0.4,y-r*0.12);c.stroke();
+  }
+  function rock(c,cx,baseY,r,rnd){                                 // packed mound of cobbles, back-to-front
+    var n=6+Math.floor(rnd()*7),mound=[];
+    for(var i=0;i<n;i++){var ox=(rnd()-0.5)*r*2.0;mound.push({x:cx+ox,y:baseY-rnd()*r*0.9-Math.abs(ox)*0.28,r:r*(0.38+rnd()*0.5)});}
+    mound.sort(function(a,b){return a.y-b.y;});mound.forEach(function(s){pebble(c,s.x,s.y,s.r,rnd);});
   }
   function field(cv,seed,scale){
     var rnd=mb(seed),d=Math.min(2,window.devicePixelRatio||1),r=cv.getBoundingClientRect();
