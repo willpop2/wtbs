@@ -134,7 +134,7 @@
       episode: cfg.episode, title: cfg.title, type: typeSel.value,
       original: sel.text, suggested: form.suggested.value.trim(), url: form.url.value.trim(),
       note: form.note.value.trim(), anchor_idx: sel.idx, context: sel.context,
-      name: name, email: email, page: location.pathname
+      name: name, email: email, page: location.pathname, website: form.website.value
     };
     if (!cfg.endpoint) {
       status.className = "suggest-status ok";

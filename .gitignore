@@ -1,5 +1,7 @@
 # Secrets — never commit
 .env
+.dev.vars
+worker/.dev.vars
 
 # Python
 .venv/
@@ -30,3 +32,4 @@ discovery/
 *.log
 MANUAL_IMAGES.md
 episodes_metadata.csv
+works_to_tag.csv

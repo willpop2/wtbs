@@ -93,7 +93,7 @@
       <h3>Change log{% if ep.edit_count %} <span class="cl-n">// {{ ep.edit_count }} edit{{ 's' if ep.edit_count != 1 }}</span>{% endif %}</h3>
       <ul>
         {% for c in ep.changelog %}
-        <li><span class="cl-date">{{ c.date or '—' }}</span><span class="cl-sum">{{ c.summary }}{% if c.credit %} <span class="cl-credit">— {{ c.credit }}</span>{% endif %}</span></li>
+        <li><span class="cl-date">{{ (c.date or '—')|e }}</span><span class="cl-sum">{{ c.summary|e }}{% if c.credit %} <span class="cl-credit">— {{ c.credit|e }}</span>{% endif %}</span></li>
         {% endfor %}
       </ul>
     </section>

@@ -26,6 +26,7 @@ function json(status, obj, o) {
     headers: { "Content-Type": "application/json", ...cors(o) } });
 }
 const esc = s => String(s || "").replace(/[<>&]/g, c => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]));
+const escAttr = s => esc(s).replace(/"/g, "&quot;");           // also safe inside href="…"
 
 export default {
   // ---- intake ----
@@ -38,12 +39,23 @@ export default {
 
     let d;
     try { d = await request.json(); } catch { return json(400, { error: "bad json" }, origin); }
+
+    // honeypot: real users never fill the hidden "website" field — accept silently, don't queue
+    if (String(d.website || "").trim()) return json(200, { ok: true }, origin);
+
     const name = String(d.name || "").trim(), email = String(d.email || "").trim();
     if (!name || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email))
       return json(400, { error: "name and valid email required" }, origin);
     if (!d.episode || !TYPES.includes(d.type)) return json(400, { error: "missing episode/type" }, origin);
     if ((String(d.original).length + String(d.suggested).length) > 4000)
       return json(400, { error: "too long" }, origin);
+
+    // per-IP rate limit: 8 submissions/hour (fixed window; rl: keys auto-expire, separate from the queue)
+    const ip = request.headers.get("CF-Connecting-IP") || "?";
+    const rlKey = `rl:${ip}`;
+    const hits = parseInt((await env.SUGGESTIONS.get(rlKey)) || "0", 10);
+    if (hits >= 8) return json(429, { error: "rate limit — try again later" }, origin);
+    await env.SUGGESTIONS.put(rlKey, String(hits + 1), { expirationTtl: 3600 });
 
     const rec = {
       at: new Date().toISOString(),
@@ -54,6 +66,7 @@ export default {
       anchor_idx: d.anchor_idx, page: d.page, name, email,
     };
     const cur = JSON.parse((await env.SUGGESTIONS.get(QUEUE_KEY)) || "[]");
+    if (cur.length >= 2000) return json(429, { error: "queue full — try again later" }, origin);   // backstop
     cur.push(rec);
     await env.SUGGESTIONS.put(QUEUE_KEY, JSON.stringify(cur));
     return json(200, { ok: true, queued: cur.length }, origin);
@@ -65,6 +78,11 @@ export default {
       const items = JSON.parse((await env.SUGGESTIONS.get(QUEUE_KEY)) || "[]");
       if (!items.length) return;
 
+      // Only ever link a same-site path (never an attacker-supplied URL/scheme); else show as text.
+      const pageLink = p => {
+        const full = (env.ALLOW_ORIGIN && /^\/[A-Za-z0-9._~/-]*$/.test(p || "")) ? env.ALLOW_ORIGIN + p : "";
+        return full ? `<a href="${escAttr(full)}">${esc(full)}</a>` : esc(p);
+      };
       const rows = items.map(s => `
         <div style="border-top:2px solid #000;padding:12px 0">
           <div style="font-family:monospace;font-size:12px;text-transform:uppercase">
@@ -74,7 +92,7 @@ export default {
           ${s.url ? `<p style="margin:6px 0"><b>Link:</b> ${esc(s.url)}</p>` : ""}
           ${s.note ? `<p style="margin:6px 0"><b>Note:</b> ${esc(s.note)}</p>` : ""}
           <p style="margin:6px 0;color:#555;font-size:13px">— ${esc(s.name)} (${esc(s.email)})
-             · <a href="${esc(s.page)}">${esc(s.page)}</a> · ${esc(s.at)}</p>
+             · ${pageLink(s.page)} · ${esc(s.at)}</p>
         </div>`).join("");
 
       const res = await fetch("https://api.resend.com/emails", {
