@@ -14,6 +14,22 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,500;1,9..144,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ root }}style.css">
+<script>
+  /* apply the saved "Look" before paint so there's no flash of the default */
+  (function () {
+    try {
+      var q = (location.search.match(/[?&]look=([a-z]+)/) || [])[1];
+      if (q) localStorage.setItem('wtbs-look', q);
+      var l = q || localStorage.getItem('wtbs-look');
+      if (l && l !== 'brutalist') {
+        document.documentElement.setAttribute('data-look', l);
+        var c = document.createElement('link');
+        c.rel = 'stylesheet'; c.id = 'look-css'; c.href = '{{ root }}looks/' + l + '.css';
+        document.head.appendChild(c);
+      }
+    } catch (e) {}
+  })();
+</script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -44,5 +60,6 @@
   });
 </script>
 {% block scripts %}{% endblock %}
+<script src="{{ root }}theme.js"></script>
 </body>
 </html>

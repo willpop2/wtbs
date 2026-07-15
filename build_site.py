@@ -531,6 +531,9 @@ def main() -> None:
     SITE.mkdir()
     shutil.copy(ROOT / "templates" / "style.css", SITE / "style.css")
     shutil.copy(ROOT / "templates" / "suggest.js", SITE / "suggest.js")
+    shutil.copy(ROOT / "templates" / "theme.js", SITE / "theme.js")   # runtime "Look" switcher
+    if (ROOT / "looks").exists():                                     # per-theme stylesheets + heroes
+        shutil.copytree(ROOT / "looks", SITE / "looks")
     if STATIC.exists():                                   # favicons + share assets (incl. og/ cards)
         for f in STATIC.iterdir():
             if f.is_file():

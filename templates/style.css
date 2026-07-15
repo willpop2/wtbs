@@ -23,6 +23,18 @@ em{font-style:italic}
 .nav .sh{font-family:var(--mono);font-size:13px;text-transform:uppercase;padding:16px 18px;border-left:3px solid var(--k);background:var(--acid);border-top:none;border-right:none;border-bottom:none;cursor:pointer}
 .nav .sh:hover{background:var(--k);color:var(--acid)}
 
+/* look switcher (injected by theme.js) */
+.lookswitch{position:relative;display:flex}
+.look-btn{font-family:var(--mono);font-size:13px;text-transform:uppercase;padding:16px 18px;border-left:3px solid var(--k);background:var(--w);color:var(--k);cursor:pointer;display:flex;align-items:center;gap:6px}
+.look-btn:hover{background:var(--k);color:var(--acid)}
+.look-car{font-size:10px}
+.look-menu{position:absolute;top:100%;right:0;z-index:90;margin:0;padding:0;list-style:none;background:var(--w);border:3px solid var(--k);min-width:190px}
+.look-menu li{font-family:var(--mono);font-size:12px;text-transform:uppercase;padding:12px 16px;border-bottom:3px solid var(--k);cursor:pointer;white-space:nowrap}
+.look-menu li:last-child{border-bottom:none}
+.look-menu li:hover{background:var(--k);color:var(--w)}
+.look-menu li[aria-current="true"]{background:var(--acid);color:var(--k)}
+.look-menu li[aria-current="true"]::after{content:" ●";font-size:9px}
+
 /* hero */
 .hero{border-bottom:3px solid var(--k)}
 .hero .top{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;font-family:var(--mono);font-size:12px;text-transform:uppercase;padding:10px 0;border-bottom:3px solid var(--k)}
@@ -271,10 +283,13 @@ textarea:focus-visible,.chip:focus-visible,.r:focus-visible,.seg button:focus-vi
 @media(max-width:900px){
   .wrap{padding:0 16px}
 
-  /* nav: compact; keep Index + Surprise, drop About + external X */
+  /* nav: compact; drop About + external X; wrap the rest below the brand if needed */
+  .nav .in{flex-wrap:wrap}
+  .nav .links{flex-wrap:wrap;justify-content:flex-end}
   .nav .b{font-size:13px}
   .nav .links a,.nav .sh{font-size:11px;padding:14px 12px}
   .nav .links a[href*="about"],.nav .links a[href^="http"]{display:none}
+  .look-btn{font-size:11px;padding:14px 12px}
 
   /* hero + stats + quote: stack */
   .hero h1{margin:18px 0}

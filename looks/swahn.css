@@ -1,0 +1,19 @@
+/* Look: Erik Swahn — warm sunset, halftone-filled forms. Scoped under html[data-look="swahn"]. */
+html[data-look="swahn"]{ --w:#efe6d1; --k:#22190c; --acid:#d8551c; }
+html[data-look="swahn"] body{
+  background:#efe6d1;
+  background-image:radial-gradient(rgba(34,25,12,.07) 1px,transparent 1.4px);background-size:7px 7px;
+}
+html[data-look="swahn"] .note{background:var(--k);color:#f2b02e}
+/* chunky sunset wordmark */
+html[data-look="swahn"] .hero h1{font-weight:900;letter-spacing:-.02em;text-shadow:1.5px 1.5px 0 #fff,6px 6px 0 #f2b02e}
+html[data-look="swahn"] .hero h1 .out{color:#d8551c;-webkit-text-stroke:0}
+html[data-look="swahn"] .stats .n,html[data-look="swahn"] .rows .nm,html[data-look="swahn"] .board .lb .hd,
+html[data-look="swahn"] .contrib-teaser .ct-nm{font-weight:900;letter-spacing:-.01em}
+/* generative halftone hero behind the masthead */
+html[data-look="swahn"] .hero{position:relative;overflow:hidden}
+html[data-look="swahn"] .hero>*{position:relative;z-index:1}
+html[data-look="swahn"] #look-hero{position:absolute;inset:0;width:100%;height:100%;z-index:0;opacity:.5}
+html[data-look="swahn"] .hero h1,html[data-look="swahn"] .hero .top,html[data-look="swahn"] .hero .lede{text-shadow:0 1px 0 #efe6d1,0 0 8px #efe6d1}
+html[data-look="swahn"] .hero h1{text-shadow:1.5px 1.5px 0 #fff,6px 6px 0 #f2b02e}
+html[data-look="swahn"] .hero .bottom>div{background:rgba(239,230,209,.72)}
