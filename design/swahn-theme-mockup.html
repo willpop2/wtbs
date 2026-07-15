@@ -1,0 +1,185 @@
+<style>
+  :root{
+    --paper:#f1e8d3; --sheet:#f6f0e1; --ink:#1b2236; --ink2:#48506a;
+    --red:#d83a2b; --gold:#f2b02e; --green:#3f9c48; --blue:#2f6fb0; --teal:#1f93a6; --magenta:#d24b86; --orange:#e2661f;
+    --line:rgba(27,34,54,.22);
+    --disp:"Arial Black","Helvetica Neue",Helvetica,Arial,sans-serif;
+    --sans:"Gill Sans","Gill Sans MT",Futura,"Century Gothic",system-ui,sans-serif;
+    --body:"Iowan Old Style",Palatino,"Book Antiqua",Georgia,serif;
+  }
+  *{box-sizing:border-box}
+  .sw{background:var(--paper);color:var(--ink);font-family:var(--body);line-height:1.5;padding:14px}
+  .grain{background-image:radial-gradient(rgba(27,34,54,.09) 1px,transparent 1.5px);background-size:6px 6px}
+  .frame{border:2px solid var(--ink);position:relative;overflow:hidden;background:var(--paper)}
+  .sw a{color:inherit;text-decoration:none}
+  .lbl{font-family:var(--sans);font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink2)}
+  .marq{background:var(--ink);color:var(--paper);font-family:var(--sans);font-size:11px;letter-spacing:.2em;text-transform:uppercase;padding:7px 16px}
+  .nav{display:flex;align-items:center;justify-content:space-between;padding:13px 20px;border-bottom:2px solid var(--ink)}
+  .brand{font-family:var(--disp);font-weight:900;font-size:17px;letter-spacing:-.02em;text-shadow:1px 1px 0 #fff,3px 3px 0 var(--gold)}
+  .navr{display:flex;align-items:center;gap:16px}
+  .look{font-family:var(--sans);font-size:11px;letter-spacing:.12em;text-transform:uppercase;border:2px solid var(--ink);border-radius:22px;padding:6px 13px;display:flex;gap:7px;align-items:center;background:var(--gold)}
+  .look b{font-weight:700}
+
+  .hero{position:relative;border-bottom:2px solid var(--ink);min-height:340px}
+  #gen{position:absolute;inset:0;width:100%;height:100%;display:block}
+  .hwrap{position:relative;padding:30px 26px 26px;display:flex;flex-direction:column;align-items:flex-start;gap:14px;min-height:340px;justify-content:center}
+  .scrim{background:rgba(241,232,211,.8);border:2px solid var(--ink);border-radius:4px;padding:20px 22px;max-width:640px}
+  .ey{font-family:var(--sans);font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink2)}
+  .word{font-family:var(--disp);font-weight:900;font-size:clamp(38px,7.5vw,76px);line-height:.92;letter-spacing:-.03em;margin:6px 0 4px;color:var(--ink);text-shadow:1.5px 1.5px 0 #fff,6px 6px 0 var(--gold)}
+  .lede{font-size:17px;color:var(--ink);max-width:52ch;margin-top:8px}
+  .reseed{position:absolute;right:16px;bottom:14px;z-index:3;font-family:var(--sans);font-size:11px;letter-spacing:.12em;text-transform:uppercase;background:var(--ink);color:var(--paper);border:0;border-radius:22px;padding:9px 15px;cursor:pointer}
+  .reseed:hover{background:var(--red)}
+
+  #weave{display:block;width:100%;height:30px;border-bottom:2px solid var(--ink)}
+
+  .stats{display:flex;gap:30px;padding:18px 26px;border-bottom:2px solid var(--ink);flex-wrap:wrap}
+  .stat .n{font-family:var(--disp);font-weight:900;font-size:26px}
+  .stat .l{font-family:var(--sans);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2)}
+
+  .sect{padding:22px 26px}
+  .sect + .sect{border-top:2px solid var(--ink)}
+  .sh{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:12px}
+  .sh h2{font-family:var(--sans);font-size:13px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;margin:0}
+
+  .row{display:grid;grid-template-columns:40px 1.1fr 1.5fr auto;gap:16px;align-items:center;padding:13px 0;border-bottom:1px solid var(--line)}
+  .row:first-of-type{border-top:1px solid var(--line)}
+  .sw-swatch{width:36px;height:36px;border:1.5px solid var(--ink);border-radius:3px;display:block}
+  .nm{font-family:var(--disp);font-weight:900;font-size:19px;letter-spacing:-.01em}
+  .tii{font-style:italic;font-size:17px;color:var(--ink2)}
+  .meta{font-family:var(--sans);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink2);text-align:right;white-space:nowrap}
+
+  .read{display:grid;grid-template-columns:220px 1fr;gap:24px}
+  .card{background:var(--paper);border:2px solid var(--ink);border-radius:6px;padding:16px}
+  .card h3{font-family:var(--disp);font-weight:900;margin:.1em 0 .5em;font-size:22px;line-height:1.05}
+  .card .kv{font-family:var(--sans);font-size:12px;color:var(--ink2);line-height:2}
+  .player{display:flex;align-items:center;gap:13px;background:var(--ink);color:var(--paper);border-radius:6px;padding:10px 12px;margin-bottom:14px}
+  .play{width:38px;height:38px;border-radius:4px;background:var(--gold);color:var(--ink);display:flex;align-items:center;justify-content:center;font-size:15px;flex:none}
+  .ptxt{flex:1;min-width:0}.ptxt b{font-size:14px}.ptxt span{font-family:var(--sans);font-size:11px;opacity:.75;display:block}
+  .scrub{height:4px;background:rgba(241,232,211,.3);border-radius:3px;flex:1;position:relative}
+  .scrub::after{content:"";position:absolute;left:0;top:0;bottom:0;width:34%;background:var(--gold);border-radius:3px}
+  .share{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+  .chip{font-family:var(--sans);font-size:11px;letter-spacing:.08em;text-transform:uppercase;border:2px solid var(--ink);border-radius:22px;padding:6px 13px}
+  .chip.g{background:var(--gold)}
+  .sheet{background:var(--sheet);border:2px solid var(--ink);border-radius:6px;padding:22px 24px}
+  .sheet .note{font-family:var(--sans);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2);margin:0 0 12px}
+  .turn{margin:0 0 14px;font-size:18px;line-height:1.6;max-width:64ch}
+  .who{font-family:var(--sans);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--red);display:block;margin-bottom:2px}
+  .fig{margin:16px 0 4px;border:2px solid var(--ink);border-radius:6px;overflow:hidden;max-width:320px}
+  .figc{display:block;width:100%;height:150px}
+  .fig figcaption{display:block;font-family:var(--sans);font-size:11px;color:var(--ink2);padding:8px 12px;border-top:2px solid var(--ink);background:var(--sheet)}
+  .foot{padding:15px 26px;border-top:2px solid var(--ink);font-family:var(--sans);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2);display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+  @media(max-width:640px){.read{grid-template-columns:1fr}.row{grid-template-columns:32px 1fr auto;gap:10px}.row .tii{display:none}}
+</style>
+
+<div class="sw">
+ <div class="frame">
+  <div class="marq grain">Waiting To Be Signed · interviews on generative art, on-chain · look: Erik Swahn — reseed the header ↻</div>
+  <div class="nav grain">
+    <div class="brand">WAITING TO BE SIGNED</div>
+    <div class="navr"><span class="lbl">Index</span><span class="lbl">About</span><span class="look"><b>Look</b> · Erik Swahn ▾</span></div>
+  </div>
+
+  <header class="hero">
+    <canvas id="gen"></canvas>
+    <div class="hwrap"><div class="scrim">
+      <div class="ey">A podcast // generative art on the blockchain</div>
+      <div class="word">Waiting<br>To Be Signed</div>
+      <p class="lede">Every interview with the artists, collectors, and builders behind on-chain generative art.</p>
+    </div></div>
+    <button class="reseed" id="reseed">↻ New composition</button>
+  </header>
+
+  <canvas id="weave"></canvas>
+
+  <div class="stats grain">
+    <div class="stat"><div class="n">215</div><div class="l">Episodes</div></div>
+    <div class="stat"><div class="n">82</div><div class="l">Interviews</div></div>
+    <div class="stat"><div class="n">03</div><div class="l">Platform founders</div></div>
+  </div>
+
+  <section class="sect">
+    <div class="sh"><h2>Index of interviews</h2><span class="lbl">82 entries</span></div>
+    <div class="row"><canvas class="sw-swatch" data-seed="21"></canvas><span class="nm">McLlama</span><span class="tii">Turning Pokémon Cards into fx(hash) Grails</span><span class="meta">Collector, Artist · 58m</span></div>
+    <div class="row"><canvas class="sw-swatch" data-seed="82"></canvas><span class="nm">remnynt</span><span class="tii">Cave Painting In The Digital Age</span><span class="meta">Artist · 57m</span></div>
+    <div class="row"><canvas class="sw-swatch" data-seed="140"></canvas><span class="nm">Zancan</span><span class="tii">Beautiful Utopias</span><span class="meta">Artist · 59m</span></div>
+    <div class="row"><canvas class="sw-swatch" data-seed="309"></canvas><span class="nm">Erik Swahn</span><span class="tii">Computational Creativity</span><span class="meta">Artist · 58m</span></div>
+  </section>
+
+  <section class="sect">
+    <div class="sh"><h2>Reading — Erik Swahn</h2><span class="lbl">Interview // Jun 2025</span></div>
+    <div class="read">
+      <aside class="card"><div class="lbl">Interview</div><h3>Erik Swahn</h3><div class="kv">Title: Computational Creativity<br>Role: Generative artist<br>Duration: 58m<br>Hosts: Will &amp; Trinity</div></aside>
+      <div>
+        <div class="player"><div class="play">▶</div><div class="ptxt"><b>#062 · Computational Creativity</b><span>Self-hosted audio // press play</span></div><div class="scrub"></div></div>
+        <div class="share"><span class="chip g">Share</span><span class="chip">X</span><span class="chip">Farcaster</span><span class="chip">Copy link</span></div>
+        <div class="sheet">
+          <p class="note">Reading surface — solid paper, calm</p>
+          <p class="turn"><span class="who">Will</span>Farbteiler, Punktwelt, Fields — your work is built from tiny marks. Where did that start?</p>
+          <p class="turn"><span class="who">Erik Swahn</span>Farbteiler began as a synesthetic system for learning piano — palettes tied to notes. The color construction came first; the images followed from it.</p>
+          <figure class="fig"><canvas class="figc" data-seed="777"></canvas><figcaption>Punktwelt #1325 — Erik Swahn · collected by wtbs.eth · source</figcaption></figure>
+          <p class="turn"><span class="who">Will</span>Autoscope adds animation — a sense of place. A departure, or a continuation of the fields?</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="foot grain"><span>Waiting To Be Signed</span><span>X · Farcaster @WTBS · wtbs.tez · wtbs.eth</span></div>
+ </div>
+</div>
+
+<script>
+(function(){
+  var PAL=['#d83a2b','#f2b02e','#3f9c48','#2f6fb0','#1f93a6','#d24b86','#e2661f'];
+  var PAPER='#f1e8d3';
+  var STEP=3.6;
+  function mb(a){return function(){a|=0;a=a+0x6D2B79F5|0;var t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;};}
+  function setup(cv){var r=cv.getBoundingClientRect(),d=Math.min(2,window.devicePixelRatio||1);cv.width=Math.max(1,r.width*d);cv.height=Math.max(1,r.height*d);var c=cv.getContext('2d');c.setTransform(d,0,0,d,0,0);return {c:c,w:r.width,h:r.height};}
+  function pick(rnd,k){var p=PAL.slice();for(var i=p.length-1;i>0;i--){var j=Math.floor(rnd()*(i+1)),t=p[i];p[i]=p[j];p[j]=t;}return p.slice(0,k);}
+  function shade(hex,d){var n=parseInt(hex.slice(1),16),r=Math.max(0,Math.min(255,(n>>16)+d)),g=Math.max(0,Math.min(255,(n>>8&255)+d)),b=Math.max(0,Math.min(255,(n&255)+d));return'#'+(1<<24|r<<16|g<<8|b).toString(16).slice(1);}
+  // tight halftone fill of the current clip region — tiny dots (or lunes) packed
+  // on a hex grid so the shape reads as solid color at distance, marks up close
+  function halftone(c,bx,by,bw,bh,color,kind,rnd){
+    var step=STEP,r=step*0.66;
+    for(var y=by-step;y<by+bh+step;y+=step){var row=Math.round((y-by)/step),ox=(row&1)?step*0.5:0;
+      for(var x=bx-step;x<bx+bw+step;x+=step){
+        var px=x+ox+(rnd()-0.5)*step*0.18,py=y+(rnd()-0.5)*step*0.18,rr=r*(0.92+rnd()*0.2);
+        c.fillStyle=color;c.beginPath();c.arc(px,py,rr,0,7);c.fill();
+        if(kind==='lune'){c.fillStyle=PAPER;c.beginPath();c.arc(px+rr*0.5,py-rr*0.32,rr*0.9,0,7);c.fill();}
+      }
+    }
+  }
+  function clipFill(c,pathFn,bx,by,bw,bh,color,kind,rnd){c.save();c.beginPath();pathFn(c);c.clip();halftone(c,bx,by,bw,bh,color,kind,rnd);c.restore();}
+  function disc(c,x,y,r,color,kind,rnd){clipFill(c,function(c){c.arc(x,y,r,0,7);},x-r,y-r,2*r,2*r,color,kind,rnd);}
+  function bar(c,x,y,w,h,ang,color,kind,rnd){c.save();c.translate(x,y);c.rotate(ang);clipFill(c,function(c){c.rect(-w/2,-h/2,w,h);},-w/2,-h/2,w,h,color,kind,rnd);c.restore();}
+  function isoBlock(c,x,y,s,base,rnd){var h=s*(0.9+rnd()*0.7);
+    clipFill(c,function(c){c.moveTo(x,y-s);c.lineTo(x+s,y-s*0.5);c.lineTo(x,y);c.lineTo(x-s,y-s*0.5);c.closePath();},x-s,y-s,2*s,s,shade(base,28),'dot',rnd);
+    clipFill(c,function(c){c.moveTo(x,y);c.lineTo(x-s,y-s*0.5);c.lineTo(x-s,y-s*0.5+h);c.lineTo(x,y+h);c.closePath();},x-s,y-s*0.5,s,h+s,shade(base,-26),'dot',rnd);
+    clipFill(c,function(c){c.moveTo(x,y);c.lineTo(x+s,y-s*0.5);c.lineTo(x+s,y-s*0.5+h);c.lineTo(x,y+h);c.closePath();},x,y-s*0.5,s,h+s,base,'dot',rnd);}
+  function compose(c,W,H,rnd,scale,count){
+    for(var i=0;i<count;i++){var t=rnd(),x=rnd()*W,y=rnd()*H,col=PAL[Math.floor(rnd()*7)];
+      if(t<0.42)isoBlock(c,x,y,(22+rnd()*30)*scale,col,rnd);
+      else if(t<0.76)disc(c,x,y,(16+rnd()*30)*scale,col,rnd()<0.3?'lune':'dot',rnd);
+      else bar(c,x,y,(50+rnd()*90)*scale,(14+rnd()*16)*scale,(rnd()-0.5)*1.6,col,'dot',rnd);}
+  }
+  function ground(c,W,H){c.clearRect(0,0,W,H);c.fillStyle=PAPER;c.fillRect(0,0,W,H);}
+  function grain(c,W,H){c.fillStyle='rgba(27,34,54,0.05)';for(var gx=0;gx<W;gx+=6)for(var gy=0;gy<H;gy+=6){if((gx+gy)%12===0)c.fillRect(gx,gy,1.2,1.2);}}
+
+  function hero(cv,seed){STEP=3.6;var s=setup(cv),c=s.c,W=s.w,H=s.h,rnd=mb(seed);ground(c,W,H);compose(c,W,H,rnd,1.5,Math.round(W*H/9000));grain(c,W,H);}
+  function band(cv,seed){STEP=2.6;var s=setup(cv),c=s.c,W=s.w,H=s.h,rnd=mb(seed*7+3);ground(c,W,H);
+    for(var x=0;x<W;){var w=H*(0.7+rnd()*1.3),col=PAL[Math.floor(rnd()*7)],bh=H*(0.55+rnd()*0.45);bar(c,x+w/2,H*(0.5+(rnd()-0.5)*0.2),w,bh,0,col,rnd()<0.3?'lune':'dot',rnd);x+=w+H*0.12;}}
+  function swatch(cv,seed){STEP=2.0;var s=setup(cv),c=s.c,W=s.w,H=s.h,rnd=mb(seed);ground(c,W,H);
+    bar(c,W*0.5,H*(0.4+rnd()*0.2),W*0.95,H*0.42,(rnd()-0.5)*0.6,PAL[Math.floor(rnd()*7)],'dot',rnd);
+    isoBlock(c,W*(0.34+rnd()*0.16),H*0.72,W*0.32,PAL[Math.floor(rnd()*7)],rnd);
+    disc(c,W*(0.55+rnd()*0.2),H*(0.34+rnd()*0.18),W*0.3,PAL[Math.floor(rnd()*7)],rnd()<0.4?'lune':'dot',rnd);}
+  function fig(cv,seed){STEP=3.0;var s=setup(cv),c=s.c,W=s.w,H=s.h,rnd=mb(seed);ground(c,W,H);compose(c,W,H,rnd,1.0,14);grain(c,W,H);}
+
+  var gen=document.getElementById('gen'),weave=document.getElementById('weave');
+  var hseed=Math.floor(Math.random()*1e9);
+  function go(){hero(gen,hseed);band(weave,hseed);}
+  go();
+  document.querySelectorAll('.sw-swatch').forEach(function(cv){swatch(cv,+cv.dataset.seed);});
+  document.querySelectorAll('.figc').forEach(function(cv){fig(cv,+cv.dataset.seed);});
+  document.getElementById('reseed').addEventListener('click',function(){hseed=Math.floor(Math.random()*1e9);go();});
+  window.addEventListener('resize',function(){go();document.querySelectorAll('.sw-swatch').forEach(function(cv){swatch(cv,+cv.dataset.seed);});document.querySelectorAll('.figc').forEach(function(cv){fig(cv,+cv.dataset.seed);});});
+})();
+</script>

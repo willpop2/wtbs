@@ -1,0 +1,160 @@
+<style>
+  :root{
+    --bg:#0b0c0f; --panel:#111318; --fg:#d6d6cc; --dim:#6b6f69; --dimmer:#3b3e44;
+    --cyan:#49cbd6; --red:#ff5b52; --amber:#f2b02e; --line:#23262e;
+    --mono:"SFMono-Regular",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace;
+  }
+  *{box-sizing:border-box}
+  .gy{background:var(--bg);color:var(--fg);font-family:var(--mono);font-size:13px;line-height:1.55;padding:14px}
+  .gy a{color:inherit;text-decoration:none}
+  .frame{border:1px solid var(--line);position:relative;overflow:hidden}
+  .cur{display:inline-block;width:8px;height:1em;background:var(--cyan);vertical-align:-2px;animation:bl 1s steps(1) infinite}
+  @keyframes bl{50%{opacity:0}}
+  .bar{display:flex;justify-content:space-between;gap:10px;padding:7px 14px;border-bottom:1px solid var(--line);color:var(--dim);font-size:11px;letter-spacing:.04em;flex-wrap:wrap}
+  .bar .t{color:var(--fg)}
+  .nav{display:flex;justify-content:space-between;align-items:center;padding:11px 14px;border-bottom:1px solid var(--line)}
+  .brand{color:var(--fg);letter-spacing:.06em}.brand b{color:var(--cyan)}
+  .navr{display:flex;gap:16px;align-items:center;color:var(--dim)}
+  .navr a:hover{color:var(--fg)}
+  .look{border:1px solid var(--line);color:var(--fg);padding:5px 11px}.look b{color:var(--amber)}
+
+  .hero{position:relative;border-bottom:1px solid var(--line);min-height:330px}
+  #ascii{position:absolute;inset:0;width:100%;height:100%;display:block}
+  .hwrap{position:relative;padding:34px 20px;min-height:330px;display:flex;align-items:center}
+  .panel{background:rgba(11,12,15,.82);border:1px solid var(--line);padding:20px 22px;max-width:600px}
+  .ey{color:var(--dim);font-size:12px;margin-bottom:12px}
+  .ey b{color:var(--cyan)}
+  .word{font-size:clamp(30px,6vw,58px);line-height:1;font-weight:700;letter-spacing:.02em;color:var(--fg);margin:0 0 12px}
+  .word .g{color:var(--dimmer)}
+  .lede{color:var(--dim);max-width:52ch}
+  .reseed{position:absolute;right:14px;bottom:12px;z-index:3;font-family:var(--mono);font-size:11px;color:var(--fg);background:var(--panel);border:1px solid var(--line);padding:7px 12px;cursor:pointer}
+  .reseed:hover{border-color:var(--cyan);color:var(--cyan)}
+
+  .stats{display:flex;gap:6px 26px;padding:12px 14px;border-bottom:1px solid var(--line);flex-wrap:wrap;color:var(--dim);font-size:12px}
+  .stats b{color:var(--fg)}
+
+  .sect{padding:16px 14px}
+  .sect + .sect{border-top:1px solid var(--line)}
+  .sh{color:var(--dim);font-size:12px;margin-bottom:10px;letter-spacing:.06em}
+  .sh b{color:var(--fg)}
+
+  .tbl{width:100%;border-collapse:collapse}
+  .tbl td{padding:9px 8px;border-bottom:1px solid var(--line);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .tbl tr:hover td{background:#0f1420;color:var(--fg)}
+  .c-num{color:var(--dimmer);width:44px}
+  .c-nm{color:var(--fg);width:24%}
+  .c-tt{color:var(--dim);font-style:normal;width:auto;max-width:0}
+  .c-ty{color:var(--cyan);font-size:11px;text-align:right;width:130px}
+  .c-du{color:var(--dim);font-size:12px;text-align:right;width:56px}
+  .tbl tr:hover .c-num{color:var(--cyan)}
+
+  .read{display:grid;grid-template-columns:210px 1fr;gap:18px}
+  .box{border:1px solid var(--line);padding:14px}
+  .box .h{color:var(--dim);font-size:11px;margin-bottom:8px}
+  .box h3{margin:0 0 10px;font-size:18px;color:var(--fg)}
+  .kv{color:var(--dim);font-size:12px;line-height:1.9}.kv b{color:var(--fg);font-weight:400}
+  .player{display:flex;align-items:center;gap:12px;border:1px solid var(--line);padding:9px 11px;margin-bottom:12px}
+  .play{color:var(--cyan);border:1px solid var(--cyan);padding:2px 9px}
+  .ptxt{flex:1;min-width:0;color:var(--fg);font-size:12px}.ptxt span{color:var(--dim)}
+  .scr{color:var(--dim);font-size:12px;letter-spacing:-1px}.scr b{color:var(--cyan);font-weight:400}
+  .share{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px;color:var(--dim);font-size:12px}
+  .share b{color:var(--dim)}
+  .chip{border:1px solid var(--line);padding:5px 10px;color:var(--fg)}.chip:hover{border-color:var(--cyan);color:var(--cyan)}
+  .doc .turn{margin:0 0 12px;max-width:70ch}
+  .who{color:var(--red)}.who.b{color:var(--cyan)}
+  .fig{margin:14px 0;border:1px solid var(--line);max-width:320px}
+  .figc{display:block;width:100%;height:150px;background:#000}
+  .fig cap,.fig figcaption{display:block;color:var(--dim);font-size:11px;padding:7px 10px;border-top:1px solid var(--line)}
+  .foot{padding:12px 14px;border-top:1px solid var(--line);color:var(--dim);font-size:11px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  @media(max-width:640px){.read{grid-template-columns:1fr}.c-tt{display:none}}
+</style>
+
+<div class="gy">
+ <div class="frame">
+  <div class="bar"><span class="t">wtbs://interviews.generative.art</span><span>look: andreas_gysin &nbsp;·&nbsp; text-mode<span class="cur"></span></span></div>
+
+  <div class="nav">
+    <div class="brand">waiting<b>_</b>to<b>_</b>be<b>_</b>signed</div>
+    <div class="navr"><a>index</a><a>about</a><span class="look"><b>look</b> · gysin ▾</span></div>
+  </div>
+
+  <header class="hero">
+    <canvas id="ascii"></canvas>
+    <div class="hwrap">
+      <div class="panel">
+        <div class="ey">~/wtbs $ <b>a podcast</b> // generative art on the blockchain</div>
+        <h1 class="word">WAITING<br>TO BE <span class="g">SIGNED</span><span class="cur"></span></h1>
+        <p class="lede">Every interview with the artists, collectors, and builders behind on-chain generative art — transcribed and set to read.</p>
+      </div>
+    </div>
+    <button class="reseed" id="reseed">↻ reseed field</button>
+  </header>
+
+  <div class="stats"><span><b>215</b> episodes</span><span><b>82</b> interviews</span><span><b>03</b> platform_founders</span><span><b>04</b> seasons</span></div>
+
+  <section class="sect">
+    <div class="sh">┌── <b>index of interviews</b> ──────────────── 82 entries ──┐</div>
+    <table class="tbl">
+      <tr><td class="c-num">082</td><td class="c-nm">McLlama</td><td class="c-tt">Turning Pokémon Cards into fx(hash) Grails</td><td class="c-ty">collector,artist</td><td class="c-du">58m</td></tr>
+      <tr><td class="c-num">081</td><td class="c-nm">remnynt</td><td class="c-tt">Cave Painting In The Digital Age</td><td class="c-ty">artist</td><td class="c-du">57m</td></tr>
+      <tr><td class="c-num">075</td><td class="c-nm">Zancan</td><td class="c-tt">Beautiful Utopias</td><td class="c-ty">artist</td><td class="c-du">59m</td></tr>
+      <tr><td class="c-num">066</td><td class="c-nm">Andreas Gysin</td><td class="c-tt">Digital. Mechanical. Kinetic.</td><td class="c-ty">artist</td><td class="c-du">1h 2m</td></tr>
+      <tr><td class="c-num">062</td><td class="c-nm">Erik Swahn</td><td class="c-tt">Computational Creativity</td><td class="c-ty">artist</td><td class="c-du">58m</td></tr>
+    </table>
+    <div class="sh" style="margin:10px 0 0">└────────────────────────────────────────────────────────┘</div>
+  </section>
+
+  <section class="sect">
+    <div class="sh">── <b>reading</b> :: andreas_gysin ──────────── interview // 2024 ──</div>
+    <div class="read">
+      <aside class="box"><div class="h">// interview</div><h3>Andreas Gysin</h3><div class="kv">title: <b>Digital. Mechanical. Kinetic.</b><br>role: <b>generative artist</b><br>duration: <b>1h 2m</b><br>hosts: <b>Will &amp; Trinity</b></div></aside>
+      <div class="doc">
+        <div class="player"><span class="play">▶</span><div class="ptxt">#066 · digital_mechanical_kinetic<span> // self-hosted audio — press play</span></div><span class="scr"><b>████████</b>░░░░░░░░░░░░</span></div>
+        <div class="share"><b>share ›</b><span class="chip">x</span><span class="chip">farcaster</span><span class="chip">copy link</span></div>
+        <p class="turn"><span class="who b">will&gt;</span> Your work lives in text — characters as pixels. What pulled you into text-mode?</p>
+        <p class="turn"><span class="who">gysin&gt;</span> A character is the smallest unit that already means something. A grid of them can be a picture, a machine, or a poem — sometimes all at once.</p>
+        <figure class="fig"><canvas class="figc" data-seed="42"></canvas><figcaption>Towers #343 — Andreas Gysin · collected by wtbs.tez · source</figcaption></figure>
+        <p class="turn"><span class="who b">will&gt;</span> And animation gives the grid time — it becomes mechanical, kinetic.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="foot"><span>waiting_to_be_signed</span><span>x · farcaster @wtbs · wtbs.tez · wtbs.eth</span></div>
+ </div>
+</div>
+
+<script>
+(function(){
+  var RAMP=" .`':,-~+=*ilcvxznut1jfry523460%#&8B@WM";
+  var COL={bg:'#0b0c0f',dim:'#4a4e48',fg:'#d6d6cc',cyan:'#49cbd6',red:'#ff5b52',amber:'#f2b02e'};
+  var reduce=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function fld(cv,seed,animate){
+    var d=Math.min(2,window.devicePixelRatio||1),r=cv.getBoundingClientRect();
+    cv.width=Math.max(1,r.width*d);cv.height=Math.max(1,r.height*d);
+    var c=cv.getContext('2d');c.setTransform(d,0,0,d,0,0);
+    var fs=14,cw,ch=16;c.font=fs+'px '+getComputedStyle(cv).fontFamily;cw=c.measureText('M').width||8.4;
+    var cols=Math.ceil(r.width/cw),rows=Math.ceil(r.height/ch),so=seed*0.013;
+    c.textBaseline='top';
+    function frame(t){
+      var tt=(animate&&!reduce)?t*0.0011:so*140;
+      c.fillStyle=COL.bg;c.fillRect(0,0,r.width,r.height);
+      for(var y=0;y<rows;y++)for(var x=0;x<cols;x++){
+        var v=(Math.sin(x*0.28+tt+so)+Math.sin(y*0.42-tt*0.7)+Math.sin((x+y)*0.19+tt*0.5)+Math.sin(Math.hypot(x-cols*0.5,y-rows*0.5)*0.35-tt*1.3))/4;
+        var n=(v+1)/2, idx=Math.floor(n*(RAMP.length-1)), chn=RAMP[idx];
+        if(chn===' ')continue;
+        var col=COL.dim;
+        if(n>0.86)col=COL.fg; else if(n>0.8)col=COL.cyan; else if(n<0.12)col=COL.red;
+        c.fillStyle=col;c.fillText(chn,x*cw,y*ch);
+      }
+    }
+    return frame;
+  }
+  var cv=document.getElementById('ascii'),seed=Math.floor(Math.random()*1e4),raf,frame=fld(cv,seed,true);
+  function loop(t){frame(t);raf=requestAnimationFrame(loop);}
+  if(reduce)frame(0); else raf=requestAnimationFrame(loop);
+  document.getElementById('reseed').addEventListener('click',function(){seed=Math.floor(Math.random()*1e4);frame=fld(cv,seed,true);if(reduce)frame(0);});
+  window.addEventListener('resize',function(){frame=fld(cv,seed,true);if(reduce)frame(0);});
+  // figure: a static text-mode still
+  document.querySelectorAll('.figc').forEach(function(f){var fr=fld(f,+f.dataset.seed,false);fr(0);});
+})();
+</script>
