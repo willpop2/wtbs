@@ -23,4 +23,12 @@ integrate each as a selectable look in templates/ + build_site.py.
   regrow reseeds. (Tried stone columns/rocks — dropped, looked too primitive.)
   Status: parked.
 
-Next candidate named by user: Rudxane.
+- rudxane-theme-mockup.html  — Rudxane, themed on his work "Tych" (a polyptych):
+  monochrome "contact sheet" — heavy condensed type on a newsprint ground, frame
+  numbers, and a reseeding generative <canvas> grid of DISTRESSED textured panels
+  (static, frayed bars, scratches, rain-streaks, brush blobs, halftone; frayed
+  edges). Pure B&W, no color. Distinct from Brutalist by texture. "new print"
+  reseeds. Status: parked (first crack).
+
+All five original-list artists now have parked mockups (Swahn, Gysin, Zancan,
+Rudxane) + Brutalist default. Remaining: build the visitor-facing Look switcher.

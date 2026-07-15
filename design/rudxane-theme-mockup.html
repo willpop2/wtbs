@@ -1,0 +1,161 @@
+<style>
+  :root{
+    --paper:#e7e4db; --ink:#161510; --gray:#8a887e; --line:#161510;
+    --cond:"Arial Narrow","Roboto Condensed",Oswald,"Helvetica Neue",Arial,sans-serif;
+    --mono:"Consolas","DejaVu Sans Mono",Menlo,monospace;
+    --sans:"Helvetica Neue",Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  .rx{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.5;padding:14px;
+    background-image:repeating-linear-gradient(0deg,rgba(22,21,16,.035) 0 1px,transparent 1px 3px);}
+  .rx a{color:inherit;text-decoration:none}
+  .frame{border:2px solid var(--ink);background:var(--paper);position:relative;overflow:hidden}
+  .lbl{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink)}
+  .top{display:flex;justify-content:space-between;gap:10px;padding:6px 14px;border-bottom:2px solid var(--ink);flex-wrap:wrap}
+  .top .lbl.d{color:var(--gray)}
+  .nav{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border-bottom:2px solid var(--ink)}
+  .brand{font-family:var(--cond);font-weight:700;font-size:24px;letter-spacing:.02em;text-transform:uppercase}
+  .navr{display:flex;gap:14px;align-items:center}
+  .navr a{font-family:var(--mono);font-size:11px;text-transform:uppercase;color:var(--gray)}.navr a:hover{color:var(--ink)}
+  .look{border:2px solid var(--ink);padding:5px 11px;font-family:var(--mono);font-size:11px;text-transform:uppercase;background:var(--ink);color:var(--paper)}
+
+  .hero{position:relative;border-bottom:2px solid var(--ink);min-height:340px}
+  #tych{position:absolute;inset:0;width:100%;height:100%;display:block}
+  .hwrap{position:relative;padding:24px;min-height:340px;display:flex;align-items:center}
+  .panel{background:var(--ink);color:var(--paper);padding:20px 24px;max-width:560px;box-shadow:6px 6px 0 rgba(22,21,16,.25)}
+  .ey{font-family:var(--mono);font-size:11px;text-transform:uppercase;color:#b8b5aa;margin-bottom:10px}
+  .word{font-family:var(--cond);font-weight:700;font-size:clamp(44px,9vw,92px);line-height:.86;letter-spacing:.01em;text-transform:uppercase;margin:0 0 10px}
+  .lede{font-size:15px;color:#cfccc2;max-width:48ch}
+  .reseed{position:absolute;right:14px;bottom:14px;z-index:3;font-family:var(--mono);font-size:11px;text-transform:uppercase;color:var(--paper);background:var(--ink);border:2px solid var(--paper);padding:7px 12px;cursor:pointer}
+  .reseed:hover{background:var(--paper);color:var(--ink);border-color:var(--ink)}
+
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:2px solid var(--ink)}
+  .stat{padding:12px 14px;border-right:2px solid var(--ink)}.stat:last-child{border-right:none}
+  .stat .n{font-family:var(--cond);font-weight:700;font-size:30px;line-height:1}
+  .stat .l{font-family:var(--mono);font-size:10px;text-transform:uppercase;color:var(--gray);margin-top:3px}
+
+  .sect{padding:16px 14px}
+  .sect + .sect{border-top:2px solid var(--ink)}
+  .sh{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px}
+  .sh h2{font-family:var(--cond);font-weight:700;font-size:19px;letter-spacing:.03em;text-transform:uppercase;margin:0}
+
+  .row{display:grid;grid-template-columns:40px 44px 1.1fr 1.4fr auto;gap:14px;align-items:center;padding:11px 0;border-bottom:1px solid var(--ink)}
+  .row:first-of-type{border-top:1px solid var(--ink)}
+  .fr{font-family:var(--mono);font-size:10px;color:var(--gray)}
+  .sw{width:44px;height:32px;border:1px solid var(--ink);display:block}
+  .nm{font-family:var(--cond);font-weight:700;font-size:20px;letter-spacing:.02em;text-transform:uppercase}
+  .tii{font-size:15px;color:#4a483f}
+  .meta{font-family:var(--mono);font-size:10px;text-transform:uppercase;color:var(--gray);text-align:right;white-space:nowrap}
+
+  .read{display:grid;grid-template-columns:210px 1fr;gap:20px}
+  .card{border:2px solid var(--ink);padding:14px}
+  .card .h{font-family:var(--mono);font-size:10px;text-transform:uppercase;color:var(--gray);margin-bottom:6px}
+  .card h3{font-family:var(--cond);font-weight:700;font-size:24px;text-transform:uppercase;margin:0 0 10px}
+  .kv{font-family:var(--mono);font-size:11px;color:var(--gray);line-height:1.95}.kv b{color:var(--ink);font-weight:400}
+  .player{display:flex;align-items:center;gap:12px;border:2px solid var(--ink);padding:8px 11px;margin-bottom:12px;background:var(--ink);color:var(--paper)}
+  .play{width:32px;height:32px;border:2px solid var(--paper);display:flex;align-items:center;justify-content:center;flex:none}
+  .ptxt{flex:1;min-width:0;font-family:var(--mono);font-size:12px}.ptxt span{color:#b8b5aa;display:block;font-size:10px}
+  .scr{font-family:var(--mono);font-size:12px;letter-spacing:-1px;color:#b8b5aa}.scr b{color:var(--paper);font-weight:400}
+  .share{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+  .chip{font-family:var(--mono);font-size:10px;text-transform:uppercase;border:2px solid var(--ink);padding:6px 10px}.chip:hover{background:var(--ink);color:var(--paper)}
+  .chip.k{background:var(--ink);color:var(--paper)}
+  .turn{margin:0 0 13px;font-size:16px;line-height:1.6;max-width:64ch}
+  .who{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:var(--paper);padding:2px 6px;display:inline-block;margin-bottom:3px}
+  .fig{margin:14px 0 4px;border:2px solid var(--ink);max-width:320px}
+  .figc{display:block;width:100%;height:180px}
+  .fig figcaption{display:block;font-family:var(--mono);font-size:10px;text-transform:uppercase;color:var(--gray);padding:7px 10px;border-top:2px solid var(--ink)}
+  .foot{padding:12px 14px;border-top:2px solid var(--ink);font-family:var(--mono);font-size:10px;text-transform:uppercase;color:var(--gray);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  @media(max-width:640px){.read{grid-template-columns:1fr}.row{grid-template-columns:34px 40px 1fr auto;gap:8px}.row .tii{display:none}.stats{grid-template-columns:1fr 1fr}}
+</style>
+
+<div class="rx">
+ <div class="frame">
+  <div class="top"><span class="lbl">waiting to be signed · a contact sheet of generative art</span><span class="lbl d">look: rudxane · “tych”</span></div>
+  <div class="nav">
+    <div class="brand">Waiting To Be Signed</div>
+    <div class="navr"><a>index</a><a>about</a><span class="look">look · rudxane ▾</span></div>
+  </div>
+
+  <header class="hero">
+    <canvas id="tych"></canvas>
+    <div class="hwrap"><div class="panel">
+      <div class="ey">a podcast // generative art on the blockchain</div>
+      <h1 class="word">Waiting<br>To Be<br>Signed</h1>
+      <p class="lede">Every interview with the artists, collectors, and builders behind on-chain generative art — transcribed and set to read.</p>
+    </div></div>
+    <button class="reseed" id="reseed">↻ new print</button>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><div class="n">215</div><div class="l">episodes</div></div>
+    <div class="stat"><div class="n">82</div><div class="l">interviews</div></div>
+    <div class="stat"><div class="n">03</div><div class="l">platform founders</div></div>
+    <div class="stat"><div class="n">04</div><div class="l">seasons</div></div>
+  </div>
+
+  <section class="sect">
+    <div class="sh"><h2>Index of interviews</h2><span class="lbl">sheet 01 / 82 frames</span></div>
+    <div class="row"><span class="fr">082</span><canvas class="sw" data-seed="11"></canvas><span class="nm">McLlama</span><span class="tii">Turning Pokémon Cards into fx(hash) Grails</span><span class="meta">collector, artist · 58m</span></div>
+    <div class="row"><span class="fr">081</span><canvas class="sw" data-seed="47"></canvas><span class="nm">remnynt</span><span class="tii">Cave Painting In The Digital Age</span><span class="meta">artist · 57m</span></div>
+    <div class="row"><span class="fr">079</span><canvas class="sw" data-seed="88"></canvas><span class="nm">Rudxane</span><span class="tii">Brute Forcing Beauty</span><span class="meta">artist · 1h 3m</span></div>
+    <div class="row"><span class="fr">075</span><canvas class="sw" data-seed="132"></canvas><span class="nm">Zancan</span><span class="tii">Beautiful Utopias</span><span class="meta">artist · 59m</span></div>
+  </section>
+
+  <section class="sect">
+    <div class="sh"><h2>Reading — Rudxane</h2><span class="lbl">frame 079 · 2025</span></div>
+    <div class="read">
+      <aside class="card"><div class="h">// frame 079</div><h3>Rudxane</h3><div class="kv">title: <b>Brute Forcing Beauty</b><br>role: <b>generative artist</b><br>duration: <b>1h 3m</b><br>hosts: <b>Will &amp; Trinity</b></div></aside>
+      <div>
+        <div class="player"><span class="play">▶</span><div class="ptxt">079 · brute_forcing_beauty<span>self-hosted audio — press play</span></div><span class="scr"><b>██████</b>░░░░░░░░░░</span></div>
+        <div class="share"><span class="chip k">share ›</span><span class="chip">x</span><span class="chip">farcaster</span><span class="chip">copy link</span></div>
+        <p class="turn"><span class="who">Will</span>Tych feels like a printer's contact sheet — a grid of panels, each its own texture. Where did that come from?</p>
+        <p class="turn"><span class="who">Rudxane</span>I brute-force thousands of marks, then let the grid frame them. Every panel is a failed print that found its place — the polyptych is the beauty.</p>
+        <figure class="fig"><canvas class="figc" data-seed="303"></canvas><figcaption>Tych #133 — Rudxane · collected by wtbs.tez · source</figcaption></figure>
+        <p class="turn"><span class="who">Will</span>Monochrome, distressed, analog. In a world of color, that restraint reads loud.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="foot"><span>waiting to be signed</span><span>x · farcaster @wtbs · wtbs.tez · wtbs.eth</span></div>
+ </div>
+</div>
+
+<script>
+(function(){
+  var PAPER='#e7e4db',INK='#161510';
+  function mb(a){return function(){a|=0;a=a+0x6D2B79F5|0;var t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;};}
+  function splits(total,n,rnd){var ws=[],s=0,i;for(i=0;i<n;i++){ws.push(0.5+rnd());s+=ws[i];}var x=0,out=[];for(i=0;i<n;i++){var w=ws[i]/s*total;out.push([x,w]);x+=w;}return out;}
+  function cell(c,x,y,w,h,rnd){
+    var dark=rnd()<0.5,bg=dark?INK:PAPER,mk=dark?PAPER:INK;
+    c.fillStyle=bg;c.fillRect(x,y,w,h);
+    c.save();c.beginPath();c.rect(x,y,w,h);c.clip();c.fillStyle=mk;c.strokeStyle=mk;
+    var t=Math.floor(rnd()*6),i,yy,xx,k;
+    if(t===0){for(i=0;i<w*h*0.05;i++)c.fillRect(x+rnd()*w,y+rnd()*h,1,1);}                       // static
+    else if(t===1){for(yy=y+2;yy<y+h;yy+=3+rnd()*4){var bw=w*(0.25+rnd()*0.7);c.globalAlpha=0.5+rnd()*0.5;c.fillRect(x,yy,bw,1+rnd()*2);for(k=0;k<bw*0.3;k+=2)if(rnd()<0.5)c.fillRect(x+bw+k,yy,1,1);}c.globalAlpha=1;} // frayed bars
+    else if(t===2){c.lineWidth=0.6;for(i=0;i<w*0.7;i++){var sx=x+rnd()*w,sy=y+rnd()*h,l=4+rnd()*16;c.globalAlpha=0.35+rnd()*0.6;c.beginPath();c.moveTo(sx,sy);c.lineTo(sx+l*0.5,sy-l);c.stroke();}c.globalAlpha=1;} // scratches
+    else if(t===3){for(xx=x;xx<x+w;xx+=2+rnd()*3){c.globalAlpha=0.3+rnd()*0.6;c.fillRect(xx,y+rnd()*h*0.3,0.8,h*(0.35+rnd()*0.65));}c.globalAlpha=1;} // rain
+    else if(t===4){var n=2+Math.floor(rnd()*6);for(i=0;i<n;i++){var px=x+rnd()*w,py=y+rnd()*h,pw=4+rnd()*9,ph=7+rnd()*15;c.globalAlpha=0.7+rnd()*0.3;c.fillRect(px,py,pw,ph);for(k=0;k<9;k++){c.globalAlpha=0.3*rnd();c.fillRect(px+rnd()*pw,py-rnd()*4,1,2);c.fillRect(px+rnd()*pw,py+ph+rnd()*4,1,2);}}c.globalAlpha=1;} // brush blobs
+    else{for(yy=y+1;yy<y+h;yy+=3)for(xx=x+1;xx<x+w;xx+=3)if(rnd()<0.6){c.globalAlpha=0.4+rnd()*0.6;c.fillRect(xx,yy,1+rnd(),1+rnd());}c.globalAlpha=1;} // halftone
+    c.restore();
+    for(i=0;i<(w+h)*0.55;i++){var e=Math.floor(rnd()*4),ex,ey;                                    // frayed edges (drybrush)
+      if(e<2){ex=x+rnd()*w;ey=(e?y+h:y)+(rnd()-0.5)*4;}else{ex=(e-2?x+w:x)+(rnd()-0.5)*4;ey=y+rnd()*h;}
+      c.fillStyle=rnd()<0.5?mk:bg;c.fillRect(ex,ey,1,1);}
+  }
+  function tych(cv,sd,gmul){
+    var rnd=mb(sd),d=Math.min(2,window.devicePixelRatio||1),r=cv.getBoundingClientRect();
+    cv.width=Math.max(1,r.width*d);cv.height=Math.max(1,r.height*d);
+    var c=cv.getContext('2d');c.setTransform(d,0,0,d,0,0);var W=r.width,H=r.height;
+    c.fillStyle=PAPER;c.fillRect(0,0,W,H);
+    var cols=splits(W,(3+Math.floor(rnd()*3))*gmul,rnd);
+    cols.forEach(function(cx){var rows=splits(H,(2+Math.floor(rnd()*4))*gmul,rnd);
+      rows.forEach(function(ry){cell(c,cx[0],ry[0],cx[1],ry[1],rnd);});});
+    c.globalAlpha=0.05;c.fillStyle=INK;for(var i=0;i<W*H*0.004;i++)c.fillRect(rnd()*W,rnd()*H,1,1);c.globalAlpha=1; // grain
+  }
+  var hv=document.getElementById('tych'),seed=Math.floor(Math.random()*1e5);
+  function draw(){tych(hv,seed,1);}
+  draw();
+  document.getElementById('reseed').addEventListener('click',function(){seed=Math.floor(Math.random()*1e5);draw();});
+  window.addEventListener('resize',draw);
+  document.querySelectorAll('.sw,.figc').forEach(function(cv){tych(cv,+cv.dataset.seed,1);});
+})();
+</script>
