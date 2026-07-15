@@ -3,7 +3,7 @@
 window.__heroRender = window.__heroRender || {};
 window.__heroRender['zancan'] = function () {
   var hero = document.querySelector('.hero'); if (!hero) return;
-  var cv = document.createElement('canvas'); cv.id = 'look-hero'; hero.insertBefore(cv, hero.firstChild);
+  var cv = document.createElement('canvas'); cv.id = 'look-hero'; cv.className = 'look-injected'; hero.insertBefore(cv, hero.firstChild);
   var PAPER = '#f2efe4', INK = '#22241c', GRID = '#d9dbcc', MOSS = '#4b6043', PINK = '#dd7a9e', YELLOW = '#e8bf3e';
   var d = Math.min(2, window.devicePixelRatio || 1), r = hero.getBoundingClientRect();
   cv.width = Math.max(1, r.width * d); cv.height = Math.max(1, r.height * d);
@@ -35,5 +35,18 @@ window.__heroRender['zancan'] = function () {
     return alive && drawn < cap;
   }
   var guard = 0; while (step() && guard++ < 4000) {}
+
+  // vine divider band on the index
+  if (document.querySelector('.rows')) {
+    var band = document.createElement('div'); band.className = 'look-divider look-injected';
+    var bcv = document.createElement('canvas'); band.appendChild(bcv);
+    hero.parentNode.insertBefore(band, hero.nextSibling);
+    var bw = band.getBoundingClientRect().width || 1000, bh = 24; bcv.style.width = bw + 'px'; bcv.style.height = bh + 'px';
+    bcv.width = bw * d; bcv.height = bh * d; c = bcv.getContext('2d'); c.setTransform(d, 0, 0, d, 0, 0);
+    c.fillStyle = PAPER; c.fillRect(0, 0, bw, bh);
+    var y0 = bh * 0.5, x; c.strokeStyle = INK; c.lineWidth = 1.2; c.beginPath(); c.moveTo(0, y0);
+    for (x = 0; x < bw; x += 6) c.lineTo(x, y0 + Math.sin(x * 0.06) * bh * 0.22); c.stroke();
+    for (x = 4; x < bw; x += 8) { var yy = y0 + Math.sin(x * 0.06) * bh * 0.22; if (rnd() < 0.4) leaf(x, yy, (rnd() < 0.5 ? 1 : -1) * 1.3, 4 + rnd() * 3); if (rnd() < 0.09) bloom(x, yy, rnd() < 0.5 ? PINK : YELLOW); }
+  }
   window.__heroStop = function () {};
 };

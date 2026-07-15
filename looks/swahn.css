@@ -17,3 +17,12 @@ html[data-look="swahn"] #look-hero{position:absolute;inset:0;width:100%;height:1
 html[data-look="swahn"] .hero h1,html[data-look="swahn"] .hero .top,html[data-look="swahn"] .hero .lede{text-shadow:0 1px 0 #efe6d1,0 0 8px #efe6d1}
 html[data-look="swahn"] .hero h1{text-shadow:1.5px 1.5px 0 #fff,6px 6px 0 #f2b02e}
 html[data-look="swahn"] .hero .bottom>div{background:rgba(239,230,209,.72)}
+/* Farbteiler divider band */
+html[data-look="swahn"] .look-divider{border-bottom:3px solid var(--k);line-height:0}
+html[data-look="swahn"] .look-divider canvas{display:block;width:100%;height:26px}
+/* per-row index swatch (adds a leading column to the row grid) */
+html[data-look="swahn"] .rows .r{grid-template-columns:50px 54px minmax(150px,1fr) 1.5fr 160px 70px 40px}
+html[data-look="swahn"] .look-swatch{width:38px;height:34px;display:block;align-self:center;margin-left:11px;border:2px solid var(--k)}
+@media(max-width:900px){
+  html[data-look="swahn"] .look-swatch,html[data-look="swahn"] .look-divider{display:none}
+}

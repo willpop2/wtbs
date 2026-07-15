@@ -29,8 +29,9 @@
   }
   function applyHero(id) {
     if (window.__heroStop) { try { window.__heroStop(); } catch (e) {} window.__heroStop = null; }
-    var old = document.getElementById('look-hero'); if (old) old.remove();
-    if (id === 'brutalist' || !document.querySelector('.hero')) return;
+    var inj = document.querySelectorAll('.look-injected');   // heroes, dividers, swatches, ...
+    for (var i = 0; i < inj.length; i++) inj[i].remove();
+    if (id === 'brutalist') return;
     loadJS(id, function () { var r = window.__heroRender && window.__heroRender[id]; if (r) r(ROOT); });
   }
   function setLook(id) {

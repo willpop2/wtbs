@@ -23,3 +23,9 @@ html[data-look="zancan"] .hero>*{position:relative;z-index:1}
 html[data-look="zancan"] #look-hero{position:absolute;inset:0;width:100%;height:100%;z-index:0}
 html[data-look="zancan"] .hero h1,html[data-look="zancan"] .hero .top,html[data-look="zancan"] .hero .lede{text-shadow:0 1px 0 #f2efe4,0 0 8px #f2efe4}
 html[data-look="zancan"] .hero .bottom>div{background:rgba(242,239,228,.74)}
+/* leaf mark after each index name */
+html[data-look="zancan"] .rows .nm::after{content:" ❧";color:var(--acid);font-size:.8em}
+/* vine divider band */
+html[data-look="zancan"] .look-divider{border-bottom:1px solid var(--k);line-height:0}
+html[data-look="zancan"] .look-divider canvas{display:block;width:100%;height:24px}
+@media(max-width:900px){html[data-look="zancan"] .look-divider{display:none}}
