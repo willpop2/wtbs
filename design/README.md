@@ -17,8 +17,10 @@ integrate each as a selectable look in templates/ + build_site.py.
   Reseed varies palette (8, incl. Device 1) + charset (7) + motion pattern (6).
   Status: parked.
 - zancan-theme-mockup.html  — Zancan: naturalist "field guide" — elegant serif +
-  moss-green accents, fine technical grid, generative ink VINES that grow (up from
-  base, trailing from top) with leaves, specimen-numbered index. regrow reseeds.
-  Status: parked (first crack, lush growth).
+  moss-green accents, fine technical grid, specimen-numbered index. Generative ink
+  hero grows two plant types: thin curly leafy VINES + thick woody TREE BRANCHES
+  (forking, budded twigs), with subtle pink/yellow leaves + blooms as highlights.
+  regrow reseeds. (Tried stone columns/rocks — dropped, looked too primitive.)
+  Status: parked.
 
 Next candidate named by user: Rudxane.
