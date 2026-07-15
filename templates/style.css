@@ -81,6 +81,52 @@ em{font-style:italic}
 .rows .r.f .nm::after{content:" [F]";font-family:var(--mono);font-size:12px;vertical-align:super}
 .arch .empty{font-family:var(--mono);font-size:13px;text-transform:uppercase;padding:20px 0}
 
+/* contributors leaderboard */
+.board{border-bottom:3px solid var(--k)}
+.board .lb{display:grid;grid-template-columns:60px minmax(140px,1fr) 120px 74px 132px;align-items:stretch;border-bottom:3px solid var(--k)}
+.board .lb:last-child{border-bottom:none}
+.board .lb>div{padding:15px 14px;border-right:3px solid var(--k);display:flex;align-items:center}
+.board .lb>div:last-child{border-right:none}
+.board .lb .rk{font-family:var(--mono);font-size:20px;font-weight:700;justify-content:center}
+.board .lb .hd{font-weight:700;font-size:22px;text-transform:uppercase;letter-spacing:-.01em;gap:8px}
+.board .lb .ep{gap:7px}
+.board .lb .ep b{font-weight:700;font-size:22px}
+.board .lb .ep span{font-family:var(--mono);font-size:11px;text-transform:uppercase;opacity:.55}
+.board .lb .ed{font-family:var(--mono);font-size:16px}
+.board .lb .lt{font-family:var(--mono);font-size:12px}
+.board .lb.top{background:var(--acid)}
+.lb-head{background:var(--k);color:var(--w)}
+.board .lb-head .rk,.board .lb-head .hd,.board .lb-head .ep,.board .lb-head .ed,.board .lb-head .lt{
+  font-family:var(--mono);font-size:11px;font-weight:400;text-transform:uppercase;letter-spacing:.02em}
+.vf{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;flex:none;
+  background:var(--k);color:var(--acid);font-size:11px;font-family:var(--mono)}
+.lb.top .vf{background:var(--k);color:var(--acid)}
+
+.feed{border-bottom:3px solid var(--k)}
+.feed .head{padding:16px 0;border-bottom:3px solid var(--k)}
+.feed .head h2{font-weight:700;font-size:22px;text-transform:uppercase;margin:0}
+.feed ul{list-style:none;margin:0;padding:0}
+.feed li{display:flex;gap:16px;flex-wrap:wrap;align-items:baseline;padding:11px 0;border-bottom:1px solid var(--k)}
+.feed li:last-child{border-bottom:none}
+.feed .fd-date{font-family:var(--mono);font-size:12px;min-width:96px;flex-shrink:0}
+.feed .fd-sum{flex:1;min-width:220px;font-size:15px}
+.feed .fd-ep{font-family:var(--mono);font-size:12px}
+.feed .fd-ep a{text-decoration:underline;text-decoration-thickness:2px}
+.feed .fd-by{font-family:var(--mono);font-size:12px;opacity:.6}
+
+/* contributors teaser (on index) */
+.contrib-teaser{border-top:3px solid var(--k)}
+.contrib-teaser .head{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;padding:16px 0;border-bottom:3px solid var(--k)}
+.contrib-teaser .head h2{font-weight:700;font-size:22px;text-transform:uppercase;margin:0}
+.contrib-teaser .head a{font-family:var(--mono);font-size:12px;text-transform:uppercase}
+.contrib-teaser .head a:hover{background:var(--acid)}
+.contrib-teaser .ct{display:grid;grid-template-columns:54px 1fr auto;gap:14px;align-items:center;padding:13px 0;border-bottom:3px solid var(--k)}
+.contrib-teaser .ct:last-child{border-bottom:none}
+.contrib-teaser .ct:hover{background:var(--k);color:var(--w)}
+.contrib-teaser .ct-rk{font-family:var(--mono);font-size:12px;opacity:.5;text-align:right}
+.contrib-teaser .ct-nm{font-weight:700;font-size:20px;text-transform:uppercase}
+.contrib-teaser .ct-ep{font-family:var(--mono);font-size:12px;text-transform:uppercase}
+
 /* about */
 .about{border-top:3px solid var(--k);padding:30px 0 50px}
 .about h2{font-weight:700;font-size:22px;text-transform:uppercase;margin:0 0 14px}
@@ -198,6 +244,8 @@ footer a{text-decoration:underline}
 .suggest-card input,.suggest-card select,.suggest-card textarea{display:block;width:100%;margin-top:.3rem;padding:.5rem;font:inherit;font-family:var(--mono);color:var(--k);background:var(--w);border:3px solid var(--k)}
 .suggest-card textarea{resize:vertical}
 .suggest-row{display:flex;gap:.6rem}.suggest-row label{flex:1}
+.suggest-note{font-family:var(--mono);font-size:10px;text-transform:uppercase;letter-spacing:.02em;line-height:1.5;margin:.1rem 0 .7rem}
+.suggest-note a{text-decoration:underline}
 .suggest-hp{position:absolute;left:-9999px}
 .suggest-actions{display:flex;justify-content:flex-end;gap:.6rem;margin-top:.5rem}
 .suggest-cancel{font-family:var(--mono);text-transform:uppercase;background:var(--w);border:3px solid var(--k);padding:.5rem .9rem;cursor:pointer}
@@ -254,6 +302,10 @@ textarea:focus-visible,.chip:focus-visible,.r:focus-visible,.seg button:focus-vi
   .rows .r .du{margin-left:6px}
   .rows .r .du::before{content:"· "}
   .rows .r .go{display:none}
+
+  /* leaderboard: drop edits + latest, keep rank/name/episodes */
+  .board .lb{grid-template-columns:44px 1fr 92px}
+  .board .lb .ed,.board .lb .lt{display:none}
 
   /* episode read: stack, tighter gutters */
   .read{grid-template-columns:1fr}

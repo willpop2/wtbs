@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block title %}Contributors · Waiting To Be Signed{% endblock %}
+{% block social %}
+<meta name="description" content="The readers keeping the transcripts accurate — every accepted edit earns a credited place on the leaderboard.">
+<link rel="canonical" href="{{ site_url }}contributors.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Waiting To Be Signed">
+<meta property="og:title" content="Contributors — Waiting To Be Signed">
+<meta property="og:description" content="The readers keeping the transcripts accurate. Suggest a fix; if we accept it, your handle lands here.">
+<meta property="og:url" content="{{ site_url }}contributors.html">
+{% if default_og %}<meta property="og:image" content="{{ default_og|e }}">{% endif %}
+<meta name="twitter:card" content="{{ 'summary_large_image' if default_og else 'summary' }}">
+<meta name="twitter:site" content="@waitingtosign">
+{% endblock %}
+{% block content %}
+
+<header class="hero">
+  <div class="top"><span>Reader-corrected archive // every accepted fix is credited</span></div>
+  <h1><span>The</span><span class="out">Contributors</span></h1>
+  <div class="bottom">
+    <div class="lede">Every transcript here can be corrected by anyone who spots an error. These are the readers whose fixes we reviewed and applied — ranked by how many interviews they've improved.</div>
+    <div class="mono">Suggest a fix on any episode. If we accept it, your handle lands here.<br><br>No accounts. Only edits we've reviewed and applied count — so the board can't be gamed by volume.</div>
+    <div class="act">
+      <a href="index.html#arch">Browse the index <span>→</span></a>
+      <a id="cta-surprise">Find something to fix <span>→</span></a>
+    </div>
+  </div>
+</header>
+
+<div class="stats">
+  <div><div class="n">{{ contrib_stats.editors }}</div><div class="l">Contributors</div></div>
+  <div class="hl"><div class="n">{{ contrib_stats.edits }}</div><div class="l">Accepted edits</div></div>
+  <div><div class="n">{{ contrib_stats.episodes }}</div><div class="l">Episodes improved</div></div>
+</div>
+
+{% if contributors %}
+<section class="board">
+  <div class="lb-head lb">
+    <div class="rk">#</div><div class="hd">Contributor</div>
+    <div class="ep">Episodes</div><div class="ed">Edits</div><div class="lt">Latest</div>
+  </div>
+  {% for p in contributors %}
+  <div class="lb{% if p.rank == 1 %} top{% endif %}">
+    <div class="rk">{{ '%02d'|format(p.rank) }}</div>
+    <div class="hd">{{ p.name }}{% if p.verified %}<span class="vf" title="Verified handle">✓</span>{% endif %}</div>
+    <div class="ep"><b>{{ p.episodes }}</b><span>ep{{ 's' if p.episodes != 1 }}</span></div>
+    <div class="ed">{{ p.count }}</div>
+    <div class="lt">{{ p.latest }}</div>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="feed">
+  <div class="head"><h2>Recent fixes</h2></div>
+  <ul>
+    {% for c in recent %}
+    <li>
+      <span class="fd-date">{{ c.date or '—' }}</span>
+      <span class="fd-sum">{{ c.summary|e }}</span>
+      <span class="fd-ep">{% if c.slug %}<a href="{{ c.slug }}.html">{{ c.guest|e }}</a>{% endif %}</span>
+      <span class="fd-by">— {{ c.credit|e }}{% if c.verified %} ✓{% endif %}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% else %}
+<section class="about"><p>No accepted edits yet — be the first. Spot an error on any transcript and suggest a fix.</p></section>
+{% endif %}
+
+<section class="about">
+  <h2>How it works</h2>
+  <p>Every interview transcript can be corrected by readers. Highlight the words you want to fix on any episode
+     page and suggest an edit. We review each one by hand — if we accept it, it's applied to the transcript,
+     logged in that episode's change log, and credited to your handle here. Because every edit is reviewed
+     before it counts, the board can't be gamed by volume, and a <span class="vf">✓</span> marks handles we've
+     confirmed. Ranking is by episodes improved, then total edits. The show's own hosts aren't listed —
+     this board is for the readers.</p>
+</section>
+
+{% endblock %}
+{% block scripts %}
+<script>
+  var cta = document.getElementById('cta-surprise');
+  if (cta) cta.addEventListener('click', function () { document.getElementById('surprise').click(); });
+</script>
+{% endblock %}

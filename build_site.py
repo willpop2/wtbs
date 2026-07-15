@@ -179,10 +179,29 @@ def _norm_handle(name: str) -> str:
     return re.sub(r"\s+", " ", name.lstrip("@").strip()).lower()
 
 
-def build_contributors(changelog: dict, ep_by_slug: dict) -> tuple:
+def _load_verified() -> set:
+    """Normalized handles you've confirmed — shown with a ✓ on the leaderboard.
+    Hand-maintained anti-impersonation list: one handle per row in verified.csv
+    (column 'handle'). Optional; absent/empty = nobody verified."""
+    out = set()
+    p = ROOT / "verified.csv"
+    if p.exists():
+        for r in csv.DictReader(p.open(encoding="utf-8")):
+            h = (r.get("handle") or "").strip()
+            if h:
+                out.add(_norm_handle(h))
+    return out
+
+
+HOSTS = {"will", "trinity"}          # the show's editors — kept off the community leaderboard
+
+
+def build_contributors(changelog: dict, ep_by_slug: dict, verified: set) -> tuple:
     """Aggregate credited edits into a leaderboard. Only entries with a credit
     count — the manual-accept step (an edit only lands in changelog.csv once
-    applied) is what makes this spam-proof: points accrue on accepted work only."""
+    applied) is what makes this spam-proof: points accrue on accepted work only.
+    Ranked by episodes improved first (so splitting one fix into many trivial
+    edits doesn't pay off), then total edits."""
     people = {}
     for slug, entries in changelog.items():
         ep = ep_by_slug.get(slug, {})
@@ -191,9 +210,11 @@ def build_contributors(changelog: dict, ep_by_slug: dict) -> tuple:
             if not credit:
                 continue
             key = _norm_handle(credit)
+            if key in HOSTS:                              # editors aren't community contributors
+                continue
             p = people.setdefault(key, {"name": credit.lstrip("@").strip(),
                                         "count": 0, "eps": set(), "latest": "",
-                                        "contribs": []})
+                                        "contribs": [], "verified": key in verified})
             p["count"] += 1
             if slug:
                 p["eps"].add(slug)
@@ -205,18 +226,19 @@ def build_contributors(changelog: dict, ep_by_slug: dict) -> tuple:
     for p in board:
         p["episodes"] = len(p["eps"])
         p["contribs"].sort(key=lambda c: c["date"], reverse=True)
-    # count desc, then most-recent edit, then name — via stable multi-pass sort
+    # episodes improved desc, then edits, then most-recent, then name (stable multi-pass)
     board.sort(key=lambda p: p["name"].lower())
     board.sort(key=lambda p: p["latest"], reverse=True)
     board.sort(key=lambda p: p["count"], reverse=True)
+    board.sort(key=lambda p: p["episodes"], reverse=True)
     for i, p in enumerate(board):
         p["rank"] = i + 1
     recent = sorted(
-        ({"credit": p["name"], **c} for p in board for c in p["contribs"]),
+        ({"credit": p["name"], "verified": p["verified"], **c}
+         for p in board for c in p["contribs"]),
         key=lambda c: c["date"], reverse=True)[:15]
     stats = {"editors": len(board), "edits": sum(p["count"] for p in board),
-             "episodes": len({c["slug"] for c in recent for c in [c] if c["slug"]}
-                             | {s for p in board for s in p["eps"]})}
+             "episodes": len({s for p in board for s in p["eps"]})}
     return board, recent, stats
 
 
@@ -480,6 +502,10 @@ def main() -> None:
     for i, e in enumerate(episodes):
         e["num"] = f"{n - i:03d}"
 
+    ep_by_slug = {e["slug"]: {"num": e["num"], "guest": e["guest"]} for e in episodes}
+    contributors, recent_edits, contrib_stats = build_contributors(
+        changelog, ep_by_slug, _load_verified())
+
     years = [e["year"] for e in episodes if e["year"]]
     founders = sum(1 for e in episodes if e["role"] != "Generative artist")
     platform_founders = len({re.sub(r"\(.*?\)", "", e["guest"]).strip().lower()
@@ -520,7 +546,12 @@ def main() -> None:
     default_og = f"{SITE_URL}og/_default.jpg" if (STATIC / "og" / "_default.jpg").exists() else ""
     env.get_template("index.html").stream(
         root="", episodes=episodes, stats=stats, ticker=ticker, quotes=quotes,
-        show=SHOW, site_url=SITE_URL, default_og=default_og).dump(str(SITE / "index.html"))
+        show=SHOW, site_url=SITE_URL, default_og=default_og,
+        contributors=contributors[:5], contrib_stats=contrib_stats).dump(str(SITE / "index.html"))
+    env.get_template("contributors.html").stream(
+        root="", show=SHOW, site_url=SITE_URL, default_og=default_og,
+        contributors=contributors, recent=recent_edits, contrib_stats=contrib_stats).dump(
+        str(SITE / "contributors.html"))
     for ep in episodes:
         env.get_template("episode.html").stream(
             root="", ep=ep, show=SHOW, suggest_endpoint=SUGGEST_ENDPOINT,

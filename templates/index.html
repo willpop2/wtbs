@@ -87,6 +87,22 @@
   <div class="empty" id="empty" hidden>No entries match.</div>
 </section>
 
+{% if contributors %}
+<section class="contrib-teaser">
+  <div class="head">
+    <h2>Contributors</h2>
+    <a href="contributors.html">Full leaderboard →</a>
+  </div>
+  {% for p in contributors %}
+  <a class="ct" href="contributors.html">
+    <span class="ct-rk">{{ '%02d'|format(p.rank) }}</span>
+    <span class="ct-nm">{{ p.name }}{% if p.verified %} <span class="vf">✓</span>{% endif %}</span>
+    <span class="ct-ep">{{ p.episodes }} ep{{ 's' if p.episodes != 1 }} improved</span>
+  </a>
+  {% endfor %}
+</section>
+{% endif %}
+
 <section class="about" id="about">
   <h2>About the show</h2>
   <p><em>Waiting To Be Signed</em> is a podcast hosted by Will and Trinity about generative and

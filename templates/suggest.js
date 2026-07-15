@@ -67,6 +67,7 @@
         '<label>Your name<input name="name" type="text" required></label>' +
         '<label>Email<input name="email" type="email" required></label>' +
       '</div>' +
+      '<p class="suggest-note muted">If we accept your edit, your name/handle may be credited on the public <a href="/contributors.html" target="_blank" rel="noopener">contributors</a> leaderboard.</p>' +
       '<label>Note <span class="muted">(optional)</span>' +
         '<textarea name="note" rows="2" placeholder="Anything else?"></textarea></label>' +
       '<input type="text" name="website" class="suggest-hp" tabindex="-1" autocomplete="off">' +
