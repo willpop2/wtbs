@@ -122,7 +122,7 @@
 <script>
 (function(){
   var PAPER='#f2efe4',INK='#22241c',GRID='#d9dbcc',MOSS='#4b6043',SEPIA='#8a7550';
-  var PINK='#dd7a9e',YELLOW='#e8bf3e',STONE='#e4dfcf',PINK_T='#ecd8de',YELLOW_T='#ece0bc';
+  var PINK='#dd7a9e',YELLOW='#e8bf3e';
   var reduce=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
   var STATIC=/[?&]static/.test(location.search);
   function mb(a){return function(){a|=0;a=a+0x6D2B79F5|0;var t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;};}
@@ -142,33 +142,10 @@
       c.beginPath();c.ellipse(rr*0.9,0,rr*0.85,rr*0.5,0,0,7);c.fillStyle=color;c.fill();c.strokeStyle=INK;c.lineWidth=0.6;c.stroke();c.restore();}
     c.beginPath();c.arc(x,y,rr*0.55,0,7);c.fillStyle=color===PINK?YELLOW:PINK;c.fill();c.strokeStyle=INK;c.lineWidth=0.6;c.stroke();
   }
-  function hatch(c,x,y,w,h,ink){c.save();c.beginPath();c.rect(x,y,w,h);c.clip();c.strokeStyle=ink;c.lineWidth=0.55;
-    for(var i=-h;i<w+h;i+=3){c.beginPath();c.moveTo(x+i,y+h+2);c.lineTo(x+i+h,y-2);c.stroke();}c.restore();}
-  function drawStone(c,x,y,w,h,rnd){                               // one masonry block: top face + front + shading
-    var dep=Math.min(w*0.34,8),dy=dep*0.55,t=rnd(),face=t<0.05?PINK_T:t<0.10?YELLOW_T:STONE;
-    c.beginPath();c.moveTo(x,y);c.lineTo(x+w,y);c.lineTo(x+w-dep,y-dy);c.lineTo(x-dep,y-dy);c.closePath();
-    c.fillStyle='#efeadb';c.fill();c.strokeStyle=INK;c.lineWidth=0.9;c.stroke();
-    var b1=(rnd()-0.5)*h*0.14,b2=(rnd()-0.5)*h*0.14;
-    c.beginPath();c.moveTo(x,y);c.lineTo(x+w,y);c.lineTo(x+w,y+h+b2);c.lineTo(x,y+h+b1);c.closePath();
-    c.fillStyle=face;c.fill();c.stroke();
-    hatch(c,x+w*0.58,y,w*0.42,h,'rgba(34,36,28,0.30)');            // shaded side
-    if(rnd()<0.5){c.strokeStyle='rgba(34,36,28,0.33)';c.lineWidth=0.55;c.beginPath();c.moveTo(x+w*0.2,y+h*0.4);c.lineTo(x+w*0.4,y+h*0.7);c.stroke();}
-  }
-  function column(c,x,baseY,w,h,rnd){                              // stacked cairn of blocks, tapering up
-    var cx=x+w/2,y=baseY,bw=w,top=baseY-h;
-    while(y>top){var bh=Math.max(9,bw*(0.45+rnd()*0.4));drawStone(c,cx-bw/2+(rnd()-0.5)*w*0.12,y-bh,bw,bh,rnd);
-      y-=bh-1;bw*=0.9+rnd()*0.06;if(bw<w*0.42)break;}
-  }
-  function pebble(c,x,y,r,rnd){                                    // one irregular cobble w/ crack
-    var v=7+Math.floor(rnd()*4);c.beginPath();
-    for(var i=0;i<v;i++){var a=i/v*6.283,rr=r*(0.72+rnd()*0.4),px=x+Math.cos(a)*rr,py=y+Math.sin(a)*rr*0.8;i?c.lineTo(px,py):c.moveTo(px,py);}
-    c.closePath();var t=rnd();c.fillStyle=t<0.06?PINK_T:t<0.12?YELLOW_T:STONE;c.fill();c.strokeStyle=INK;c.lineWidth=0.85;c.stroke();
-    c.strokeStyle='rgba(34,36,28,0.4)';c.lineWidth=0.55;c.beginPath();c.moveTo(x-r*0.45,y-r*0.05);c.quadraticCurveTo(x,y-r*0.5,x+r*0.4,y-r*0.12);c.stroke();
-  }
-  function rock(c,cx,baseY,r,rnd){                                 // packed mound of cobbles, back-to-front
-    var n=6+Math.floor(rnd()*7),mound=[];
-    for(var i=0;i<n;i++){var ox=(rnd()-0.5)*r*2.0;mound.push({x:cx+ox,y:baseY-rnd()*r*0.9-Math.abs(ox)*0.28,r:r*(0.38+rnd()*0.5)});}
-    mound.sort(function(a,b){return a.y-b.y;});mound.forEach(function(s){pebble(c,s.x,s.y,s.r,rnd);});
+  function twig(c,x,y,ang,len,rnd){                               // a short bare offshoot with a couple buds
+    var ex=x+Math.cos(ang)*len,ey=y+Math.sin(ang)*len;
+    c.strokeStyle=INK;c.lineWidth=0.9;c.beginPath();c.moveTo(x,y);c.lineTo(ex,ey);c.stroke();
+    if(rnd()<0.5){c.beginPath();c.arc(ex,ey,1.4,0,7);c.fillStyle=rnd()<0.5?PINK:YELLOW;c.fill();c.strokeStyle=INK;c.lineWidth=0.6;c.stroke();}
   }
   function field(cv,seed,scale){
     var rnd=mb(seed),d=Math.min(2,window.devicePixelRatio||1),r=cv.getBoundingClientRect();
@@ -178,25 +155,31 @@
     c.strokeStyle=GRID;c.lineWidth=1;var g=22;
     for(var gx=0;gx<W;gx+=g){c.beginPath();c.moveTo(gx,0);c.lineTo(gx,H);c.stroke();}
     for(var gy=0;gy<H;gy+=g){c.beginPath();c.moveTo(0,gy);c.lineTo(W,gy);c.stroke();}
-    var nc=1+Math.floor(rnd()*3);                                  // stone columns / monoliths (behind)
-    for(var ci=0;ci<nc;ci++){var cw2=(15+rnd()*16)*Math.max(0.7,scale),ch2=H*(0.42+rnd()*0.42);column(c,rnd()*(W-cw2),H,cw2,ch2,rnd);}
-    var nr=3+Math.floor(rnd()*4);                                  // rock clusters along the base
-    for(var ri=0;ri<nr;ri++){rock(c,rnd()*W,H-4-rnd()*10,(11+rnd()*16)*Math.max(0.7,scale),rnd);}
     var tips=[],cap=Math.round(W*H/135*scale),drawn=0;
-    var nb=Math.round(W/85)+3;
-    for(var i=0;i<nb;i++)tips.push({x:rnd()*W,y:H+4,a:-Math.PI/2+(rnd()-0.5)*0.55,life:90+rnd()*110,gen:0});
-    for(var j=0;j<Math.max(3,nb-2);j++)tips.push({x:rnd()*W,y:-4,a:Math.PI/2+(rnd()-0.5)*0.65,life:80+rnd()*100,gen:0});
+    var nb=Math.round(W/78)+3;
+    function seed(x,y,a,type){var life=type==='branch'?(120+rnd()*130):(85+rnd()*105);
+      tips.push({x:x,y:y,a:a,life:life,life0:life,gen:0,type:type,w:type==='branch'?(2.8+rnd()*2.0)*Math.max(0.7,scale):1.6});}
+    for(var i=0;i<nb;i++)seed(rnd()*W,H+4,-Math.PI/2+(rnd()-0.5)*0.5,rnd()<0.42?'branch':'vine');
+    for(var j=0;j<Math.max(3,nb-3);j++)seed(rnd()*W,-4,Math.PI/2+(rnd()-0.5)*0.6,rnd()<0.28?'branch':'vine');
     function step(){
       var alive=false;
       for(var k=0;k<tips.length;k++){var t=tips[k];if(t.life<=0)continue;alive=true;
-        var seg=3.2,nx=t.x+Math.cos(t.a)*seg,ny=t.y+Math.sin(t.a)*seg;
-        c.strokeStyle=INK;c.lineWidth=Math.max(0.7,1.6-t.gen*0.28);
+        var br=t.type==='branch',seg=br?4.6:3.2;
+        var nx=t.x+Math.cos(t.a)*seg,ny=t.y+Math.sin(t.a)*seg;
+        c.strokeStyle=INK;c.lineWidth=br?Math.max(0.8,t.w*(t.life/t.life0)):Math.max(0.7,1.5-t.gen*0.28);
         c.beginPath();c.moveTo(t.x,t.y);c.lineTo(nx,ny);c.stroke();
-        t.x=nx;t.y=ny;t.a+=(rnd()-0.5)*0.5;t.a+=(t.y>H*0.5?-0.02:0.005)*(t.gen?1:1);
+        t.x=nx;t.y=ny;t.a+=(rnd()-0.5)*(br?0.2:0.5);t.a+=(t.y>H*0.5?-0.02:0.006);
         t.life--;drawn++;
-        if(rnd()<0.22)leaf(c,nx,ny,t.a+(rnd()<0.5?1.25:-1.25),4+rnd()*5.5*scale,rnd);
-        else if(rnd()<0.035)bloom(c,nx,ny,rnd()<0.5?PINK:YELLOW,rnd);
-        if(rnd()<0.085&&t.gen<4&&drawn<cap){tips.push({x:nx,y:ny,a:t.a+(rnd()<0.5?0.75:-0.75),life:t.life*0.62,gen:t.gen+1});}
+        if(br){                                                        // woody branch: sparse foliage, twigs, blossoms near tips
+          if(rnd()<0.07)leaf(c,nx,ny,t.a+(rnd()<0.5?1.3:-1.3),3.5+rnd()*4*scale,rnd);
+          if(rnd()<0.05)twig(c,nx,ny,t.a+(rnd()<0.5?1.0:-1.0),5+rnd()*8,rnd);
+          if(t.life<t.life0*0.45&&rnd()<0.03)bloom(c,nx,ny,rnd()<0.5?PINK:YELLOW,rnd);
+          if(rnd()<0.075&&t.gen<4&&drawn<cap)tips.push({x:nx,y:ny,a:t.a+(rnd()<0.5?0.6:-0.6)+(rnd()-0.5)*0.3,life:t.life*0.72,life0:t.life0,gen:t.gen+1,type:'branch',w:t.w*0.6});
+        } else {                                                       // curly vine: leafy, occasional bloom
+          if(rnd()<0.22)leaf(c,nx,ny,t.a+(rnd()<0.5?1.25:-1.25),4+rnd()*5.5*scale,rnd);
+          else if(rnd()<0.035)bloom(c,nx,ny,rnd()<0.5?PINK:YELLOW,rnd);
+          if(rnd()<0.085&&t.gen<4&&drawn<cap)tips.push({x:nx,y:ny,a:t.a+(rnd()<0.5?0.75:-0.75),life:t.life*0.62,life0:t.life0,gen:t.gen+1,type:'vine',w:1.6});
+        }
         if(t.x<-10||t.x>W+10||t.y<-10||t.y>H+10||drawn>cap)t.life=0;
       }
       return alive&&drawn<cap;
