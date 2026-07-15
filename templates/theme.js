@@ -7,7 +7,8 @@
     { id: 'brutalist', name: 'Brutalist' },
     { id: 'swahn',     name: 'Erik Swahn' },
     { id: 'gysin',     name: 'Andreas Gysin' },
-    { id: 'zancan',    name: 'Zancan' }
+    { id: 'zancan',    name: 'Zancan' },
+    { id: 'jeres',     name: 'Jeres' }
   ];
   var ROOT = ((document.currentScript && document.currentScript.src) || '').replace(/theme\.js.*$/, '');
   function cur() { try { return localStorage.getItem('wtbs-look') || 'brutalist'; } catch (e) { return 'brutalist'; } }

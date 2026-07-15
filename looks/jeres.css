@@ -1,0 +1,39 @@
+/* Look: Jeres — "Coronado": soft luminous translucent color-planes.
+   Scoped under html[data-look="jeres"]. */
+html[data-look="jeres"]{ --w:#f2ecf6; --k:#241a33; --acid:#e5389a; }
+html[data-look="jeres"] body{
+  background:#f2ecf6;
+  background-image:linear-gradient(160deg,#f6eef8 0%,#eee8f6 45%,#f4e6ef 100%);
+}
+html[data-look="jeres"] .note{background:var(--k);color:#f3c7e6}
+/* softer, calmer rules than the brutalist slabs */
+html[data-look="jeres"] .nav,html[data-look="jeres"] .nav .links a,html[data-look="jeres"] .nav .b,
+html[data-look="jeres"] .hero,html[data-look="jeres"] .hero .top,html[data-look="jeres"] .hero .bottom>div,
+html[data-look="jeres"] .stats,html[data-look="jeres"] .stats>div,html[data-look="jeres"] .quote,html[data-look="jeres"] .quote .tag,
+html[data-look="jeres"] .arch .head,html[data-look="jeres"] .filters,html[data-look="jeres"] .chip,
+html[data-look="jeres"] .rows .r,html[data-look="jeres"] .rows .r>div,html[data-look="jeres"] .read,html[data-look="jeres"] .read .meta,
+html[data-look="jeres"] .about,html[data-look="jeres"] footer,html[data-look="jeres"] .seg,html[data-look="jeres"] .seg button,
+html[data-look="jeres"] .player,html[data-look="jeres"] .board,html[data-look="jeres"] .board .lb,html[data-look="jeres"] .board .lb>div,
+html[data-look="jeres"] .feed,html[data-look="jeres"] .feed .head,html[data-look="jeres"] .contrib-teaser,
+html[data-look="jeres"] .contrib-teaser .head,html[data-look="jeres"] .contrib-teaser .ct,html[data-look="jeres"] .share .chip,
+html[data-look="jeres"] .look-btn,html[data-look="jeres"] .look-menu,html[data-look="jeres"] .look-menu li{border-color:#c9b6dd;border-width:2px}
+/* luminous gradient wordmark */
+html[data-look="jeres"] .hero h1{-webkit-text-stroke:0;color:transparent;text-shadow:none;
+  background:linear-gradient(115deg,#e5389a 0%,#a24be0 45%,#2f9fd6 100%);-webkit-background-clip:text;background-clip:text}
+html[data-look="jeres"] .hero h1 .out{color:transparent;-webkit-text-stroke:0}
+html[data-look="jeres"] .stats .n,html[data-look="jeres"] .rows .nm,html[data-look="jeres"] .board .lb .hd,
+html[data-look="jeres"] .contrib-teaser .ct-nm{letter-spacing:.01em}
+/* generative color-plane hero behind the masthead */
+html[data-look="jeres"] .hero{position:relative;overflow:hidden}
+html[data-look="jeres"] .hero>*{position:relative;z-index:1}
+html[data-look="jeres"] #look-hero{position:absolute;inset:0;width:100%;height:100%;z-index:0;opacity:.62}
+html[data-look="jeres"] .hero h1,html[data-look="jeres"] .hero .top,html[data-look="jeres"] .hero .lede{text-shadow:0 1px 0 rgba(242,236,246,.9),0 0 10px rgba(242,236,246,.9)}
+html[data-look="jeres"] .hero h1{text-shadow:none}
+html[data-look="jeres"] .hero .bottom>div{background:rgba(242,236,246,.68)}
+/* Coronado divider band */
+html[data-look="jeres"] .look-divider{border-bottom:2px solid #c9b6dd;line-height:0}
+html[data-look="jeres"] .look-divider canvas{display:block;width:100%;height:26px}
+/* per-row swatch (adds a leading column to the row grid) */
+html[data-look="jeres"] .rows .r{grid-template-columns:50px 54px minmax(150px,1fr) 1.5fr 160px 70px 40px}
+html[data-look="jeres"] .look-swatch{width:38px;height:34px;display:block;align-self:center;margin-left:11px;border:2px solid #c9b6dd}
+@media(max-width:900px){html[data-look="jeres"] .look-swatch,html[data-look="jeres"] .look-divider{display:none}}
