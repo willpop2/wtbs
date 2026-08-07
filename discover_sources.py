@@ -133,13 +133,32 @@ def resolve_artblocks(name):
         return []
 
 
+def _ab_name_variants(work):
+    """Name spellings to try against Art Blocks — handles plural vs singular and
+    camelCase (e.g. 'Gumbos' -> also 'Gumbo'), so a slightly-off transcript name
+    still resolves to the real project."""
+    base = decamel(work).strip().replace('"', "")
+    vs = {base}
+    if base.lower().endswith("s"):
+        vs.add(base[:-1])
+    for w in distinctive_words(work):
+        vs.add(w)
+        if w.lower().endswith("s"):
+            vs.add(w[:-1])
+    return [v for v in vs if len(v) >= 3]
+
+
 def best_artblocks(work, aliases):
-    hits = [p for p in resolve_artblocks(work) if p.get("contract_address")]
+    hits = {}
+    for v in _ab_name_variants(work):          # try variants, not just the raw name
+        for p in resolve_artblocks(v):
+            if p.get("contract_address"):
+                hits[(p["contract_address"], p["project_id"])] = p
     if not hits:
         return None
-    return max(hits, key=lambda p: (artist_matches(p["artist_name"], aliases),
-                                    norm(work) in norm(p["name"]) or norm(p["name"]) in norm(work),
-                                    int(p.get("invocations") or 0)))
+    return max(hits.values(), key=lambda p: (artist_matches(p["artist_name"], aliases),
+                                             norm(work) in norm(p["name"]) or norm(p["name"]) in norm(work),
+                                             int(p.get("invocations") or 0)))
 
 
 def _q_objkt(hits_where):
@@ -250,16 +269,28 @@ def discover(slug, base, guest):
         done = False
         if ab:
             am = artist_matches(ab["artist_name"], aliases)
-            mark = "" if am else "  ⚠️ artist is NOT the guest — reference; verify"
+            name_ok = norm(w) in norm(ab["name"]) or norm(ab["name"]) in norm(w)
+            mark = ("" if am else
+                    "  ⚠️ reference (by another artist) — auto-scoped by project, verify" if name_ok else
+                    "  ⚠️ name is fuzzy AND not the guest — NOT auto-added, verify")
             lines.append(f"- **Art Blocks**: proj {ab['project_id']} on `{ab['contract_address']}` — "
                          f"'{ab['name']}' by {ab['artist_name']} ({ab['invocations']} mints){mark}")
-            if am:
+            # Art Blocks contracts are shared + project-numbered, so ALWAYS scope by
+            # `project` (never name_like). Emit for the guest's own work and for a
+            # clearly name-matched reference; skip only fuzzy non-guest matches.
+            if am or name_ok:
                 resolved[w] = {"source": "alchemy", "contract": ab["contract_address"],
                                "project": int(ab["project_id"]), "artist": ab["artist_name"]}
                 done = True
         if eth:
-            flag = "  ⚠️ SHARED contract — needs project #" if eth["shared"] else ""
-            lines.append(f"- **ETH**: `{eth['contract']}` — names {eth['names']} · supply {eth['supply']}{flag}")
+            # A shared contract must be scoped by `project` (token id // 1e6), never by
+            # name_like — a name scan misses high-numbered projects and then falls
+            # through to the whole contract (mixing sibling projects). So we do NOT
+            # auto-resolve a shared contract here; we flag it for a manual project #.
+            flag = ("  ⚠️ SHARED contract — add `project: <token id // 1_000_000>` manually; "
+                    "do NOT use name_like" if eth["shared"] else "")
+            lines.append(f"- **ETH**: `{eth['contract']}` — names {eth['names']} · supply {eth['supply']}"
+                         f" · sample token {eth.get('sample_tid')}{flag}")
             if not eth["shared"]:
                 resolved[w] = {"source": "alchemy", "contract": eth["contract"], "artist": guest}
                 done = True
