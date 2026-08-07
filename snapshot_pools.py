@@ -63,6 +63,18 @@ CONFIG = {
 }
 CAP = 300  # max pieces per work to snapshot
 
+# Art Blocks-style shared contracts host MANY projects (token id = project*1e6 +
+# edition). Snapshotting one whole-contract mixes unrelated projects, so a numeric
+# `project` scope is REQUIRED for these — otherwise we skip rather than mis-attribute.
+# (A `name_like` scan only sees the first few thousand token ids, so it silently
+# misses high-numbered projects and then used to fall through to the whole contract —
+# which is exactly how Gumbo/Operators once pulled in sibling projects.)
+AB_SHARED = {
+    "0x99a9b7c1116f9ceeb1652de04d5969cce509b069",  # AB Curated Engine (raster.art)
+    "0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270",  # AB flagship (Curated / Playground / Factory)
+    "0x059edd72cd353df5106d2b9cc5ab83a52287ac3a",  # AB legacy V0 (Squiggle / Genesis / Construction)
+}
+
 
 def _key() -> str:
     for line in (ROOT / ".env").read_text(encoding="utf-8").splitlines():
@@ -141,6 +153,10 @@ def snapshot_work(base: str, contract: str, project=None, name_like=None) -> lis
     shared contract to one project (token id = project*1e6 + edition). `name_like`
     keeps only tokens whose name contains it — guards against a shared/multi-work
     contract (e.g. a raster ETH work on a Manifold-style contract)."""
+    if contract.lower() in AB_SHARED and project is None:
+        print(f"  ! {contract} is a shared Art Blocks contract; a numeric `project` is "
+              f"required (a name scope is unreliable here) — skipping to avoid mixing projects.")
+        return []
     lo = project * 1_000_000 if project is not None else None
     hi = (project + 1) * 1_000_000 if project is not None else None
     toks, page, scanned = [], None, 0          # [(tokenId, edition-or-id, img, live-url)]
@@ -169,6 +185,8 @@ def snapshot_work(base: str, contract: str, project=None, name_like=None) -> lis
             img = im.get("cachedUrl") or im.get("pngUrl") or im.get("thumbnailUrl") or im.get("originalUrl")
             if not img or "ipfs.io" in img or img.startswith(("ipfs://", "ar://")):
                 continue                       # skip pieces Alchemy hasn't cached (raw ipfs = flaky still)
+            if "media-proxy.artblocks.io/" in img:   # 301s to core-api; store the resolved URL
+                img = img.replace("https://media-proxy.artblocks.io/", "https://core-api.artblocks.io/media/")
             mm = re.search(r"#(\d+)", nm)                         # edition from the name
             edition = mm.group(1) if mm else (str(tid - lo) if lo is not None else str(tid))
             md = n.get("raw", {}).get("metadata", {}) or {}       # live/animated view if any
@@ -178,8 +196,8 @@ def snapshot_work(base: str, contract: str, project=None, name_like=None) -> lis
         if done or not page:
             break
         time.sleep(0.2)
-    if name_like and not toks:                 # filter matched nothing -> dedicated contract
-        return snapshot_work(base, contract, project, name_like=None)
+    if name_like and not toks and contract.lower() not in AB_SHARED:  # dedicated contract only
+        return snapshot_work(base, contract, project, name_like=None)  # (never whole-contract on a shared one)
     # owners: per-token for a project slice, else the whole-contract map
     if project is not None:
         from concurrent.futures import ThreadPoolExecutor
