@@ -1,6 +1,6 @@
 # Numbered / weekly episodes — archive index
 
-136 cleaned episodes in `transcripts/clean_numbered/`. Skim titles, flag any that are really artist interviews worth publishing.
+128 cleaned episodes in `transcripts/clean_numbered/`. Skim titles, flag any that are really artist interviews worth publishing.
 
 | slug | title | words |
 |---|---|---|
@@ -129,14 +129,6 @@
 | `E123` | E123 - Go Camping! | 12,508 |
 | `E124` | E124 - Choose Your Own Sports Analogy | 9,967 |
 | `E125` | E125 - Going To College | 8,764 |
-| `10_Artists_Planning_Open_Form_Releases_o` | 10 Artists Planning Open Form Releases on fx(hash) | 11,110 |
-| `A_Philosophy_on_Flipping` | A Philosophy on Flipping | 5,032 |
-| `Artist_Commons_Art_Whispering_with_Haive` | Artist Commons: Art Whispering with Haiver | 12,203 |
-| `Big_Yapping_about_fxh_with_Pronoia` | Big Yapping about $fxh with Pronoia | 9,621 |
 | `E112b_The_Euros_Want_Them` | E112b - The Euros Want Them | 7,400 |
 | `The_WTBS_2024_Mega_Episode` | The WTBS 2024 Mega Episode | 44,752 |
-| `Waiting_To_Be_Listed_VIDEO_pt_1` | Waiting To Be Listed VIDEO pt. 1 | 12,934 |
-| `Waiting_To_Be_Listed_VIDEO_pt_2` | Waiting To Be Listed VIDEO pt. 2 | 13,291 |
-| `WTBS_Cap_Live_on_fx_hash` | WTBS Cap *Live* on fx(hash)!!! | 793 |
 | `WTBS_x_Kaloh_fx_hash_Collector_s_Guide` | WTBS x Kaloh fx(hash) Collector's Guide | 9,640 |
-| `Your_Ultimate_Guide_to_fx_hash_2_0_w_Cip` | Your Ultimate Guide to fx(hash) 2.0 w/ Ciphrd & Adam Berninger | 13,149 |
