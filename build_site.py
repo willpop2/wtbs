@@ -574,6 +574,11 @@ def main() -> None:
     # --- cross-corpus mention search (numbered transcripts stay unpublished; only
     #     an artist/work -> episode index + short snippets are emitted) ---
     entities, numbered = search_index.load_or_build()
+    for o in numbered:                                          # audio from the RSS feed (matched by title)
+        fm = meta.get(o["title"], {})
+        o["audio_src"] = fm.get("audio_url", "")
+        o["duration"] = hm(fm.get("secs", 0))
+        o["date_short"] = f"{fm['dt']:%b %Y}".upper() if fm.get("dt") else ""
     (SITE / "search.json").write_text(json.dumps({
         "e": entities,
         "it": {e["slug"]: e["display_title"] for e in episodes},   # interview titles
