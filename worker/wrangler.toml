@@ -20,3 +20,10 @@ binding = "SUGGESTIONS"
 id = "0dea830aaffa4483ba59bf66a23db2ed"
 
 # RESEND_API_KEY is a SECRET — set it with:  wrangler secret put RESEND_API_KEY
+
+# Workers Analytics Engine — custom engagement events (theme switches, shares,
+# edit submits, audio plays). Free tier; no namespace to create. If the account
+# has never used it, enable Analytics Engine once in the Cloudflare dashboard.
+[[analytics_engine_datasets]]
+binding = "EVENTS"
+dataset = "wtbs_events"

@@ -22,6 +22,8 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
 
+import search_index
+
 ROOT = Path(__file__).parent
 SITE = ROOT / "site"
 STATIC = ROOT / "static"             # favicons / share assets copied verbatim into site/
@@ -36,6 +38,12 @@ FEED = ROOT / "scratch_feed.xml"
 # Deployed suggestion Worker (public URL, not a secret). Override with the env var.
 SUGGEST_ENDPOINT = os.environ.get(
     "WTBS_SUGGEST_ENDPOINT", "https://wtbs-suggest.willpop2.workers.dev")
+# Cloudflare Web Analytics beacon token (public — it ships in every visitor's HTML).
+# Get it: Cloudflare dashboard -> Analytics & Logs -> Web Analytics -> Add a site
+# (wtbs.show) -> copy the "token" from the JS snippet. Paste it here (or set the
+# env var). When empty, no beacon is emitted, so the build stays clean.
+CF_BEACON_TOKEN = os.environ.get(
+    "WTBS_CF_BEACON_TOKEN", "f69e2f6e95bb7fe8ede8cb5fcaebce38")
 
 # Show-wide handles (real, from the brief).
 SHOW = {
@@ -454,6 +462,8 @@ def main() -> None:
     changelog = load_changelog()
     curated = load_curated()
     env = Environment(loader=FileSystemLoader(str(ROOT / "templates")), autoescape=False)
+    env.globals["cf_beacon"] = CF_BEACON_TOKEN   # available to every template via base.html
+    env.globals["events_endpoint"] = SUGGEST_ENDPOINT.rstrip("/") + "/event"  # custom engagement events
     FINAL.mkdir(parents=True, exist_ok=True)
 
     episodes = []
@@ -561,7 +571,26 @@ def main() -> None:
             site_url=SITE_URL, default_og=default_og).dump(
             str(SITE / f"{ep['slug']}.html"))
 
+    # --- cross-corpus mention search (numbered transcripts stay unpublished; only
+    #     an artist/work -> episode index + short snippets are emitted) ---
+    entities, numbered = search_index.build_search()
+    (SITE / "search.json").write_text(json.dumps({
+        "e": entities,
+        "it": {e["slug"]: e["display_title"] for e in episodes},   # interview titles
+        "nt": {o["slug"]: o["title"] for o in numbered},           # weekly titles
+    }, ensure_ascii=False), encoding="utf-8")
+    env.get_template("search.html").stream(
+        root="", show=SHOW, site_url=SITE_URL,
+        n_interviews=len(episodes), n_numbered=len(numbered)).dump(str(SITE / "search.html"))
+    env.get_template("numbered_archive.html").stream(
+        root="", show=SHOW, site_url=SITE_URL, numbered=numbered).dump(str(SITE / "numbered.html"))
+    (SITE / "n").mkdir(exist_ok=True)
+    for o in numbered:
+        env.get_template("numbered_episode.html").stream(
+            root="../", show=SHOW, site_url=SITE_URL, ep=o).dump(str(SITE / "n" / f"{o['slug']}.html"))
+
     print(f"Built {n} episode pages + ledger index into {SITE}/")
+    print(f"  + search index ({len(entities)} entities) + {len(numbered)} weekly pages")
 
 
 if __name__ == "__main__":

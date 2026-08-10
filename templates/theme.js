@@ -40,6 +40,7 @@
     var r = document.documentElement;
     if (id === 'brutalist') r.removeAttribute('data-look'); else r.setAttribute('data-look', id);
     setCss(id); applyHero(id); render();
+    if (window.wtbsTrack) window.wtbsTrack('look_change', id);
   }
 
   var btn, menu;

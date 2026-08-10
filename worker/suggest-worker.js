@@ -28,11 +28,33 @@ function json(status, obj, o) {
 const esc = s => String(s || "").replace(/[<>&]/g, c => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]));
 const escAttr = s => esc(s).replace(/"/g, "&quot;");           // also safe inside href="…"
 
+// ---- engagement events -> Workers Analytics Engine ----
+// Fire-and-forget: theme switches, edit submits, shares, audio plays. No PII.
+function trackEvent(request, env, origin) {
+  if (env.ALLOW_ORIGIN && request.headers.get("Origin") !== env.ALLOW_ORIGIN)
+    return new Response(null, { status: 403, headers: cors(origin) });
+  return request.text().then((raw) => {
+    let d = {};
+    try { d = JSON.parse(raw || "{}"); } catch {}
+    const name = String(d.e || "").slice(0, 40);
+    if (name && env.EVENTS) {
+      env.EVENTS.writeDataPoint({
+        indexes: [name],                                         // group/sample by event name
+        blobs: [name, String(d.d || "").slice(0, 96), String(d.p || "").slice(0, 128)],
+        doubles: [1],
+      });
+    }
+    return new Response(null, { status: 204, headers: cors(origin) });   // no body needed
+  });
+}
+
 export default {
   // ---- intake ----
   async fetch(request, env) {
     const origin = env.ALLOW_ORIGIN || "*";
     if (request.method === "OPTIONS") return new Response(null, { headers: cors(origin) });
+    if (new URL(request.url).pathname === "/event" && request.method === "POST")
+      return trackEvent(request, env, origin);
     if (request.method !== "POST") return json(405, { error: "method" }, origin);
     if (env.ALLOW_ORIGIN && request.headers.get("Origin") !== env.ALLOW_ORIGIN)
       return json(403, { error: "forbidden" }, origin);

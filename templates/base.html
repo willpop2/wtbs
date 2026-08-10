@@ -15,6 +15,20 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,500;1,9..144,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ root }}style.css">
 <script>
+  /* Fire-and-forget engagement events to the Worker's /event route (Analytics
+     Engine). text/plain keeps it a "simple" request (no CORS preflight). Never
+     blocks or throws; silently no-ops if the endpoint is unset. */
+  window.wtbsTrack = function (name, detail) {
+    try {
+      var url = {{ events_endpoint|tojson }};
+      if (!url || !name) return;
+      var body = JSON.stringify({ e: String(name), d: detail == null ? "" : String(detail), p: location.pathname });
+      if (navigator.sendBeacon) navigator.sendBeacon(url, new Blob([body], { type: "text/plain;charset=UTF-8" }));
+      else fetch(url, { method: "POST", body: body, keepalive: true, headers: { "Content-Type": "text/plain" } });
+    } catch (e) {}
+  };
+</script>
+<script>
   /* apply the saved "Look" before paint so there's no flash of the default */
   (function () {
     try {
@@ -39,6 +53,8 @@
     <a class="b" href="{{ root }}index.html">Waiting To Be Signed</a>
     <div class="links">
       <a href="{{ root }}index.html#arch">Index</a>
+      <a href="{{ root }}search.html">Search</a>
+      <a href="{{ root }}numbered.html">Weekly</a>
       <a href="{{ root }}contributors.html">Leaderboard</a>
       <a href="{{ root }}index.html#about">About</a>
       <a href="{{ show.twitter }}" target="_blank" rel="noopener">X ↗</a>
@@ -61,5 +77,7 @@
 </script>
 {% block scripts %}{% endblock %}
 <script src="{{ root }}theme.js"></script>
+{% if cf_beacon %}<!-- Cloudflare Web Analytics (privacy-first, no cookies) -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ cf_beacon }}"}'></script>{% endif %}
 </body>
 </html>

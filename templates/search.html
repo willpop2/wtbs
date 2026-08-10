@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% block title %}Search · Waiting To Be Signed{% endblock %}
+{% block content %}
+<style>
+  .srch{max-width:900px}
+  .srch h1{font-family:var(--mono);font-size:1.5rem;text-transform:uppercase;letter-spacing:.02em;margin:1.4rem 0 .3rem}
+  .srch .sub{color:var(--muted,#666);font-size:.95rem;margin:0 0 1.1rem;max-width:60ch}
+  .srch .box{display:flex;border:3px solid var(--k);background:var(--w)}
+  .srch .box input{flex:1;border:0;background:transparent;color:var(--k);font:inherit;
+    font-family:var(--mono);font-size:1.1rem;padding:.8rem 1rem;outline:none}
+  .srch .box .ic{padding:.8rem 1rem;font-family:var(--mono);color:var(--muted,#888)}
+  .sugg{display:flex;flex-wrap:wrap;gap:.4rem;margin:.7rem 0 0}
+  .sugg button{font-family:var(--mono);font-size:12px;text-transform:uppercase;letter-spacing:.02em;
+    border:2px solid var(--k);background:var(--w);color:var(--k);padding:.35rem .6rem;cursor:pointer}
+  .sugg button:hover{background:var(--k);color:var(--w)}
+  .sugg button .t{color:var(--acid,#c8f000);background:var(--k);padding:0 .25rem;margin-left:.35rem}
+  .sugg button:hover .t{background:var(--w);color:var(--k)}
+  .res{margin-top:1.6rem}
+  .res .ehead{font-family:var(--mono);font-size:1.7rem;text-transform:uppercase;margin:0}
+  .res .emeta{font-family:var(--mono);font-size:12px;text-transform:uppercase;color:var(--muted,#777);margin:.2rem 0 1.2rem}
+  .res h3{font-family:var(--mono);font-size:13px;text-transform:uppercase;letter-spacing:.08em;
+    border-bottom:2px solid var(--k);padding-bottom:.3rem;margin:1.4rem 0 .6rem}
+  .res h3 .note{float:right;color:var(--muted,#888);text-transform:none;letter-spacing:0;font-size:11px}
+  .hit{border-bottom:1px solid var(--line,#e5e5e5);padding:.55rem 0}
+  .hit a{font-weight:700}
+  .hit .cnt{font-family:var(--mono);font-size:11px;background:var(--acid,#c8f000);color:#111;padding:.05rem .4rem;margin-left:.4rem}
+  .hit .snip{display:block;color:var(--muted,#666);font-size:.9rem;margin-top:.25rem}
+  .hit .snip b{color:var(--k)}
+  .more{color:var(--muted,#888);font-size:.85rem;font-family:var(--mono);margin:.5rem 0}
+  .empty{color:var(--muted,#777);margin-top:1.4rem}
+</style>
+<section class="srch">
+  <h1>Search the archive</h1>
+  <p class="sub">Find an artist or a work across <b>every</b> episode — the {{ n_interviews }} interviews and the
+    {{ n_numbered }} weekly/numbered episodes. The weekly transcripts aren't published, but they're indexed here,
+    so you can see everywhere someone like <b>Zancan</b> or a work like <b>Fidenza</b> comes up.</p>
+  <div class="box"><span class="ic">⌕</span>
+    <input id="q" type="search" placeholder="artist or work name…" autocomplete="off" autofocus
+      aria-label="Search artists and works"></div>
+  <div class="sugg" id="sugg"></div>
+  <div class="res" id="res"><p class="empty">Start typing a name — e.g. <em>Zancan</em>, <em>Fidenza</em>, <em>Ciphrd</em>.</p></div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  var DATA = null, ents = [], byName = {};
+  var q = document.getElementById('q'), sugg = document.getElementById('sugg'), res = document.getElementById('res');
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function hl(snip, name){                 // bold the matched name inside the (escaped) snippet
+    var e = esc(snip);
+    try { e = e.replace(new RegExp('('+name.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'),'<b>$1</b>'); } catch(_){}
+    return e;
+  }
+  function hit(slug, cnt, snip, name, base){
+    var title = (base === 'n/' ? DATA.nt[slug] : DATA.it[slug]) || slug;
+    return '<div class="hit"><a href="'+base+esc(slug)+'.html">'+esc(title)+'</a>'
+      + '<span class="cnt">'+cnt+'\u00d7</span>'
+      + (snip ? '<span class="snip">'+hl(snip, name)+'</span>' : '') + '</div>';
+  }
+  function render(e){
+    if (!e) { res.innerHTML = '<p class="empty">No artist or work matches that. Try a shorter or different spelling.</p>'; return; }
+    var h = '<h2 class="ehead">'+esc(e.n)+'</h2><p class="emeta">'+e.t+' · '+e.total+' mentions · '
+      + (e.iv.length + e.iv_more + e.nm.length + e.nm_more) + ' episodes</p>';
+    if (e.iv.length){
+      h += '<h3>Interviews <span class="note">full transcript</span>('+(e.iv.length+e.iv_more)+')</h3>';
+      e.iv.forEach(function(r){ h += hit(r[0], r[1], r[2], e.n, ''); });
+      if (e.iv_more) h += '<p class="more">+ '+e.iv_more+' more</p>';
+    }
+    if (e.nm.length){
+      h += '<h3>Weekly episodes <span class="note">transcript not published — indexed only</span>('+(e.nm.length+e.nm_more)+')</h3>';
+      e.nm.forEach(function(r){ h += hit(r[0], r[1], r[2], e.n, 'n/'); });
+      if (e.nm_more) h += '<p class="more">+ '+e.nm_more+' more</p>';
+    }
+    res.innerHTML = h;
+    if (window.wtbsTrack) window.wtbsTrack('search', e.n);
+  }
+  function matches(query){
+    if (!query) return [];
+    var out = ents.filter(function(e){ return e.n.toLowerCase().indexOf(query) > -1; });
+    out.sort(function(a,b){
+      var as = a.n.toLowerCase().indexOf(query)===0?0:1, bs = b.n.toLowerCase().indexOf(query)===0?0:1;
+      return as-bs || b.total-a.total;
+    });
+    return out;
+  }
+  function update(){
+    var query = q.value.trim().toLowerCase();
+    if (!query){ sugg.innerHTML=''; res.innerHTML='<p class="empty">Start typing a name — e.g. <em>Zancan</em>, <em>Fidenza</em>, <em>Ciphrd</em>.</p>'; return; }
+    var m = matches(query);
+    sugg.innerHTML = m.slice(0,12).map(function(e){
+      return '<button data-n="'+esc(e.n)+'">'+esc(e.n)+'<span class="t">'+e.t+'</span></button>';
+    }).join('');
+    var exact = m.find(function(e){ return e.n.toLowerCase()===query; });
+    render(exact || m[0] || null);
+  }
+  function load(cb){
+    if (DATA) return cb();
+    fetch('search.json').then(function(r){return r.json();}).then(function(d){
+      DATA = d; ents = d.e; ents.forEach(function(e){ byName[e.n.toLowerCase()] = e; }); cb();
+    }).catch(function(){ res.innerHTML = '<p class="empty">Could not load the search index.</p>'; });
+  }
+  q.addEventListener('input', function(){ load(update); });
+  sugg.addEventListener('click', function(ev){
+    var b = ev.target.closest('button'); if (!b) return;
+    q.value = b.getAttribute('data-n'); load(update); res.scrollIntoView({behavior:'smooth', block:'start'});
+  });
+  // deep link: ?q=Zancan  (used by the weekly-episode pages' chips)
+  var pre = (location.search.match(/[?&]q=([^&]+)/) || [])[1];
+  if (pre){ q.value = decodeURIComponent(pre.replace(/\+/g,' ')); load(update); }
+})();
+</script>
+{% endblock %}

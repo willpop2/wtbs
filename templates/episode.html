@@ -118,6 +118,10 @@
   pb.addEventListener('click', toggle);
   mpBtn.addEventListener('click', toggle);
   ['play', 'pause', 'ended'].forEach(function (e) { audio.addEventListener(e, icons); });
+  var trackedPlay = false;
+  audio.addEventListener('play', function () {
+    if (!trackedPlay && window.wtbsTrack) { trackedPlay = true; window.wtbsTrack('play', (window.WTBS && WTBS.episode) || ''); }
+  });
   var seeking = false;
   audio.addEventListener('timeupdate', function () {
     var d = isFinite(audio.duration) && audio.duration ? audio.duration : 0;
@@ -166,6 +170,14 @@
         navigator.share({ title: text, text: text, url: url }).catch(function () {});
       });
     }
+    box.querySelectorAll('.share-b').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var net = b.classList.contains('share-copy') ? 'copy'
+          : b.classList.contains('share-native') ? 'native'
+          : /farcaster/i.test(b.getAttribute('aria-label') || '') ? 'farcaster' : 'x';
+        if (window.wtbsTrack) window.wtbsTrack('share', net);
+      });
+    });
   });
 
   // ARTICLE / RAW toggle

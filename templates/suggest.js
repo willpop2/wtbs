@@ -148,6 +148,7 @@
       if (!r.ok) throw new Error(r.status);
       status.className = "suggest-status ok";
       status.textContent = "Thank you! Your suggestion was submitted for review.";
+      if (window.wtbsTrack) window.wtbsTrack("suggest_submit", cfg.episode || "");
       setTimeout(close, 1800);
     }).catch(function () {
       status.className = "suggest-status err";
