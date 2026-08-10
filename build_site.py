@@ -573,7 +573,7 @@ def main() -> None:
 
     # --- cross-corpus mention search (numbered transcripts stay unpublished; only
     #     an artist/work -> episode index + short snippets are emitted) ---
-    entities, numbered = search_index.build_search()
+    entities, numbered = search_index.load_or_build()
     (SITE / "search.json").write_text(json.dumps({
         "e": entities,
         "it": {e["slug"]: e["display_title"] for e in episodes},   # interview titles

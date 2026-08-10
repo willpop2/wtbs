@@ -181,6 +181,29 @@ def build_search():
     return entities, numbered
 
 
+PREBUILT = ROOT / "search_prebuilt.json"
+
+
+def load_or_build():
+    """Return (entities, numbered) for build_site.py.
+
+    The numbered transcripts and episodes_metadata.csv are gitignored (the
+    numbered episodes stay unpublished), so build_search() can only run where
+    those sources exist — i.e. locally, not on the CI runner. Locally we rebuild
+    and refresh the committed artifact; in CI we load it. This is what lets the
+    site build in Actions without ever shipping the unpublished transcripts."""
+    have_sources = (NUM.exists() and any(NUM.glob("*.txt"))
+                    and (ROOT / "episodes_metadata.csv").exists())
+    if have_sources:
+        entities, numbered = build_search()
+        PREBUILT.write_text(
+            json.dumps({"entities": entities, "numbered": numbered}, ensure_ascii=False),
+            encoding="utf-8")
+        return entities, numbered
+    d = json.loads(PREBUILT.read_text(encoding="utf-8"))
+    return d["entities"], d["numbered"]
+
+
 if __name__ == "__main__":
     ents, num = build_search()
     (ROOT / "site").mkdir(exist_ok=True)
