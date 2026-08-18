@@ -22,6 +22,8 @@ em{font-style:italic}
 .nav .links a:hover{background:var(--k);color:var(--w)}
 .nav .sh{font-family:var(--mono);font-size:13px;text-transform:uppercase;padding:16px 18px;border-left:3px solid var(--k);background:var(--acid);border-top:none;border-right:none;border-bottom:none;cursor:pointer}
 .nav .sh:hover{background:var(--k);color:var(--acid)}
+.nav .links a.donate{background:var(--acid);color:var(--k);font-weight:700}
+.nav .links a.donate:hover{background:var(--k);color:var(--acid)}
 
 /* look switcher (injected by theme.js) */
 .lookswitch{position:relative;display:flex}
@@ -289,6 +291,7 @@ textarea:focus-visible,.chip:focus-visible,.r:focus-visible,.seg button:focus-vi
   .nav .b{font-size:13px}
   .nav .links a,.nav .sh{font-size:11px;padding:14px 12px}
   .nav .links a[href*="about"],.nav .links a[href^="http"]{display:none}
+  .nav .links a.donate{display:flex}   /* keep Donate visible on mobile despite the http-hide rule above */
   .look-btn{font-size:11px;padding:14px 12px}
 
   /* hero + stats + quote: stack */
