@@ -1,0 +1,503 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>gm</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #0b0c0e; overflow: hidden; }
+  canvas { display: block; }
+</style>
+</head>
+<body>
+<script src="corpus.js"></script>
+<script>
+/* "gm" — five years of a channel, replayed as liturgy.
+   Line density follows real monthly message volume; the greeting persists.
+
+   Deterministic: the hash fully determines the piece. Simulation runs on a
+   fixed timestep (frame rate never touches the PRNG) and composes in
+   normalized, aspect-agnostic coordinates (window size never touches the
+   PRNG). Same hash, same performance, on any machine at any size. */
+
+// ---- seed / PRNG ----
+const alphabet = "123456789abcdefghijkmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ";
+const qs = new URLSearchParams(location.search);
+const urlHash = qs.get("hash");
+const PAUSED = qs.has("paused");               // dev/capture: __sim drives
+const RECORD = qs.has("record");               // video capture: click starts a clean take
+const REC_MAX = parseFloat(qs.get("maxsec")) || 0;
+const hash = (urlHash && /^oo[1-9a-zA-Z]{20,60}$/.test(urlHash)) ? urlHash :
+  window.fxhash ||
+  "oo" + Array.from({length: 49}, () => alphabet[Math.random() * alphabet.length | 0]).join("");
+function sfc32(a, b, c, d) {
+  return () => {
+    a |= 0; b |= 0; c |= 0; d |= 0;
+    const t = (a + b | 0) + d | 0;
+    d = d + 1 | 0; a = b ^ b >>> 9; b = c + (c << 3) | 0;
+    c = c << 21 | c >>> 11; c = c + t | 0;
+    return (t >>> 0) / 4294967296;
+  };
+}
+const seed = [...hash].reduce((a, ch, i) => (a[i % 4] = (a[i % 4] << 5) - a[i % 4] + ch.charCodeAt(0) | 0, a), [0, 0, 0, 0]);
+const R = sfc32(...seed);
+const pickW = opts => {                        // weighted choice: [[value, weight], ...]
+  let r = R() * opts.reduce((a, o) => a + o[1], 0);
+  for (const [v, w] of opts) if ((r -= w) < 0) return v;
+  return opts[opts.length - 1][0];
+};
+
+// ---- features (the iteration's identity) ----
+const PALETTES = {
+  void:  {bg: "#0b0c0e", dim: "#585c66", ink: "#dcdde2", accent: "#7bd88f", chart: "#272a33"},
+  amber: {bg: "#0d0b07", dim: "#6b5d45", ink: "#eadfc9", accent: "#ffb454", chart: "#2b2517"},
+  tide:  {bg: "#070b0e", dim: "#4d6673", ink: "#d2e4eb", accent: "#78dce8", chart: "#152229"},
+  rose:  {bg: "#0e0a0c", dim: "#6d5560", ink: "#ead8e0", accent: "#ff9ac1", chart: "#291d23"},
+  paper: {bg: "#f1eee6", dim: "#a49d8d", ink: "#2b2822", accent: "#177a41", chart: "#ddd8cb"},
+};
+const F = {
+  composition: pickW([["columns", 4], ["river", 3], ["scatter", 3]]),
+  palette: pickW([["void", 3], ["amber", 2], ["tide", 2], ["rose", 2], ["paper", 1]]),
+  type: pickW([["mono", 5], ["serif", 5]]),
+  color: pickW([["mono", 3], ["duet", 3], ["chorus", 2], ["era", 2]]),
+};
+const P = PALETTES[F.palette];
+
+// hsl machinery for the color modes
+function hexToHsl(hex) {
+  const n = parseInt(hex.slice(1), 16);
+  const r = (n >> 16 & 255) / 255, g = (n >> 8 & 255) / 255, b = (n & 255) / 255;
+  const mx = Math.max(r, g, b), mn = Math.min(r, g, b), d = mx - mn;
+  let h = 0;
+  if (d) h = mx === r ? ((g - b) / d + 6) % 6 : mx === g ? (b - r) / d + 2 : (r - g) / d + 4;
+  const l = (mx + mn) / 2;
+  const sat = d ? d / (1 - Math.abs(2 * l - 1)) : 0;
+  return [h * 60, sat * 100, l * 100];
+}
+const hsl = ([h, s2, l], dh = 0) => `hsl(${(h + dh + 360) % 360} ${s2}% ${l}%)`;
+const DIM_H = hexToHsl(P.dim), INK_H = hexToHsl(P.ink), ACC_H = hexToHsl(P.accent);
+// duet: split-complement of the accent carries the high-reaction lines
+const ACCENT2 = hsl([(ACC_H[0] + 150) % 360, Math.max(ACC_H[1] * 0.8, 35),
+                     F.palette === "paper" ? 32 : Math.min(ACC_H[2] + 5, 80)]);
+// chorus: the crowd murmurs in nearby hues (a touch more saturation so it reads)
+const CHORUS_S = Math.max(DIM_H[1], F.palette === "paper" ? 24 : 30);
+// era: the years have colors — an absolute sunset-to-night path for the crowd,
+// golden boom through red dusk into blue-violet night, whatever the palette
+const eraHue = time => {
+  const p2 = Math.min(time / (months.length * MONTH_SECONDS), 1);
+  return (35 - p2 * 140 + 360) % 360;           // 35deg -> 255deg via red/violet
+};
+const FONT = F.type === "mono"
+  ? '"Courier New", Courier, monospace'
+  : "Georgia, 'Times New Roman', serif";
+const CHAR_W = F.type === "mono" ? 0.60 : 0.50;  // width/height estimate per char
+const ASPECT = 16 / 9;                           // reference aspect for layout math
+
+// columns mode: geometry fixed for the whole piece
+const NCOL = 3 + Math.floor(R() * 3);            // 3..5
+const COLS = Array.from({length: NCOL}, (_, i) => ({
+  x: 0.06 + (i + R() * 0.3) * (0.88 / NCOL),
+  speed: (0.55 + R() * 0.9),
+}));
+// river mode: one direction per piece
+const RIVER_DIR = R() < 0.5 ? 1 : -1;
+
+// ---- data ----
+const months = CORPUS.months;
+const byMonth = {};
+for (const l of CORPUS.lines) (byMonth[l.m] = byMonth[l.m] || []).push(l);
+// deal lines without replacement: hash-shuffled deck per month-neighborhood
+// (month ±1 merged, so peak months don't visibly recycle their pool)
+const ymList = [];
+const decks = {};
+function deal(ym) {
+  if (!ymList.length) ymList.push(...months.map(m => m.ym));
+  const i = ymList.indexOf(ym);
+  const pool = [].concat(byMonth[ymList[i - 1]] || [], byMonth[ym] || [],
+                         byMonth[ymList[i + 1]] || []);
+  if (!pool.length) return null;
+  let d = decks[ym];
+  if (!d || d.i >= d.order.length) {
+    const order = pool.map((_, i) => i);
+    for (let i = order.length - 1; i > 0; i--) {
+      const j = R() * (i + 1) | 0;
+      [order[i], order[j]] = [order[j], order[i]];
+    }
+    d = decks[ym] = {order, i: 0};
+  }
+  return pool[d.order[d.i++]];
+}
+const maxN = Math.max(...months.map(m => m.n));
+const LOG_MIN = Math.log10(500);               // months at/below this read as empty
+const LOG_SPAN = Math.log10(maxN) - LOG_MIN;
+
+// ---- timeline ----
+const DT = 1 / 60;                             // fixed simulation timestep
+const MONTH_SECONDS = 2.6;                     // 58 months ≈ 2.5 min loop
+const TAIL_SECONDS = 6;                        // silence, then one last gm
+const TOTAL = months.length * MONTH_SECONDS + TAIL_SECONDS;
+
+// ---- simulation state (normalized 0..1 coordinates; px only at draw) ----
+const live = [];
+let t = 0, spawnDebt = 0, lastGmT = -99, lastSparseNy = -1;
+window.__state = {spawned: 0, hash, features: F, live, time: () => t};
+// (audio features attach below once defined)
+
+function monthAt(time) {
+  const i = Math.min(months.length - 1, Math.floor(time / MONTH_SECONDS));
+  return {i, m: months[i]};
+}
+
+function density(n) {
+  return Math.min(1, Math.max(0.04, (Math.log10(Math.max(n, 10)) - LOG_MIN) / LOG_SPAN));
+}
+
+// estimated width of a line as a fraction of viewport width (reference aspect)
+function estW(text, sizeR) { return text.length * sizeR * CHAR_W / ASPECT; }
+
+function spawn(m) {
+  const crowd = density(m.n);
+  const isGm = R() < Math.min(0.35, 0.03 + (m.gm / Math.max(m.n, 1)) * 8);
+  let pick = isGm ? null : deal(m.ym);
+  if (pick && live.some(g => g.text === pick.t)) pick = deal(m.ym) || pick;
+  const text = isGm ? "gm" : pick ? pick.t : "gm";
+  let sizeR = (isGm ? 15 + (1 - crowd) * 46 : 11 + (1 - crowd) * 28) / 720;
+  // fit: shrink until the line fits the reference frame with margins
+  const maxW = 0.88;
+  if (estW(text, sizeR) > maxW) sizeR = maxW / (text.length * CHAR_W / ASPECT);
+
+  let nx, ny, nvx = 0, nvy = 0, col = -1, wob = 0;
+  if (F.composition === "columns") {
+    col = R() * NCOL | 0;
+    nx = COLS[col].x + (R() - 0.5) * 0.03;
+    ny = 0.12 + R() * 0.78;
+    nvy = -COLS[col].speed * (5 + crowd * 9) / 720;
+  } else if (F.composition === "river") {
+    nx = R() * (1 - Math.min(estW(text, sizeR), 0.8));
+    const band = 0.30 + crowd * 0.22;          // crowd widens the river
+    ny = 0.5 - band / 2 + ((R() + R()) / 2) * band;
+    nvx = RIVER_DIR * (3 + R() * 5) * (0.4 + crowd) / 1280;
+    wob = R() * Math.PI * 2;                   // deterministic wobble phase
+  } else {                                     // scatter on a loose baseline grid
+    const ROWS = 15;
+    ny = 0.14 + ((R() * ROWS | 0) / (ROWS - 1)) * 0.70;
+    nx = 0.05 + R() * (0.90 - Math.min(estW(text, sizeR), 0.85));
+    nvy = -(2 + R() * 5) * (0.4 + crowd) / 720;
+  }
+  // sparse eras: keep lonely lines from stacking on one another
+  if (crowd < 0.35 && Math.abs(ny - lastSparseNy) < 0.09) {
+    ny = 0.14 + R() * 0.72;
+  }
+  lastSparseNy = ny;
+
+  live.push({
+    text, gm: isGm || !pick, nx, ny, nvx, nvy, sizeR, wob,
+    hj: R() * 2 - 1,                           // hue jitter (chorus mode)
+    born: t,
+    life: isGm ? 4 + R() * 3 : 2.8 + (1 - crowd) * 6 + R() * 2,
+    dimA: 0.45 + R() * 0.3,                    // depth variation for crowd lines
+    rx: pick ? pick.rx : 0,
+  });
+  window.__state.spawned++;
+  if (!batchStepping) {
+    const g = live[live.length - 1];
+    if (g.gm) Sound.bell(crowd); else Sound.tick(crowd);
+  }
+  if (live.length > 260) live.splice(0, live.length - 260);
+}
+
+function step() {                               // one fixed DT step
+  t += DT;
+  if (t > TOTAL) { t = 0; live.length = 0; spawnDebt = 0; lastGmT = -99; }
+  const inTail = t > months.length * MONTH_SECONDS;
+  if (!inTail) {
+    const {m} = monthAt(t);
+    const d = density(m.n);
+    spawnDebt += (0.4 + d * d * d * 30) * DT;
+    while (spawnDebt >= 1) { spawnDebt -= 1; spawn(m); }
+  } else if (t - lastGmT > TAIL_SECONDS && live.length === 0) {
+    live.push({text: "gm", gm: true, nx: 0.5, ny: 0.5, nvx: 0, nvy: 0, sizeR: 54 / 720,
+               born: t, life: TAIL_SECONDS - 1, wob: 0, dimA: 1, rx: 0, center: true});
+    lastGmT = t;
+  }
+  for (let i = live.length - 1; i >= 0; i--) {
+    const g = live[i];
+    if (t - g.born > g.life) { live.splice(i, 1); continue; }
+    g.ny += g.nvy * DT; g.nx += g.nvx * DT;
+  }
+}
+
+// ---- sound (Web Audio; all randomness from R2 so visuals stay untouched) ----
+const seed2 = [...hash].reduce((a, ch, i) => (a[i % 4] = (a[i % 4] << 7) - a[i % 4] + ch.charCodeAt(0) + 7 | 0, a), [7, 77, 777, 7777]);
+const R2 = sfc32(...seed2);
+const ROOTS = [[110, "A"], [123.47, "B"], [98, "G"], [130.81, "C"]];
+const [ROOT, KEY] = ROOTS[R2() * ROOTS.length | 0];
+const PENTA = [1, 9 / 8, 5 / 4, 3 / 2, 5 / 3, 2, 5 / 2, 3];
+const pickW2 = opts => {
+  let r = R2() * opts.reduce((a, o) => a + o[1], 0);
+  for (const [v, w] of opts) if ((r -= w) < 0) return v;
+  return opts[opts.length - 1][0];
+};
+// audio features — the sound half of the iteration's identity
+const AF = {
+  key: KEY,
+  rain: pickW2([["ground", 3], ["high", 4], ["mist", 3]]),
+  echo: pickW2([["tight", 3], ["dotted", 4], ["wash", 3]]),
+  bell: pickW2([["pure", 4], ["glass", 3], ["reed", 3]]),
+};
+const ECHOES = {tight: [0.28, 0.28, 0.3], dotted: [0.42, 0.32, 0.35], wash: [0.6, 0.45, 0.45]};
+const BELLS = {
+  pure:  [[1, 1, "sine"], [2, 0.4, "sine"], [2.99, 0.18, "sine"]],
+  glass: [[1, 1, "sine"], [2.76, 0.3, "sine"], [5.4, 0.12, "sine"]],
+  reed:  [[1, 0.9, "triangle"], [3, 0.3, "sine"], [5, 0.12, "sine"]],
+};
+let batchStepping = false;
+window.__state.features = {...F, audio: AF};
+
+const Sound = {
+  on: false, ac: null, drone: null,
+  start() {
+    if (this.on) return;
+    const ac = this.ac = new (window.AudioContext || window.webkitAudioContext)();
+    const comp = ac.createDynamicsCompressor();
+    comp.threshold.value = -24; comp.ratio.value = 6;
+    this.master = ac.createGain(); this.master.gain.value = 0.85;
+    comp.connect(this.master).connect(ac.destination);
+    this.bus = comp;
+    // generated reverb impulse (2.4s decaying noise)
+    const len = ac.sampleRate * 2.4;
+    const ir = ac.createBuffer(2, len, ac.sampleRate);
+    for (let c = 0; c < 2; c++) {
+      const d = ir.getChannelData(c);
+      for (let i = 0; i < len; i++) d[i] = (R2() * 2 - 1) * Math.pow(1 - i / len, 2.6);
+    }
+    const verb = ac.createConvolver(); verb.buffer = ir;
+    this.verbSend = ac.createGain(); this.verbSend.gain.value = 0.5;
+    this.verbSend.connect(verb).connect(this.bus);
+    // shared echo (character is a feature)
+    const [eTime, eFb, eSend] = ECHOES[AF.echo];
+    const delay = ac.createDelay(1.0); delay.delayTime.value = eTime;
+    const fb = ac.createGain(); fb.gain.value = eFb;
+    delay.connect(fb).connect(delay);
+    this.echoSend = ac.createGain(); this.echoSend.gain.value = eSend;
+    this.echoSend.connect(delay); delay.connect(this.verbSend); delay.connect(this.bus);
+    // drone bed: root, fifth, major third, octave — gains follow the crowd
+    const mkLayer = (ratio, det) => {
+      const g = ac.createGain(); g.gain.value = 0;
+      const f = ac.createBiquadFilter(); f.type = "lowpass"; f.frequency.value = 800;
+      g.connect(f).connect(this.bus); f.connect(this.verbSend);
+      const oscs = [det, -det].map(d => {
+        const o = ac.createOscillator();
+        o.type = "triangle"; o.frequency.value = ROOT * ratio; o.detune.value = d;
+        o.connect(g); o.start();
+        return o;
+      });
+      return {g, f, oscs};
+    };
+    this.drone = {
+      root: mkLayer(1, 4), fifth: mkLayer(3 / 2, 3),
+      third: mkLayer(5 / 4, 5), oct: mkLayer(2, 6),
+    };
+    this.on = true;
+  },
+  updateDrone(crowd) {
+    if (!this.on) return;
+    const T = 0.6, now = this.ac.currentTime;
+    const set = (l, v, fq) => {
+      l.g.gain.setTargetAtTime(v, now, T);
+      l.f.frequency.setTargetAtTime(fq, now, T);
+    };
+    const bright = 500 + crowd * 2600;
+    set(this.drone.root, 0.05 + crowd * 0.05, bright);
+    set(this.drone.fifth, 0.02 + crowd * 0.05, bright);
+    // the major third is the optimism: gone once the room thins
+    set(this.drone.third, Math.max(0, crowd - 0.35) * 0.075, bright * 0.9);
+    set(this.drone.oct, Math.max(0, crowd - 0.5) * 0.05, bright * 1.2);
+  },
+  bell(crowd) {                                 // the gm motif
+    if (!this.on) return;
+    const ac = this.ac, now = ac.currentTime;
+    const deg = PENTA[R2() * 5 | 0] * (crowd > 0.5 ? 2 : 1);
+    const dur = 1.6 + (1 - crowd) * 3 + R2();
+    const g = ac.createGain();
+    g.gain.setValueAtTime(0, now);
+    g.gain.linearRampToValueAtTime(0.1 + (1 - crowd) * 0.06, now + 0.02);
+    g.gain.exponentialRampToValueAtTime(0.0004, now + dur);
+    g.connect(this.bus); g.connect(this.echoSend); g.connect(this.verbSend);
+    BELLS[AF.bell].forEach(([h, a, wave]) => {
+      const o = ac.createOscillator();
+      o.type = wave; o.frequency.value = ROOT * 2 * deg * h;
+      const hg = ac.createGain(); hg.gain.value = a;
+      o.connect(hg).connect(g);
+      o.start(now); o.stop(now + dur + 0.1);
+    });
+  },
+  tick(crowd) {                                 // one quiet blip per message
+    if (!this.on) return;
+    const ac = this.ac, now = ac.currentTime;
+    const o = ac.createOscillator();
+    o.type = "sine";
+    const reg = AF.rain === "ground" ? 2 : AF.rain === "high" ? 4 : (R2() < 0.5 ? 4 : 8);
+    o.frequency.value = ROOT * reg * PENTA[R2() * PENTA.length | 0] * (R2() < 0.5 ? 1 : 2);
+    const g = ac.createGain();
+    const base = AF.rain === "mist" ? 0.026 : AF.rain === "ground" ? 0.038 : 0.032;
+    g.gain.setValueAtTime(base + (1 - crowd) * 0.02, now);
+    g.gain.exponentialRampToValueAtTime(0.0004, now + 0.09 + R2() * 0.08);
+    const dry = ac.createGain();
+    dry.gain.value = AF.rain === "mist" ? 0.45 : 1;
+    o.connect(g); g.connect(dry).connect(this.bus);
+    const wet = ac.createGain();
+    wet.gain.value = AF.rain === "mist" ? 1.6 : AF.rain === "ground" ? 0.6 : 1;
+    g.connect(wet).connect(this.verbSend);
+    o.start(now); o.stop(now + 0.25);
+  },
+};
+
+// ---- canvas (pure view; owns no simulation state) ----
+const cv = document.createElement("canvas");
+document.body.appendChild(cv);
+const ctx = cv.getContext("2d");
+let W = 0, H = 0, DPR = 1;
+function resize() {
+  DPR = RECORD ? 1 : Math.min(devicePixelRatio || 1, 2);
+  W = innerWidth; H = innerHeight;
+  cv.width = Math.max(1, W * DPR); cv.height = Math.max(1, H * DPR);
+  cv.style.width = W + "px"; cv.style.height = H + "px";
+  ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+}
+addEventListener("resize", resize);
+resize();
+document.body.style.background = P.bg;
+
+const smooth = x => { x = Math.max(0, Math.min(1, x)); return x * x * (3 - 2 * x); };
+
+function draw() {
+  ctx.fillStyle = P.bg;
+  ctx.fillRect(0, 0, W, H);
+
+  const inTail = t > months.length * MONTH_SECONDS;
+  for (const g of live) {
+    const age = t - g.born;
+    const fade = smooth(Math.min(age / 0.9, (g.life - age) / 1.3));
+    let px = g.sizeR * H;
+    let x = g.nx * W;
+    // display fit: never clip on narrow windows (sim untouched)
+    ctx.font = `${g.gm ? "600" : "400"} ${Math.max(9, px)}px ${FONT}`;
+    const w = ctx.measureText(g.text).width;
+    if (!g.center && x + w > W * 0.97) {
+      // shrink toward the available space, then shift left for whatever remains
+      const availW = Math.max(40, W * 0.97 - x);
+      if (w > availW) {
+        px = Math.max(9, px * availW / w);
+        ctx.font = `${g.gm ? "600" : "400"} ${px}px ${FONT}`;
+      }
+      const w2 = ctx.measureText(g.text).width;
+      if (x + w2 > W * 0.97) x = Math.max(W * 0.02, W * 0.97 - w2);
+    }
+    const y = (g.ny + (g.wob ? Math.sin(age * 0.7 + g.wob) * 0.012 : 0)) * H;
+    ctx.textAlign = g.center ? "center" : "left";
+    let fill;
+    if (g.gm) fill = P.accent;                  // the greeting never changes color
+    else if (g.rx > 20)
+      fill = F.color === "duet" ? ACCENT2 : P.ink;
+    else
+      fill = F.color === "chorus" ? hsl([DIM_H[0], CHORUS_S, DIM_H[2]], g.hj * 40)
+           : F.color === "era" ? hsl([eraHue(t), 30, DIM_H[2]])
+           : P.dim;
+    ctx.fillStyle = fill;
+    ctx.globalAlpha = fade * (g.gm ? 0.95 : g.rx > 20 ? 0.9 : g.dimA);
+    ctx.fillText(g.text, x, y);
+  }
+  ctx.globalAlpha = 1;
+
+  // volume sparkline + playhead
+  const sy = H - 34, sw = Math.min(W - 80, 520), sx = (W - sw) / 2;
+  ctx.strokeStyle = P.chart; ctx.beginPath();
+  months.forEach((m, i) => {
+    const x = sx + (i / (months.length - 1)) * sw;
+    const y = sy - density(m.n) * 24;
+    i ? ctx.lineTo(x, y) : ctx.moveTo(x, y);
+  });
+  ctx.stroke();
+  const px = sx + Math.min(t / (months.length * MONTH_SECONDS), 1) * sw;
+  ctx.fillStyle = P.accent; ctx.fillRect(px - 1, sy - 26, 2, 30);
+  ctx.fillStyle = P.dim; ctx.font = `11px ${FONT}`; ctx.textAlign = "left";
+  const {m} = monthAt(Math.min(t, months.length * MONTH_SECONDS - 0.01));
+  ctx.fillText(inTail ? "" : m.ym, sx, H - 12);
+  ctx.textAlign = "right";
+  ctx.fillText(inTail ? "" : m.n.toLocaleString() + " messages", sx + sw, H - 12);
+  if (!Sound.on) {
+    ctx.textAlign = "right"; ctx.globalAlpha = 0.8;
+    ctx.fillText("♪ click for sound", W - 16, 22);
+    ctx.globalAlpha = 1;
+  }
+}
+
+// ---- clock: real time drives HOW MANY fixed steps run, never their content ----
+let rec = null, recWaiting = RECORD;           // recWaiting: armed, not yet started
+window.__rec = {state: RECORD ? "armed" : "off"};
+
+function startRecording() {
+  const stream = cv.captureStream(60);
+  const dest = Sound.ac.createMediaStreamDestination();
+  Sound.master.connect(dest);
+  stream.addTrack(dest.stream.getAudioTracks()[0]);
+  rec = new MediaRecorder(stream, {mimeType: "video/webm;codecs=vp9,opus",
+                                   videoBitsPerSecond: 5e6, audioBitsPerSecond: 192e3});
+  const chunks = [];
+  rec.ondataavailable = e => e.data.size && chunks.push(e.data);
+  rec.onstop = async () => {
+    window.__rec.state = "uploading";
+    const blob = new Blob(chunks, {type: "video/webm"});
+    const name = "gm-" + hash.slice(2, 10) + ".webm";
+    try {
+      const r = await fetch("/upload?name=" + name, {method: "POST", body: blob});
+      window.__rec.state = r.ok ? "saved:" + name + ":" + blob.size : "upload-failed";
+    } catch (e) { window.__rec.state = "upload-failed"; }
+  };
+  // clean take: reset the deterministic clock to zero
+  t = 0; live.length = 0; spawnDebt = 0; lastGmT = -99;
+  recWaiting = false;
+  window.__rec.state = "recording";
+  rec.start(1000);
+}
+
+let acc = 0, last = performance.now(), recTailUntil = 0;
+function frame(now) {
+  acc += Math.min(0.25, (now - last) / 1000);
+  last = now;
+  const halted = PAUSED || recWaiting;
+  const tPrev = t;
+  if (!halted) while (acc >= DT) { acc -= DT; step(); }
+  if (rec && rec.state === "recording") {
+    const looped = t < tPrev;                  // full loop completed
+    const capped = REC_MAX && t >= REC_MAX;
+    if ((looped || capped) && !recTailUntil) recTailUntil = now + 2000; // let reverb ring out
+    if (recTailUntil && now >= recTailUntil) rec.stop();
+  }
+  const inTail = t > months.length * MONTH_SECONDS;
+  Sound.updateDrone(inTail ? 0 : density(monthAt(t).m.n));
+  draw();
+  requestAnimationFrame(frame);
+}
+requestAnimationFrame(frame);
+
+// first click starts sound; later clicks fast-forward one year through the
+// same deterministic sequence (event sounds suppressed while batch-stepping)
+addEventListener("pointerdown", () => {
+  if (!Sound.on) { Sound.start(); if (recWaiting) startRecording(); return; }
+  batchStepping = true;
+  const steps = Math.round(12 * MONTH_SECONDS / DT);
+  for (let i = 0; i < steps && t < TOTAL - 0.1; i++) step();
+  batchStepping = false;
+});
+window.__sim = secs => {                        // dev hook stays silent too
+  batchStepping = true;
+  const n = Math.round(secs / DT);
+  for (let i = 0; i < n; i++) step();
+  batchStepping = false;
+};
+</script>
+</body>
+</html>
