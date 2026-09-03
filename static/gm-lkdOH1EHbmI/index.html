@@ -62,6 +62,25 @@ const F = {
   type: pickW([["mono", 5], ["serif", 5]]),
   color: pickW([["mono", 3], ["duet", 3], ["chorus", 2], ["era", 2]]),
 };
+// trait locks from the URL (?lock=composition:river,palette:tide,...)
+// identity = (hash, locks); still fully deterministic and shareable
+const TRAIT_VALUES = {
+  composition: ["columns", "river", "scatter"],
+  palette: ["void", "amber", "tide", "rose", "paper"],
+  type: ["mono", "serif"],
+  color: ["mono", "duet", "chorus", "era"],
+  key: ["A", "B", "G", "C"],
+  rain: ["ground", "high", "mist"],
+  echo: ["tight", "dotted", "wash"],
+  bell: ["pure", "glass", "reed"],
+};
+const LOCKS = {};
+(qs.get("lock") || "").split(",").filter(Boolean).forEach(kv => {
+  const [k, v] = kv.split(":");
+  if (TRAIT_VALUES[k] && TRAIT_VALUES[k].includes(v)) LOCKS[k] = v;
+});
+for (const k of ["composition", "palette", "type", "color"])
+  if (LOCKS[k]) F[k] = LOCKS[k];
 const P = PALETTES[F.palette];
 
 // hsl machinery for the color modes
@@ -175,7 +194,7 @@ function spawn(m) {
     nvy = -COLS[col].speed * (5 + crowd * 9) / 720;
   } else if (F.composition === "river") {
     nx = R() * (1 - Math.min(estW(text, sizeR), 0.8));
-    const band = 0.30 + crowd * 0.22;          // crowd widens the river
+    const band = 0.44 + crowd * 0.26;          // crowd widens the river
     ny = 0.5 - band / 2 + ((R() + R()) / 2) * band;
     nvx = RIVER_DIR * (3 + R() * 5) * (0.4 + crowd) / 1280;
     wob = R() * Math.PI * 2;                   // deterministic wobble phase
@@ -232,7 +251,8 @@ function step() {                               // one fixed DT step
 const seed2 = [...hash].reduce((a, ch, i) => (a[i % 4] = (a[i % 4] << 7) - a[i % 4] + ch.charCodeAt(0) + 7 | 0, a), [7, 77, 777, 7777]);
 const R2 = sfc32(...seed2);
 const ROOTS = [[110, "A"], [123.47, "B"], [98, "G"], [130.81, "C"]];
-const [ROOT, KEY] = ROOTS[R2() * ROOTS.length | 0];
+let [ROOT, KEY] = ROOTS[R2() * ROOTS.length | 0];
+if (LOCKS.key) [ROOT, KEY] = ROOTS.find(r => r[1] === LOCKS.key);
 const PENTA = [1, 9 / 8, 5 / 4, 3 / 2, 5 / 3, 2, 5 / 2, 3];
 const pickW2 = opts => {
   let r = R2() * opts.reduce((a, o) => a + o[1], 0);
@@ -246,6 +266,7 @@ const AF = {
   echo: pickW2([["tight", 3], ["dotted", 4], ["wash", 3]]),
   bell: pickW2([["pure", 4], ["glass", 3], ["reed", 3]]),
 };
+for (const k of ["rain", "echo", "bell"]) if (LOCKS[k]) AF[k] = LOCKS[k];
 const ECHOES = {tight: [0.28, 0.28, 0.3], dotted: [0.42, 0.32, 0.35], wash: [0.6, 0.45, 0.45]};
 const BELLS = {
   pure:  [[1, 1, "sine"], [2, 0.4, "sine"], [2.99, 0.18, "sine"]],
@@ -513,6 +534,59 @@ window.__sim = secs => {                        // dev hook stays silent too
   for (let i = 0; i < n; i++) step();
   batchStepping = false;
 };
+
+// ---- testing toolbar: toggle and lock traits (hidden in record mode) ----
+if (!RECORD) {
+  const bar = document.createElement("div");
+  bar.style.cssText = "position:fixed;left:0;right:0;bottom:0;display:flex;gap:6px;" +
+    "align-items:center;justify-content:center;flex-wrap:wrap;padding:6px 8px;" +
+    "background:rgba(10,10,14,.72);backdrop-filter:blur(6px);z-index:9;" +
+    "font:11px monospace;color:#aaa";
+  const current = {...F, ...AF};
+  const selects = {};
+  for (const [k, vals] of Object.entries(TRAIT_VALUES)) {
+    const sel = document.createElement("select");
+    sel.style.cssText = "background:#17181d;color:#ccc;border:1px solid #33363f;" +
+      "border-radius:5px;padding:2px 4px;font:11px monospace";
+    const auto = document.createElement("option");
+    auto.value = "";
+    auto.textContent = k + ": " + current[k];
+    sel.appendChild(auto);
+    for (const v of vals) {
+      const o = document.createElement("option");
+      o.value = v;
+      o.textContent = "🔒 " + k + ": " + v;
+      sel.appendChild(o);
+    }
+    if (LOCKS[k]) sel.value = LOCKS[k];
+    sel.onchange = () => go(hash);
+    selects[k] = sel;
+    bar.appendChild(sel);
+  }
+  const lockStr = () => Object.entries(selects)
+    .filter(([, sel]) => sel.value)
+    .map(([k, sel]) => k + ":" + sel.value).join(",");
+  const go = h => {
+    const l = lockStr();
+    location.href = "?hash=" + h + (l ? "&lock=" + l : "");
+  };
+  const btn = document.createElement("button");
+  btn.textContent = "new draw →";
+  btn.style.cssText = "background:#1e2027;color:#ddd;border:1px solid #33363f;" +
+    "border-radius:5px;padding:2px 10px;font:11px monospace;cursor:pointer";
+  btn.onclick = e => {
+    e.stopPropagation();
+    go("oo" + Array.from({length: 49}, () => alphabet[Math.random() * alphabet.length | 0]).join(""));
+  };
+  bar.appendChild(btn);
+  const hide = document.createElement("button");
+  hide.textContent = "✕";
+  hide.style.cssText = btn.style.cssText;
+  hide.onclick = e => { e.stopPropagation(); bar.style.display = "none"; };
+  bar.appendChild(hide);
+  bar.addEventListener("pointerdown", e => e.stopPropagation()); // don't toggle sound
+  document.body.appendChild(bar);
+}
 </script>
 </body>
 </html>
