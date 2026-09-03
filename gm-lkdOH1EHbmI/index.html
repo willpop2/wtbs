@@ -316,7 +316,7 @@ const Sound = {
     set(this.drone.oct, Math.max(0, crowd - 0.5) * 0.05, bright * 1.2);
   },
   bell(crowd) {                                 // the gm motif
-    if (!this.on) return;
+    if (!this.on || this.ac.state !== "running") return;
     const ac = this.ac, now = ac.currentTime;
     const deg = PENTA[R2() * 5 | 0] * (crowd > 0.5 ? 2 : 1);
     const dur = 1.6 + (1 - crowd) * 3 + R2();
@@ -334,7 +334,7 @@ const Sound = {
     });
   },
   tick(crowd) {                                 // one quiet blip per message
-    if (!this.on) return;
+    if (!this.on || this.ac.state !== "running") return;
     const ac = this.ac, now = ac.currentTime;
     const o = ac.createOscillator();
     o.type = "sine";
@@ -427,7 +427,7 @@ function draw() {
   ctx.fillText(inTail ? "" : m.ym, sx, H - 12);
   ctx.textAlign = "right";
   ctx.fillText(inTail ? "" : m.n.toLocaleString() + " messages", sx + sw, H - 12);
-  if (!Sound.on) {
+  if (!Sound.on || Sound.ac.state !== "running") {
     ctx.textAlign = "right"; ctx.globalAlpha = 0.8;
     ctx.fillText("♪ click for sound", W - 16, 22);
     ctx.globalAlpha = 1;
@@ -483,14 +483,22 @@ function frame(now) {
 }
 requestAnimationFrame(frame);
 
-// first click starts sound; later clicks fast-forward one year through the
-// same deterministic sequence (event sounds suppressed while batch-stepping)
+// sound wants to be on from the start; the browser may hold it until a
+// gesture. Clicks toggle sound on/off (and start a take in record mode).
+if (!RECORD) {
+  Sound.start();
+  Sound.ac.resume().catch(() => {});
+}
 addEventListener("pointerdown", () => {
-  if (!Sound.on) { Sound.start(); if (recWaiting) startRecording(); return; }
-  batchStepping = true;
-  const steps = Math.round(12 * MONTH_SECONDS / DT);
-  for (let i = 0; i < steps && t < TOTAL - 0.1; i++) step();
-  batchStepping = false;
+  if (!Sound.on) {
+    Sound.start();
+    Sound.ac.resume().catch(() => {});
+    if (recWaiting) startRecording();
+    return;
+  }
+  if (rec && rec.state === "recording") return; // never disturb a take
+  if (Sound.ac.state === "running") Sound.ac.suspend();
+  else Sound.ac.resume().catch(() => {});
 });
 window.__sim = secs => {                        // dev hook stays silent too
   batchStepping = true;
