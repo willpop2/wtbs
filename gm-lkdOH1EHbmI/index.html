@@ -412,7 +412,7 @@ function draw() {
   ctx.globalAlpha = 1;
 
   // volume sparkline + playhead
-  const sy = H - 34, sw = Math.min(W - 80, 520), sx = (W - sw) / 2;
+  const sy = H - 46, sw = Math.min(W - 80, 520), sx = (W - sw) / 2;
   ctx.strokeStyle = P.chart; ctx.beginPath();
   months.forEach((m, i) => {
     const x = sx + (i / (months.length - 1)) * sw;
@@ -424,9 +424,16 @@ function draw() {
   ctx.fillStyle = P.accent; ctx.fillRect(px - 1, sy - 26, 2, 30);
   ctx.fillStyle = P.dim; ctx.font = `11px ${FONT}`; ctx.textAlign = "left";
   const {m} = monthAt(Math.min(t, months.length * MONTH_SECONDS - 0.01));
-  ctx.fillText(inTail ? "" : m.ym, sx, H - 12);
+  ctx.fillText(inTail ? "" : m.ym, sx, H - 26);
   ctx.textAlign = "right";
-  ctx.fillText(inTail ? "" : m.n.toLocaleString() + " messages", sx + sw, H - 12);
+  ctx.fillText(inTail ? "" : m.n.toLocaleString() + " messages", sx + sw, H - 26);
+  // trait line: the iteration's identity, for reference and feedback
+  ctx.textAlign = "center"; ctx.font = `10px ${FONT}`; ctx.globalAlpha = 0.65;
+  ctx.fillText(
+    `${F.composition} · ${F.palette} · ${F.type} · ${F.color}   —   ` +
+    `${AF.key} · ${AF.rain} rain · ${AF.echo} echo · ${AF.bell} bell   #${hash.slice(2, 10)}`,
+    W / 2, H - 10);
+  ctx.globalAlpha = 1;
   if (!Sound.on || Sound.ac.state !== "running") {
     ctx.textAlign = "right"; ctx.globalAlpha = 0.8;
     ctx.fillText("♪ click for sound", W - 16, 22);
